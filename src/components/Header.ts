@@ -26,7 +26,7 @@ export function renderHeader(activePage: string): string {
         <!-- Logo -->
         <a href="${href({ name: 'home' })}" class="flex items-center">
           <img
-            src="${base}logo.jpeg"
+            src="${base}logo.jpg"
             alt="Coin Grade"
             class="h-10 w-auto"
             onerror="this.style.display='none'; this.nextElementSibling.style.display='flex'"
