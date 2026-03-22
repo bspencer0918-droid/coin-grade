@@ -77,7 +77,7 @@ def raw_to_sale(raw: RawListing, usd_rate_fn=to_usd) -> Sale | None:
     # Stable ID: hash of source + lot_url
     sale_id = f"{raw.source.value}-{hashlib.md5(raw.lot_url.encode()).hexdigest()[:12]}"
 
-    return Sale(
+    sale = Sale(
         id=sale_id,
         source=raw.source,
         lot_url=raw.lot_url,
@@ -91,7 +91,8 @@ def raw_to_sale(raw: RawListing, usd_rate_fn=to_usd) -> Sale | None:
         image_url=raw.image_url,
         ngc=ngc,
         metadata=SaleMetadata(),
-    ), classification
+    )
+    return sale, classification
 
 
 def run_scrapers() -> tuple[list[tuple[Sale, dict]], dict[Source, SourceStatus]]:

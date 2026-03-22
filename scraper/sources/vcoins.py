@@ -1,11 +1,12 @@
 """
 VCoins scraper — fixed-price dealer marketplace.
 
-VCoins doesn't show realized auction prices; instead we record the asking price
-as a reference. The `is_auction` flag is set to False for these listings.
+VCoins blocks simple HTTP requests (403). We use Playwright to render the page.
+is_auction = False since these are fixed dealer prices, not realized auction prices.
 """
 from __future__ import annotations
 
+import asyncio
 import logging
 import re
 from datetime import date
@@ -29,24 +30,24 @@ class VCoinsScraper(BaseScraper):
 
     def scrape(self, max_pages: int = MAX_PAGES["vcoins"]) -> Iterator[RawListing]:
         today = date.today()
-
         for page_num in range(1, max_pages + 1):
-            params = {
-                "type":     "1",
-                "cat":      "0",
-                "keywords": "NGC ancient",
-                "page":     str(page_num),
-            }
+            params = {"type": "1", "cat": "0", "keywords": "NGC ancient", "page": str(page_num)}
             url = f"{SEARCH_URL}?{urlencode(params)}"
-            logger.info(f"[VCoins] Fetching page {page_num}: {url}")
+            logger.info(f"[VCoins] Fetching page {page_num} via Playwright")
             try:
-                resp = self.fetch(url)
-                soup = BeautifulSoup(resp.text, "lxml")
+                html = asyncio.run(self.fetch_with_browser(url, wait_selector=".search-results, .item, body"))
             except Exception as e:
-                logger.error(f"[VCoins] Page {page_num} failed: {e}")
+                logger.error(f"[VCoins] Playwright fetch failed page {page_num}: {e}")
                 break
 
-            items = soup.select("div.item, li.item, div.coin-listing")
+            soup = BeautifulSoup(html, "lxml")
+
+            # VCoins search results — try multiple possible selectors
+            items = (soup.select(".search-results .item") or
+                     soup.select("div[class*='item']") or
+                     soup.select("li[class*='item']") or
+                     soup.select(".product"))
+
             if not items:
                 logger.info(f"[VCoins] No items on page {page_num}")
                 break
@@ -57,29 +58,37 @@ class VCoinsScraper(BaseScraper):
                 if listing:
                     yield listing
                     yielded += 1
+
             logger.info(f"[VCoins] Page {page_num}: {yielded} listings")
-            if yielded < 5:
+            if yielded < 3:
                 break
 
     def _parse_item(self, item, today: date) -> RawListing | None:
         try:
-            title_el = item.select_one("a.item-title, .title a, h3 a, h4 a")
+            # Title / link
+            title_el = (item.select_one("a[class*='title']") or
+                        item.select_one("h2 a") or item.select_one("h3 a") or
+                        item.select_one("a"))
             if not title_el:
                 return None
-            title = title_el.get_text(strip=True)
-            href  = title_el.get("href", "")
-            lot_url = urljoin(BASE_URL, href) if href else ""
+            title   = title_el.get_text(strip=True)
+            href    = title_el.get("href", "")
+            lot_url = urljoin(BASE_URL, href) if href else BASE_URL
 
-            price_el = item.select_one(".price, .item-price, span[class*='price']")
+            # Price
+            price_el  = (item.select_one("[class*='price']") or
+                         item.select_one("span[class*='amount']"))
             price_text = price_el.get_text(strip=True) if price_el else ""
-            currency = "USD" if "$" in price_text else "EUR" if "€" in price_text else "GBP" if "£" in price_text else "USD"
+            currency  = "USD" if "$" in price_text else "EUR" if "€" in price_text else "GBP" if "£" in price_text else "USD"
             m = re.search(r"[\d,]+(?:\.\d{2})?", price_text.replace(",", ""))
             price = float(m.group().replace(",", "")) if m else None
 
-            desc_el = item.select_one(".description, p.desc, .item-desc")
+            # Description
+            desc_el = (item.select_one("[class*='desc']") or item.select_one("p"))
             description = desc_el.get_text(separator=" ", strip=True) if desc_el else ""
 
-            img_el = item.select_one("img")
+            # Image
+            img_el    = item.select_one("img")
             image_url = img_el.get("src") or img_el.get("data-src") if img_el else None
             if image_url and not image_url.startswith("http"):
                 image_url = urljoin(BASE_URL, image_url)
@@ -89,8 +98,8 @@ class VCoinsScraper(BaseScraper):
                 description=description,
                 price=price,
                 currency=currency,
-                sale_date=today,   # fixed-price; use today as reference date
-                lot_url=lot_url or BASE_URL,
+                sale_date=today,
+                lot_url=lot_url,
                 image_url=image_url,
                 source=Source.VCOINS,
                 raw_cert_text=f"{title} {description}",
