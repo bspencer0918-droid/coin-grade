@@ -1,0 +1,64 @@
+name: Daily Scrape
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # 6:00 AM UTC daily
+  workflow_dispatch:        # Allow manual trigger
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+          cache-dependency-path: scraper/requirements.txt
+
+      - name: Install Python dependencies
+        run: pip install -r scraper/requirements.txt
+
+      - name: Install Playwright browsers
+        run: playwright install chromium --with-deps
+
+      - name: Run scraper pipeline
+        env:
+          EBAY_APP_ID:           ${{ secrets.EBAY_APP_ID }}
+          EBAY_CERT_ID:          ${{ secrets.EBAY_CERT_ID }}
+          EBAY_DEV_ID:           ${{ secrets.EBAY_DEV_ID }}
+          EXCHANGE_RATE_API_KEY: ${{ secrets.EXCHANGE_RATE_API_KEY }}
+        run: python -m scraper.pipeline
+
+      - name: Commit updated data files
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No data changes to commit"
+          else
+            git commit -m "chore: daily price update $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Notify on failure
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const today = new Date().toISOString().split('T')[0];
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo:  context.repo.repo,
+              title: `[Scrape Failure] ${today}`,
+              body:  `The daily scrape workflow failed on ${today}.\n\nSee: ${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`,
+              labels: ['scrape-failure'],
+            });

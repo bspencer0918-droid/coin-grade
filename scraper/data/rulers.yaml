@@ -1,0 +1,301 @@
+# Ruler keyword lookup table for coin classification.
+# Format: each entry has a name, slug, optional dynasty, and keywords list.
+# Keywords are matched case-insensitively against listing text.
+# Add new rulers as pull requests — no code changes needed.
+
+roman:
+  # Republic
+  - name: "Julius Caesar"
+    slug: "julius-caesar"
+    dynasty: "Roman Republic"
+    keywords: ["caesar", "julius caesar", "c. julius caesar"]
+  - name: "Mark Antony"
+    slug: "mark-antony"
+    dynasty: "Roman Republic"
+    keywords: ["mark antony", "m. antony", "m antony", "antonius", "legionary denarius"]
+
+  # Julio-Claudian dynasty
+  - name: "Augustus"
+    slug: "augustus"
+    dynasty: "Julio-Claudian"
+    keywords: ["augustus", "avg", "avgvstvs", "octavian", "octavianus"]
+  - name: "Tiberius"
+    slug: "tiberius"
+    dynasty: "Julio-Claudian"
+    keywords: ["tiberius", "tiberivm", "tib caesar"]
+  - name: "Caligula"
+    slug: "caligula"
+    dynasty: "Julio-Claudian"
+    keywords: ["caligula", "gaius caesar"]
+  - name: "Claudius"
+    slug: "claudius"
+    dynasty: "Julio-Claudian"
+    keywords: ["claudius", "clavdivs", "ti claudius"]
+  - name: "Nero"
+    slug: "nero"
+    dynasty: "Julio-Claudian"
+    keywords: ["nero", "neroni", "nero caesar"]
+
+  # Year of the Four Emperors
+  - name: "Galba"
+    slug: "galba"
+    dynasty: "Year of Four Emperors"
+    keywords: ["galba", "ser galba"]
+  - name: "Otho"
+    slug: "otho"
+    dynasty: "Year of Four Emperors"
+    keywords: ["otho", "m otho"]
+  - name: "Vitellius"
+    slug: "vitellius"
+    dynasty: "Year of Four Emperors"
+    keywords: ["vitellius", "a vitellius"]
+
+  # Flavian dynasty
+  - name: "Vespasian"
+    slug: "vespasian"
+    dynasty: "Flavian"
+    keywords: ["vespasian", "vespasianvs", "t flavivs vespasianvs"]
+  - name: "Titus"
+    slug: "titus"
+    dynasty: "Flavian"
+    keywords: ["titus", "t vespasianvs", "titvm", "imp titvs"]
+  - name: "Domitian"
+    slug: "domitian"
+    dynasty: "Flavian"
+    keywords: ["domitian", "domitianvs", "domitianvm"]
+
+  # Nerva-Antonine dynasty
+  - name: "Nerva"
+    slug: "nerva"
+    dynasty: "Nerva-Antonine"
+    keywords: ["nerva", "nerva caes", "imp nerva"]
+  - name: "Trajan"
+    slug: "trajan"
+    dynasty: "Nerva-Antonine"
+    keywords: ["trajan", "traianvs", "imp traian", "ulp traian"]
+  - name: "Hadrian"
+    slug: "hadrian"
+    dynasty: "Nerva-Antonine"
+    keywords: ["hadrian", "hadrianvs", "imp hadrianvs", "p ael hadrian"]
+  - name: "Antoninus Pius"
+    slug: "antoninus-pius"
+    dynasty: "Nerva-Antonine"
+    keywords: ["antoninus pius", "antoninvs pivs", "ant pivs"]
+  - name: "Marcus Aurelius"
+    slug: "marcus-aurelius"
+    dynasty: "Nerva-Antonine"
+    keywords: ["marcus aurelius", "m avrelivs", "m aurelius", "marc aurel"]
+  - name: "Lucius Verus"
+    slug: "lucius-verus"
+    dynasty: "Nerva-Antonine"
+    keywords: ["lucius verus", "l vervs", "l verus"]
+  - name: "Commodus"
+    slug: "commodus"
+    dynasty: "Nerva-Antonine"
+    keywords: ["commodus", "commodvs", "m avr commodvs"]
+
+  # Severan dynasty
+  - name: "Septimius Severus"
+    slug: "septimius-severus"
+    dynasty: "Severan"
+    keywords: ["septimius severus", "sept sev", "l sept sev", "severvs"]
+  - name: "Caracalla"
+    slug: "caracalla"
+    dynasty: "Severan"
+    keywords: ["caracalla", "carac", "m avr antoninvs", "antoninus caracalla"]
+  - name: "Geta"
+    slug: "geta"
+    dynasty: "Severan"
+    keywords: ["geta", "p sept geta"]
+  - name: "Elagabalus"
+    slug: "elagabalus"
+    dynasty: "Severan"
+    keywords: ["elagabalus", "elagabalvs", "elagab", "heliogabalus"]
+  - name: "Severus Alexander"
+    slug: "severus-alexander"
+    dynasty: "Severan"
+    keywords: ["severus alexander", "sev alexander", "m avr sev alexand"]
+  - name: "Julia Domna"
+    slug: "julia-domna"
+    dynasty: "Severan"
+    keywords: ["julia domna", "ivl domna", "ivlia domna"]
+  - name: "Julia Maesa"
+    slug: "julia-maesa"
+    dynasty: "Severan"
+    keywords: ["julia maesa", "ivl maesa"]
+
+  # Crisis of the Third Century
+  - name: "Maximinus I"
+    slug: "maximinus-i"
+    dynasty: "Crisis of the Third Century"
+    keywords: ["maximinus i", "maximinvs", "c ivl ver maximinvs"]
+  - name: "Gordian III"
+    slug: "gordian-iii"
+    dynasty: "Crisis of the Third Century"
+    keywords: ["gordian iii", "gordianvs", "imp gordianvs"]
+  - name: "Philip I"
+    slug: "philip-i"
+    dynasty: "Crisis of the Third Century"
+    keywords: ["philip i", "philip the arab", "m ivl philippvs", "philippvs"]
+  - name: "Decius"
+    slug: "decius"
+    dynasty: "Crisis of the Third Century"
+    keywords: ["decius", "traianvs decivs", "trajan decius"]
+  - name: "Gallienus"
+    slug: "gallienus"
+    dynasty: "Crisis of the Third Century"
+    keywords: ["gallienus", "gallienvm", "imp gallienvs"]
+  - name: "Claudius II"
+    slug: "claudius-ii"
+    dynasty: "Crisis of the Third Century"
+    keywords: ["claudius ii", "claudius gothicus", "claud gothicvs"]
+  - name: "Aurelian"
+    slug: "aurelian"
+    dynasty: "Crisis of the Third Century"
+    keywords: ["aurelian", "aurelianvs", "imp aurelianvs"]
+
+  # Tetrarchy & Constantine
+  - name: "Diocletian"
+    slug: "diocletian"
+    dynasty: "Tetrarchy"
+    keywords: ["diocletian", "diocletianvs", "imp diocletianvs"]
+  - name: "Maximian"
+    slug: "maximian"
+    dynasty: "Tetrarchy"
+    keywords: ["maximian", "maximianvs", "herculivs"]
+  - name: "Constantine I"
+    slug: "constantine-i"
+    dynasty: "Constantinian"
+    keywords: ["constantine i", "constantine the great", "constantinvs", "imp constantinvs"]
+  - name: "Constantine II"
+    slug: "constantine-ii"
+    dynasty: "Constantinian"
+    keywords: ["constantine ii", "fl cl constantinvs"]
+  - name: "Constantius II"
+    slug: "constantius-ii"
+    dynasty: "Constantinian"
+    keywords: ["constantius ii", "constantivs ii", "fl ivl constantivs"]
+  - name: "Julian II"
+    slug: "julian-ii"
+    dynasty: "Constantinian"
+    keywords: ["julian ii", "julian the apostate", "fl cl ivlianvs"]
+
+  # Late Empire
+  - name: "Valentinian I"
+    slug: "valentinian-i"
+    dynasty: "Valentinian"
+    keywords: ["valentinian i", "valentinianvs", "d n valentinianvs"]
+  - name: "Valens"
+    slug: "valens"
+    dynasty: "Valentinian"
+    keywords: ["valens", "d n valens"]
+  - name: "Theodosius I"
+    slug: "theodosius-i"
+    dynasty: "Theodosian"
+    keywords: ["theodosius i", "theodosius the great", "d n theodosivs"]
+  - name: "Honorius"
+    slug: "honorius"
+    dynasty: "Theodosian"
+    keywords: ["honorius", "honori", "d n honorivs"]
+
+greek:
+  - name: "Athens"
+    slug: "athens"
+    dynasty: "City-State"
+    keywords: ["athens", "attica", "athenian", "athena", "athen"]
+  - name: "Corinth"
+    slug: "corinth"
+    dynasty: "City-State"
+    keywords: ["corinth", "corinthian"]
+  - name: "Alexander III"
+    slug: "alexander-iii"
+    dynasty: "Macedonian"
+    keywords: ["alexander iii", "alexander the great", "alexandros", "alexander"]
+  - name: "Philip II"
+    slug: "philip-ii"
+    dynasty: "Macedonian"
+    keywords: ["philip ii", "philippos", "macedon philip"]
+  - name: "Ptolemy I"
+    slug: "ptolemy-i"
+    dynasty: "Ptolemaic"
+    keywords: ["ptolemy i", "ptolemaios i", "soter"]
+  - name: "Ptolemy II"
+    slug: "ptolemy-ii"
+    dynasty: "Ptolemaic"
+    keywords: ["ptolemy ii", "ptolemaios ii", "philadelphos"]
+  - name: "Syracuse"
+    slug: "syracuse"
+    dynasty: "City-State"
+    keywords: ["syracuse", "syracusae", "sicily syracuse"]
+  - name: "Rhodes"
+    slug: "rhodes"
+    dynasty: "City-State"
+    keywords: ["rhodes", "rhodos", "rhodian"]
+
+byzantine:
+  - name: "Justinian I"
+    slug: "justinian-i"
+    dynasty: "Justinian"
+    keywords: ["justinian i", "justinian the great", "iustinianvs"]
+  - name: "Maurice Tiberius"
+    slug: "maurice-tiberius"
+    dynasty: "Justinian"
+    keywords: ["maurice tiberius", "mavrikios"]
+  - name: "Heraclius"
+    slug: "heraclius"
+    dynasty: "Heraclian"
+    keywords: ["heraclius", "herakleios"]
+  - name: "Constantine IV"
+    slug: "constantine-iv"
+    dynasty: "Heraclian"
+    keywords: ["constantine iv", "pogonatos"]
+  - name: "Basil II"
+    slug: "basil-ii"
+    dynasty: "Macedonian"
+    keywords: ["basil ii", "basil the bulgar slayer", "basileos ii"]
+  - name: "Romanus IV"
+    slug: "romanus-iv"
+    dynasty: "Doukid"
+    keywords: ["romanus iv", "romanos iv", "diogenes"]
+  - name: "Alexios I"
+    slug: "alexios-i"
+    dynasty: "Komnenian"
+    keywords: ["alexios i", "alexius i", "komnenos"]
+
+persian:
+  - name: "Darius I"
+    slug: "darius-i"
+    dynasty: "Achaemenid"
+    keywords: ["darius i", "darius the great", "darayavaush"]
+  - name: "Xerxes I"
+    slug: "xerxes-i"
+    dynasty: "Achaemenid"
+    keywords: ["xerxes i", "xerxes the great"]
+  - name: "Artaxerxes II"
+    slug: "artaxerxes-ii"
+    dynasty: "Achaemenid"
+    keywords: ["artaxerxes ii", "artaxerxes"]
+  - name: "Sigloi / Daric (generic)"
+    slug: "achaemenid-generic"
+    dynasty: "Achaemenid"
+    keywords: ["sigloi", "siglos", "daric", "achaemenid"]
+
+celtic:
+  - name: "Gaulish Tribes"
+    slug: "gaulish"
+    dynasty: "Gaul"
+    keywords: ["gaul", "gaulish", "sequani", "aedui", "arverni"]
+  - name: "British Celts"
+    slug: "british"
+    dynasty: "Britain"
+    keywords: ["british", "britain", "iceni", "atrebates", "catuvellauni"]
+
+egyptian:
+  - name: "Cleopatra VII"
+    slug: "cleopatra-vii"
+    dynasty: "Ptolemaic"
+    keywords: ["cleopatra vii", "cleopatra", "kleopatra"]
+  - name: "Ptolemaic (generic)"
+    slug: "ptolemaic-generic"
+    dynasty: "Ptolemaic"
+    keywords: ["ptolemy", "ptolemaios", "ptolemaic"]
