@@ -30,7 +30,7 @@ BASE_URL = "https://www.cngcoins.com"
 # We'll scan this range of auction IDs (most recent completed auctions)
 # CNG is currently at ID ~218-219; IDs go back many years
 AUCTION_ID_START = 217   # most recent completed
-AUCTION_ID_END   = 180   # go back ~37 auctions (a couple years)
+AUCTION_ID_END   = 150   # go back ~67 auctions (~4-5 years of data)
 
 
 class CNGScraper(BaseScraper):
