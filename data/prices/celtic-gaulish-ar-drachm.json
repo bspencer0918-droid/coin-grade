@@ -1,0 +1,53 @@
+{
+  "slug": "celtic-gaulish-ar-drachm",
+  "category": "celtic",
+  "ruler": "Gaulish Tribes",
+  "ruler_normalized": "gaulish",
+  "dynasty": "Gaul",
+  "denomination": "AR Drachm",
+  "metal": "silver",
+  "sale_count": 1,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 170.0,
+    "max": 170.0
+  },
+  "median_price_usd": 170.0,
+  "last_sale_date": "2026-03-22",
+  "grade_distribution": {
+    "XF": 1
+  },
+  "thumbnail_url": null,
+  "sales": [
+    {
+      "id": "cng-30efa1a28793",
+      "source": "cng",
+      "lot_url": "https://auctions.cngcoins.com/lots/view/4-ICA69P",
+      "title": "Electronic Auction 597 Lot: 16. GAUL, Southern. Volcae-Tectosages. Circa 200-118 BC. AR Drachm (13mm; 12h). NGC XF.",
+      "description": "Celtic, Silver Estimated:\u00a0$   150 Sold\u00a0Price:\u00a0$ :  170",
+      "hammer_price_usd": 170.0,
+      "currency_original": "USD",
+      "price_original": 170.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-22",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}
