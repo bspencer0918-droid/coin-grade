@@ -5,6 +5,7 @@ Fetches exchange rates once per pipeline run and caches them in memory.
 from __future__ import annotations
 
 import logging
+import re
 from typing import Optional
 
 import httpx
@@ -88,10 +89,7 @@ def parse_price(raw_price: str) -> tuple[Optional[float], str]:
             break
 
     # Remove thousands separators and normalize decimal
-    raw = re.sub(r"[,\s]", "", raw)   # type: ignore[attr-defined]  # handled below
-    raw = raw.replace(",", ".")
-
-    import re
+    raw = re.sub(r"[,\s]", "", raw)
     cleaned = re.sub(r"[^\d.]", "", raw)
     try:
         return float(cleaned), currency
