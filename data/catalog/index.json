@@ -1,5 +1,116 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-03-22T16:44:37.412202+00:00",
-  "coins": []
+  "generated_at": "2026-03-22T17:02:13.976332+00:00",
+  "coins": [
+    {
+      "slug": "celtic-gaulish-unknown",
+      "category": "celtic",
+      "ruler": "Gaulish Tribes",
+      "ruler_normalized": "gaulish",
+      "dynasty": "Gaul",
+      "denomination": "Unknown",
+      "metal": "silver",
+      "sale_count": 4,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 160.0,
+        "max": 950.0
+      },
+      "median_price_usd": 600.0,
+      "last_sale_date": "2026-03-22",
+      "grade_distribution": {
+        "XF": 2,
+        "VF": 2
+      },
+      "thumbnail_url": null
+    },
+    {
+      "slug": "greek-unknown",
+      "category": "greek",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "denomination": "Unknown",
+      "metal": "silver",
+      "sale_count": 5,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 350.0,
+        "max": 1450.0
+      },
+      "median_price_usd": 500.0,
+      "last_sale_date": "2026-03-22",
+      "grade_distribution": {
+        "F": 1,
+        "XF": 1,
+        "AU": 3
+      },
+      "thumbnail_url": null
+    },
+    {
+      "slug": "greek-ar-stater",
+      "category": "greek",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "denomination": "AR Stater",
+      "metal": "gold",
+      "sale_count": 3,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 900.0,
+        "max": 55000.0
+      },
+      "median_price_usd": 1500.0,
+      "last_sale_date": "2026-03-22",
+      "grade_distribution": {
+        "AU": 1,
+        "XF": 2
+      },
+      "thumbnail_url": null
+    },
+    {
+      "slug": "other-unknown",
+      "category": "other",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "denomination": "Unknown",
+      "metal": "gold",
+      "sale_count": 10,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 1200.0,
+        "max": 3750.0
+      },
+      "median_price_usd": 1350.0,
+      "last_sale_date": "2026-03-22",
+      "grade_distribution": {
+        "MS": 9,
+        "AU": 1
+      },
+      "thumbnail_url": null
+    },
+    {
+      "slug": "greek-ar-drachm",
+      "category": "greek",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "denomination": "AR Drachm",
+      "metal": "silver",
+      "sale_count": 1,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 170.0,
+        "max": 170.0
+      },
+      "median_price_usd": 170.0,
+      "last_sale_date": "2026-03-22",
+      "grade_distribution": {
+        "XF": 1
+      },
+      "thumbnail_url": null
+    }
+  ]
 }
