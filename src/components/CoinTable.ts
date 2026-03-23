@@ -71,8 +71,11 @@ export function renderCoinTable(
     const range  = coin.price_range_usd
       ? `$${coin.price_range_usd.min.toLocaleString()} – $${coin.price_range_usd.max.toLocaleString()}`
       : '—'
-    const thumb  = coin.thumbnail_url
-      ? `<img src="${coin.thumbnail_url}" alt="" class="w-10 h-10 object-cover rounded border border-stone-700" loading="lazy" />`
+    const thumbSrc = coin.denomination === 'AR Tetradrachm'
+      ? '/coin-grade/ar-tetradrachm.jpg'
+      : coin.thumbnail_url
+    const thumb  = thumbSrc
+      ? `<img src="${thumbSrc}" alt="" class="w-10 h-10 object-cover rounded border border-stone-700" loading="lazy" />`
       : `<div class="w-10 h-10 rounded border border-stone-800 bg-stone-900 flex items-center justify-center text-stone-700 text-lg">🪙</div>`
     const verified = coin.ngc_verified_count > 0
       ? `<span title="NGC cert verified" class="text-emerald-400 text-xs">✓</span>`
