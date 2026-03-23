@@ -1,6 +1,6 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-03-23T19:45:48.292067+00:00",
+  "generated_at": "2026-03-23T20:02:59.163500+00:00",
   "coins": [
     {
       "slug": "celtic-gaulish-ar-unit",
@@ -53,18 +53,19 @@
       "dynasty": null,
       "denomination": "AV Stater",
       "metal": "gold",
-      "sale_count": 1,
+      "sale_count": 16,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 55000.0,
-        "max": 55000.0
+        "max": 154500.0
       },
-      "median_price_usd": 55000.0,
+      "median_price_usd": 154500.0,
       "last_sale_date": "2026-03-23",
       "grade_distribution": {
-        "AU": 1
+        "AU": 1,
+        "MS": 15
       },
-      "thumbnail_url": null
+      "thumbnail_url": "https://img.ma-shops.com/worldmoneyshop/pic/thumb/1829_bosporos-2-1.jpg"
     },
     {
       "slug": "other-av-dinar",
@@ -171,6 +172,870 @@
         "XF": 1
       },
       "thumbnail_url": null
+    },
+    {
+      "slug": "celtic-av-stater",
+      "category": "celtic",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "denomination": "AV Stater",
+      "metal": "gold",
+      "sale_count": 11,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 11155.0,
+        "max": 11155.0
+      },
+      "median_price_usd": 11155.0,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "AU": 11
+      },
+      "thumbnail_url": null
+    },
+    {
+      "slug": "roman-unknown",
+      "category": "roman",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "denomination": "Unknown",
+      "metal": "silver",
+      "sale_count": 12,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 44.0,
+        "max": 302.5
+      },
+      "median_price_usd": 74.25,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "MS": 12
+      },
+      "thumbnail_url": null
+    },
+    {
+      "slug": "other-unknown",
+      "category": "other",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "denomination": "Unknown",
+      "metal": "unknown",
+      "sale_count": 205,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 38.5,
+        "max": 32355.74
+      },
+      "median_price_usd": 531.56,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "MS": 2,
+        "XF": 79,
+        "VF": 34,
+        "AU": 75,
+        "F": 15
+      },
+      "thumbnail_url": "https://img.ma-shops.com/thomasnumismatics/pic/thumb/407_combined407.jpg"
+    },
+    {
+      "slug": "greek-ar-stater",
+      "category": "greek",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "denomination": "AR Stater",
+      "metal": "electrum",
+      "sale_count": 106,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 396.0,
+        "max": 10000.0
+      },
+      "median_price_usd": 8000.0,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "VF": 16,
+        "XF": 60,
+        "MS": 15,
+        "AU": 15
+      },
+      "thumbnail_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid23_combined.jpg"
+    },
+    {
+      "slug": "byzantine-romanus-iv-av-nomisma",
+      "category": "byzantine",
+      "ruler": "Romanus IV",
+      "ruler_normalized": "romanus-iv",
+      "dynasty": "Doukid",
+      "denomination": "AV Nomisma",
+      "metal": "gold",
+      "sale_count": 15,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 1444.45,
+        "max": 1444.45
+      },
+      "median_price_usd": 1444.45,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "XF": 15
+      },
+      "thumbnail_url": "https://img.ma-shops.com/stankov/pic/thumb/artid701_combined.jpg"
+    },
+    {
+      "slug": "greek-ar-tetradrachm",
+      "category": "greek",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "denomination": "AR Tetradrachm",
+      "metal": "silver",
+      "sale_count": 120,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 795.0,
+        "max": 4448.91
+      },
+      "median_price_usd": 2900.0,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "AU": 60,
+        "VF": 30,
+        "F": 30
+      },
+      "thumbnail_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid44_ngc6061195-003_obv_c.jpg"
+    },
+    {
+      "slug": "greek-philip-ii-unknown",
+      "category": "greek",
+      "ruler": "Philip II",
+      "ruler_normalized": "philip-ii",
+      "dynasty": "Macedonian",
+      "denomination": "Unknown",
+      "metal": "bronze",
+      "sale_count": 15,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 599.99,
+        "max": 599.99
+      },
+      "median_price_usd": 599.99,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "XF": 15
+      },
+      "thumbnail_url": "https://img.ma-shops.com/dicher/pic/thumb/23_image-1_10_c.jpg"
+    },
+    {
+      "slug": "greek-ar-drachm",
+      "category": "greek",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "denomination": "AR Drachm",
+      "metal": "silver",
+      "sale_count": 75,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 529.99,
+        "max": 2399.99
+      },
+      "median_price_usd": 900.0,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "AU": 60,
+        "MS": 15
+      },
+      "thumbnail_url": "https://img.ma-shops.com/dicher/pic/thumb/48_image-1_23_c.jpg"
+    },
+    {
+      "slug": "greek-unknown",
+      "category": "greek",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "denomination": "Unknown",
+      "metal": "bronze",
+      "sale_count": 45,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 479.99,
+        "max": 9822.28
+      },
+      "median_price_usd": 749.99,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "XF": 45
+      },
+      "thumbnail_url": "https://img.ma-shops.com/dicher/pic/thumb/27_image-1_6_c.jpg"
+    },
+    {
+      "slug": "greek-rhodes-ar-drachm",
+      "category": "greek",
+      "ruler": "Rhodes",
+      "ruler_normalized": "rhodes",
+      "dynasty": "City-State",
+      "denomination": "AR Drachm",
+      "metal": "silver",
+      "sale_count": 15,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 1495.0,
+        "max": 1495.0
+      },
+      "median_price_usd": 1495.0,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "AU": 15
+      },
+      "thumbnail_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8977_combined.jpg"
+    },
+    {
+      "slug": "byzantine-av-nomisma",
+      "category": "byzantine",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "denomination": "AV Nomisma",
+      "metal": "gold",
+      "sale_count": 45,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 1495.0,
+        "max": 1675.0
+      },
+      "median_price_usd": 1600.0,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "AU": 30,
+        "MS": 15
+      },
+      "thumbnail_url": "https://img.ma-shops.com/khouli/pic/thumb/artid9002_combined.jpg"
+    },
+    {
+      "slug": "roman-ar-denarius",
+      "category": "roman",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "denomination": "AR Denarius",
+      "metal": "silver",
+      "sale_count": 45,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 110.0,
+        "max": 1011.12
+      },
+      "median_price_usd": 659.99,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "XF": 30,
+        "VF": 15
+      },
+      "thumbnail_url": "https://img.ma-shops.com/nazzi/pic/thumb/410_n290c_co.jpg"
+    },
+    {
+      "slug": "other-ae-nummus",
+      "category": "other",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "denomination": "AE Nummus",
+      "metal": "bronze",
+      "sale_count": 75,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 65.0,
+        "max": 202.22
+      },
+      "median_price_usd": 95.0,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "AU": 30,
+        "F": 15,
+        "VF": 30
+      },
+      "thumbnail_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid69463_combined.jpg"
+    },
+    {
+      "slug": "roman-gordian-iii-ar-denarius",
+      "category": "roman",
+      "ruler": "Gordian III",
+      "ruler_normalized": "gordian-iii",
+      "dynasty": "Crisis of the Third Century",
+      "denomination": "AR Denarius",
+      "metal": "silver",
+      "sale_count": 15,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 270.0,
+        "max": 270.0
+      },
+      "median_price_usd": 270.0,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "XF": 15
+      },
+      "thumbnail_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid623_combined.jpg"
+    },
+    {
+      "slug": "byzantine-av-solidus",
+      "category": "byzantine",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "denomination": "AV Solidus",
+      "metal": "gold",
+      "sale_count": 30,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 1795.0,
+        "max": 9793.39
+      },
+      "median_price_usd": 5794.195,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "XF": 15,
+        "MS": 15
+      },
+      "thumbnail_url": "https://img.ma-shops.com/khouli/pic/thumb/artid9077_combined.jpg"
+    },
+    {
+      "slug": "other-ae-21",
+      "category": "other",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "denomination": "AE 21",
+      "metal": "unknown",
+      "sale_count": 15,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 1499.99,
+        "max": 1499.99
+      },
+      "median_price_usd": 1499.99,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "MS": 15
+      },
+      "thumbnail_url": "https://img.ma-shops.com/dicher/pic/thumb/artid141_combined.jpg"
+    },
+    {
+      "slug": "other-ae-23",
+      "category": "other",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "denomination": "AE 23",
+      "metal": "unknown",
+      "sale_count": 30,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 90.0,
+        "max": 90.0
+      },
+      "median_price_usd": 90.0,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "F": 30
+      },
+      "thumbnail_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid1295_combined.jpg"
+    },
+    {
+      "slug": "other-ae-19",
+      "category": "other",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "denomination": "AE 19",
+      "metal": "unknown",
+      "sale_count": 45,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 90.0,
+        "max": 479.99
+      },
+      "median_price_usd": 160.0,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "VG": 15,
+        "XF": 15,
+        "VF": 15
+      },
+      "thumbnail_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid1418_combined.jpg"
+    },
+    {
+      "slug": "other-ae-25",
+      "category": "other",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "denomination": "AE 25",
+      "metal": "unknown",
+      "sale_count": 45,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 68.25,
+        "max": 479.99
+      },
+      "median_price_usd": 68.25,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "VG": 30,
+        "VF": 15
+      },
+      "thumbnail_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid628_combined.jpg"
+    },
+    {
+      "slug": "other-ar-didrachm",
+      "category": "other",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "denomination": "AR Didrachm",
+      "metal": "silver",
+      "sale_count": 60,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 975.0,
+        "max": 1195.0
+      },
+      "median_price_usd": 975.0,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "XF": 45,
+        "VF": 15
+      },
+      "thumbnail_url": "https://img.ma-shops.com/khouli/pic/thumb/artid9035_combined.jpg"
+    },
+    {
+      "slug": "other-ae-17",
+      "category": "other",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "denomination": "AE 17",
+      "metal": "unknown",
+      "sale_count": 15,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 449.99,
+        "max": 449.99
+      },
+      "median_price_usd": 449.99,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "XF": 15
+      },
+      "thumbnail_url": "https://img.ma-shops.com/dicher/pic/thumb/artid22_ngc6625802-008_obv_c.jpg"
+    },
+    {
+      "slug": "roman-claudius-ar-denarius",
+      "category": "roman",
+      "ruler": "Claudius",
+      "ruler_normalized": "claudius",
+      "dynasty": "Julio-Claudian",
+      "denomination": "AR Denarius",
+      "metal": "silver",
+      "sale_count": 15,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 70.0,
+        "max": 70.0
+      },
+      "median_price_usd": 70.0,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "F": 15
+      },
+      "thumbnail_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid1036_combined.jpg"
+    },
+    {
+      "slug": "other-ae-24",
+      "category": "other",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "denomination": "AE 24",
+      "metal": "unknown",
+      "sale_count": 15,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 75.0,
+        "max": 75.0
+      },
+      "median_price_usd": 75.0,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "VG": 15
+      },
+      "thumbnail_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid713_combined.jpg"
+    },
+    {
+      "slug": "persian-ar-stater",
+      "category": "persian",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "denomination": "AR Stater",
+      "metal": "electrum",
+      "sale_count": 15,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 975.0,
+        "max": 975.0
+      },
+      "median_price_usd": 975.0,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "XF": 15
+      },
+      "thumbnail_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8653_combined.jpg"
+    },
+    {
+      "slug": "greek-syracuse-ar-tetradrachm",
+      "category": "greek",
+      "ruler": "Syracuse",
+      "ruler_normalized": "syracuse",
+      "dynasty": "City-State",
+      "denomination": "AR Tetradrachm",
+      "metal": "silver",
+      "sale_count": 15,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 2495.0,
+        "max": 2495.0
+      },
+      "median_price_usd": 2495.0,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "XF": 15
+      },
+      "thumbnail_url": "https://img.ma-shops.com/khouli/pic/thumb/artid9022_combined.jpg"
+    },
+    {
+      "slug": "other-ae-27",
+      "category": "other",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "denomination": "AE 27",
+      "metal": "unknown",
+      "sale_count": 90,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 68.0,
+        "max": 156.0
+      },
+      "median_price_usd": 78.0,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "VF": 15,
+        "F": 60,
+        "VG": 15
+      },
+      "thumbnail_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid671_ngc4284379-039_obv_c.jpg"
+    },
+    {
+      "slug": "roman-gallienus-ar-denarius",
+      "category": "roman",
+      "ruler": "Gallienus",
+      "ruler_normalized": "gallienus",
+      "dynasty": "Crisis of the Third Century",
+      "denomination": "AR Denarius",
+      "metal": "silver",
+      "sale_count": 15,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 60.0,
+        "max": 60.0
+      },
+      "median_price_usd": 60.0,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "F": 15
+      },
+      "thumbnail_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid984_combined.jpg"
+    },
+    {
+      "slug": "roman-ae-sestertius",
+      "category": "roman",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "denomination": "AE Sestertius",
+      "metal": "bronze",
+      "sale_count": 15,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 1200.0,
+        "max": 1200.0
+      },
+      "median_price_usd": 1200.0,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "VF": 15
+      },
+      "thumbnail_url": "https://img.ma-shops.com/khouli/pic/thumb/8756_1.jpg"
+    },
+    {
+      "slug": "roman-caracalla-ar-denarius",
+      "category": "roman",
+      "ruler": "Caracalla",
+      "ruler_normalized": "caracalla",
+      "dynasty": "Severan",
+      "denomination": "AR Denarius",
+      "metal": "silver",
+      "sale_count": 15,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 105.0,
+        "max": 105.0
+      },
+      "median_price_usd": 105.0,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "VG": 15
+      },
+      "thumbnail_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid675_combined.jpg"
+    },
+    {
+      "slug": "greek-corinth-ar-stater",
+      "category": "greek",
+      "ruler": "Corinth",
+      "ruler_normalized": "corinth",
+      "dynasty": "City-State",
+      "denomination": "AR Stater",
+      "metal": "electrum",
+      "sale_count": 15,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 975.0,
+        "max": 975.0
+      },
+      "median_price_usd": 975.0,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "XF": 15
+      },
+      "thumbnail_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8538_ngc6711714-003_obv_c.jpg"
+    },
+    {
+      "slug": "greek-athens-ar-tetradrachm",
+      "category": "greek",
+      "ruler": "Athens",
+      "ruler_normalized": "athens",
+      "dynasty": "City-State",
+      "denomination": "AR Tetradrachm",
+      "metal": "silver",
+      "sale_count": 30,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 975.0,
+        "max": 1695.0
+      },
+      "median_price_usd": 1335.0,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "VF": 15,
+        "F": 15
+      },
+      "thumbnail_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8950_combined.jpg"
+    },
+    {
+      "slug": "roman-elagabalus-ae-21",
+      "category": "roman",
+      "ruler": "Elagabalus",
+      "ruler_normalized": "elagabalus",
+      "dynasty": "Severan",
+      "denomination": "AE 21",
+      "metal": "unknown",
+      "sale_count": 15,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 90.0,
+        "max": 90.0
+      },
+      "median_price_usd": 90.0,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "F": 15
+      },
+      "thumbnail_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid1290_combined.jpg"
+    },
+    {
+      "slug": "other-ae-16",
+      "category": "other",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "denomination": "AE 16",
+      "metal": "unknown",
+      "sale_count": 30,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 60.0,
+        "max": 175.0
+      },
+      "median_price_usd": 117.5,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "G": 15,
+        "VG": 15
+      },
+      "thumbnail_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid700_combined.jpg"
+    },
+    {
+      "slug": "roman-hadrian-ar-denarius",
+      "category": "roman",
+      "ruler": "Hadrian",
+      "ruler_normalized": "hadrian",
+      "dynasty": "Nerva-Antonine",
+      "denomination": "AR Denarius",
+      "metal": "silver",
+      "sale_count": 15,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 287.73,
+        "max": 287.73
+      },
+      "median_price_usd": 287.73,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "VF": 15
+      },
+      "thumbnail_url": "https://img.ma-shops.com/schacht/pic/thumb/artid2895_combined.jpg"
+    },
+    {
+      "slug": "other-av-solidus",
+      "category": "other",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "denomination": "AV Solidus",
+      "metal": "gold",
+      "sale_count": 15,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 6975.0,
+        "max": 6975.0
+      },
+      "median_price_usd": 6975.0,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "XF": 15
+      },
+      "thumbnail_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8932_combined.jpg"
+    },
+    {
+      "slug": "roman-augustus-ar-denarius",
+      "category": "roman",
+      "ruler": "Augustus",
+      "ruler_normalized": "augustus",
+      "dynasty": "Julio-Claudian",
+      "denomination": "AR Denarius",
+      "metal": "silver",
+      "sale_count": 15,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 675.0,
+        "max": 675.0
+      },
+      "median_price_usd": 675.0,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "F": 15
+      },
+      "thumbnail_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8153_combined.jpg"
+    },
+    {
+      "slug": "roman-julius-caesar-av-aureus",
+      "category": "roman",
+      "ruler": "Julius Caesar",
+      "ruler_normalized": "julius-caesar",
+      "dynasty": "Roman Republic",
+      "denomination": "AV Aureus",
+      "metal": "gold",
+      "sale_count": 15,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 8500.0,
+        "max": 8500.0
+      },
+      "median_price_usd": 8500.0,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "F": 15
+      },
+      "thumbnail_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8933_combined.jpg"
+    },
+    {
+      "slug": "byzantine-el-bi-trachy",
+      "category": "byzantine",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "denomination": "EL/BI Trachy",
+      "metal": "electrum",
+      "sale_count": 15,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 2795.0,
+        "max": 2795.0
+      },
+      "median_price_usd": 2795.0,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "AU": 15
+      },
+      "thumbnail_url": "https://img.ma-shops.com/khouli/pic/thumb/artid9013_combined.jpg"
+    },
+    {
+      "slug": "roman-domitian-ar-denarius",
+      "category": "roman",
+      "ruler": "Domitian",
+      "ruler_normalized": "domitian",
+      "dynasty": "Flavian",
+      "denomination": "AR Denarius",
+      "metal": "silver",
+      "sale_count": 15,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 172.18,
+        "max": 172.18
+      },
+      "median_price_usd": 172.18,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "VF": 15
+      },
+      "thumbnail_url": "https://img.ma-shops.com/schacht/pic/thumb/artid2909_combined.jpg"
+    },
+    {
+      "slug": "roman-constantine-i-ae-nummus",
+      "category": "roman",
+      "ruler": "Constantine I",
+      "ruler_normalized": "constantine-i",
+      "dynasty": "Constantinian",
+      "denomination": "AE Nummus",
+      "metal": "bronze",
+      "sale_count": 30,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 165.0,
+        "max": 225.0
+      },
+      "median_price_usd": 195.0,
+      "last_sale_date": "2026-03-23",
+      "grade_distribution": {
+        "MS": 15,
+        "XF": 15
+      },
+      "thumbnail_url": "https://img.ma-shops.com/enumismat/pic/thumb/14703.jpg"
     }
   ]
 }
