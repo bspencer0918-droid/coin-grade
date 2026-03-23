@@ -4,7 +4,7 @@
 
 export type Category = 'roman' | 'greek' | 'byzantine' | 'persian' | 'celtic' | 'egyptian' | 'other'
 export type Metal    = 'gold' | 'silver' | 'bronze' | 'billon' | 'electrum' | 'unknown'
-export type Source   = 'cng' | 'roma' | 'heritage' | 'ebay' | 'vcoins' | 'mashops'
+export type Source   = 'cng' | 'heritage' | 'ebay' | 'vcoins' | 'mashops'
 
 export type NGCGrade = 'MS' | 'AU' | 'XF' | 'VF' | 'F' | 'VG' | 'G' | 'AG' | 'P'
 

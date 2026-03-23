@@ -91,7 +91,7 @@ export function renderHome(meta: Meta | null, catalog: CatalogIndex | null): str
         </h1>
         <p class="text-stone-400 text-lg max-w-2xl mx-auto leading-relaxed">
           Realized auction prices for NGC-certified ancient coins, aggregated daily from
-          CNG, Roma Numismatics, Heritage Auctions, eBay, VCoins, and MA Shops.
+          CNG, Heritage Auctions, eBay, VCoins, and MA Shops.
         </p>
         <div class="flex flex-wrap justify-center gap-3 mt-6">
           <a href="${href({ name: 'browse' })}" class="btn-primary text-base px-6 py-2.5">

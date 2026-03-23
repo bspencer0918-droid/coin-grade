@@ -25,7 +25,6 @@ from .sources.cng      import CNGScraper
 from .sources.ebay     import EbayScraper
 from .sources.heritage import HeritageScraper
 from .sources.mashops  import MAShopsScraper
-from .sources.roma     import RomaScraper
 from .sources.vcoins   import VCoinsScraper
 from .utils.coin_classifier  import classify
 from .utils.ngc_detector     import detect_ngc, verify_cert
@@ -45,7 +44,6 @@ logger = logging.getLogger(__name__)
 SCRAPERS = [
     CNGScraper(),
     EbayScraper(),
-    RomaScraper(),
     HeritageScraper(),
     VCoinsScraper(),
     MAShopsScraper(),

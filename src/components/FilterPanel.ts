@@ -26,7 +26,6 @@ const METALS: Array<{ value: Metal | ''; label: string }> = [
 
 const SOURCES: Array<{ value: Source; label: string }> = [
   { value: 'cng',      label: 'CNG'           },
-  { value: 'roma',     label: 'Roma Numismatics' },
   { value: 'heritage', label: 'Heritage Auctions' },
   { value: 'ebay',     label: 'eBay'          },
   { value: 'vcoins',   label: 'VCoins'        },

@@ -10,7 +10,6 @@ Chart.register(LineController, LineElement, PointElement, LinearScale,
 
 const SOURCE_COLORS: Record<Source, string> = {
   cng:      '#f59e0b',
-  roma:     '#ef4444',
   heritage: '#3b82f6',
   ebay:     '#eab308',
   vcoins:   '#22c55e',
@@ -49,7 +48,7 @@ export function mountPriceChart(sales: Sale[]) {
   // All unique dates as labels
   const labels = sorted.map(s => s.sale_date)
 
-  const datasets = (['cng','roma','heritage','ebay','vcoins','mashops'] as Source[]).map(src => {
+  const datasets = (['cng','heritage','ebay','vcoins','mashops'] as Source[]).map(src => {
     const srcSales = sorted.filter(s => s.source === src)
     if (srcSales.length === 0) return null
     // Map each date label to price for this source (null if no sale on that date)
