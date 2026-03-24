@@ -9,14 +9,14 @@ Chart.register(LineController, LineElement, PointElement, LinearScale,
                Tooltip, Legend, CategoryScale)
 
 const SOURCE_COLORS: Record<Source, string> = {
-  cng:       '#f59e0b',
-  heritage:  '#3b82f6',
-  ebay:      '#eab308',
-  vcoins:    '#22c55e',
-  mashops:   '#a855f7',
-  numisbids: '#06b6d4',
-  sixbid:    '#6366f1',
-  hjb:       '#f43f5e',
+  cng:          '#f59e0b',
+  heritage:     '#3b82f6',
+  vcoins:       '#22c55e',
+  mashops:      '#a855f7',
+  numisbids:    '#06b6d4',
+  sixbid:       '#6366f1',
+  hjb:          '#f43f5e',
+  coinarchives: '#14b8a6',
 }
 
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -62,7 +62,7 @@ export function mountPriceChart(sales: Sale[]) {
   const sorted = [...sales].sort((a, b) => a.sale_date.localeCompare(b.sale_date))
   const labels = sorted.map(s => s.sale_date)
 
-  const datasets = (['cng','heritage','ebay','vcoins','mashops','numisbids','sixbid','hjb'] as Source[]).map(src => {
+  const datasets = (['cng','heritage','vcoins','mashops','numisbids','sixbid','hjb','coinarchives'] as Source[]).map(src => {
     const srcSales = sorted.filter(s => s.source === src)
     if (srcSales.length === 0) return null
     const data = labels.map(label => {
