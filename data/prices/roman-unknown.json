@@ -8,9 +8,9 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "silver",
-  "sale_count": 19,
+  "sale_count": 22,
   "realized_count": 5,
-  "fixed_price_count": 14,
+  "fixed_price_count": 17,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 440.0,
@@ -19,8 +19,8 @@
   "median_price_usd": 1200.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "MS": 8,
-    "AU": 7,
+    "MS": 10,
+    "AU": 8,
     "XF": 2,
     "VF": 2
   },
@@ -203,6 +203,99 @@
         "surface_score": null,
         "details_grade": null,
         "certification_url": "https://www.ngccoin.com/certlookup/20276442/"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "vcoins-c6f57638565a",
+      "source": "vcoins",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/portugal_first_republic_1916_20_centavos_silver_835_lisbon_mint_706000_5g_ngc_ms_62__km_562_gomes_r_12/2350362/Default.aspx",
+      "title": "Portugal First Republic 1916 20 Centavos Silver (.835) Lisbon Mint (706000) 5g NGC MS 62  KM 562 Gomes R 12",
+      "description": "",
+      "hammer_price_usd": 82.5,
+      "currency_original": "USD",
+      "price_original": 82.5,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 62,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "vcoins-4ad89e109057",
+      "source": "vcoins",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/czechoslovakia_peoples_republic_1949_50_korun_josef_v_stalin_silver_500_1000000_10g_ngc_ms_63__km_28_schon_36/2350361/Default.aspx",
+      "title": "Czechoslovakia People's Republic 1949 50 Korun (Josef V. Stalin) Silver (.500) (1000000) 10g NGC MS 63  KM 28 Sch\u00f6n 36",
+      "description": "",
+      "hammer_price_usd": 99.0,
+      "currency_original": "USD",
+      "price_original": 99.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "1000000",
+        "grade": "MS",
+        "grade_numeric": 63,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": "https://www.ngccoin.com/certlookup/1000000/"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "vcoins-87b3cf67da63",
+      "source": "vcoins",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/peru_republic_1916_fg__sol_silver_900_425000_5g_ngc_au_58__km_205/2350359/Default.aspx",
+      "title": "Peru Republic 1916 FG \u2155 Sol Silver (.900) (425000) 5g NGC AU 58  KM 205",
+      "description": "",
+      "hammer_price_usd": 55.0,
+      "currency_original": "USD",
+      "price_original": 55.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 58,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
       },
       "metadata": {
         "mint": null,

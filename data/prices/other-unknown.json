@@ -8,27 +8,26 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "gold",
-  "sale_count": 141,
-  "realized_count": 64,
-  "fixed_price_count": 77,
+  "sale_count": 102,
+  "realized_count": 32,
+  "fixed_price_count": 70,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 40.0,
-    "max": 240000.0
+    "min": 80.0,
+    "max": 14040.0
   },
-  "median_price_usd": 621.3,
+  "median_price_usd": 740.34,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "AU": 35,
-    "MS": 47,
-    "VF": 18,
-    "XF": 17,
-    "VG": 1,
+    "AU": 25,
+    "MS": 33,
+    "XF": 15,
+    "VF": 13,
     "P": 1,
-    "F": 13,
-    "G": 9
+    "F": 7,
+    "G": 8
   },
-  "thumbnail_url": "https://media.coinarchives.com/467f6f69c3d5d120eb4a5e6273f7035a/img/heritage/61605/image23192.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/62a5ed29e563c210d5094b3f63af1452/img/marciniak/028/image06001.jpg",
   "sales": [
     {
       "id": "vcoins-6d3ce6fa9a67",
@@ -124,23 +123,54 @@
       }
     },
     {
-      "id": "vcoins-5352a81a927c",
+      "id": "vcoins-aae1286b153b",
       "source": "vcoins",
       "listing_type": "fixed_price",
-      "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/alexius_i_comnenus_ad_10811118_av_hyperpyron_29mm_5h_ngc_choice_vf/2350609/Default.aspx",
-      "title": "Alexius I Comnenus (AD 1081-1118). AV hyperpyron (29mm, 5h). NGC Choice VF.",
+      "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/france_new_caledonia_1952_5_francs_union_francaise_aluminium_95_aluminium_5_magnesium_paris_mint_4000000_38g_ngc_ms_63__km_4_schon_4_lec_71/2350388/Default.aspx",
+      "title": "France New Caledonia 1952 5 Francs (Union fran\u00e7aise) Aluminium (95% Aluminium, 5% Magnesium) Paris Mint (4000000) 3.8g NGC MS...",
       "description": "",
-      "hammer_price_usd": 1975.0,
+      "hammer_price_usd": 38.5,
       "currency_original": "USD",
-      "price_original": 1975.0,
+      "price_original": 38.5,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "4000000",
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": "https://www.ngccoin.com/certlookup/4000000/"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "vcoins-bd204201846b",
+      "source": "vcoins",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/greece_kingdom_1873_a_2_drachmai__george_i_1st_portrait_silver_835_paris_mint_839431_10g_ngc_xf_40___km_39/2350383/Default.aspx",
+      "title": "Greece Kingdom 1873 A 2 Drachmai - George I (1st portrait) Silver (.835) Paris Mint (839431) 10g NGC XF 40   KM 39",
+      "description": "",
+      "hammer_price_usd": 137.5,
+      "currency_original": "USD",
+      "price_original": 137.5,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
       "image_url": null,
       "ngc": {
         "verified": false,
         "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
+        "grade": "XF",
+        "grade_numeric": 40,
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
@@ -155,22 +185,53 @@
       }
     },
     {
-      "id": "vcoins-f55afcb2f3a9",
+      "id": "vcoins-4ff5bfe97a19",
       "source": "vcoins",
       "listing_type": "fixed_price",
-      "lot_url": "https://www.vcoins.com/en/stores/civitas_galleries/33/product/ceylon_edward_vii_1902_10_cents_ngc_ms66/2265592/Default.aspx",
-      "title": "CEYLON Edward VII 1902 10 Cents NGC MS-66",
+      "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/spain_kingdom_1811_c_2_reales__fernando_vii_silver_812_cadiz_mint_6g_ngc_xf_45_km_4601_cal_837/2350375/Default.aspx",
+      "title": "Spain Kingdom 1811 C 2 Reales - Fernando VII Silver (.812) C\u00e1diz Mint 6g NGC XF 45 KM 460.1 Cal 837",
       "description": "",
-      "hammer_price_usd": 233.0,
+      "hammer_price_usd": 93.5,
       "currency_original": "USD",
-      "price_original": 233.0,
+      "price_original": 93.5,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
       "image_url": null,
       "ngc": {
         "verified": false,
         "cert_number": null,
-        "grade": "MS",
+        "grade": "XF",
+        "grade_numeric": 45,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "vcoins-60ac772611a9",
+      "source": "vcoins",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/mexico_1866_mo_50_centavos__maximiliano_i_silver_903_31000_1353g_ngc_vf__km_387/2350368/Default.aspx",
+      "title": "Mexico 1866 Mo 50 Centavos - Maximiliano I Silver (.903) (31000) 13.53g NGC VF  KM 387",
+      "description": "",
+      "hammer_price_usd": 495.0,
+      "currency_original": "USD",
+      "price_original": 495.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
@@ -248,37 +309,6 @@
       }
     },
     {
-      "id": "mashops-5e8e1787cf42",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/thomasnumismatics/item.php?id=1903",
-      "title": "Denier 200-202 Geta EF  /  NGC AU 5 / 5 3 / 5",
-      "description": "Denier 200-202 Geta EF  /  NGC AU 5 / 5 3 / 5",
-      "hammer_price_usd": 556.91,
-      "currency_original": "USD",
-      "price_original": 556.91,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/thomasnumismatics/pic/thumb/1903.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-618152959602",
       "source": "mashops",
       "listing_type": "fixed_price",
@@ -341,37 +371,6 @@
       }
     },
     {
-      "id": "mashops-43c9b12d0b5f",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=1429",
-      "title": "AE Half-Unit Alexander III, 336-323 BC NGC certified Alexander the Great Macedonian coin, 336-323 BC  (X25) NGC VG",
-      "description": "AE Half-Unit Alexander III, 336-323 BC NGC certified Alexander the Great Macedonian coin, 336-323 BC  (X25) NGC VG",
-      "hammer_price_usd": 95.0,
-      "currency_original": "USD",
-      "price_original": 95.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid1429_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VG",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-2c07094e6c45",
       "source": "mashops",
       "listing_type": "fixed_price",
@@ -420,37 +419,6 @@
         "cert_number": null,
         "grade": "AU",
         "grade_numeric": 4,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-9715eff560d9",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/pegasus/item.php?id=8355",
-      "title": "Caracalla 198-217 AD Caracalla (198-217 AD) NGC AU",
-      "description": "Caracalla 198-217 AD Caracalla (198-217 AD) NGC AU",
-      "hammer_price_usd": 1217.09,
-      "currency_original": "USD",
-      "price_original": 1217.09,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/pegasus/pic/thumb/8355_ag563.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
@@ -713,37 +681,6 @@
       }
     },
     {
-      "id": "mashops-b92446451f87",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/podlaski/item.php?id=11623",
-      "title": "Groschen 1627 NB  NGC MS 64",
-      "description": "Groschen 1627 NB  NGC MS 64",
-      "hammer_price_usd": 638.13,
-      "currency_original": "USD",
-      "price_original": 638.13,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/podlaski/pic/thumb/artid11623_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 64,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-db0c6ea32f19",
       "source": "mashops",
       "listing_type": "fixed_price",
@@ -761,6 +698,37 @@
         "cert_number": null,
         "grade": "MS",
         "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-b92446451f87",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/podlaski/item.php?id=11623",
+      "title": "Groschen 1627 NB  NGC MS 64",
+      "description": "Groschen 1627 NB  NGC MS 64",
+      "hammer_price_usd": 638.13,
+      "currency_original": "USD",
+      "price_original": 638.13,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/podlaski/pic/thumb/artid11623_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 64,
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
@@ -868,37 +836,6 @@
       }
     },
     {
-      "id": "mashops-5060798f4367",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/pkkmgbr/item.php?id=32840",
-      "title": "TALER 1614KB  NGC AU 53",
-      "description": "TALER 1614KB  NGC AU 53",
-      "hammer_price_usd": 4611.95,
-      "currency_original": "USD",
-      "price_original": 4611.95,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/pkkmgbr/pic/thumb/artid32840_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 53,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-6d8f2c3b45ec",
       "source": "mashops",
       "listing_type": "fixed_price",
@@ -916,6 +853,37 @@
         "cert_number": null,
         "grade": "MS",
         "grade_numeric": 63,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-5060798f4367",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/pkkmgbr/item.php?id=32840",
+      "title": "TALER 1614KB  NGC AU 53",
+      "description": "TALER 1614KB  NGC AU 53",
+      "hammer_price_usd": 4611.95,
+      "currency_original": "USD",
+      "price_original": 4611.95,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/pkkmgbr/pic/thumb/artid32840_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 53,
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
@@ -1271,37 +1239,6 @@
       }
     },
     {
-      "id": "mashops-2b1801f62f14",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/pegasus/item.php?id=11211",
-      "title": "3 Kreuzer 1674 Silesia, Oppeln (Poland) NGC AU58",
-      "description": "3 Kreuzer 1674 Silesia, Oppeln (Poland) NGC AU58",
-      "hammer_price_usd": 381.72,
-      "currency_original": "USD",
-      "price_original": 381.72,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/pegasus/pic/thumb/11211_aj091.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-04b86f1dd26e",
       "source": "mashops",
       "listing_type": "fixed_price",
@@ -1352,6 +1289,37 @@
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-2b1801f62f14",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/pegasus/item.php?id=11211",
+      "title": "3 Kreuzer 1674 Silesia, Oppeln (Poland) NGC AU58",
+      "description": "3 Kreuzer 1674 Silesia, Oppeln (Poland) NGC AU58",
+      "hammer_price_usd": 381.72,
+      "currency_original": "USD",
+      "price_original": 381.72,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/pegasus/pic/thumb/11211_aj091.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
         "details_grade": null,
         "certification_url": null
       },
@@ -1426,37 +1394,6 @@
       }
     },
     {
-      "id": "mashops-64a4083e31e0",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/pegasus/item.php?id=12122",
-      "title": "3 Kreuzer 1670  NGC MS61",
-      "description": "3 Kreuzer 1670  NGC MS61",
-      "hammer_price_usd": 126.47,
-      "currency_original": "USD",
-      "price_original": 126.47,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/pegasus/pic/thumb/12122_aj946.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-46f40753e1a8",
       "source": "mashops",
       "listing_type": "fixed_price",
@@ -1488,22 +1425,22 @@
       }
     },
     {
-      "id": "mashops-85ae086a4cd1",
+      "id": "mashops-64a4083e31e0",
       "source": "mashops",
       "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/pegasus/item.php?id=8354",
-      "title": "The Apostate 360-363 AD Julian II. The Apostate (360-363 AD) NGC AU",
-      "description": "The Apostate 360-363 AD Julian II. The Apostate (360-363 AD) NGC AU",
-      "hammer_price_usd": 694.98,
+      "lot_url": "https://www.ma-shops.com/pegasus/item.php?id=12122",
+      "title": "3 Kreuzer 1670  NGC MS61",
+      "description": "3 Kreuzer 1670  NGC MS61",
+      "hammer_price_usd": 126.47,
       "currency_original": "USD",
-      "price_original": 694.98,
+      "price_original": 126.47,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/pegasus/pic/thumb/8354_ag564.jpg",
+      "image_url": "https://img.ma-shops.com/pegasus/pic/thumb/12122_aj946.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
-        "grade": "AU",
+        "grade": "MS",
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
@@ -1643,37 +1580,6 @@
       }
     },
     {
-      "id": "mashops-ba3f62f2d54f",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/pegasus/item.php?id=12130",
-      "title": "15 Kreuzer 1685  NGC MS61",
-      "description": "15 Kreuzer 1685  NGC MS61",
-      "hammer_price_usd": 381.72,
-      "currency_original": "USD",
-      "price_original": 381.72,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/pegasus/pic/thumb/12130_aj955.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-8b368f983aae",
       "source": "mashops",
       "listing_type": "fixed_price",
@@ -1691,6 +1597,37 @@
         "cert_number": null,
         "grade": "MS",
         "grade_numeric": 61,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-ba3f62f2d54f",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/pegasus/item.php?id=12130",
+      "title": "15 Kreuzer 1685  NGC MS61",
+      "description": "15 Kreuzer 1685  NGC MS61",
+      "hammer_price_usd": 381.72,
+      "currency_original": "USD",
+      "price_original": 381.72,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/pegasus/pic/thumb/12130_aj955.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
@@ -1953,37 +1890,6 @@
       }
     },
     {
-      "id": "mashops-a61735344c6c",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9126",
-      "title": "Alexius I Comnenus (AD 1081-1118). AV hyperpyron (29mm, 5h). NGC Choice VF. NGC Choice VF",
-      "description": "New! Alexius I Comnenus (AD 1081-1118). AV hyperpyron (29mm, 5h). NGC Choice VF. NGC Choice VF",
-      "hammer_price_usd": 1975.0,
-      "currency_original": "USD",
-      "price_original": 1975.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid9126_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-1ccbbcbb70bb",
       "source": "mashops",
       "listing_type": "fixed_price",
@@ -2094,68 +2000,6 @@
         "cert_number": null,
         "grade": "MS",
         "grade_numeric": 62,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-64c0a3a5c4b4",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/numimarket/item.php?id=2493",
-      "title": "AV Medallion Constantius II,AD 337-361 Nicomedia NGC F Strike: 5/5 Surface: 1/5",
-      "description": "AV Medallion Constantius II,AD 337-361 Nicomedia NGC F Strike: 5/5 Surface: 1/5",
-      "hammer_price_usd": 11602.39,
-      "currency_original": "USD",
-      "price_original": 11602.39,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numimarket/pic/thumb/2493_2135200_3b.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "F",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 1,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-380e3df49598",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/thomasnumismatics/item.php?id=2401",
-      "title": "Denier 60-44 BC Julius Caesar EF  /  SUP+-NGC AU 5 / 4-5 / 5",
-      "description": "Denier 60-44 BC Julius Caesar EF  /  SUP+-NGC AU 5 / 4-5 / 5",
-      "hammer_price_usd": 2900.6,
-      "currency_original": "USD",
-      "price_original": 2900.6,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/thomasnumismatics/pic/thumb/2401.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
@@ -2294,37 +2138,6 @@
       }
     },
     {
-      "id": "mashops-fef52017c06b",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/thomasnumismatics/item.php?id=2714",
-      "title": "Tetradrachme 250-175 before J.C Alexander III VF / \u00a0NGC Ch VF",
-      "description": "Tetradrachme 250-175 before J.C Alexander III VF / \u00a0NGC Ch VF",
-      "hammer_price_usd": 928.19,
-      "currency_original": "USD",
-      "price_original": 928.19,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/thomasnumismatics/pic/thumb/2714.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-6a0e8d87c428",
       "source": "mashops",
       "listing_type": "fixed_price",
@@ -2375,378 +2188,6 @@
         "grade_numeric": null,
         "strike_score": 4,
         "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-0e8eecf47877",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/palombo/item.php?id=785",
-      "title": "T\u00e9tradrachme  S\u00e9leucide - D\u00e9m\u00e9trios I Soter (162-150) - T\u00e9tradrachme - NGC Choice VF",
-      "description": "T\u00e9tradrachme  S\u00e9leucide - D\u00e9m\u00e9trios I Soter (162-150) - T\u00e9tradrachme - NGC Choice VF",
-      "hammer_price_usd": 1148.64,
-      "currency_original": "USD",
-      "price_original": 1148.64,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/palombo/pic/thumb/785.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-8816fa4e9914",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2722506&AucID=7012&Lot=23192&Val=a08952d3b57e463bf4f9f96922a7aa0e",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61605, Lot 23192 \u2014 Ancients\nValerian I (AD 253-260). BI antoninianus (23mm, 3.24 gm, 7h). NGC MS 5/5 - 4/5. Antioch, AD 253-254. IMP C P LIC VALERIANVS AVG, radiate, draped, and cuirassed bust of Valerian I right, seen ",
-      "description": "Ancients\nValerian I (AD 253-260). BI antoninianus (23mm, 3.24 gm, 7h). NGC MS 5/5 - 4/5. Antioch, AD 253-254. IMP C P LIC VALERIANVS AVG, radiate, draped, and cuirassed bust of Valerian I right, seen from front / VIRT-VS AV-GG, Valerian and Gallienus standing facing each other, the left with globe in outstretched left hand, grounded scepter in right, the right with Victory left in outstretched right hand, transverse scepter in left. RIC V.I 292 var. (bust type).\n\nEx Heritage Auctions, Auction ...",
-      "hammer_price_usd": 700.0,
-      "currency_original": "USD",
-      "price_original": 700.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-15",
-      "image_url": "https://media.coinarchives.com/467f6f69c3d5d120eb4a5e6273f7035a/img/heritage/61605/image23192.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-8b0bc6f79af2",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2722507&AucID=7012&Lot=23193&Val=4ced3ea01a91a031e0210b92ea1cc6db",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61605, Lot 23193 \u2014 Ancients\nValerian II, as Caesar (AD 256-258). BI antoninianus (24mm, 11h). NGC MS, Silvering. Antioch, AD 257-258. P LIC COR VALERIANVS CAES, radiate, draped bust of Valerian II right, seen from behin",
-      "description": "Ancients\nValerian II, as Caesar (AD 256-258). BI antoninianus (24mm, 11h). NGC MS, Silvering. Antioch, AD 257-258. P LIC COR VALERIANVS CAES, radiate, draped bust of Valerian II right, seen from behind / VICTORIA GE-RMAN, Victory standing right (on left), wreath in outstretched right hand, palm over left shoulder, facing Valerian II (on right), standing facing, head left, globe in outstretched right hand, grounded scepter in left. RIC V.I 53. \n\nPublius Licinius Cornelius Valerianus, or simply ...",
-      "hammer_price_usd": 220.0,
-      "currency_original": "USD",
-      "price_original": 220.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-15",
-      "image_url": "https://media.coinarchives.com/e7ab7d972d4c867f231b1b7d6a2782e1/img/heritage/61605/image23193.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-845fd405123e",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2722509&AucID=7012&Lot=23195&Val=dcf52ae33fcb8c3cae72d4399b9ad6f4",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61605, Lot 23195 \u2014 Ancients\nGallienus, Joint Reign (AD 253-268). BI antoninianus (21mm, 3.55 gm, 1h) NGC MS 5/5 - 4/5. Antioch. IMP C P LIC GALLIENVS P F AVG, radiate, draped, and cuirassed bust of Gallienus right, seen",
-      "description": "Ancients\nGallienus, Joint Reign (AD 253-268). BI antoninianus (21mm, 3.55 gm, 1h) NGC MS 5/5 - 4/5. Antioch. IMP C P LIC GALLIENVS P F AVG, radiate, draped, and cuirassed bust of Gallienus right, seen from behind / IOVI CONSERVATORI, Gallienus standing right (on left), spear in left hand, receiving globe with right from Jupiter standing facing (on right), head left, grounded scepter in left hand; wreath above. RIC V.I 440 (Asia).\n\nEx Heritage Auctions, Auction 231608 (25 February 2016), lot 64...",
-      "hammer_price_usd": 380.0,
-      "currency_original": "USD",
-      "price_original": 380.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-15",
-      "image_url": "https://media.coinarchives.com/76dd337c7e9e50fdaa88e4e4dd0c9ed7/img/heritage/61605/image23195.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-c1d78ba9afe6",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2722513&AucID=7012&Lot=23199&Val=45e958bfa331e670d6925236c04a058a",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61605, Lot 23199 \u2014 Ancients\nAurelian (AD 270-275). BI antoninianus (22mm, 3.57 gm, 1h). NGC Choice MS 5/5 - 5/5, Silvering. Serdica, ca. AD 274. IMP AVRELIANVS AVG, radiate, cuirassed bust of Aurelian right / IOVI-CON-S",
-      "description": "Ancients\nAurelian (AD 270-275). BI antoninianus (22mm, 3.57 gm, 1h). NGC Choice MS 5/5 - 5/5, Silvering. Serdica, ca. AD 274. IMP AVRELIANVS AVG, radiate, cuirassed bust of Aurelian right / IOVI-CON-SER, Aurelian standing right (on left), grounded scepter in left hand, receiving globe with right hand from left hand of Sol standing left (on right), whip cradled in left arm, right foot on captive seated left before, head reverted; XXI\u2022T\u2022 in exergue. RIC V.I 275 var. (XXI\u2022T). Glimmering, hematite...",
-      "hammer_price_usd": 1700.0,
-      "currency_original": "USD",
-      "price_original": 1700.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-15",
-      "image_url": "https://media.coinarchives.com/79beff33fa17142d36299d596251d15c/img/heritage/61605/image23199.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-6011187be2de",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2722514&AucID=7012&Lot=23200&Val=65546da7320b7ce6b08bc4dfd55c66b7",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61605, Lot 23200 \u2014 Ancients\nAurelian (AD 270-275). BI antoninianus (22mm, 3.52 gm, 1h). NGC MS 5/5 - 5/5, Silvering. Siscia. IMP AVRELIANVS AVG, radiate, cuirassed bust of Aurelian right, seen from front / ORIE-N-S-AVG,",
-      "description": "Ancients\nAurelian (AD 270-275). BI antoninianus (22mm, 3.52 gm, 1h). NGC MS 5/5 - 5/5, Silvering. Siscia. IMP AVRELIANVS AVG, radiate, cuirassed bust of Aurelian right, seen from front / ORIE-N-S-AVG, Sol standing facing, radiate head left, right hand raised in gesture of adlocutio, globe in outstretched left, captive seated at feet to left; VI in exergue. RIC V.I 247.\n\nEx Heritage Auctions, Auction 231603 (21 January 2016), lot 63073.   www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.h...",
-      "hammer_price_usd": 1500.0,
-      "currency_original": "USD",
-      "price_original": 1500.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-15",
-      "image_url": "https://media.coinarchives.com/24b58105d058dd632eba0cded94c7951/img/heritage/61605/image23200.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-3a559d2191a2",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2722518&AucID=7012&Lot=23204&Val=d9bcc713428455836f494cdc83aac8f4",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61605, Lot 23204 \u2014 Ancients\nProbus (AD 276-282). BI antoninianus (19mm, 3.87 gm, 5h). NGC MS 5/5 - 4/5, Silvering. Cyzicus, 1st officina, AD 280. IMP C M AVR PROBVS P F AVG, radiate, mantled bust of Probus left, seen fr",
-      "description": "Ancients\nProbus (AD 276-282). BI antoninianus (19mm, 3.87 gm, 5h). NGC MS 5/5 - 4/5, Silvering. Cyzicus, 1st officina, AD 280. IMP C M AVR PROBVS P F AVG, radiate, mantled bust of Probus left, seen from front, eagle-tipped scepter in right hand / SO-L-I INVICT-O, Sol in spread quadriga to front, head left, right hand raised in gesture of adlocutio, whip in left; CM / XXIA below. RIC V.II 911. Chardonnay toning. \n\nMarcus Aurelius Probus reigned during a time when strong military command and eff...",
-      "hammer_price_usd": 360.0,
-      "currency_original": "USD",
-      "price_original": 360.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-15",
-      "image_url": "https://media.coinarchives.com/84457ba5706bd4bd109438c4e9ce9f67/img/heritage/61605/image23204.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-d4f24943fd06",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2722534&AucID=7012&Lot=23220&Val=a4e39253ebbed29a89971cdbff1706e0",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61605, Lot 23220 \u2014 Ancients\nDiocletian (AD 284-305). BI antoninianus (22mm, 3.66 gm, 1h). NGC Choice MS 5/5 - 5/5, Silvering. Siscia, 1st officina, AD 289-290. IMP C C VAL DIOCLETIANVS P F AVG, radiate, cuirassed bust o",
-      "description": "Ancients\nDiocletian (AD 284-305). BI antoninianus (22mm, 3.66 gm, 1h). NGC Choice MS 5/5 - 5/5, Silvering. Siscia, 1st officina, AD 289-290. IMP C C VAL DIOCLETIANVS P F AVG, radiate, cuirassed bust of Diocletian right, seen from front / CONSERVATOR-AVGG, emperor standing right (on left), Jupiter standing facing, head left (on right), each sacrificing at altar between them from patera in outstretched right hand, grounded scepter in left; XXIA\u2022I\u2022 in exergue. RIC V.II 263.\n\nEx Heritage Auctions,...",
-      "hammer_price_usd": 1800.0,
-      "currency_original": "USD",
-      "price_original": 1800.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-15",
-      "image_url": "https://media.coinarchives.com/d4f2aee298f994c43cb9f0c89ffe4dff/img/heritage/61605/image23220.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-bf1dd0eb39af",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2722535&AucID=7012&Lot=23221&Val=fc9f202d606ff33c7aa52ffe55391331",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61605, Lot 23221 \u2014 Ancients\nDiocletian (AD 284-305). BI antoninianus (23mm, 3.43 gm, 1h). NGC Choice MS 5/5 - 4/5, Silvering, flan flaw. Lugdunum, 2nd officina, ca. AD 285. IMP C C VAL DIOCLETIANVS P F AVF, radiate, dra",
-      "description": "Ancients\nDiocletian (AD 284-305). BI antoninianus (23mm, 3.43 gm, 1h). NGC Choice MS 5/5 - 4/5, Silvering, flan flaw. Lugdunum, 2nd officina, ca. AD 285. IMP C C VAL DIOCLETIANVS P F AVF, radiate, draped, and cuirassed bust of Diocletian right / IOVI CONSERVAT AVG, Jupiter standing facing, head left, thunderbolt in outstretched right hand, grounded scepter in left; B in inner left field. RIC V.II 41.\n\nWhen Diocletian came into power, he realized that the empire was too large to be run by one p...",
-      "hammer_price_usd": 750.0,
-      "currency_original": "USD",
-      "price_original": 750.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-15",
-      "image_url": "https://media.coinarchives.com/e171826edcdedde3fd7431bdeaca1182/img/heritage/61605/image23221.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-a8c172d5864c",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2722537&AucID=7012&Lot=23223&Val=b4d0ea4421e30894663da8613b3f2dd7",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61605, Lot 23223 \u2014 Ancients\nMaximian (AD 286-310). BI antoninianus (20mm, 3.72 gm, 6h). NGC MS 5/5 - 4/5, Silvering. Cyzicus, 4th officina, AD 293-295. IMP C M A MAXIMIANVS AVG, radiate, draped bust of Maximian right, s",
-      "description": "Ancients\nMaximian (AD 286-310). BI antoninianus (20mm, 3.72 gm, 6h). NGC MS 5/5 - 4/5, Silvering. Cyzicus, 4th officina, AD 293-295. IMP C M A MAXIMIANVS AVG, radiate, draped bust of Maximian right, seen from front / CONCORDIA MILITVM, Maximian standing right (on left), parazonium in left hand, right hand accepting Victory standing left on globe from Jupiter standing left (on right), grounded scepter in left hand; \u0394 between, XXI in exergue. RIC V.II 606 var. (obverse legend). \n\nMarcus Aurelius...",
-      "hammer_price_usd": 280.0,
-      "currency_original": "USD",
-      "price_original": 280.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-15",
-      "image_url": "https://media.coinarchives.com/56ace782ddf577737126f9156628f09a/img/heritage/61605/image23223.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-c6bcd3676acd",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2722552&AucID=7012&Lot=23238&Val=6242dd3e128dffa9a0f7f3d04b245700",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61605, Lot 23238 \u2014 Ancients\nVetranio (AD 350). BI centenionalis (25mm, 5.88 gm, 7h). NGC MS 4/5 - 5/5. Siscia, 2nd officina. D N VETRA-NIO P F AVG, laureate, draped, and cuirassed bust of Vetranio right, seen from front",
-      "description": "Ancients\nVetranio (AD 350). BI centenionalis (25mm, 5.88 gm, 7h). NGC MS 4/5 - 5/5. Siscia, 2nd officina. D N VETRA-NIO P F AVG, laureate, draped, and cuirassed bust of Vetranio right, seen from front; A behind / CONCORDIA-MILITVM, Vetranio in military dress standing facing, head left, grounded standard with Christogram on banner in each hand; star above, A in left field, BSIS star in exergue. RIC VIII 277.\n\nEx Heritage Auctions, Auction 3057 (11 September 2017), lot 32233.  www.HA.com/TexasAu...",
-      "hammer_price_usd": 360.0,
-      "currency_original": "USD",
-      "price_original": 360.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-15",
-      "image_url": "https://media.coinarchives.com/b04ef0699589bb0c24c3de513331141b/img/heritage/61605/image23238.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-dfaf36805f6f",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687336&AucID=6920&Lot=34006&Val=10807870af95c4584b80577b01df77cd",
-      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3129, Lot 34006 \u2014 Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AV distater (21mm, 17.23 gm, 10h). NGC MS\u2605 5/5 - 4/5, Fine Style Lifetime issue, Aegeae(?), 336-323 BC. Head of Athena right, hair in",
-      "description": "Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AV distater (21mm, 17.23 gm, 10h). NGC MS\u2605 5/5 - 4/5, Fine Style Lifetime issue, Aegeae(?), 336-323 BC. Head of Athena right, hair in four tight corkscrew curls, upswept at temple, and flowing over left shoulder, wearing pendant earring, double-necklace, and triple-crested Corinthian helmet pushed back on head, long divergent crest ends, bowl decorated with coiled serpent right / \u0391\u039b\u0395\u039e\u0391\u039d\u0394\u03a1\u039f\u03a5, Nike standing facing, head left, wre...",
-      "hammer_price_usd": 240000.0,
-      "currency_original": "USD",
-      "price_original": 240000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-12",
-      "image_url": "https://media.coinarchives.com/35e516c772ec13fb92a305b1669c95a9/img/heritage/3129/image34006.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
         "details_grade": null,
         "certification_url": null
       },
@@ -2883,130 +2324,6 @@
       }
     },
     {
-      "id": "coinarchives-0f248b90b999",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2704739&AucID=6969&Lot=6084&Val=dff3ce8ee70f73c1a1bcdf320daec042",
-      "title": "Marciniak - Auction 28, Lot 6084 \u2014 Republika, Juliusz Cezar (49-48 p.n.e.) Denar, Mennica ruchoma - S\u0142o\u0144 - pi\u0119kny\n\nPi\u0119kny egzemplarz, ciekawej emisji Juliusza Cezara. Wybity w mennicy wojskowej, podr\u00f3\u017cuj\u0105cej z Cezarem w P\u00f3\u0142nocnych W\u0142os",
-      "description": "Republika, Juliusz Cezar (49-48 p.n.e.) Denar, Mennica ruchoma - S\u0142o\u0144 - pi\u0119kny\n\nPi\u0119kny egzemplarz, ciekawej emisji Juliusza Cezara. Wybity w mennicy wojskowej, podr\u00f3\u017cuj\u0105cej z Cezarem w P\u00f3\u0142nocnych W\u0142oszech (49-48 p.n.e.)\n\nAwers: S\u0142o\u0144 krocz\u0105cy w prawo, tratuj\u0105cy w\u0119\u017ca, w odcinku CAESAR\n\nRewers: Utensylia kap\u0142a\u0144skie: czerpak (simpulum), kropid\u0142o, top\u00f3r i szpiczasta czapka kap\u0142a\u0144ska (apex).\n\nSrebro, \u015brednica 18 mm, waga 3,81 g.Reference: Crawford 443/1\nGrade: NGC Ch XF 4/5 4/VG\n\nStarting price: 9...",
-      "hammer_price_usd": 1671.84,
-      "currency_original": "EUR",
-      "price_original": 1548.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-31",
-      "image_url": "https://media.coinarchives.com/57f1ab198a9236761690002264539b43/img/marciniak/028/image06084.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-3233ad6ad6d5",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2704922&AucID=6969&Lot=6267&Val=00b25b0ec0e94ba509ddc11d18e77736",
-      "title": "Marciniak - Auction 28, Lot 6267 \u2014 Aleksander Sewer (222-235 n.e.) Denar, Rzym\n\nAwers: Popiersie cesarza w wie\u0144cu laurowym, zbroi i paludamentum, w prawo, w otoku legenda IMP ALEXANDER PIVS AVG\n\nRewers: Spes stoj\u0105ca w lewo, trzymaj\u0105ca ",
-      "description": "Aleksander Sewer (222-235 n.e.) Denar, Rzym\n\nAwers: Popiersie cesarza w wie\u0144cu laurowym, zbroi i paludamentum, w prawo, w otoku legenda IMP ALEXANDER PIVS AVG\n\nRewers: Spes stoj\u0105ca w lewo, trzymaj\u0105ca kwiat i unosz\u0105ca sukni\u0119, w otoku legenda SPES PVBLICA\n\nSrebro, \u015brednica ~19 mm, waga 3,15 g. \nGrade: NGC Ch AU\n\nStarting price: 72 EUR...",
-      "hammer_price_usd": 218.16,
-      "currency_original": "EUR",
-      "price_original": 202.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-31",
-      "image_url": "https://media.coinarchives.com/a574119fb28e3421c236a2978306a924/img/marciniak/028/image06267.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-1867cb9b1bab",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2704935&AucID=6969&Lot=6280&Val=6787a6b2648fc2c4691535463be665d0",
-      "title": "Marciniak - Auction 28, Lot 6280 \u2014 Maksymin Trak (235-238 n.e.) Denar, Rzym\n\nAwers: Popiersie cesarza w wie\u0144cu laurowym, zbroi i paludamentum, w prawo, w otoku legenda IMP MAXIMINVS PIVS AVG\n\nRewers: Wiktoria krocz\u0105ca w prawo, trzymaj\u0105",
-      "description": "Maksymin Trak (235-238 n.e.) Denar, Rzym\n\nAwers: Popiersie cesarza w wie\u0144cu laurowym, zbroi i paludamentum, w prawo, w otoku legenda IMP MAXIMINVS PIVS AVG\n\nRewers: Wiktoria krocz\u0105ca w prawo, trzymaj\u0105ca wieniec laurowy i ga\u0142\u0105zk\u0119 palmow\u0105, w otoku legenda VICTORIA AVG\n\nSrebro, \u015brednica ~20,5 mm, waga 2,38 g. \nGrade: NGC MS 5/5 5/VG\n\nStarting price: 84 EUR...",
-      "hammer_price_usd": 463.32,
-      "currency_original": "EUR",
-      "price_original": 429.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-31",
-      "image_url": "https://media.coinarchives.com/e4784bbd7adfe845e5b1028eb181cc60/img/marciniak/028/image06280.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-d4e58eb4db86",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2649143&AucID=6756&Lot=31002&Val=e98acb01c9d9eebaef7676324aa62b2d",
-      "title": "Heritage World Coin Auctions - Dallas Signature Sale 3126, Lot 31002 \u2014 Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AV distater (22mm, 17.22 gm, 10h). NGC Choice AU 5/5 - 4/5. Lifetime issue, Amphipolis, 325-323 BC. Head of Athena right, hair in fou",
-      "description": "Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AV distater (22mm, 17.22 gm, 10h). NGC Choice AU 5/5 - 4/5. Lifetime issue, Amphipolis, 325-323 BC. Head of Athena right, hair in four tight corkscrew curls, upswept at temple, two more curls over left shoulder, wearing pendant earring, double-necklace, and triple-crested Corinthian helmet pushed back on head, long divergent crest ends, bowl decorated with coiled serpent right / \u0391\u039b\u0395\u039e\u0391\u039d\u0394\u03a1\u039f\u03a5, Nike standing facing, head left, wrea...",
-      "hammer_price_usd": 80000.0,
-      "currency_original": "USD",
-      "price_original": 80000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-11-06",
-      "image_url": "https://media.coinarchives.com/eb3a081bb02b49408c584d61da2f63ef/img/heritage/3126/image31002.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-910c5ebe0739",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -3069,37 +2386,6 @@
       }
     },
     {
-      "id": "coinarchives-4000e23953c0",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2643443&AucID=6731&Lot=4327&Val=7152e0a302d74f0c346f304ef35ffb90",
-      "title": "Marciniak - Auction 27, Lot 4327 \u2014 Filip I Arab (244-249 n.e.) Antoninian, Rzym\n\nAwers: Popiersie cesarza w koronie promienistej, paludamentum, zbroi w prawo, w otoku legenda IMP M IVL PHILIPPVS AVG\n\nRewers: Roma siedz\u0105ca na tronie w p",
-      "description": "Filip I Arab (244-249 n.e.) Antoninian, Rzym\n\nAwers: Popiersie cesarza w koronie promienistej, paludamentum, zbroi w prawo, w otoku legenda IMP M IVL PHILIPPVS AVG\n\nRewers: Roma siedz\u0105ca na tronie w prawo, trzymaj\u0105ca Wiktori\u0119 i w\u0142\u00f3czni\u0119, pod tronem tarcza, w otoku legenda ROMAE AETERNA\n\nSrebro, \u015brednica 22 mm, waga 4,29 g. \nGrade: NGC MS 4/5 4/VG\n\nStarting price: 120 EUR...",
-      "hammer_price_usd": 190.08,
-      "currency_original": "EUR",
-      "price_original": 176.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-09-29",
-      "image_url": "https://media.coinarchives.com/3a121aa21d4cfee830c1a89d63d3364a/img/marciniak/027/image04327.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-897e9c3f4da4",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -3147,161 +2433,6 @@
         "verified": false,
         "cert_number": null,
         "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-31b7a92ddddb",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2649144&AucID=6756&Lot=31003&Val=578d4b50a397b73d0134dae594de65ac",
-      "title": "Heritage World Coin Auctions - Dallas Signature Sale 3126, Lot 31003 \u2014 Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AV distater (21mm, 17.22 gm, 9h). NGC AU\u2605 5/5 - 5/5, Fine Style. Lifetime issue, Aegeae(?), 336-323 BC. Head of Athena right, hair in",
-      "description": "Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AV distater (21mm, 17.22 gm, 9h). NGC AU\u2605 5/5 - 5/5, Fine Style. Lifetime issue, Aegeae(?), 336-323 BC. Head of Athena right, hair in four tight corkscrew curls, upswept at temple, and flowing over left shoulder, wearing pendant earring, double-necklace, and triple-crested Corinthian helmet pushed back on head, long divergent crest ends, bowl decorated with coiled serpent right / \u0391\u039b\u0395\u039e\u0391\u039d\u0394\u03a1\u039f\u03a5, Nike standing facing, head left, wre...",
-      "hammer_price_usd": 130000.0,
-      "currency_original": "USD",
-      "price_original": 130000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-11-06",
-      "image_url": "https://media.coinarchives.com/00a29662b3d1cf555d445da5df14bda3/img/heritage/3126/image31003.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-7faa01e4e3f4",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2649145&AucID=6756&Lot=31004&Val=f645884bdfcababe8ddae7e39447aea9",
-      "title": "Heritage World Coin Auctions - Dallas Signature Sale 3126, Lot 31004 \u2014 Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AV distater (21mm, 17.20 gm, 7h). NGC AU 5/5 - 3/5, Fine Style, edge cut. Lifetime-early posthumous issue, Amphipolis, 330-320 BC. He",
-      "description": "Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AV distater (21mm, 17.20 gm, 7h). NGC AU 5/5 - 3/5, Fine Style, edge cut. Lifetime-early posthumous issue, Amphipolis, 330-320 BC. Head of Athena right, hair in four tight corkscrew curls, upswept at temple, three more curls over left shoulder, wearing pendant earring, double-necklace, and triple-crested Corinthian helmet pushed back on head, long intersecting crest ends, bowl decorated with coiled serpent right / \u0391\u039b\u0395\u039e\u0391\u039d\u0394\u03a1\u039f\u03a5, N...",
-      "hammer_price_usd": 42000.0,
-      "currency_original": "USD",
-      "price_original": 42000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-11-06",
-      "image_url": "https://media.coinarchives.com/31fde407ce79b27340ec37c6c11bc40c/img/heritage/3126/image31004.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-14da8838041f",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2649146&AucID=6756&Lot=31005&Val=2e70e52d3336a12afcd5a9175863682e",
-      "title": "Heritage World Coin Auctions - Dallas Signature Sale 3126, Lot 31005 \u2014 Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AV distater (22mm, 17.16 gm, 9h). NGC XF 5/5 - 4/5. Lifetime-early posthumous issue, Amphipolis, ca. 330-320 BC. Head of Athena right",
-      "description": "Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AV distater (22mm, 17.16 gm, 9h). NGC XF 5/5 - 4/5. Lifetime-early posthumous issue, Amphipolis, ca. 330-320 BC. Head of Athena right, hair in four tight corkscrew curls, upswept at temple, two more curls over left shoulder, wearing pendant earring, double-necklace, and triple-crested Corinthian helmet pushed back on head, long divergent crest ends, bowl decorated with coiled serpent right / \u0391\u039b\u0395\u039e\u0391\u039d\u0394\u03a1\u039f\u03a5, Nike standing facing, he...",
-      "hammer_price_usd": 30000.0,
-      "currency_original": "USD",
-      "price_original": 30000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-11-06",
-      "image_url": "https://media.coinarchives.com/1d70f2bdb698207d0d208b35ef4d3e77/img/heritage/3126/image31005.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-25980da8e7d8",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2695132&AucID=6923&Lot=45029&Val=8b70af65eab48ae59df6b32f4d380bdd",
-      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 45029 \u2014 ITALY. Bruttium. The Brettii. AE Double Unit, ca. 211-208 B.C. NGC Ch VF. Flan Flaw.\nTo view all items from the Cookie Family Collection, click  here.\nHGC-1, 1362; HN Italy-1987. Obverse: Head of Ares",
-      "description": "ITALY. Bruttium. The Brettii. AE Double Unit, ca. 211-208 B.C. NGC Ch VF. Flan Flaw.\nTo view all items from the Cookie Family Collection, click  here.\nHGC-1, 1362; HN Italy-1987. Obverse: Head of Ares left, wearing crested Corinthian helmet decorated with griffin; Reverse: Athena advancing right, holding shield with both hands, spear leans against her; monogram to inner right; bucranium to outer right.\n\nFrom the Cookie Family Collection.\n\nEx: Kroisos Collection (Stack's, 1/2008, Lot # 2276 [wi...",
-      "hammer_price_usd": 280.0,
-      "currency_original": "USD",
-      "price_original": 280.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-16",
-      "image_url": "https://media.coinarchives.com/5c82ae7006a729917315e665acf21ecc/img/ponterio/236/image45029.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-863ed7fdc2ea",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2694679&AucID=6923&Lot=40223&Val=50a98881839f7091c2a764d7505f7ac9",
-      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 40223 \u2014 ANONYMOUS, time of Tiberius, A.D. 14-37. AE Tessera or Spintria (4.89 gms), ca. A.D 22/3-37. NGC FINE, Strike: 5/5 Surface: 2/5.\nTo view all items from the John P. Burnham Collection, click  here.\nBut",
-      "description": "ANONYMOUS, time of Tiberius, A.D. 14-37. AE Tessera or Spintria (4.89 gms), ca. A.D 22/3-37. NGC FINE, Strike: 5/5 Surface: 2/5.\nTo view all items from the John P. Burnham Collection, click  here.\nButtrey-4/VIII (pairing unlisted). Obverse: Erotic scene featuring male left and female reclining right; Reverse: VIII within wreath. An EXTREMELY RARE type and featuring a die pairing that is unrecorded by Buttrey, this example does display some moderate roughness across both sides, but still offers...",
-      "hammer_price_usd": 2400.0,
-      "currency_original": "USD",
-      "price_original": 2400.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-16",
-      "image_url": "https://media.coinarchives.com/3098e398720faf32b2e6b5d72126e74b/img/ponterio/236/image40223.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "F",
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 2,
@@ -3565,68 +2696,6 @@
       }
     },
     {
-      "id": "coinarchives-d7dc15b80d09",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2695035&AucID=6923&Lot=44267&Val=316ad9f5b8c18eb9c1ed0dd577a9a706",
-      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 44267 \u2014 VESPASIAN, 69-79 C.E. AE As (10.05 gms), Lugdunum Mint, 77-78 C.E. NGC Ch F, Strike: 5/5 Surface: 2/5.\nTo view all items from the Rabbi Victor H. Weissberg and Tamar Weissberg Collection, click  here.",
-      "description": "VESPASIAN, 69-79 C.E. AE As (10.05 gms), Lugdunum Mint, 77-78 C.E. NGC Ch F, Strike: 5/5 Surface: 2/5.\nTo view all items from the Rabbi Victor H. Weissberg and Tamar Weissberg Collection, click  here.\nRIC-1233; Hendin-6593. \"Judaea Capta\" commemorative. Obverse: Laureate bust of Vespasian right; Reverse: Palm tree; to right, Judaea seated to right; to left, arms. Rather appealing, this Choice example provides nice strike quality, despite some circulation and surfaces faults.\n\nFrom the Rabbi Vi...",
-      "hammer_price_usd": 400.0,
-      "currency_original": "USD",
-      "price_original": 400.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-16",
-      "image_url": "https://media.coinarchives.com/1a39c0a5c07732416aa8910494d69374/img/ponterio/236/image44267.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "F",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-8aec60462fe6",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2695637&AucID=6923&Lot=45534&Val=783bce353d6bcb43c9b8f8810e0fb014",
-      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 45534 \u2014 JULIAN II, A.D. 360-363. AE Double Maiorina (8.56 gms), Antioch Mint, A.D. 361-363. NGC Ch EF, Strike: 5/5 Surface: 4/5.\nTo view all items from the Connecticut Collection, click  here.\nRIC-216. Obvers",
-      "description": "JULIAN II, A.D. 360-363. AE Double Maiorina (8.56 gms), Antioch Mint, A.D. 361-363. NGC Ch EF, Strike: 5/5 Surface: 4/5.\nTo view all items from the Connecticut Collection, click  here.\nRIC-216. Obverse: Pearl-diademed, draped, and cuirassed bust right; Reverse: Bull standing right, two stars above.\n\nFrom the Connecticut Collection. \n\nEx: Classical Numismatic Group 37 (3/1996) Lot # 2001.\n\nEstimate: 75 - 150...",
-      "hammer_price_usd": 460.0,
-      "currency_original": "USD",
-      "price_original": 460.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-16",
-      "image_url": "https://media.coinarchives.com/3ec9a9599b3ee93188f70a23ab316149/img/ponterio/236/image45534.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-297f7f132dd1",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -3646,68 +2715,6 @@
         "grade_numeric": null,
         "strike_score": 2,
         "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-a5680610740e",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2670427&AucID=6842&Lot=23060&Val=bad065d8656c943ab0b112369041bbfb",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61558, Lot 23060 \u2014 Ancients\nJUDAEA. Aelia Capitolina. Commodus (AD 177-192). AE (22mm, 1h). NGC Choice Fine.  IM COM-ANT AVG AV (AVG ligate), laureate head of Commodus right, slight drapery on far shoulder / C-OL AE-L C",
-      "description": "Ancients\nJUDAEA. Aelia Capitolina. Commodus (AD 177-192). AE (22mm, 1h). NGC Choice Fine.  IM COM-ANT AVG AV (AVG ligate), laureate head of Commodus right, slight drapery on far shoulder / C-OL AE-L CAP, laureate, draped bust of Dionysus right. RPC IV.3 Online Unassigned 9283. Meshorer, Aelia 74 (reverse as Crispina). Jade patina. \n\nEx Classical Numismatic Group, Electronic Auction 337 (22 October 2014), lot 303; Patrick H. C. Tan Collection (Classical Numismatic Group, Electronic Auction 273,...",
-      "hammer_price_usd": 70.0,
-      "currency_original": "USD",
-      "price_original": 70.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-11-30",
-      "image_url": "https://media.coinarchives.com/1dcc95b3c5a2d42436e7efde526578da/img/heritage/61558/image23060.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "F",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-4d89ecf243ca",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2670440&AucID=6842&Lot=23073&Val=1c61e3193223884f2961071b78258188",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61558, Lot 23073 \u2014 Ancients\nSAMARIA. Sebaste. Julia Domna (AD 193-217). AE (24mm, 5h). NGC Choice Fine, repatinated.  After AD 201/202. IVLIA DO-MNA AVG, draped bust of Julia Domna right / COL L SE-SEBASTE, Kore-Perseph",
-      "description": "Ancients\nSAMARIA. Sebaste. Julia Domna (AD 193-217). AE (24mm, 5h). NGC Choice Fine, repatinated.  After AD 201/202. IVLIA DO-MNA AVG, draped bust of Julia Domna right / COL L SE-SEBASTE, Kore-Persephone standing facing, head right, grounded torch in right hand, grain ears lowered in left; cista mystica at feet behind. RPC V.3 Online Unassigned 68534. \n\nEx the Patrick H.C. Tan Collection (Classical Numismatic Group, Auction 97, 17 September 2014), lot 557. \n\nJulia Domna was of Syrian-Arab ance...",
-      "hammer_price_usd": 40.0,
-      "currency_original": "USD",
-      "price_original": 40.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-11-30",
-      "image_url": "https://media.coinarchives.com/6e9fd9782135d25ede606e7b375fab66/img/heritage/61558/image23073.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "F",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
         "details_grade": null,
         "certification_url": null
       },
@@ -3803,68 +2810,6 @@
         "surface_score": 5,
         "details_grade": null,
         "certification_url": "https://www.ngccoin.com/certlookup/8585056002/"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-1db0ddb3e2c9",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2678957&AucID=6872&Lot=25308&Val=8a512ea308979fb2ec5603bb85c9930e",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61557, Lot 25308 \u2014 Ancients\nJohn III Ducas-Vatatzes, Empire of Nicaea (AD 1221/2-1254), AV hyperpyron (28mm, 4.59 gm, 5h). NGC MS 4/5 - 3/5, marks, die shift, brushed. Magnesia. IC-XC (barred), Christ seated facing on b",
-      "description": "Ancients\nJohn III Ducas-Vatatzes, Empire of Nicaea (AD 1221/2-1254), AV hyperpyron (28mm, 4.59 gm, 5h). NGC MS 4/5 - 3/5, marks, die shift, brushed. Magnesia. IC-XC (barred), Christ seated facing on backless throne, wearing nimbus cruciger with one pellet in each arm, pallium, and colobium, right hand raised in benediction, book of Gospels cradled in left; double border / Iw / \u0394\u0404C/\u03a0O-T/w / \u03a0I/\u03a6/V (T/w ligate), The Virgin, nimbate, standing facing (on right), wearing pallium and maphorium, crow...",
-      "hammer_price_usd": 850.0,
-      "currency_original": "USD",
-      "price_original": 850.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-29",
-      "image_url": "https://media.coinarchives.com/49da9c3d881d6c6db81c86e5f44d2a22/img/heritage/61557/image25308.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-aa85361cf1d2",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2670445&AucID=6842&Lot=23078&Val=a81dcf4c4ffcb96f40f7da289c5644d5",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61558, Lot 23078 \u2014 Ancients\nGALATIA. Pessinus. Faustina Jr. (AD 147-175/176). AE (19mm, 7h). NGC Choice Fine, repatinated.  \u03a6\u0391\u03a5\u03f9\u03a4\u0395\u0399\u039d\u0391 \u039d\u0395\u0391 \u03f9\u0395\u0392\u0391\u03f9\u03a4\u0397, draped bust of Faustina Junior right / \u03a0\u0395\u03f9\u03f9\u0399\u039dO-\u03a5\u039d\u03a4\u0399\u03a9\u039d, Harpocrates, nude",
-      "description": "Ancients\nGALATIA. Pessinus. Faustina Jr. (AD 147-175/176). AE (19mm, 7h). NGC Choice Fine, repatinated.  \u03a6\u0391\u03a5\u03f9\u03a4\u0395\u0399\u039d\u0391 \u039d\u0395\u0391 \u03f9\u0395\u0392\u0391\u03f9\u03a4\u0397, draped bust of Faustina Junior right / \u03a0\u0395\u03f9\u03f9\u0399\u039dO-\u03a5\u039d\u03a4\u0399\u03a9\u039d, Harpocrates, nude, standing facing, head left, wearing tall headdress, right hand raised to mouth, cornucopia cradled in left arm. RPC IV.3 Online Temporary 10051.\n\nEx Numismatik Naumann, Auction 49 (8 January 2017), lot 462. \n\nAnnia Galeria Faustina the Younger was born in about AD 129 to Antoninus Pius and his w...",
-      "hammer_price_usd": 55.0,
-      "currency_original": "USD",
-      "price_original": 55.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-11-30",
-      "image_url": "https://media.coinarchives.com/38f545f0d41565e1d5367b3e5761a5fb/img/heritage/61558/image23078.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "F",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
       },
       "metadata": {
         "mint": null,
@@ -3987,37 +2932,6 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-9c582bc22aac",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2670432&AucID=6842&Lot=23065&Val=87bde95d08fd1f5e3eec903df7458db0",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61558, Lot 23065 \u2014 Ancients\nGALILEE. Caesarea Paneas. Plautilla (AD 202-205). AE (23mm, 12h). NGC VF, smoothing, repatinated.  Dated Regnal Year 204 (AD 201). \u03a6\u039f\u03a5\u039b\u039f\u03a5\u0399\u0391-\u03a0\u039b\u0391\u03a5\u03a4\u0399\u039b\u0391 \u03f9\u0395\u0392, draped bust of Plautilla right / [...",
-      "description": "Ancients\nGALILEE. Caesarea Paneas. Plautilla (AD 202-205). AE (23mm, 12h). NGC VF, smoothing, repatinated.  Dated Regnal Year 204 (AD 201). \u03a6\u039f\u03a5\u039b\u039f\u03a5\u0399\u0391-\u03a0\u039b\u0391\u03a5\u03a4\u0399\u039b\u0391 \u03f9\u0395\u0392, draped bust of Plautilla right / [...] A CT \u03a0\u03a0\u0391\u039dI(?), Tyche seated right on rocks, corn ears in outstretched hand, river-god swimming towards her at feet before; \u0394-\u03f9 (date) across fields. RPC V.3 Online Unassigned 69243 var. (reverse legend). Moss patina with harvest backlight.\n\nPlautilla, Caracalla's second-cousin, was of noble birt...",
-      "hammer_price_usd": 60.0,
-      "currency_original": "USD",
-      "price_original": 60.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-11-30",
-      "image_url": "https://media.coinarchives.com/1274b201b58c5a823ad302699ddf27b2/img/heritage/61558/image23065.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
         "details_grade": null,
         "certification_url": null
       },
@@ -4266,130 +3180,6 @@
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-f76cd1ab5614",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2710382&AucID=6990&Lot=600&Val=7ce76ca6a91ff6fd479b3bccd1e5af4a",
-      "title": "Ira & Larry Goldberg Coins & Collectibles - Auction 150, Lot 600 \u2014 Lucius Verus, AD 161-169. Silver Denaius (3.23g) 18 mm. Laureate bust of the emperor facing r. Reverse: Aequitas standing. NGC AU, Strike: 4/5; Surface: 3/5.  Fully lustrous.  Estimated Value $250 - U",
-      "description": "Lucius Verus, AD 161-169. Silver Denaius (3.23g) 18 mm. Laureate bust of the emperor facing r. Reverse: Aequitas standing. NGC AU, Strike: 4/5; Surface: 3/5.  Fully lustrous.  Estimated Value $250 - UP\nEx The Peter Preovolos Collection....",
-      "hammer_price_usd": 290.0,
-      "currency_original": "USD",
-      "price_original": 290.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-02-23",
-      "image_url": "https://media.coinarchives.com/a42a43ec663d792c018c436a5bd57090/img/goldberg/150/image00600.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-ef4e5d1bc196",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2710384&AucID=6990&Lot=602&Val=803d6d0a3b5d83bac70501a5a64cfb6e",
-      "title": "Ira & Larry Goldberg Coins & Collectibles - Auction 150, Lot 602 \u2014 Septimius Severus and wife Julia Domna Silver Denarii. The Sept. Severus exhibits Pax seated; Julia Domna with Vesta standing. Both NGC graded Mint State.  Each fully lustrous and lightly toned. Lot o",
-      "description": "Septimius Severus and wife Julia Domna Silver Denarii. The Sept. Severus exhibits Pax seated; Julia Domna with Vesta standing. Both NGC graded Mint State.  Each fully lustrous and lightly toned. Lot of 2 coins.  Estimated Value $300 - UP\nEx Peter Preovolos Collection....",
-      "hammer_price_usd": 500.0,
-      "currency_original": "USD",
-      "price_original": 500.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-02-23",
-      "image_url": "https://media.coinarchives.com/7b9a01072b698a001b61df739257c327/img/goldberg/150/image00602.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "G",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-96c21f541acd",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2722502&AucID=7012&Lot=23188&Val=8da506cc3e2185c67abc45f47433fe2c",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61605, Lot 23188 \u2014 Ancients\nTrebonianus Gallus (AD 251-253). AR antoninianus (21mm, 3.72 gm, 11h). NGC Choice XF 5/5 - 4/5. Antioch, ca. 251-253(?). IMP C C VIB TREB GALLVS P F AVG, radiate, draped, and cuirassed bust o",
-      "description": "Ancients\nTrebonianus Gallus (AD 251-253). AR antoninianus (21mm, 3.72 gm, 11h). NGC Choice XF 5/5 - 4/5. Antioch, ca. 251-253(?). IMP C C VIB TREB GALLVS P F AVG, radiate, draped, and cuirassed bust of Trebonianus Gallus right, seen from behind. / MARTI-PAC-IFERO, Mars, helmeted, advancing left, cloak billowing behind, branch in outstretched right hand, spear cradled in left arm. RIC IV.III 85.\n\nAfter the deaths of co-emperors Decius and Herennius Etruscus in June of AD 251 at the hands of the...",
-      "hammer_price_usd": 220.0,
-      "currency_original": "USD",
-      "price_original": 220.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-15",
-      "image_url": "https://media.coinarchives.com/6f101a68848bb0fdbdba63ad839baba6/img/heritage/61605/image23188.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-c20b25a56008",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2695734&AucID=6923&Lot=45631&Val=35d04ee6b9ee6a38016ccbc86fffb804",
-      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 45631 \u2014 JOHN III (OF NICAEA), 1222-1254. AV Hyperpyron (4.17 gms), Magnesia Mint, 1118-1122. NGC Ch AU, Strike: 4/5 Surface: 3/5. Brushed, Clipped.\nTo view all items from the Peter Jones M.D. Collection, clic",
-      "description": "JOHN III (OF NICAEA), 1222-1254. AV Hyperpyron (4.17 gms), Magnesia Mint, 1118-1122. NGC Ch AU, Strike: 4/5 Surface: 3/5. Brushed, Clipped.\nTo view all items from the Peter Jones M.D. Collection, click  here.\nS-1939. Obverse: Christ Pantokrator seated facing on throne; Reverse: John standing facing, wearing loros and holding labarum and globus akakia, being crowned by the Theotokos, nimbate, to right.\n\nFrom the Peter Jones M.D. Collection. \n\nEx: Emporium Hamburg (with tag).\n\nEstimate: 500 - 75...",
-      "hammer_price_usd": 900.0,
-      "currency_original": "USD",
-      "price_original": 900.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-16",
-      "image_url": "https://media.coinarchives.com/ee30cb54479d507f2828a8be90245c36/img/ponterio/236/image45631.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 3,
         "details_grade": null,
         "certification_url": null
       },

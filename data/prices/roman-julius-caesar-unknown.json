@@ -7,27 +7,58 @@
   "ruler_dates": "44 BC",
   "ruler_rarity": null,
   "denomination": "Unknown",
-  "metal": "silver",
-  "sale_count": 11,
-  "realized_count": 11,
-  "fixed_price_count": 0,
+  "metal": "unknown",
+  "sale_count": 15,
+  "realized_count": 14,
+  "fixed_price_count": 1,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 130.0,
+    "min": 60.0,
     "max": 26000.0
   },
   "median_price_usd": 400.0,
-  "last_sale_date": "2026-03-15",
+  "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "MS": 2,
+    "AU": 4,
+    "MS": 3,
     "VG": 1,
-    "AU": 3,
-    "VF": 2,
-    "F": 2,
-    "XF": 1
+    "XF": 2,
+    "VF": 3,
+    "F": 2
   },
   "thumbnail_url": "https://media.coinarchives.com/72a1d23b9f9b98fa6621903e008fe02d/img/heritage/61605/image23175.jpg",
   "sales": [
+    {
+      "id": "mashops-380e3df49598",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/thomasnumismatics/item.php?id=2401",
+      "title": "Denier 60-44 BC Julius Caesar EF  /  SUP+-NGC AU 5 / 4-5 / 5",
+      "description": "Denier 60-44 BC Julius Caesar EF  /  SUP+-NGC AU 5 / 4-5 / 5",
+      "hammer_price_usd": 2900.6,
+      "currency_original": "USD",
+      "price_original": 2900.6,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/thomasnumismatics/pic/thumb/2401.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-65053f7e35bb",
       "source": "coinarchives",
@@ -48,6 +79,37 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-8b0bc6f79af2",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2722507&AucID=7012&Lot=23193&Val=4ced3ea01a91a031e0210b92ea1cc6db",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61605, Lot 23193 \u2014 Ancients\nValerian II, as Caesar (AD 256-258). BI antoninianus (24mm, 11h). NGC MS, Silvering. Antioch, AD 257-258. P LIC COR VALERIANVS CAES, radiate, draped bust of Valerian II right, seen from behin",
+      "description": "Ancients\nValerian II, as Caesar (AD 256-258). BI antoninianus (24mm, 11h). NGC MS, Silvering. Antioch, AD 257-258. P LIC COR VALERIANVS CAES, radiate, draped bust of Valerian II right, seen from behind / VICTORIA GE-RMAN, Victory standing right (on left), wreath in outstretched right hand, palm over left shoulder, facing Valerian II (on right), standing facing, head left, globe in outstretched right hand, grounded scepter in left. RIC V.I 53. \n\nPublius Licinius Cornelius Valerianus, or simply ...",
+      "hammer_price_usd": 220.0,
+      "currency_original": "USD",
+      "price_original": 220.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-15",
+      "image_url": "https://media.coinarchives.com/e7ab7d972d4c867f231b1b7d6a2782e1/img/heritage/61605/image23193.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
         "details_grade": null,
         "certification_url": null
       },
@@ -110,6 +172,37 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-0f248b90b999",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2704739&AucID=6969&Lot=6084&Val=dff3ce8ee70f73c1a1bcdf320daec042",
+      "title": "Marciniak - Auction 28, Lot 6084 \u2014 Republika, Juliusz Cezar (49-48 p.n.e.) Denar, Mennica ruchoma - S\u0142o\u0144 - pi\u0119kny\n\nPi\u0119kny egzemplarz, ciekawej emisji Juliusza Cezara. Wybity w mennicy wojskowej, podr\u00f3\u017cuj\u0105cej z Cezarem w P\u00f3\u0142nocnych W\u0142os",
+      "description": "Republika, Juliusz Cezar (49-48 p.n.e.) Denar, Mennica ruchoma - S\u0142o\u0144 - pi\u0119kny\n\nPi\u0119kny egzemplarz, ciekawej emisji Juliusza Cezara. Wybity w mennicy wojskowej, podr\u00f3\u017cuj\u0105cej z Cezarem w P\u00f3\u0142nocnych W\u0142oszech (49-48 p.n.e.)\n\nAwers: S\u0142o\u0144 krocz\u0105cy w prawo, tratuj\u0105cy w\u0119\u017ca, w odcinku CAESAR\n\nRewers: Utensylia kap\u0142a\u0144skie: czerpak (simpulum), kropid\u0142o, top\u00f3r i szpiczasta czapka kap\u0142a\u0144ska (apex).\n\nSrebro, \u015brednica 18 mm, waga 3,81 g.Reference: Crawford 443/1\nGrade: NGC Ch XF 4/5 4/VG\n\nStarting price: 9...",
+      "hammer_price_usd": 1671.84,
+      "currency_original": "EUR",
+      "price_original": 1548.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-31",
+      "image_url": "https://media.coinarchives.com/57f1ab198a9236761690002264539b43/img/marciniak/028/image06084.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
         "details_grade": null,
         "certification_url": null
       },
@@ -296,6 +389,37 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-9c582bc22aac",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2670432&AucID=6842&Lot=23065&Val=87bde95d08fd1f5e3eec903df7458db0",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61558, Lot 23065 \u2014 Ancients\nGALILEE. Caesarea Paneas. Plautilla (AD 202-205). AE (23mm, 12h). NGC VF, smoothing, repatinated.  Dated Regnal Year 204 (AD 201). \u03a6\u039f\u03a5\u039b\u039f\u03a5\u0399\u0391-\u03a0\u039b\u0391\u03a5\u03a4\u0399\u039b\u0391 \u03f9\u0395\u0392, draped bust of Plautilla right / [...",
+      "description": "Ancients\nGALILEE. Caesarea Paneas. Plautilla (AD 202-205). AE (23mm, 12h). NGC VF, smoothing, repatinated.  Dated Regnal Year 204 (AD 201). \u03a6\u039f\u03a5\u039b\u039f\u03a5\u0399\u0391-\u03a0\u039b\u0391\u03a5\u03a4\u0399\u039b\u0391 \u03f9\u0395\u0392, draped bust of Plautilla right / [...] A CT \u03a0\u03a0\u0391\u039dI(?), Tyche seated right on rocks, corn ears in outstretched hand, river-god swimming towards her at feet before; \u0394-\u03f9 (date) across fields. RPC V.3 Online Unassigned 69243 var. (reverse legend). Moss patina with harvest backlight.\n\nPlautilla, Caracalla's second-cousin, was of noble birt...",
+      "hammer_price_usd": 60.0,
+      "currency_original": "USD",
+      "price_original": 60.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-30",
+      "image_url": "https://media.coinarchives.com/1274b201b58c5a823ad302699ddf27b2/img/heritage/61558/image23065.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
         "details_grade": null,
         "certification_url": null
       },

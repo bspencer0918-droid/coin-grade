@@ -8,22 +8,20 @@
   "ruler_rarity": null,
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 4,
-  "realized_count": 3,
+  "sale_count": 2,
+  "realized_count": 1,
   "fixed_price_count": 1,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 650.0,
-    "max": 1100.0
+    "min": 750.0,
+    "max": 750.0
   },
   "median_price_usd": 750.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "AU": 2,
-    "MS": 1,
-    "XF": 1
+    "AU": 2
   },
-  "thumbnail_url": "https://media.coinarchives.com/ff3435327f0dc3c6b97e3a6b5a9de585/img/heritage/61557/image25017.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/27a4175575f9d3e6cef289adcecbcdc7/img/ponterio/236/image45560.jpg",
   "sales": [
     {
       "id": "mashops-0cbd6e8ae489",
@@ -43,68 +41,6 @@
         "cert_number": null,
         "grade": "AU",
         "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-5564561f8d5b",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2678666&AucID=6872&Lot=25017&Val=5f262b728cf06efdd1c6293abda00ce6",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61557, Lot 25017 \u2014 Ancients\nJustin II (AD 565-578). AV solidus (20mm, 4.55 gm, 5h). NGC MS 4/5 - 4/5, edge cut. Constantinople, 4th officina, AD 565-578. D N I-VSTI-NVS PP AVI, pearl-diademed, helmeted, and cuirassed bu",
-      "description": "Ancients\nJustin II (AD 565-578). AV solidus (20mm, 4.55 gm, 5h). NGC MS 4/5 - 4/5, edge cut. Constantinople, 4th officina, AD 565-578. D N I-VSTI-NVS PP AVI, pearl-diademed, helmeted, and cuirassed bust of Justin II facing, with beard, wearing pendilia, Victory standing right on globe in right hand, crowning Justin II, shield decorated with horseman motif in left / VICTORI-A AVGGG \u0394, Constantinopolis seated facing, helmeted head right, grounded scepter in right hand, globus cruciger in outstre...",
-      "hammer_price_usd": 1100.0,
-      "currency_original": "USD",
-      "price_original": 1100.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-29",
-      "image_url": "https://media.coinarchives.com/ff3435327f0dc3c6b97e3a6b5a9de585/img/heritage/61557/image25017.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-73d549886d00",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2678667&AucID=6872&Lot=25018&Val=6c0b0855215bd2873c3b13460c771c56",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61557, Lot 25018 \u2014 Ancients\nJustin II (AD 565-578). AV solidus (19mm, 4.04 gm, 5h). NGC Choice XF 5/5 - 3/5, clipped. Constantinople, 10th officina, AD 565-578. D N I-VSTI-NVS PP AVI, pearl-diademed, helmeted, and cuira",
-      "description": "Ancients\nJustin II (AD 565-578). AV solidus (19mm, 4.04 gm, 5h). NGC Choice XF 5/5 - 3/5, clipped. Constantinople, 10th officina, AD 565-578. D N I-VSTI-NVS PP AVI, pearl-diademed, helmeted, and cuirassed bust of Justin II facing, beardless, wearing pendilia, Victory standing right on globe in right hand, crowning Justin II, shield decorated with horseman motif in left / VICTORI-A AVGGG I, Constantinopolis seated facing, helmeted head right, grounded scepter in right hand, globus cruciger in o...",
-      "hammer_price_usd": 650.0,
-      "currency_original": "USD",
-      "price_original": 650.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-29",
-      "image_url": "https://media.coinarchives.com/3898d5154c41eb4b1e6f33283054836d/img/heritage/61557/image25018.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 3,
         "details_grade": null,

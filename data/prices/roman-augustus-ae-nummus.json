@@ -8,19 +8,19 @@
   "ruler_rarity": null,
   "denomination": "AE Nummus",
   "metal": "bronze",
-  "sale_count": 3,
-  "realized_count": 3,
+  "sale_count": 5,
+  "realized_count": 5,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 160.0,
     "max": 460.0
   },
-  "median_price_usd": 340.0,
+  "median_price_usd": 220.0,
   "last_sale_date": "2026-03-15",
   "grade_distribution": {
     "AU": 1,
-    "XF": 2
+    "XF": 4
   },
   "thumbnail_url": "https://media.coinarchives.com/f12e416ca15a5d85ce9d973ee804665b/img/heritage/61605/image23228.jpg",
   "sales": [
@@ -99,6 +99,68 @@
       "buyers_premium_included": false,
       "sale_date": "2026-03-15",
       "image_url": "https://media.coinarchives.com/eaedb29d59e456af411da6405a55a02f/img/heritage/61605/image23231.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-c6e704dd1c30",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2722554&AucID=7012&Lot=23240&Val=c1e03026d28ecb61d86e70931769ca75",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61605, Lot 23240 \u2014 Ancients\nJulian II (AD 360-363). AE3 or BI nummus (19mm, 3.75 gm, 6h). NGC Choice XF 5/5 - 3/5. Antioch, 1st officina, AD 361-363. DN FL CL IVLI-ANVS PF AVG, pearl-diademed, helmeted, draped, and cuir",
+      "description": "Ancients\nJulian II (AD 360-363). AE3 or BI nummus (19mm, 3.75 gm, 6h). NGC Choice XF 5/5 - 3/5. Antioch, 1st officina, AD 361-363. DN FL CL IVLI-ANVS PF AVG, pearl-diademed, helmeted, draped, and cuirassed bust of Julian II left, seen from front, spear in right hand, shield on left arm / VOT / X / MVLT / XX, legend in four lines within wreath terminating in large jewel; palm ANTA palm in exergue. RIC VIII 220.\n\nJulian II was the first emperor since Constantine I to separate from the Christian ...",
+      "hammer_price_usd": 220.0,
+      "currency_original": "USD",
+      "price_original": 220.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-15",
+      "image_url": "https://media.coinarchives.com/986123a39f8850aaf689056cecd52ff8/img/heritage/61605/image23240.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-57c376ff71c7",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2722564&AucID=7012&Lot=23250&Val=f5f00cc15e70edf1a14e2bba63112ef6",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61605, Lot 23250 \u2014 Ancients\nArcadius (AD 383-408). AE3 or nummus (19mm, 3.20 gm, 1h). NGC Choice XF 5/5 - 3/5. Cyzicus, 2nd officina, ca. AD 395-401. D N ARCADI-VS P F AVG, pearl-diademed, draped, and cuirassed bust of ",
+      "description": "Ancients\nArcadius (AD 383-408). AE3 or nummus (19mm, 3.20 gm, 1h). NGC Choice XF 5/5 - 3/5. Cyzicus, 2nd officina, ca. AD 395-401. D N ARCADI-VS P F AVG, pearl-diademed, draped, and cuirassed bust of Arcadius right / VIRTVS-EXERCITI\u2022, emperor standing facing (on left), head right, grounded spear in right hand, resting left hand on shield, being crowned by Victory with outstretched right hand, standing facing (on right), head left, palm over left shoulder; SMKB in exergue. RIC X 66 var. (no pel...",
+      "hammer_price_usd": 165.0,
+      "currency_original": "USD",
+      "price_original": 165.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-15",
+      "image_url": "https://media.coinarchives.com/5272cce7e6ef78fbae747f366bf838d7/img/heritage/61605/image23250.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,

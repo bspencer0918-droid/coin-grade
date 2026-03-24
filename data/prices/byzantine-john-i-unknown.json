@@ -8,20 +8,22 @@
   "ruler_rarity": "scarce",
   "denomination": "Unknown",
   "metal": "gold",
-  "sale_count": 1,
-  "realized_count": 0,
+  "sale_count": 3,
+  "realized_count": 2,
   "fixed_price_count": 1,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 1495.0,
-    "max": 1495.0
+    "min": 850.0,
+    "max": 900.0
   },
-  "median_price_usd": 1495.0,
+  "median_price_usd": 875.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "XF": 1
+    "XF": 1,
+    "MS": 1,
+    "AU": 1
   },
-  "thumbnail_url": "https://img.ma-shops.com/khouli/pic/thumb/artid9008_combined.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/49da9c3d881d6c6db81c86e5f44d2a22/img/heritage/61557/image25308.jpg",
   "sales": [
     {
       "id": "mashops-bdd29ba9e308",
@@ -43,6 +45,68 @@
         "grade_numeric": null,
         "strike_score": 4,
         "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-1db0ddb3e2c9",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2678957&AucID=6872&Lot=25308&Val=8a512ea308979fb2ec5603bb85c9930e",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61557, Lot 25308 \u2014 Ancients\nJohn III Ducas-Vatatzes, Empire of Nicaea (AD 1221/2-1254), AV hyperpyron (28mm, 4.59 gm, 5h). NGC MS 4/5 - 3/5, marks, die shift, brushed. Magnesia. IC-XC (barred), Christ seated facing on b",
+      "description": "Ancients\nJohn III Ducas-Vatatzes, Empire of Nicaea (AD 1221/2-1254), AV hyperpyron (28mm, 4.59 gm, 5h). NGC MS 4/5 - 3/5, marks, die shift, brushed. Magnesia. IC-XC (barred), Christ seated facing on backless throne, wearing nimbus cruciger with one pellet in each arm, pallium, and colobium, right hand raised in benediction, book of Gospels cradled in left; double border / Iw / \u0394\u0404C/\u03a0O-T/w / \u03a0I/\u03a6/V (T/w ligate), The Virgin, nimbate, standing facing (on right), wearing pallium and maphorium, crow...",
+      "hammer_price_usd": 850.0,
+      "currency_original": "USD",
+      "price_original": 850.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-29",
+      "image_url": "https://media.coinarchives.com/49da9c3d881d6c6db81c86e5f44d2a22/img/heritage/61557/image25308.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-c20b25a56008",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2695734&AucID=6923&Lot=45631&Val=35d04ee6b9ee6a38016ccbc86fffb804",
+      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 45631 \u2014 JOHN III (OF NICAEA), 1222-1254. AV Hyperpyron (4.17 gms), Magnesia Mint, 1118-1122. NGC Ch AU, Strike: 4/5 Surface: 3/5. Brushed, Clipped.\nTo view all items from the Peter Jones M.D. Collection, clic",
+      "description": "JOHN III (OF NICAEA), 1222-1254. AV Hyperpyron (4.17 gms), Magnesia Mint, 1118-1122. NGC Ch AU, Strike: 4/5 Surface: 3/5. Brushed, Clipped.\nTo view all items from the Peter Jones M.D. Collection, click  here.\nS-1939. Obverse: Christ Pantokrator seated facing on throne; Reverse: John standing facing, wearing loros and holding labarum and globus akakia, being crowned by the Theotokos, nimbate, to right.\n\nFrom the Peter Jones M.D. Collection. \n\nEx: Emporium Hamburg (with tag).\n\nEstimate: 500 - 75...",
+      "hammer_price_usd": 900.0,
+      "currency_original": "USD",
+      "price_original": 900.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": "https://media.coinarchives.com/ee30cb54479d507f2828a8be90245c36/img/ponterio/236/image45631.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
         "details_grade": null,
         "certification_url": null
       },

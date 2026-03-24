@@ -8,23 +8,23 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 86,
-  "realized_count": 47,
-  "fixed_price_count": 39,
+  "sale_count": 81,
+  "realized_count": 44,
+  "fixed_price_count": 37,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 240.0,
+    "min": 300.0,
     "max": 240000.0
   },
-  "median_price_usd": 1500.0,
+  "median_price_usd": 1637.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
     "AU": 26,
-    "VF": 24,
+    "VF": 22,
     "F": 3,
-    "XF": 24,
+    "XF": 23,
     "MS": 3,
-    "G": 6
+    "G": 4
   },
   "thumbnail_url": "https://media.coinarchives.com/442f1dccc88aba10f0522c782aeff7d5/img/numiscorner/006/image00016.jpg",
   "sales": [
@@ -277,6 +277,37 @@
       }
     },
     {
+      "id": "mashops-9233f2c3a77e",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=38",
+      "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "hammer_price_usd": 3900.0,
+      "currency_original": "USD",
+      "price_original": 3900.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid38_ngc5746815-115_obv_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-cc2449a34d33",
       "source": "mashops",
       "listing_type": "fixed_price",
@@ -327,37 +358,6 @@
         "grade_numeric": 4,
         "strike_score": 4,
         "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-9233f2c3a77e",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=38",
-      "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
-      "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
-      "hammer_price_usd": 3900.0,
-      "currency_original": "USD",
-      "price_original": 3900.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid38_ngc5746815-115_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
         "details_grade": null,
         "certification_url": null
       },
@@ -730,37 +730,6 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-e51c54701b80",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/pollandt/item.php?id=85915",
-      "title": "AR Tetradrachm Tetradrachme Ptolemy VI, 180-145 BC Ptolemaios VI.  (180-145 v.Chr./ BC) NGC XF",
-      "description": "AR Tetradrachm Tetradrachme Ptolemy VI, 180-145 BC Ptolemaios VI.  (180-145 v.Chr./ BC) NGC XF",
-      "hammer_price_usd": 1038.41,
-      "currency_original": "USD",
-      "price_original": 1038.41,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/pollandt/pic/thumb/artid85915_ngc6772317-006_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
         "details_grade": null,
         "certification_url": null
       },
@@ -1195,37 +1164,6 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-69654999886d",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/pollandt/item.php?id=85917",
-      "title": "AR Tetradrachm Tetradrachme Ptolemy VI, 180-145 BC Ptolemaios VI.  (180-145 v.Chr./ BC) NGC Ch VF Edge Chip",
-      "description": "AR Tetradrachm Tetradrachme Ptolemy VI, 180-145 BC Ptolemaios VI.  (180-145 v.Chr./ BC) NGC Ch VF Edge Chip",
-      "hammer_price_usd": 986.2,
-      "currency_original": "USD",
-      "price_original": 986.2,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/pollandt/pic/thumb/artid85916_ngc6772317-007_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
         "details_grade": null,
         "certification_url": null
       },
@@ -2385,37 +2323,6 @@
       }
     },
     {
-      "id": "coinarchives-c038d788bb56",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2695550&AucID=6923&Lot=45447&Val=54265bb5f97551d2743432856f04ccea",
-      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 45447 \u2014 DIADUMENIAN, as Caesar, A.D. 217-218. Phoenicia, Tyre. BI Tetradrachm. NGC Ch VF.\nTo view all items from the Cookie Family Collection, click  here.\nPrieur-1557. Obverse: Bareheaded, draped, and cuiras",
-      "description": "DIADUMENIAN, as Caesar, A.D. 217-218. Phoenicia, Tyre. BI Tetradrachm. NGC Ch VF.\nTo view all items from the Cookie Family Collection, click  here.\nPrieur-1557. Obverse: Bareheaded, draped, and cuirassed bust right; Reverse: Eagle standing on club, head left, wings spread, holding wreath in beak.\n\nFrom the Cookie Family Collection.\n\nEx: Spink America Collector's Sale (9/2010) Lot # 986.\n\nEstimate: 150 - 300...",
-      "hammer_price_usd": 240.0,
-      "currency_original": "USD",
-      "price_original": 240.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-16",
-      "image_url": "https://media.coinarchives.com/cf516a70a25702f7e83e484617f206cc/img/ponterio/236/image45447.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-97b19a716f9c",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -2621,68 +2528,6 @@
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 1,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-5d7285293310",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2710342&AucID=6990&Lot=560&Val=3d3c6f158d61e72ac668cfc7e2d15f97",
-      "title": "Ira & Larry Goldberg Coins & Collectibles - Auction 150, Lot 560 \u2014 Ptolemaic Kingdom. Ptolemy XII, 80-51 BC. Silver Tetradrachm (14.27g), 25 mm. NGC notes this is perhaps Ptolemy X issue yr. 15 (67/6 BC. Diademed bust of Ptolemy facing r. Reverse: Eagle stg. left on ",
-      "description": "Ptolemaic Kingdom. Ptolemy XII, 80-51 BC. Silver Tetradrachm (14.27g), 25 mm. NGC notes this is perhaps Ptolemy X issue yr. 15 (67/6 BC. Diademed bust of Ptolemy facing r. Reverse: Eagle stg. left on thunderbolt. NGC graded AU, Strike: 4/5, Surface: 5/5. Lustrous and lightly toned.  Estimated Value $300 - UP\nEx Peter Preovolos Collection....",
-      "hammer_price_usd": 480.0,
-      "currency_original": "USD",
-      "price_original": 480.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-02-23",
-      "image_url": "https://media.coinarchives.com/b91b780f086c5767efb9215f6af59bf5/img/goldberg/150/image00560.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "G",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-dd1936ed02ca",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2710386&AucID=6990&Lot=604&Val=e8b4c502e1bfcc91a64782ce7c2d4f74",
-      "title": "Ira & Larry Goldberg Coins & Collectibles - Auction 150, Lot 604 \u2014 Caracalla, AD 198-217. Bil Tetradrachm (12.62g), 25 mm. Struck at Syria, Laodicea. Laureate bearded bust of Caracalla facing r. Reverse: Eagle stg. facing hd. turned left holding wreath, star between ",
-      "description": "Caracalla, AD 198-217. Bil Tetradrachm (12.62g), 25 mm. Struck at Syria, Laodicea. Laureate bearded bust of Caracalla facing r. Reverse: Eagle stg. facing hd. turned left holding wreath, star between legs. NGC graded Mint State; Strike: 5/5, Surface: 5/5.  A lustrous example, excellent metal and well struck!  Estimated Value $500 - UP\nEx The Peter Preovolos Collection....",
-      "hammer_price_usd": 725.0,
-      "currency_original": "USD",
-      "price_original": 725.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-02-23",
-      "image_url": "https://media.coinarchives.com/0300d9f02ac439aa26d357ed07ea0826/img/goldberg/150/image00604.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "G",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
         "details_grade": null,
         "certification_url": null
       },

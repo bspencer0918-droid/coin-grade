@@ -8,21 +8,21 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 13,
-  "realized_count": 10,
+  "sale_count": 12,
+  "realized_count": 9,
   "fixed_price_count": 3,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 775.0,
     "max": 8500.0
   },
-  "median_price_usd": 2500.0,
+  "median_price_usd": 3000.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
     "VF": 4,
     "XF": 2,
     "MS": 3,
-    "AU": 2,
+    "AU": 1,
     "P": 1,
     "G": 1
   },
@@ -296,37 +296,6 @@
         "grade_numeric": null,
         "strike_score": 4,
         "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-64f77edd32db",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2694493&AucID=6923&Lot=40037&Val=5cfdb14b40cb9bd4c68e42994488bbdc",
-      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 40037 \u2014 MACEDON. Kingdom of Macedon. Time of Alexander III (the Great) to Philip III, ca. 324/3-320 B.C. AR Tetradrachm (17.18 gms), Arados Mint. NGC AU, Strike: 5/5 Surface: 4/5.\nTo view all items from the C",
-      "description": "MACEDON. Kingdom of Macedon. Time of Alexander III (the Great) to Philip III, ca. 324/3-320 B.C. AR Tetradrachm (17.18 gms), Arados Mint. NGC AU, Strike: 5/5 Surface: 4/5.\nTo view all items from the Connecticut Collection, click  here.\nPr-3332. Obverse: Head of Herakles right, wearing lion skin; Reverse: Zeus seated left on throne, holding eagle and scepter; kerykeion to left; below throne, monogram below two struts. Offering a very well centered obverse, this pleasing example presents great m...",
-      "hammer_price_usd": 2000.0,
-      "currency_original": "USD",
-      "price_original": 2000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-16",
-      "image_url": "https://media.coinarchives.com/a65f58ec41b1e40d084b29a9aa9c3b89/img/ponterio/236/image40037.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
         "details_grade": null,
         "certification_url": null
       },

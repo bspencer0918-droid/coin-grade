@@ -8,19 +8,19 @@
   "ruler_rarity": null,
   "denomination": "AV Stater",
   "metal": "gold",
-  "sale_count": 16,
-  "realized_count": 16,
+  "sale_count": 15,
+  "realized_count": 15,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 4200.0,
+    "min": 4600.0,
     "max": 46000.0
   },
   "median_price_usd": 16000.0,
   "last_sale_date": "2026-02-23",
   "grade_distribution": {
     "MS": 7,
-    "AU": 7,
+    "AU": 6,
     "XF": 1,
     "VF": 1
   },
@@ -415,37 +415,6 @@
         "verified": false,
         "cert_number": null,
         "grade": "VF",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-370cb852bccf",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2663472&AucID=6800&Lot=22209&Val=eb17eb098d3ad66c01ff1baf4d407285",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61569, Lot 22209 \u2014 Ancients\nMACEDONIAN KINGDOM. Philip III Arrhidaeus (323-317 BC). AV stater (19mm, 8.60 gm, 1h). NGC AU 4/5 - 4/5, flan flaw. Lifetime issue, Babylon, ca. 323-317 BC. Head of Athena right, hair falling",
-      "description": "Ancients\nMACEDONIAN KINGDOM. Philip III Arrhidaeus (323-317 BC). AV stater (19mm, 8.60 gm, 1h). NGC AU 4/5 - 4/5, flan flaw. Lifetime issue, Babylon, ca. 323-317 BC. Head of Athena right, hair falling in loose waves, upswept at temple, wearing beaded necklace, and triple-crested Corinthian helmet pushed back on head, long parallel crest ends, bowl decorated with coiled serpent right / \u03a6\u0399\u039b\u0399\u03a0\u03a0\u039fY / B-A\u03a3I\u039bE\u03a9\u03a3, Nike standing facing, head left, wreath in outstretched right hand, stylis cradled in le...",
-      "hammer_price_usd": 4200.0,
-      "currency_original": "USD",
-      "price_original": 4200.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-11-23",
-      "image_url": "https://media.coinarchives.com/caab1d38572d68e92386c329628e54e1/img/heritage/61569/image22209.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
         "grade_numeric": 4,
         "strike_score": 4,
         "surface_score": 4,

@@ -8,21 +8,117 @@
   "ruler_rarity": null,
   "denomination": "AE Follis",
   "metal": "bronze",
-  "sale_count": 1,
-  "realized_count": 1,
+  "sale_count": 5,
+  "realized_count": 5,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 4400.0,
+    "min": 100.0,
     "max": 4400.0
   },
-  "median_price_usd": 4400.0,
+  "median_price_usd": 300.0,
   "last_sale_date": "2026-03-15",
   "grade_distribution": {
-    "AU": 1
+    "G": 1,
+    "F": 1,
+    "VF": 1,
+    "AU": 2
   },
-  "thumbnail_url": "https://media.coinarchives.com/cb298ce3dfa9cfa566edf554520f3686/img/heritage/61605/image23224.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/3d26f67616921e345f4c5636894d14d3/img/heritage/61557/image25015.jpg",
   "sales": [
+    {
+      "id": "coinarchives-df7d82e39e6e",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2703445&AucID=6961&Lot=1636&Val=b2fe20ba5677cbddac381100154b877d",
+      "title": "Stephen Album Rare Coins - Auction 54, Lot 1636 \u2014 BYZANTINE EMPIRE: Anastasius, 491-518 AD, AE follis (18.25g), Constantinople, SB-19, 1st officina, diademed, draped, and cuirassed bust right, D N ANASTASIVS P P AVG // large M, star to either side, c",
+      "description": "BYZANTINE EMPIRE: Anastasius, 491-518 AD, AE follis (18.25g), Constantinople, SB-19, 1st officina, diademed, draped, and cuirassed bust right, D N ANASTASIVS P P AVG // large M, star to either side, cross above, A below, CON in exergue, scrape on reverse, attractive green patina, Strike 5/5, Surface 4/5, NGC graded Choice VF.\n\nEstimate: 75 - 100 USD...",
+      "hammer_price_usd": 170.0,
+      "currency_original": "USD",
+      "price_original": 170.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-22",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-2fb5fee15bac",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2678664&AucID=6872&Lot=25015&Val=1b8786f3498829c48fa2f824ed054767",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61557, Lot 25015 \u2014 Ancients\nJustinian I the Great (AD 527-565). AE follis or 40 nummi (34mm, 5h). NGC Choice Fine. Constantinople, 4th officina, Regnal Year 31 (AD 557/8). D N IVSTINI-ANVS PP AVG, pearl-diademed, helmet",
+      "description": "Ancients\nJustinian I the Great (AD 527-565). AE follis or 40 nummi (34mm, 5h). NGC Choice Fine. Constantinople, 4th officina, Regnal Year 31 (AD 557/8). D N IVSTINI-ANVS PP AVG, pearl-diademed, helmeted, and cuirassed bust of Justinian I facing, wearing pendilia, with globus cruciger in right hand, shield decorated with horseman motif in left; cross in right field / Large M (mark of value); A/N/N/O to left, X/III (date) to right, cross above, \u0394 (officina) below; CON in exergue. Sear 163.\n\nFrom...",
+      "hammer_price_usd": 100.0,
+      "currency_original": "USD",
+      "price_original": 100.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-29",
+      "image_url": "https://media.coinarchives.com/3d26f67616921e345f4c5636894d14d3/img/heritage/61557/image25015.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-5097eda23dd4",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2678665&AucID=6872&Lot=25016&Val=04df74be5e781a9a2a2367f51bd64089",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61557, Lot 25016 \u2014 Ancients\nJustinian I the Great (AD 527-565). AE follis or 40 nummi (38mm, 5h). NGC Choice VF, light smoothing. Antioch, 3rd officina, Regnal Year 20 (AD 546/547). D N IVSTINI-ANVS PP AVG, helmeted, cu",
+      "description": "Ancients\nJustinian I the Great (AD 527-565). AE follis or 40 nummi (38mm, 5h). NGC Choice VF, light smoothing. Antioch, 3rd officina, Regnal Year 20 (AD 546/547). D N IVSTINI-ANVS PP AVG, helmeted, cuirassed bust of Justinian I facing, globus cruciger in right hand, shield decorated with horseman motif in left; cross in right field / Large M (mark of value); A/N/N/O in left field, X/C (date) in right field, cross above, \u0393 (officina) below, \u03e4H\u03e4\u03a0\u03a0 in exergue. Sear 220.  www.HA.com/TexasAuctionee...",
+      "hammer_price_usd": 300.0,
+      "currency_original": "USD",
+      "price_original": 300.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-29",
+      "image_url": "https://media.coinarchives.com/5bfe673089edf02cc31a79609380df29/img/heritage/61557/image25016.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 6,
+        "surface_score": 6,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-03e7337e24ee",
       "source": "coinarchives",
@@ -43,6 +139,37 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-40e74ad6ac46",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2670572&AucID=6841&Lot=24110&Val=dbb7318c39f59e576a5a9986cd518751",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61574, Lot 24110 \u2014 Ancients\nLicinius I (AD 308-324). BI follis or reduced nummus (22mm, 6h). NGC Choice AU\u2605. Alexandria, ca. AD 316-317. IMP C VAL LICIN LICINIVS P F AVG, laureate head of Licinius I right / IOVI CONSER-",
+      "description": "Ancients\nLicinius I (AD 308-324). BI follis or reduced nummus (22mm, 6h). NGC Choice AU\u2605. Alexandria, ca. AD 316-317. IMP C VAL LICIN LICINIVS P F AVG, laureate head of Licinius I right / IOVI CONSER-VATORI AVGG, Jupiter standing facing, head left, nude save for chlamys across shoulders, Victory standing right on globe in outstretched right hand, grounded scepter in left, eagle standing left before, wreath in beak, head reverted; K in left field, wreath above X / A in right field, ALE in exerg...",
+      "hammer_price_usd": 600.0,
+      "currency_original": "USD",
+      "price_original": 600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-07",
+      "image_url": "https://media.coinarchives.com/cb4d2a747cec7bf9d85c17292b050a75/img/heritage/61574/image24110.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
         "details_grade": null,
         "certification_url": null
       },

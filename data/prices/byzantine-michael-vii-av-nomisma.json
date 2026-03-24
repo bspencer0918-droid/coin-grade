@@ -8,9 +8,9 @@
   "ruler_rarity": "scarce",
   "denomination": "AV Nomisma",
   "metal": "gold",
-  "sale_count": 11,
+  "sale_count": 10,
   "realized_count": 8,
-  "fixed_price_count": 3,
+  "fixed_price_count": 2,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 600.0,
@@ -19,43 +19,12 @@
   "median_price_usd": 825.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "XF": 3,
     "AU": 6,
+    "XF": 2,
     "VF": 2
   },
   "thumbnail_url": "https://media.coinarchives.com/f9488c48fd4e79acf61d24e7780fa15c/img/ponterio/236/image45614.jpg",
   "sales": [
-    {
-      "id": "vcoins-0087a74b5d4c",
-      "source": "vcoins",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/michael_vii_ducas_ad_10711078_avel_histamenon_nomisma_scyphate_25mm_435_gm_6h_ngc_xf_55__35/2350604/Default.aspx",
-      "title": "Michael VII Ducas (AD 1071-1078). AV/EL histamenon nomisma scyphate (25mm, 4.35 gm, 6h). NGC XF 5/5 - 3/5,",
-      "description": "",
-      "hammer_price_usd": 1295.0,
-      "currency_original": "USD",
-      "price_original": 1295.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "mashops-8dc8f04a3048",
       "source": "mashops",

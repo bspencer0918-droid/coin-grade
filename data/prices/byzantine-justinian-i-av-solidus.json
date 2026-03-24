@@ -8,24 +8,116 @@
   "ruler_rarity": "common",
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 10,
-  "realized_count": 10,
-  "fixed_price_count": 0,
+  "sale_count": 7,
+  "realized_count": 4,
+  "fixed_price_count": 3,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 750.0,
+    "min": 3100.0,
     "max": 7500.0
   },
-  "median_price_usd": 2100.0,
-  "last_sale_date": "2026-01-22",
+  "median_price_usd": 6750.0,
+  "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "MS": 5,
-    "VF": 1,
-    "AU": 3,
-    "XF": 1
+    "XF": 2,
+    "MS": 4,
+    "AU": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/9c178544b0d17b794224e07748800d9a/img/heritage/3130/image36105.jpg",
   "sales": [
+    {
+      "id": "mashops-ab6a2074c00b",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8932",
+      "title": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
+      "description": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
+      "hammer_price_usd": 6975.0,
+      "currency_original": "USD",
+      "price_original": 6975.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8932_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-c6863c67e096",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8931",
+      "title": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
+      "description": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
+      "hammer_price_usd": 6975.0,
+      "currency_original": "USD",
+      "price_original": 6975.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8931_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-15965ca18093",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8743",
+      "title": "Av solidus  Justinian II, First Reign (AD 685-695). AV solidus (20mm, 4.49 gm, 7h). NGC MS 2 MS",
+      "description": "Av solidus  Justinian II, First Reign (AD 685-695). AV solidus (20mm, 4.49 gm, 7h). NGC MS 2 MS",
+      "hammer_price_usd": 7500.0,
+      "currency_original": "USD",
+      "price_original": 7500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8743_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 2,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-ab7d5b4aa4c9",
       "source": "coinarchives",
@@ -108,192 +200,6 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-ddf698c9c1bf",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687436&AucID=6920&Lot=34106&Val=e66254bb02b78dfa18959371587a9a04",
-      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3129, Lot 34106 \u2014 Ancients\nJustin I with Justinian I (4 April-1 August AD 527). AV solidus (22mm, 4.46 gm, 7h). NGC MS 3/5 - 4/5, die shift. Constantinople, 6th officina. D N IVSTIN \u0404T IVSTINIAN PP AVG, Justin I (on le",
-      "description": "Ancients\nJustin I with Justinian I (4 April-1 August AD 527). AV solidus (22mm, 4.46 gm, 7h). NGC MS 3/5 - 4/5, die shift. Constantinople, 6th officina. D N IVSTIN \u0404T IVSTINIAN PP AVG, Justin I (on left) and Justinian I (on right) seated facing on throne represented by uprights and no cross bar, both with left knee advanced, nimbate and wearing chlamys, right hands clasped to breasts, globe in left; cross above between, CONOB in exergue / VICTORI-A AVGGG S, angel standing facing, grounded cros...",
-      "hammer_price_usd": 4000.0,
-      "currency_original": "USD",
-      "price_original": 4000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-12",
-      "image_url": "https://media.coinarchives.com/f9696eae3175a4d9e32a5ad25d24f89e/img/heritage/3129/image34106.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 3,
-        "strike_score": 3,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-091076c10151",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2678655&AucID=6872&Lot=25006&Val=7aa711a5502f2a5c13dfd28583d8c2aa",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61557, Lot 25006 \u2014 Ancients\nJustinian I the Great (AD 527-565). AV solidus (21mm, 4.21 gm, 5h). NGC Choice VF 3/5 - 2/5, graffito, clipped, edge bend. Constantinople, 6th officina, AD 527-538. D N IVSTINI-ANVS P P AVG, ",
-      "description": "Ancients\nJustinian I the Great (AD 527-565). AV solidus (21mm, 4.21 gm, 5h). NGC Choice VF 3/5 - 2/5, graffito, clipped, edge bend. Constantinople, 6th officina, AD 527-538. D N IVSTINI-ANVS P P AVG, pearl-diademed, helmeted, and cuirassed bust of Justinian I facing, head slightly right, spear in right hand over shoulder, shield decorated with horseman motif in left / VICTORI-A AVGGG S, Angel standing facing, with tall grounded cross in right hand, globus cruciger in outstretched left; star in...",
-      "hammer_price_usd": 750.0,
-      "currency_original": "USD",
-      "price_original": 750.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-29",
-      "image_url": "https://media.coinarchives.com/e39d62fdb9f326b7816aac16dea8be6b/img/heritage/61557/image25006.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 3,
-        "strike_score": 3,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-94539c7270f6",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2678656&AucID=6872&Lot=25007&Val=4f5b77cfc828996ab7ae89d0bd9c568a",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61557, Lot 25007 \u2014 Ancients\nJustinian I the Great (AD 527-565). AV solidus (21mm, 4.48 gm, 5h). NGC MS 4/5 - 4/5, flan flaw. Constantinople, 1st officina, ca. AD 545-565. D N IVSTINI-ANVS PP AVG, pearl-diademed, helmete",
-      "description": "Ancients\nJustinian I the Great (AD 527-565). AV solidus (21mm, 4.48 gm, 5h). NGC MS 4/5 - 4/5, flan flaw. Constantinople, 1st officina, ca. AD 545-565. D N IVSTINI-ANVS PP AVG, pearl-diademed, helmeted, and cuirassed bust of Justinian I facing, wearing pendilia, with globus cruciger in right hand, shield decorated with horseman motif in left / VICTORI-A AVGGG A, Angel standing facing, with grounded staff surmounted by staurogram in right hand, globus cruciger in outstretched left; star in righ...",
-      "hammer_price_usd": 1100.0,
-      "currency_original": "USD",
-      "price_original": 1100.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-29",
-      "image_url": "https://media.coinarchives.com/141ae9ea48b61fa7a4da249611fa5fc8/img/heritage/61557/image25007.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-59ce46bc8d62",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2678657&AucID=6872&Lot=25008&Val=c47d1dc43372c6f60743673ba856dc34",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61557, Lot 25008 \u2014 Ancients\nJustinian I the Great (AD 527-565). AV solidus (20mm, 4.35 gm, 7h). NGC Choice AU 4/5 - 3/5, clipped. Constantinople, 6th officina, ca. AD 545-565. D N IVSTINI-ANVS PP AVG, pearl-diademed, he",
-      "description": "Ancients\nJustinian I the Great (AD 527-565). AV solidus (20mm, 4.35 gm, 7h). NGC Choice AU 4/5 - 3/5, clipped. Constantinople, 6th officina, ca. AD 545-565. D N IVSTINI-ANVS PP AVG, pearl-diademed, helmeted, and cuirassed bust of Justinian I facing, wearing pendilia, with globus cruciger in right hand, shield decorated with horseman motif in left / VICTORI-A AVGGG S, Angel standing facing, with grounded staff surmounted by staurogram in right hand, globus cruciger in outstretched left; star in...",
-      "hammer_price_usd": 800.0,
-      "currency_original": "USD",
-      "price_original": 800.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-29",
-      "image_url": "https://media.coinarchives.com/492d9a8ee75001b42f84c931305cb135/img/heritage/61557/image25008.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-57c4467d6ace",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2678658&AucID=6872&Lot=25009&Val=f15a7b492b811ad8c05a12b79a045ddc",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61557, Lot 25009 \u2014 Ancients\nJustinian I the Great (AD 527-565). AV solidus (21mm, 4.50 gm, 7h). NGC Choice AU 3/5 - 3/5. Constantinople, 10th officina, ca. AD 545-565. D N IVSTINI-ANVS PP AVG, pearl-diademed, helmeted, ",
-      "description": "Ancients\nJustinian I the Great (AD 527-565). AV solidus (21mm, 4.50 gm, 7h). NGC Choice AU 3/5 - 3/5. Constantinople, 10th officina, ca. AD 545-565. D N IVSTINI-ANVS PP AVG, pearl-diademed, helmeted, and cuirassed bust of Justinian I facing, wearing pendilia, with globus cruciger in right hand, shield decorated with horseman motif in left / VICTORI-A AVGGG I, Angel standing facing, with grounded staff surmounted by staurogram in right hand, globus cruciger in outstretched left; star in right f...",
-      "hammer_price_usd": 850.0,
-      "currency_original": "USD",
-      "price_original": 850.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-29",
-      "image_url": "https://media.coinarchives.com/ed0e1f632100a303a34c95650d85dfa3/img/heritage/61557/image25009.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 3,
-        "strike_score": 3,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-984ed93dd16c",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2678659&AucID=6872&Lot=25010&Val=d0c1c752225d01b5aa8bcb8ae9ebc6bd",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61557, Lot 25010 \u2014 Ancients\nJustinian I the Great (AD 527-565). AV solidus (20mm, 4.32 gm, 7h). NGC Choice XF 5/5 - 2/5, wrinkled, clipped, brushed. Constantinople, 5th officina, ca. AD 545-565. D N IVSTINI-ANVS PP AVG,",
-      "description": "Ancients\nJustinian I the Great (AD 527-565). AV solidus (20mm, 4.32 gm, 7h). NGC Choice XF 5/5 - 2/5, wrinkled, clipped, brushed. Constantinople, 5th officina, ca. AD 545-565. D N IVSTINI-ANVS PP AVG, pearl-diademed, helmeted, and cuirassed bust of Justinian I facing, wearing pendilia, with globus cruciger in right hand, shield decorated with horseman motif in left / VICTORI-A AVGGG \u0404, Angel standing facing, with grounded staff surmounted by staurogram in right hand, globus cruciger in outstre...",
-      "hammer_price_usd": 750.0,
-      "currency_original": "USD",
-      "price_original": 750.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-29",
-      "image_url": "https://media.coinarchives.com/76ad7486dbf2d70f9fd143c1950ef3a5/img/heritage/61557/image25010.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 2,
         "details_grade": null,
         "certification_url": null
       },
