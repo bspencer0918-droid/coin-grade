@@ -47,7 +47,6 @@ EXCHANGE_RATE_API_KEY = os.getenv("EXCHANGE_RATE_API_KEY", "")
 # Rate limiting (seconds between requests per source)
 RATE_LIMITS = {
     "cng":          2.5,
-    "roma":         3.0,
     "heritage":     4.0,
     "vcoins":       2.5,
     "mashops":      2.5,
@@ -63,7 +62,6 @@ RATE_LIMITS = {
 # hard cap, so these are just safety limits.
 MAX_PAGES = {
     "cng":          120,  # ~120 auctions ≈ 4 years of archive
-    "roma":         15,
     "heritage":     50,
     "vcoins":       50,
     "mashops":      200,  # hundreds of pages across all searches
@@ -92,9 +90,6 @@ URLS = {
     "cng": {
         "archive":  "https://www.cngcoins.com/Coins.aspx?PAGE_TYPE=1&ITEM_TYPE=1",
         "search":   "https://www.cngcoins.com/Coins.aspx?SEARCH_IN_DESCRIPTIONS=1&KEYWORDS=NGC&ITEM_TYPE=1",
-    },
-    "roma": {
-        "archive":  "https://www.romanumismatics.com/auction-house/results",
     },
     "heritage": {
         "search":   "https://coins.ha.com/c/search-results.zx?N=790+231+4294967021+4294966556",

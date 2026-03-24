@@ -31,7 +31,6 @@ class Metal(str, Enum):
 
 class Source(str, Enum):
     CNG          = "cng"
-    ROMA         = "roma"
     HERITAGE     = "heritage"
     VCOINS       = "vcoins"
     MASHOPS      = "mashops"

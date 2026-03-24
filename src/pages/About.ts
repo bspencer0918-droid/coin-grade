@@ -20,8 +20,8 @@ export function renderAbout(): string {
           <li class="flex gap-3">
             <span class="text-gold-600 font-mono font-bold shrink-0">01</span>
             <span>Every day at 6:00 AM UTC, an automated scraper collects completed
-            auction results and fixed-price sales from CNG, Roma Numismatics, Heritage
-            Auctions, eBay, VCoins, and MA Shops.</span>
+            auction results and fixed-price sales from CNG, Heritage Auctions, VCoins,
+            MA Shops, NumisBids, Sixbid, Harlan J. Berk, Coin Archives, and more.</span>
           </li>
           <li class="flex gap-3">
             <span class="text-gold-600 font-mono font-bold shrink-0">02</span>
@@ -49,12 +49,14 @@ export function renderAbout(): string {
         <h2 class="font-display text-xl text-gold-500">Data Sources</h2>
         <div class="grid sm:grid-cols-2 gap-3 text-sm">
           ${[
-            { name: 'CNG (Classical Numismatic Group)', note: 'Leading US ancient coin auctioneer' },
-            { name: 'Roma Numismatics',                 note: 'Premier UK ancient coin auction house' },
-            { name: 'Heritage Auctions',                note: 'World\'s largest numismatic auctioneer' },
-            { name: 'eBay',                             note: 'Via official eBay Browse API' },
-            { name: 'VCoins',                           note: 'Fixed-price dealer marketplace' },
-            { name: 'MA Shops',                         note: 'European dealer marketplace' },
+            { name: 'CNG (Classical Numismatic Group)', note: 'Leading US ancient coin auction house'          },
+            { name: 'Heritage Auctions',                note: 'World\'s largest numismatic auctioneer'        },
+            { name: 'VCoins',                           note: 'Fixed-price dealer marketplace'                },
+            { name: 'MA Shops',                         note: 'European dealer marketplace'                   },
+            { name: 'NumisBids',                        note: 'International auction aggregator'              },
+            { name: 'Sixbid',                           note: 'European numismatic auction platform'          },
+            { name: 'Harlan J. Berk',                   note: 'Chicago-based ancient coin dealer'             },
+            { name: 'Coin Archives',                    note: 'Historical auction result archive'             },
           ].map(s => `
             <div class="flex gap-3 p-3 bg-stone-800/50 rounded-lg">
               <span class="text-gold-500">▸</span>
@@ -98,7 +100,8 @@ export function renderAbout(): string {
           Coin Grade aggregates publicly available auction data for informational purposes only.
           Past realized prices do not guarantee future values. Always consult a professional
           numismatist before making purchasing or selling decisions. Coin Grade is not affiliated
-          with NGC, eBay, CNG, Roma Numismatics, Heritage Auctions, VCoins, or MA Shops.
+          with NGC, CNG, Heritage Auctions, VCoins, MA Shops, NumisBids, Sixbid,
+          Harlan J. Berk, or Coin Archives.
         </p>
       </section>
 
