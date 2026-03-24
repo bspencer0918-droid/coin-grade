@@ -86,10 +86,13 @@ export function renderCoinPage(coin: CoinDetail): string {
 
       <!-- Header -->
       <section class="flex gap-6 flex-wrap">
-        ${coin.thumbnail_url
-          ? `<img src="${coin.thumbnail_url}" alt="${coin.denomination}"
-                  class="w-32 h-32 object-cover rounded-xl border border-stone-700 shadow-lg" />`
-          : `<div class="w-32 h-32 rounded-xl border border-stone-800 bg-stone-900 flex items-center justify-center text-5xl">🪙</div>`
+        ${coin.denomination === 'AR Tetradrachm'
+          ? `<img src="/coin-grade/ar-tetradrachm.jpg" alt="${coin.denomination}"
+                  class="w-32 h-32 object-contain rounded-full border border-stone-700 shadow-lg bg-stone-900" />`
+          : coin.thumbnail_url
+            ? `<img src="${coin.thumbnail_url}" alt="${coin.denomination}"
+                    class="w-32 h-32 object-cover rounded-xl border border-stone-700 shadow-lg" />`
+            : `<div class="w-32 h-32 rounded-xl border border-stone-800 bg-stone-900 flex items-center justify-center text-5xl">🪙</div>`
         }
         <div class="flex-1 min-w-0">
           <div class="flex flex-wrap items-center gap-2 mb-1">
