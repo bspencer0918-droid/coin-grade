@@ -20,7 +20,7 @@ from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 
 from ..models import ListingType, RawListing, Source
-from ..config import MAX_PAGES, HERITAGE_EMAIL, HERITAGE_PASSWORD
+from ..config import MAX_PAGES, HERITAGE_USERNAME, HERITAGE_EMAIL, HERITAGE_PASSWORD
 from .base import BaseScraper
 
 logger = logging.getLogger(__name__)
@@ -55,8 +55,10 @@ class HeritageScraper(BaseScraper):
     source = Source.HERITAGE
 
     def scrape(self, max_pages: int = MAX_PAGES["heritage"]) -> Iterator[RawListing]:
-        if not HERITAGE_EMAIL or not HERITAGE_PASSWORD:
-            logger.warning("[Heritage] No credentials set — skipping (set HERITAGE_EMAIL / HERITAGE_PASSWORD)")
+        # Accept either username or email for the login field
+        login_id = HERITAGE_USERNAME or HERITAGE_EMAIL
+        if not login_id or not HERITAGE_PASSWORD:
+            logger.warning("[Heritage] No credentials set — skipping (set HERITAGE_USERNAME + HERITAGE_PASSWORD)")
             return
 
         # Run entire scrape in a single async browser session (login once, reuse session)
@@ -164,97 +166,94 @@ class HeritageScraper(BaseScraper):
     async def _login(self, page) -> bool:
         """
         Navigate to Heritage login page and submit credentials.
+        The form uses "Heritage Auctions username" (not email) + password.
         Returns True if login appears successful.
         """
+        login_id = HERITAGE_USERNAME or HERITAGE_EMAIL
+
         logger.info("[Heritage] Navigating to login page...")
         try:
             await page.goto(LOGIN_URL, wait_until="networkidle", timeout=45000)
         except Exception as e:
             logger.warning(f"[Heritage] Login page load timeout (continuing): {e}")
 
-        # Log what we see on the login page
+        logger.info(f"[Heritage] Login page URL: {page.url}")
+
+        # Check for Cloudflare block
         try:
-            html_snippet = await page.content()
-            if "cf-browser-verification" in html_snippet or "Access Denied" in html_snippet:
-                logger.warning("[Heritage] Cloudflare challenge on login page")
+            html = await page.content()
+            if "cf-browser-verification" in html or "Access Denied" in html:
+                logger.warning("[Heritage] Cloudflare challenge on login page — stealth may not have worked")
                 return False
-            logger.info(f"[Heritage] Login page URL: {page.url}")
         except Exception:
             pass
 
-        # Try multiple selector strategies for the email/username field
-        email_selectors = [
-            "input[name='email']",
-            "input[type='email']",
-            "input[name='haEmail']",
-            "input[id='haEmail']",
-            "input[name='userName']",
+        # --- Fill username ---
+        # Heritage form label: "Heritage Auctions username:"
+        # The input is a plain text field (not type=email).
+        username_selectors = [
             "input[name='username']",
-            "input[id='email']",
+            "input[name='userName']",
+            "input[name='haUsername']",
             "input[id='username']",
-            "input[placeholder*='email' i]",
-            "input[placeholder*='Email' i]",
-            "input[autocomplete='email']",
+            "input[id='userName']",
             "input[autocomplete='username']",
-            "#loginForm input[type='text']",
-            "form input[type='text']:first-of-type",
+            "input[placeholder*='username' i]",
+            "input[type='text']",        # only text input visible before password
         ]
-
-        email_filled = False
-        for sel in email_selectors:
+        username_filled = False
+        for sel in username_selectors:
             try:
-                el = await page.wait_for_selector(sel, timeout=3000)
+                el = await page.wait_for_selector(sel, timeout=5000)
                 if el:
-                    await el.fill(HERITAGE_EMAIL)
-                    logger.info(f"[Heritage] Filled email using selector: {sel}")
-                    email_filled = True
+                    await el.click()
+                    await el.fill(login_id)
+                    logger.info(f"[Heritage] Filled username '{login_id}' using: {sel}")
+                    username_filled = True
                     break
             except Exception:
                 continue
 
-        if not email_filled:
-            logger.warning("[Heritage] Could not find email input — login likely failed")
-            # Log visible inputs to help debug
+        if not username_filled:
+            logger.warning("[Heritage] Could not find username input — logging visible inputs:")
             try:
                 inputs = await page.query_selector_all("input")
-                for inp in inputs[:10]:
-                    attrs = await inp.evaluate("el => ({type: el.type, name: el.name, id: el.id, placeholder: el.placeholder})")
-                    logger.info(f"[Heritage] Found input: {attrs}")
+                for inp in inputs[:15]:
+                    attrs = await inp.evaluate(
+                        "el => ({type: el.type, name: el.name, id: el.id, "
+                        "placeholder: el.placeholder, autocomplete: el.autocomplete})"
+                    )
+                    logger.info(f"[Heritage] Input found: {attrs}")
             except Exception:
                 pass
             return False
 
-        # Fill password
+        # --- Fill password ---
         password_selectors = [
             "input[type='password']",
             "input[name='password']",
             "input[name='haPassword']",
-            "input[id='haPassword']",
             "input[id='password']",
         ]
-        password_filled = False
         for sel in password_selectors:
             try:
                 el = await page.query_selector(sel)
                 if el:
                     await el.fill(HERITAGE_PASSWORD)
-                    logger.info(f"[Heritage] Filled password using selector: {sel}")
-                    password_filled = True
+                    logger.info(f"[Heritage] Filled password using: {sel}")
                     break
             except Exception:
                 continue
 
-        if not password_filled:
-            logger.warning("[Heritage] Could not find password input")
-            return False
-
-        # Submit the form
+        # --- Click "Sign In" button ---
+        # The button text in the screenshot is exactly "Sign In"
         submit_selectors = [
+            "button:has-text('Sign In')",
+            "input[value='Sign In']",
             "button[type='submit']",
             "input[type='submit']",
-            "button[class*='login' i]",
             "button[class*='sign' i]",
-            "#loginForm button",
+            "button[class*='login' i]",
             "form button",
         ]
         submitted = False
@@ -263,31 +262,24 @@ class HeritageScraper(BaseScraper):
                 el = await page.query_selector(sel)
                 if el:
                     await el.click()
-                    logger.info(f"[Heritage] Clicked submit using selector: {sel}")
+                    logger.info(f"[Heritage] Clicked submit: {sel}")
                     submitted = True
                     break
             except Exception:
                 continue
 
         if not submitted:
-            logger.warning("[Heritage] Could not find submit button — trying Enter key")
-            try:
-                await page.keyboard.press("Enter")
-                submitted = True
-            except Exception:
-                pass
+            await page.keyboard.press("Enter")
+            submitted = True
 
         if submitted:
             try:
                 await page.wait_for_load_state("networkidle", timeout=20000)
-                logger.info(f"[Heritage] After login, URL: {page.url}")
-                # Check if we successfully logged in
-                current_url = page.url
-                if "login" not in current_url.lower():
-                    logger.info("[Heritage] Login appears successful (redirected away from login page)")
+                logger.info(f"[Heritage] Post-login URL: {page.url}")
+                if "login" not in page.url.lower():
+                    logger.info("[Heritage] Login successful")
                     return True
-                else:
-                    logger.warning(f"[Heritage] Still on login page after submit: {current_url}")
+                logger.warning("[Heritage] Still on login page after submit")
             except Exception as e:
                 logger.warning(f"[Heritage] Post-login wait failed: {e}")
 
