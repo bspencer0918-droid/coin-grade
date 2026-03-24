@@ -50,6 +50,7 @@ jobs:
             echo "No data changes to commit"
           else
             git commit -m "chore: daily price update $(date -u +%Y-%m-%d)"
+            git pull --rebase origin main
             git push
           fi
 
