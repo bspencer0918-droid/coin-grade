@@ -46,29 +46,29 @@ EXCHANGE_RATE_API_KEY = os.getenv("EXCHANGE_RATE_API_KEY", "")
 
 # Rate limiting (seconds between requests per source)
 RATE_LIMITS = {
-    "cng":          2.5,
-    "heritage":     4.0,
-    "vcoins":       2.5,
-    "mashops":      2.5,
-    "numisbids":    2.0,
-    "sixbid":       1.5,   # REST API
-    "hjb":          2.0,   # JSON API
-    "coinarchives": 3.0,   # be respectful to free tier
-    "ngc":          2.0,   # cert lookup
+    "cng":              2.5,
+    "heritage":         4.0,
+    "numisbids":        2.0,
+    "sixbid":           1.5,   # REST API
+    "hjb":              2.0,   # JSON API
+    "coinarchives":     3.0,   # be respectful to free tier
+    "stacksbowers":     3.0,
+    "greatcollections": 2.5,
+    "ngc":              2.0,   # cert lookup
 }
 
 # Max pages / iterations per source per run.
 # Date-cutoff logic in each scraper stops pagination earlier than this
 # hard cap, so these are just safety limits.
 MAX_PAGES = {
-    "cng":          120,  # ~120 auctions ≈ 4 years of archive
-    "heritage":     50,
-    "vcoins":       50,
-    "mashops":      200,  # hundreds of pages across all searches
-    "numisbids":    100,  # date-cutoff stops this early
-    "sixbid":       200,  # 50 results/page via API; date filter applied server-side
-    "hjb":          20,
-    "coinarchives": 150,  # one "page" = one search/auction query; covers ~100 firms + baseline
+    "cng":              120,  # ~120 auctions ≈ 4 years of archive
+    "heritage":         50,
+    "numisbids":        100,  # date-cutoff stops this early
+    "sixbid":           200,  # 50 results/page via API; date filter applied server-side
+    "hjb":              20,
+    "coinarchives":     150,  # one "page" = one search/auction query; covers ~100 firms + baseline
+    "stacksbowers":     80,
+    "greatcollections": 60,
 }
 
 # Playwright browser config
@@ -94,10 +94,10 @@ URLS = {
     "heritage": {
         "search":   "https://coins.ha.com/c/search-results.zx?N=790+231+4294967021+4294966556",
     },
-    "vcoins": {
-        "search":   "https://www.vcoins.com/en/search.aspx?type=1&cat=0&keywords=NGC+ancient",
+    "stacksbowers": {
+        "search":   "https://www.stacksbowers.com/Pages/ItemList.aspx?cat=0&kw=NGC+ancient",
     },
-    "mashops": {
-        "search":   "https://www.ma-shops.com/search/?keywords=NGC+ancient&currency=USD",
+    "greatcollections": {
+        "search":   "https://www.greatcollections.com/Coins/Search.cfm?keywords=NGC+ancient",
     },
 }

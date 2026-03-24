@@ -31,14 +31,14 @@ class Metal(str, Enum):
 
 
 class Source(str, Enum):
-    CNG          = "cng"
-    HERITAGE     = "heritage"
-    VCOINS       = "vcoins"
-    MASHOPS      = "mashops"
-    NUMISBIDS    = "numisbids"
-    SIXBID       = "sixbid"
-    HJB          = "hjb"
-    COINARCHIVES = "coinarchives"
+    CNG            = "cng"
+    HERITAGE       = "heritage"
+    NUMISBIDS      = "numisbids"
+    SIXBID         = "sixbid"
+    HJB            = "hjb"
+    COINARCHIVES   = "coinarchives"
+    STACKSBOWERS   = "stacksbowers"
+    GREATCOLLECTIONS = "greatcollections"
 
 
 class ListingType(str, Enum):

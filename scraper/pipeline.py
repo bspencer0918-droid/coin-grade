@@ -21,14 +21,14 @@ from .models import (
     NGC_GRADE_ORDER, PriceRange, RawListing, Sale, SaleMetadata,
     Source, SourceStatus,
 )
-from .sources.cng          import CNGScraper
-from .sources.heritage     import HeritageScraper
-from .sources.mashops      import MAShopsScraper
-from .sources.vcoins       import VCoinsScraper
-from .sources.numisbids    import NumisBidsScraper
-from .sources.sixbid       import SixbidScraper
-from .sources.hjb          import HJBScraper
-from .sources.coinarchives import CoinArchivesScraper
+from .sources.cng              import CNGScraper
+from .sources.heritage         import HeritageScraper
+from .sources.numisbids        import NumisBidsScraper
+from .sources.sixbid           import SixbidScraper
+from .sources.hjb              import HJBScraper
+from .sources.coinarchives     import CoinArchivesScraper
+from .sources.stacksbowers     import StacksBowersScraper
+from .sources.greatcollections import GreatCollectionsScraper
 from .utils.coin_classifier  import classify
 from .utils.ngc_detector     import detect_ngc, verify_cert
 from .utils.pcgs_detector    import detect_pcgs
@@ -49,12 +49,12 @@ logger = logging.getLogger(__name__)
 SCRAPERS = [
     CNGScraper(),
     HeritageScraper(),
-    VCoinsScraper(),
-    MAShopsScraper(),
     NumisBidsScraper(),
     SixbidScraper(),
     HJBScraper(),
     CoinArchivesScraper(),
+    StacksBowersScraper(),
+    GreatCollectionsScraper(),
 ]
 
 

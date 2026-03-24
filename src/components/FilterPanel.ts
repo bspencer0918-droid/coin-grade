@@ -26,14 +26,14 @@ const METALS: Array<{ value: Metal | ''; label: string }> = [
 ]
 
 const SOURCES: Array<{ value: Source; label: string }> = [
-  { value: 'cng',          label: 'CNG'              },
-  { value: 'heritage',     label: 'Heritage Auctions' },
-  { value: 'vcoins',       label: 'VCoins'           },
-  { value: 'mashops',      label: 'MA Shops'         },
-  { value: 'numisbids',    label: 'NumisBids'        },
-  { value: 'sixbid',       label: 'Sixbid'           },
-  { value: 'hjb',          label: 'Harlan J. Berk'   },
-  { value: 'coinarchives', label: 'Coin Archives'    },
+  { value: 'cng',              label: 'CNG'                },
+  { value: 'heritage',         label: 'Heritage Auctions'  },
+  { value: 'stacksbowers',     label: "Stack's Bowers"     },
+  { value: 'greatcollections', label: 'Great Collections'  },
+  { value: 'numisbids',        label: 'NumisBids'          },
+  { value: 'sixbid',           label: 'Sixbid'             },
+  { value: 'hjb',              label: 'Harlan J. Berk'     },
+  { value: 'coinarchives',     label: 'Coin Archives'      },
 ]
 
 export function renderFilterPanel(

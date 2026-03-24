@@ -20,15 +20,15 @@ export function renderAbout(): string {
           <li class="flex gap-3">
             <span class="text-gold-600 font-mono font-bold shrink-0">01</span>
             <span>Every day at 6:00 AM UTC, an automated scraper collects completed
-            auction results and fixed-price sales from CNG, Heritage Auctions, VCoins,
-            MA Shops, NumisBids, Sixbid, Harlan J. Berk, Coin Archives, and more.</span>
+            auction results from CNG, Heritage Auctions, Stack's Bowers, Great Collections,
+            NumisBids, Sixbid, Harlan J. Berk, and Coin Archives.</span>
           </li>
           <li class="flex gap-3">
             <span class="text-gold-600 font-mono font-bold shrink-0">02</span>
-            <span>Each listing is checked for NGC certification. Listings with an NGC
-            certificate number are verified against the official NGC registry.
-            Listings that mention NGC grading without a cert number are flagged as
-            "NGC mentioned" but not confirmed.</span>
+            <span>Each listing is checked for NGC or PCGS certification. Listings with an
+            NGC certificate number are verified against the official NGC registry.
+            Listings that mention a grading service without a cert number are flagged as
+            "mentioned" but not confirmed.</span>
           </li>
           <li class="flex gap-3">
             <span class="text-gold-600 font-mono font-bold shrink-0">03</span>
@@ -51,8 +51,8 @@ export function renderAbout(): string {
           ${[
             { name: 'CNG (Classical Numismatic Group)', note: 'Leading US ancient coin auction house'          },
             { name: 'Heritage Auctions',                note: 'World\'s largest numismatic auctioneer'        },
-            { name: 'VCoins',                           note: 'Fixed-price dealer marketplace'                },
-            { name: 'MA Shops',                         note: 'European dealer marketplace'                   },
+            { name: "Stack's Bowers Galleries",         note: 'Major US numismatic auction house'             },
+            { name: 'Great Collections',                note: 'Online auction for NGC/PCGS certified coins'   },
             { name: 'NumisBids',                        note: 'International auction aggregator'              },
             { name: 'Sixbid',                           note: 'European numismatic auction platform'          },
             { name: 'Harlan J. Berk',                   note: 'Chicago-based ancient coin dealer'             },
@@ -100,8 +100,8 @@ export function renderAbout(): string {
           Coin Grade aggregates publicly available auction data for informational purposes only.
           Past realized prices do not guarantee future values. Always consult a professional
           numismatist before making purchasing or selling decisions. Coin Grade is not affiliated
-          with NGC, CNG, Heritage Auctions, VCoins, MA Shops, NumisBids, Sixbid,
-          Harlan J. Berk, or Coin Archives.
+          with NGC, PCGS, CNG, Heritage Auctions, Stack's Bowers, Great Collections,
+          NumisBids, Sixbid, Harlan J. Berk, or Coin Archives.
         </p>
       </section>
 
