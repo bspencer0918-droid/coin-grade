@@ -20,24 +20,28 @@ from urllib.parse import urljoin
 from bs4 import BeautifulSoup, Tag
 
 from ..models import ListingType, RawListing, Source
-from ..config import MAX_PAGES
+from ..config import MAX_PAGES, cutoff_date
 from .base import BaseScraper
 
 logger = logging.getLogger(__name__)
 
 BASE_URL = "https://www.cngcoins.com"
 
-# We'll scan this range of auction IDs (most recent completed auctions)
-# CNG is currently at ID ~218-219; IDs go back many years
-AUCTION_ID_START = 217   # most recent completed
-AUCTION_ID_END   = 150   # go back ~67 auctions (~4-5 years of data)
+# CNG auction IDs increment with each sale.  They run ~2 sales/month so
+# 6 months ≈ 12 auctions.  Start at a high value and scan downward;
+# the date-cutoff in scrape() stops us automatically once data is old enough.
+AUCTION_ID_START = 225   # generous upper bound; IDs we haven't seen just return no lots
+AUCTION_ID_END   = 100   # hard floor (never go further back than this)
 
 
 class CNGScraper(BaseScraper):
     source = Source.CNG
 
     def scrape(self, max_pages: int = MAX_PAGES["cng"]) -> Iterator[RawListing]:
+        cutoff = cutoff_date()
         auctions_checked = 0
+        consecutive_empty = 0  # skip IDs that don't exist
+
         for auction_id in range(AUCTION_ID_START, AUCTION_ID_END - 1, -1):
             if auctions_checked >= max_pages:
                 break
@@ -56,12 +60,28 @@ class CNGScraper(BaseScraper):
             # Get auction date from page if available
             auction_date = _extract_auction_date(soup)
 
+            # Stop once the auction is older than our cutoff
+            if auction_date and auction_date < cutoff:
+                logger.info(f"[CNG] Auction {auction_id} date {auction_date} is before cutoff {cutoff} — stopping")
+                break
+
             count = 0
             for listing in _parse_lots(soup, auction_id, auction_date):
                 yield listing
                 count += 1
+
             auctions_checked += 1
             logger.info(f"[CNG] Auction {auction_id}: {count} NGC listings")
+
+            # If this ID had no lots at all it probably doesn't exist yet;
+            # allow a few consecutive misses before giving up
+            if count == 0 and auction_date is None:
+                consecutive_empty += 1
+                if consecutive_empty >= 5:
+                    logger.info(f"[CNG] 5 consecutive empty IDs — stopping")
+                    break
+            else:
+                consecutive_empty = 0
 
 
 def _extract_auction_date(soup: BeautifulSoup) -> date | None:

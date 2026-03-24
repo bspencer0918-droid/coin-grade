@@ -15,7 +15,7 @@ from typing import Iterator
 import httpx
 
 from ..models import ListingType, RawListing, Source
-from ..config import MAX_PAGES, RATE_LIMITS
+from ..config import MAX_PAGES, RATE_LIMITS, cutoff_date
 from .base import BaseScraper
 
 logger = logging.getLogger(__name__)
@@ -40,10 +40,15 @@ class SixbidScraper(BaseScraper):
             },
             timeout=30,
         )
+        cutoff = cutoff_date()
+        # Sixbid Solr API accepts fq (filter query) for date ranges.
+        # Format: auction_start:[2025-09-01T00:00:00Z TO *]
+        date_fq = f"auction_start:[{cutoff.isoformat()}T00:00:00Z TO *]"
+
         try:
             for page_num in range(max_pages):
                 start = page_num * RESULTS_PER_PAGE
-                logger.info(f"[Sixbid] Fetching offset {start}")
+                logger.info(f"[Sixbid] Fetching offset {start} (cutoff={cutoff})")
                 self._wait()
                 try:
                     resp = client.post(API_URL, json={
@@ -55,6 +60,7 @@ class SixbidScraper(BaseScraper):
                         "thesaurus":    False,
                         "translations": False,
                         "highlight":    False,
+                        "fq":           date_fq,
                     })
                     resp.raise_for_status()
                     data = resp.json()

@@ -30,15 +30,16 @@ class Metal(str, Enum):
 
 
 class Source(str, Enum):
-    CNG        = "cng"
-    ROMA       = "roma"
-    HERITAGE   = "heritage"
-    EBAY       = "ebay"
-    VCOINS     = "vcoins"
-    MASHOPS    = "mashops"
-    NUMISBIDS  = "numisbids"
-    SIXBID     = "sixbid"
-    HJB        = "hjb"
+    CNG          = "cng"
+    ROMA         = "roma"
+    HERITAGE     = "heritage"
+    EBAY         = "ebay"
+    VCOINS       = "vcoins"
+    MASHOPS      = "mashops"
+    NUMISBIDS    = "numisbids"
+    SIXBID       = "sixbid"
+    HJB          = "hjb"
+    COINARCHIVES = "coinarchives"
 
 
 class ListingType(str, Enum):
@@ -111,6 +112,7 @@ class CoinSummary(BaseModel):
     ruler:               Optional[str]  = None
     ruler_normalized:    Optional[str]  = None
     dynasty:             Optional[str]  = None
+    ruler_dates:         Optional[str]  = None
     denomination:        str
     metal:               Metal
     sale_count:          int

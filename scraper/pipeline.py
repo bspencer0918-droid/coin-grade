@@ -21,14 +21,15 @@ from .models import (
     NGC_GRADE_ORDER, PriceRange, RawListing, Sale, SaleMetadata,
     Source, SourceStatus,
 )
-from .sources.cng       import CNGScraper
-from .sources.ebay      import EbayScraper
-from .sources.heritage  import HeritageScraper
-from .sources.mashops   import MAShopsScraper
-from .sources.vcoins    import VCoinsScraper
-from .sources.numisbids import NumisBidsScraper
-from .sources.sixbid    import SixbidScraper
-from .sources.hjb       import HJBScraper
+from .sources.cng          import CNGScraper
+from .sources.ebay         import EbayScraper
+from .sources.heritage     import HeritageScraper
+from .sources.mashops      import MAShopsScraper
+from .sources.vcoins       import VCoinsScraper
+from .sources.numisbids    import NumisBidsScraper
+from .sources.sixbid       import SixbidScraper
+from .sources.hjb          import HJBScraper
+from .sources.coinarchives import CoinArchivesScraper
 from .utils.coin_classifier  import classify
 from .utils.ngc_detector     import detect_ngc, verify_cert
 from .utils.price_normalizer import load_exchange_rates, to_usd
@@ -54,6 +55,7 @@ SCRAPERS = [
     NumisBidsScraper(),
     SixbidScraper(),
     HJBScraper(),
+    CoinArchivesScraper(),
 ]
 
 
@@ -235,6 +237,7 @@ def build_coin_catalog(
             ruler=cls["ruler"],
             ruler_normalized=cls["ruler_normalized"],
             dynasty=cls["dynasty"],
+            ruler_dates=cls.get("ruler_dates"),
             denomination=cls["denomination"],
             metal=cls["metal"],
             sale_count=len(sales),
@@ -274,6 +277,7 @@ def write_outputs(coin_details: dict[str, CoinDetail], statuses: dict[Source, So
         CoinSummary(
             slug=c.slug, category=c.category, ruler=c.ruler,
             ruler_normalized=c.ruler_normalized, dynasty=c.dynasty,
+            ruler_dates=c.ruler_dates,
             denomination=c.denomination, metal=c.metal,
             sale_count=c.sale_count, realized_count=c.realized_count,
             fixed_price_count=c.fixed_price_count,

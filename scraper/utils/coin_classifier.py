@@ -76,9 +76,9 @@ def detect_category(text: str) -> Category:
 # Ruler detection
 # ---------------------------------------------------------------------------
 
-def detect_ruler(text: str, category: Category) -> tuple[Optional[str], Optional[str]]:
+def detect_ruler(text: str, category: Category) -> tuple[Optional[str], Optional[str], Optional[str]]:
     """
-    Returns (ruler_display_name, ruler_slug) or (None, None).
+    Returns (ruler_display_name, ruler_slug, ruler_dates) or (None, None, None).
     Uses rulers.yaml for the keyword lookup table.
     """
     rulers_data = _load_rulers()
@@ -89,9 +89,9 @@ def detect_ruler(text: str, category: Category) -> tuple[Optional[str], Optional
         name: str = ruler["name"]
         keywords: list[str] = ruler.get("keywords", [name.lower()])
         if any(kw in text_lower for kw in keywords):
-            return name, ruler.get("slug", name.lower().replace(" ", "-"))
+            return name, ruler.get("slug", name.lower().replace(" ", "-")), ruler.get("dates")
 
-    return None, None
+    return None, None, None
 
 
 # ---------------------------------------------------------------------------
@@ -184,7 +184,7 @@ def classify(title: str, description: str = "") -> dict:
     category    = detect_category(full)
     metal       = detect_metal(full)
     denomination = detect_denomination(full)
-    ruler, ruler_slug = detect_ruler(full, category)
+    ruler, ruler_slug, ruler_dates = detect_ruler(full, category)
 
     # Dynasty (simplified)
     dynasty: Optional[str] = None
@@ -202,6 +202,7 @@ def classify(title: str, description: str = "") -> dict:
         "ruler":            ruler,
         "ruler_normalized": ruler_slug,
         "dynasty":          dynasty,
+        "ruler_dates":      ruler_dates,
         "denomination":     denomination,
         "metal":            metal,
         "slug":             slug,

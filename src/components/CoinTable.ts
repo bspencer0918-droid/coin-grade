@@ -88,12 +88,20 @@ export function renderCoinTable(
       ? `<span title="NGC cert verified" class="text-emerald-400 text-xs">✓</span>`
       : ''
 
+    const topGrade = NGC_GRADE_ORDER.find(g => coin.grade_distribution[g])
+    const subtitle = coin.ruler
+      ? coin.ruler_dates
+        ? `${coin.ruler} (${coin.ruler_dates})`
+        : coin.ruler
+      : coin.category
+    const gradeNote = topGrade ? ` · NGC ${topGrade}` : ''
+
     return `
       <tr class="table-row cursor-pointer" data-slug="${coin.slug}">
         <td class="table-cell w-12">${thumb}</td>
         <td class="table-cell">
           <div class="font-medium text-stone-100">${coin.denomination}</div>
-          <div class="text-xs text-stone-500">${coin.ruler ?? coin.category}</div>
+          <div class="text-xs text-stone-500">${subtitle}${gradeNote}</div>
         </td>
         <td class="table-cell text-stone-300">${coin.ruler ?? '—'}</td>
         <td class="table-cell capitalize text-stone-400">${coin.metal}</td>

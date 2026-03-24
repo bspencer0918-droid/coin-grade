@@ -2,10 +2,23 @@
 Scraper configuration — URLs, selectors, rate limits, timeouts.
 """
 import os
+from datetime import date, timedelta
 from pathlib import Path
 from dotenv import load_dotenv
 
 load_dotenv()
+
+# How many months of auction history to collect.
+# The daily scraper uses this to stop paginating once it reaches data
+# older than HISTORY_MONTHS.  Set higher for backfill runs.
+HISTORY_MONTHS: int = int(os.getenv("HISTORY_MONTHS", "6"))
+
+
+def cutoff_date() -> date:
+    """Return the oldest sale date we care about (today minus HISTORY_MONTHS)."""
+    today = date.today()
+    # Approximate: subtract 30 days per month
+    return today - timedelta(days=30 * HISTORY_MONTHS)
 
 # Project root (one level above this file)
 ROOT = Path(__file__).parent.parent
@@ -38,31 +51,33 @@ EXCHANGE_RATE_API_KEY = os.getenv("EXCHANGE_RATE_API_KEY", "")
 
 # Rate limiting (seconds between requests per source)
 RATE_LIMITS = {
-    "cng":       2.5,
-    "roma":      3.0,
-    "heritage":  4.0,
-    "ebay":      1.0,   # API, not scraping
-    "vcoins":    2.5,
-    "mashops":   2.5,
-    "numisbids": 2.0,
-    "sixbid":    1.5,   # REST API
-    "hjb":       2.0,   # JSON API
-    "ngc":       2.0,   # cert lookup
+    "cng":          2.5,
+    "roma":         3.0,
+    "heritage":     4.0,
+    "ebay":         1.0,   # API, not scraping
+    "vcoins":       2.5,
+    "mashops":      2.5,
+    "numisbids":    2.0,
+    "sixbid":       1.5,   # REST API
+    "hjb":          2.0,   # JSON API
+    "coinarchives": 3.0,   # be respectful to free tier
+    "ngc":          2.0,   # cert lookup
 }
 
-# Max pages to scrape per source per run.
-# MA Shops alone has 8+ pages of Roman NGC coins; set high limits and let
-# the scraper stop naturally when pages run out.
+# Max pages / iterations per source per run.
+# Date-cutoff logic in each scraper stops pagination earlier than this
+# hard cap, so these are just safety limits.
 MAX_PAGES = {
-    "cng":       50,
-    "roma":      15,
-    "heritage":  30,
-    "ebay":      50,   # API pages
-    "vcoins":    50,
-    "mashops":   200,  # hundreds of pages across all searches
-    "numisbids": 50,
-    "sixbid":    50,   # 50 results per page via API
-    "hjb":       20,
+    "cng":          120,  # ~120 auctions ≈ 4 years of archive
+    "roma":         15,
+    "heritage":     50,
+    "ebay":         50,   # API pages (100 items each)
+    "vcoins":       50,
+    "mashops":      200,  # hundreds of pages across all searches
+    "numisbids":    100,  # date-cutoff stops this early
+    "sixbid":       200,  # 50 results/page via API; date filter applied server-side
+    "hjb":          20,
+    "coinarchives": 150,  # one "page" = one search/auction query; covers ~100 firms + baseline
 }
 
 # Playwright browser config

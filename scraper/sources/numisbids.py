@@ -16,7 +16,7 @@ from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 
 from ..models import ListingType, RawListing, Source
-from ..config import MAX_PAGES
+from ..config import MAX_PAGES, cutoff_date
 from .base import BaseScraper
 
 logger = logging.getLogger(__name__)
@@ -29,6 +29,7 @@ class NumisBidsScraper(BaseScraper):
     source = Source.NUMISBIDS
 
     def scrape(self, max_pages: int = MAX_PAGES["numisbids"]) -> Iterator[RawListing]:
+        cutoff = cutoff_date()
         for page_num in range(1, max_pages + 1):
             url = f"{SEARCH_URL}?searchall=NGC+ancient&pg={page_num}"
             logger.info(f"[NumisBids] Fetching page {page_num}")
@@ -48,14 +49,22 @@ class NumisBidsScraper(BaseScraper):
             sale_dates = _extract_sale_dates(soup)
 
             yielded = 0
+            past_cutoff = 0
             for item in items:
                 listing = self._parse_item(item, sale_dates)
                 if listing:
+                    if listing.sale_date and listing.sale_date < cutoff:
+                        past_cutoff += 1
+                        continue
                     yield listing
                     yielded += 1
 
             logger.info(f"[NumisBids] Page {page_num}: {yielded} listings")
-            if yielded < 5:
+            # If all items on this page are older than cutoff, stop paginating
+            if past_cutoff > 0 and yielded == 0:
+                logger.info(f"[NumisBids] All items on page {page_num} older than {cutoff} — stopping")
+                break
+            if yielded < 5 and past_cutoff == 0:
                 break
 
     def _parse_item(self, item, sale_dates: dict) -> RawListing | None:

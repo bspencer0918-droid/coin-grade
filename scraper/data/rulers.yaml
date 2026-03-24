@@ -8,195 +8,269 @@ roman:
   - name: "Julius Caesar"
     slug: "julius-caesar"
     dynasty: "Roman Republic"
+    dates: "44 BC"
     keywords: ["caesar", "julius caesar", "c. julius caesar"]
   - name: "Mark Antony"
     slug: "mark-antony"
     dynasty: "Roman Republic"
+    dates: "83–30 BC"
     keywords: ["mark antony", "m. antony", "m antony", "antonius", "legionary denarius"]
 
   # Julio-Claudian dynasty
   - name: "Augustus"
     slug: "augustus"
     dynasty: "Julio-Claudian"
+    dates: "27 BC – AD 14"
     keywords: ["augustus", "avg", "avgvstvs", "octavian", "octavianus"]
   - name: "Tiberius"
     slug: "tiberius"
     dynasty: "Julio-Claudian"
+    dates: "AD 14–37"
     keywords: ["tiberius", "tiberivm", "tib caesar"]
   - name: "Caligula"
     slug: "caligula"
     dynasty: "Julio-Claudian"
+    dates: "AD 37–41"
     keywords: ["caligula", "gaius caesar"]
   - name: "Claudius"
     slug: "claudius"
     dynasty: "Julio-Claudian"
+    dates: "AD 41–54"
     keywords: ["claudius", "clavdivs", "ti claudius"]
   - name: "Nero"
     slug: "nero"
     dynasty: "Julio-Claudian"
+    dates: "AD 54–68"
     keywords: ["nero", "neroni", "nero caesar"]
 
   # Year of the Four Emperors
   - name: "Galba"
     slug: "galba"
     dynasty: "Year of Four Emperors"
+    dates: "AD 68–69"
     keywords: ["galba", "ser galba"]
   - name: "Otho"
     slug: "otho"
     dynasty: "Year of Four Emperors"
+    dates: "AD 69"
     keywords: ["otho", "m otho"]
   - name: "Vitellius"
     slug: "vitellius"
     dynasty: "Year of Four Emperors"
+    dates: "AD 69"
     keywords: ["vitellius", "a vitellius"]
 
   # Flavian dynasty
   - name: "Vespasian"
     slug: "vespasian"
     dynasty: "Flavian"
+    dates: "AD 69–79"
     keywords: ["vespasian", "vespasianvs", "t flavivs vespasianvs"]
   - name: "Titus"
     slug: "titus"
     dynasty: "Flavian"
+    dates: "AD 79–81"
     keywords: ["titus", "t vespasianvs", "titvm", "imp titvs"]
   - name: "Domitian"
     slug: "domitian"
     dynasty: "Flavian"
+    dates: "AD 81–96"
     keywords: ["domitian", "domitianvs", "domitianvm"]
 
   # Nerva-Antonine dynasty
   - name: "Nerva"
     slug: "nerva"
     dynasty: "Nerva-Antonine"
+    dates: "AD 96–98"
     keywords: ["nerva", "nerva caes", "imp nerva"]
   - name: "Trajan"
     slug: "trajan"
     dynasty: "Nerva-Antonine"
+    dates: "AD 98–117"
     keywords: ["trajan", "traianvs", "imp traian", "ulp traian"]
   - name: "Hadrian"
     slug: "hadrian"
     dynasty: "Nerva-Antonine"
+    dates: "AD 117–138"
     keywords: ["hadrian", "hadrianvs", "imp hadrianvs", "p ael hadrian"]
   - name: "Antoninus Pius"
     slug: "antoninus-pius"
     dynasty: "Nerva-Antonine"
+    dates: "AD 138–161"
     keywords: ["antoninus pius", "antoninvs pivs", "ant pivs"]
   - name: "Marcus Aurelius"
     slug: "marcus-aurelius"
     dynasty: "Nerva-Antonine"
+    dates: "AD 161–180"
     keywords: ["marcus aurelius", "m avrelivs", "m aurelius", "marc aurel"]
   - name: "Lucius Verus"
     slug: "lucius-verus"
     dynasty: "Nerva-Antonine"
+    dates: "AD 161–169"
     keywords: ["lucius verus", "l vervs", "l verus"]
   - name: "Commodus"
     slug: "commodus"
     dynasty: "Nerva-Antonine"
+    dates: "AD 177–192"
     keywords: ["commodus", "commodvs", "m avr commodvs"]
 
   # Severan dynasty
   - name: "Septimius Severus"
     slug: "septimius-severus"
     dynasty: "Severan"
+    dates: "AD 193–211"
     keywords: ["septimius severus", "sept sev", "l sept sev", "severvs"]
   - name: "Caracalla"
     slug: "caracalla"
     dynasty: "Severan"
+    dates: "AD 198–217"
     keywords: ["caracalla", "carac", "m avr antoninvs", "antoninus caracalla"]
   - name: "Geta"
     slug: "geta"
     dynasty: "Severan"
+    dates: "AD 209–211"
     keywords: ["geta", "p sept geta"]
   - name: "Elagabalus"
     slug: "elagabalus"
     dynasty: "Severan"
+    dates: "AD 218–222"
     keywords: ["elagabalus", "elagabalvs", "elagab", "heliogabalus"]
   - name: "Severus Alexander"
     slug: "severus-alexander"
     dynasty: "Severan"
+    dates: "AD 222–235"
     keywords: ["severus alexander", "sev alexander", "m avr sev alexand"]
   - name: "Julia Domna"
     slug: "julia-domna"
     dynasty: "Severan"
+    dates: "AD 193–217"
     keywords: ["julia domna", "ivl domna", "ivlia domna"]
   - name: "Julia Maesa"
     slug: "julia-maesa"
     dynasty: "Severan"
+    dates: "AD 218–224"
     keywords: ["julia maesa", "ivl maesa"]
 
   # Crisis of the Third Century
   - name: "Maximinus I"
     slug: "maximinus-i"
     dynasty: "Crisis of the Third Century"
+    dates: "AD 235–238"
     keywords: ["maximinus i", "maximinvs", "c ivl ver maximinvs"]
   - name: "Gordian III"
     slug: "gordian-iii"
     dynasty: "Crisis of the Third Century"
+    dates: "AD 238–244"
     keywords: ["gordian iii", "gordianvs", "imp gordianvs"]
   - name: "Philip I"
     slug: "philip-i"
     dynasty: "Crisis of the Third Century"
+    dates: "AD 244–249"
     keywords: ["philip i", "philip the arab", "m ivl philippvs", "philippvs"]
   - name: "Decius"
     slug: "decius"
     dynasty: "Crisis of the Third Century"
+    dates: "AD 249–251"
     keywords: ["decius", "traianvs decivs", "trajan decius"]
   - name: "Gallienus"
     slug: "gallienus"
     dynasty: "Crisis of the Third Century"
+    dates: "AD 253–268"
     keywords: ["gallienus", "gallienvm", "imp gallienvs"]
   - name: "Claudius II"
     slug: "claudius-ii"
     dynasty: "Crisis of the Third Century"
+    dates: "AD 268–270"
     keywords: ["claudius ii", "claudius gothicus", "claud gothicvs"]
   - name: "Aurelian"
     slug: "aurelian"
     dynasty: "Crisis of the Third Century"
+    dates: "AD 270–275"
     keywords: ["aurelian", "aurelianvs", "imp aurelianvs"]
 
   # Tetrarchy & Constantine
   - name: "Diocletian"
     slug: "diocletian"
     dynasty: "Tetrarchy"
+    dates: "AD 284–305"
     keywords: ["diocletian", "diocletianvs", "imp diocletianvs"]
   - name: "Maximian"
     slug: "maximian"
     dynasty: "Tetrarchy"
+    dates: "AD 286–310"
     keywords: ["maximian", "maximianvs", "herculivs"]
   - name: "Constantine I"
     slug: "constantine-i"
     dynasty: "Constantinian"
+    dates: "AD 307–337"
     keywords: ["constantine i", "constantine the great", "constantinvs", "imp constantinvs"]
   - name: "Constantine II"
     slug: "constantine-ii"
     dynasty: "Constantinian"
+    dates: "AD 337–340"
     keywords: ["constantine ii", "fl cl constantinvs"]
   - name: "Constantius II"
     slug: "constantius-ii"
     dynasty: "Constantinian"
+    dates: "AD 337–361"
     keywords: ["constantius ii", "constantivs ii", "fl ivl constantivs"]
   - name: "Julian II"
     slug: "julian-ii"
     dynasty: "Constantinian"
+    dates: "AD 360–363"
     keywords: ["julian ii", "julian the apostate", "fl cl ivlianvs"]
 
   # Late Empire
   - name: "Valentinian I"
     slug: "valentinian-i"
     dynasty: "Valentinian"
+    dates: "AD 364–375"
     keywords: ["valentinian i", "valentinianvs", "d n valentinianvs"]
   - name: "Valens"
     slug: "valens"
     dynasty: "Valentinian"
+    dates: "AD 364–378"
     keywords: ["valens", "d n valens"]
   - name: "Theodosius I"
     slug: "theodosius-i"
     dynasty: "Theodosian"
+    dates: "AD 379–395"
     keywords: ["theodosius i", "theodosius the great", "d n theodosivs"]
   - name: "Honorius"
     slug: "honorius"
     dynasty: "Theodosian"
+    dates: "AD 393–423"
     keywords: ["honorius", "honori", "d n honorivs"]
+  - name: "Arcadius"
+    slug: "arcadius"
+    dynasty: "Theodosian"
+    dates: "AD 395–408"
+    keywords: ["arcadius", "arcadivs", "d n arcadivs"]
+  - name: "Valentinian III"
+    slug: "valentinian-iii"
+    dynasty: "Theodosian"
+    dates: "AD 425–455"
+    keywords: ["valentinian iii", "valentinianvs iii", "d n placidvs valentinianvs"]
+  - name: "Libius Severus"
+    slug: "libius-severus"
+    dynasty: "Late West Roman"
+    dates: "AD 461–465"
+    keywords: ["libius severus", "libivs severvs"]
+  - name: "Anthemius"
+    slug: "anthemius"
+    dynasty: "Late West Roman"
+    dates: "AD 467–472"
+    keywords: ["anthemius", "anthemivs"]
+  - name: "Julius Nepos"
+    slug: "julius-nepos"
+    dynasty: "Late West Roman"
+    dates: "AD 474–475"
+    keywords: ["julius nepos", "ivlivs nepos"]
+  - name: "Romulus Augustulus"
+    slug: "romulus-augustulus"
+    dynasty: "Late West Roman"
+    dates: "AD 475–476"
+    keywords: ["romulus augustulus", "romvlvs avgvstvlvs"]
 
 greek:
   - name: "Athens"
@@ -233,34 +307,245 @@ greek:
     keywords: ["rhodes", "rhodos", "rhodian"]
 
 byzantine:
+  # Justinianic dynasty
   - name: "Justinian I"
     slug: "justinian-i"
     dynasty: "Justinian"
-    keywords: ["justinian i", "justinian the great", "iustinianvs"]
+    dates: "AD 527–565"
+    keywords: ["justinian i", "justinian the great", "iustinianvs", "d n iustinianvs"]
+  - name: "Justin II"
+    slug: "justin-ii"
+    dynasty: "Justinian"
+    dates: "AD 565–578"
+    keywords: ["justin ii", "iustinvs ii", "d n iustinvs"]
+  - name: "Tiberius II"
+    slug: "tiberius-ii"
+    dynasty: "Justinian"
+    dates: "AD 578–582"
+    keywords: ["tiberius ii", "tiberivs ii", "d n tiberivs constantinvs"]
   - name: "Maurice Tiberius"
     slug: "maurice-tiberius"
     dynasty: "Justinian"
-    keywords: ["maurice tiberius", "mavrikios"]
+    dates: "AD 582–602"
+    keywords: ["maurice tiberius", "mavrikios", "mavrice", "d n mavric tiberi"]
+  - name: "Phocas"
+    slug: "phocas"
+    dynasty: "Justinian"
+    dates: "AD 602–610"
+    keywords: ["phocas", "focas", "d n focas"]
+
+  # Heraclian dynasty
   - name: "Heraclius"
     slug: "heraclius"
     dynasty: "Heraclian"
-    keywords: ["heraclius", "herakleios"]
+    dates: "AD 610–641"
+    keywords: ["heraclius", "herakleios", "d n heraclivs"]
+  - name: "Constans II"
+    slug: "constans-ii"
+    dynasty: "Heraclian"
+    dates: "AD 641–668"
+    keywords: ["constans ii", "constans pogonatos", "herakleonas", "constans ii pogonatos"]
   - name: "Constantine IV"
     slug: "constantine-iv"
     dynasty: "Heraclian"
+    dates: "AD 668–685"
     keywords: ["constantine iv", "pogonatos"]
+  - name: "Justinian II"
+    slug: "justinian-ii"
+    dynasty: "Heraclian"
+    dates: "AD 685–695, 705–711"
+    keywords: ["justinian ii", "iustinianvs ii", "d n iustinianvs filivs"]
+  - name: "Leontius"
+    slug: "leontius"
+    dynasty: "Heraclian"
+    dates: "AD 695–698"
+    keywords: ["leontius", "leontios", "d n leontivs"]
+  - name: "Tiberius III"
+    slug: "tiberius-iii"
+    dynasty: "Heraclian"
+    dates: "AD 698–705"
+    keywords: ["tiberius iii", "tiberivs iii", "d n tiberi"]
+
+  # Isaurian dynasty
+  - name: "Leo III"
+    slug: "leo-iii"
+    dynasty: "Isaurian"
+    dates: "AD 717–741"
+    keywords: ["leo iii", "leon iii", "d n leon", "leo isaurian"]
+  - name: "Constantine V"
+    slug: "constantine-v"
+    dynasty: "Isaurian"
+    dates: "AD 741–775"
+    keywords: ["constantine v", "copronymus", "d n constantinos v", "constantine v copronymus"]
+  - name: "Leo IV"
+    slug: "leo-iv"
+    dynasty: "Isaurian"
+    dates: "AD 775–780"
+    keywords: ["leo iv", "leon iv", "d n leon iv", "leo the khazar"]
+  - name: "Constantine VI"
+    slug: "constantine-vi"
+    dynasty: "Isaurian"
+    dates: "AD 780–797"
+    keywords: ["constantine vi", "d n constantinos vi"]
+  - name: "Irene"
+    slug: "irene"
+    dynasty: "Isaurian"
+    dates: "AD 797–802"
+    keywords: ["irene", "eirene", "empress irene"]
+
+  # Nikephorian dynasty
+  - name: "Nicephorus I"
+    slug: "nicephorus-i"
+    dynasty: "Nikephorian"
+    dates: "AD 802–811"
+    keywords: ["nicephorus i", "nikephoros i", "d n nikiforos"]
+  - name: "Michael I"
+    slug: "michael-i"
+    dynasty: "Nikephorian"
+    dates: "AD 811–813"
+    keywords: ["michael i", "mikhail i", "rhangabe"]
+
+  # Amorian dynasty
+  - name: "Leo V"
+    slug: "leo-v"
+    dynasty: "Amorian"
+    dates: "AD 813–820"
+    keywords: ["leo v", "leon v", "leo the armenian"]
+  - name: "Michael II"
+    slug: "michael-ii"
+    dynasty: "Amorian"
+    dates: "AD 820–829"
+    keywords: ["michael ii", "mikhail ii", "the amorian", "michael ii the amorian"]
+  - name: "Theophilos"
+    slug: "theophilos"
+    dynasty: "Amorian"
+    dates: "AD 829–842"
+    keywords: ["theophilos", "theophilus", "d n theofil", "theophilos amorian"]
+  - name: "Michael III"
+    slug: "michael-iii"
+    dynasty: "Amorian"
+    dates: "AD 842–867"
+    keywords: ["michael iii", "mikhail iii", "the drunkard", "michael iii the drunkard"]
+
+  # Macedonian dynasty
+  - name: "Basil I"
+    slug: "basil-i"
+    dynasty: "Macedonian"
+    dates: "AD 867–886"
+    keywords: ["basil i", "basileios i", "basil the macedonian", "basil i the macedonian"]
+  - name: "Leo VI"
+    slug: "leo-vi"
+    dynasty: "Macedonian"
+    dates: "AD 886–912"
+    keywords: ["leo vi", "leon vi", "leo the wise", "leo vi the wise"]
+  - name: "Alexander"
+    slug: "alexander-byz"
+    dynasty: "Macedonian"
+    dates: "AD 912–913"
+    keywords: ["alexander byzantine", "alexandros byzantine", "emperor alexander macedonian"]
+  - name: "Constantine VII"
+    slug: "constantine-vii"
+    dynasty: "Macedonian"
+    dates: "AD 913–959"
+    keywords: ["constantine vii", "porphyrogennetos", "d n constantinos vii", "constantine vii porphyrogennetos"]
+  - name: "Romanus I"
+    slug: "romanus-i"
+    dynasty: "Macedonian"
+    dates: "AD 920–944"
+    keywords: ["romanus i", "romanos i", "lecapenus", "romanus i lecapenus"]
+  - name: "Romanus II"
+    slug: "romanus-ii"
+    dynasty: "Macedonian"
+    dates: "AD 959–963"
+    keywords: ["romanus ii", "romanos ii"]
+  - name: "Nicephorus II"
+    slug: "nicephorus-ii"
+    dynasty: "Macedonian"
+    dates: "AD 963–969"
+    keywords: ["nicephorus ii", "nikephoros ii", "nicephorus phocas", "nicephorus ii phocas"]
+  - name: "John I"
+    slug: "john-i"
+    dynasty: "Macedonian"
+    dates: "AD 969–976"
+    keywords: ["john i", "john tzimiskes", "ioannes i", "tzimisces"]
   - name: "Basil II"
     slug: "basil-ii"
     dynasty: "Macedonian"
-    keywords: ["basil ii", "basil the bulgar slayer", "basileos ii"]
+    dates: "AD 976–1025"
+    keywords: ["basil ii", "basil the bulgar slayer", "basileos ii", "basileios ii"]
+  - name: "Constantine VIII"
+    slug: "constantine-viii"
+    dynasty: "Macedonian"
+    dates: "AD 1025–1028"
+    keywords: ["constantine viii", "constantinos viii"]
+
+  # Post-Macedonian
+  - name: "Romanus III"
+    slug: "romanus-iii"
+    dynasty: "Post-Macedonian"
+    dates: "AD 1028–1034"
+    keywords: ["romanus iii", "romanos iii", "argyros", "romanus iii argyros"]
+  - name: "Michael IV"
+    slug: "michael-iv"
+    dynasty: "Post-Macedonian"
+    dates: "AD 1034–1041"
+    keywords: ["michael iv", "mikhail iv", "the paphlagonian", "michael iv the paphlagonian"]
+  - name: "Constantine IX"
+    slug: "constantine-ix"
+    dynasty: "Post-Macedonian"
+    dates: "AD 1042–1055"
+    keywords: ["constantine ix", "monomachos", "d n constantinos ix", "constantine ix monomachos"]
+
+  # Doukid dynasty
+  - name: "Constantine X"
+    slug: "constantine-x"
+    dynasty: "Doukid"
+    dates: "AD 1059–1067"
+    keywords: ["constantine x", "constantine x doukas", "constantinos x"]
   - name: "Romanus IV"
     slug: "romanus-iv"
     dynasty: "Doukid"
-    keywords: ["romanus iv", "romanos iv", "diogenes"]
+    dates: "AD 1068–1071"
+    keywords: ["romanus iv", "romanos iv", "diogenes", "romanus iv diogenes"]
+  - name: "Michael VII"
+    slug: "michael-vii"
+    dynasty: "Doukid"
+    dates: "AD 1071–1078"
+    keywords: ["michael vii", "mikhail vii", "michael vii doukas"]
+
+  # Komnenian dynasty
   - name: "Alexios I"
     slug: "alexios-i"
     dynasty: "Komnenian"
-    keywords: ["alexios i", "alexius i", "komnenos"]
+    dates: "AD 1081–1118"
+    keywords: ["alexios i", "alexius i", "komnenos", "alexios komnenos"]
+  - name: "John II"
+    slug: "john-ii"
+    dynasty: "Komnenian"
+    dates: "AD 1118–1143"
+    keywords: ["john ii", "ioannes ii", "kalokales", "john ii komnenos"]
+  - name: "Manuel I"
+    slug: "manuel-i"
+    dynasty: "Komnenian"
+    dates: "AD 1143–1180"
+    keywords: ["manuel i", "manuel komnenos", "manuel i komnenos"]
+  - name: "Andronicus I"
+    slug: "andronicus-i"
+    dynasty: "Komnenian"
+    dates: "AD 1183–1185"
+    keywords: ["andronicus i", "andronikos i", "andronicus komnenos"]
+
+  # Angelid dynasty
+  - name: "Isaac II"
+    slug: "isaac-ii"
+    dynasty: "Angelid"
+    dates: "AD 1185–1195"
+    keywords: ["isaac ii", "isaakios ii", "isaac angelos", "isaac ii angelos"]
+  - name: "Alexios III"
+    slug: "alexios-iii"
+    dynasty: "Angelid"
+    dates: "AD 1195–1203"
+    keywords: ["alexios iii", "alexius iii", "alexios iii angelos"]
 
 persian:
   - name: "Darius I"

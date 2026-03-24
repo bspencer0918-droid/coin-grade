@@ -119,7 +119,9 @@ export function renderCoinPage(coin: CoinDetail): string {
             ${metalBadge}
           </div>
           <h1 class="font-display text-3xl text-stone-100 mb-1">${coin.denomination}</h1>
-          ${coin.ruler ? `<div class="text-xl text-stone-400">${coin.ruler}</div>` : ''}
+          ${coin.ruler
+            ? `<div class="text-xl text-stone-400">${coin.ruler}${coin.ruler_dates ? ` <span class="text-sm text-stone-600">(${coin.ruler_dates})</span>` : ''}</div>`
+            : ''}
 
           <div class="flex flex-wrap gap-6 mt-4">
             <div>
