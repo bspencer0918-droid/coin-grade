@@ -101,7 +101,7 @@ async function init() {
   // Show loading state immediately
   app.innerHTML = `
     <div class="flex items-center justify-center min-h-screen flex-col gap-3">
-      <img src="${import.meta.env.BASE_URL}logo.jpg" alt="Coin Grade" class="h-16 w-auto opacity-80"
+      <img src="${import.meta.env.BASE_URL}Chronicle Coins_V1.jpg" alt="Coin Grade" class="h-16 w-auto opacity-80"
            onerror="this.style.display='none'" />
       <div class="text-gold-500 font-display text-xl tracking-wider">Coin Grade</div>
       <div class="text-stone-600 text-sm">Loading auction data…</div>
