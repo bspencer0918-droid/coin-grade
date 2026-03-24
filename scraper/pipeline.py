@@ -308,6 +308,85 @@ def build_coin_catalog(
     return coin_details
 
 
+def merge_historical(coin_details: dict[str, CoinDetail]) -> None:
+    """
+    Load existing price files from disk and merge their historical sales into
+    coin_details in-place.  Sales are deduplicated by ID so re-scraping the
+    same lot never creates a duplicate entry.
+
+    This is how we build a multi-year database: each daily run adds new sales
+    on top of all previously accumulated ones.
+    """
+    new_ids_total = 0
+    preserved_coins = 0
+
+    for price_file in PRICES_DIR.glob("*.json"):
+        slug = price_file.stem
+        try:
+            existing_data = json.loads(price_file.read_text(encoding="utf-8"))
+            existing_sales_raw = existing_data.get("sales", [])
+            if not existing_sales_raw:
+                continue
+
+            existing_sales = [Sale.model_validate(s) for s in existing_sales_raw]
+        except Exception as e:
+            logger.warning(f"[merge] Could not load {price_file.name}: {e}")
+            continue
+
+        if slug in coin_details:
+            # Merge: add any historical sale IDs not already in the current run
+            current_ids = {s.id for s in coin_details[slug].sales}
+            new_sales = [s for s in existing_sales if s.id not in current_ids]
+            if new_sales:
+                coin_details[slug].sales.extend(new_sales)
+                new_ids_total += len(new_sales)
+                # Recompute aggregate stats with the full merged sale list
+                _recompute_stats(coin_details[slug])
+        else:
+            # Coin type not found in today's scrape — preserve it entirely
+            # by reconstructing a CoinDetail from the stored file.
+            try:
+                coin_details[slug] = CoinDetail.model_validate(existing_data)
+                preserved_coins += 1
+            except Exception as e:
+                logger.warning(f"[merge] Could not reconstruct CoinDetail for {slug}: {e}")
+
+    logger.info(
+        f"[merge] Added {new_ids_total} historical sales; "
+        f"preserved {preserved_coins} coin types not seen today"
+    )
+
+
+def _recompute_stats(coin: CoinDetail) -> None:
+    """Recompute aggregate fields after sales list has been extended with historical data."""
+    sales = coin.sales
+    realized = [s for s in sales if s.listing_type == ListingType.AUCTION_REALIZED]
+    fixed    = [s for s in sales if s.listing_type == ListingType.FIXED_PRICE]
+
+    price_source = [s.hammer_price_usd for s in realized] or [s.hammer_price_usd for s in sales]
+    dates = sorted([s.sale_date.isoformat() for s in sales], reverse=True)
+
+    grade_dist: dict[str, int] = defaultdict(int)
+    for s in sales:
+        if s.ngc.grade:
+            grade_dist[s.ngc.grade.value] += 1
+
+    coin.sale_count          = len(sales)
+    coin.realized_count      = len(realized)
+    coin.fixed_price_count   = len(fixed)
+    coin.ngc_verified_count  = sum(1 for s in sales if s.ngc.verified)
+    coin.price_range_usd     = PriceRange(min=min(price_source), max=max(price_source)) if price_source else None
+    coin.median_price_usd    = statistics.median(price_source) if price_source else 0.0
+    coin.last_sale_date      = dates[0] if dates else ""
+    coin.grade_distribution  = dict(grade_dist)
+
+    # Thumbnail: prefer realized sale images
+    thumbnail = next((s.image_url for s in realized if s.image_url), None)
+    if not thumbnail:
+        thumbnail = next((s.image_url for s in sales if s.image_url), None)
+    coin.thumbnail_url = thumbnail
+
+
 def write_outputs(coin_details: dict[str, CoinDetail], statuses: dict[Source, SourceStatus]) -> None:
     """Write all JSON output files."""
     now = datetime.now(timezone.utc)
@@ -408,9 +487,13 @@ def main() -> None:
     if not sales_with_class:
         logger.warning("No listings collected — writing empty outputs")
 
-    # Build coin catalog
+    # Build coin catalog from today's scrape
     coin_details = build_coin_catalog(sales_with_class)
-    logger.info(f"Unique coin types: {len(coin_details)}")
+    logger.info(f"Unique coin types from today's scrape: {len(coin_details)}")
+
+    # Merge with all previously accumulated historical sales
+    merge_historical(coin_details)
+    logger.info(f"Total unique coin types after merge: {len(coin_details)}")
 
     # Write all JSON
     write_outputs(coin_details, statuses)
