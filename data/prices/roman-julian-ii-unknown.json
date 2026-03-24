@@ -7,54 +7,30 @@
   "ruler_dates": "AD 360\u2013363",
   "ruler_rarity": "scarce",
   "denomination": "Unknown",
-  "metal": "unknown",
-  "sale_count": 2,
+  "metal": "bronze",
+  "sale_count": 1,
   "realized_count": 1,
-  "fixed_price_count": 1,
+  "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 460.0,
     "max": 460.0
   },
   "median_price_usd": 460.0,
-  "last_sale_date": "2026-03-24",
+  "last_sale_date": "2026-01-16",
   "grade_distribution": {
-    "AU": 1,
     "XF": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/3ec9a9599b3ee93188f70a23ab316149/img/ponterio/236/image45534.jpg",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 4,
+  "top_grade_numeric": null,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
   "sales": [
-    {
-      "id": "mashops-85ae086a4cd1",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/pegasus/item.php?id=8354",
-      "title": "The Apostate 360-363 AD Julian II. The Apostate (360-363 AD) NGC AU",
-      "description": "The Apostate 360-363 AD Julian II. The Apostate (360-363 AD) NGC AU",
-      "hammer_price_usd": 694.98,
-      "currency_original": "USD",
-      "price_original": 694.98,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/pegasus/pic/thumb/8354_ag564.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-8aec60462fe6",
       "source": "coinarchives",
@@ -76,7 +52,8 @@
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,

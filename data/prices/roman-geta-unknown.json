@@ -7,54 +7,30 @@
   "ruler_dates": "AD 209\u2013211",
   "ruler_rarity": "scarce",
   "denomination": "Unknown",
-  "metal": "unknown",
-  "sale_count": 2,
+  "metal": "silver",
+  "sale_count": 1,
   "realized_count": 1,
-  "fixed_price_count": 1,
+  "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 460.0,
     "max": 460.0
   },
   "median_price_usd": 460.0,
-  "last_sale_date": "2026-03-24",
+  "last_sale_date": "2026-01-16",
   "grade_distribution": {
-    "AU": 1,
     "VF": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/5aff013a6e3bee5b19a1d95cd861df39/img/ponterio/236/image45343.jpg",
+  "median_weight_g": null,
+  "top_strike_score": null,
+  "top_surface_score": null,
+  "top_grade_numeric": null,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
   "sales": [
-    {
-      "id": "mashops-5e8e1787cf42",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/thomasnumismatics/item.php?id=1903",
-      "title": "Denier 200-202 Geta EF  /  NGC AU 5 / 5 3 / 5",
-      "description": "Denier 200-202 Geta EF  /  NGC AU 5 / 5 3 / 5",
-      "hammer_price_usd": 556.91,
-      "currency_original": "USD",
-      "price_original": 556.91,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/thomasnumismatics/pic/thumb/1903.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-11f6ad83bcbd",
       "source": "coinarchives",
@@ -76,7 +52,8 @@
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,

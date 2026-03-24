@@ -8,52 +8,29 @@
   "ruler_rarity": null,
   "denomination": "AR Stater",
   "metal": "gold",
-  "sale_count": 2,
+  "sale_count": 1,
   "realized_count": 1,
-  "fixed_price_count": 1,
+  "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 8640.0,
     "max": 8640.0
   },
   "median_price_usd": 8640.0,
-  "last_sale_date": "2026-03-24",
+  "last_sale_date": "2025-11-28",
   "grade_distribution": {
-    "AU": 2
+    "AU": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/b5b5aa2a704860152774aad975b9d81e/img/numiscorner/006/image00030.jpg",
+  "median_weight_g": null,
+  "top_strike_score": 4,
+  "top_surface_score": 2,
+  "top_grade_numeric": null,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
   "sales": [
-    {
-      "id": "mashops-e71a3cf0e62c",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/cdma/item.php?id=1021127",
-      "title": "Stater 276-261 BC Ai-Khanoca. Seleukid Kingdom, Antiochus I Soter, Ai-Khanoum, Gold, NGC Ch AU 4/5-2/5",
-      "description": "Stater 276-261 BC Ai-Khanoca. Seleukid Kingdom, Antiochus I Soter, Ai-Khanoum, Gold, NGC Ch AU 4/5-2/5",
-      "hammer_price_usd": 22044.54,
-      "currency_original": "USD",
-      "price_original": 22044.54,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/cdma/pic/thumb/1021127.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-3d3d7a65305e",
       "source": "coinarchives",
@@ -75,7 +52,8 @@
         "strike_score": 4,
         "surface_score": 2,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,

@@ -22,6 +22,14 @@
     "MS": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/22eac9f3dc05a5a4cb2e610c7bdf445f/img/ponterio/236/image40299.jpg",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 4,
+  "top_grade_numeric": null,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
   "sales": [
     {
       "id": "coinarchives-fea5b3c0dcb7",
@@ -44,7 +52,8 @@
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,

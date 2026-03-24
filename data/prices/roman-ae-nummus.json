@@ -8,178 +8,29 @@
   "ruler_rarity": null,
   "denomination": "AE Nummus",
   "metal": "bronze",
-  "sale_count": 6,
+  "sale_count": 1,
   "realized_count": 1,
-  "fixed_price_count": 5,
+  "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 317.5,
     "max": 317.5
   },
   "median_price_usd": 317.5,
-  "last_sale_date": "2026-03-24",
+  "last_sale_date": "2026-02-05",
   "grade_distribution": {
-    "MS": 3,
-    "VF": 2,
     "VG": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/dc3d41dfb17353e08d3e1411ab671f4c/img/tcc/a31/image00471.jpg",
+  "median_weight_g": null,
+  "top_strike_score": 3,
+  "top_surface_score": 3,
+  "top_grade_numeric": null,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
   "sales": [
-    {
-      "id": "mashops-c59ddc81e0fc",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/enumismat/item.php?id=17537",
-      "title": "Nummus 324-328/30 Roman HELENA AD 324-328/30 AE4 BI   NGC MS /GODDESS PAX (188) NGC MS",
-      "description": "Nummus 324-328/30 Roman HELENA AD 324-328/30 AE4 BI   NGC MS /GODDESS PAX (188) NGC MS",
-      "hammer_price_usd": 195.0,
-      "currency_original": "USD",
-      "price_original": 195.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/enumismat/pic/thumb/17537.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-97b00ca708a5",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/enumismat/item.php?id=17536",
-      "title": "Nummus 324-328/30 Roman HELENA AD 324-328/30 AE4 BI   NGC MS /GODDESS PAX (190) NGC MS",
-      "description": "Nummus 324-328/30 Roman HELENA AD 324-328/30 AE4 BI   NGC MS /GODDESS PAX (190) NGC MS",
-      "hammer_price_usd": 195.0,
-      "currency_original": "USD",
-      "price_original": 195.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/enumismat/pic/thumb/17536.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-7a435ad1451e",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/enumismat/item.php?id=17535",
-      "title": "Nummus 324-328/30 Roman HELENA AD 324-328/30 AE4 BI   NGC MS /GODDESS PAX (196) NGC MS",
-      "description": "Nummus 324-328/30 Roman HELENA AD 324-328/30 AE4 BI   NGC MS /GODDESS PAX (196) NGC MS",
-      "hammer_price_usd": 195.0,
-      "currency_original": "USD",
-      "price_original": 195.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/enumismat/pic/thumb/17535.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-4074e1607a9a",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/enumismat/item.php?id=14394",
-      "title": "Nummus 330 AD Roman Empire Constantinian BI   cAD 330-340 Roma/She-Wolf &Twins NGC VF (9) NGC VF",
-      "description": "Nummus 330 AD Roman Empire Constantinian BI   cAD 330-340 Roma/She-Wolf &Twins NGC VF (9) NGC VF",
-      "hammer_price_usd": 95.0,
-      "currency_original": "USD",
-      "price_original": 95.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/enumismat/pic/thumb/14394.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-56f68b64c693",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/enumismat/item.php?id=14402",
-      "title": "Nummus 330 AD Roman Empire Constantinian BI   cAD 330-340 Roma/She-Wolf &Twins NGC VF (6) NGC VF",
-      "description": "Nummus 330 AD Roman Empire Constantinian BI   cAD 330-340 Roma/She-Wolf &Twins NGC VF (6) NGC VF",
-      "hammer_price_usd": 95.0,
-      "currency_original": "USD",
-      "price_original": 95.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/enumismat/pic/thumb/14402.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-19252fcfb4da",
       "source": "coinarchives",
@@ -201,7 +52,8 @@
         "strike_score": 3,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": "https://www.ngccoin.com/certlookup/4283740007/"
+        "certification_url": "https://www.ngccoin.com/certlookup/4283740007/",
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,

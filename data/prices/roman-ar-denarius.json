@@ -8,304 +8,33 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 42,
+  "sale_count": 33,
   "realized_count": 33,
-  "fixed_price_count": 9,
+  "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 180.0,
     "max": 3400.0
   },
   "median_price_usd": 800.0,
-  "last_sale_date": "2026-03-24",
+  "last_sale_date": "2026-02-23",
   "grade_distribution": {
-    "XF": 11,
-    "VF": 11,
-    "AU": 12,
+    "VF": 9,
     "G": 7,
-    "MS": 1
+    "XF": 7,
+    "MS": 1,
+    "AU": 9
   },
   "thumbnail_url": "https://media.coinarchives.com/5e780b2dd3424cbe415d5e5fcb905445/img/heritage/61578/image23018.jpg",
+  "median_weight_g": null,
+  "top_strike_score": 4,
+  "top_surface_score": 3,
+  "top_grade_numeric": null,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
   "sales": [
-    {
-      "id": "mashops-e8f48358ebfa",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=1415",
-      "title": "BI Double-Denarius Postumus, AD 260-269 NGC certified Romano-Gallic Empire Postumus double denarius, 260-269 (X12) NGC XF",
-      "description": "BI Double-Denarius Postumus, AD 260-269 NGC certified Romano-Gallic Empire Postumus double denarius, 260-269 (X12) NGC XF",
-      "hammer_price_usd": 150.0,
-      "currency_original": "USD",
-      "price_original": 150.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid1415_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-b9692f3ac95e",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=30",
-      "title": "AR Denarius Cn.Plancius, c.55 BC AR Denarius Cn.Plancius, c.55 BC ROMAN REPUBLIC ex F.H. Rindge Collection NGC Ch XF Strike: 5/5 Surface: 2/5",
-      "description": "AR Denarius Cn.Plancius, c.55 BC AR Denarius Cn.Plancius, c.55 BC ROMAN REPUBLIC ex F.H. Rindge Collection NGC Ch XF Strike: 5/5 Surface: 2/5",
-      "hammer_price_usd": 659.99,
-      "currency_original": "USD",
-      "price_original": 659.99,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/30_image-1_28_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-a81925a5b552",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=59",
-      "title": "AR Denarius Faustina Sr.,AD 138-140/1  NGC Ch XF Strike: 5/5 Surface: 5/5",
-      "description": "AR Denarius Faustina Sr.,AD 138-140/1  NGC Ch XF Strike: 5/5 Surface: 5/5",
-      "hammer_price_usd": 2500.0,
-      "currency_original": "USD",
-      "price_original": 2500.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid59_ngc6158084-003_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-66e11689abfa",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=669",
-      "title": "BI Double-Denarius Valerian I, AD 253-260  NGC VF",
-      "description": "BI Double-Denarius Valerian I, AD 253-260  NGC VF",
-      "hammer_price_usd": 150.0,
-      "currency_original": "USD",
-      "price_original": 150.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid669_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-df801dd0110b",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/nazzi/item.php?id=410",
-      "title": "AR Denarius M.Marcius Mn.f., c.134 BC M. Marcius Mn. f. NGC Ch XF Strike: 5/5 Surface: 4/5",
-      "description": "AR Denarius M.Marcius Mn.f., c.134 BC M. Marcius Mn. f. NGC Ch XF Strike: 5/5 Surface: 4/5",
-      "hammer_price_usd": 1015.21,
-      "currency_original": "USD",
-      "price_original": 1015.21,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/nazzi/pic/thumb/410_n290c_co.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-d609dbce24cb",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/enumismat/item.php?id=14689",
-      "title": "Denarius 269 AD Romano-Gallic Bi Double   Victorinus AD 269-271 Goddess Peace NGC Ch AU(2 NGC Ch AU",
-      "description": "Denarius 269 AD Romano-Gallic Bi Double   Victorinus AD 269-271 Goddess Peace NGC Ch AU(2 NGC Ch AU",
-      "hammer_price_usd": 130.0,
-      "currency_original": "USD",
-      "price_original": 130.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/enumismat/pic/thumb/14689.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-7a6bf95dff5d",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/enumismat/item.php?id=14696",
-      "title": "Denarius 269 AD Romano-Gallic Bi Double   Victorinus AD 269-271 Goddess Peace NGC Ch AU(6 NGC Ch AU",
-      "description": "Denarius 269 AD Romano-Gallic Bi Double   Victorinus AD 269-271 Goddess Peace NGC Ch AU(6 NGC Ch AU",
-      "hammer_price_usd": 120.0,
-      "currency_original": "USD",
-      "price_original": 120.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/enumismat/pic/thumb/14696.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-f7cace55fbe1",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/enumismat/item.php?id=14686",
-      "title": "Denarius 269-271 Romano-Gallic Bi Double   Victorinus AD 269-271 Goddess Peace NGC Ch AU(9 NGC Ch AU",
-      "description": "Denarius 269-271 Romano-Gallic Bi Double   Victorinus AD 269-271 Goddess Peace NGC Ch AU(9 NGC Ch AU",
-      "hammer_price_usd": 130.0,
-      "currency_original": "USD",
-      "price_original": 130.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/enumismat/pic/thumb/14686.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-825e45f415e7",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=692",
-      "title": "AR Double-Denarius Volusian, AD 251-253  NGC VF",
-      "description": "AR Double-Denarius Volusian, AD 251-253  NGC VF",
-      "hammer_price_usd": 110.0,
-      "currency_original": "USD",
-      "price_original": 110.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid692_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-44929897bae8",
       "source": "coinarchives",
@@ -327,7 +56,8 @@
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -358,7 +88,8 @@
         "strike_score": 4,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -389,7 +120,8 @@
         "strike_score": 4,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -420,7 +152,8 @@
         "strike_score": 4,
         "surface_score": 5,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -451,7 +184,8 @@
         "strike_score": 4,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -482,7 +216,8 @@
         "strike_score": 5,
         "surface_score": 5,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -513,7 +248,8 @@
         "strike_score": 4,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -544,7 +280,8 @@
         "strike_score": 4,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -575,7 +312,8 @@
         "strike_score": 4,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -606,7 +344,8 @@
         "strike_score": 4,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -637,7 +376,8 @@
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -668,7 +408,8 @@
         "strike_score": 4,
         "surface_score": 2,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -699,7 +440,8 @@
         "strike_score": 4,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -730,7 +472,8 @@
         "strike_score": 4,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -761,7 +504,8 @@
         "strike_score": 4,
         "surface_score": 5,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -792,7 +536,8 @@
         "strike_score": 4,
         "surface_score": 2,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -823,7 +568,8 @@
         "strike_score": 5,
         "surface_score": 5,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -854,7 +600,8 @@
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -885,7 +632,8 @@
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -916,7 +664,8 @@
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -947,7 +696,8 @@
         "strike_score": 5,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -978,7 +728,8 @@
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1009,7 +760,8 @@
         "strike_score": 4,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1040,7 +792,8 @@
         "strike_score": 5,
         "surface_score": 2,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1071,7 +824,8 @@
         "strike_score": 5,
         "surface_score": 5,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1102,7 +856,8 @@
         "strike_score": 5,
         "surface_score": 5,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1133,7 +888,8 @@
         "strike_score": 5,
         "surface_score": 5,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1164,7 +920,8 @@
         "strike_score": 4,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1195,7 +952,8 @@
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1226,7 +984,8 @@
         "strike_score": 4,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1257,7 +1016,8 @@
         "strike_score": 4,
         "surface_score": 5,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1288,7 +1048,8 @@
         "strike_score": 4,
         "surface_score": 5,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1319,7 +1080,8 @@
         "strike_score": 5,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": "https://www.ngccoin.com/certlookup/8220524004/"
+        "certification_url": "https://www.ngccoin.com/certlookup/8220524004/",
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,

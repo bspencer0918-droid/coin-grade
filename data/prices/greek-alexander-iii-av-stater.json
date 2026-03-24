@@ -8,54 +8,30 @@
   "ruler_rarity": null,
   "denomination": "AV Stater",
   "metal": "gold",
-  "sale_count": 3,
+  "sale_count": 2,
   "realized_count": 2,
-  "fixed_price_count": 1,
+  "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 34000.0,
     "max": 120000.0
   },
   "median_price_usd": 77000.0,
-  "last_sale_date": "2026-03-24",
+  "last_sale_date": "2026-01-12",
   "grade_distribution": {
-    "VF": 1,
     "AU": 1,
     "XF": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/9bc96067098c3216f529649a0451d2b2/img/heritage/3129/image33061.jpg",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 4,
+  "top_grade_numeric": null,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
   "sales": [
-    {
-      "id": "mashops-97c02b624ad2",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/kohlross/item.php?id=94742",
-      "title": "AV Stater 336-323 BC Alexander III. der Gro\u00dfe (332-323 v.Chr/ BC NGC Ch VF Strike: 5/5 Surface: 3/5",
-      "description": "AV Stater 336-323 BC Alexander III. der Gro\u00dfe (332-323 v.Chr/ BC NGC Ch VF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 9279.59,
-      "currency_original": "USD",
-      "price_original": 9279.59,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/kohlross/pic/thumb/94742_261-7838.-1pl2-alexjpg.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-cbe89449beb0",
       "source": "coinarchives",
@@ -77,7 +53,8 @@
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -108,7 +85,8 @@
         "strike_score": 4,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,

@@ -22,6 +22,14 @@
     "F": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/4e5e0f25d588ed2917176b1991271095/img/goldberg/150/image00444.jpg",
+  "median_weight_g": null,
+  "top_strike_score": null,
+  "top_surface_score": null,
+  "top_grade_numeric": null,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
   "sales": [
     {
       "id": "coinarchives-8688cc49e225",
@@ -44,7 +52,8 @@
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,

@@ -8,85 +8,31 @@
   "ruler_rarity": "scarce",
   "denomination": "AV Nomisma",
   "metal": "gold",
-  "sale_count": 10,
+  "sale_count": 8,
   "realized_count": 8,
-  "fixed_price_count": 2,
+  "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 600.0,
     "max": 900.0
   },
   "median_price_usd": 825.0,
-  "last_sale_date": "2026-03-24",
+  "last_sale_date": "2026-01-16",
   "grade_distribution": {
-    "AU": 6,
-    "XF": 2,
-    "VF": 2
+    "AU": 5,
+    "VF": 2,
+    "XF": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/f9488c48fd4e79acf61d24e7780fa15c/img/ponterio/236/image45614.jpg",
+  "median_weight_g": null,
+  "top_strike_score": 4,
+  "top_surface_score": 4,
+  "top_grade_numeric": null,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
   "sales": [
-    {
-      "id": "mashops-8dc8f04a3048",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9002",
-      "title": "AV/EL Hist. Nomisma Michael VII, AD 1071-1078 MICHAEL VII, 1071-1078. EL Histamenon Nomisma (4.45 gms), Constantinople Mint. N NGC AU Strike: 3/5 Surface: 4/5",
-      "description": "AV/EL Hist. Nomisma Michael VII, AD 1071-1078 MICHAEL VII, 1071-1078. EL Histamenon Nomisma (4.45 gms), Constantinople Mint. N NGC AU Strike: 3/5 Surface: 4/5",
-      "hammer_price_usd": 1495.0,
-      "currency_original": "USD",
-      "price_original": 1495.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid9002_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 3,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-8f508b6472c2",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9123",
-      "title": "Michael VII Ducas (AD 1071-1078). AV/EL histamenon nomisma scyphate (25mm, 4.35 NGC XF",
-      "description": "New! Michael VII Ducas (AD 1071-1078). AV/EL histamenon nomisma scyphate (25mm, 4.35 NGC XF",
-      "hammer_price_usd": 1395.0,
-      "currency_original": "USD",
-      "price_original": 1395.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid9123_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-d9e67c34d2c3",
       "source": "coinarchives",
@@ -108,7 +54,8 @@
         "strike_score": 4,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -139,7 +86,8 @@
         "strike_score": 3,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -170,7 +118,8 @@
         "strike_score": 5,
         "surface_score": 1,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -201,7 +150,8 @@
         "strike_score": 5,
         "surface_score": 2,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -232,7 +182,8 @@
         "strike_score": 4,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -263,7 +214,8 @@
         "strike_score": 4,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -294,7 +246,8 @@
         "strike_score": 4,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -325,7 +278,8 @@
         "strike_score": 5,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,

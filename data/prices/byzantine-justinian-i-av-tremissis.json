@@ -22,6 +22,14 @@
     "AU": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/8d222375d79cd08bbc99eecaced96a38/img/heritage/61557/image25277.jpg",
+  "median_weight_g": null,
+  "top_strike_score": 4,
+  "top_surface_score": 2,
+  "top_grade_numeric": 4,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
   "sales": [
     {
       "id": "coinarchives-5f1faddbb4ce",
@@ -44,7 +52,8 @@
         "strike_score": 4,
         "surface_score": 2,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,

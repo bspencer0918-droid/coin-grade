@@ -22,6 +22,14 @@
     "AU": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/a42a43ec663d792c018c436a5bd57090/img/goldberg/150/image00600.jpg",
+  "median_weight_g": null,
+  "top_strike_score": 4,
+  "top_surface_score": 3,
+  "top_grade_numeric": null,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
   "sales": [
     {
       "id": "coinarchives-f76cd1ab5614",
@@ -44,7 +52,8 @@
         "strike_score": 4,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,

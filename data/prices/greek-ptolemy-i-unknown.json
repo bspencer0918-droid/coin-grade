@@ -7,54 +7,31 @@
   "ruler_dates": null,
   "ruler_rarity": null,
   "denomination": "Unknown",
-  "metal": "unknown",
-  "sale_count": 8,
+  "metal": "gold",
+  "sale_count": 7,
   "realized_count": 7,
-  "fixed_price_count": 1,
+  "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 11500.0,
     "max": 30800.0
   },
   "median_price_usd": 22000.0,
-  "last_sale_date": "2026-03-24",
+  "last_sale_date": "2026-01-16",
   "grade_distribution": {
-    "VF": 3,
+    "VF": 2,
     "AU": 5
   },
   "thumbnail_url": "https://media.coinarchives.com/f694f8985726cfeb047a81852828d9a6/img/heritage/3126/image31015.jpg",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 3,
+  "top_grade_numeric": null,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
   "sales": [
-    {
-      "id": "mashops-0e8eecf47877",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/palombo/item.php?id=785",
-      "title": "T\u00e9tradrachme  S\u00e9leucide - D\u00e9m\u00e9trios I Soter (162-150) - T\u00e9tradrachme - NGC Choice VF",
-      "description": "T\u00e9tradrachme  S\u00e9leucide - D\u00e9m\u00e9trios I Soter (162-150) - T\u00e9tradrachme - NGC Choice VF",
-      "hammer_price_usd": 1148.64,
-      "currency_original": "USD",
-      "price_original": 1148.64,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/palombo/pic/thumb/785.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-a30d3d012e66",
       "source": "coinarchives",
@@ -76,7 +53,8 @@
         "strike_score": 5,
         "surface_score": 2,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -107,7 +85,8 @@
         "strike_score": 4,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -138,7 +117,8 @@
         "strike_score": 5,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": "https://www.ngccoin.com/certlookup/6645988001/"
+        "certification_url": "https://www.ngccoin.com/certlookup/6645988001/",
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -169,7 +149,8 @@
         "strike_score": 5,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -200,7 +181,8 @@
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -231,7 +213,8 @@
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": "https://www.ngccoin.com/certlookup/6558855008/"
+        "certification_url": "https://www.ngccoin.com/certlookup/6558855008/",
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -262,7 +245,8 @@
         "strike_score": 5,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": "https://www.ngccoin.com/certlookup/8235289002/"
+        "certification_url": "https://www.ngccoin.com/certlookup/8235289002/",
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,

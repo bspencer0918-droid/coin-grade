@@ -8,521 +8,33 @@
   "ruler_rarity": null,
   "denomination": "AR Drachm",
   "metal": "silver",
-  "sale_count": 46,
+  "sale_count": 30,
   "realized_count": 30,
-  "fixed_price_count": 16,
+  "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 100.0,
     "max": 2400.0
   },
   "median_price_usd": 200.0,
-  "last_sale_date": "2026-03-24",
+  "last_sale_date": "2026-02-23",
   "grade_distribution": {
-    "AU": 11,
-    "MS": 5,
-    "XF": 14,
-    "VF": 12,
-    "G": 4
+    "G": 4,
+    "AU": 7,
+    "VF": 7,
+    "XF": 8,
+    "MS": 4
   },
   "thumbnail_url": "https://media.coinarchives.com/95c692762fbc2062b1e0f3ffaf1e786b/img/goldberg/150/image00471.jpg",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 3,
+  "top_grade_numeric": 5,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
   "sales": [
-    {
-      "id": "mashops-0795820bfb23",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=13",
-      "title": "AR Drachm Demetrius II,146/5-138 BC AR Drachm Demetrius II,146/5-138 BC SELEUCID KINGDOM NGC AU Strike: 4/5 Surface: 3/5",
-      "description": "AR Drachm Demetrius II,146/5-138 BC AR Drachm Demetrius II,146/5-138 BC SELEUCID KINGDOM NGC AU Strike: 4/5 Surface: 3/5",
-      "hammer_price_usd": 599.99,
-      "currency_original": "USD",
-      "price_original": 599.99,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/13_image-1_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 6,
-        "surface_score": 6,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-de8ee24527d2",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=48",
-      "title": "AR Drachm c.90-79 BC RARE AR Drachm c.90-79 BC BOSPORUS PHANAGORIA Mithradates VI Dicher Collection NGC AU Strike: 5/5 Surface: 3/5",
-      "description": "AR Drachm c.90-79 BC RARE AR Drachm c.90-79 BC BOSPORUS PHANAGORIA Mithradates VI Dicher Collection NGC AU Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 2399.99,
-      "currency_original": "USD",
-      "price_original": 2399.99,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/48_image-1_23_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-b749addd95ad",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=157",
-      "title": "AR Drachm Mithradates II,c.121-91BC PARTHIAN KINGDOM AR Drachm Mithradates II,c.121-91BC NGC MS NGC MS Strike: 5/5 Surface: 3/5",
-      "description": "AR Drachm Mithradates II,c.121-91BC PARTHIAN KINGDOM AR Drachm Mithradates II,c.121-91BC NGC MS NGC MS Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 529.99,
-      "currency_original": "USD",
-      "price_original": 529.99,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid157_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-b86dbdec878f",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=59",
-      "title": "AR Drachm 2nd-1st Centuries BC AR Drachm 2nd-1st Centuries BC BOSPORUS PANTICAPAEUM Dicher Collection NGC Ch XF Strike: 4/5 Surface: 3/5",
-      "description": "AR Drachm 2nd-1st Centuries BC AR Drachm 2nd-1st Centuries BC BOSPORUS PANTICAPAEUM Dicher Collection NGC Ch XF Strike: 4/5 Surface: 3/5",
-      "hammer_price_usd": 679.99,
-      "currency_original": "USD",
-      "price_original": 679.99,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/59_image-1_12_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-ab142bfc3f18",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=66",
-      "title": "AR Drachm Pacorus, c.AD 78-120  NGC Ch AU Strike: 5/5 Surface: 5/5",
-      "description": "AR Drachm Pacorus, c.AD 78-120  NGC Ch AU Strike: 5/5 Surface: 5/5",
-      "hammer_price_usd": 900.0,
-      "currency_original": "USD",
-      "price_original": 900.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid66_ngc4830432-004_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-9ee21d0a3c17",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=116",
-      "title": "AR Drachm Seleucus II, 246-225 BC AR Drachm Seleucus II, 246-225 BC SELEUCID KINGDOM (VERY RARE) NGC AU Strike: 3/5 Surface: 2/5",
-      "description": "AR Drachm Seleucus II, 246-225 BC AR Drachm Seleucus II, 246-225 BC SELEUCID KINGDOM (VERY RARE) NGC AU Strike: 3/5 Surface: 2/5",
-      "hammer_price_usd": 1899.99,
-      "currency_original": "USD",
-      "price_original": 1899.99,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid116_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 3,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-bea12807c9e3",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/nazzi/item.php?id=16",
-      "title": "AR Drachm c. 500-450 BC Mysia - Parion - Civic and semi-autonomous coinage NGC XF",
-      "description": "AR Drachm c. 500-450 BC Mysia - Parion - Civic and semi-autonomous coinage NGC XF",
-      "hammer_price_usd": 440.89,
-      "currency_original": "USD",
-      "price_original": 440.89,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/nazzi/pic/thumb/16_n152a_co.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-eba209a3a650",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/cdma/item.php?id=1021645",
-      "title": "Drachm ca. 550-510 BC Sybaris Lucania, Sybaris, Pedigree, Silver, NGC Ch XF 5/5-2/5",
-      "description": "Drachm ca. 550-510 BC Sybaris Lucania, Sybaris, Pedigree, Silver, NGC Ch XF 5/5-2/5",
-      "hammer_price_usd": 4118.85,
-      "currency_original": "USD",
-      "price_original": 4118.85,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/cdma/pic/thumb/1021645.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-09ace013476a",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/cdma/item.php?id=1067752",
-      "title": "Drachm ca. 190 Ekbatana Coin, Parthia (Kingdom of), Osroes II, Ekbatana, graded, NGC Ch XF",
-      "description": "Drachm ca. 190 Ekbatana Coin, Parthia (Kingdom of), Osroes II, Ekbatana, graded, NGC Ch XF",
-      "hammer_price_usd": 265.69,
-      "currency_original": "USD",
-      "price_original": 265.69,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/cdma/pic/thumb/1067752.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-7aeff6b2eb87",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/pollandt/item.php?id=84528",
-      "title": "AR Drachm Mithradates II,c.121-91BC Tolle Erhaltung, Quality NGC XF",
-      "description": "AR Drachm Mithradates II,c.121-91BC Tolle Erhaltung, Quality NGC XF",
-      "hammer_price_usd": 462.94,
-      "currency_original": "USD",
-      "price_original": 462.94,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/pollandt/pic/thumb/artid84528_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-a5f6ce4690c2",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8974",
-      "title": "AR Drachm Lysimachus, 305-281 BC THRACE. Kingdom of Thrace. Lysimachos, 323-281 B.C. AR Drachm, Lampsakos Mint, c NGC XF",
-      "description": "AR Drachm Lysimachus, 305-281 BC THRACE. Kingdom of Thrace. Lysimachos, 323-281 B.C. AR Drachm, Lampsakos Mint, c NGC XF",
-      "hammer_price_usd": 495.0,
-      "currency_original": "USD",
-      "price_original": 495.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8974_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-ee588bacb1eb",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/nazzi/item.php?id=17",
-      "title": "AR Drachm c. 500-450 BC Mysia - Parion - Civic and semi-autonomous coinage NGC Ch VF",
-      "description": "AR Drachm c. 500-450 BC Mysia - Parion - Civic and semi-autonomous coinage NGC Ch VF",
-      "hammer_price_usd": 382.88,
-      "currency_original": "USD",
-      "price_original": 382.88,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/nazzi/pic/thumb/17_n152b_co.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-7feb12073f85",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8608",
-      "title": "AR Drachm c.2nd Century BC IONIA. Ephesus. Ca. 2nd century BC. AR drachm (19mm, 12h). NGC VF. Metrodorus, m NGC VF",
-      "description": "AR Drachm c.2nd Century BC IONIA. Ephesus. Ca. 2nd century BC. AR drachm (19mm, 12h). NGC VF. Metrodorus, m NGC VF",
-      "hammer_price_usd": 975.0,
-      "currency_original": "USD",
-      "price_original": 975.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/8608_1.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-c7bf4f7c74d4",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/duman/item.php?id=3880",
-      "title": "AR Drachm Ariobarzanes I,96-66/3 BC  NGC Ch VF",
-      "description": "AR Drachm Ariobarzanes I,96-66/3 BC  NGC Ch VF",
-      "hammer_price_usd": 174.04,
-      "currency_original": "USD",
-      "price_original": 174.04,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/duman/pic/thumb/artid3880_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-e3eaccdb197c",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8438",
-      "title": "IONIA. Ephesus. Ca. 2nd century BC. AR drachm (20mm, 4.21 gm, 12h). NGC VF 5/5 -",
-      "description": "IONIA. Ephesus. Ca. 2nd century BC. AR drachm (20mm, 4.21 gm, 12h). NGC VF 5/5 -",
-      "hammer_price_usd": 1295.0,
-      "currency_original": "USD",
-      "price_original": 1295.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8438_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-3dc798d47618",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8850",
-      "title": "IONIA. Ephesus. Ca. 2nd century BC. AR drachm (19mm, 4.13 gm, 1h). NGC Choice VF",
-      "description": "IONIA. Ephesus. Ca. 2nd century BC. AR drachm (19mm, 4.13 gm, 1h). NGC Choice VF",
-      "hammer_price_usd": 1295.0,
-      "currency_original": "USD",
-      "price_original": 1295.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8850_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-e0f354b1f550",
       "source": "coinarchives",
@@ -544,7 +56,8 @@
         "strike_score": 3,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -575,7 +88,8 @@
         "strike_score": 5,
         "surface_score": 5,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -606,7 +120,8 @@
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -637,7 +152,8 @@
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -668,7 +184,8 @@
         "strike_score": 5,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -699,7 +216,8 @@
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -730,7 +248,8 @@
         "strike_score": 5,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -761,7 +280,8 @@
         "strike_score": 5,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -792,7 +312,8 @@
         "strike_score": 2,
         "surface_score": 2,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -823,7 +344,8 @@
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -854,7 +376,8 @@
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -885,7 +408,8 @@
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
-        "certification_url": "https://www.ngccoin.com/certlookup/6985464020/"
+        "certification_url": "https://www.ngccoin.com/certlookup/6985464020/",
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -916,7 +440,8 @@
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
-        "certification_url": "https://www.ngccoin.com/certlookup/6985464010/"
+        "certification_url": "https://www.ngccoin.com/certlookup/6985464010/",
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -947,7 +472,8 @@
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
-        "certification_url": "https://www.ngccoin.com/certlookup/6985464028/"
+        "certification_url": "https://www.ngccoin.com/certlookup/6985464028/",
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -978,7 +504,8 @@
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1009,7 +536,8 @@
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1040,7 +568,8 @@
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1071,7 +600,8 @@
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1102,7 +632,8 @@
         "strike_score": 5,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1133,7 +664,8 @@
         "strike_score": 6,
         "surface_score": 6,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1164,7 +696,8 @@
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1195,7 +728,8 @@
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1226,7 +760,8 @@
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1257,7 +792,8 @@
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1288,7 +824,8 @@
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1319,7 +856,8 @@
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1350,7 +888,8 @@
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1381,7 +920,8 @@
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1412,7 +952,8 @@
         "strike_score": 4,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1443,7 +984,8 @@
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,

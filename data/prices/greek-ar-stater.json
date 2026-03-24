@@ -7,1018 +7,34 @@
   "ruler_dates": null,
   "ruler_rarity": null,
   "denomination": "AR Stater",
-  "metal": "electrum",
-  "sale_count": 73,
+  "metal": "gold",
+  "sale_count": 41,
   "realized_count": 41,
-  "fixed_price_count": 32,
+  "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 150.0,
     "max": 42000.0
   },
   "median_price_usd": 1700.0,
-  "last_sale_date": "2026-03-24",
+  "last_sale_date": "2026-02-23",
   "grade_distribution": {
-    "VF": 27,
-    "XF": 22,
-    "AU": 10,
-    "MS": 6,
+    "MS": 5,
+    "VF": 16,
+    "XF": 8,
+    "AU": 4,
     "G": 8
   },
   "thumbnail_url": "https://media.coinarchives.com/b7db3a6dbc6f3c09f448be108d1be112/img/heritage/3129/image33032.jpg",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 5,
+  "top_grade_numeric": 5,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
   "sales": [
-    {
-      "id": "vcoins-5a0e8fa98bc0",
-      "source": "vcoins",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.vcoins.com/en/stores/aristos_ancients/339/product/cilicia_mallos_440385_bc_ar_stater_kronos_with_solar_disk_swan_ngc_vf/2242996/Default.aspx",
-      "title": "Cilicia Mallos 440-385 BC. AR Stater Kronos with Solar Disk Swan NGC VF",
-      "description": "",
-      "hammer_price_usd": 396.0,
-      "currency_original": "USD",
-      "price_original": 396.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-cdae0b8ac041",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=23",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
-      "hammer_price_usd": 8000.0,
-      "currency_original": "USD",
-      "price_original": 8000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid23_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-0f498bcc37e7",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=27",
-      "title": "EL Third-Stater c.610-546 BC  NGC XF Strike: 5/5 Surface: 4/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC XF Strike: 5/5 Surface: 4/5",
-      "hammer_price_usd": 7500.0,
-      "currency_original": "USD",
-      "price_original": 7500.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid27_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-ca5a6cce7c5d",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88746",
-      "title": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
-      "description": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
-      "hammer_price_usd": 870.18,
-      "currency_original": "USD",
-      "price_original": 870.18,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88746_ngc6631251-017_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 3,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-380473671e57",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=183",
-      "title": "AE Stater Rhescuporis V, AD 314-341 KINGDOM OF BOSPORUS AE Stater Rhescuporis V, AD 314-341 NGC AU NGC AU Strike: 5/5 Surface: 4/5",
-      "description": "AE Stater Rhescuporis V, AD 314-341 KINGDOM OF BOSPORUS AE Stater Rhescuporis V, AD 314-341 NGC AU NGC AU Strike: 5/5 Surface: 4/5",
-      "hammer_price_usd": 549.99,
-      "currency_original": "USD",
-      "price_original": 549.99,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid183_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-b85b75808569",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=18",
-      "title": "EL Third-Stater c.610-546 BC  NGC AU Strike: 3/5 Surface: 4/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC AU Strike: 3/5 Surface: 4/5",
-      "hammer_price_usd": 10000.0,
-      "currency_original": "USD",
-      "price_original": 10000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid18_ngc6137255-001_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 3,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-692faae31bec",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88745",
-      "title": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "description": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 1131.23,
-      "currency_original": "USD",
-      "price_original": 1131.23,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88745_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-71ed48dcda15",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=31",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 5/5 Surface: 4/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 5/5 Surface: 4/5",
-      "hammer_price_usd": 6800.0,
-      "currency_original": "USD",
-      "price_original": 6800.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid31_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-118c656e0e4a",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8087",
-      "title": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
-      "description": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
-      "hammer_price_usd": 997.0,
-      "currency_original": "USD",
-      "price_original": 997.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8087_ngc6710505-004_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-a7346d33d1c2",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=21",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
-      "hammer_price_usd": 8000.0,
-      "currency_original": "USD",
-      "price_original": 8000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid21_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-b7e6701290fe",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=25",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 3/5 Surface: 4/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 3/5 Surface: 4/5",
-      "hammer_price_usd": 7500.0,
-      "currency_original": "USD",
-      "price_original": 7500.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid25_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 3,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-1132ee4c14e9",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/cdma/item.php?id=1069942",
-      "title": "Stater ca. 361-328 BC Tarsus Cilicia, Mazaois, Tarsus, Silver, NGC Ch XF 4/5 2/5",
-      "description": "Stater ca. 361-328 BC Tarsus Cilicia, Mazaois, Tarsus, Silver, NGC Ch XF 4/5 2/5",
-      "hammer_price_usd": 1112.67,
-      "currency_original": "USD",
-      "price_original": 1112.67,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/cdma/pic/thumb/1069942.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-c3afd36a87a1",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/cdma/item.php?id=1067745",
-      "title": "Stater ca. 550-450 BC Cyzicus Mysia, Kyzikos, Electrum, NGC Ch VF 3/5-4/5",
-      "description": "Stater ca. 550-450 BC Cyzicus Mysia, Kyzikos, Electrum, NGC Ch VF 3/5-4/5",
-      "hammer_price_usd": 5441.52,
-      "currency_original": "USD",
-      "price_original": 5441.52,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/cdma/pic/thumb/1067745.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 3,
-        "strike_score": 3,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-d3776538fbe8",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8773",
-      "title": "AR STATER 350-300 B.C ITALY. Bruttium. Kroton. AR Stater (7.44 gms), ca. 350-300 B.C. NGC Ch EF, Strik CHOICE XF",
-      "description": "AR STATER 350-300 B.C ITALY. Bruttium. Kroton. AR Stater (7.44 gms), ca. 350-300 B.C. NGC Ch EF, Strik CHOICE XF",
-      "hammer_price_usd": 1975.0,
-      "currency_original": "USD",
-      "price_original": 1975.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/8773_1.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-69c8de4b3416",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=7503",
-      "title": "AR STATER 361 BC CILICIA. Tarsus. Mazaeus, as Satrap (ca. 361-328 BC). AR stater (24mm, 10.51 gm, NGC MS",
-      "description": "AR STATER 361 BC CILICIA. Tarsus. Mazaeus, as Satrap (ca. 361-328 BC). AR stater (24mm, 10.51 gm, NGC MS",
-      "hammer_price_usd": 1975.0,
-      "currency_original": "USD",
-      "price_original": 1975.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/7503_1.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-a930a9928e97",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/cdma/item.php?id=897999",
-      "title": "Stater ca. 350-275 BC Lokroi Epizephyri Bruttium, Lokroi Epizephyrioi, Silver, NGC AU 5/5-5/5",
-      "description": "Stater ca. 350-275 BC Lokroi Epizephyri Bruttium, Lokroi Epizephyrioi, Silver, NGC AU 5/5-5/5",
-      "hammer_price_usd": 3770.78,
-      "currency_original": "USD",
-      "price_original": 3770.78,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/cdma/pic/thumb/897999.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-f1be83db3480",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/cdma/item.php?id=1066354",
-      "title": "Stater ca. 435-411 BC Thasos Islands off Thrace, Thasos, Silver, NGC Ch XF 5/5-2/5",
-      "description": "Stater ca. 435-411 BC Thasos Islands off Thrace, Thasos, Silver, NGC Ch XF 5/5-2/5",
-      "hammer_price_usd": 9038.26,
-      "currency_original": "USD",
-      "price_original": 9038.26,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/cdma/pic/thumb/1066354.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-c0663e17a349",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/cdma/item.php?id=1068196",
-      "title": "Stater ca. 410-375 BC Soloi-Pompeiopoli Cilicia, Soloi-Pompeiopolis, Silver, NGC AU 5/5-4/5",
-      "description": "Stater ca. 410-375 BC Soloi-Pompeiopoli Cilicia, Soloi-Pompeiopolis, Silver, NGC AU 5/5-4/5",
-      "hammer_price_usd": 7773.6,
-      "currency_original": "USD",
-      "price_original": 7773.6,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/cdma/pic/thumb/1068196.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-9ab749a2dd85",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/cdma/item.php?id=1021176",
-      "title": "Stater ca. 450-440 BC Paphos Cyprus, Onasioikos, Paphos, Silver, NGC AU 4/5-5/5",
-      "description": "Stater ca. 450-440 BC Paphos Cyprus, Onasioikos, Paphos, Silver, NGC AU 4/5-5/5",
-      "hammer_price_usd": 11486.37,
-      "currency_original": "USD",
-      "price_original": 11486.37,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/cdma/pic/thumb/1021176.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-6157ad3a78eb",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/cdma/item.php?id=1021196",
-      "title": "1/4 Stater 2nd-1st century BC Carnutes, 2nd-1st century BC, Electrum, NGC Ch XF 4/5-3/5",
-      "description": "1/4 Stater 2nd-1st century BC Carnutes, 2nd-1st century BC, Electrum, NGC Ch XF 4/5-3/5",
-      "hammer_price_usd": 2076.83,
-      "currency_original": "USD",
-      "price_original": 2076.83,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/cdma/pic/thumb/1021196.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-11c549aadd6b",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=20",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 8000.0,
-      "currency_original": "USD",
-      "price_original": 8000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid20_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-82e61b322dfe",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=28",
-      "title": "EL Third-Stater c.610-546 BC  NGC XF Strike: 5/5 Surface: 3/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC XF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 7200.0,
-      "currency_original": "USD",
-      "price_original": 7200.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid28_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-67841014f9ee",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=53",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 8000.0,
-      "currency_original": "USD",
-      "price_original": 8000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid53_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-2706b0b3d2bc",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/cdma/item.php?id=1066721",
-      "title": "Stater ca. 460-450 BC Salamis Cyprus, Nikodamos, Salamis, Silver, NGC XF 3/5-5/5",
-      "description": "Stater ca. 460-450 BC Salamis Cyprus, Nikodamos, Salamis, Silver, NGC XF 3/5-5/5",
-      "hammer_price_usd": 9862.03,
-      "currency_original": "USD",
-      "price_original": 9862.03,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/cdma/pic/thumb/1066721.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 3,
-        "strike_score": 3,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-432da8bb7b75",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/cdma/item.php?id=896955",
-      "title": "1/4 Stater 2nd-1st century BC Veneti, Namnetes, Gold, NGC Ch XF\u2605 4/5-5/5",
-      "description": "1/4 Stater 2nd-1st century BC Veneti, Namnetes, Gold, NGC Ch XF\u2605 4/5-5/5",
-      "hammer_price_usd": 9862.03,
-      "currency_original": "USD",
-      "price_original": 9862.03,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/cdma/pic/thumb/896955.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-cbf47e4c8d75",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=29",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 5/5 Surface: 4/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 5/5 Surface: 4/5",
-      "hammer_price_usd": 6800.0,
-      "currency_original": "USD",
-      "price_original": 6800.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid29_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-3319c86b6009",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/cdma/item.php?id=898148",
-      "title": "Stater ca. 550-450 BC Cyzicus Mysia, Kyzikos, Electrum, NGC VF 5/5-5/5",
-      "description": "Stater ca. 550-450 BC Cyzicus Mysia, Kyzikos, Electrum, NGC VF 5/5-5/5",
-      "hammer_price_usd": 7645.98,
-      "currency_original": "USD",
-      "price_original": 7645.98,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/cdma/pic/thumb/898148.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-428aff1fb80b",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=33",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 4/5 Surface: 4/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 4/5 Surface: 4/5",
-      "hammer_price_usd": 6500.0,
-      "currency_original": "USD",
-      "price_original": 6500.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid33_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-c1f7db39e61d",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8531",
-      "title": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC VF. Scratches.  HGC-4, 76 NGC VF",
-      "description": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC VF. Scratches.  HGC-4, 76 NGC VF",
-      "hammer_price_usd": 795.0,
-      "currency_original": "USD",
-      "price_original": 795.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8531_ngc6711716-012_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-69dbcc1a6687",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/cdma/item.php?id=1065966",
-      "title": "Stater ca. 550-450 BC Cyzicus Mysia, Kyzikos, Electrum, NGC Ch VF 3/5-3/5",
-      "description": "Stater ca. 550-450 BC Cyzicus Mysia, Kyzikos, Electrum, NGC Ch VF 3/5-3/5",
-      "hammer_price_usd": 3933.21,
-      "currency_original": "USD",
-      "price_original": 3933.21,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/cdma/pic/thumb/1065966.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 3,
-        "strike_score": 3,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-e2ecbbbd010e",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/cdma/item.php?id=1066885",
-      "title": "Stater c. 550-475 BC Cyzicus Mysia, Kyzikos, Electrum, NGC Ch VF\u2605 5/5-3/5",
-      "description": "Stater c. 550-475 BC Cyzicus Mysia, Kyzikos, Electrum, NGC Ch VF\u2605 5/5-3/5",
-      "hammer_price_usd": 20304.18,
-      "currency_original": "USD",
-      "price_original": 20304.18,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/cdma/pic/thumb/1066885.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-abd76f7c2319",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/cdma/item.php?id=1066887",
-      "title": "Stater ca. 550-470 BC Cyzicus Mysia, Kyzikos, Electrum, NGC Ch VF 5/5-5/5",
-      "description": "Stater ca. 550-470 BC Cyzicus Mysia, Kyzikos, Electrum, NGC Ch VF 5/5-5/5",
-      "hammer_price_usd": 10906.25,
-      "currency_original": "USD",
-      "price_original": 10906.25,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/cdma/pic/thumb/1066887.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-6f0e9d692009",
       "source": "coinarchives",
@@ -1040,7 +56,8 @@
         "strike_score": 5,
         "surface_score": 5,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1071,7 +88,8 @@
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1102,7 +120,8 @@
         "strike_score": 5,
         "surface_score": 5,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1133,7 +152,8 @@
         "strike_score": 5,
         "surface_score": 5,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1164,7 +184,8 @@
         "strike_score": 5,
         "surface_score": 5,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1195,7 +216,8 @@
         "strike_score": 4,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1226,7 +248,8 @@
         "strike_score": 5,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1257,7 +280,8 @@
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1288,7 +312,8 @@
         "strike_score": 4,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1319,7 +344,8 @@
         "strike_score": 5,
         "surface_score": 5,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1350,7 +376,8 @@
         "strike_score": 5,
         "surface_score": 5,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1381,7 +408,8 @@
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1412,7 +440,8 @@
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1443,7 +472,8 @@
         "strike_score": 5,
         "surface_score": 2,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1474,7 +504,8 @@
         "strike_score": 5,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1505,7 +536,8 @@
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1536,7 +568,8 @@
         "strike_score": 5,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1567,7 +600,8 @@
         "strike_score": 5,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1598,7 +632,8 @@
         "strike_score": 5,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1629,7 +664,8 @@
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1660,7 +696,8 @@
         "strike_score": 5,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1691,7 +728,8 @@
         "strike_score": 5,
         "surface_score": 2,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1722,7 +760,8 @@
         "strike_score": 2,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1753,7 +792,8 @@
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1784,7 +824,8 @@
         "strike_score": 4,
         "surface_score": 2,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1815,7 +856,8 @@
         "strike_score": 5,
         "surface_score": 2,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1846,7 +888,8 @@
         "strike_score": 5,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1877,7 +920,8 @@
         "strike_score": 5,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1908,7 +952,8 @@
         "strike_score": 5,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1939,7 +984,8 @@
         "strike_score": 5,
         "surface_score": 5,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -1970,7 +1016,8 @@
         "strike_score": 5,
         "surface_score": 2,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -2001,7 +1048,8 @@
         "strike_score": 4,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -2032,7 +1080,8 @@
         "strike_score": 2,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -2063,7 +1112,8 @@
         "strike_score": 5,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -2094,7 +1144,8 @@
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -2125,7 +1176,8 @@
         "strike_score": 5,
         "surface_score": 5,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -2156,7 +1208,8 @@
         "strike_score": 4,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -2187,7 +1240,8 @@
         "strike_score": 3,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -2218,7 +1272,8 @@
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -2249,7 +1304,8 @@
         "strike_score": 4,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -2280,7 +1336,8 @@
         "strike_score": 4,
         "surface_score": 2,
         "details_grade": null,
-        "certification_url": "https://www.ngccoin.com/certlookup/6158066006/"
+        "certification_url": "https://www.ngccoin.com/certlookup/6158066006/",
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,

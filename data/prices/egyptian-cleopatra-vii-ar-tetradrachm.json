@@ -8,52 +8,29 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 2,
+  "sale_count": 1,
   "realized_count": 1,
-  "fixed_price_count": 1,
+  "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 1100.0,
     "max": 1100.0
   },
   "median_price_usd": 1100.0,
-  "last_sale_date": "2026-03-24",
+  "last_sale_date": "2026-01-16",
   "grade_distribution": {
-    "VF": 2
+    "VF": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/5704585849f97614c937aab0faab6611/img/ponterio/236/image40149.jpg",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 2,
+  "top_grade_numeric": null,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
   "sales": [
-    {
-      "id": "mashops-bbe07e0f8e4e",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=7480",
-      "title": "AR Tetradrachm Cleopatra Thea 125-121 BC SELEUKID EMPIRE. Kleopatra Thea & Antiochos VIII. 125-121 BC. AR Tetradrachm (30 NGC Ch VF Strike: 5/5 Surface: 2/5",
-      "description": "AR Tetradrachm Cleopatra Thea 125-121 BC SELEUKID EMPIRE. Kleopatra Thea & Antiochos VIII. 125-121 BC. AR Tetradrachm (30 NGC Ch VF Strike: 5/5 Surface: 2/5",
-      "hammer_price_usd": 1495.0,
-      "currency_original": "USD",
-      "price_original": 1495.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid7480_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-5f0e79fa1b2a",
       "source": "coinarchives",
@@ -75,7 +52,8 @@
         "strike_score": 5,
         "surface_score": 2,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,

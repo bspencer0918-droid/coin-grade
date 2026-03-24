@@ -8,54 +8,30 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 3,
+  "sale_count": 2,
   "realized_count": 2,
-  "fixed_price_count": 1,
+  "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 6000.0,
     "max": 15500.0
   },
   "median_price_usd": 10750.0,
-  "last_sale_date": "2026-03-24",
+  "last_sale_date": "2026-01-16",
   "grade_distribution": {
-    "VG": 1,
     "VF": 1,
     "AU": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/e4a974f159b988cfa474e6a5c49fd0c3/img/ponterio/236/image40226.jpg",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 4,
+  "top_grade_numeric": null,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
   "sales": [
-    {
-      "id": "mashops-a498f09afd94",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=1435",
-      "title": "BI Double-Denarius Claudius II, AD 268-270 NGC certified antoninianus Claudius II Gothicus, 268-270 (X32) NGC VG",
-      "description": "BI Double-Denarius Claudius II, AD 268-270 NGC certified antoninianus Claudius II Gothicus, 268-270 (X32) NGC VG",
-      "hammer_price_usd": 150.0,
-      "currency_original": "USD",
-      "price_original": 150.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid1435_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VG",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-c79505b1578e",
       "source": "coinarchives",
@@ -77,7 +53,8 @@
         "strike_score": 4,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -108,7 +85,8 @@
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,

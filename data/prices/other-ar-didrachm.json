@@ -8,179 +8,30 @@
   "ruler_rarity": null,
   "denomination": "AR Didrachm",
   "metal": "silver",
-  "sale_count": 8,
+  "sale_count": 3,
   "realized_count": 3,
-  "fixed_price_count": 5,
+  "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 400.0,
     "max": 575.0
   },
   "median_price_usd": 525.0,
-  "last_sale_date": "2026-03-24",
+  "last_sale_date": "2026-02-23",
   "grade_distribution": {
-    "XF": 2,
-    "VF": 3,
-    "AU": 1,
-    "G": 2
+    "VF": 2,
+    "G": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/555732db9fa1f53189ea501114bc3680/img/ponterio/236/image45162.jpg",
+  "median_weight_g": null,
+  "top_strike_score": 6,
+  "top_surface_score": 6,
+  "top_grade_numeric": null,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
   "sales": [
-    {
-      "id": "mashops-f6d4aa4298c1",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=77",
-      "title": "AR Didrachm c.302-281 BC AR Didrachm c.302-281 BC CALABRIA TARAS Dicher Collection NGC Ch XF Strike: 3/5 Surface: 2/5",
-      "description": "AR Didrachm c.302-281 BC AR Didrachm c.302-281 BC CALABRIA TARAS Dicher Collection NGC Ch XF Strike: 3/5 Surface: 2/5",
-      "hammer_price_usd": 579.99,
-      "currency_original": "USD",
-      "price_original": 579.99,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid77_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 3,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-4a205ef28cbd",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8971",
-      "title": "AR Didrachm Azemilkos, c.349-311/0 BC Phoenicia. Tyre. Azemilkos, ca. 349-311/0 B.C.E. AR Didrachm, Dated Year 9 (341/ NGC Ch VF",
-      "description": "AR Didrachm Azemilkos, c.349-311/0 BC Phoenicia. Tyre. Azemilkos, ca. 349-311/0 B.C.E. AR Didrachm, Dated Year 9 (341/ NGC Ch VF",
-      "hammer_price_usd": 975.0,
-      "currency_original": "USD",
-      "price_original": 975.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8971_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-84ee967f5a33",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/cdma/item.php?id=1066365",
-      "title": "Didrachm ca. 280-272 BC Tarentca. Calabria, Tarentum, Silver, NGC Ch AU 5/5-4/5",
-      "description": "Didrachm ca. 280-272 BC Tarentca. Calabria, Tarentum, Silver, NGC Ch AU 5/5-4/5",
-      "hammer_price_usd": 3005.02,
-      "currency_original": "USD",
-      "price_original": 3005.02,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/cdma/pic/thumb/1066365.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-4e46e40a6b18",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/ars/item.php?id=6889",
-      "title": "Didrachm 208-203 BC The Bretti NGC grade XF",
-      "description": "Didrachm 208-203 BC The Bretti NGC grade XF",
-      "hammer_price_usd": 232.05,
-      "currency_original": "USD",
-      "price_original": 232.05,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/ars/pic/thumb/6889_mg9b.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "G",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-d9897903773e",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=6591",
-      "title": "AR Didrachm Pixodarus, c.341-336/5 BC SATRAPS of CARIA. Pixodaros. Circa 341/0-336/5 BC. AR Didrachm (19.5mm, 6.88 g, NGC Ch XF Strike: 3/5 Surface: 2/5",
-      "description": "AR Didrachm Pixodarus, c.341-336/5 BC SATRAPS of CARIA. Pixodaros. Circa 341/0-336/5 BC. AR Didrachm (19.5mm, 6.88 g, NGC Ch XF Strike: 3/5 Surface: 2/5",
-      "hammer_price_usd": 695.0,
-      "currency_original": "USD",
-      "price_original": 695.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid6591_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 6,
-        "surface_score": 6,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-0ad94f233431",
       "source": "coinarchives",
@@ -202,7 +53,8 @@
         "strike_score": 6,
         "surface_score": 5,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -233,7 +85,8 @@
         "strike_score": 3,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -264,7 +117,8 @@
         "strike_score": 6,
         "surface_score": 6,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,

@@ -8,551 +8,32 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "silver",
-  "sale_count": 22,
+  "sale_count": 5,
   "realized_count": 5,
-  "fixed_price_count": 17,
+  "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 440.0,
     "max": 4800.0
   },
   "median_price_usd": 1200.0,
-  "last_sale_date": "2026-03-24",
+  "last_sale_date": "2026-02-23",
   "grade_distribution": {
-    "MS": 10,
-    "AU": 8,
-    "XF": 2,
-    "VF": 2
+    "VF": 2,
+    "XF": 1,
+    "MS": 1,
+    "AU": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/a54810b84db5ff1b0c07c061068f2d65/img/ponterio/236/image45344.jpg",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 5,
+  "top_grade_numeric": 5,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
   "sales": [
-    {
-      "id": "vcoins-db885f2e2507",
-      "source": "vcoins",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1953_s__dollar_franklin_half_dollar_silver_900_san_francisco_mint_4148000_125g_ngc_ms_65_pcgs_6666/2348792/Default.aspx",
-      "title": "United States Federal republic 1953 S \u00bd Dollar \"Franklin Half Dollar\" Silver (.900) San Francisco Mint (4148000) 12.5g NGC MS...",
-      "description": "",
-      "hammer_price_usd": 88.0,
-      "currency_original": "USD",
-      "price_original": 88.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "4148000",
-        "grade": "MS",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": "https://www.ngccoin.com/certlookup/4148000/"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "vcoins-84d63809364d",
-      "source": "vcoins",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1954_d__dollar_franklin_half_dollar_silver_900_denver_mint_25445580_125g_ngc_ms_64_pcgs_6668/2348571/Default.aspx",
-      "title": "United States Federal republic 1954 D \u00bd Dollar \"Franklin Half Dollar\" Silver (.900) Denver Mint (25445580) 12.5g NGC MS 64 PC...",
-      "description": "",
-      "hammer_price_usd": 63.8,
-      "currency_original": "USD",
-      "price_original": 63.8,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "25445580",
-        "grade": "MS",
-        "grade_numeric": 64,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": "https://www.ngccoin.com/certlookup/25445580/"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "vcoins-df6a8c06939f",
-      "source": "vcoins",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1954_s__dollar_franklin_half_dollar_silver_900_san_francisco_mint_4993400_125g_ngc_ms_65_pcgs_6669/2348570/Default.aspx",
-      "title": "United States Federal republic 1954 S \u00bd Dollar \"Franklin Half Dollar\" Silver (.900) San Francisco Mint (4993400) 12.5g NGC MS...",
-      "description": "",
-      "hammer_price_usd": 71.5,
-      "currency_original": "USD",
-      "price_original": 71.5,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "4993400",
-        "grade": "MS",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": "https://www.ngccoin.com/certlookup/4993400/"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "vcoins-7161756d53df",
-      "source": "vcoins",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1960_d__dollar_franklin_half_dollar_silver_900_denver_mint_18215812_125g_ngc_ms_64_pcgs_6679/2348569/Default.aspx",
-      "title": "United States Federal republic 1960 D \u00bd Dollar \"Franklin Half Dollar\" Silver (.900) Denver Mint (18215812) 12.5g NGC MS 64 PC...",
-      "description": "",
-      "hammer_price_usd": 77.0,
-      "currency_original": "USD",
-      "price_original": 77.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "18215812",
-        "grade": "MS",
-        "grade_numeric": 64,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": "https://www.ngccoin.com/certlookup/18215812/"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "vcoins-e5f09ee384ae",
-      "source": "vcoins",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1961__dollar_franklin_half_dollar_silver_900_philadelphia_mint_8290000_125g_ngc_ms_65_pcgs_6680/2348566/Default.aspx",
-      "title": "United States Federal republic 1961 \u00bd Dollar \"Franklin Half Dollar\" Silver (.900) Philadelphia Mint (8290000) 12.5g NGC MS 65...",
-      "description": "",
-      "hammer_price_usd": 99.0,
-      "currency_original": "USD",
-      "price_original": 99.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "8290000",
-        "grade": "MS",
-        "grade_numeric": 65,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": "https://www.ngccoin.com/certlookup/8290000/"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "vcoins-694e2bdee6e3",
-      "source": "vcoins",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1961_d__dollar_franklin_half_dollar_silver_900_denver_mint_20276442_125g_ngc_ms_65_pcgs_6681/2348565/Default.aspx",
-      "title": "United States Federal republic 1961 D \u00bd Dollar \"Franklin Half Dollar\" Silver (.900) Denver Mint (20276442) 12.5g NGC MS 65 PC...",
-      "description": "",
-      "hammer_price_usd": 88.0,
-      "currency_original": "USD",
-      "price_original": 88.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "20276442",
-        "grade": "MS",
-        "grade_numeric": 65,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": "https://www.ngccoin.com/certlookup/20276442/"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "vcoins-c6f57638565a",
-      "source": "vcoins",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/portugal_first_republic_1916_20_centavos_silver_835_lisbon_mint_706000_5g_ngc_ms_62__km_562_gomes_r_12/2350362/Default.aspx",
-      "title": "Portugal First Republic 1916 20 Centavos Silver (.835) Lisbon Mint (706000) 5g NGC MS 62  KM 562 Gomes R 12",
-      "description": "",
-      "hammer_price_usd": 82.5,
-      "currency_original": "USD",
-      "price_original": 82.5,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 62,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "vcoins-4ad89e109057",
-      "source": "vcoins",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/czechoslovakia_peoples_republic_1949_50_korun_josef_v_stalin_silver_500_1000000_10g_ngc_ms_63__km_28_schon_36/2350361/Default.aspx",
-      "title": "Czechoslovakia People's Republic 1949 50 Korun (Josef V. Stalin) Silver (.500) (1000000) 10g NGC MS 63  KM 28 Sch\u00f6n 36",
-      "description": "",
-      "hammer_price_usd": 99.0,
-      "currency_original": "USD",
-      "price_original": 99.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "1000000",
-        "grade": "MS",
-        "grade_numeric": 63,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": "https://www.ngccoin.com/certlookup/1000000/"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "vcoins-87b3cf67da63",
-      "source": "vcoins",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/peru_republic_1916_fg__sol_silver_900_425000_5g_ngc_au_58__km_205/2350359/Default.aspx",
-      "title": "Peru Republic 1916 FG \u2155 Sol Silver (.900) (425000) 5g NGC AU 58  KM 205",
-      "description": "",
-      "hammer_price_usd": 55.0,
-      "currency_original": "USD",
-      "price_original": 55.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 58,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-d1a4008de244",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/thomasnumismatics/item.php?id=2404",
-      "title": "Didrachme ou Quadrigatus 225-210 av.JC Roman Republic AU  /  NGC AU \u2605 strike 5 / 5-Surface 4 / 5",
-      "description": "Didrachme ou Quadrigatus 225-210 av.JC Roman Republic AU  /  NGC AU \u2605 strike 5 / 5-Surface 4 / 5",
-      "hammer_price_usd": 9862.03,
-      "currency_original": "USD",
-      "price_original": 9862.03,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/thomasnumismatics/pic/thumb/2404.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-f40a79a597f3",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8328",
-      "title": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
-      "description": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
-      "hammer_price_usd": 1200.0,
-      "currency_original": "USD",
-      "price_original": 1200.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8328_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-e0d12b9385a7",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/worldmoneyshop/item.php?id=2072",
-      "title": "TALER (1564-95) Erzherzog Ferdinand, 1564-1595, AUSTRIA. Holy Roman Empire Taler Ensisheim mint NGC MS 63",
-      "description": "TALER (1564-95) Erzherzog Ferdinand, 1564-1595, AUSTRIA. Holy Roman Empire Taler Ensisheim mint NGC MS 63",
-      "hammer_price_usd": 2350.0,
-      "currency_original": "USD",
-      "price_original": 2350.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/worldmoneyshop/pic/thumb/2072_1564-taler-1_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 63,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-39818e34c1b2",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/enumismat/item.php?id=8680",
-      "title": "276-282 ROMAN EMPIRE,Probus,AD 276-282 BI Aurellanianus /MARS VICTOR NGC Ch AU (30) NGC Ch AU (30",
-      "description": "276-282 ROMAN EMPIRE,Probus,AD 276-282 BI Aurellanianus /MARS VICTOR NGC Ch AU (30) NGC Ch AU (30",
-      "hammer_price_usd": 120.0,
-      "currency_original": "USD",
-      "price_original": 120.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/enumismat/pic/thumb/8680.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-5188f506a45f",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/enumismat/item.php?id=8586",
-      "title": "276-282 ROMAN EMPIRE,Probus,AD 276-282 BI Aurellanianus / PIAETAS  NGC Ch AU (043) NGC Ch AU",
-      "description": "276-282 ROMAN EMPIRE,Probus,AD 276-282 BI Aurellanianus / PIAETAS  NGC Ch AU (043) NGC Ch AU",
-      "hammer_price_usd": 130.0,
-      "currency_original": "USD",
-      "price_original": 130.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/enumismat/pic/thumb/8586.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-5b4a1eb971b3",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/enumismat/item.php?id=8589",
-      "title": "276-282 ROMAN Probus,AD 276-282 BI Aurellanianus / Felicitas standing NGC Ch AU (027) NGC Ch AU",
-      "description": "276-282 ROMAN Probus,AD 276-282 BI Aurellanianus / Felicitas standing NGC Ch AU (027) NGC Ch AU",
-      "hammer_price_usd": 125.0,
-      "currency_original": "USD",
-      "price_original": 125.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/enumismat/pic/thumb/8589.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-cf4412a06c46",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/enumismat/item.php?id=8695",
-      "title": "276-282 ROMAN EMPIRE,Probus,AD 276-282 BI Aurellanianus /Pax standing  NGC Ch AU (029) NGC Ch AU",
-      "description": "276-282 ROMAN EMPIRE,Probus,AD 276-282 BI Aurellanianus /Pax standing  NGC Ch AU (029) NGC Ch AU",
-      "hammer_price_usd": 130.0,
-      "currency_original": "USD",
-      "price_original": 130.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/enumismat/pic/thumb/8695.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-69b408f34a93",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/enumismat/item.php?id=8682",
-      "title": "276-282 ROMAN EMPIRE,Probus,AD 276-282 BI Aurellanianus /Laetitia NGC Ch AU (016) NGC Ch AU",
-      "description": "276-282 ROMAN EMPIRE,Probus,AD 276-282 BI Aurellanianus /Laetitia NGC Ch AU (016) NGC Ch AU",
-      "hammer_price_usd": 130.0,
-      "currency_original": "USD",
-      "price_original": 130.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/enumismat/pic/thumb/8682.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-bac5fa73b601",
       "source": "coinarchives",
@@ -574,7 +55,8 @@
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -605,7 +87,8 @@
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -636,7 +119,8 @@
         "strike_score": 4,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -667,7 +151,8 @@
         "strike_score": 5,
         "surface_score": 5,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -698,7 +183,8 @@
         "strike_score": 5,
         "surface_score": 5,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,

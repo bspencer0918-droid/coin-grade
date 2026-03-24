@@ -8,54 +8,30 @@
   "ruler_rarity": "scarce",
   "denomination": "Unknown",
   "metal": "gold",
-  "sale_count": 3,
+  "sale_count": 2,
   "realized_count": 2,
-  "fixed_price_count": 1,
+  "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 850.0,
     "max": 900.0
   },
   "median_price_usd": 875.0,
-  "last_sale_date": "2026-03-24",
+  "last_sale_date": "2026-01-16",
   "grade_distribution": {
-    "XF": 1,
     "MS": 1,
     "AU": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/49da9c3d881d6c6db81c86e5f44d2a22/img/heritage/61557/image25308.jpg",
+  "median_weight_g": null,
+  "top_strike_score": 4,
+  "top_surface_score": 3,
+  "top_grade_numeric": 4,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
   "sales": [
-    {
-      "id": "mashops-bdd29ba9e308",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9008",
-      "title": "AV Hyperpyron John II, AD 1118-1143 JOHN II, 1118-1143. AV Hyperpyron (4.35 gms), Constantinople Mint, ca. 1137-1143 NGC XF Strike: 4/5 Surface: 2/5",
-      "description": "AV Hyperpyron John II, AD 1118-1143 JOHN II, 1118-1143. AV Hyperpyron (4.35 gms), Constantinople Mint, ca. 1137-1143 NGC XF Strike: 4/5 Surface: 2/5",
-      "hammer_price_usd": 1495.0,
-      "currency_original": "USD",
-      "price_original": 1495.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid9008_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-1db0ddb3e2c9",
       "source": "coinarchives",
@@ -77,7 +53,8 @@
         "strike_score": 4,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -108,7 +85,8 @@
         "strike_score": 4,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,

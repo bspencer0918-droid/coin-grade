@@ -22,6 +22,14 @@
     "F": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/38f545f0d41565e1d5367b3e5761a5fb/img/heritage/61558/image23078.jpg",
+  "median_weight_g": null,
+  "top_strike_score": null,
+  "top_surface_score": null,
+  "top_grade_numeric": null,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
   "sales": [
     {
       "id": "coinarchives-aa85361cf1d2",
@@ -44,7 +52,8 @@
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,

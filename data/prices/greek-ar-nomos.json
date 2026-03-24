@@ -7,56 +7,32 @@
   "ruler_dates": null,
   "ruler_rarity": null,
   "denomination": "AR Nomos",
-  "metal": "silver",
-  "sale_count": 6,
+  "metal": "gold",
+  "sale_count": 5,
   "realized_count": 5,
-  "fixed_price_count": 1,
+  "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 5.0,
     "max": 195000.0
   },
   "median_price_usd": 709.56,
-  "last_sale_date": "2026-03-24",
+  "last_sale_date": "2026-01-16",
   "grade_distribution": {
-    "XF": 1,
     "MS": 1,
     "VF": 2,
     "F": 2
   },
   "thumbnail_url": "https://media.coinarchives.com/66b2a9c99e8abab9b971f8bca5cacb1b/img/heritage/3129/image33018.jpg",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 4,
+  "top_grade_numeric": null,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
   "sales": [
-    {
-      "id": "mashops-bac0cc1fe20f",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/cdma/item.php?id=897745",
-      "title": "Nomos ca. 340-330 BC Metapontca. Lucania, Metapontum, Silver, NGC Ch XF 5/5 5/5",
-      "description": "Nomos ca. 340-330 BC Metapontca. Lucania, Metapontum, Silver, NGC Ch XF 5/5 5/5",
-      "hammer_price_usd": 5325.5,
-      "currency_original": "USD",
-      "price_original": 5325.5,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/cdma/pic/thumb/897745.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-d76174c0c84f",
       "source": "coinarchives",
@@ -78,7 +54,8 @@
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -109,7 +86,8 @@
         "strike_score": 5,
         "surface_score": 5,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -140,7 +118,8 @@
         "strike_score": 5,
         "surface_score": 2,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -171,7 +150,8 @@
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -202,7 +182,8 @@
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,

@@ -8,119 +8,34 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 12,
+  "sale_count": 9,
   "realized_count": 9,
-  "fixed_price_count": 3,
+  "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 775.0,
     "max": 8500.0
   },
   "median_price_usd": 3000.0,
-  "last_sale_date": "2026-03-24",
+  "last_sale_date": "2026-02-23",
   "grade_distribution": {
-    "VF": 4,
-    "XF": 2,
     "MS": 3,
+    "VF": 2,
+    "XF": 1,
     "AU": 1,
     "P": 1,
     "G": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/1a12d69fc4ee3707d703a10c7af8c68c/img/heritage/61596/image21018.jpg",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 5,
+  "top_grade_numeric": 5,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
   "sales": [
-    {
-      "id": "mashops-2e41f0f48876",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/ritter/item.php?id=73528",
-      "title": "Tetradrachm 325-320 BC Kingdom of Macedonia, Alexander III, the Great, 336-323 BC very fine to extremely fine, NGC Ch VF 4/5 4/5; li",
-      "description": "Tetradrachm 325-320 BC Kingdom of Macedonia, Alexander III, the Great, 336-323 BC very fine to extremely fine, NGC Ch VF 4/5 4/5; li",
-      "hammer_price_usd": 11254.32,
-      "currency_original": "USD",
-      "price_original": 11254.32,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/ritter/pic/thumb/73528.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-73a82585e092",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/ritter/item.php?id=72443",
-      "title": "Tetradrachm 328-320 BC Kingdom of Macedonia, Alexander III, the Great, 336-323 BC good extremely fine / extremely fine, NGC XF 5/5 4",
-      "description": "Tetradrachm 328-320 BC Kingdom of Macedonia, Alexander III, the Great, 336-323 BC good extremely fine / extremely fine, NGC XF 5/5 4",
-      "hammer_price_usd": 1740.36,
-      "currency_original": "USD",
-      "price_original": 1740.36,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/ritter/pic/thumb/72443.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-b77fa3fd36ee",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/pollandt/item.php?id=85936",
-      "title": "AR Tetradrachm Alexander III, 336-323 BC Alexander III. der Gro\u00dfe NGC Ch VF scratches",
-      "description": "AR Tetradrachm Alexander III, 336-323 BC Alexander III. der Gro\u00dfe NGC Ch VF scratches",
-      "hammer_price_usd": 690.34,
-      "currency_original": "USD",
-      "price_original": 690.34,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/pollandt/pic/thumb/artid85936_ngc6772317-005_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-65df0e884221",
       "source": "coinarchives",
@@ -142,7 +57,8 @@
         "strike_score": 5,
         "surface_score": 5,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -173,7 +89,8 @@
         "strike_score": 5,
         "surface_score": 5,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -204,7 +121,8 @@
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -235,7 +153,8 @@
         "strike_score": 5,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -266,7 +185,8 @@
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -297,7 +217,8 @@
         "strike_score": 4,
         "surface_score": 2,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -328,7 +249,8 @@
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -359,7 +281,8 @@
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
-        "certification_url": "https://www.ngccoin.com/certlookup/6556705025/"
+        "certification_url": "https://www.ngccoin.com/certlookup/6556705025/",
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -390,7 +313,8 @@
         "strike_score": 6,
         "surface_score": 6,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
