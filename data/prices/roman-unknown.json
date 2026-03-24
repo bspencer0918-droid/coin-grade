@@ -6,18 +6,19 @@
   "dynasty": null,
   "denomination": "Unknown",
   "metal": "silver",
-  "sale_count": 12,
+  "sale_count": 44,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 44.0,
-    "max": 302.5
+    "min": 29.21,
+    "max": 1200.0
   },
-  "median_price_usd": 74.25,
-  "last_sale_date": "2026-03-23",
+  "median_price_usd": 88.0,
+  "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "MS": 12
+    "MS": 20,
+    "XF": 24
   },
-  "thumbnail_url": null,
+  "thumbnail_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8328_combined.jpg",
   "sales": [
     {
       "id": "vcoins-db885f2e2507",
@@ -29,7 +30,7 @@
       "currency_original": "USD",
       "price_original": 88.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-03-23",
+      "sale_date": "2026-03-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -59,7 +60,7 @@
       "currency_original": "USD",
       "price_original": 63.8,
       "buyers_premium_included": false,
-      "sale_date": "2026-03-23",
+      "sale_date": "2026-03-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -89,7 +90,7 @@
       "currency_original": "USD",
       "price_original": 71.5,
       "buyers_premium_included": false,
-      "sale_date": "2026-03-23",
+      "sale_date": "2026-03-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -119,7 +120,7 @@
       "currency_original": "USD",
       "price_original": 77.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-03-23",
+      "sale_date": "2026-03-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -149,7 +150,7 @@
       "currency_original": "USD",
       "price_original": 77.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-03-23",
+      "sale_date": "2026-03-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -179,7 +180,7 @@
       "currency_original": "USD",
       "price_original": 99.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-03-23",
+      "sale_date": "2026-03-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -209,7 +210,7 @@
       "currency_original": "USD",
       "price_original": 88.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-03-23",
+      "sale_date": "2026-03-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -239,7 +240,7 @@
       "currency_original": "USD",
       "price_original": 302.5,
       "buyers_premium_included": false,
-      "sale_date": "2026-03-23",
+      "sale_date": "2026-03-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -269,7 +270,7 @@
       "currency_original": "USD",
       "price_original": 44.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-03-23",
+      "sale_date": "2026-03-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -299,7 +300,7 @@
       "currency_original": "USD",
       "price_original": 55.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-03-23",
+      "sale_date": "2026-03-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -320,26 +321,26 @@
       }
     },
     {
-      "id": "vcoins-997fb837caea",
+      "id": "vcoins-db885f2e2507",
       "source": "vcoins",
-      "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1954_d__dollar_washington_silver_quarter_silver_900_denver_mint_42305500_625g_ngc_ms_65_pcgs_5856_greysheet_5691/2348540/Default.aspx",
-      "title": "United States Federal republic 1954 D \u00bc Dollar \"Washington Silver Quarter\" Silver (.900) Denver Mint (42305500) 6.25g NGC MS ...",
+      "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1953_s__dollar_franklin_half_dollar_silver_900_san_francisco_mint_4148000_125g_ngc_ms_65_pcgs_6666/2348792/Default.aspx",
+      "title": "United States Federal republic 1953 S \u00bd Dollar \"Franklin Half Dollar\" Silver (.900) San Francisco Mint (4148000) 12.5g NGC MS...",
       "description": "",
-      "hammer_price_usd": 49.5,
+      "hammer_price_usd": 88.0,
       "currency_original": "USD",
-      "price_original": 49.5,
+      "price_original": 88.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-03-23",
+      "sale_date": "2026-03-24",
       "image_url": null,
       "ngc": {
         "verified": false,
-        "cert_number": "42305500",
+        "cert_number": "4148000",
         "grade": "MS",
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
-        "certification_url": "https://www.ngccoin.com/certlookup/42305500/"
+        "certification_url": "https://www.ngccoin.com/certlookup/4148000/"
       },
       "metadata": {
         "mint": null,
@@ -350,26 +351,986 @@
       }
     },
     {
-      "id": "vcoins-226ef8544e7f",
+      "id": "vcoins-84d63809364d",
       "source": "vcoins",
-      "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1957_d__dollar_washington_silver_quarter_silver_900_denver_mint_77924160_625g_ngc_ms_65_pcgs_5863_greysheet_5695/2348539/Default.aspx",
-      "title": "United States Federal republic 1957 D \u00bc Dollar \"Washington Silver Quarter\" Silver (.900) Denver Mint (77924160) 6.25g NGC MS ...",
+      "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1954_d__dollar_franklin_half_dollar_silver_900_denver_mint_25445580_125g_ngc_ms_64_pcgs_6668/2348571/Default.aspx",
+      "title": "United States Federal republic 1954 D \u00bd Dollar \"Franklin Half Dollar\" Silver (.900) Denver Mint (25445580) 12.5g NGC MS 64 PC...",
       "description": "",
-      "hammer_price_usd": 49.5,
+      "hammer_price_usd": 63.8,
       "currency_original": "USD",
-      "price_original": 49.5,
+      "price_original": 63.8,
       "buyers_premium_included": false,
-      "sale_date": "2026-03-23",
+      "sale_date": "2026-03-24",
       "image_url": null,
       "ngc": {
         "verified": false,
-        "cert_number": "77924160",
+        "cert_number": "25445580",
+        "grade": "MS",
+        "grade_numeric": 64,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": "https://www.ngccoin.com/certlookup/25445580/"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "vcoins-df6a8c06939f",
+      "source": "vcoins",
+      "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1954_s__dollar_franklin_half_dollar_silver_900_san_francisco_mint_4993400_125g_ngc_ms_65_pcgs_6669/2348570/Default.aspx",
+      "title": "United States Federal republic 1954 S \u00bd Dollar \"Franklin Half Dollar\" Silver (.900) San Francisco Mint (4993400) 12.5g NGC MS...",
+      "description": "",
+      "hammer_price_usd": 71.5,
+      "currency_original": "USD",
+      "price_original": 71.5,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "4993400",
         "grade": "MS",
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
-        "certification_url": "https://www.ngccoin.com/certlookup/77924160/"
+        "certification_url": "https://www.ngccoin.com/certlookup/4993400/"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "vcoins-7161756d53df",
+      "source": "vcoins",
+      "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1960_d__dollar_franklin_half_dollar_silver_900_denver_mint_18215812_125g_ngc_ms_64_pcgs_6679/2348569/Default.aspx",
+      "title": "United States Federal republic 1960 D \u00bd Dollar \"Franklin Half Dollar\" Silver (.900) Denver Mint (18215812) 12.5g NGC MS 64 PC...",
+      "description": "",
+      "hammer_price_usd": 77.0,
+      "currency_original": "USD",
+      "price_original": 77.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "18215812",
+        "grade": "MS",
+        "grade_numeric": 64,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": "https://www.ngccoin.com/certlookup/18215812/"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "vcoins-69c5700ccad0",
+      "source": "vcoins",
+      "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1960_d__dollar_franklin_half_dollar_silver_900_denver_mint_18215812_125g_ngc_ms_64_pcgs_6679/2348568/Default.aspx",
+      "title": "United States Federal republic 1960 D \u00bd Dollar \"Franklin Half Dollar\" Silver (.900) Denver Mint (18215812) 12.5g NGC MS 64 PC...",
+      "description": "",
+      "hammer_price_usd": 77.0,
+      "currency_original": "USD",
+      "price_original": 77.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "18215812",
+        "grade": "MS",
+        "grade_numeric": 64,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": "https://www.ngccoin.com/certlookup/18215812/"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "vcoins-e5f09ee384ae",
+      "source": "vcoins",
+      "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1961__dollar_franklin_half_dollar_silver_900_philadelphia_mint_8290000_125g_ngc_ms_65_pcgs_6680/2348566/Default.aspx",
+      "title": "United States Federal republic 1961 \u00bd Dollar \"Franklin Half Dollar\" Silver (.900) Philadelphia Mint (8290000) 12.5g NGC MS 65...",
+      "description": "",
+      "hammer_price_usd": 99.0,
+      "currency_original": "USD",
+      "price_original": 99.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8290000",
+        "grade": "MS",
+        "grade_numeric": 65,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": "https://www.ngccoin.com/certlookup/8290000/"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "vcoins-694e2bdee6e3",
+      "source": "vcoins",
+      "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1961_d__dollar_franklin_half_dollar_silver_900_denver_mint_20276442_125g_ngc_ms_65_pcgs_6681/2348565/Default.aspx",
+      "title": "United States Federal republic 1961 D \u00bd Dollar \"Franklin Half Dollar\" Silver (.900) Denver Mint (20276442) 12.5g NGC MS 65 PC...",
+      "description": "",
+      "hammer_price_usd": 88.0,
+      "currency_original": "USD",
+      "price_original": 88.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "20276442",
+        "grade": "MS",
+        "grade_numeric": 65,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": "https://www.ngccoin.com/certlookup/20276442/"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "vcoins-eda23545bd48",
+      "source": "vcoins",
+      "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1961_d__dollar_franklin_half_dollar_silver_900_denver_mint_20276442_125g_ngc_ms_66_pcgs_6681/2348563/Default.aspx",
+      "title": "United States Federal republic 1961 D \u00bd Dollar \"Franklin Half Dollar\" Silver (.900) Denver Mint (20276442) 12.5g NGC MS 66 PC...",
+      "description": "",
+      "hammer_price_usd": 302.5,
+      "currency_original": "USD",
+      "price_original": 302.5,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "20276442",
+        "grade": "MS",
+        "grade_numeric": 66,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": "https://www.ngccoin.com/certlookup/20276442/"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "vcoins-d8e04b3babe1",
+      "source": "vcoins",
+      "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1960_d__dollar_washington_silver_quarter_silver_900_denver_mint_63000324_625g_ngc_ms_64_pcgs_5869_greysheet_5698/2348553/Default.aspx",
+      "title": "United States Federal republic 1960 D \u00bc Dollar \"Washington Silver Quarter\" Silver (.900) Denver Mint (63000324) 6.25g NGC MS ...",
+      "description": "",
+      "hammer_price_usd": 44.0,
+      "currency_original": "USD",
+      "price_original": 44.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "63000324",
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": "https://www.ngccoin.com/certlookup/63000324/"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "vcoins-24d6a7942697",
+      "source": "vcoins",
+      "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1955_d__dollar_washington_silver_quarter_silver_900_denver_mint_3182400_625g_ngc_ms_64_pcgs_5859_greysheet_5693/2348549/Default.aspx",
+      "title": "United States Federal republic 1955 D \u00bc Dollar \"Washington Silver Quarter\" Silver (.900) Denver Mint (3182400) 6.25g NGC MS 6...",
+      "description": "",
+      "hammer_price_usd": 55.0,
+      "currency_original": "USD",
+      "price_original": 55.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "3182400",
+        "grade": "MS",
+        "grade_numeric": 6,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": "https://www.ngccoin.com/certlookup/3182400/"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-f40a79a597f3",
+      "source": "mashops",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8328",
+      "title": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
+      "description": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1200.0,
+      "currency_original": "USD",
+      "price_original": 1200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8328_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-f40a79a597f3",
+      "source": "mashops",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8328",
+      "title": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
+      "description": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1200.0,
+      "currency_original": "USD",
+      "price_original": 1200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8328_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-f40a79a597f3",
+      "source": "mashops",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8328",
+      "title": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
+      "description": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1200.0,
+      "currency_original": "USD",
+      "price_original": 1200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8328_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-f40a79a597f3",
+      "source": "mashops",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8328",
+      "title": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
+      "description": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1200.0,
+      "currency_original": "USD",
+      "price_original": 1200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8328_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-f40a79a597f3",
+      "source": "mashops",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8328",
+      "title": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
+      "description": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1200.0,
+      "currency_original": "USD",
+      "price_original": 1200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8328_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-f40a79a597f3",
+      "source": "mashops",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8328",
+      "title": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
+      "description": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1200.0,
+      "currency_original": "USD",
+      "price_original": 1200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8328_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-f40a79a597f3",
+      "source": "mashops",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8328",
+      "title": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
+      "description": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1200.0,
+      "currency_original": "USD",
+      "price_original": 1200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8328_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-f40a79a597f3",
+      "source": "mashops",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8328",
+      "title": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
+      "description": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1200.0,
+      "currency_original": "USD",
+      "price_original": 1200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8328_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-f40a79a597f3",
+      "source": "mashops",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8328",
+      "title": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
+      "description": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1200.0,
+      "currency_original": "USD",
+      "price_original": 1200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8328_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-f40a79a597f3",
+      "source": "mashops",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8328",
+      "title": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
+      "description": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1200.0,
+      "currency_original": "USD",
+      "price_original": 1200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8328_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-f40a79a597f3",
+      "source": "mashops",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8328",
+      "title": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
+      "description": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1200.0,
+      "currency_original": "USD",
+      "price_original": 1200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8328_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-f40a79a597f3",
+      "source": "mashops",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8328",
+      "title": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
+      "description": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1200.0,
+      "currency_original": "USD",
+      "price_original": 1200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8328_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-f40a79a597f3",
+      "source": "mashops",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8328",
+      "title": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
+      "description": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1200.0,
+      "currency_original": "USD",
+      "price_original": 1200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8328_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-f40a79a597f3",
+      "source": "mashops",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8328",
+      "title": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
+      "description": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1200.0,
+      "currency_original": "USD",
+      "price_original": 1200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8328_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-f40a79a597f3",
+      "source": "mashops",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8328",
+      "title": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
+      "description": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1200.0,
+      "currency_original": "USD",
+      "price_original": 1200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8328_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-d1e433f9df07",
+      "source": "numisbids",
+      "lot_url": "https://www.numisbids.com/sale/10450/lot/21014",
+      "title": "Ancients MYSIA. Pergamum. Roman Rule (ca. 133-67 BC). AR cistophorus (27mm, 12.46 gm, 12h). NGC Choice XF 4/5 - 4/5,...",
+      "description": "Ancients MYSIA. Pergamum. Roman Rule (ca. 133-67 BC). AR cistophorus (27mm, 12.46 gm, 12h). NGC Choice XF 4/5 - 4/5,...",
+      "hammer_price_usd": 29.21,
+      "currency_original": "GBP",
+      "price_original": 23.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/heritage/61611/thumb21014.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-d1e433f9df07",
+      "source": "numisbids",
+      "lot_url": "https://www.numisbids.com/sale/10450/lot/21014",
+      "title": "Ancients MYSIA. Pergamum. Roman Rule (ca. 133-67 BC). AR cistophorus (27mm, 12.46 gm, 12h). NGC Choice XF 4/5 - 4/5,...",
+      "description": "Ancients MYSIA. Pergamum. Roman Rule (ca. 133-67 BC). AR cistophorus (27mm, 12.46 gm, 12h). NGC Choice XF 4/5 - 4/5,...",
+      "hammer_price_usd": 29.21,
+      "currency_original": "GBP",
+      "price_original": 23.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/heritage/61611/thumb21014.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-d1e433f9df07",
+      "source": "numisbids",
+      "lot_url": "https://www.numisbids.com/sale/10450/lot/21014",
+      "title": "Ancients MYSIA. Pergamum. Roman Rule (ca. 133-67 BC). AR cistophorus (27mm, 12.46 gm, 12h). NGC Choice XF 4/5 - 4/5,...",
+      "description": "Ancients MYSIA. Pergamum. Roman Rule (ca. 133-67 BC). AR cistophorus (27mm, 12.46 gm, 12h). NGC Choice XF 4/5 - 4/5,...",
+      "hammer_price_usd": 29.21,
+      "currency_original": "GBP",
+      "price_original": 23.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/heritage/61611/thumb21014.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-d1e433f9df07",
+      "source": "numisbids",
+      "lot_url": "https://www.numisbids.com/sale/10450/lot/21014",
+      "title": "Ancients MYSIA. Pergamum. Roman Rule (ca. 133-67 BC). AR cistophorus (27mm, 12.46 gm, 12h). NGC Choice XF 4/5 - 4/5,...",
+      "description": "Ancients MYSIA. Pergamum. Roman Rule (ca. 133-67 BC). AR cistophorus (27mm, 12.46 gm, 12h). NGC Choice XF 4/5 - 4/5,...",
+      "hammer_price_usd": 29.21,
+      "currency_original": "GBP",
+      "price_original": 23.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/heritage/61611/thumb21014.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-d1e433f9df07",
+      "source": "numisbids",
+      "lot_url": "https://www.numisbids.com/sale/10450/lot/21014",
+      "title": "Ancients MYSIA. Pergamum. Roman Rule (ca. 133-67 BC). AR cistophorus (27mm, 12.46 gm, 12h). NGC Choice XF 4/5 - 4/5,...",
+      "description": "Ancients MYSIA. Pergamum. Roman Rule (ca. 133-67 BC). AR cistophorus (27mm, 12.46 gm, 12h). NGC Choice XF 4/5 - 4/5,...",
+      "hammer_price_usd": 29.21,
+      "currency_original": "GBP",
+      "price_original": 23.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/heritage/61611/thumb21014.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-d1e433f9df07",
+      "source": "numisbids",
+      "lot_url": "https://www.numisbids.com/sale/10450/lot/21014",
+      "title": "Ancients MYSIA. Pergamum. Roman Rule (ca. 133-67 BC). AR cistophorus (27mm, 12.46 gm, 12h). NGC Choice XF 4/5 - 4/5,...",
+      "description": "Ancients MYSIA. Pergamum. Roman Rule (ca. 133-67 BC). AR cistophorus (27mm, 12.46 gm, 12h). NGC Choice XF 4/5 - 4/5,...",
+      "hammer_price_usd": 29.21,
+      "currency_original": "GBP",
+      "price_original": 23.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/heritage/61611/thumb21014.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-d1e433f9df07",
+      "source": "numisbids",
+      "lot_url": "https://www.numisbids.com/sale/10450/lot/21014",
+      "title": "Ancients MYSIA. Pergamum. Roman Rule (ca. 133-67 BC). AR cistophorus (27mm, 12.46 gm, 12h). NGC Choice XF 4/5 - 4/5,...",
+      "description": "Ancients MYSIA. Pergamum. Roman Rule (ca. 133-67 BC). AR cistophorus (27mm, 12.46 gm, 12h). NGC Choice XF 4/5 - 4/5,...",
+      "hammer_price_usd": 29.21,
+      "currency_original": "GBP",
+      "price_original": 23.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/heritage/61611/thumb21014.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-d1e433f9df07",
+      "source": "numisbids",
+      "lot_url": "https://www.numisbids.com/sale/10450/lot/21014",
+      "title": "Ancients MYSIA. Pergamum. Roman Rule (ca. 133-67 BC). AR cistophorus (27mm, 12.46 gm, 12h). NGC Choice XF 4/5 - 4/5,...",
+      "description": "Ancients MYSIA. Pergamum. Roman Rule (ca. 133-67 BC). AR cistophorus (27mm, 12.46 gm, 12h). NGC Choice XF 4/5 - 4/5,...",
+      "hammer_price_usd": 29.21,
+      "currency_original": "GBP",
+      "price_original": 23.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/heritage/61611/thumb21014.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-d1e433f9df07",
+      "source": "numisbids",
+      "lot_url": "https://www.numisbids.com/sale/10450/lot/21014",
+      "title": "Ancients MYSIA. Pergamum. Roman Rule (ca. 133-67 BC). AR cistophorus (27mm, 12.46 gm, 12h). NGC Choice XF 4/5 - 4/5,...",
+      "description": "Ancients MYSIA. Pergamum. Roman Rule (ca. 133-67 BC). AR cistophorus (27mm, 12.46 gm, 12h). NGC Choice XF 4/5 - 4/5,...",
+      "hammer_price_usd": 29.21,
+      "currency_original": "GBP",
+      "price_original": 23.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/heritage/61611/thumb21014.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
       },
       "metadata": {
         "mint": null,

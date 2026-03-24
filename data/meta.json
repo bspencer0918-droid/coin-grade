@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-23T20:02:59.163500+00:00",
-  "next_update": "2026-03-23T06:00:00+00:00",
-  "total_listings": 1482,
+  "last_updated": "2026-03-24T01:47:36.705806+00:00",
+  "next_update": "2026-03-24T06:00:00+00:00",
+  "total_listings": 2443,
   "ngc_verified_count": 0,
-  "ngc_mentioned_count": 1482,
+  "ngc_mentioned_count": 2443,
   "schema_version": "1.2",
   "sources": {
     "cng": {
@@ -23,12 +23,27 @@
     },
     "vcoins": {
       "status": "ok",
-      "listings_scraped": 34,
+      "listings_scraped": 84,
       "last_error": null
     },
     "mashops": {
       "status": "ok",
-      "listings_scraped": 1425,
+      "listings_scraped": 1395,
+      "last_error": null
+    },
+    "numisbids": {
+      "status": "ok",
+      "listings_scraped": 941,
+      "last_error": null
+    },
+    "sixbid": {
+      "status": "ok",
+      "listings_scraped": 0,
+      "last_error": null
+    },
+    "hjb": {
+      "status": "ok",
+      "listings_scraped": 0,
       "last_error": null
     }
   }
