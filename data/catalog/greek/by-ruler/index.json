@@ -1,32 +1,3 @@
 {
-  "rulers": [
-    {
-      "name": "Athens",
-      "slug": "athens",
-      "reign": "",
-      "sale_count": 1,
-      "data_url": "greek/by-ruler/athens.json"
-    },
-    {
-      "name": "Philip II",
-      "slug": "philip-ii",
-      "reign": "",
-      "sale_count": 1,
-      "data_url": "greek/by-ruler/philip-ii.json"
-    },
-    {
-      "name": "Rhodes",
-      "slug": "rhodes",
-      "reign": "",
-      "sale_count": 2,
-      "data_url": "greek/by-ruler/rhodes.json"
-    },
-    {
-      "name": "Syracuse",
-      "slug": "syracuse",
-      "reign": "",
-      "sale_count": 1,
-      "data_url": "greek/by-ruler/syracuse.json"
-    }
-  ]
+  "rulers": []
 }

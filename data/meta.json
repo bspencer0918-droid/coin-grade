@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-24T02:51:41.931771+00:00",
+  "last_updated": "2026-03-24T03:21:52.375816+00:00",
   "next_update": "2026-03-24T06:00:00+00:00",
-  "total_listings": 1498,
+  "total_listings": 52,
   "ngc_verified_count": 0,
-  "ngc_mentioned_count": 1498,
+  "ngc_mentioned_count": 52,
   "schema_version": "1.2",
   "sources": {
     "cng": {
@@ -23,12 +23,12 @@
     },
     "vcoins": {
       "status": "ok",
-      "listings_scraped": 79,
+      "listings_scraped": 17,
       "last_error": null
     },
     "mashops": {
       "status": "ok",
-      "listings_scraped": 1396,
+      "listings_scraped": 14,
       "last_error": null
     },
     "numisbids": {

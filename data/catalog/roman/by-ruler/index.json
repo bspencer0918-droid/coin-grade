@@ -1,53 +1,11 @@
 {
   "rulers": [
     {
-      "name": "Antoninus Pius",
-      "slug": "antoninus-pius",
-      "reign": "",
-      "sale_count": 1,
-      "data_url": "roman/by-ruler/antoninus-pius.json"
-    },
-    {
-      "name": "Augustus",
-      "slug": "augustus",
-      "reign": "",
-      "sale_count": 1,
-      "data_url": "roman/by-ruler/augustus.json"
-    },
-    {
-      "name": "Caracalla",
-      "slug": "caracalla",
-      "reign": "",
-      "sale_count": 1,
-      "data_url": "roman/by-ruler/caracalla.json"
-    },
-    {
       "name": "Constantine I",
       "slug": "constantine-i",
       "reign": "",
       "sale_count": 1,
       "data_url": "roman/by-ruler/constantine-i.json"
-    },
-    {
-      "name": "Domitian",
-      "slug": "domitian",
-      "reign": "",
-      "sale_count": 1,
-      "data_url": "roman/by-ruler/domitian.json"
-    },
-    {
-      "name": "Elagabalus",
-      "slug": "elagabalus",
-      "reign": "",
-      "sale_count": 1,
-      "data_url": "roman/by-ruler/elagabalus.json"
-    },
-    {
-      "name": "Gallienus",
-      "slug": "gallienus",
-      "reign": "",
-      "sale_count": 1,
-      "data_url": "roman/by-ruler/gallienus.json"
     },
     {
       "name": "Gordian III",
@@ -57,25 +15,11 @@
       "data_url": "roman/by-ruler/gordian-iii.json"
     },
     {
-      "name": "Hadrian",
-      "slug": "hadrian",
-      "reign": "",
-      "sale_count": 2,
-      "data_url": "roman/by-ruler/hadrian.json"
-    },
-    {
       "name": "Julius Caesar",
       "slug": "julius-caesar",
       "reign": "",
-      "sale_count": 2,
-      "data_url": "roman/by-ruler/julius-caesar.json"
-    },
-    {
-      "name": "Nero",
-      "slug": "nero",
-      "reign": "",
       "sale_count": 1,
-      "data_url": "roman/by-ruler/nero.json"
+      "data_url": "roman/by-ruler/julius-caesar.json"
     }
   ]
 }
