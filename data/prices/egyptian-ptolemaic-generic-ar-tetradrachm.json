@@ -4,23 +4,55 @@
   "ruler": "Ptolemaic (generic)",
   "ruler_normalized": "ptolemaic-generic",
   "dynasty": "Ptolemaic",
+  "ruler_dates": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 3,
-  "realized_count": 0,
+  "sale_count": 4,
+  "realized_count": 1,
   "fixed_price_count": 3,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 975.0,
-    "max": 10198.5
+    "min": 11000.0,
+    "max": 11000.0
   },
-  "median_price_usd": 1795.0,
+  "median_price_usd": 11000.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "XF": 3
+    "XF": 4
   },
-  "thumbnail_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8671_combined.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/4559d396cf95d0e9b2b16a8b5da4e572/img/heritage/3130/image36044.jpg",
   "sales": [
+    {
+      "id": "mashops-adb162649e27",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/cdma/item.php?id=1068024",
+      "title": "Tetradrachm ca. 306-300 BC Alexandria Egypt, Ptolemy I Soter, Alexandria, Silver, NGC Ch XF 4/5-4/5",
+      "description": "Tetradrachm ca. 306-300 BC Alexandria Egypt, Ptolemy I Soter, Alexandria, Silver, NGC Ch XF 4/5-4/5",
+      "hammer_price_usd": 10198.5,
+      "currency_original": "USD",
+      "price_original": 10198.5,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/cdma/pic/thumb/1068024.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "mashops-df8f29a563b0",
       "source": "mashops",
@@ -84,25 +116,25 @@
       }
     },
     {
-      "id": "mashops-adb162649e27",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/cdma/item.php?id=1068024",
-      "title": "Tetradrachm ca. 306-300 BC Alexandria Egypt, Ptolemy I Soter, Alexandria, Silver, NGC Ch XF 4/5-4/5",
-      "description": "Tetradrachm ca. 306-300 BC Alexandria Egypt, Ptolemy I Soter, Alexandria, Silver, NGC Ch XF 4/5-4/5",
-      "hammer_price_usd": 10198.5,
+      "id": "coinarchives-d4d3642c5c4f",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687195&AucID=6921&Lot=36044&Val=2bce44696d14b88b0c01cdedadad7c42",
+      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3130, Lot 36044 \u2014 Ancients\nPTOLEMAIC EGYPT. Ptolemy II Philadelphus (285/4-246 BC), with Arsin\u00f6e II, Ptolemy I, and Berenice I. AV tetradrachm (half-mnaieion) or pentekontadrachmon (50 drachm) (20mm, 13.83 gm, 12h). NG",
+      "description": "Ancients\nPTOLEMAIC EGYPT. Ptolemy II Philadelphus (285/4-246 BC), with Arsin\u00f6e II, Ptolemy I, and Berenice I. AV tetradrachm (half-mnaieion) or pentekontadrachmon (50 drachm) (20mm, 13.83 gm, 12h). NGC Choice XF 5/5 - 5/5. Alexandria, before August 272 BC. A\u0394E\u039b\u03a6\u03a9N, jugate busts right of Ptolemy II, diademed and draped, and Arsin\u00f6e II, diademed and veiled; Galatian shield decorated with thunderbolt behind, dotted border / \u0398E\u03a9N, jugate busts right of Ptolemy I, diademed and draped, and Berenice ...",
+      "hammer_price_usd": 11000.0,
       "currency_original": "USD",
-      "price_original": 10198.5,
+      "price_original": 11000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/cdma/pic/thumb/1068024.jpg",
+      "sale_date": "2026-01-22",
+      "image_url": "https://media.coinarchives.com/4559d396cf95d0e9b2b16a8b5da4e572/img/heritage/3130/image36044.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
         "grade": "XF",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 4,
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
         "details_grade": null,
         "certification_url": null
       },

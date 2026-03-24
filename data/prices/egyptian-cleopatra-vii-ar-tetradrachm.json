@@ -4,22 +4,23 @@
   "ruler": "Cleopatra VII",
   "ruler_normalized": "cleopatra-vii",
   "dynasty": "Ptolemaic",
+  "ruler_dates": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 1,
-  "realized_count": 0,
+  "sale_count": 3,
+  "realized_count": 2,
   "fixed_price_count": 1,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 1495.0,
-    "max": 1495.0
+    "min": 1100.0,
+    "max": 2200.0
   },
-  "median_price_usd": 1495.0,
+  "median_price_usd": 1650.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "VF": 1
+    "VF": 3
   },
-  "thumbnail_url": "https://img.ma-shops.com/khouli/pic/thumb/artid7480_combined.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/5704585849f97614c937aab0faab6611/img/ponterio/236/image40149.jpg",
   "sales": [
     {
       "id": "mashops-bbe07e0f8e4e",
@@ -41,6 +42,68 @@
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-5f0e79fa1b2a",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2694605&AucID=6923&Lot=40149&Val=d6c41035ac55b65391f7cef6b93041a5",
+      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 40149 \u2014 SYRIA. Seleukid Kingdom. Cleopatra Thea & Antiochos VIII, 125-96 B.C. AR Tetradrachm (16.71 gms), Damaskos Mint, dated SE 191 (122/1 B.C.). NGC Ch VF, Strike: 5/5 Surface: 2/5. Scratches.\nTo view all ",
+      "description": "SYRIA. Seleukid Kingdom. Cleopatra Thea & Antiochos VIII, 125-96 B.C. AR Tetradrachm (16.71 gms), Damaskos Mint, dated SE 191 (122/1 B.C.). NGC Ch VF, Strike: 5/5 Surface: 2/5. Scratches.\nTo view all items from the Peter Jones M.D. Collection, click  here.\nHGC-9, 1182d; SC-2267.1. Obverse: Jugate heads right; Reverse: Zeus Nikephoros seated left; monogram to outer left and below throne; date in exergue. Struck on a broad round flan. Only moderate, even circulation, and with a handsome cabinet ...",
+      "hammer_price_usd": 1100.0,
+      "currency_original": "USD",
+      "price_original": 1100.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": "https://media.coinarchives.com/5704585849f97614c937aab0faab6611/img/ponterio/236/image40149.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-db99bd353d51",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2710225&AucID=6990&Lot=443&Val=ae7dd3b06f9ad8ce15c6ecf511bad7f2",
+      "title": "Ira & Larry Goldberg Coins & Collectibles - Auction 150, Lot 443 \u2014 4-piece lot of Graded and Encapsulated Ancient Greek Coins. Consists of:\n1. Sicily, Acragas Ca. 425-406 BC AE Hemilitron, eagle clutches hare, rev. crab and hipocamp. NGC VF.\n2. Ptolemaic Kingdom, Cle",
+      "description": "4-piece lot of Graded and Encapsulated Ancient Greek Coins. Consists of:\n1. Sicily, Acragas Ca. 425-406 BC AE Hemilitron, eagle clutches hare, rev. crab and hipocamp. NGC VF.\n2. Ptolemaic Kingdom, Cleopatra II and Ptolemy IX, AR Tetradrachm 116-107 BC. NGC\nFine.\n3. Ptolemaic King Ptolemy X, 107-88 BC AR Tetradrachm. NGC Fine.\n4. Phoenicia Shekel of Tyre, AD 29-30.  \"30 Pieces of Silver\" Jerusalem mint. ICG AU-50.  Estimated Value $500 - UP\nEx The Peter Preovolos Collection;....",
+      "hammer_price_usd": 2200.0,
+      "currency_original": "USD",
+      "price_original": 2200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-02-23",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
         "details_grade": null,
         "certification_url": null
       },

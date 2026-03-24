@@ -4,23 +4,25 @@
   "ruler": "Antoninus Pius",
   "ruler_normalized": "antoninus-pius",
   "dynasty": "Nerva-Antonine",
+  "ruler_dates": "AD 138\u2013161",
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 2,
-  "realized_count": 0,
+  "sale_count": 3,
+  "realized_count": 1,
   "fixed_price_count": 2,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 349.99,
-    "max": 459.99
+    "min": 120.0,
+    "max": 120.0
   },
-  "median_price_usd": 404.99,
+  "median_price_usd": 120.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
     "AU": 1,
-    "MS": 1
+    "MS": 1,
+    "XF": 1
   },
-  "thumbnail_url": "https://img.ma-shops.com/dicher/pic/thumb/130_img_0181_c.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/5f595d62a86985630ad7e77a6e2b1e98/img/ponterio/236/image45422.jpg",
   "sales": [
     {
       "id": "mashops-66e4ec93b087",
@@ -73,6 +75,37 @@
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-28f148280b69",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2695525&AucID=6923&Lot=45422&Val=aa845bb9ed92502179edeecfd14a2571",
+      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 45422 \u2014 DIVA FAUSTINA SENIOR (Died A.D. 140/1). AR Denarius, Rome Mint, commemorative issue, struck under Antoninus Pius, circa A.D. 146-161. NGC Ch EF.\nTo view all items from the Cookie Family Collection, cl",
+      "description": "DIVA FAUSTINA SENIOR (Died A.D. 140/1). AR Denarius, Rome Mint, commemorative issue, struck under Antoninus Pius, circa A.D. 146-161. NGC Ch EF.\nTo view all items from the Cookie Family Collection, click  here.\nRIC-382b (Pius) var. (veiled and draped bust); RSC-165a. Obverse: Draped bust right; Reverse: Ceres standing left, raising hand and holding torch.\n\nFrom the Cookie Family Collection.\n\nEx: Harlan Berk (private purchase, with tag).\n\nEstimate: 75 - 150...",
+      "hammer_price_usd": 120.0,
+      "currency_original": "USD",
+      "price_original": 120.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": "https://media.coinarchives.com/5f595d62a86985630ad7e77a6e2b1e98/img/ponterio/236/image45422.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
         "details_grade": null,
         "certification_url": null
       },

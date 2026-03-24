@@ -4,24 +4,56 @@
   "ruler": "Syracuse",
   "ruler_normalized": "syracuse",
   "dynasty": "City-State",
+  "ruler_dates": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 2,
-  "realized_count": 0,
+  "sale_count": 4,
+  "realized_count": 2,
   "fixed_price_count": 2,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 1795.0,
-    "max": 2495.0
+    "min": 1900.0,
+    "max": 10500.0
   },
-  "median_price_usd": 2145.0,
+  "median_price_usd": 6200.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "XF": 1,
-    "VF": 1
+    "VF": 2,
+    "XF": 2
   },
-  "thumbnail_url": "https://img.ma-shops.com/khouli/pic/thumb/artid9022_combined.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/ee75d111a89b2a71095ff2f65ca0e390/img/ponterio/236/image40022.jpg",
   "sales": [
+    {
+      "id": "mashops-559db5ab7251",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=7786",
+      "title": "AR Tetradrachm c.450-440 BC SICILY, Syracuse. 450-440 BC. AR Tetradrachm (28mm, 17.13 gm) NGC Ch VF Strike: 2/5 Surface: 2/5",
+      "description": "AR Tetradrachm c.450-440 BC SICILY, Syracuse. 450-440 BC. AR Tetradrachm (28mm, 17.13 gm) NGC Ch VF Strike: 2/5 Surface: 2/5",
+      "hammer_price_usd": 1795.0,
+      "currency_original": "USD",
+      "price_original": 1795.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid7786_ngc6709660-006_obv_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 2,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "mashops-168919a6b36d",
       "source": "mashops",
@@ -54,25 +86,56 @@
       }
     },
     {
-      "id": "mashops-559db5ab7251",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=7786",
-      "title": "AR Tetradrachm c.450-440 BC SICILY, Syracuse. 450-440 BC. AR Tetradrachm (28mm, 17.13 gm) NGC Ch VF Strike: 2/5 Surface: 2/5",
-      "description": "AR Tetradrachm c.450-440 BC SICILY, Syracuse. 450-440 BC. AR Tetradrachm (28mm, 17.13 gm) NGC Ch VF Strike: 2/5 Surface: 2/5",
-      "hammer_price_usd": 1795.0,
+      "id": "coinarchives-7acf29d23b22",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2694478&AucID=6923&Lot=40022&Val=083d9bb14db6c2e3890284c2af7cc8fe",
+      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 40022 \u2014 SICILY. Syracuse. Agathokles, 317-289 B.C. AR Tetradrachm (16.99 gms), ca. 317-310 B.C. NGC Ch EF, Strike: 4/5 Surface: 5/5. Fine Style.\nHGC-2, 1348; BAR Issue-2. Obverse: Wreathed head of Arethousa l",
+      "description": "SICILY. Syracuse. Agathokles, 317-289 B.C. AR Tetradrachm (16.99 gms), ca. 317-310 B.C. NGC Ch EF, Strike: 4/5 Surface: 5/5. Fine Style.\nHGC-2, 1348; BAR Issue-2. Obverse: Wreathed head of Arethousa left; three dolphins around; monogram below neck; Reverse: Charioteer driving quadriga left; triskeles above, monogram in exergue. A beautiful, well-centered striking in fine Syracusan style. Rich gray cabinet tone with underlying luster throughout. With just a touch of wear on the high points, thi...",
+      "hammer_price_usd": 10500.0,
       "currency_original": "USD",
-      "price_original": 1795.0,
+      "price_original": 10500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid7786_ngc6709660-006_obv_c.jpg",
+      "sale_date": "2026-01-16",
+      "image_url": "https://media.coinarchives.com/ee75d111a89b2a71095ff2f65ca0e390/img/ponterio/236/image40022.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-b4552600ba7d",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2694479&AucID=6923&Lot=40023&Val=58522402947d85c8ef3cfee9f4a5edaf",
+      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 40023 \u2014 SICILY. Syracuse. Agathokles, 317-289 B.C. AR Tetradrachm (17.00 gms), ca. 310-306/5 B.C. NGC VF, Strike: 5/5 Surface: 4/5.\nHGC-2, 1536; SNG ANS-679. Obverse: Head of Kore right, wearing wreath of gra",
+      "description": "SICILY. Syracuse. Agathokles, 317-289 B.C. AR Tetradrachm (17.00 gms), ca. 310-306/5 B.C. NGC VF, Strike: 5/5 Surface: 4/5.\nHGC-2, 1536; SNG ANS-679. Obverse: Head of Kore right, wearing wreath of grain ears and single-pendant earring; Reverse: Nike standing right, erecting trophy to right; triskeles to lower left. Well-centered and fully struck, with a gorgeous cabinet tone.\n\nEstimate: 700 - 1000...",
+      "hammer_price_usd": 1900.0,
+      "currency_original": "USD",
+      "price_original": 1900.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": "https://media.coinarchives.com/8f2ac34dd99b2f25a98b4b3eb57d62b7/img/ponterio/236/image40023.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
         "grade": "VF",
         "grade_numeric": null,
-        "strike_score": 2,
-        "surface_score": 2,
+        "strike_score": 6,
+        "surface_score": 5,
         "details_grade": null,
         "certification_url": null
       },

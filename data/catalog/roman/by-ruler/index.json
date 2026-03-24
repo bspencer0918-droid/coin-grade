@@ -8,10 +8,17 @@
       "data_url": "roman/by-ruler/antoninus-pius.json"
     },
     {
+      "name": "Arcadius",
+      "slug": "arcadius",
+      "reign": "",
+      "sale_count": 1,
+      "data_url": "roman/by-ruler/arcadius.json"
+    },
+    {
       "name": "Augustus",
       "slug": "augustus",
       "reign": "",
-      "sale_count": 2,
+      "sale_count": 11,
       "data_url": "roman/by-ruler/augustus.json"
     },
     {
@@ -22,10 +29,17 @@
       "data_url": "roman/by-ruler/aurelian.json"
     },
     {
+      "name": "Caracalla",
+      "slug": "caracalla",
+      "reign": "",
+      "sale_count": 3,
+      "data_url": "roman/by-ruler/caracalla.json"
+    },
+    {
       "name": "Claudius",
       "slug": "claudius",
       "reign": "",
-      "sale_count": 1,
+      "sale_count": 2,
       "data_url": "roman/by-ruler/claudius.json"
     },
     {
@@ -57,6 +71,20 @@
       "data_url": "roman/by-ruler/elagabalus.json"
     },
     {
+      "name": "Gallienus",
+      "slug": "gallienus",
+      "reign": "",
+      "sale_count": 2,
+      "data_url": "roman/by-ruler/gallienus.json"
+    },
+    {
+      "name": "Geta",
+      "slug": "geta",
+      "reign": "",
+      "sale_count": 1,
+      "data_url": "roman/by-ruler/geta.json"
+    },
+    {
       "name": "Gordian III",
       "slug": "gordian-iii",
       "reign": "",
@@ -74,29 +102,92 @@
       "name": "Julius Caesar",
       "slug": "julius-caesar",
       "reign": "",
-      "sale_count": 2,
+      "sale_count": 6,
       "data_url": "roman/by-ruler/julius-caesar.json"
+    },
+    {
+      "name": "Libius Severus",
+      "slug": "libius-severus",
+      "reign": "",
+      "sale_count": 1,
+      "data_url": "roman/by-ruler/libius-severus.json"
+    },
+    {
+      "name": "Marcus Aurelius",
+      "slug": "marcus-aurelius",
+      "reign": "",
+      "sale_count": 2,
+      "data_url": "roman/by-ruler/marcus-aurelius.json"
+    },
+    {
+      "name": "Mark Antony",
+      "slug": "mark-antony",
+      "reign": "",
+      "sale_count": 1,
+      "data_url": "roman/by-ruler/mark-antony.json"
+    },
+    {
+      "name": "Maximian",
+      "slug": "maximian",
+      "reign": "",
+      "sale_count": 1,
+      "data_url": "roman/by-ruler/maximian.json"
     },
     {
       "name": "Nero",
       "slug": "nero",
       "reign": "",
-      "sale_count": 1,
+      "sale_count": 3,
       "data_url": "roman/by-ruler/nero.json"
+    },
+    {
+      "name": "Nerva",
+      "slug": "nerva",
+      "reign": "",
+      "sale_count": 2,
+      "data_url": "roman/by-ruler/nerva.json"
+    },
+    {
+      "name": "Otho",
+      "slug": "otho",
+      "reign": "",
+      "sale_count": 1,
+      "data_url": "roman/by-ruler/otho.json"
     },
     {
       "name": "Philip I",
       "slug": "philip-i",
       "reign": "",
-      "sale_count": 1,
+      "sale_count": 2,
       "data_url": "roman/by-ruler/philip-i.json"
     },
     {
-      "name": "Severus Alexander",
-      "slug": "severus-alexander",
+      "name": "Theodosius I",
+      "slug": "theodosius-i",
       "reign": "",
       "sale_count": 1,
-      "data_url": "roman/by-ruler/severus-alexander.json"
+      "data_url": "roman/by-ruler/theodosius-i.json"
+    },
+    {
+      "name": "Tiberius",
+      "slug": "tiberius",
+      "reign": "",
+      "sale_count": 2,
+      "data_url": "roman/by-ruler/tiberius.json"
+    },
+    {
+      "name": "Trajan",
+      "slug": "trajan",
+      "reign": "",
+      "sale_count": 2,
+      "data_url": "roman/by-ruler/trajan.json"
+    },
+    {
+      "name": "Vespasian",
+      "slug": "vespasian",
+      "reign": "",
+      "sale_count": 2,
+      "data_url": "roman/by-ruler/vespasian.json"
     }
   ]
 }

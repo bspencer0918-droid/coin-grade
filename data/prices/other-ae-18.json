@@ -4,23 +4,23 @@
   "ruler": null,
   "ruler_normalized": null,
   "dynasty": null,
+  "ruler_dates": null,
   "denomination": "AE 18",
   "metal": "unknown",
   "sale_count": 2,
-  "realized_count": 0,
-  "fixed_price_count": 2,
+  "realized_count": 1,
+  "fixed_price_count": 1,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 60.0,
-    "max": 95.0
+    "max": 60.0
   },
-  "median_price_usd": 77.5,
+  "median_price_usd": 60.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "XF": 1,
-    "VG": 1
+    "XF": 2
   },
-  "thumbnail_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid1661_combined.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/5fff62f486377c2345d102a9246a3204/img/ponterio/236/image45443.jpg",
   "sales": [
     {
       "id": "mashops-67307da340ff",
@@ -54,22 +54,22 @@
       }
     },
     {
-      "id": "mashops-bf8eb2e4e28b",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=1410",
-      "title": "AE18 Sev.Alexander, AD 222-235  NGC VG",
-      "description": "AE18 Sev.Alexander, AD 222-235  NGC VG",
+      "id": "coinarchives-579b7884d847",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2695546&AucID=6923&Lot=45443&Val=85229b36bcf9271a95877e101f170303",
+      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 45443 \u2014 GETA , as Caesar, A.D. 198-209. BITHYNIA, Heraclea. AE 18mm. NGC EF. Edge Chips.\nTo view all items from the Cookie Family Collection, click  here.\nBMC-48. Obverse: Bare bust of Geta right; Reverse: He",
+      "description": "GETA , as Caesar, A.D. 198-209. BITHYNIA, Heraclea. AE 18mm. NGC EF. Edge Chips.\nTo view all items from the Cookie Family Collection, click  here.\nBMC-48. Obverse: Bare bust of Geta right; Reverse: Helmeted head of Athena right.\n\nFrom the Cookie Family Collection.\n\nEx: Harlan Berk (private purchase, with tag).\n\nEstimate: 50 - 100...",
       "hammer_price_usd": 60.0,
       "currency_original": "USD",
       "price_original": 60.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid1410_ngc6828080-006_obv_c.jpg",
+      "sale_date": "2026-01-16",
+      "image_url": "https://media.coinarchives.com/5fff62f486377c2345d102a9246a3204/img/ponterio/236/image45443.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
-        "grade": "VG",
+        "grade": "XF",
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,

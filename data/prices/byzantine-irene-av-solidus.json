@@ -1,0 +1,89 @@
+{
+  "slug": "byzantine-irene-av-solidus",
+  "category": "byzantine",
+  "ruler": "Irene",
+  "ruler_normalized": "irene",
+  "dynasty": "Isaurian",
+  "ruler_dates": "AD 797\u2013802",
+  "denomination": "AV Solidus",
+  "metal": "gold",
+  "sale_count": 2,
+  "realized_count": 2,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 5000.0,
+    "max": 6000.0
+  },
+  "median_price_usd": 5500.0,
+  "last_sale_date": "2026-01-22",
+  "grade_distribution": {
+    "MS": 1,
+    "AU": 1
+  },
+  "thumbnail_url": "https://media.coinarchives.com/f4f68e4d319c737811e02c2d95e25cd7/img/heritage/3130/image36108.jpg",
+  "sales": [
+    {
+      "id": "coinarchives-427785905ad5",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687259&AucID=6921&Lot=36108&Val=76e30d5d5b34ac7f34d9004daddf13dd",
+      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3130, Lot 36108 \u2014 Ancients\nIrene, Sole Reign (AD 797-802). AV solidus (20mm, 4.38 gm, 6h). NGC MS 4/5 - 5/5. Constantinople. \u0404IRIhH-bASILISSH, bust of Irene facing, wearing loros and crown with pendilia, two pinnacles,",
+      "description": "Ancients\nIrene, Sole Reign (AD 797-802). AV solidus (20mm, 4.38 gm, 6h). NGC MS 4/5 - 5/5. Constantinople. \u0404IRIhH-bASILISSH, bust of Irene facing, wearing loros and crown with pendilia, two pinnacles, and cross in center, globus cruciger in right hand, transverse cruciform scepter in left / \u2022-\u0404IRIhH-bASILISSH \u2d32, bust of Irene facing, wearing loros and crown with pendilia, two pinnacles, and cross in center, globus cruciger in right hand, transverse cruciform scepter in left. Sear 1599. DOC 1a....",
+      "hammer_price_usd": 5000.0,
+      "currency_original": "USD",
+      "price_original": 5000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-22",
+      "image_url": "https://media.coinarchives.com/f4f68e4d319c737811e02c2d95e25cd7/img/heritage/3130/image36108.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-676865681670",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687260&AucID=6921&Lot=36109&Val=8603027fcba5605efa172bc339b484ba",
+      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3130, Lot 36109 \u2014 Ancients\nIrene, Sole Reign (AD 797-802). AV solidus (20mm, 4.47 gm, 5h). NGC Choice AU 5/5 - 3/5, brushed. Constantinople. \u0404IRIhH-bASILISSH, bust of Irene facing, wearing loros and crown with pendilia",
+      "description": "Ancients\nIrene, Sole Reign (AD 797-802). AV solidus (20mm, 4.47 gm, 5h). NGC Choice AU 5/5 - 3/5, brushed. Constantinople. \u0404IRIhH-bASILISSH, bust of Irene facing, wearing loros and crown with pendilia, two pinnacles, and cross in center, globus cruciger in right hand, transverse cruciform scepter in left / \u2022-\u0404IRIhH-bASILISSH X, bust of Irene facing, wearing loros and crown with pendilia, two pinnacles, and cross in center, globus cruciger in right hand, transverse cruciform scepter in left. Se...",
+      "hammer_price_usd": 6000.0,
+      "currency_original": "USD",
+      "price_original": 6000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-22",
+      "image_url": "https://media.coinarchives.com/865e2f99495aeb94a6f92fae865b2520/img/heritage/3130/image36109.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

@@ -4,22 +4,27 @@
   "ruler": null,
   "ruler_normalized": null,
   "dynasty": null,
+  "ruler_dates": null,
   "denomination": "AE Follis",
   "metal": "bronze",
-  "sale_count": 1,
-  "realized_count": 0,
+  "sale_count": 11,
+  "realized_count": 10,
   "fixed_price_count": 1,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 65.0,
-    "max": 65.0
+    "min": 10.0,
+    "max": 1000.0
   },
-  "median_price_usd": 65.0,
+  "median_price_usd": 130.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "VG": 1
+    "VG": 1,
+    "VF": 3,
+    "F": 1,
+    "MS": 3,
+    "AU": 3
   },
-  "thumbnail_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid1436_combined.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/5bfe673089edf02cc31a79609380df29/img/heritage/61557/image25016.jpg",
   "sales": [
     {
       "id": "mashops-f1c61419be0c",
@@ -38,6 +43,316 @@
         "verified": false,
         "cert_number": null,
         "grade": "VG",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-5097eda23dd4",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2678665&AucID=6872&Lot=25016&Val=04df74be5e781a9a2a2367f51bd64089",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61557, Lot 25016 \u2014 Ancients\nJustinian I the Great (AD 527-565). AE follis or 40 nummi (38mm, 5h). NGC Choice VF, light smoothing. Antioch, 3rd officina, Regnal Year 20 (AD 546/547). D N IVSTINI-ANVS PP AVG, helmeted, cu",
+      "description": "Ancients\nJustinian I the Great (AD 527-565). AE follis or 40 nummi (38mm, 5h). NGC Choice VF, light smoothing. Antioch, 3rd officina, Regnal Year 20 (AD 546/547). D N IVSTINI-ANVS PP AVG, helmeted, cuirassed bust of Justinian I facing, globus cruciger in right hand, shield decorated with horseman motif in left; cross in right field / Large M (mark of value); A/N/N/O in left field, X/C (date) in right field, cross above, \u0393 (officina) below, \u03e4H\u03e4\u03a0\u03a0 in exergue. Sear 220.  www.HA.com/TexasAuctionee...",
+      "hammer_price_usd": 300.0,
+      "currency_original": "USD",
+      "price_original": 300.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-29",
+      "image_url": "https://media.coinarchives.com/5bfe673089edf02cc31a79609380df29/img/heritage/61557/image25016.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 6,
+        "surface_score": 6,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-9f25dd9cbce3",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2678670&AucID=6872&Lot=25021&Val=d593f818ba0294018f545d4eb2baafc6",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61557, Lot 25021 \u2014 Ancients\nTiberius II Constantine (AD 578-582). AE follis or 40 nummi (31mm, 6h). NGC Choice Fine, scratches. Theoupolis (Antioch), 3rd officina, dated Regnal Year 4 (AD 578). d m TIO CONS-TNT PP AT, c",
+      "description": "Ancients\nTiberius II Constantine (AD 578-582). AE follis or 40 nummi (31mm, 6h). NGC Choice Fine, scratches. Theoupolis (Antioch), 3rd officina, dated Regnal Year 4 (AD 578). d m TIO CONS-TNT PP AT, cuirassed bust of Tiberius II facing, wearing crown with cross and pendilia, globus cruciger in right hand, shield decorated with horseman motif in left / Large M (mark of value); A/N/N/O to left, II/II (date) to right, cross above, \u0393 (officina) below, tHEuP' in exergue. Sear 447.\n\nFrom the A Pugnu...",
+      "hammer_price_usd": 45.0,
+      "currency_original": "USD",
+      "price_original": 45.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-29",
+      "image_url": "https://media.coinarchives.com/47e25c159851bd8cda59c1787b552d2a/img/heritage/61557/image25021.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-83d8cee58e00",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2678678&AucID=6872&Lot=25029&Val=695ec7114e432a4a671d4aab50186ba8",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61557, Lot 25029 \u2014 Ancients\nMaurice Tiberius (AD 582-602). AE follis or 40 nummi (32mm, 6h). NGC VF. Theoupolis (Antioch), dated Regnal Year 5 (AD 586/7). \u03a0IN\u039bIOC S - TIANTAPPV, facing bust of Maurice Tiberius in consul",
+      "description": "Ancients\nMaurice Tiberius (AD 582-602). AE follis or 40 nummi (32mm, 6h). NGC VF. Theoupolis (Antioch), dated Regnal Year 5 (AD 586/7). \u03a0IN\u039bIOC S - TIANTAPPV, facing bust of Maurice Tiberius in consular robes, wearing crown with pendilia and trefoil ornament, mappa in right hand, scepter surmounted by eagle in left / Large M (mark of value); A/N/N/O in left field, \u03e4 (date) in right field, cross above, tHEuP' in exergue. Sear 532.\n\nFrom the A Pugnus Maximus Collection by Mandy Farris Woods.  ww...",
+      "hammer_price_usd": 100.0,
+      "currency_original": "USD",
+      "price_original": 100.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-29",
+      "image_url": "https://media.coinarchives.com/886ff5d7a822621b49f009707ce58b10/img/heritage/61557/image25029.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-85765b549bc1",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2678679&AucID=6872&Lot=25030&Val=be938bb7e654d64df400968e010bf454",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61557, Lot 25030 \u2014 Ancients\nMaurice Tiberius (AD 582-602). AE follis or 40 nummi (28mm, 1h). NGC Choice VF. Theoupolis (Antioch), 3rd officina, dated Regnal Year 14 (AD 595/6). d N mAur-N P AuT, facing bust of Maurice T",
+      "description": "Ancients\nMaurice Tiberius (AD 582-602). AE follis or 40 nummi (28mm, 1h). NGC Choice VF. Theoupolis (Antioch), 3rd officina, dated Regnal Year 14 (AD 595/6). d N mAur-N P AuT, facing bust of Maurice Tiberius in consular robes, wearing crown with pendilia and trefoil ornament, mappa in right hand, scepter surmounted by eagle in left / Large M (mark of value); A/N/N/O to left, X/IIII to right, cross above, \u0393 below, tHEuP' in exergue. Sear 533.\n\nFrom the A Pugnus Maximus Collection by Mandy Farri...",
+      "hammer_price_usd": 10.0,
+      "currency_original": "USD",
+      "price_original": 10.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-29",
+      "image_url": "https://media.coinarchives.com/2064b7a80a4522d38de8b58ef7b7966a/img/heritage/61557/image25030.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-7350bbd38ca7",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2722539&AucID=7012&Lot=23225&Val=79d242b53e50889904e891c27a2fabed",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61605, Lot 23225 \u2014 Ancients\nGalerius (AD 305-311). AE follis or BI nummus (26mm, 10.70 gm, 6h). NGC MS 4/5 - 5/5, Silvering. Trier, AD 302-303. MAXIMIANVS NOB CAES, laureate, cuirassed bust of Galerius right, seen from ",
+      "description": "Ancients\nGalerius (AD 305-311). AE follis or BI nummus (26mm, 10.70 gm, 6h). NGC MS 4/5 - 5/5, Silvering. Trier, AD 302-303. MAXIMIANVS NOB CAES, laureate, cuirassed bust of Galerius right, seen from front / GENIO POPV-LI ROMANI, Genius standing facing, towered head left, nude save for chlamys over left shoulder, patera in outstretched right hand, cornucopia cradled in left arm; S-F across fields, ITR in exergue. RIC VI 535b.\n\nEx Heritage Auctions, Auction 231717 (27 April 2017), lot 64114.\n\nG...",
+      "hammer_price_usd": 1000.0,
+      "currency_original": "USD",
+      "price_original": 1000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-15",
+      "image_url": "https://media.coinarchives.com/65bf82014a968a2020f422a92ff0c360/img/heritage/61605/image23225.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-21cc48be3af4",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2722540&AucID=7012&Lot=23226&Val=cba870208018dbfa9dd8c94f85759748",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61605, Lot 23226 \u2014 Ancients\nGalerius, as Caesar (AD 305-311). AE follis or BI nummus (26mm, 5h). NGC MS, Silvering. Heraclea, 1st officina, ca. AD 296. GAL VAL MAXIMIANVS NOB CAES, laureate head of Galerius right / GENI",
+      "description": "Ancients\nGalerius, as Caesar (AD 305-311). AE follis or BI nummus (26mm, 5h). NGC MS, Silvering. Heraclea, 1st officina, ca. AD 296. GAL VAL MAXIMIANVS NOB CAES, laureate head of Galerius right / GENIO POPV-L-I ROMANI, Genius standing facing, modius on head left, nude save for chlamys over left shoulder, pouring liquors from patera in outstretched right hand, cornucopia cradled in left arm; HTA in exergue. RIC VI 18b.\n\nGalerius Valerius Maximianus became Caesar in AD 293 under Diocletian, foll...",
+      "hammer_price_usd": 950.0,
+      "currency_original": "USD",
+      "price_original": 950.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-15",
+      "image_url": "https://media.coinarchives.com/8061861f3a95f077bac1b9d523f2ca9b/img/heritage/61605/image23226.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-9d58aeb01e81",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2695626&AucID=6923&Lot=45523&Val=3d08658e1013bc35d54e0f9bc6cce708",
+      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 45523 \u2014 CONSTANTINIAN PERIOD, Commemorative Series, A.D. 330-340. BI Nummus (Follis), Antioch Mint. NGC MS.\nTo view all items from the Cookie Family Collection, click  here.\nRIC-113. Obverse: Helmeted bust of",
+      "description": "CONSTANTINIAN PERIOD, Commemorative Series, A.D. 330-340. BI Nummus (Follis), Antioch Mint. NGC MS.\nTo view all items from the Cookie Family Collection, click  here.\nRIC-113. Obverse: Helmeted bust of Roma left; Reverse: She-wolf standing left, Romulus and Remus suckling, two stars above.\n\nFrom the Cookie Family Collection.\n\n\nEstimate: 50 - 100...",
+      "hammer_price_usd": 160.0,
+      "currency_original": "USD",
+      "price_original": 160.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": "https://media.coinarchives.com/2cf6c61a4989c25df78aa6a9ee0f297f/img/ponterio/236/image45523.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-8bb78425d0f8",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2695627&AucID=6923&Lot=45524&Val=3dfffb42a7cff186578c6222b536a920",
+      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 45524 \u2014 CONSTANTINIAN PERIOD, Commemorative Series A.D. 330-340. BI Nummus (Follis). Nicomedia Mint, A.D. 330-335. NGC AU.\nTo view all items from the Cookie Family Collection, click  here.\nRIC-196. Obverse: H",
+      "description": "CONSTANTINIAN PERIOD, Commemorative Series A.D. 330-340. BI Nummus (Follis). Nicomedia Mint, A.D. 330-335. NGC AU.\nTo view all items from the Cookie Family Collection, click  here.\nRIC-196. Obverse: Helmeted bust of Constantinopolis l., wearing mantle and holding sceptre over shoulder; Reverse: Victory standing facing on prow, head l., holding sceptre and shield.\n\nFrom the Cookie Family Collection.\n\n\nEstimate: 30 - 50...",
+      "hammer_price_usd": 100.0,
+      "currency_original": "USD",
+      "price_original": 100.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": "https://media.coinarchives.com/bf72d713d10b9b03fe58f1b8d1b24525/img/ponterio/236/image45524.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-2cd699771eaa",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2695630&AucID=6923&Lot=45527&Val=9d88eadde70e285d62497e2278ff672b",
+      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 45527 \u2014 CONSTANTIUS II , as Caesar, A.D. 324-337. BI Nummus (Follis), Treveri Mint, A.D. 330-331. NGC Ch AU.\nTo view all items from the Cookie Family Collection, click  here.\nRIC-521. Obverse: Laureate bust r",
+      "description": "CONSTANTIUS II , as Caesar, A.D. 324-337. BI Nummus (Follis), Treveri Mint, A.D. 330-331. NGC Ch AU.\nTo view all items from the Cookie Family Collection, click  here.\nRIC-521. Obverse: Laureate bust right; Reverse: Two soldiers standing facing each other holding spears in outer hand and shield in other.\n\nFrom the Cookie Family Collection.\n\n\nEstimate: 50 - 100...",
+      "hammer_price_usd": 40.0,
+      "currency_original": "USD",
+      "price_original": 40.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": "https://media.coinarchives.com/e9780a7a6768d9e82ec3511b30278b74/img/ponterio/236/image45527.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-40e74ad6ac46",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2670572&AucID=6841&Lot=24110&Val=dbb7318c39f59e576a5a9986cd518751",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61574, Lot 24110 \u2014 Ancients\nLicinius I (AD 308-324). BI follis or reduced nummus (22mm, 6h). NGC Choice AU\u2605. Alexandria, ca. AD 316-317. IMP C VAL LICIN LICINIVS P F AVG, laureate head of Licinius I right / IOVI CONSER-",
+      "description": "Ancients\nLicinius I (AD 308-324). BI follis or reduced nummus (22mm, 6h). NGC Choice AU\u2605. Alexandria, ca. AD 316-317. IMP C VAL LICIN LICINIVS P F AVG, laureate head of Licinius I right / IOVI CONSER-VATORI AVGG, Jupiter standing facing, head left, nude save for chlamys across shoulders, Victory standing right on globe in outstretched right hand, grounded scepter in left, eagle standing left before, wreath in beak, head reverted; K in left field, wreath above X / A in right field, ALE in exerg...",
+      "hammer_price_usd": 600.0,
+      "currency_original": "USD",
+      "price_original": 600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-07",
+      "image_url": "https://media.coinarchives.com/cb4d2a747cec7bf9d85c17292b050a75/img/heritage/61574/image24110.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,

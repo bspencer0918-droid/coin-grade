@@ -4,56 +4,28 @@
   "ruler": null,
   "ruler_normalized": null,
   "dynasty": null,
+  "ruler_dates": null,
   "denomination": "AV Stater",
   "metal": "gold",
-  "sale_count": 3,
-  "realized_count": 1,
+  "sale_count": 10,
+  "realized_count": 8,
   "fixed_price_count": 2,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 55000.0,
-    "max": 55000.0
+    "min": 1100.0,
+    "max": 440000.0
   },
-  "median_price_usd": 55000.0,
+  "median_price_usd": 22000.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "AU": 1,
-    "MS": 1,
-    "G": 1
+    "MS": 4,
+    "G": 2,
+    "VF": 1,
+    "AU": 2,
+    "XF": 1
   },
-  "thumbnail_url": "https://img.ma-shops.com/worldmoneyshop/pic/thumb/1829_bosporos-2-1.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/cf309aa8fb8ab0994882dc83bf96f28e/img/heritage/3129/image33026.jpg",
   "sales": [
-    {
-      "id": "cng-5ac1892b0d2d",
-      "source": "cng",
-      "listing_type": "auction_realized",
-      "lot_url": "https://auctions.cngcoins.com/lots/view/4-IX40JK",
-      "title": "Triton XXIX Lot: 16. CALABRIA, Tarentum. Circa 281-276 BC. AV Stater (18mm, 8.56 g, 7h). NGC Ch AU, 5/5, 4/5, Fine Style.",
-      "description": "Greek, Gold Estimated:\u00a0$  50 000 Sold\u00a0Price:\u00a0$  55 000",
-      "hammer_price_usd": 55000.0,
-      "currency_original": "USD",
-      "price_original": 55000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "mashops-38b44822217e",
       "source": "mashops",
@@ -105,6 +77,254 @@
         "grade_numeric": null,
         "strike_score": 4,
         "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-5f4251798c37",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687292&AucID=6920&Lot=33026&Val=b99b0bca79f8cc691e9f2f019b403ab1",
+      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3129, Lot 33026 \u2014 Ancients\nLYDIAN KINGDOM. Croesus (561-546 BC). AV stater (18mm, 10.80 gm). NGC Choice MS 5/5 - 5/5. Croeseid \"heavy\" standard, Sardes, prototype issue, ca. 561-550 BC. Confronted archaic style forepar",
+      "description": "Ancients\nLYDIAN KINGDOM. Croesus (561-546 BC). AV stater (18mm, 10.80 gm). NGC Choice MS 5/5 - 5/5. Croeseid \"heavy\" standard, Sardes, prototype issue, ca. 561-550 BC. Confronted archaic style foreparts of lion right (on left) with radiate sun above eye, and bull left (on right), each with outstretched foreleg / Two incuse squares, side-by-side, with irregular interior surfaces. Berk \"100 Greatest Ancient Coins,\" 9.1 (one same reverse die). McClean 8635. In impeccable quality, this prototype i...",
+      "hammer_price_usd": 320000.0,
+      "currency_original": "USD",
+      "price_original": 320000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-12",
+      "image_url": "https://media.coinarchives.com/cf309aa8fb8ab0994882dc83bf96f28e/img/heritage/3129/image33026.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-227ca3085877",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687293&AucID=6920&Lot=33027&Val=fbc5f00263a10be2cb899a0668600c4c",
+      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3129, Lot 33027 \u2014 Ancients\nLYDIAN KINGDOM. Croesus (561-546 BC). AV stater (16mm, 10.77 gm). NGC Gem MS\u2605 5/5 - 5/5, Fine Style. Croeseid \"heavy\" standard, Sardes, ca. 561-550 BC. Confronted foreparts of lion right (on ",
+      "description": "Ancients\nLYDIAN KINGDOM. Croesus (561-546 BC). AV stater (16mm, 10.77 gm). NGC Gem MS\u2605 5/5 - 5/5, Fine Style. Croeseid \"heavy\" standard, Sardes, ca. 561-550 BC. Confronted foreparts of lion right (on left) and bull left (on right), each with outstretched foreleg / Two square punches of unequal size, side by side, with irregular interior surfaces. Rosen 660. BMC Lydia 30. Boston MFA 2068. Gulbenkian 756 (same dies). Berk \"100 Greatest Ancient Coins,\" 9.1 (one same reverse die). Glistening in th...",
+      "hammer_price_usd": 440000.0,
+      "currency_original": "USD",
+      "price_original": 440000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-12",
+      "image_url": "https://media.coinarchives.com/528ab5ec255a71c12fec7cba53be0a3e/img/heritage/3129/image33027.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-8aa79b203c39",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687300&AucID=6920&Lot=33034&Val=77cc7f6a211cd4632d522888d16c1411",
+      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3129, Lot 33034 \u2014 Ancients\nLYDIAN KINGDOM. Croesus (561-546 BC). AV stater (15mm, 8.09 gm). NGC Choice MS 5/5 - 5/5. Croeseid \"light\" standard, Sardes, ca. 546-521 BC. Confronted foreparts of lion right (on left) and b",
+      "description": "Ancients\nLYDIAN KINGDOM. Croesus (561-546 BC). AV stater (15mm, 8.09 gm). NGC Choice MS 5/5 - 5/5. Croeseid \"light\" standard, Sardes, ca. 546-521 BC. Confronted foreparts of lion right (on left) and bull left (on right), each with outstretched foreleg / Two square punches of unequal size, side by side, with irregular interior surfaces. Boston MFA 2077. Carradice 8-9. Gulbenkian 757-758. The firm strike on this later issue of Croesus displays a more abstract style than its earlier heavy standar...",
+      "hammer_price_usd": 75000.0,
+      "currency_original": "USD",
+      "price_original": 75000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-12",
+      "image_url": "https://media.coinarchives.com/8706e15a1586c2979cba68fd89f8f5cf/img/heritage/3129/image33034.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-af33f89d1e21",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2649152&AucID=6756&Lot=31011&Val=5ba44647de4d640ca62943f38a4e88d5",
+      "title": "Heritage World Coin Auctions - Dallas Signature Sale 3126, Lot 31011 \u2014 Ancients\nPONTIC KINGDOM. Mithradates VI Eupator (120-63 BC). AV stater (21mm, 8.32 gm, 11h). NGC MS 5/5 - 3/5, Fine Style, edge bend, flan flaw, marks. Dated Bithyno-Pontic year 209 (89/88 BC), Pergam",
+      "description": "Ancients\nPONTIC KINGDOM. Mithradates VI Eupator (120-63 BC). AV stater (21mm, 8.32 gm, 11h). NGC MS 5/5 - 3/5, Fine Style, edge bend, flan flaw, marks. Dated Bithyno-Pontic year 209 (89/88 BC), Pergamon. Diademed head of Mithradates right, with wind-blown hair / BA\u03a3I\u039bE\u03a9\u03a3 / MI\u0398PA\u0394ATOY / EY\u03a0ATOPO\u03a3, stag grazing left; star and crescent to left, \u0398\u03a3 (date) above AX monogram to right, all within ivy wreath. HGC 7, 333. SNG Black Sea 1028. Cf. SNG Copenhagen 233 (date). A gorgeous portrait on nicely ...",
+      "hammer_price_usd": 22000.0,
+      "currency_original": "USD",
+      "price_original": 22000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-06",
+      "image_url": "https://media.coinarchives.com/b3bbdec984c5a1437e0b1d13d9e03285/img/heritage/3126/image31011.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-2eff4842fec9",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2649155&AucID=6756&Lot=31014&Val=28f4f73c00d8340ef49bb41138557200",
+      "title": "Heritage World Coin Auctions - Dallas Signature Sale 3126, Lot 31014 \u2014 Ancients\nLYDIAN KINGDOM. Croesus (561-546 BC). AV stater (18mm, 10.73 gm). NGC Choice VF 4/5 - 3/5. Croeseid \"heavy\" standard, Sardes, ca. 561-550 BC. Confronted foreparts of lion right (on left) and ",
+      "description": "Ancients\nLYDIAN KINGDOM. Croesus (561-546 BC). AV stater (18mm, 10.73 gm). NGC Choice VF 4/5 - 3/5. Croeseid \"heavy\" standard, Sardes, ca. 561-550 BC. Confronted foreparts of lion right (on left) and bull left (on right), each with outstretched foreleg / Two square punches of unequal size, side by side, with irregular interior surfaces. Rosen 660. BMC Lydia 30. Boston MFA 2068. Gulbenkian 756. Excellently centered on the unusually shaped butterscotch flan.\n\nEx Auction World Co., Ltd., Auction ...",
+      "hammer_price_usd": 10500.0,
+      "currency_original": "USD",
+      "price_original": 10500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-06",
+      "image_url": "https://media.coinarchives.com/2f59a6f607349e531d35603cb6597e9d/img/heritage/3126/image31014.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-53ca1e9cc3df",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687354&AucID=6920&Lot=34024&Val=fb2d60692e9578076078153f8561b608",
+      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3129, Lot 34024 \u2014 Ancients\nBACTRIAN KINGDOM. Diodotus I, as Satrap (ca. 255-235 BC). AV stater (18mm, 8.40 gm, 7h). NGC AU 5/5 - 4/5, Fine Style. First Diodotid Mint (Holt and Kritt's \"Mint A\"), probably Ai Khanoum (or",
+      "description": "Ancients\nBACTRIAN KINGDOM. Diodotus I, as Satrap (ca. 255-235 BC). AV stater (18mm, 8.40 gm, 7h). NGC AU 5/5 - 4/5, Fine Style. First Diodotid Mint (Holt and Kritt's \"Mint A\"), probably Ai Khanoum (or nearby), in the name of Antiochus II, ca. 255-246 BC. Diademed head of Diodotus I right / \u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 / \u0391\u039d\u03a4\u0399\u039f\u03a7\u039f\u03a5, Zeus, nude, seen from behind, advancing left, brandishing thunderbolt in raised right hand, aegis draped over outstretched left arm; N above eagle standing left in inner left field. SC 6...",
+      "hammer_price_usd": 22000.0,
+      "currency_original": "USD",
+      "price_original": 22000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-12",
+      "image_url": "https://media.coinarchives.com/d4705a100e9d6f36314c616c370b8a5e/img/heritage/3129/image34024.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-865d4b1314b8",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2710206&AucID=6990&Lot=424&Val=93593686b21976a596a63b62e8665b83",
+      "title": "Ira & Larry Goldberg Coins & Collectibles - Auction 150, Lot 424 \u2014 Britain, Regni-Atrebates. Ca. 60-20 BC. Gold Stater (5.64g) 21mm. Obverse blank. Reverse: Charioteer, horse, wheel. NGC Choice XF; Strike: 4/5, Surface: 3/5.  Plenty of luster remains and lightly tone",
+      "description": "Britain, Regni-Atrebates. Ca. 60-20 BC. Gold Stater (5.64g) 21mm. Obverse blank. Reverse: Charioteer, horse, wheel. NGC Choice XF; Strike: 4/5, Surface: 3/5.  Plenty of luster remains and lightly toned.  Estimated Value $750 - UP\nEx The Peter Preovolos Collection....",
+      "hammer_price_usd": 1100.0,
+      "currency_original": "USD",
+      "price_original": 1100.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-02-23",
+      "image_url": "https://media.coinarchives.com/2b8b15d46bab02a3375542ab218d86dd/img/goldberg/150/image00424.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-b477293885f3",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2710207&AucID=6990&Lot=425&Val=feafce3536d9f43acb1ceed87fd225f1",
+      "title": "Ira & Larry Goldberg Coins & Collectibles - Auction 150, Lot 425 \u2014 Britain, Corieltavi, ca. 55/45 BC (or later). Gold Stater (5.59g) 19mm. Devolved Apollo head. Reverse: disjointed horse. NGC AU; Strike: 4/5, Surface: 3/5.  A choice example for this Celtic issue.  Es",
+      "description": "Britain, Corieltavi, ca. 55/45 BC (or later). Gold Stater (5.59g) 19mm. Devolved Apollo head. Reverse: disjointed horse. NGC AU; Strike: 4/5, Surface: 3/5.  A choice example for this Celtic issue.  Estimated Value $750 - UP\nEx The Peter Preovolos Collection....",
+      "hammer_price_usd": 1200.0,
+      "currency_original": "USD",
+      "price_original": 1200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-02-23",
+      "image_url": "https://media.coinarchives.com/b1d2be3411faa2f395f5125dfbec25ba/img/goldberg/150/image00425.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
         "details_grade": null,
         "certification_url": null
       },

@@ -1,0 +1,57 @@
+{
+  "slug": "celtic-ar-drachm",
+  "category": "celtic",
+  "ruler": null,
+  "ruler_normalized": null,
+  "dynasty": null,
+  "ruler_dates": null,
+  "denomination": "AR Drachm",
+  "metal": "gold",
+  "sale_count": 1,
+  "realized_count": 1,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 65000.0,
+    "max": 65000.0
+  },
+  "median_price_usd": 65000.0,
+  "last_sale_date": "2026-01-12",
+  "grade_distribution": {
+    "MS": 1
+  },
+  "thumbnail_url": "https://media.coinarchives.com/f7990ef78b3ada9944436af97cad88e2/img/heritage/3129/image33002.jpg",
+  "sales": [
+    {
+      "id": "coinarchives-e6080fa2cf82",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687268&AucID=6920&Lot=33002&Val=6f0fb64ee25170e3ca0d9dc8bce1d6a0",
+      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3129, Lot 33002 \u2014 Ancients\nSICILY. Syracuse. Hieron II (ca. 275-215 BC). AV decadrachm (16mm, 4.22 gm, 12h). NGC Choice MS 5/5 - 5/5. Ca. 220-217 BC. Head of Persephone left, wreathed with grain ears; bucranium behind ",
+      "description": "Ancients\nSICILY. Syracuse. Hieron II (ca. 275-215 BC). AV decadrachm (16mm, 4.22 gm, 12h). NGC Choice MS 5/5 - 5/5. Ca. 220-217 BC. Head of Persephone left, wreathed with grain ears; bucranium behind / IEP\u03a9NO\u03a3, Charioteer driving fast biga galloping left, reins in left hand, kentron in right; A below. HGC 2, 1539 (hemistater or drachm). BMC 518. Well centered strike and flashy surfaces. \n\nFrom The Cambridge Collection. Ex Classical Numismatic Group, Mail Bid Sale 60 (22 May 2002), lot 218; Ban...",
+      "hammer_price_usd": 65000.0,
+      "currency_original": "USD",
+      "price_original": 65000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-12",
+      "image_url": "https://media.coinarchives.com/f7990ef78b3ada9944436af97cad88e2/img/heritage/3129/image33002.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

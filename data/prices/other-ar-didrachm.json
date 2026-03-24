@@ -4,27 +4,58 @@
   "ruler": null,
   "ruler_normalized": null,
   "dynasty": null,
+  "ruler_dates": null,
   "denomination": "AR Didrachm",
   "metal": "silver",
-  "sale_count": 15,
-  "realized_count": 0,
-  "fixed_price_count": 15,
+  "sale_count": 17,
+  "realized_count": 3,
+  "fixed_price_count": 14,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 232.05,
-    "max": 3005.02
+    "min": 400.0,
+    "max": 575.0
   },
-  "median_price_usd": 795.0,
+  "median_price_usd": 525.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
     "XF": 7,
-    "G": 1,
-    "F": 1,
+    "VF": 6,
     "AU": 2,
-    "VF": 4
+    "G": 2
   },
-  "thumbnail_url": "https://img.ma-shops.com/dicher/pic/thumb/artid77_combined.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/555732db9fa1f53189ea501114bc3680/img/ponterio/236/image45162.jpg",
   "sales": [
+    {
+      "id": "mashops-f4462792fa1a",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9034",
+      "title": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, Agesidamos, magistrate, struck c. 250-230 NGC Ch XF Strike: 4/5 Surface: 3/5",
+      "description": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, Agesidamos, magistrate, struck c. 250-230 NGC Ch XF Strike: 4/5 Surface: 3/5",
+      "hammer_price_usd": 975.0,
+      "currency_original": "USD",
+      "price_original": 975.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid9034_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "mashops-f6d4aa4298c1",
       "source": "mashops",
@@ -45,6 +76,99 @@
         "grade_numeric": null,
         "strike_score": 3,
         "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-29ae7f1a2f69",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9037",
+      "title": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
+      "description": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
+      "hammer_price_usd": 975.0,
+      "currency_original": "USD",
+      "price_original": 975.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid9037_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-4a205ef28cbd",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8971",
+      "title": "AR Didrachm Azemilkos, c.349-311/0 BC Phoenicia. Tyre. Azemilkos, ca. 349-311/0 B.C.E. AR Didrachm, Dated Year 9 (341/ NGC Ch VF",
+      "description": "AR Didrachm Azemilkos, c.349-311/0 BC Phoenicia. Tyre. Azemilkos, ca. 349-311/0 B.C.E. AR Didrachm, Dated Year 9 (341/ NGC Ch VF",
+      "hammer_price_usd": 975.0,
+      "currency_original": "USD",
+      "price_original": 975.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8971_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-84ee967f5a33",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/cdma/item.php?id=1066365",
+      "title": "Didrachm ca. 280-272 BC Tarentca. Calabria, Tarentum, Silver, NGC Ch AU 5/5-4/5",
+      "description": "Didrachm ca. 280-272 BC Tarentca. Calabria, Tarentum, Silver, NGC Ch AU 5/5-4/5",
+      "hammer_price_usd": 3005.02,
+      "currency_original": "USD",
+      "price_original": 3005.02,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/cdma/pic/thumb/1066365.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
         "details_grade": null,
         "certification_url": null
       },
@@ -104,6 +228,37 @@
         "verified": false,
         "cert_number": null,
         "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-177f9d1eb75a",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=7783",
+      "title": "AR Didrachm Julia Domna, AD 193-217 CAPPADOCIA, Caesaraea-Eusebia. Julia Domna. Augusta, AD 193-217. AR Didrachm (21 NGC AU Strike: 4/5 Surface: 3/5",
+      "description": "AR Didrachm Julia Domna, AD 193-217 CAPPADOCIA, Caesaraea-Eusebia. Julia Domna. Augusta, AD 193-217. AR Didrachm (21 NGC AU Strike: 4/5 Surface: 3/5",
+      "hammer_price_usd": 495.0,
+      "currency_original": "USD",
+      "price_original": 495.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid7783_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
         "grade_numeric": null,
         "strike_score": 4,
         "surface_score": 3,
@@ -212,192 +367,6 @@
       }
     },
     {
-      "id": "mashops-de7a9dcdcaf3",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/cdma/item.php?id=1066372",
-      "title": "Didrachm ca. 281-240 BC Tarentca. Coin, Calabria, Tarentum, graded, NGC Ch F",
-      "description": "Didrachm ca. 281-240 BC Tarentca. Coin, Calabria, Tarentum, graded, NGC Ch F",
-      "hammer_price_usd": 439.73,
-      "currency_original": "USD",
-      "price_original": 439.73,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/cdma/pic/thumb/1066372.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "F",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-f4462792fa1a",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9034",
-      "title": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, Agesidamos, magistrate, struck c. 250-230 NGC Ch XF Strike: 4/5 Surface: 3/5",
-      "description": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, Agesidamos, magistrate, struck c. 250-230 NGC Ch XF Strike: 4/5 Surface: 3/5",
-      "hammer_price_usd": 975.0,
-      "currency_original": "USD",
-      "price_original": 975.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid9034_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-84ee967f5a33",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/cdma/item.php?id=1066365",
-      "title": "Didrachm ca. 280-272 BC Tarentca. Calabria, Tarentum, Silver, NGC Ch AU 5/5-4/5",
-      "description": "Didrachm ca. 280-272 BC Tarentca. Calabria, Tarentum, Silver, NGC Ch AU 5/5-4/5",
-      "hammer_price_usd": 3005.02,
-      "currency_original": "USD",
-      "price_original": 3005.02,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/cdma/pic/thumb/1066365.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-177f9d1eb75a",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=7783",
-      "title": "AR Didrachm Julia Domna, AD 193-217 CAPPADOCIA, Caesaraea-Eusebia. Julia Domna. Augusta, AD 193-217. AR Didrachm (21 NGC AU Strike: 4/5 Surface: 3/5",
-      "description": "AR Didrachm Julia Domna, AD 193-217 CAPPADOCIA, Caesaraea-Eusebia. Julia Domna. Augusta, AD 193-217. AR Didrachm (21 NGC AU Strike: 4/5 Surface: 3/5",
-      "hammer_price_usd": 495.0,
-      "currency_original": "USD",
-      "price_original": 495.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid7783_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-29ae7f1a2f69",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9037",
-      "title": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
-      "description": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
-      "hammer_price_usd": 975.0,
-      "currency_original": "USD",
-      "price_original": 975.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid9037_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-4a205ef28cbd",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8971",
-      "title": "AR Didrachm Azemilkos, c.349-311/0 BC Phoenicia. Tyre. Azemilkos, ca. 349-311/0 B.C.E. AR Didrachm, Dated Year 9 (341/ NGC Ch VF",
-      "description": "AR Didrachm Azemilkos, c.349-311/0 BC Phoenicia. Tyre. Azemilkos, ca. 349-311/0 B.C.E. AR Didrachm, Dated Year 9 (341/ NGC Ch VF",
-      "hammer_price_usd": 975.0,
-      "currency_original": "USD",
-      "price_original": 975.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8971_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-bcb7628a7a41",
       "source": "mashops",
       "listing_type": "fixed_price",
@@ -479,6 +448,99 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-0ad94f233431",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2695265&AucID=6923&Lot=45162&Val=5abc79e83a51d1519f1febbf1b8f170a",
+      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 45162 \u2014 CARIA. Satrap Pixodaros. AR Didrachm (6.96 gms), Halikarnassos Mint, ca. 341/0-336/5 B.C. NGC Ch VF, Strike: 5/5 Surface: 3/5. Brushed.\nTo view all items from the Peter Jones M.D. Collection, click  h",
+      "description": "CARIA. Satrap Pixodaros. AR Didrachm (6.96 gms), Halikarnassos Mint, ca. 341/0-336/5 B.C. NGC Ch VF, Strike: 5/5 Surface: 3/5. Brushed.\nTo view all items from the Peter Jones M.D. Collection, click  here.\nHN Online-241; Konuk-30. Obverse: Laureate head of Apollo facing slightly right, drapery around neck; Reverse: Zeus Labraundos standing right.\n\nFrom the Peter Jones M.D. Collection.\n\nEx: Classical Numismatic Group Auction 127 (9/2024), Lot # 235 (with ticket).\n\nEstimate: 300 - 500...",
+      "hammer_price_usd": 400.0,
+      "currency_original": "USD",
+      "price_original": 400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": "https://media.coinarchives.com/555732db9fa1f53189ea501114bc3680/img/ponterio/236/image45162.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 6,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-3c4bfd7d0c3a",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2710212&AucID=6990&Lot=430&Val=f9fc0233b988c955725dd31a451ae512",
+      "title": "Ira & Larry Goldberg Coins & Collectibles - Auction 150, Lot 430 \u2014 Italy. Campana, Neapolis. 4th-3rd Centuries BC. Silver Didrachm (7.68g) 20mm. Head of Nymph r. wearing broad diadem, earring and necklace, dolphins around wavy hair. Reverse: Man-headed bull (off flan",
+      "description": "Italy. Campana, Neapolis. 4th-3rd Centuries BC. Silver Didrachm (7.68g) 20mm. Head of Nymph r. wearing broad diadem, earring and necklace, dolphins around wavy hair. Reverse: Man-headed bull (off flan) stg. r. hd. facing, crowned by Nike flying r. S-299; BMC 1, 27. NGC graded Choice Very Fine; Strike: 3/5, Surface: 4/5 Fine Style Lightly toned.  Estimated Value $400 - UP\nEx Peter Preovolos Collection....",
+      "hammer_price_usd": 575.0,
+      "currency_original": "USD",
+      "price_original": 575.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-02-23",
+      "image_url": "https://media.coinarchives.com/ce317d1607049d039b1b3de39ae7d022/img/goldberg/150/image00430.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 3,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-c2b98afd5dd0",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2710274&AucID=6990&Lot=492&Val=cfeb0e637a9cfce62382ba3144b7d67e",
+      "title": "Ira & Larry Goldberg Coins & Collectibles - Auction 150, Lot 492 \u2014 Satraps of Caria. Pixodarus, ca. 341-336/5 BC. Silver Didrachm (6.93g), 18 mm. Flowing hair of Apollo 3/4 facing r. with floral border. Reverse:  Zeus Labraundos st. r. lwith axe and sceptre. Lightly ",
+      "description": "Satraps of Caria. Pixodarus, ca. 341-336/5 BC. Silver Didrachm (6.93g), 18 mm. Flowing hair of Apollo 3/4 facing r. with floral border. Reverse:  Zeus Labraundos st. r. lwith axe and sceptre. Lightly toned. NGC Choice VF; Strike: 5/5; Surface: 4/5.   Estimated Value $400 - UP\nEx The Peter Preovolos Collection....",
+      "hammer_price_usd": 525.0,
+      "currency_original": "USD",
+      "price_original": 525.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-02-23",
+      "image_url": "https://media.coinarchives.com/d656f2a1bdd12010cf23c887f7b9a749/img/goldberg/150/image00492.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 6,
+        "surface_score": 6,
         "details_grade": null,
         "certification_url": null
       },

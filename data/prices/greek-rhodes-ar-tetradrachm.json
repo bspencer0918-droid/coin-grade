@@ -4,22 +4,24 @@
   "ruler": "Rhodes",
   "ruler_normalized": "rhodes",
   "dynasty": "City-State",
+  "ruler_dates": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 1,
-  "realized_count": 0,
+  "sale_count": 2,
+  "realized_count": 1,
   "fixed_price_count": 1,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 2495.0,
-    "max": 2495.0
+    "min": 800.0,
+    "max": 800.0
   },
-  "median_price_usd": 2495.0,
+  "median_price_usd": 800.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "VF": 1
+    "VF": 1,
+    "XF": 1
   },
-  "thumbnail_url": "https://img.ma-shops.com/khouli/pic/thumb/artid7973_ngc6821899-003_obv_c.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/918d15c559960ed281b37b301fb0fa37/img/ponterio/236/image40115.jpg",
   "sales": [
     {
       "id": "mashops-72a5c8b522d4",
@@ -40,6 +42,37 @@
         "grade": "VF",
         "grade_numeric": null,
         "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-b3ebf0f9d7f3",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2694571&AucID=6923&Lot=40115&Val=c9802cfc2709ad2aa6c0144ea540d716",
+      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 40115 \u2014 CARIA. Islands off Caria. Rhodes, ca. 229-205 B.C. AR Tetradrachm (13.00 gms). NGC EF, Strike: 3/5 Surface: 3/5. Light Scratch, Flan Flaws.\nHGC-6, 1432; SNG Cop-754. Eukrates, Magistrate. Obverse: Rad",
+      "description": "CARIA. Islands off Caria. Rhodes, ca. 229-205 B.C. AR Tetradrachm (13.00 gms). NGC EF, Strike: 3/5 Surface: 3/5. Light Scratch, Flan Flaws.\nHGC-6, 1432; SNG Cop-754. Eukrates, Magistrate. Obverse: Radiate head of Helios facing slightly right; Reverse: Rose with bud to right; to left, thunderbolt; name of magistrate (EYKPATH\u03a3) above. Well-centered and struck in high relief. A thin scratch and minor flan flaws are noted on the reverse, but these are largely minimized by the coin's deep cabinet t...",
+      "hammer_price_usd": 800.0,
+      "currency_original": "USD",
+      "price_original": 800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": "https://media.coinarchives.com/918d15c559960ed281b37b301fb0fa37/img/ponterio/236/image40115.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 3,
         "surface_score": 3,
         "details_grade": null,
         "certification_url": null
