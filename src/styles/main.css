@@ -41,17 +41,18 @@
   }
 
   .badge-grade {
-    @apply inline-block px-2 py-0.5 rounded text-xs font-mono font-bold;
+    @apply inline-block px-2 py-0.5 rounded text-xs font-mono font-bold border;
   }
 
-  .badge-ms  { @apply badge-grade bg-emerald-900 text-emerald-300 border border-emerald-700; }
-  .badge-au  { @apply badge-grade bg-teal-900    text-teal-300    border border-teal-700; }
-  .badge-xf  { @apply badge-grade bg-blue-900    text-blue-300    border border-blue-700; }
-  .badge-vf  { @apply badge-grade bg-indigo-900  text-indigo-300  border border-indigo-700; }
-  .badge-f   { @apply badge-grade bg-violet-900  text-violet-300  border border-violet-700; }
-  .badge-vg  { @apply badge-grade bg-purple-900  text-purple-300  border border-purple-700; }
-  .badge-g   { @apply badge-grade bg-stone-800   text-stone-400   border border-stone-600; }
-  .badge-ag  { @apply badge-grade bg-stone-900   text-stone-500   border border-stone-700; }
+  /* NGC grade badges — metallic color palette matching coin grade appearance */
+  .badge-ms  { @apply badge-grade; color: #FFD700; background-color: rgba(255,215,  0,0.15); border-color: rgba(255,215,  0,0.40); } /* Bright Gold  */
+  .badge-au  { @apply badge-grade; color: #E6B800; background-color: rgba(230,184,  0,0.15); border-color: rgba(230,184,  0,0.40); } /* Deep Gold    */
+  .badge-xf  { @apply badge-grade; color: #CD7F32; background-color: rgba(205,127, 50,0.15); border-color: rgba(205,127, 50,0.40); } /* Bronze       */
+  .badge-vf  { @apply badge-grade; color: #B87333; background-color: rgba(184,115, 51,0.15); border-color: rgba(184,115, 51,0.40); } /* Copper       */
+  .badge-f   { @apply badge-grade; color: #A0522D; background-color: rgba(160, 82, 45,0.15); border-color: rgba(160, 82, 45,0.40); } /* Sienna       */
+  .badge-vg  { @apply badge-grade; color: #8B4513; background-color: rgba(139, 69, 19,0.15); border-color: rgba(139, 69, 19,0.40); } /* Saddle Brown */
+  .badge-g   { @apply badge-grade; color: #708090; background-color: rgba(112,128,144,0.15); border-color: rgba(112,128,144,0.40); } /* Slate Grey   */
+  .badge-ag  { @apply badge-grade; color: #4F4F4F; background-color: rgba( 79, 79, 79,0.20); border-color: rgba( 79, 79, 79,0.50); } /* Charcoal     */
 
   .source-badge {
     @apply inline-block px-2 py-0.5 rounded text-xs border;
