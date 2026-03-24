@@ -120,7 +120,14 @@ export function renderCoinPage(coin: CoinDetail): string {
           </div>
           <h1 class="font-display text-3xl text-stone-100 mb-1">${coin.denomination}</h1>
           ${coin.ruler
-            ? `<div class="text-xl text-stone-400">${coin.ruler}${coin.ruler_dates ? ` <span class="text-sm text-stone-600">(${coin.ruler_dates})</span>` : ''}</div>`
+            ? `<div class="text-xl text-stone-400 flex items-center gap-2 flex-wrap">
+                 ${coin.ruler}${coin.ruler_dates ? ` <span class="text-sm text-stone-600">(${coin.ruler_dates})</span>` : ''}
+                 ${coin.ruler_rarity === 'scarce'
+                   ? `<span class="px-2 py-0.5 rounded text-xs border bg-amber-900/40 text-amber-300 border-amber-700">Scarce Reign</span>`
+                   : coin.ruler_rarity === 'common'
+                     ? `<span class="px-2 py-0.5 rounded text-xs border bg-stone-800 text-stone-500 border-stone-600">High Mintage</span>`
+                     : ''}
+               </div>`
             : ''}
 
           <div class="flex flex-wrap gap-6 mt-4">

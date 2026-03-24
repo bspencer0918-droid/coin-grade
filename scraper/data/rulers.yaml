@@ -48,16 +48,19 @@ roman:
     slug: "galba"
     dynasty: "Year of Four Emperors"
     dates: "AD 68–69"
+    rarity: "scarce"
     keywords: ["galba", "ser galba"]
   - name: "Otho"
     slug: "otho"
     dynasty: "Year of Four Emperors"
     dates: "AD 69"
+    rarity: "scarce"
     keywords: ["otho", "m otho"]
   - name: "Vitellius"
     slug: "vitellius"
     dynasty: "Year of Four Emperors"
     dates: "AD 69"
+    rarity: "scarce"
     keywords: ["vitellius", "a vitellius"]
 
   # Flavian dynasty
@@ -129,6 +132,7 @@ roman:
     slug: "geta"
     dynasty: "Severan"
     dates: "AD 209–211"
+    rarity: "scarce"
     keywords: ["geta", "p sept geta"]
   - name: "Elagabalus"
     slug: "elagabalus"
@@ -156,6 +160,7 @@ roman:
     slug: "maximinus-i"
     dynasty: "Crisis of the Third Century"
     dates: "AD 235–238"
+    rarity: "scarce"
     keywords: ["maximinus i", "maximinvs", "c ivl ver maximinvs"]
   - name: "Gordian III"
     slug: "gordian-iii"
@@ -171,6 +176,7 @@ roman:
     slug: "decius"
     dynasty: "Crisis of the Third Century"
     dates: "AD 249–251"
+    rarity: "scarce"
     keywords: ["decius", "traianvs decivs", "trajan decius"]
   - name: "Gallienus"
     slug: "gallienus"
@@ -181,6 +187,7 @@ roman:
     slug: "claudius-ii"
     dynasty: "Crisis of the Third Century"
     dates: "AD 268–270"
+    rarity: "scarce"
     keywords: ["claudius ii", "claudius gothicus", "claud gothicvs"]
   - name: "Aurelian"
     slug: "aurelian"
@@ -208,6 +215,7 @@ roman:
     slug: "constantine-ii"
     dynasty: "Constantinian"
     dates: "AD 337–340"
+    rarity: "scarce"
     keywords: ["constantine ii", "fl cl constantinvs"]
   - name: "Constantius II"
     slug: "constantius-ii"
@@ -218,7 +226,32 @@ roman:
     slug: "julian-ii"
     dynasty: "Constantinian"
     dates: "AD 360–363"
+    rarity: "scarce"
     keywords: ["julian ii", "julian the apostate", "fl cl ivlianvs"]
+
+  # Jovian — 8 month reign between Julian and Valentinian
+  - name: "Jovian"
+    slug: "jovian"
+    dynasty: "Constantinian"
+    dates: "AD 363–364"
+    rarity: "scarce"
+    keywords: ["jovian", "iovianvs", "d n iovianvs"]
+
+  # Procopius — usurper, very rare solidi
+  - name: "Procopius"
+    slug: "procopius"
+    dynasty: "Constantinian"
+    dates: "AD 365–366"
+    rarity: "scarce"
+    keywords: ["procopius", "procopivs"]
+
+  # Magnentius — Western usurper, significant bronze coinage
+  - name: "Magnentius"
+    slug: "magnentius"
+    dynasty: "Constantinian"
+    dates: "AD 350–353"
+    rarity: "scarce"
+    keywords: ["magnentius", "magnentivs", "mag magnentivs"]
 
   # Late Empire
   - name: "Valentinian I"
@@ -255,21 +288,25 @@ roman:
     slug: "libius-severus"
     dynasty: "Late West Roman"
     dates: "AD 461–465"
+    rarity: "scarce"
     keywords: ["libius severus", "libivs severvs"]
   - name: "Anthemius"
     slug: "anthemius"
     dynasty: "Late West Roman"
     dates: "AD 467–472"
+    rarity: "scarce"
     keywords: ["anthemius", "anthemivs"]
   - name: "Julius Nepos"
     slug: "julius-nepos"
     dynasty: "Late West Roman"
     dates: "AD 474–475"
+    rarity: "scarce"
     keywords: ["julius nepos", "ivlivs nepos"]
   - name: "Romulus Augustulus"
     slug: "romulus-augustulus"
     dynasty: "Late West Roman"
     dates: "AD 475–476"
+    rarity: "scarce"
     keywords: ["romulus augustulus", "romvlvs avgvstvlvs"]
 
 greek:
@@ -312,6 +349,7 @@ byzantine:
     slug: "justinian-i"
     dynasty: "Justinian"
     dates: "AD 527–565"
+    rarity: "common"
     keywords: ["justinian i", "justinian the great", "iustinianvs", "d n iustinianvs"]
   - name: "Justin II"
     slug: "justin-ii"
@@ -322,16 +360,19 @@ byzantine:
     slug: "tiberius-ii"
     dynasty: "Justinian"
     dates: "AD 578–582"
+    rarity: "scarce"
     keywords: ["tiberius ii", "tiberivs ii", "d n tiberivs constantinvs"]
   - name: "Maurice Tiberius"
     slug: "maurice-tiberius"
     dynasty: "Justinian"
     dates: "AD 582–602"
+    rarity: "common"
     keywords: ["maurice tiberius", "mavrikios", "mavrice", "d n mavric tiberi"]
   - name: "Phocas"
     slug: "phocas"
     dynasty: "Justinian"
     dates: "AD 602–610"
+    rarity: "scarce"
     keywords: ["phocas", "focas", "d n focas"]
 
   # Heraclian dynasty
@@ -339,11 +380,13 @@ byzantine:
     slug: "heraclius"
     dynasty: "Heraclian"
     dates: "AD 610–641"
+    rarity: "common"
     keywords: ["heraclius", "herakleios", "d n heraclivs"]
   - name: "Constans II"
     slug: "constans-ii"
     dynasty: "Heraclian"
     dates: "AD 641–668"
+    rarity: "common"
     keywords: ["constans ii", "constans pogonatos", "herakleonas", "constans ii pogonatos"]
   - name: "Constantine IV"
     slug: "constantine-iv"
@@ -359,11 +402,13 @@ byzantine:
     slug: "leontius"
     dynasty: "Heraclian"
     dates: "AD 695–698"
+    rarity: "scarce"
     keywords: ["leontius", "leontios", "d n leontivs"]
   - name: "Tiberius III"
     slug: "tiberius-iii"
     dynasty: "Heraclian"
     dates: "AD 698–705"
+    rarity: "scarce"
     keywords: ["tiberius iii", "tiberivs iii", "d n tiberi"]
 
   # Isaurian dynasty
@@ -376,11 +421,13 @@ byzantine:
     slug: "constantine-v"
     dynasty: "Isaurian"
     dates: "AD 741–775"
+    rarity: "common"
     keywords: ["constantine v", "copronymus", "d n constantinos v", "constantine v copronymus"]
   - name: "Leo IV"
     slug: "leo-iv"
     dynasty: "Isaurian"
     dates: "AD 775–780"
+    rarity: "scarce"
     keywords: ["leo iv", "leon iv", "d n leon iv", "leo the khazar"]
   - name: "Constantine VI"
     slug: "constantine-vi"
@@ -391,6 +438,7 @@ byzantine:
     slug: "irene"
     dynasty: "Isaurian"
     dates: "AD 797–802"
+    rarity: "scarce"
     keywords: ["irene", "eirene", "empress irene"]
 
   # Nikephorian dynasty
@@ -398,11 +446,13 @@ byzantine:
     slug: "nicephorus-i"
     dynasty: "Nikephorian"
     dates: "AD 802–811"
+    rarity: "scarce"
     keywords: ["nicephorus i", "nikephoros i", "d n nikiforos"]
   - name: "Michael I"
     slug: "michael-i"
     dynasty: "Nikephorian"
     dates: "AD 811–813"
+    rarity: "scarce"
     keywords: ["michael i", "mikhail i", "rhangabe"]
 
   # Amorian dynasty
@@ -410,6 +460,7 @@ byzantine:
     slug: "leo-v"
     dynasty: "Amorian"
     dates: "AD 813–820"
+    rarity: "scarce"
     keywords: ["leo v", "leon v", "leo the armenian"]
   - name: "Michael II"
     slug: "michael-ii"
@@ -437,11 +488,13 @@ byzantine:
     slug: "leo-vi"
     dynasty: "Macedonian"
     dates: "AD 886–912"
+    rarity: "common"
     keywords: ["leo vi", "leon vi", "leo the wise", "leo vi the wise"]
   - name: "Alexander"
     slug: "alexander-byz"
     dynasty: "Macedonian"
     dates: "AD 912–913"
+    rarity: "scarce"
     keywords: ["alexander byzantine", "alexandros byzantine", "emperor alexander macedonian"]
   - name: "Constantine VII"
     slug: "constantine-vii"
@@ -457,26 +510,31 @@ byzantine:
     slug: "romanus-ii"
     dynasty: "Macedonian"
     dates: "AD 959–963"
+    rarity: "scarce"
     keywords: ["romanus ii", "romanos ii"]
   - name: "Nicephorus II"
     slug: "nicephorus-ii"
     dynasty: "Macedonian"
     dates: "AD 963–969"
+    rarity: "scarce"
     keywords: ["nicephorus ii", "nikephoros ii", "nicephorus phocas", "nicephorus ii phocas"]
   - name: "John I"
     slug: "john-i"
     dynasty: "Macedonian"
     dates: "AD 969–976"
+    rarity: "scarce"
     keywords: ["john i", "john tzimiskes", "ioannes i", "tzimisces"]
   - name: "Basil II"
     slug: "basil-ii"
     dynasty: "Macedonian"
     dates: "AD 976–1025"
+    rarity: "common"
     keywords: ["basil ii", "basil the bulgar slayer", "basileos ii", "basileios ii"]
   - name: "Constantine VIII"
     slug: "constantine-viii"
     dynasty: "Macedonian"
     dates: "AD 1025–1028"
+    rarity: "scarce"
     keywords: ["constantine viii", "constantinos viii"]
 
   # Post-Macedonian
@@ -484,11 +542,13 @@ byzantine:
     slug: "romanus-iii"
     dynasty: "Post-Macedonian"
     dates: "AD 1028–1034"
+    rarity: "scarce"
     keywords: ["romanus iii", "romanos iii", "argyros", "romanus iii argyros"]
   - name: "Michael IV"
     slug: "michael-iv"
     dynasty: "Post-Macedonian"
     dates: "AD 1034–1041"
+    rarity: "scarce"
     keywords: ["michael iv", "mikhail iv", "the paphlagonian", "michael iv the paphlagonian"]
   - name: "Constantine IX"
     slug: "constantine-ix"
@@ -501,16 +561,19 @@ byzantine:
     slug: "constantine-x"
     dynasty: "Doukid"
     dates: "AD 1059–1067"
+    rarity: "scarce"
     keywords: ["constantine x", "constantine x doukas", "constantinos x"]
   - name: "Romanus IV"
     slug: "romanus-iv"
     dynasty: "Doukid"
     dates: "AD 1068–1071"
+    rarity: "scarce"
     keywords: ["romanus iv", "romanos iv", "diogenes", "romanus iv diogenes"]
   - name: "Michael VII"
     slug: "michael-vii"
     dynasty: "Doukid"
     dates: "AD 1071–1078"
+    rarity: "scarce"
     keywords: ["michael vii", "mikhail vii", "michael vii doukas"]
 
   # Komnenian dynasty
@@ -528,11 +591,13 @@ byzantine:
     slug: "manuel-i"
     dynasty: "Komnenian"
     dates: "AD 1143–1180"
+    rarity: "common"
     keywords: ["manuel i", "manuel komnenos", "manuel i komnenos"]
   - name: "Andronicus I"
     slug: "andronicus-i"
     dynasty: "Komnenian"
     dates: "AD 1183–1185"
+    rarity: "scarce"
     keywords: ["andronicus i", "andronikos i", "andronicus komnenos"]
 
   # Angelid dynasty
@@ -540,11 +605,13 @@ byzantine:
     slug: "isaac-ii"
     dynasty: "Angelid"
     dates: "AD 1185–1195"
+    rarity: "scarce"
     keywords: ["isaac ii", "isaakios ii", "isaac angelos", "isaac ii angelos"]
   - name: "Alexios III"
     slug: "alexios-iii"
     dynasty: "Angelid"
     dates: "AD 1195–1203"
+    rarity: "scarce"
     keywords: ["alexios iii", "alexius iii", "alexios iii angelos"]
 
 persian:

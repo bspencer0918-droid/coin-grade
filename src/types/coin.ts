@@ -46,6 +46,8 @@ export interface Sale {
 }
 
 // Lightweight summary used in the catalog index (no full sale history)
+export type RulerRarity = 'scarce' | 'common'
+
 export interface CoinSummary {
   slug:                string
   category:            Category
@@ -53,6 +55,7 @@ export interface CoinSummary {
   ruler_normalized:    string | null
   dynasty:             string | null
   ruler_dates:         string | null
+  ruler_rarity:        RulerRarity | null
   denomination:        string
   metal:               Metal
   sale_count:          number

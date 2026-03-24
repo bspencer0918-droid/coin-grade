@@ -236,6 +236,7 @@ def build_coin_catalog(
             ruler_normalized=cls["ruler_normalized"],
             dynasty=cls["dynasty"],
             ruler_dates=cls.get("ruler_dates"),
+            ruler_rarity=cls.get("ruler_rarity"),
             denomination=cls["denomination"],
             metal=cls["metal"],
             sale_count=len(sales),
@@ -275,7 +276,7 @@ def write_outputs(coin_details: dict[str, CoinDetail], statuses: dict[Source, So
         CoinSummary(
             slug=c.slug, category=c.category, ruler=c.ruler,
             ruler_normalized=c.ruler_normalized, dynasty=c.dynasty,
-            ruler_dates=c.ruler_dates,
+            ruler_dates=c.ruler_dates, ruler_rarity=c.ruler_rarity,
             denomination=c.denomination, metal=c.metal,
             sale_count=c.sale_count, realized_count=c.realized_count,
             fixed_price_count=c.fixed_price_count,

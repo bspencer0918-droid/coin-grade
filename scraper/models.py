@@ -112,6 +112,7 @@ class CoinSummary(BaseModel):
     ruler_normalized:    Optional[str]  = None
     dynasty:             Optional[str]  = None
     ruler_dates:         Optional[str]  = None
+    ruler_rarity:        Optional[str]  = None   # "scarce" | "common" | None
     denomination:        str
     metal:               Metal
     sale_count:          int

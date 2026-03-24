@@ -95,12 +95,17 @@ export function renderCoinTable(
         : coin.ruler
       : coin.category
     const gradeNote = topGrade ? ` · NGC ${topGrade}` : ''
+    const rarityBadge = coin.ruler_rarity === 'scarce'
+      ? `<span class="ml-1 px-1 py-0.5 rounded text-[10px] border bg-amber-900/40 text-amber-300 border-amber-700 align-middle">Scarce</span>`
+      : coin.ruler_rarity === 'common'
+        ? `<span class="ml-1 px-1 py-0.5 rounded text-[10px] border bg-stone-800 text-stone-500 border-stone-600 align-middle">High Mintage</span>`
+        : ''
 
     return `
       <tr class="table-row cursor-pointer" data-slug="${coin.slug}">
         <td class="table-cell w-12">${thumb}</td>
         <td class="table-cell">
-          <div class="font-medium text-stone-100">${coin.denomination}</div>
+          <div class="font-medium text-stone-100">${coin.denomination}${rarityBadge}</div>
           <div class="text-xs text-stone-500">${subtitle}${gradeNote}</div>
         </td>
         <td class="table-cell text-stone-300">${coin.ruler ?? '—'}</td>
