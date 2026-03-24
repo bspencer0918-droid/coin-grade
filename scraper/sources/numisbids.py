@@ -28,6 +28,17 @@ SEARCH_URL = f"{BASE_URL}/searchall"
 class NumisBidsScraper(BaseScraper):
     source = Source.NUMISBIDS
 
+    # Selectors tried in order — NumisBids has changed its markup over time
+    _ITEM_SELECTORS = [
+        "div.browse",
+        "div.lot",
+        "div.result-item",
+        "li.result",
+        "article.lot",
+        "div[class*='lot']",
+        "div[class*='browse']",
+    ]
+
     def scrape(self, max_pages: int = MAX_PAGES["numisbids"]) -> Iterator[RawListing]:
         cutoff = cutoff_date()
         for page_num in range(1, max_pages + 1):
@@ -40,9 +51,18 @@ class NumisBidsScraper(BaseScraper):
                 logger.error(f"[NumisBids] Page {page_num} failed: {e}")
                 break
 
-            items = soup.select("div.browse")
+            # Try each selector until we find items
+            items = []
+            for sel in self._ITEM_SELECTORS:
+                items = soup.select(sel)
+                if items:
+                    logger.info(f"[NumisBids] Matched selector '{sel}' → {len(items)} items")
+                    break
+
             if not items:
-                logger.info(f"[NumisBids] No items on page {page_num}")
+                # Log a snippet of the page to help debug selector mismatches
+                body_text = soup.get_text(separator=" ", strip=True)[:400]
+                logger.info(f"[NumisBids] No items on page {page_num}. Body snippet: {body_text}")
                 break
 
             # Build a map of sale dates from the status bars on the page

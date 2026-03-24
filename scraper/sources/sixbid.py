@@ -40,55 +40,55 @@ class SixbidScraper(BaseScraper):
             },
             timeout=30,
         )
-        cutoff = cutoff_date()
-        # Sixbid Solr API accepts fq (filter query) for date ranges.
-        # Format: auction_start:[2025-09-01T00:00:00Z TO *]
-        date_fq = f"auction_start:[{cutoff.isoformat()}T00:00:00Z TO *]"
+        # sixbid-coin-archive.com is a historical archive — do NOT apply a
+        # date filter since recent auctions may not yet be in the archive.
+        # We rely on the pipeline's own date-cutoff to skip stale records.
+        queries = ["NGC ancient", "NGC roman", "NGC greek", "NGC byzantine"]
 
         try:
-            for page_num in range(max_pages):
-                start = page_num * RESULTS_PER_PAGE
-                logger.info(f"[Sixbid] Fetching offset {start} (cutoff={cutoff})")
-                self._wait()
-                try:
-                    resp = client.post(API_URL, json={
-                        "query":        "NGC ancient",
-                        "language":     "en",
-                        "start":        start,
-                        "rows":         RESULTS_PER_PAGE,
-                        "currency":     "usd",
-                        "thesaurus":    False,
-                        "translations": False,
-                        "highlight":    False,
-                        "fq":           date_fq,
-                    })
-                    resp.raise_for_status()
-                    data = resp.json()
-                except Exception as e:
-                    logger.error(f"[Sixbid] API error at offset {start}: {e}")
-                    break
+            for query in queries:
+                for page_num in range(max_pages // len(queries)):
+                    start = page_num * RESULTS_PER_PAGE
+                    logger.info(f"[Sixbid] query='{query}' offset={start}")
+                    self._wait()
+                    try:
+                        resp = client.post(API_URL, json={
+                            "query":        query,
+                            "language":     "en",
+                            "start":        start,
+                            "rows":         RESULTS_PER_PAGE,
+                            "currency":     "usd",
+                            "thesaurus":    False,
+                            "translations": False,
+                            "highlight":    False,
+                        })
+                        resp.raise_for_status()
+                        data = resp.json()
+                    except Exception as e:
+                        logger.error(f"[Sixbid] API error at offset {start}: {e}")
+                        break
 
-                docs = data.get("response", {}).get("docs", [])
-                if not docs:
-                    logger.info(f"[Sixbid] No results at offset {start}; top-level keys: {list(data.keys())}")
-                    break
+                    docs = data.get("response", {}).get("docs", [])
+                    if not docs:
+                        logger.info(f"[Sixbid] No results at offset {start}; top-level keys: {list(data.keys())}")
+                        break
 
-                if page_num == 0:
-                    logger.info(f"[Sixbid] Sample doc keys: {list(docs[0].keys())}")
-                    logger.info(f"[Sixbid] Sample description: {str(docs[0].get('description',''))[:120]}")
-                    logger.info(f"[Sixbid] Sample price_realised: {docs[0].get('price_realised')}")
-                    logger.info(f"[Sixbid] Total hits: {data.get('response',{}).get('numFound','?')}")
+                    if page_num == 0:
+                        logger.info(f"[Sixbid] Sample doc keys: {list(docs[0].keys())}")
+                        logger.info(f"[Sixbid] Sample description: {str(docs[0].get('description',''))[:120]}")
+                        logger.info(f"[Sixbid] Sample price_realised: {docs[0].get('price_realised')}")
+                        logger.info(f"[Sixbid] Total hits: {data.get('response',{}).get('numFound','?')}")
 
-                yielded = 0
-                for doc in docs:
-                    listing = self._parse_doc(doc)
-                    if listing:
-                        yield listing
-                        yielded += 1
+                    yielded = 0
+                    for doc in docs:
+                        listing = self._parse_doc(doc)
+                        if listing:
+                            yield listing
+                            yielded += 1
 
-                logger.info(f"[Sixbid] Offset {start}: {yielded} listings")
-                if len(docs) < RESULTS_PER_PAGE:
-                    break  # last page
+                    logger.info(f"[Sixbid] query='{query}' offset={start}: {yielded} listings")
+                    if len(docs) < RESULTS_PER_PAGE:
+                        break  # last page for this query
         finally:
             client.close()
 

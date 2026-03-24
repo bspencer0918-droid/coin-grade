@@ -27,22 +27,44 @@ logger = logging.getLogger(__name__)
 
 BASE_URL = "https://www.cngcoins.com"
 
-# CNG auction IDs increment with each sale.  They run ~2 sales/month so
-# 6 months ≈ 12 auctions.  Start at a high value and scan downward;
-# the date-cutoff in scrape() stops us automatically once data is old enough.
-AUCTION_ID_START = 225   # generous upper bound; IDs we haven't seen just return no lots
-AUCTION_ID_END   = 100   # hard floor (never go further back than this)
+# CNG auction IDs increment with each sale.  They run ~2 sales/month.
+# We discover the current highest ID from their archive page at runtime,
+# then scan downward until we pass the history cutoff.
+# These are fallback bounds used only if discovery fails.
+AUCTION_ID_START = 700   # generous upper bound (by 2026 CNG is ~670+)
+AUCTION_ID_END   = 1     # hard floor — let date-cutoff stop us instead
 
 
 class CNGScraper(BaseScraper):
     source = Source.CNG
 
+    def _discover_latest_auction_id(self) -> int:
+        """
+        Fetch the CNG completed-auction archive page and return the highest
+        AUCTION_ID found in any link.  Falls back to AUCTION_ID_START.
+        """
+        try:
+            resp = self.fetch(
+                "https://www.cngcoins.com/Coins.aspx?PAGE_TYPE=1&ITEM_TYPE=1&ITEM_COUNT=100"
+            )
+            ids = re.findall(r'AUCTION_ID=(\d+)', resp.text)
+            if ids:
+                latest = max(int(i) for i in ids)
+                logger.info(f"[CNG] Discovered latest auction ID: {latest}")
+                return latest
+        except Exception as e:
+            logger.warning(f"[CNG] Auction ID discovery failed: {e}")
+        return AUCTION_ID_START
+
     def scrape(self, max_pages: int = MAX_PAGES["cng"]) -> Iterator[RawListing]:
         cutoff = cutoff_date()
         auctions_checked = 0
-        consecutive_empty = 0  # skip IDs that don't exist
+        consecutive_empty = 0  # skip IDs that don't exist yet (gaps above current)
 
-        for auction_id in range(AUCTION_ID_START, AUCTION_ID_END - 1, -1):
+        start_id = self._discover_latest_auction_id()
+        logger.info(f"[CNG] Scanning auction IDs from {start_id} down to {AUCTION_ID_END}")
+
+        for auction_id in range(start_id, AUCTION_ID_END - 1, -1):
             if auctions_checked >= max_pages:
                 break
             url = (f"{BASE_URL}/Lots.aspx?AUCTION_ID={auction_id}"
@@ -77,8 +99,8 @@ class CNGScraper(BaseScraper):
             # allow a few consecutive misses before giving up
             if count == 0 and auction_date is None:
                 consecutive_empty += 1
-                if consecutive_empty >= 5:
-                    logger.info(f"[CNG] 5 consecutive empty IDs — stopping")
+                if consecutive_empty >= 20:
+                    logger.info(f"[CNG] 20 consecutive empty IDs — stopping")
                     break
             else:
                 consecutive_empty = 0
