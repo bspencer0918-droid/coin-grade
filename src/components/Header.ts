@@ -21,14 +21,14 @@ export function renderHeader(activePage: string): string {
 
   return `
     <header class="sticky top-0 z-50 bg-stone-950/95 backdrop-blur border-b border-stone-800/80">
-      <div class="max-w-7xl mx-auto px-4 sm:px-6 flex items-center justify-between h-16">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 flex items-center justify-between h-20">
 
         <!-- Logo -->
         <a href="${href({ name: 'home' })}" class="flex items-center">
           <img
-            src="${base}Chronicle Coins_V1.jpg"
+            src="${base}Chronicle%20Coins_V1.jpg"
             alt="Coin Grade"
-            class="h-10 w-auto"
+            class="h-16 w-auto"
             onerror="this.style.display='none'; this.nextElementSibling.style.display='flex'"
           />
           <!-- Fallback text logo if image fails -->
