@@ -229,6 +229,25 @@ def build_coin_catalog(
         if not thumbnail:
             thumbnail = next((s.image_url for s in sales if s.image_url), None)
 
+        # Representative strike/surface: most recent realized sale of the top grade
+        # that actually has scores recorded.
+        top_grade_enum = next(
+            (g for g in NGC_GRADE_ORDER if any(s.ngc.grade == g for s in realized_sales)),
+            None,
+        )
+        rep_sale = None
+        if top_grade_enum:
+            scored = sorted(
+                [s for s in realized_sales
+                 if s.ngc.grade == top_grade_enum and s.ngc.strike_score is not None],
+                key=lambda s: s.sale_date, reverse=True,
+            )
+            rep_sale = scored[0] if scored else None
+
+        # Median weight across all sales that have weight data
+        weights = [s.metadata.weight_g for s in sales if s.metadata.weight_g]
+        median_weight = statistics.median(weights) if weights else None
+
         coin_details[slug] = CoinDetail(
             slug=slug,
             category=cls["category"],
@@ -248,6 +267,9 @@ def build_coin_catalog(
             last_sale_date=dates[0] if dates else "",
             grade_distribution=dict(grade_dist),
             thumbnail_url=thumbnail,
+            median_weight_g=median_weight,
+            top_strike_score=rep_sale.ngc.strike_score if rep_sale else None,
+            top_surface_score=rep_sale.ngc.surface_score if rep_sale else None,
             sales=sales,
         )
 
@@ -284,6 +306,9 @@ def write_outputs(coin_details: dict[str, CoinDetail], statuses: dict[Source, So
             price_range_usd=c.price_range_usd, median_price_usd=c.median_price_usd,
             last_sale_date=c.last_sale_date, grade_distribution=c.grade_distribution,
             thumbnail_url=c.thumbnail_url,
+            median_weight_g=c.median_weight_g,
+            top_strike_score=c.top_strike_score,
+            top_surface_score=c.top_surface_score,
         )
         for c in coin_details.values()
     ]

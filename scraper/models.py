@@ -124,6 +124,9 @@ class CoinSummary(BaseModel):
     last_sale_date:      str   = ""
     grade_distribution:  dict[str, int] = Field(default_factory=dict)
     thumbnail_url:       Optional[str]  = None
+    median_weight_g:     Optional[float] = None   # median across all sales with weight data
+    top_strike_score:    Optional[int]   = None   # NGC strike score (1–5) of top-grade rep sale
+    top_surface_score:   Optional[int]   = None   # NGC surface score (1–5) of top-grade rep sale
 
 
 class CoinDetail(CoinSummary):

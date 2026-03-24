@@ -67,6 +67,9 @@ export interface CoinSummary {
   last_sale_date:      string
   grade_distribution:  Partial<Record<NGCGrade, number>>
   thumbnail_url:       string | null
+  median_weight_g:     number | null
+  top_strike_score:    number | null   // NGC strike score (1–5) of top-grade rep sale
+  top_surface_score:   number | null   // NGC surface score (1–5) of top-grade rep sale
 }
 
 // Full coin type with complete price history (lazy-loaded per coin)

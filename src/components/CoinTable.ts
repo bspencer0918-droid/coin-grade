@@ -100,9 +100,15 @@ export function renderCoinTable(
         ? `<span class="ml-1.5 px-1 py-0.5 rounded text-[10px] border bg-stone-800 text-stone-500 border-stone-600 align-middle">High Mintage</span>`
         : ''
 
-    // Grey line: "NGC AU" or category fallback
+    // Grey line: "NGC AU 5/5-2/5 (7.13g)" or simpler fallbacks
+    const scoreStr = (coin.top_strike_score != null && coin.top_surface_score != null)
+      ? ` ${coin.top_strike_score}/5-${coin.top_surface_score}/5`
+      : ''
+    const weightStr = coin.median_weight_g != null
+      ? ` (${coin.median_weight_g.toFixed(2)}g)`
+      : ''
     const gradeSubtitle = topGrade
-      ? `NGC ${topGrade}`
+      ? `NGC ${topGrade}${scoreStr}${weightStr}`
       : coin.category
 
     return `
