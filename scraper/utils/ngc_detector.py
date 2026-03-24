@@ -36,7 +36,10 @@ _GRADE_PAT = re.compile(
 )
 
 # Score notation: "5/5" or "4/5"
-_SCORE_PAT = re.compile(r'(\d)/5', re.IGNORECASE)
+# Negative lookbehind (?<!\d) prevents matching digits that are part of a
+# larger number (e.g. "16/5" in a lot number or date would wrongly yield 6/5).
+# Also constrains to valid NGC scores 1-5.
+_SCORE_PAT = re.compile(r'(?<!\d)([1-5])/5(?!\d)')
 
 # NGC cert number — 6-10 digit number with optional "-XXX" suffix (NGC Ancients format)
 # Examples: "8568382-072", "6066357", "Cert 8568382-072"
@@ -103,11 +106,11 @@ def detect_ngc(title: str, description: str = "", raw_cert_text: str = "") -> NG
         if m.group(2):
             grade_numeric = int(m.group(2))
 
-    # Score extraction (strike/surface)
-    scores = _SCORE_PAT.findall(full_text)
+    # Score extraction (strike/surface) — valid range is 1–5
+    scores = [int(s) for s in _SCORE_PAT.findall(full_text) if 1 <= int(s) <= 5]
     if len(scores) >= 2:
-        strike_score  = int(scores[0])
-        surface_score = int(scores[1])
+        strike_score  = scores[0]
+        surface_score = scores[1]
 
     # Cert number extraction
     m_cert = _CERT_PAT.search(full_text)
