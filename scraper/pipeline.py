@@ -32,6 +32,7 @@ from .sources.hjb       import HJBScraper
 from .utils.coin_classifier  import classify
 from .utils.ngc_detector     import detect_ngc, verify_cert
 from .utils.price_normalizer import load_exchange_rates, to_usd
+from .utils.slab_ocr         import extract_cert_from_image
 
 logging.basicConfig(
     level=logging.INFO,
@@ -71,6 +72,17 @@ def raw_to_sale(raw: RawListing, usd_rate_fn=to_usd) -> Sale | None:
         return None
 
     ngc = detect_ngc(raw.title, raw.description, raw.raw_cert_text)
+
+    # If we found NGC grade info but no cert number, try OCR on the slab image.
+    # This catches listings (e.g. VCoins, MA Shops) where the cert is only
+    # visible on the label photo and not written in the listing text.
+    if ngc.grade and not ngc.cert_number and raw.image_url:
+        ocr_cert = extract_cert_from_image(raw.image_url)
+        if ocr_cert:
+            logger.debug(f"[OCR] Cert {ocr_cert} from image, re-running detector")
+            ngc = detect_ngc(raw.title, raw.description,
+                             f"{raw.raw_cert_text} cert {ocr_cert}")
+
     if not ngc.grade and not ngc.cert_number:
         return None  # Not NGC — skip
 

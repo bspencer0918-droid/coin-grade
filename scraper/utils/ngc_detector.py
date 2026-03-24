@@ -38,15 +38,17 @@ _GRADE_PAT = re.compile(
 # Score notation: "5/5" or "4/5"
 _SCORE_PAT = re.compile(r'(\d)/5', re.IGNORECASE)
 
-# NGC cert number — 6-10 digit number, optionally preceded by "Cert" or "#"
+# NGC cert number — 6-10 digit number with optional "-XXX" suffix (NGC Ancients format)
+# Examples: "8568382-072", "6066357", "Cert 8568382-072"
 _CERT_PAT = re.compile(
     r'(?:cert(?:ificate)?[\s#:]*|ngccoin\.com/cert(?:lookup)?/)'
-    r'(\d{6,10})',
+    r'(\d{6,10}(?:-\d{3})?)',
     re.IGNORECASE,
 )
 
 # Standalone long number that could be a cert (used as fallback)
-_CERT_STANDALONE = re.compile(r'\b(\d{7,10})\b')
+# Also matches hyphenated NGC Ancients format: 8568382-072
+_CERT_STANDALONE = re.compile(r'\b(\d{7,10}-\d{3}|\d{7,10})\b')
 
 # Negative patterns — exclude these from NGC matches
 _NEGATIVE_PAT = re.compile(
@@ -133,7 +135,7 @@ def detect_ngc(title: str, description: str = "", raw_cert_text: str = "") -> NG
         strike_score=strike_score,
         surface_score=surface_score,
         details_grade=details_grade,
-        certification_url=f"https://www.ngccoin.com/certlookup/{cert_number}/" if cert_number else None,
+        certification_url=f"https://www.ngccoin.com/certlookup/{cert_number.replace('-', '')}/" if cert_number else None,
     ) if has_ngc else NGCInfo(verified=False)
 
 
@@ -173,17 +175,31 @@ def verify_cert(ngc_info: NGCInfo, client: Optional[httpx.Client] = None) -> NGC
             return _apply_registry_data(ngc_info, cached)
         return ngc_info   # previously looked up, not verified
 
-    # Network request
-    url = f"https://www.ngccoin.com/certlookup/{cert}/50/"
+    # NGC Ancients certs are like "8568382-072"; the lookup page accepts both
+    # the full hyphenated form and the numeric-only form (digits without suffix).
+    cert_numeric = cert.replace("-", "")
+    urls_to_try = [
+        f"https://www.ngccoin.com/certlookup/{cert}/50/",
+        f"https://www.ngccoin.com/certlookup/{cert_numeric}/50/",
+    ]
     try:
         close_client = client is None
         if client is None:
             client = httpx.Client(timeout=10, follow_redirects=True)
 
-        resp = client.get(url, headers={"User-Agent": "Mozilla/5.0"})
-        time.sleep(RATE_LIMITS["ngc"])
+        resp = None
+        for url in urls_to_try:
+            r = client.get(url, headers={"User-Agent": "Mozilla/5.0"})
+            time.sleep(RATE_LIMITS["ngc"])
+            if r.status_code == 200:
+                resp = r
+                break
+        if resp is None:
+            if close_client:
+                client.close()
+            return ngc_info
 
-        if resp.status_code == 200 and "No certification record found" not in resp.text:
+        if "No certification record found" not in resp.text:
             # Parse grade from page (NGC uses structured HTML)
             grade_match = re.search(r'<td[^>]*>\s*(MS|AU|XF|VF|F|VG|G|AG|P)\s*(\d{0,2})\s*</td>', resp.text)
             if grade_match:
