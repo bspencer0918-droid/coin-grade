@@ -14,6 +14,7 @@ from collections import defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Iterator
+from urllib.parse import urlparse, urlunparse
 
 from .config import DATA_DIR, CATALOG_DIR, PRICES_DIR, EXCHANGE_RATE_API_KEY
 from .models import (
@@ -112,6 +113,12 @@ def raw_to_sale(raw: RawListing, usd_rate_fn=to_usd) -> Sale | None:
     return sale, classification
 
 
+def _url_fingerprint(url: str) -> str:
+    """Normalize a URL for dedup: strip query params and fragment."""
+    p = urlparse(url)
+    return urlunparse((p.scheme, p.netloc, p.path.rstrip("/"), "", "", "")).lower()
+
+
 def run_scrapers() -> tuple[list[tuple[Sale, dict]], dict[Source, SourceStatus]]:
     """Run all scrapers and return (sales_with_classification, source_statuses)."""
     results: list[tuple[Sale, dict]] = []
@@ -120,8 +127,13 @@ def run_scrapers() -> tuple[list[tuple[Sale, dict]], dict[Source, SourceStatus]]
     for scraper in SCRAPERS:
         source = scraper.source
         count  = 0
+        dupes  = 0
         status = SourceStatus(status="pending")
         logger.info(f"=== Starting {source.value.upper()} scraper ===")
+
+        # Per-source dedup: by stable ID (primary) and normalized URL (secondary)
+        seen_ids:  set[str] = set()
+        seen_urls: set[str] = set()
 
         try:
             from .config import MAX_PAGES
@@ -131,11 +143,28 @@ def run_scrapers() -> tuple[list[tuple[Sale, dict]], dict[Source, SourceStatus]]
                 result = raw_to_sale(raw)
                 if result:
                     sale, classification = result
+
+                    # Dedup by sale ID (same source + identical URL)
+                    if sale.id in seen_ids:
+                        dupes += 1
+                        continue
+
+                    # Dedup by normalized URL (same page, different query params)
+                    url_fp = _url_fingerprint(sale.lot_url)
+                    if url_fp in seen_urls:
+                        dupes += 1
+                        continue
+
+                    seen_ids.add(sale.id)
+                    seen_urls.add(url_fp)
                     results.append((sale, classification))
                     count += 1
 
             status = SourceStatus(status="ok", listings_scraped=count)
-            logger.info(f"=== {source.value.upper()} done: {count} NGC listings ===")
+            if dupes:
+                logger.info(f"=== {source.value.upper()} done: {count} NGC listings ({dupes} duplicates removed) ===")
+            else:
+                logger.info(f"=== {source.value.upper()} done: {count} NGC listings ===")
 
         except Exception as e:
             logger.error(f"=== {source.value.upper()} failed: {e} ===")
@@ -164,8 +193,33 @@ def build_coin_catalog(
     coin_details: dict[str, CoinDetail] = {}
 
     for slug, items in grouped.items():
-        sales   = [s for s, _ in items]
-        cls     = items[0][1]          # use classification from first sale
+        # Cross-source dedup: if same NGC cert number appears from multiple sources
+        # (e.g. a CNG sale also listed on VCoins), keep only the auction_realized
+        # version, or the first if all are the same type.
+        cert_seen: dict[str, Sale] = {}
+        deduped_items: list[tuple[Sale, dict]] = []
+        for sale, cls_data in items:
+            cert = sale.ngc.cert_number
+            if cert:
+                if cert not in cert_seen:
+                    cert_seen[cert] = sale
+                    deduped_items.append((sale, cls_data))
+                else:
+                    # Prefer auction_realized over fixed_price for the same cert
+                    existing = cert_seen[cert]
+                    if (sale.listing_type == ListingType.AUCTION_REALIZED
+                            and existing.listing_type != ListingType.AUCTION_REALIZED):
+                        # Replace existing with this realized sale
+                        deduped_items = [(s, c) for s, c in deduped_items
+                                         if s.ngc.cert_number != cert]
+                        deduped_items.append((sale, cls_data))
+                        cert_seen[cert] = sale
+            else:
+                deduped_items.append((sale, cls_data))
+
+        items = deduped_items
+        sales = [s for s, _ in items]
+        cls   = items[0][1]          # use classification from first sale
 
         all_prices      = [s.hammer_price_usd for s in sales]
         realized_sales  = [s for s in sales if s.listing_type == ListingType.AUCTION_REALIZED]
