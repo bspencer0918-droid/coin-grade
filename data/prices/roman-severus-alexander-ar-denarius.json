@@ -1,0 +1,56 @@
+{
+  "slug": "roman-severus-alexander-ar-denarius",
+  "category": "roman",
+  "ruler": "Severus Alexander",
+  "ruler_normalized": "severus-alexander",
+  "dynasty": "Severan",
+  "denomination": "AR Denarius",
+  "metal": "silver",
+  "sale_count": 1,
+  "realized_count": 0,
+  "fixed_price_count": 1,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 80.0,
+    "max": 80.0
+  },
+  "median_price_usd": 80.0,
+  "last_sale_date": "2026-03-24",
+  "grade_distribution": {
+    "VG": 1
+  },
+  "thumbnail_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid1414_combined.jpg",
+  "sales": [
+    {
+      "id": "mashops-9ed81248d3ae",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=1414",
+      "title": "AR Denarius Sev.Alexander, AD 222-235 NGC certified Severus Alexander denarius, 222-235 (X11) NGC VG",
+      "description": "AR Denarius Sev.Alexander, AD 222-235 NGC certified Severus Alexander denarius, 222-235 (X11) NGC VG",
+      "hammer_price_usd": 80.0,
+      "currency_original": "USD",
+      "price_original": 80.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid1414_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VG",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

@@ -17,11 +17,42 @@
   "median_price_usd": 270.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "XF": 2,
-    "AU": 1
+    "AU": 1,
+    "XF": 2
   },
-  "thumbnail_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid624_combined.jpg",
+  "thumbnail_url": "https://img.ma-shops.com/stankov/pic/thumb/artid1692_combined.jpg",
   "sales": [
+    {
+      "id": "mashops-f7f923ff556c",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/stankov/item.php?id=1692",
+      "title": "AR Denarius Gordian III, AD 238-244 A well-struck choice specimen! NGC Choice AU 5/3",
+      "description": "AR Denarius Gordian III, AD 238-244 A well-struck choice specimen! NGC Choice AU 5/3",
+      "hammer_price_usd": 1334.27,
+      "currency_original": "USD",
+      "price_original": 1334.27,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/stankov/pic/thumb/artid1692_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "mashops-ad828f802cfb",
       "source": "mashops",
@@ -71,37 +102,6 @@
         "cert_number": null,
         "grade": "XF",
         "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-f7f923ff556c",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/stankov/item.php?id=1692",
-      "title": "AR Denarius Gordian III, AD 238-244 A well-struck choice specimen! NGC Choice AU 5/3",
-      "description": "AR Denarius Gordian III, AD 238-244 A well-struck choice specimen! NGC Choice AU 5/3",
-      "hammer_price_usd": 1334.27,
-      "currency_original": "USD",
-      "price_original": 1334.27,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/stankov/pic/thumb/artid1692_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,

@@ -18,10 +18,10 @@
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
     "XF": 2,
-    "MS": 1,
-    "AU": 2
+    "AU": 2,
+    "MS": 1
   },
-  "thumbnail_url": "https://img.ma-shops.com/worldmoneyshop/pic/thumb/750_nomis-800-b_copy.jpg",
+  "thumbnail_url": "https://img.ma-shops.com/khouli/pic/thumb/artid9002_combined.jpg",
   "sales": [
     {
       "id": "vcoins-0087a74b5d4c",
@@ -43,37 +43,6 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-9b084b971517",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/worldmoneyshop/item.php?id=750",
-      "title": "Histamenon Nomisma 1042-55 Byzantine Constantine IX Monomachus 1042-1055 Gold Histamenon Nomisma NGC MS MS",
-      "description": "New! Histamenon Nomisma 1042-55 Byzantine Constantine IX Monomachus 1042-1055 Gold Histamenon Nomisma NGC MS MS",
-      "hammer_price_usd": 1600.0,
-      "currency_original": "USD",
-      "price_original": 1600.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/worldmoneyshop/pic/thumb/750_nomis-800-b_copy.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
         "details_grade": null,
         "certification_url": null
       },
@@ -136,6 +105,37 @@
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-9b084b971517",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/worldmoneyshop/item.php?id=750",
+      "title": "Histamenon Nomisma 1042-55 Byzantine Constantine IX Monomachus 1042-1055 Gold Histamenon Nomisma NGC MS MS",
+      "description": "New! Histamenon Nomisma 1042-55 Byzantine Constantine IX Monomachus 1042-1055 Gold Histamenon Nomisma NGC MS MS",
+      "hammer_price_usd": 1600.0,
+      "currency_original": "USD",
+      "price_original": 1600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/worldmoneyshop/pic/thumb/750_nomis-800-b_copy.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
         "details_grade": null,
         "certification_url": null
       },

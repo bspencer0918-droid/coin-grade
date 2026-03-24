@@ -6,23 +6,24 @@
   "dynasty": null,
   "denomination": "AR Stater",
   "metal": "electrum",
-  "sale_count": 33,
+  "sale_count": 35,
   "realized_count": 0,
-  "fixed_price_count": 33,
+  "fixed_price_count": 35,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 396.0,
-    "max": 20304.18
+    "max": 36431.51
   },
   "median_price_usd": 6800.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
     "VF": 12,
     "XF": 14,
-    "AU": 6,
-    "MS": 1
+    "AU": 7,
+    "MS": 1,
+    "F": 1
   },
-  "thumbnail_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid23_combined.jpg",
+  "thumbnail_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88745_combined.jpg",
   "sales": [
     {
       "id": "vcoins-5a0e8fa98bc0",
@@ -44,6 +45,37 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-692faae31bec",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88745",
+      "title": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
+      "description": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
+      "hammer_price_usd": 1131.23,
+      "currency_original": "USD",
+      "price_original": 1131.23,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88745_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
         "details_grade": null,
         "certification_url": null
       },
@@ -118,37 +150,6 @@
       }
     },
     {
-      "id": "mashops-ca5a6cce7c5d",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88746",
-      "title": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
-      "description": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
-      "hammer_price_usd": 870.18,
-      "currency_original": "USD",
-      "price_original": 870.18,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88746_ngc6631251-017_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 3,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-380473671e57",
       "source": "mashops",
       "listing_type": "fixed_price",
@@ -211,25 +212,25 @@
       }
     },
     {
-      "id": "mashops-692faae31bec",
+      "id": "mashops-d3776538fbe8",
       "source": "mashops",
       "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88745",
-      "title": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "description": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 1131.23,
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8773",
+      "title": "AR STATER 350-300 B.C ITALY. Bruttium. Kroton. AR Stater (7.44 gms), ca. 350-300 B.C. NGC Ch EF, Strik CHOICE XF",
+      "description": "AR STATER 350-300 B.C ITALY. Bruttium. Kroton. AR Stater (7.44 gms), ca. 350-300 B.C. NGC Ch EF, Strik CHOICE XF",
+      "hammer_price_usd": 1975.0,
       "currency_original": "USD",
-      "price_original": 1131.23,
+      "price_original": 1975.0,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88745_combined.jpg",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/8773_1.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
         "grade": "XF",
         "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
+        "strike_score": null,
+        "surface_score": null,
         "details_grade": null,
         "certification_url": null
       },
@@ -273,22 +274,22 @@
       }
     },
     {
-      "id": "mashops-118c656e0e4a",
+      "id": "mashops-69c8de4b3416",
       "source": "mashops",
       "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8087",
-      "title": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
-      "description": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
-      "hammer_price_usd": 997.0,
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=7503",
+      "title": "AR STATER 361 BC CILICIA. Tarsus. Mazaeus, as Satrap (ca. 361-328 BC). AR stater (24mm, 10.51 gm, NGC MS",
+      "description": "AR STATER 361 BC CILICIA. Tarsus. Mazaeus, as Satrap (ca. 361-328 BC). AR stater (24mm, 10.51 gm, NGC MS",
+      "hammer_price_usd": 1975.0,
       "currency_original": "USD",
-      "price_original": 997.0,
+      "price_original": 1975.0,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8087_ngc6710505-004_obv_c.jpg",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/7503_1.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
-        "grade": "VF",
+        "grade": "MS",
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
@@ -366,146 +367,22 @@
       }
     },
     {
-      "id": "mashops-1132ee4c14e9",
+      "id": "mashops-c1f7db39e61d",
       "source": "mashops",
       "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/cdma/item.php?id=1069942",
-      "title": "Stater ca. 361-328 BC Tarsus Cilicia, Mazaois, Tarsus, Silver, NGC Ch XF 4/5 2/5",
-      "description": "Stater ca. 361-328 BC Tarsus Cilicia, Mazaois, Tarsus, Silver, NGC Ch XF 4/5 2/5",
-      "hammer_price_usd": 1112.67,
-      "currency_original": "USD",
-      "price_original": 1112.67,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/cdma/pic/thumb/1069942.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-bf2c83f7133f",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8351",
-      "title": "AR Half-Stater/Siglos after c.561 BC LYDIA. Time of Kyros to Darios I, ca. 550/39-520 B.C. AR Siglos, Sardes Mint. NGC VF",
-      "description": "AR Half-Stater/Siglos after c.561 BC LYDIA. Time of Kyros to Darios I, ca. 550/39-520 B.C. AR Siglos, Sardes Mint. NGC VF",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8531",
+      "title": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC VF. Scratches.  HGC-4, 76 NGC VF",
+      "description": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC VF. Scratches.  HGC-4, 76 NGC VF",
       "hammer_price_usd": 795.0,
       "currency_original": "USD",
       "price_original": 795.0,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8351_combined.jpg",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8531_ngc6711716-012_obv_c.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
         "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-c3afd36a87a1",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/cdma/item.php?id=1067745",
-      "title": "Stater ca. 550-450 BC Cyzicus Mysia, Kyzikos, Electrum, NGC Ch VF 3/5-4/5",
-      "description": "Stater ca. 550-450 BC Cyzicus Mysia, Kyzikos, Electrum, NGC Ch VF 3/5-4/5",
-      "hammer_price_usd": 5441.52,
-      "currency_original": "USD",
-      "price_original": 5441.52,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/cdma/pic/thumb/1067745.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 3,
-        "strike_score": 3,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-d3776538fbe8",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8773",
-      "title": "AR STATER 350-300 B.C ITALY. Bruttium. Kroton. AR Stater (7.44 gms), ca. 350-300 B.C. NGC Ch EF, Strik CHOICE XF",
-      "description": "AR STATER 350-300 B.C ITALY. Bruttium. Kroton. AR Stater (7.44 gms), ca. 350-300 B.C. NGC Ch EF, Strik CHOICE XF",
-      "hammer_price_usd": 1975.0,
-      "currency_original": "USD",
-      "price_original": 1975.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/8773_1.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-69c8de4b3416",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=7503",
-      "title": "AR STATER 361 BC CILICIA. Tarsus. Mazaeus, as Satrap (ca. 361-328 BC). AR stater (24mm, 10.51 gm, NGC MS",
-      "description": "AR STATER 361 BC CILICIA. Tarsus. Mazaeus, as Satrap (ca. 361-328 BC). AR stater (24mm, 10.51 gm, NGC MS",
-      "hammer_price_usd": 1975.0,
-      "currency_original": "USD",
-      "price_original": 1975.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/7503_1.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
@@ -538,6 +415,68 @@
         "cert_number": null,
         "grade": "AU",
         "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-e2ecbbbd010e",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/cdma/item.php?id=1066885",
+      "title": "Stater c. 550-475 BC Cyzicus Mysia, Kyzikos, Electrum, NGC Ch VF\u2605 5/5-3/5",
+      "description": "Stater c. 550-475 BC Cyzicus Mysia, Kyzikos, Electrum, NGC Ch VF\u2605 5/5-3/5",
+      "hammer_price_usd": 20304.18,
+      "currency_original": "USD",
+      "price_original": 20304.18,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/cdma/pic/thumb/1066885.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-bd8335777df9",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=7292",
+      "title": "AR Stater c.350-300 BC ACARNANIA. Anactorium. Ca. 350-300 BC. AR stater (21mm, 8.39 gm, 6h). NGC Fine 5 NGC F Strike: 5/5 Surface: 5/5",
+      "description": "AR Stater c.350-300 BC ACARNANIA. Anactorium. Ca. 350-300 BC. AR stater (21mm, 8.39 gm, 6h). NGC Fine 5 NGC F Strike: 5/5 Surface: 5/5",
+      "hammer_price_usd": 975.0,
+      "currency_original": "USD",
+      "price_original": 975.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/7292_1_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 5,
         "details_grade": null,
@@ -614,6 +553,68 @@
       }
     },
     {
+      "id": "mashops-11c549aadd6b",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=20",
+      "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
+      "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
+      "hammer_price_usd": 8000.0,
+      "currency_original": "USD",
+      "price_original": 8000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid20_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-ca5a6cce7c5d",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88746",
+      "title": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
+      "description": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
+      "hammer_price_usd": 870.18,
+      "currency_original": "USD",
+      "price_original": 870.18,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88746_ngc6631251-017_obv_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 3,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-9ab749a2dd85",
       "source": "mashops",
       "listing_type": "fixed_price",
@@ -633,6 +634,37 @@
         "grade_numeric": 4,
         "strike_score": 4,
         "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-20fca9ddf261",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/cdma/item.php?id=1066722",
+      "title": "Stater ca. 322-313 BC Cyrene Kyrenaica, Ophellas, Kyrene, Gold, NGC AU 4/5-3/5",
+      "description": "Stater ca. 322-313 BC Cyrene Kyrenaica, Ophellas, Kyrene, Gold, NGC AU 4/5-3/5",
+      "hammer_price_usd": 36431.51,
+      "currency_original": "USD",
+      "price_original": 36431.51,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/cdma/pic/thumb/1066722.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
         "details_grade": null,
         "certification_url": null
       },
@@ -676,25 +708,25 @@
       }
     },
     {
-      "id": "mashops-11c549aadd6b",
+      "id": "mashops-1132ee4c14e9",
       "source": "mashops",
       "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=20",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 8000.0,
+      "lot_url": "https://www.ma-shops.com/cdma/item.php?id=1069942",
+      "title": "Stater ca. 361-328 BC Tarsus Cilicia, Mazaois, Tarsus, Silver, NGC Ch XF 4/5 2/5",
+      "description": "Stater ca. 361-328 BC Tarsus Cilicia, Mazaois, Tarsus, Silver, NGC Ch XF 4/5 2/5",
+      "hammer_price_usd": 1112.67,
       "currency_original": "USD",
-      "price_original": 8000.0,
+      "price_original": 1112.67,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid20_combined.jpg",
+      "image_url": "https://img.ma-shops.com/cdma/pic/thumb/1069942.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
         "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 2,
         "details_grade": null,
         "certification_url": null
       },
@@ -831,6 +863,99 @@
       }
     },
     {
+      "id": "mashops-118c656e0e4a",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8087",
+      "title": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
+      "description": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
+      "hammer_price_usd": 997.0,
+      "currency_original": "USD",
+      "price_original": 997.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8087_ngc6710505-004_obv_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-bf2c83f7133f",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8351",
+      "title": "AR Half-Stater/Siglos after c.561 BC LYDIA. Time of Kyros to Darios I, ca. 550/39-520 B.C. AR Siglos, Sardes Mint. NGC VF",
+      "description": "AR Half-Stater/Siglos after c.561 BC LYDIA. Time of Kyros to Darios I, ca. 550/39-520 B.C. AR Siglos, Sardes Mint. NGC VF",
+      "hammer_price_usd": 795.0,
+      "currency_original": "USD",
+      "price_original": 795.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8351_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-c3afd36a87a1",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/cdma/item.php?id=1067745",
+      "title": "Stater ca. 550-450 BC Cyzicus Mysia, Kyzikos, Electrum, NGC Ch VF 3/5-4/5",
+      "description": "Stater ca. 550-450 BC Cyzicus Mysia, Kyzikos, Electrum, NGC Ch VF 3/5-4/5",
+      "hammer_price_usd": 5441.52,
+      "currency_original": "USD",
+      "price_original": 5441.52,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/cdma/pic/thumb/1067745.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 3,
+        "strike_score": 3,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-cbf47e4c8d75",
       "source": "mashops",
       "listing_type": "fixed_price",
@@ -924,37 +1049,6 @@
       }
     },
     {
-      "id": "mashops-c1f7db39e61d",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8531",
-      "title": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC VF. Scratches.  HGC-4, 76 NGC VF",
-      "description": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC VF. Scratches.  HGC-4, 76 NGC VF",
-      "hammer_price_usd": 795.0,
-      "currency_original": "USD",
-      "price_original": 795.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8531_ngc6711716-012_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-69dbcc1a6687",
       "source": "mashops",
       "listing_type": "fixed_price",
@@ -973,37 +1067,6 @@
         "grade": "VF",
         "grade_numeric": 3,
         "strike_score": 3,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-e2ecbbbd010e",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/cdma/item.php?id=1066885",
-      "title": "Stater c. 550-475 BC Cyzicus Mysia, Kyzikos, Electrum, NGC Ch VF\u2605 5/5-3/5",
-      "description": "Stater c. 550-475 BC Cyzicus Mysia, Kyzikos, Electrum, NGC Ch VF\u2605 5/5-3/5",
-      "hammer_price_usd": 20304.18,
-      "currency_original": "USD",
-      "price_original": 20304.18,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/cdma/pic/thumb/1066885.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": 5,
         "surface_score": 3,
         "details_grade": null,
         "certification_url": null
