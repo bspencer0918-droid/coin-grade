@@ -87,7 +87,7 @@ export function renderCoinPage(coin: CoinDetail): string {
       <!-- Header -->
       <section class="flex gap-6 flex-wrap">
         ${coin.denomination === 'AR Tetradrachm'
-          ? `<div style="background-image:url('/coin-grade/ar-tetradrachm.jpg');background-size:85%;background-position:center;background-repeat:no-repeat;"
+          ? `<div style="background-image:url('/coin-grade/ar-tetradrachm.jpg');background-size:95%;background-position:center;background-repeat:no-repeat;"
                   class="w-32 h-32 rounded-full border border-stone-700 shadow-lg bg-stone-900 flex-shrink-0"></div>`
           : coin.thumbnail_url
             ? `<img src="${coin.thumbnail_url}" alt="${coin.denomination}"

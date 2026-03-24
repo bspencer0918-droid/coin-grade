@@ -77,7 +77,7 @@ export function renderCoinTable(
       ? 'w-10 h-10 object-contain rounded-full border border-stone-700 bg-stone-900 p-0.5'
       : 'w-10 h-10 object-cover rounded border border-stone-700'
     const thumb  = isCustomThumb
-      ? `<div style="background-image:url('${thumbSrc}');background-size:85%;background-position:center;background-repeat:no-repeat;" class="w-10 h-10 rounded-full border border-stone-700 bg-stone-900"></div>`
+      ? `<div style="background-image:url('${thumbSrc}');background-size:95%;background-position:center;background-repeat:no-repeat;" class="w-10 h-10 rounded-full border border-stone-700 bg-stone-900"></div>`
       : thumbSrc
         ? `<img src="${thumbSrc}" alt="" class="${thumbClass}" loading="lazy" />`
         : `<div class="w-10 h-10 rounded border border-stone-800 bg-stone-900 flex items-center justify-center text-stone-700 text-lg">🪙</div>`
