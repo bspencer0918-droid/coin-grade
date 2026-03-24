@@ -6,24 +6,27 @@
   "dynasty": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 90,
+  "sale_count": 130,
+  "realized_count": 0,
+  "fixed_price_count": 130,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 1295.0,
-    "max": 4448.91
+    "max": 3900.0
   },
-  "median_price_usd": 3400.0,
+  "median_price_usd": 2900.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "AU": 60,
-    "VF": 15,
-    "F": 15
+    "AU": 88,
+    "VF": 14,
+    "F": 28
   },
   "thumbnail_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid44_ngc6061195-003_obv_c.jpg",
   "sales": [
     {
       "id": "mashops-96976a2f0770",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=44",
       "title": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
@@ -52,38 +55,9 @@
       }
     },
     {
-      "id": "mashops-ca83c4f69222",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/coinsnb/item.php?id=120886",
-      "title": "Tetradrachm 465 BC - 450 BC Greece (ancient) Gela Ephesos 465 BC - 450 BC Tetradrachm (Sicily) Silver 16.42g NGC CH VF Jenkins 228 SNG Lockett 752 NGC CH VF",
-      "description": "Tetradrachm 465 BC - 450 BC Greece (ancient) Gela Ephesos 465 BC - 450 BC Tetradrachm (Sicily) Silver 16.42g NGC CH VF Jenkins 228 SNG Lockett 752 NGC CH VF",
-      "hammer_price_usd": 4448.91,
-      "currency_original": "USD",
-      "price_original": 4448.91,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/coinsnb/pic/thumb/120886.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-6aaa7acebcdf",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=39",
       "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
@@ -114,6 +88,7 @@
     {
       "id": "mashops-db1ef5680897",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=47",
       "title": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
@@ -142,38 +117,9 @@
       }
     },
     {
-      "id": "mashops-09ffbd66b42f",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8444",
-      "title": "AR Tetradrachm c.4th Century BC IONIA, Ephesos Circa 387-295 BC. AR Tetradrachm (14.95 gm). Bee NGC Ch F Strike: 4/5 Surface: 3/5",
-      "description": "AR Tetradrachm c.4th Century BC IONIA, Ephesos Circa 387-295 BC. AR Tetradrachm (14.95 gm). Bee NGC Ch F Strike: 4/5 Surface: 3/5",
-      "hammer_price_usd": 1295.0,
-      "currency_original": "USD",
-      "price_original": 1295.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/8444_1.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "F",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-9233f2c3a77e",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=38",
       "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
@@ -204,6 +150,7 @@
     {
       "id": "mashops-96976a2f0770",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=44",
       "title": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
@@ -232,24 +179,25 @@
       }
     },
     {
-      "id": "mashops-ca83c4f69222",
+      "id": "mashops-b4a5ff569e24",
       "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/coinsnb/item.php?id=120886",
-      "title": "Tetradrachm 465 BC - 450 BC Greece (ancient) Gela Ephesos 465 BC - 450 BC Tetradrachm (Sicily) Silver 16.42g NGC CH VF Jenkins 228 SNG Lockett 752 NGC CH VF",
-      "description": "Tetradrachm 465 BC - 450 BC Greece (ancient) Gela Ephesos 465 BC - 450 BC Tetradrachm (Sicily) Silver 16.42g NGC CH VF Jenkins 228 SNG Lockett 752 NGC CH VF",
-      "hammer_price_usd": 4448.91,
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=56",
+      "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "hammer_price_usd": 3900.0,
       "currency_original": "USD",
-      "price_original": 4448.91,
+      "price_original": 3900.0,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/coinsnb/pic/thumb/120886.jpg",
+      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid56_ngc4786582-005_obv_c.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
-        "grade": "VF",
+        "grade": "AU",
         "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
+        "strike_score": 5,
+        "surface_score": 5,
         "details_grade": null,
         "certification_url": null
       },
@@ -264,6 +212,7 @@
     {
       "id": "mashops-6aaa7acebcdf",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=39",
       "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
@@ -292,8 +241,40 @@
       }
     },
     {
+      "id": "mashops-0f930c1870dd",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8661",
+      "title": "AR Tetradrachm Demetrius I Poliorcetes MACEDONIAN KINGDOM. Demetrius Poliorcetes (306\u2013283 BC). AR tetradrachm (17.18 gm NGC VF Strike: 4/5 Surface: 4/5",
+      "description": "AR Tetradrachm Demetrius I Poliorcetes MACEDONIAN KINGDOM. Demetrius Poliorcetes (306\u2013283 BC). AR tetradrachm (17.18 gm NGC VF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1600.0,
+      "currency_original": "USD",
+      "price_original": 1600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/8661_1_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-db1ef5680897",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=47",
       "title": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
@@ -322,8 +303,40 @@
       }
     },
     {
+      "id": "mashops-72f0d6421b13",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8823",
+      "title": "AR Tetradrachm Lysimachus, 305-281 BC KINGS of THRACE, Macedonian. Lysimachos. 305-281 BC. AR Tetradrachm (17.11 g, 12 NGC Ch F Strike: 5/5 Surface: 3/5 Fine StyleFine S",
+      "description": "AR Tetradrachm Lysimachus, 305-281 BC KINGS of THRACE, Macedonian. Lysimachos. 305-281 BC. AR Tetradrachm (17.11 g, 12 NGC Ch F Strike: 5/5 Surface: 3/5 Fine StyleFine S",
+      "hammer_price_usd": 1495.0,
+      "currency_original": "USD",
+      "price_original": 1495.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8823_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-09ffbd66b42f",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8444",
       "title": "AR Tetradrachm c.4th Century BC IONIA, Ephesos Circa 387-295 BC. AR Tetradrachm (14.95 gm). Bee NGC Ch F Strike: 4/5 Surface: 3/5",
       "description": "AR Tetradrachm c.4th Century BC IONIA, Ephesos Circa 387-295 BC. AR Tetradrachm (14.95 gm). Bee NGC Ch F Strike: 4/5 Surface: 3/5",
@@ -352,8 +365,40 @@
       }
     },
     {
+      "id": "mashops-c61286610c24",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=55",
+      "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "hammer_price_usd": 3900.0,
+      "currency_original": "USD",
+      "price_original": 3900.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid55_ngc4629249-074_obv_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-9233f2c3a77e",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=38",
       "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
@@ -384,6 +429,7 @@
     {
       "id": "mashops-96976a2f0770",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=44",
       "title": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
@@ -412,24 +458,25 @@
       }
     },
     {
-      "id": "mashops-ca83c4f69222",
+      "id": "mashops-b4a5ff569e24",
       "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/coinsnb/item.php?id=120886",
-      "title": "Tetradrachm 465 BC - 450 BC Greece (ancient) Gela Ephesos 465 BC - 450 BC Tetradrachm (Sicily) Silver 16.42g NGC CH VF Jenkins 228 SNG Lockett 752 NGC CH VF",
-      "description": "Tetradrachm 465 BC - 450 BC Greece (ancient) Gela Ephesos 465 BC - 450 BC Tetradrachm (Sicily) Silver 16.42g NGC CH VF Jenkins 228 SNG Lockett 752 NGC CH VF",
-      "hammer_price_usd": 4448.91,
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=56",
+      "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "hammer_price_usd": 3900.0,
       "currency_original": "USD",
-      "price_original": 4448.91,
+      "price_original": 3900.0,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/coinsnb/pic/thumb/120886.jpg",
+      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid56_ngc4786582-005_obv_c.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
-        "grade": "VF",
+        "grade": "AU",
         "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
+        "strike_score": 5,
+        "surface_score": 5,
         "details_grade": null,
         "certification_url": null
       },
@@ -444,6 +491,7 @@
     {
       "id": "mashops-6aaa7acebcdf",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=39",
       "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
@@ -472,8 +520,40 @@
       }
     },
     {
+      "id": "mashops-0f930c1870dd",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8661",
+      "title": "AR Tetradrachm Demetrius I Poliorcetes MACEDONIAN KINGDOM. Demetrius Poliorcetes (306\u2013283 BC). AR tetradrachm (17.18 gm NGC VF Strike: 4/5 Surface: 4/5",
+      "description": "AR Tetradrachm Demetrius I Poliorcetes MACEDONIAN KINGDOM. Demetrius Poliorcetes (306\u2013283 BC). AR tetradrachm (17.18 gm NGC VF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1600.0,
+      "currency_original": "USD",
+      "price_original": 1600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/8661_1_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-db1ef5680897",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=47",
       "title": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
@@ -502,8 +582,40 @@
       }
     },
     {
+      "id": "mashops-72f0d6421b13",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8823",
+      "title": "AR Tetradrachm Lysimachus, 305-281 BC KINGS of THRACE, Macedonian. Lysimachos. 305-281 BC. AR Tetradrachm (17.11 g, 12 NGC Ch F Strike: 5/5 Surface: 3/5 Fine StyleFine S",
+      "description": "AR Tetradrachm Lysimachus, 305-281 BC KINGS of THRACE, Macedonian. Lysimachos. 305-281 BC. AR Tetradrachm (17.11 g, 12 NGC Ch F Strike: 5/5 Surface: 3/5 Fine StyleFine S",
+      "hammer_price_usd": 1495.0,
+      "currency_original": "USD",
+      "price_original": 1495.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8823_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-09ffbd66b42f",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8444",
       "title": "AR Tetradrachm c.4th Century BC IONIA, Ephesos Circa 387-295 BC. AR Tetradrachm (14.95 gm). Bee NGC Ch F Strike: 4/5 Surface: 3/5",
       "description": "AR Tetradrachm c.4th Century BC IONIA, Ephesos Circa 387-295 BC. AR Tetradrachm (14.95 gm). Bee NGC Ch F Strike: 4/5 Surface: 3/5",
@@ -532,8 +644,40 @@
       }
     },
     {
+      "id": "mashops-c61286610c24",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=55",
+      "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "hammer_price_usd": 3900.0,
+      "currency_original": "USD",
+      "price_original": 3900.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid55_ngc4629249-074_obv_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-9233f2c3a77e",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=38",
       "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
@@ -564,6 +708,7 @@
     {
       "id": "mashops-96976a2f0770",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=44",
       "title": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
@@ -592,24 +737,25 @@
       }
     },
     {
-      "id": "mashops-ca83c4f69222",
+      "id": "mashops-b4a5ff569e24",
       "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/coinsnb/item.php?id=120886",
-      "title": "Tetradrachm 465 BC - 450 BC Greece (ancient) Gela Ephesos 465 BC - 450 BC Tetradrachm (Sicily) Silver 16.42g NGC CH VF Jenkins 228 SNG Lockett 752 NGC CH VF",
-      "description": "Tetradrachm 465 BC - 450 BC Greece (ancient) Gela Ephesos 465 BC - 450 BC Tetradrachm (Sicily) Silver 16.42g NGC CH VF Jenkins 228 SNG Lockett 752 NGC CH VF",
-      "hammer_price_usd": 4448.91,
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=56",
+      "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "hammer_price_usd": 3900.0,
       "currency_original": "USD",
-      "price_original": 4448.91,
+      "price_original": 3900.0,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/coinsnb/pic/thumb/120886.jpg",
+      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid56_ngc4786582-005_obv_c.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
-        "grade": "VF",
+        "grade": "AU",
         "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
+        "strike_score": 5,
+        "surface_score": 5,
         "details_grade": null,
         "certification_url": null
       },
@@ -624,6 +770,7 @@
     {
       "id": "mashops-6aaa7acebcdf",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=39",
       "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
@@ -652,8 +799,40 @@
       }
     },
     {
+      "id": "mashops-0f930c1870dd",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8661",
+      "title": "AR Tetradrachm Demetrius I Poliorcetes MACEDONIAN KINGDOM. Demetrius Poliorcetes (306\u2013283 BC). AR tetradrachm (17.18 gm NGC VF Strike: 4/5 Surface: 4/5",
+      "description": "AR Tetradrachm Demetrius I Poliorcetes MACEDONIAN KINGDOM. Demetrius Poliorcetes (306\u2013283 BC). AR tetradrachm (17.18 gm NGC VF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1600.0,
+      "currency_original": "USD",
+      "price_original": 1600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/8661_1_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-db1ef5680897",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=47",
       "title": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
@@ -682,8 +861,40 @@
       }
     },
     {
+      "id": "mashops-72f0d6421b13",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8823",
+      "title": "AR Tetradrachm Lysimachus, 305-281 BC KINGS of THRACE, Macedonian. Lysimachos. 305-281 BC. AR Tetradrachm (17.11 g, 12 NGC Ch F Strike: 5/5 Surface: 3/5 Fine StyleFine S",
+      "description": "AR Tetradrachm Lysimachus, 305-281 BC KINGS of THRACE, Macedonian. Lysimachos. 305-281 BC. AR Tetradrachm (17.11 g, 12 NGC Ch F Strike: 5/5 Surface: 3/5 Fine StyleFine S",
+      "hammer_price_usd": 1495.0,
+      "currency_original": "USD",
+      "price_original": 1495.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8823_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-09ffbd66b42f",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8444",
       "title": "AR Tetradrachm c.4th Century BC IONIA, Ephesos Circa 387-295 BC. AR Tetradrachm (14.95 gm). Bee NGC Ch F Strike: 4/5 Surface: 3/5",
       "description": "AR Tetradrachm c.4th Century BC IONIA, Ephesos Circa 387-295 BC. AR Tetradrachm (14.95 gm). Bee NGC Ch F Strike: 4/5 Surface: 3/5",
@@ -712,8 +923,40 @@
       }
     },
     {
+      "id": "mashops-c61286610c24",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=55",
+      "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "hammer_price_usd": 3900.0,
+      "currency_original": "USD",
+      "price_original": 3900.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid55_ngc4629249-074_obv_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-9233f2c3a77e",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=38",
       "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
@@ -744,6 +987,7 @@
     {
       "id": "mashops-96976a2f0770",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=44",
       "title": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
@@ -772,24 +1016,25 @@
       }
     },
     {
-      "id": "mashops-ca83c4f69222",
+      "id": "mashops-b4a5ff569e24",
       "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/coinsnb/item.php?id=120886",
-      "title": "Tetradrachm 465 BC - 450 BC Greece (ancient) Gela Ephesos 465 BC - 450 BC Tetradrachm (Sicily) Silver 16.42g NGC CH VF Jenkins 228 SNG Lockett 752 NGC CH VF",
-      "description": "Tetradrachm 465 BC - 450 BC Greece (ancient) Gela Ephesos 465 BC - 450 BC Tetradrachm (Sicily) Silver 16.42g NGC CH VF Jenkins 228 SNG Lockett 752 NGC CH VF",
-      "hammer_price_usd": 4448.91,
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=56",
+      "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "hammer_price_usd": 3900.0,
       "currency_original": "USD",
-      "price_original": 4448.91,
+      "price_original": 3900.0,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/coinsnb/pic/thumb/120886.jpg",
+      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid56_ngc4786582-005_obv_c.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
-        "grade": "VF",
+        "grade": "AU",
         "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
+        "strike_score": 5,
+        "surface_score": 5,
         "details_grade": null,
         "certification_url": null
       },
@@ -804,6 +1049,7 @@
     {
       "id": "mashops-6aaa7acebcdf",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=39",
       "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
@@ -832,8 +1078,40 @@
       }
     },
     {
+      "id": "mashops-0f930c1870dd",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8661",
+      "title": "AR Tetradrachm Demetrius I Poliorcetes MACEDONIAN KINGDOM. Demetrius Poliorcetes (306\u2013283 BC). AR tetradrachm (17.18 gm NGC VF Strike: 4/5 Surface: 4/5",
+      "description": "AR Tetradrachm Demetrius I Poliorcetes MACEDONIAN KINGDOM. Demetrius Poliorcetes (306\u2013283 BC). AR tetradrachm (17.18 gm NGC VF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1600.0,
+      "currency_original": "USD",
+      "price_original": 1600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/8661_1_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-db1ef5680897",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=47",
       "title": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
@@ -862,8 +1140,40 @@
       }
     },
     {
+      "id": "mashops-72f0d6421b13",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8823",
+      "title": "AR Tetradrachm Lysimachus, 305-281 BC KINGS of THRACE, Macedonian. Lysimachos. 305-281 BC. AR Tetradrachm (17.11 g, 12 NGC Ch F Strike: 5/5 Surface: 3/5 Fine StyleFine S",
+      "description": "AR Tetradrachm Lysimachus, 305-281 BC KINGS of THRACE, Macedonian. Lysimachos. 305-281 BC. AR Tetradrachm (17.11 g, 12 NGC Ch F Strike: 5/5 Surface: 3/5 Fine StyleFine S",
+      "hammer_price_usd": 1495.0,
+      "currency_original": "USD",
+      "price_original": 1495.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8823_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-09ffbd66b42f",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8444",
       "title": "AR Tetradrachm c.4th Century BC IONIA, Ephesos Circa 387-295 BC. AR Tetradrachm (14.95 gm). Bee NGC Ch F Strike: 4/5 Surface: 3/5",
       "description": "AR Tetradrachm c.4th Century BC IONIA, Ephesos Circa 387-295 BC. AR Tetradrachm (14.95 gm). Bee NGC Ch F Strike: 4/5 Surface: 3/5",
@@ -892,8 +1202,40 @@
       }
     },
     {
+      "id": "mashops-c61286610c24",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=55",
+      "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "hammer_price_usd": 3900.0,
+      "currency_original": "USD",
+      "price_original": 3900.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid55_ngc4629249-074_obv_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-9233f2c3a77e",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=38",
       "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
@@ -924,6 +1266,7 @@
     {
       "id": "mashops-96976a2f0770",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=44",
       "title": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
@@ -952,24 +1295,25 @@
       }
     },
     {
-      "id": "mashops-ca83c4f69222",
+      "id": "mashops-b4a5ff569e24",
       "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/coinsnb/item.php?id=120886",
-      "title": "Tetradrachm 465 BC - 450 BC Greece (ancient) Gela Ephesos 465 BC - 450 BC Tetradrachm (Sicily) Silver 16.42g NGC CH VF Jenkins 228 SNG Lockett 752 NGC CH VF",
-      "description": "Tetradrachm 465 BC - 450 BC Greece (ancient) Gela Ephesos 465 BC - 450 BC Tetradrachm (Sicily) Silver 16.42g NGC CH VF Jenkins 228 SNG Lockett 752 NGC CH VF",
-      "hammer_price_usd": 4448.91,
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=56",
+      "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "hammer_price_usd": 3900.0,
       "currency_original": "USD",
-      "price_original": 4448.91,
+      "price_original": 3900.0,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/coinsnb/pic/thumb/120886.jpg",
+      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid56_ngc4786582-005_obv_c.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
-        "grade": "VF",
+        "grade": "AU",
         "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
+        "strike_score": 5,
+        "surface_score": 5,
         "details_grade": null,
         "certification_url": null
       },
@@ -984,6 +1328,7 @@
     {
       "id": "mashops-6aaa7acebcdf",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=39",
       "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
@@ -1012,8 +1357,40 @@
       }
     },
     {
+      "id": "mashops-0f930c1870dd",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8661",
+      "title": "AR Tetradrachm Demetrius I Poliorcetes MACEDONIAN KINGDOM. Demetrius Poliorcetes (306\u2013283 BC). AR tetradrachm (17.18 gm NGC VF Strike: 4/5 Surface: 4/5",
+      "description": "AR Tetradrachm Demetrius I Poliorcetes MACEDONIAN KINGDOM. Demetrius Poliorcetes (306\u2013283 BC). AR tetradrachm (17.18 gm NGC VF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1600.0,
+      "currency_original": "USD",
+      "price_original": 1600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/8661_1_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-db1ef5680897",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=47",
       "title": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
@@ -1042,8 +1419,40 @@
       }
     },
     {
+      "id": "mashops-72f0d6421b13",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8823",
+      "title": "AR Tetradrachm Lysimachus, 305-281 BC KINGS of THRACE, Macedonian. Lysimachos. 305-281 BC. AR Tetradrachm (17.11 g, 12 NGC Ch F Strike: 5/5 Surface: 3/5 Fine StyleFine S",
+      "description": "AR Tetradrachm Lysimachus, 305-281 BC KINGS of THRACE, Macedonian. Lysimachos. 305-281 BC. AR Tetradrachm (17.11 g, 12 NGC Ch F Strike: 5/5 Surface: 3/5 Fine StyleFine S",
+      "hammer_price_usd": 1495.0,
+      "currency_original": "USD",
+      "price_original": 1495.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8823_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-09ffbd66b42f",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8444",
       "title": "AR Tetradrachm c.4th Century BC IONIA, Ephesos Circa 387-295 BC. AR Tetradrachm (14.95 gm). Bee NGC Ch F Strike: 4/5 Surface: 3/5",
       "description": "AR Tetradrachm c.4th Century BC IONIA, Ephesos Circa 387-295 BC. AR Tetradrachm (14.95 gm). Bee NGC Ch F Strike: 4/5 Surface: 3/5",
@@ -1072,8 +1481,40 @@
       }
     },
     {
+      "id": "mashops-c61286610c24",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=55",
+      "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "hammer_price_usd": 3900.0,
+      "currency_original": "USD",
+      "price_original": 3900.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid55_ngc4629249-074_obv_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-9233f2c3a77e",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=38",
       "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
@@ -1104,6 +1545,7 @@
     {
       "id": "mashops-96976a2f0770",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=44",
       "title": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
@@ -1132,24 +1574,25 @@
       }
     },
     {
-      "id": "mashops-ca83c4f69222",
+      "id": "mashops-b4a5ff569e24",
       "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/coinsnb/item.php?id=120886",
-      "title": "Tetradrachm 465 BC - 450 BC Greece (ancient) Gela Ephesos 465 BC - 450 BC Tetradrachm (Sicily) Silver 16.42g NGC CH VF Jenkins 228 SNG Lockett 752 NGC CH VF",
-      "description": "Tetradrachm 465 BC - 450 BC Greece (ancient) Gela Ephesos 465 BC - 450 BC Tetradrachm (Sicily) Silver 16.42g NGC CH VF Jenkins 228 SNG Lockett 752 NGC CH VF",
-      "hammer_price_usd": 4448.91,
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=56",
+      "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "hammer_price_usd": 3900.0,
       "currency_original": "USD",
-      "price_original": 4448.91,
+      "price_original": 3900.0,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/coinsnb/pic/thumb/120886.jpg",
+      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid56_ngc4786582-005_obv_c.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
-        "grade": "VF",
+        "grade": "AU",
         "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
+        "strike_score": 5,
+        "surface_score": 5,
         "details_grade": null,
         "certification_url": null
       },
@@ -1164,6 +1607,7 @@
     {
       "id": "mashops-6aaa7acebcdf",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=39",
       "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
@@ -1192,8 +1636,40 @@
       }
     },
     {
+      "id": "mashops-0f930c1870dd",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8661",
+      "title": "AR Tetradrachm Demetrius I Poliorcetes MACEDONIAN KINGDOM. Demetrius Poliorcetes (306\u2013283 BC). AR tetradrachm (17.18 gm NGC VF Strike: 4/5 Surface: 4/5",
+      "description": "AR Tetradrachm Demetrius I Poliorcetes MACEDONIAN KINGDOM. Demetrius Poliorcetes (306\u2013283 BC). AR tetradrachm (17.18 gm NGC VF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1600.0,
+      "currency_original": "USD",
+      "price_original": 1600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/8661_1_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-db1ef5680897",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=47",
       "title": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
@@ -1222,8 +1698,40 @@
       }
     },
     {
+      "id": "mashops-72f0d6421b13",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8823",
+      "title": "AR Tetradrachm Lysimachus, 305-281 BC KINGS of THRACE, Macedonian. Lysimachos. 305-281 BC. AR Tetradrachm (17.11 g, 12 NGC Ch F Strike: 5/5 Surface: 3/5 Fine StyleFine S",
+      "description": "AR Tetradrachm Lysimachus, 305-281 BC KINGS of THRACE, Macedonian. Lysimachos. 305-281 BC. AR Tetradrachm (17.11 g, 12 NGC Ch F Strike: 5/5 Surface: 3/5 Fine StyleFine S",
+      "hammer_price_usd": 1495.0,
+      "currency_original": "USD",
+      "price_original": 1495.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8823_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-09ffbd66b42f",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8444",
       "title": "AR Tetradrachm c.4th Century BC IONIA, Ephesos Circa 387-295 BC. AR Tetradrachm (14.95 gm). Bee NGC Ch F Strike: 4/5 Surface: 3/5",
       "description": "AR Tetradrachm c.4th Century BC IONIA, Ephesos Circa 387-295 BC. AR Tetradrachm (14.95 gm). Bee NGC Ch F Strike: 4/5 Surface: 3/5",
@@ -1252,8 +1760,40 @@
       }
     },
     {
+      "id": "mashops-c61286610c24",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=55",
+      "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "hammer_price_usd": 3900.0,
+      "currency_original": "USD",
+      "price_original": 3900.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid55_ngc4629249-074_obv_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-9233f2c3a77e",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=38",
       "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
@@ -1284,6 +1824,7 @@
     {
       "id": "mashops-96976a2f0770",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=44",
       "title": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
@@ -1312,24 +1853,25 @@
       }
     },
     {
-      "id": "mashops-ca83c4f69222",
+      "id": "mashops-b4a5ff569e24",
       "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/coinsnb/item.php?id=120886",
-      "title": "Tetradrachm 465 BC - 450 BC Greece (ancient) Gela Ephesos 465 BC - 450 BC Tetradrachm (Sicily) Silver 16.42g NGC CH VF Jenkins 228 SNG Lockett 752 NGC CH VF",
-      "description": "Tetradrachm 465 BC - 450 BC Greece (ancient) Gela Ephesos 465 BC - 450 BC Tetradrachm (Sicily) Silver 16.42g NGC CH VF Jenkins 228 SNG Lockett 752 NGC CH VF",
-      "hammer_price_usd": 4448.91,
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=56",
+      "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "hammer_price_usd": 3900.0,
       "currency_original": "USD",
-      "price_original": 4448.91,
+      "price_original": 3900.0,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/coinsnb/pic/thumb/120886.jpg",
+      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid56_ngc4786582-005_obv_c.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
-        "grade": "VF",
+        "grade": "AU",
         "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
+        "strike_score": 5,
+        "surface_score": 5,
         "details_grade": null,
         "certification_url": null
       },
@@ -1344,6 +1886,7 @@
     {
       "id": "mashops-6aaa7acebcdf",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=39",
       "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
@@ -1372,8 +1915,40 @@
       }
     },
     {
+      "id": "mashops-0f930c1870dd",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8661",
+      "title": "AR Tetradrachm Demetrius I Poliorcetes MACEDONIAN KINGDOM. Demetrius Poliorcetes (306\u2013283 BC). AR tetradrachm (17.18 gm NGC VF Strike: 4/5 Surface: 4/5",
+      "description": "AR Tetradrachm Demetrius I Poliorcetes MACEDONIAN KINGDOM. Demetrius Poliorcetes (306\u2013283 BC). AR tetradrachm (17.18 gm NGC VF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1600.0,
+      "currency_original": "USD",
+      "price_original": 1600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/8661_1_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-db1ef5680897",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=47",
       "title": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
@@ -1402,8 +1977,40 @@
       }
     },
     {
+      "id": "mashops-72f0d6421b13",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8823",
+      "title": "AR Tetradrachm Lysimachus, 305-281 BC KINGS of THRACE, Macedonian. Lysimachos. 305-281 BC. AR Tetradrachm (17.11 g, 12 NGC Ch F Strike: 5/5 Surface: 3/5 Fine StyleFine S",
+      "description": "AR Tetradrachm Lysimachus, 305-281 BC KINGS of THRACE, Macedonian. Lysimachos. 305-281 BC. AR Tetradrachm (17.11 g, 12 NGC Ch F Strike: 5/5 Surface: 3/5 Fine StyleFine S",
+      "hammer_price_usd": 1495.0,
+      "currency_original": "USD",
+      "price_original": 1495.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8823_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-09ffbd66b42f",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8444",
       "title": "AR Tetradrachm c.4th Century BC IONIA, Ephesos Circa 387-295 BC. AR Tetradrachm (14.95 gm). Bee NGC Ch F Strike: 4/5 Surface: 3/5",
       "description": "AR Tetradrachm c.4th Century BC IONIA, Ephesos Circa 387-295 BC. AR Tetradrachm (14.95 gm). Bee NGC Ch F Strike: 4/5 Surface: 3/5",
@@ -1432,8 +2039,40 @@
       }
     },
     {
+      "id": "mashops-c61286610c24",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=55",
+      "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "hammer_price_usd": 3900.0,
+      "currency_original": "USD",
+      "price_original": 3900.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid55_ngc4629249-074_obv_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-9233f2c3a77e",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=38",
       "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
@@ -1464,6 +2103,7 @@
     {
       "id": "mashops-96976a2f0770",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=44",
       "title": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
@@ -1492,24 +2132,25 @@
       }
     },
     {
-      "id": "mashops-ca83c4f69222",
+      "id": "mashops-b4a5ff569e24",
       "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/coinsnb/item.php?id=120886",
-      "title": "Tetradrachm 465 BC - 450 BC Greece (ancient) Gela Ephesos 465 BC - 450 BC Tetradrachm (Sicily) Silver 16.42g NGC CH VF Jenkins 228 SNG Lockett 752 NGC CH VF",
-      "description": "Tetradrachm 465 BC - 450 BC Greece (ancient) Gela Ephesos 465 BC - 450 BC Tetradrachm (Sicily) Silver 16.42g NGC CH VF Jenkins 228 SNG Lockett 752 NGC CH VF",
-      "hammer_price_usd": 4448.91,
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=56",
+      "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "hammer_price_usd": 3900.0,
       "currency_original": "USD",
-      "price_original": 4448.91,
+      "price_original": 3900.0,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/coinsnb/pic/thumb/120886.jpg",
+      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid56_ngc4786582-005_obv_c.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
-        "grade": "VF",
+        "grade": "AU",
         "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
+        "strike_score": 5,
+        "surface_score": 5,
         "details_grade": null,
         "certification_url": null
       },
@@ -1524,6 +2165,7 @@
     {
       "id": "mashops-6aaa7acebcdf",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=39",
       "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
@@ -1552,8 +2194,40 @@
       }
     },
     {
+      "id": "mashops-0f930c1870dd",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8661",
+      "title": "AR Tetradrachm Demetrius I Poliorcetes MACEDONIAN KINGDOM. Demetrius Poliorcetes (306\u2013283 BC). AR tetradrachm (17.18 gm NGC VF Strike: 4/5 Surface: 4/5",
+      "description": "AR Tetradrachm Demetrius I Poliorcetes MACEDONIAN KINGDOM. Demetrius Poliorcetes (306\u2013283 BC). AR tetradrachm (17.18 gm NGC VF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1600.0,
+      "currency_original": "USD",
+      "price_original": 1600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/8661_1_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-db1ef5680897",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=47",
       "title": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
@@ -1582,8 +2256,40 @@
       }
     },
     {
+      "id": "mashops-72f0d6421b13",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8823",
+      "title": "AR Tetradrachm Lysimachus, 305-281 BC KINGS of THRACE, Macedonian. Lysimachos. 305-281 BC. AR Tetradrachm (17.11 g, 12 NGC Ch F Strike: 5/5 Surface: 3/5 Fine StyleFine S",
+      "description": "AR Tetradrachm Lysimachus, 305-281 BC KINGS of THRACE, Macedonian. Lysimachos. 305-281 BC. AR Tetradrachm (17.11 g, 12 NGC Ch F Strike: 5/5 Surface: 3/5 Fine StyleFine S",
+      "hammer_price_usd": 1495.0,
+      "currency_original": "USD",
+      "price_original": 1495.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8823_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-09ffbd66b42f",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8444",
       "title": "AR Tetradrachm c.4th Century BC IONIA, Ephesos Circa 387-295 BC. AR Tetradrachm (14.95 gm). Bee NGC Ch F Strike: 4/5 Surface: 3/5",
       "description": "AR Tetradrachm c.4th Century BC IONIA, Ephesos Circa 387-295 BC. AR Tetradrachm (14.95 gm). Bee NGC Ch F Strike: 4/5 Surface: 3/5",
@@ -1612,8 +2318,40 @@
       }
     },
     {
+      "id": "mashops-c61286610c24",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=55",
+      "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "hammer_price_usd": 3900.0,
+      "currency_original": "USD",
+      "price_original": 3900.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid55_ngc4629249-074_obv_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-9233f2c3a77e",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=38",
       "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
@@ -1644,6 +2382,7 @@
     {
       "id": "mashops-96976a2f0770",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=44",
       "title": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
@@ -1672,24 +2411,25 @@
       }
     },
     {
-      "id": "mashops-ca83c4f69222",
+      "id": "mashops-b4a5ff569e24",
       "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/coinsnb/item.php?id=120886",
-      "title": "Tetradrachm 465 BC - 450 BC Greece (ancient) Gela Ephesos 465 BC - 450 BC Tetradrachm (Sicily) Silver 16.42g NGC CH VF Jenkins 228 SNG Lockett 752 NGC CH VF",
-      "description": "Tetradrachm 465 BC - 450 BC Greece (ancient) Gela Ephesos 465 BC - 450 BC Tetradrachm (Sicily) Silver 16.42g NGC CH VF Jenkins 228 SNG Lockett 752 NGC CH VF",
-      "hammer_price_usd": 4448.91,
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=56",
+      "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "hammer_price_usd": 3900.0,
       "currency_original": "USD",
-      "price_original": 4448.91,
+      "price_original": 3900.0,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/coinsnb/pic/thumb/120886.jpg",
+      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid56_ngc4786582-005_obv_c.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
-        "grade": "VF",
+        "grade": "AU",
         "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
+        "strike_score": 5,
+        "surface_score": 5,
         "details_grade": null,
         "certification_url": null
       },
@@ -1704,6 +2444,7 @@
     {
       "id": "mashops-6aaa7acebcdf",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=39",
       "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
@@ -1732,8 +2473,40 @@
       }
     },
     {
+      "id": "mashops-0f930c1870dd",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8661",
+      "title": "AR Tetradrachm Demetrius I Poliorcetes MACEDONIAN KINGDOM. Demetrius Poliorcetes (306\u2013283 BC). AR tetradrachm (17.18 gm NGC VF Strike: 4/5 Surface: 4/5",
+      "description": "AR Tetradrachm Demetrius I Poliorcetes MACEDONIAN KINGDOM. Demetrius Poliorcetes (306\u2013283 BC). AR tetradrachm (17.18 gm NGC VF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1600.0,
+      "currency_original": "USD",
+      "price_original": 1600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/8661_1_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-db1ef5680897",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=47",
       "title": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
@@ -1762,8 +2535,40 @@
       }
     },
     {
+      "id": "mashops-72f0d6421b13",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8823",
+      "title": "AR Tetradrachm Lysimachus, 305-281 BC KINGS of THRACE, Macedonian. Lysimachos. 305-281 BC. AR Tetradrachm (17.11 g, 12 NGC Ch F Strike: 5/5 Surface: 3/5 Fine StyleFine S",
+      "description": "AR Tetradrachm Lysimachus, 305-281 BC KINGS of THRACE, Macedonian. Lysimachos. 305-281 BC. AR Tetradrachm (17.11 g, 12 NGC Ch F Strike: 5/5 Surface: 3/5 Fine StyleFine S",
+      "hammer_price_usd": 1495.0,
+      "currency_original": "USD",
+      "price_original": 1495.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8823_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-09ffbd66b42f",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8444",
       "title": "AR Tetradrachm c.4th Century BC IONIA, Ephesos Circa 387-295 BC. AR Tetradrachm (14.95 gm). Bee NGC Ch F Strike: 4/5 Surface: 3/5",
       "description": "AR Tetradrachm c.4th Century BC IONIA, Ephesos Circa 387-295 BC. AR Tetradrachm (14.95 gm). Bee NGC Ch F Strike: 4/5 Surface: 3/5",
@@ -1792,8 +2597,40 @@
       }
     },
     {
+      "id": "mashops-c61286610c24",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=55",
+      "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "hammer_price_usd": 3900.0,
+      "currency_original": "USD",
+      "price_original": 3900.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid55_ngc4629249-074_obv_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-9233f2c3a77e",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=38",
       "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
@@ -1824,6 +2661,7 @@
     {
       "id": "mashops-96976a2f0770",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=44",
       "title": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
@@ -1852,24 +2690,25 @@
       }
     },
     {
-      "id": "mashops-ca83c4f69222",
+      "id": "mashops-b4a5ff569e24",
       "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/coinsnb/item.php?id=120886",
-      "title": "Tetradrachm 465 BC - 450 BC Greece (ancient) Gela Ephesos 465 BC - 450 BC Tetradrachm (Sicily) Silver 16.42g NGC CH VF Jenkins 228 SNG Lockett 752 NGC CH VF",
-      "description": "Tetradrachm 465 BC - 450 BC Greece (ancient) Gela Ephesos 465 BC - 450 BC Tetradrachm (Sicily) Silver 16.42g NGC CH VF Jenkins 228 SNG Lockett 752 NGC CH VF",
-      "hammer_price_usd": 4448.91,
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=56",
+      "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "hammer_price_usd": 3900.0,
       "currency_original": "USD",
-      "price_original": 4448.91,
+      "price_original": 3900.0,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/coinsnb/pic/thumb/120886.jpg",
+      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid56_ngc4786582-005_obv_c.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
-        "grade": "VF",
+        "grade": "AU",
         "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
+        "strike_score": 5,
+        "surface_score": 5,
         "details_grade": null,
         "certification_url": null
       },
@@ -1884,6 +2723,7 @@
     {
       "id": "mashops-6aaa7acebcdf",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=39",
       "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
@@ -1912,8 +2752,40 @@
       }
     },
     {
+      "id": "mashops-0f930c1870dd",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8661",
+      "title": "AR Tetradrachm Demetrius I Poliorcetes MACEDONIAN KINGDOM. Demetrius Poliorcetes (306\u2013283 BC). AR tetradrachm (17.18 gm NGC VF Strike: 4/5 Surface: 4/5",
+      "description": "AR Tetradrachm Demetrius I Poliorcetes MACEDONIAN KINGDOM. Demetrius Poliorcetes (306\u2013283 BC). AR tetradrachm (17.18 gm NGC VF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1600.0,
+      "currency_original": "USD",
+      "price_original": 1600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/8661_1_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-db1ef5680897",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=47",
       "title": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
@@ -1942,8 +2814,40 @@
       }
     },
     {
+      "id": "mashops-72f0d6421b13",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8823",
+      "title": "AR Tetradrachm Lysimachus, 305-281 BC KINGS of THRACE, Macedonian. Lysimachos. 305-281 BC. AR Tetradrachm (17.11 g, 12 NGC Ch F Strike: 5/5 Surface: 3/5 Fine StyleFine S",
+      "description": "AR Tetradrachm Lysimachus, 305-281 BC KINGS of THRACE, Macedonian. Lysimachos. 305-281 BC. AR Tetradrachm (17.11 g, 12 NGC Ch F Strike: 5/5 Surface: 3/5 Fine StyleFine S",
+      "hammer_price_usd": 1495.0,
+      "currency_original": "USD",
+      "price_original": 1495.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8823_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-09ffbd66b42f",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8444",
       "title": "AR Tetradrachm c.4th Century BC IONIA, Ephesos Circa 387-295 BC. AR Tetradrachm (14.95 gm). Bee NGC Ch F Strike: 4/5 Surface: 3/5",
       "description": "AR Tetradrachm c.4th Century BC IONIA, Ephesos Circa 387-295 BC. AR Tetradrachm (14.95 gm). Bee NGC Ch F Strike: 4/5 Surface: 3/5",
@@ -1972,8 +2876,40 @@
       }
     },
     {
+      "id": "mashops-c61286610c24",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=55",
+      "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "hammer_price_usd": 3900.0,
+      "currency_original": "USD",
+      "price_original": 3900.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid55_ngc4629249-074_obv_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-9233f2c3a77e",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=38",
       "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
@@ -2004,6 +2940,7 @@
     {
       "id": "mashops-96976a2f0770",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=44",
       "title": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
@@ -2032,24 +2969,25 @@
       }
     },
     {
-      "id": "mashops-ca83c4f69222",
+      "id": "mashops-b4a5ff569e24",
       "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/coinsnb/item.php?id=120886",
-      "title": "Tetradrachm 465 BC - 450 BC Greece (ancient) Gela Ephesos 465 BC - 450 BC Tetradrachm (Sicily) Silver 16.42g NGC CH VF Jenkins 228 SNG Lockett 752 NGC CH VF",
-      "description": "Tetradrachm 465 BC - 450 BC Greece (ancient) Gela Ephesos 465 BC - 450 BC Tetradrachm (Sicily) Silver 16.42g NGC CH VF Jenkins 228 SNG Lockett 752 NGC CH VF",
-      "hammer_price_usd": 4448.91,
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=56",
+      "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "hammer_price_usd": 3900.0,
       "currency_original": "USD",
-      "price_original": 4448.91,
+      "price_original": 3900.0,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/coinsnb/pic/thumb/120886.jpg",
+      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid56_ngc4786582-005_obv_c.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
-        "grade": "VF",
+        "grade": "AU",
         "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
+        "strike_score": 5,
+        "surface_score": 5,
         "details_grade": null,
         "certification_url": null
       },
@@ -2064,6 +3002,7 @@
     {
       "id": "mashops-6aaa7acebcdf",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=39",
       "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
@@ -2092,8 +3031,40 @@
       }
     },
     {
+      "id": "mashops-0f930c1870dd",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8661",
+      "title": "AR Tetradrachm Demetrius I Poliorcetes MACEDONIAN KINGDOM. Demetrius Poliorcetes (306\u2013283 BC). AR tetradrachm (17.18 gm NGC VF Strike: 4/5 Surface: 4/5",
+      "description": "AR Tetradrachm Demetrius I Poliorcetes MACEDONIAN KINGDOM. Demetrius Poliorcetes (306\u2013283 BC). AR tetradrachm (17.18 gm NGC VF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1600.0,
+      "currency_original": "USD",
+      "price_original": 1600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/8661_1_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-db1ef5680897",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=47",
       "title": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
@@ -2122,8 +3093,40 @@
       }
     },
     {
+      "id": "mashops-72f0d6421b13",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8823",
+      "title": "AR Tetradrachm Lysimachus, 305-281 BC KINGS of THRACE, Macedonian. Lysimachos. 305-281 BC. AR Tetradrachm (17.11 g, 12 NGC Ch F Strike: 5/5 Surface: 3/5 Fine StyleFine S",
+      "description": "AR Tetradrachm Lysimachus, 305-281 BC KINGS of THRACE, Macedonian. Lysimachos. 305-281 BC. AR Tetradrachm (17.11 g, 12 NGC Ch F Strike: 5/5 Surface: 3/5 Fine StyleFine S",
+      "hammer_price_usd": 1495.0,
+      "currency_original": "USD",
+      "price_original": 1495.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8823_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-09ffbd66b42f",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8444",
       "title": "AR Tetradrachm c.4th Century BC IONIA, Ephesos Circa 387-295 BC. AR Tetradrachm (14.95 gm). Bee NGC Ch F Strike: 4/5 Surface: 3/5",
       "description": "AR Tetradrachm c.4th Century BC IONIA, Ephesos Circa 387-295 BC. AR Tetradrachm (14.95 gm). Bee NGC Ch F Strike: 4/5 Surface: 3/5",
@@ -2152,8 +3155,40 @@
       }
     },
     {
+      "id": "mashops-c61286610c24",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=55",
+      "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "hammer_price_usd": 3900.0,
+      "currency_original": "USD",
+      "price_original": 3900.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid55_ngc4629249-074_obv_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-9233f2c3a77e",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=38",
       "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
@@ -2184,6 +3219,7 @@
     {
       "id": "mashops-96976a2f0770",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=44",
       "title": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
@@ -2212,24 +3248,25 @@
       }
     },
     {
-      "id": "mashops-ca83c4f69222",
+      "id": "mashops-b4a5ff569e24",
       "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/coinsnb/item.php?id=120886",
-      "title": "Tetradrachm 465 BC - 450 BC Greece (ancient) Gela Ephesos 465 BC - 450 BC Tetradrachm (Sicily) Silver 16.42g NGC CH VF Jenkins 228 SNG Lockett 752 NGC CH VF",
-      "description": "Tetradrachm 465 BC - 450 BC Greece (ancient) Gela Ephesos 465 BC - 450 BC Tetradrachm (Sicily) Silver 16.42g NGC CH VF Jenkins 228 SNG Lockett 752 NGC CH VF",
-      "hammer_price_usd": 4448.91,
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=56",
+      "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "hammer_price_usd": 3900.0,
       "currency_original": "USD",
-      "price_original": 4448.91,
+      "price_original": 3900.0,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/coinsnb/pic/thumb/120886.jpg",
+      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid56_ngc4786582-005_obv_c.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
-        "grade": "VF",
+        "grade": "AU",
         "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
+        "strike_score": 5,
+        "surface_score": 5,
         "details_grade": null,
         "certification_url": null
       },
@@ -2244,6 +3281,7 @@
     {
       "id": "mashops-6aaa7acebcdf",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=39",
       "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
@@ -2272,8 +3310,40 @@
       }
     },
     {
+      "id": "mashops-0f930c1870dd",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8661",
+      "title": "AR Tetradrachm Demetrius I Poliorcetes MACEDONIAN KINGDOM. Demetrius Poliorcetes (306\u2013283 BC). AR tetradrachm (17.18 gm NGC VF Strike: 4/5 Surface: 4/5",
+      "description": "AR Tetradrachm Demetrius I Poliorcetes MACEDONIAN KINGDOM. Demetrius Poliorcetes (306\u2013283 BC). AR tetradrachm (17.18 gm NGC VF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1600.0,
+      "currency_original": "USD",
+      "price_original": 1600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/8661_1_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-db1ef5680897",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=47",
       "title": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
@@ -2302,8 +3372,40 @@
       }
     },
     {
+      "id": "mashops-72f0d6421b13",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8823",
+      "title": "AR Tetradrachm Lysimachus, 305-281 BC KINGS of THRACE, Macedonian. Lysimachos. 305-281 BC. AR Tetradrachm (17.11 g, 12 NGC Ch F Strike: 5/5 Surface: 3/5 Fine StyleFine S",
+      "description": "AR Tetradrachm Lysimachus, 305-281 BC KINGS of THRACE, Macedonian. Lysimachos. 305-281 BC. AR Tetradrachm (17.11 g, 12 NGC Ch F Strike: 5/5 Surface: 3/5 Fine StyleFine S",
+      "hammer_price_usd": 1495.0,
+      "currency_original": "USD",
+      "price_original": 1495.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8823_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-09ffbd66b42f",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8444",
       "title": "AR Tetradrachm c.4th Century BC IONIA, Ephesos Circa 387-295 BC. AR Tetradrachm (14.95 gm). Bee NGC Ch F Strike: 4/5 Surface: 3/5",
       "description": "AR Tetradrachm c.4th Century BC IONIA, Ephesos Circa 387-295 BC. AR Tetradrachm (14.95 gm). Bee NGC Ch F Strike: 4/5 Surface: 3/5",
@@ -2332,8 +3434,40 @@
       }
     },
     {
+      "id": "mashops-c61286610c24",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=55",
+      "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "hammer_price_usd": 3900.0,
+      "currency_original": "USD",
+      "price_original": 3900.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid55_ngc4629249-074_obv_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-9233f2c3a77e",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=38",
       "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
@@ -2364,6 +3498,7 @@
     {
       "id": "mashops-96976a2f0770",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=44",
       "title": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
@@ -2392,24 +3527,25 @@
       }
     },
     {
-      "id": "mashops-ca83c4f69222",
+      "id": "mashops-b4a5ff569e24",
       "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/coinsnb/item.php?id=120886",
-      "title": "Tetradrachm 465 BC - 450 BC Greece (ancient) Gela Ephesos 465 BC - 450 BC Tetradrachm (Sicily) Silver 16.42g NGC CH VF Jenkins 228 SNG Lockett 752 NGC CH VF",
-      "description": "Tetradrachm 465 BC - 450 BC Greece (ancient) Gela Ephesos 465 BC - 450 BC Tetradrachm (Sicily) Silver 16.42g NGC CH VF Jenkins 228 SNG Lockett 752 NGC CH VF",
-      "hammer_price_usd": 4448.91,
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=56",
+      "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "hammer_price_usd": 3900.0,
       "currency_original": "USD",
-      "price_original": 4448.91,
+      "price_original": 3900.0,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/coinsnb/pic/thumb/120886.jpg",
+      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid56_ngc4786582-005_obv_c.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
-        "grade": "VF",
+        "grade": "AU",
         "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
+        "strike_score": 5,
+        "surface_score": 5,
         "details_grade": null,
         "certification_url": null
       },
@@ -2424,6 +3560,7 @@
     {
       "id": "mashops-6aaa7acebcdf",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=39",
       "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
@@ -2452,8 +3589,40 @@
       }
     },
     {
+      "id": "mashops-0f930c1870dd",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8661",
+      "title": "AR Tetradrachm Demetrius I Poliorcetes MACEDONIAN KINGDOM. Demetrius Poliorcetes (306\u2013283 BC). AR tetradrachm (17.18 gm NGC VF Strike: 4/5 Surface: 4/5",
+      "description": "AR Tetradrachm Demetrius I Poliorcetes MACEDONIAN KINGDOM. Demetrius Poliorcetes (306\u2013283 BC). AR tetradrachm (17.18 gm NGC VF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1600.0,
+      "currency_original": "USD",
+      "price_original": 1600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/8661_1_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-db1ef5680897",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=47",
       "title": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
@@ -2482,8 +3651,40 @@
       }
     },
     {
+      "id": "mashops-72f0d6421b13",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8823",
+      "title": "AR Tetradrachm Lysimachus, 305-281 BC KINGS of THRACE, Macedonian. Lysimachos. 305-281 BC. AR Tetradrachm (17.11 g, 12 NGC Ch F Strike: 5/5 Surface: 3/5 Fine StyleFine S",
+      "description": "AR Tetradrachm Lysimachus, 305-281 BC KINGS of THRACE, Macedonian. Lysimachos. 305-281 BC. AR Tetradrachm (17.11 g, 12 NGC Ch F Strike: 5/5 Surface: 3/5 Fine StyleFine S",
+      "hammer_price_usd": 1495.0,
+      "currency_original": "USD",
+      "price_original": 1495.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8823_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-09ffbd66b42f",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8444",
       "title": "AR Tetradrachm c.4th Century BC IONIA, Ephesos Circa 387-295 BC. AR Tetradrachm (14.95 gm). Bee NGC Ch F Strike: 4/5 Surface: 3/5",
       "description": "AR Tetradrachm c.4th Century BC IONIA, Ephesos Circa 387-295 BC. AR Tetradrachm (14.95 gm). Bee NGC Ch F Strike: 4/5 Surface: 3/5",
@@ -2512,8 +3713,40 @@
       }
     },
     {
+      "id": "mashops-c61286610c24",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=55",
+      "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "hammer_price_usd": 3900.0,
+      "currency_original": "USD",
+      "price_original": 3900.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid55_ngc4629249-074_obv_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-9233f2c3a77e",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=38",
       "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
@@ -2544,6 +3777,7 @@
     {
       "id": "mashops-96976a2f0770",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=44",
       "title": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
@@ -2572,24 +3806,25 @@
       }
     },
     {
-      "id": "mashops-ca83c4f69222",
+      "id": "mashops-b4a5ff569e24",
       "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/coinsnb/item.php?id=120886",
-      "title": "Tetradrachm 465 BC - 450 BC Greece (ancient) Gela Ephesos 465 BC - 450 BC Tetradrachm (Sicily) Silver 16.42g NGC CH VF Jenkins 228 SNG Lockett 752 NGC CH VF",
-      "description": "Tetradrachm 465 BC - 450 BC Greece (ancient) Gela Ephesos 465 BC - 450 BC Tetradrachm (Sicily) Silver 16.42g NGC CH VF Jenkins 228 SNG Lockett 752 NGC CH VF",
-      "hammer_price_usd": 4448.91,
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=56",
+      "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "hammer_price_usd": 3900.0,
       "currency_original": "USD",
-      "price_original": 4448.91,
+      "price_original": 3900.0,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/coinsnb/pic/thumb/120886.jpg",
+      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid56_ngc4786582-005_obv_c.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
-        "grade": "VF",
+        "grade": "AU",
         "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
+        "strike_score": 5,
+        "surface_score": 5,
         "details_grade": null,
         "certification_url": null
       },
@@ -2604,6 +3839,7 @@
     {
       "id": "mashops-6aaa7acebcdf",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=39",
       "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
@@ -2632,8 +3868,40 @@
       }
     },
     {
+      "id": "mashops-0f930c1870dd",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8661",
+      "title": "AR Tetradrachm Demetrius I Poliorcetes MACEDONIAN KINGDOM. Demetrius Poliorcetes (306\u2013283 BC). AR tetradrachm (17.18 gm NGC VF Strike: 4/5 Surface: 4/5",
+      "description": "AR Tetradrachm Demetrius I Poliorcetes MACEDONIAN KINGDOM. Demetrius Poliorcetes (306\u2013283 BC). AR tetradrachm (17.18 gm NGC VF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1600.0,
+      "currency_original": "USD",
+      "price_original": 1600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/8661_1_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-db1ef5680897",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=47",
       "title": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC AU Strike: 5/5 Surface: 5/5",
@@ -2662,8 +3930,40 @@
       }
     },
     {
+      "id": "mashops-72f0d6421b13",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8823",
+      "title": "AR Tetradrachm Lysimachus, 305-281 BC KINGS of THRACE, Macedonian. Lysimachos. 305-281 BC. AR Tetradrachm (17.11 g, 12 NGC Ch F Strike: 5/5 Surface: 3/5 Fine StyleFine S",
+      "description": "AR Tetradrachm Lysimachus, 305-281 BC KINGS of THRACE, Macedonian. Lysimachos. 305-281 BC. AR Tetradrachm (17.11 g, 12 NGC Ch F Strike: 5/5 Surface: 3/5 Fine StyleFine S",
+      "hammer_price_usd": 1495.0,
+      "currency_original": "USD",
+      "price_original": 1495.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8823_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-09ffbd66b42f",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8444",
       "title": "AR Tetradrachm c.4th Century BC IONIA, Ephesos Circa 387-295 BC. AR Tetradrachm (14.95 gm). Bee NGC Ch F Strike: 4/5 Surface: 3/5",
       "description": "AR Tetradrachm c.4th Century BC IONIA, Ephesos Circa 387-295 BC. AR Tetradrachm (14.95 gm). Bee NGC Ch F Strike: 4/5 Surface: 3/5",
@@ -2692,8 +3992,40 @@
       }
     },
     {
+      "id": "mashops-c61286610c24",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=55",
+      "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
+      "hammer_price_usd": 3900.0,
+      "currency_original": "USD",
+      "price_original": 3900.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid55_ngc4629249-074_obv_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-9233f2c3a77e",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=38",
       "title": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",
       "description": "AR Tetradrachm c.440-404 BC  NGC Ch AU Strike: 5/5 Surface: 5/5",

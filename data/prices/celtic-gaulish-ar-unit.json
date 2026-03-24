@@ -7,6 +7,8 @@
   "denomination": "AR Unit",
   "metal": "silver",
   "sale_count": 2,
+  "realized_count": 2,
+  "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 160.0,
@@ -22,6 +24,7 @@
     {
       "id": "cng-01ef60725480",
       "source": "cng",
+      "listing_type": "auction_realized",
       "lot_url": "https://auctions.cngcoins.com/lots/view/4-JJ7ITA",
       "title": "Electronic Auction 603 Lot: 5. GAUL, Central. Sequani. Circa 100-50 BC. AR Unit (12mm, 2h). NGC XF.",
       "description": "Celtic, Silver Estimated:\u00a0$   100 Sold\u00a0Price:\u00a0$   300",
@@ -52,6 +55,7 @@
     {
       "id": "cng-ac153544eb4a",
       "source": "cng",
+      "listing_type": "auction_realized",
       "lot_url": "https://auctions.cngcoins.com/lots/view/4-J9VTM8",
       "title": "Triton XXIX \u2013 Session 5 Lot: 5007. GAUL, Central. Sequani. Circa 100-50 BC. AR Unit (12mm, 6h). NGC XF.",
       "description": "Celtic, Silver Estimated:\u00a0$   100 Sold\u00a0Price:\u00a0$   160",

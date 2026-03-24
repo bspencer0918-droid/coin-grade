@@ -6,7 +6,9 @@
   "dynasty": null,
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 66,
+  "sale_count": 62,
+  "realized_count": 0,
+  "fixed_price_count": 62,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 1295.0,
@@ -15,14 +17,16 @@
   "median_price_usd": 1395.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "VF": 36,
-    "XF": 30
+    "VF": 33,
+    "F": 1,
+    "XF": 28
   },
-  "thumbnail_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8932_combined.jpg",
+  "thumbnail_url": "https://img.ma-shops.com/schacht/pic/thumb/artid2913_combined.jpg",
   "sales": [
     {
       "id": "vcoins-7583118b5cac",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/heraclius_with_heraclius_constantine_ad_613641_av_solidus_21mm_436_gm_7h_ngc_choice_vf_45__25/2350611/Default.aspx",
       "title": "Heraclius with Heraclius Constantine (AD 613-641). AV solidus (21mm, 4.36 gm, 7h). NGC Choice VF 4/5 - 2/5,",
       "description": "",
@@ -53,6 +57,7 @@
     {
       "id": "vcoins-e9497a4c1470",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/constans_ii_pogonatus_ad_641668_av_solidus_19mm_429_gm_7h_ngc_choice_vf_45__25/2350608/Default.aspx",
       "title": "Constans II Pogonatus (AD 641-668). AV solidus (19mm, 4.29 gm, 7h). NGC Choice VF 4/5 - 2/5,",
       "description": "",
@@ -83,6 +88,7 @@
     {
       "id": "vcoins-dcfc96774b19",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/heraclius_with_heraclius_constantine_ad_613641_av_solidus_20mm_431_gm_7h_ngc_vf_45__25/2350602/Default.aspx",
       "title": "Heraclius with Heraclius Constantine (AD 613-641). AV solidus (20mm, 4.31 gm, 7h). NGC VF 4/5 - 2/5",
       "description": "",
@@ -113,6 +119,7 @@
     {
       "id": "vcoins-7583118b5cac",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/heraclius_with_heraclius_constantine_ad_613641_av_solidus_21mm_436_gm_7h_ngc_choice_vf_45__25/2350611/Default.aspx",
       "title": "Heraclius with Heraclius Constantine (AD 613-641). AV solidus (21mm, 4.36 gm, 7h). NGC Choice VF 4/5 - 2/5,",
       "description": "",
@@ -143,6 +150,7 @@
     {
       "id": "vcoins-e9497a4c1470",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/constans_ii_pogonatus_ad_641668_av_solidus_19mm_429_gm_7h_ngc_choice_vf_45__25/2350608/Default.aspx",
       "title": "Constans II Pogonatus (AD 641-668). AV solidus (19mm, 4.29 gm, 7h). NGC Choice VF 4/5 - 2/5,",
       "description": "",
@@ -173,6 +181,7 @@
     {
       "id": "vcoins-dcfc96774b19",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/heraclius_with_heraclius_constantine_ad_613641_av_solidus_20mm_431_gm_7h_ngc_vf_45__25/2350602/Default.aspx",
       "title": "Heraclius with Heraclius Constantine (AD 613-641). AV solidus (20mm, 4.31 gm, 7h). NGC VF 4/5 - 2/5",
       "description": "",
@@ -203,6 +212,7 @@
     {
       "id": "vcoins-7583118b5cac",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/heraclius_with_heraclius_constantine_ad_613641_av_solidus_21mm_436_gm_7h_ngc_choice_vf_45__25/2350611/Default.aspx",
       "title": "Heraclius with Heraclius Constantine (AD 613-641). AV solidus (21mm, 4.36 gm, 7h). NGC Choice VF 4/5 - 2/5,",
       "description": "",
@@ -233,6 +243,7 @@
     {
       "id": "vcoins-e9497a4c1470",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/constans_ii_pogonatus_ad_641668_av_solidus_19mm_429_gm_7h_ngc_choice_vf_45__25/2350608/Default.aspx",
       "title": "Constans II Pogonatus (AD 641-668). AV solidus (19mm, 4.29 gm, 7h). NGC Choice VF 4/5 - 2/5,",
       "description": "",
@@ -263,6 +274,7 @@
     {
       "id": "vcoins-dcfc96774b19",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/heraclius_with_heraclius_constantine_ad_613641_av_solidus_20mm_431_gm_7h_ngc_vf_45__25/2350602/Default.aspx",
       "title": "Heraclius with Heraclius Constantine (AD 613-641). AV solidus (20mm, 4.31 gm, 7h). NGC VF 4/5 - 2/5",
       "description": "",
@@ -293,6 +305,7 @@
     {
       "id": "vcoins-7583118b5cac",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/heraclius_with_heraclius_constantine_ad_613641_av_solidus_21mm_436_gm_7h_ngc_choice_vf_45__25/2350611/Default.aspx",
       "title": "Heraclius with Heraclius Constantine (AD 613-641). AV solidus (21mm, 4.36 gm, 7h). NGC Choice VF 4/5 - 2/5,",
       "description": "",
@@ -323,6 +336,7 @@
     {
       "id": "vcoins-e9497a4c1470",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/constans_ii_pogonatus_ad_641668_av_solidus_19mm_429_gm_7h_ngc_choice_vf_45__25/2350608/Default.aspx",
       "title": "Constans II Pogonatus (AD 641-668). AV solidus (19mm, 4.29 gm, 7h). NGC Choice VF 4/5 - 2/5,",
       "description": "",
@@ -353,6 +367,7 @@
     {
       "id": "vcoins-dcfc96774b19",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/heraclius_with_heraclius_constantine_ad_613641_av_solidus_20mm_431_gm_7h_ngc_vf_45__25/2350602/Default.aspx",
       "title": "Heraclius with Heraclius Constantine (AD 613-641). AV solidus (20mm, 4.31 gm, 7h). NGC VF 4/5 - 2/5",
       "description": "",
@@ -383,6 +398,7 @@
     {
       "id": "vcoins-7583118b5cac",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/heraclius_with_heraclius_constantine_ad_613641_av_solidus_21mm_436_gm_7h_ngc_choice_vf_45__25/2350611/Default.aspx",
       "title": "Heraclius with Heraclius Constantine (AD 613-641). AV solidus (21mm, 4.36 gm, 7h). NGC Choice VF 4/5 - 2/5,",
       "description": "",
@@ -413,6 +429,7 @@
     {
       "id": "vcoins-e9497a4c1470",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/constans_ii_pogonatus_ad_641668_av_solidus_19mm_429_gm_7h_ngc_choice_vf_45__25/2350608/Default.aspx",
       "title": "Constans II Pogonatus (AD 641-668). AV solidus (19mm, 4.29 gm, 7h). NGC Choice VF 4/5 - 2/5,",
       "description": "",
@@ -443,6 +460,7 @@
     {
       "id": "vcoins-dcfc96774b19",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/heraclius_with_heraclius_constantine_ad_613641_av_solidus_20mm_431_gm_7h_ngc_vf_45__25/2350602/Default.aspx",
       "title": "Heraclius with Heraclius Constantine (AD 613-641). AV solidus (20mm, 4.31 gm, 7h). NGC VF 4/5 - 2/5",
       "description": "",
@@ -473,6 +491,7 @@
     {
       "id": "vcoins-7583118b5cac",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/heraclius_with_heraclius_constantine_ad_613641_av_solidus_21mm_436_gm_7h_ngc_choice_vf_45__25/2350611/Default.aspx",
       "title": "Heraclius with Heraclius Constantine (AD 613-641). AV solidus (21mm, 4.36 gm, 7h). NGC Choice VF 4/5 - 2/5,",
       "description": "",
@@ -503,6 +522,7 @@
     {
       "id": "vcoins-e9497a4c1470",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/constans_ii_pogonatus_ad_641668_av_solidus_19mm_429_gm_7h_ngc_choice_vf_45__25/2350608/Default.aspx",
       "title": "Constans II Pogonatus (AD 641-668). AV solidus (19mm, 4.29 gm, 7h). NGC Choice VF 4/5 - 2/5,",
       "description": "",
@@ -533,6 +553,7 @@
     {
       "id": "vcoins-dcfc96774b19",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/heraclius_with_heraclius_constantine_ad_613641_av_solidus_20mm_431_gm_7h_ngc_vf_45__25/2350602/Default.aspx",
       "title": "Heraclius with Heraclius Constantine (AD 613-641). AV solidus (20mm, 4.31 gm, 7h). NGC VF 4/5 - 2/5",
       "description": "",
@@ -563,6 +584,7 @@
     {
       "id": "vcoins-7583118b5cac",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/heraclius_with_heraclius_constantine_ad_613641_av_solidus_21mm_436_gm_7h_ngc_choice_vf_45__25/2350611/Default.aspx",
       "title": "Heraclius with Heraclius Constantine (AD 613-641). AV solidus (21mm, 4.36 gm, 7h). NGC Choice VF 4/5 - 2/5,",
       "description": "",
@@ -593,6 +615,7 @@
     {
       "id": "vcoins-e9497a4c1470",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/constans_ii_pogonatus_ad_641668_av_solidus_19mm_429_gm_7h_ngc_choice_vf_45__25/2350608/Default.aspx",
       "title": "Constans II Pogonatus (AD 641-668). AV solidus (19mm, 4.29 gm, 7h). NGC Choice VF 4/5 - 2/5,",
       "description": "",
@@ -623,6 +646,7 @@
     {
       "id": "vcoins-dcfc96774b19",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/heraclius_with_heraclius_constantine_ad_613641_av_solidus_20mm_431_gm_7h_ngc_vf_45__25/2350602/Default.aspx",
       "title": "Heraclius with Heraclius Constantine (AD 613-641). AV solidus (20mm, 4.31 gm, 7h). NGC VF 4/5 - 2/5",
       "description": "",
@@ -653,6 +677,7 @@
     {
       "id": "vcoins-7583118b5cac",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/heraclius_with_heraclius_constantine_ad_613641_av_solidus_21mm_436_gm_7h_ngc_choice_vf_45__25/2350611/Default.aspx",
       "title": "Heraclius with Heraclius Constantine (AD 613-641). AV solidus (21mm, 4.36 gm, 7h). NGC Choice VF 4/5 - 2/5,",
       "description": "",
@@ -683,6 +708,7 @@
     {
       "id": "vcoins-e9497a4c1470",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/constans_ii_pogonatus_ad_641668_av_solidus_19mm_429_gm_7h_ngc_choice_vf_45__25/2350608/Default.aspx",
       "title": "Constans II Pogonatus (AD 641-668). AV solidus (19mm, 4.29 gm, 7h). NGC Choice VF 4/5 - 2/5,",
       "description": "",
@@ -713,6 +739,7 @@
     {
       "id": "vcoins-dcfc96774b19",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/heraclius_with_heraclius_constantine_ad_613641_av_solidus_20mm_431_gm_7h_ngc_vf_45__25/2350602/Default.aspx",
       "title": "Heraclius with Heraclius Constantine (AD 613-641). AV solidus (20mm, 4.31 gm, 7h). NGC VF 4/5 - 2/5",
       "description": "",
@@ -743,6 +770,7 @@
     {
       "id": "vcoins-7583118b5cac",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/heraclius_with_heraclius_constantine_ad_613641_av_solidus_21mm_436_gm_7h_ngc_choice_vf_45__25/2350611/Default.aspx",
       "title": "Heraclius with Heraclius Constantine (AD 613-641). AV solidus (21mm, 4.36 gm, 7h). NGC Choice VF 4/5 - 2/5,",
       "description": "",
@@ -773,6 +801,7 @@
     {
       "id": "vcoins-e9497a4c1470",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/constans_ii_pogonatus_ad_641668_av_solidus_19mm_429_gm_7h_ngc_choice_vf_45__25/2350608/Default.aspx",
       "title": "Constans II Pogonatus (AD 641-668). AV solidus (19mm, 4.29 gm, 7h). NGC Choice VF 4/5 - 2/5,",
       "description": "",
@@ -803,6 +832,7 @@
     {
       "id": "vcoins-dcfc96774b19",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/heraclius_with_heraclius_constantine_ad_613641_av_solidus_20mm_431_gm_7h_ngc_vf_45__25/2350602/Default.aspx",
       "title": "Heraclius with Heraclius Constantine (AD 613-641). AV solidus (20mm, 4.31 gm, 7h). NGC VF 4/5 - 2/5",
       "description": "",
@@ -833,6 +863,7 @@
     {
       "id": "vcoins-7583118b5cac",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/heraclius_with_heraclius_constantine_ad_613641_av_solidus_21mm_436_gm_7h_ngc_choice_vf_45__25/2350611/Default.aspx",
       "title": "Heraclius with Heraclius Constantine (AD 613-641). AV solidus (21mm, 4.36 gm, 7h). NGC Choice VF 4/5 - 2/5,",
       "description": "",
@@ -863,6 +894,7 @@
     {
       "id": "vcoins-e9497a4c1470",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/constans_ii_pogonatus_ad_641668_av_solidus_19mm_429_gm_7h_ngc_choice_vf_45__25/2350608/Default.aspx",
       "title": "Constans II Pogonatus (AD 641-668). AV solidus (19mm, 4.29 gm, 7h). NGC Choice VF 4/5 - 2/5,",
       "description": "",
@@ -893,6 +925,7 @@
     {
       "id": "vcoins-dcfc96774b19",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/heraclius_with_heraclius_constantine_ad_613641_av_solidus_20mm_431_gm_7h_ngc_vf_45__25/2350602/Default.aspx",
       "title": "Heraclius with Heraclius Constantine (AD 613-641). AV solidus (20mm, 4.31 gm, 7h). NGC VF 4/5 - 2/5",
       "description": "",
@@ -923,6 +956,7 @@
     {
       "id": "vcoins-7583118b5cac",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/heraclius_with_heraclius_constantine_ad_613641_av_solidus_21mm_436_gm_7h_ngc_choice_vf_45__25/2350611/Default.aspx",
       "title": "Heraclius with Heraclius Constantine (AD 613-641). AV solidus (21mm, 4.36 gm, 7h). NGC Choice VF 4/5 - 2/5,",
       "description": "",
@@ -953,6 +987,7 @@
     {
       "id": "vcoins-e9497a4c1470",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/constans_ii_pogonatus_ad_641668_av_solidus_19mm_429_gm_7h_ngc_choice_vf_45__25/2350608/Default.aspx",
       "title": "Constans II Pogonatus (AD 641-668). AV solidus (19mm, 4.29 gm, 7h). NGC Choice VF 4/5 - 2/5,",
       "description": "",
@@ -983,6 +1018,7 @@
     {
       "id": "vcoins-dcfc96774b19",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/heraclius_with_heraclius_constantine_ad_613641_av_solidus_20mm_431_gm_7h_ngc_vf_45__25/2350602/Default.aspx",
       "title": "Heraclius with Heraclius Constantine (AD 613-641). AV solidus (20mm, 4.31 gm, 7h). NGC VF 4/5 - 2/5",
       "description": "",
@@ -1011,84 +1047,25 @@
       }
     },
     {
-      "id": "vcoins-7583118b5cac",
-      "source": "vcoins",
-      "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/heraclius_with_heraclius_constantine_ad_613641_av_solidus_21mm_436_gm_7h_ngc_choice_vf_45__25/2350611/Default.aspx",
-      "title": "Heraclius with Heraclius Constantine (AD 613-641). AV solidus (21mm, 4.36 gm, 7h). NGC Choice VF 4/5 - 2/5,",
-      "description": "",
-      "hammer_price_usd": 1295.0,
+      "id": "mashops-8a67c36cd66e",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/schacht/item.php?id=2913",
+      "title": "AV Solidus 364-378 Valens (364-378) - R\u00f6misches Kaiserreich NGC F Strike: 5/5 Surface: 1/5",
+      "description": "AV Solidus 364-378 Valens (364-378) - R\u00f6misches Kaiserreich NGC F Strike: 5/5 Surface: 1/5",
+      "hammer_price_usd": 1612.73,
       "currency_original": "USD",
-      "price_original": 1295.0,
+      "price_original": 1612.73,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": null,
+      "image_url": "https://img.ma-shops.com/schacht/pic/thumb/artid2913_combined.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "vcoins-e9497a4c1470",
-      "source": "vcoins",
-      "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/constans_ii_pogonatus_ad_641668_av_solidus_19mm_429_gm_7h_ngc_choice_vf_45__25/2350608/Default.aspx",
-      "title": "Constans II Pogonatus (AD 641-668). AV solidus (19mm, 4.29 gm, 7h). NGC Choice VF 4/5 - 2/5,",
-      "description": "",
-      "hammer_price_usd": 1395.0,
-      "currency_original": "USD",
-      "price_original": 1395.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "vcoins-dcfc96774b19",
-      "source": "vcoins",
-      "lot_url": "https://www.vcoins.com/en/stores/palmyra_heritage/120/product/heraclius_with_heraclius_constantine_ad_613641_av_solidus_20mm_431_gm_7h_ngc_vf_45__25/2350602/Default.aspx",
-      "title": "Heraclius with Heraclius Constantine (AD 613-641). AV solidus (20mm, 4.31 gm, 7h). NGC VF 4/5 - 2/5",
-      "description": "",
-      "hammer_price_usd": 1295.0,
-      "currency_original": "USD",
-      "price_original": 1295.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 2,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 1,
         "details_grade": null,
         "certification_url": null
       },
@@ -1103,6 +1080,7 @@
     {
       "id": "mashops-ab6a2074c00b",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8932",
       "title": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
       "description": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
@@ -1133,6 +1111,7 @@
     {
       "id": "mashops-c6863c67e096",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8931",
       "title": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
       "description": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
@@ -1163,6 +1142,7 @@
     {
       "id": "mashops-ab6a2074c00b",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8932",
       "title": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
       "description": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
@@ -1193,6 +1173,7 @@
     {
       "id": "mashops-c6863c67e096",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8931",
       "title": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
       "description": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
@@ -1223,6 +1204,7 @@
     {
       "id": "mashops-ab6a2074c00b",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8932",
       "title": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
       "description": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
@@ -1253,6 +1235,7 @@
     {
       "id": "mashops-c6863c67e096",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8931",
       "title": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
       "description": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
@@ -1283,6 +1266,7 @@
     {
       "id": "mashops-ab6a2074c00b",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8932",
       "title": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
       "description": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
@@ -1313,6 +1297,7 @@
     {
       "id": "mashops-c6863c67e096",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8931",
       "title": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
       "description": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
@@ -1343,6 +1328,7 @@
     {
       "id": "mashops-ab6a2074c00b",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8932",
       "title": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
       "description": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
@@ -1373,6 +1359,7 @@
     {
       "id": "mashops-c6863c67e096",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8931",
       "title": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
       "description": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
@@ -1403,6 +1390,7 @@
     {
       "id": "mashops-ab6a2074c00b",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8932",
       "title": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
       "description": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
@@ -1433,6 +1421,7 @@
     {
       "id": "mashops-c6863c67e096",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8931",
       "title": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
       "description": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
@@ -1463,6 +1452,7 @@
     {
       "id": "mashops-ab6a2074c00b",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8932",
       "title": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
       "description": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
@@ -1493,6 +1483,7 @@
     {
       "id": "mashops-c6863c67e096",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8931",
       "title": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
       "description": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
@@ -1523,6 +1514,7 @@
     {
       "id": "mashops-ab6a2074c00b",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8932",
       "title": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
       "description": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
@@ -1553,6 +1545,7 @@
     {
       "id": "mashops-c6863c67e096",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8931",
       "title": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
       "description": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
@@ -1583,6 +1576,7 @@
     {
       "id": "mashops-ab6a2074c00b",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8932",
       "title": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
       "description": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
@@ -1613,6 +1607,7 @@
     {
       "id": "mashops-c6863c67e096",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8931",
       "title": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
       "description": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
@@ -1643,6 +1638,7 @@
     {
       "id": "mashops-ab6a2074c00b",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8932",
       "title": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
       "description": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
@@ -1673,6 +1669,7 @@
     {
       "id": "mashops-c6863c67e096",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8931",
       "title": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
       "description": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
@@ -1703,6 +1700,7 @@
     {
       "id": "mashops-ab6a2074c00b",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8932",
       "title": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
       "description": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
@@ -1733,6 +1731,7 @@
     {
       "id": "mashops-c6863c67e096",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8931",
       "title": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
       "description": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
@@ -1763,6 +1762,7 @@
     {
       "id": "mashops-ab6a2074c00b",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8932",
       "title": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
       "description": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
@@ -1793,6 +1793,7 @@
     {
       "id": "mashops-c6863c67e096",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8931",
       "title": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
       "description": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
@@ -1823,6 +1824,7 @@
     {
       "id": "mashops-ab6a2074c00b",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8932",
       "title": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
       "description": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
@@ -1853,6 +1855,7 @@
     {
       "id": "mashops-c6863c67e096",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8931",
       "title": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
       "description": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
@@ -1883,6 +1886,7 @@
     {
       "id": "mashops-ab6a2074c00b",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8932",
       "title": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
       "description": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
@@ -1913,66 +1917,7 @@
     {
       "id": "mashops-c6863c67e096",
       "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8931",
-      "title": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
-      "description": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
-      "hammer_price_usd": 6975.0,
-      "currency_original": "USD",
-      "price_original": 6975.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8931_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-ab6a2074c00b",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8932",
-      "title": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
-      "description": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
-      "hammer_price_usd": 6975.0,
-      "currency_original": "USD",
-      "price_original": 6975.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8932_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-c6863c67e096",
-      "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8931",
       "title": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",
       "description": "AV Solidus Justinian II, AD 685-695 Justinian II, first reign (AD 685-695). Gold Solidus (4.23 g), struck AD 692-695 NGC XF Strike: 4/5 Surface: 2/5",

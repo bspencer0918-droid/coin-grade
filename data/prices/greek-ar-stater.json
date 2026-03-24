@@ -6,24 +6,28 @@
   "dynasty": null,
   "denomination": "AR Stater",
   "metal": "electrum",
-  "sale_count": 136,
+  "sale_count": 123,
+  "realized_count": 0,
+  "fixed_price_count": 123,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 396.0,
     "max": 10000.0
   },
-  "median_price_usd": 7500.0,
+  "median_price_usd": 6800.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "VF": 31,
-    "XF": 75,
-    "AU": 30
+    "VF": 30,
+    "XF": 48,
+    "AU": 44,
+    "MS": 1
   },
   "thumbnail_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid23_combined.jpg",
   "sales": [
     {
       "id": "vcoins-5a0e8fa98bc0",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/aristos_ancients/339/product/cilicia_mallos_440385_bc_ar_stater_kronos_with_solar_disk_swan_ngc_vf/2242996/Default.aspx",
       "title": "Cilicia Mallos 440-385 BC. AR Stater Kronos with Solar Disk Swan NGC VF",
       "description": "",
@@ -54,6 +58,7 @@
     {
       "id": "mashops-cdae0b8ac041",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=23",
       "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
@@ -84,6 +89,7 @@
     {
       "id": "mashops-0f498bcc37e7",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=27",
       "title": "EL Third-Stater c.610-546 BC  NGC XF Strike: 5/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC XF Strike: 5/5 Surface: 4/5",
@@ -114,12 +120,13 @@
     {
       "id": "mashops-ca5a6cce7c5d",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88746",
       "title": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
       "description": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
-      "hammer_price_usd": 866.67,
+      "hammer_price_usd": 870.18,
       "currency_original": "USD",
-      "price_original": 866.67,
+      "price_original": 870.18,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
       "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88746_ngc6631251-017_obv_c.jpg",
@@ -144,6 +151,7 @@
     {
       "id": "mashops-b85b75808569",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=18",
       "title": "EL Third-Stater c.610-546 BC  NGC AU Strike: 3/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC AU Strike: 3/5 Surface: 4/5",
@@ -174,6 +182,7 @@
     {
       "id": "mashops-67841014f9ee",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=53",
       "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
       "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
@@ -204,6 +213,7 @@
     {
       "id": "mashops-71ed48dcda15",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=31",
       "title": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 5/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 5/5 Surface: 4/5",
@@ -234,12 +244,13 @@
     {
       "id": "mashops-692faae31bec",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88745",
       "title": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
       "description": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 1126.67,
+      "hammer_price_usd": 1131.23,
       "currency_original": "USD",
-      "price_original": 1126.67,
+      "price_original": 1131.23,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
       "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88745_combined.jpg",
@@ -262,21 +273,22 @@
       }
     },
     {
-      "id": "mashops-118c656e0e4a",
+      "id": "mashops-d3776538fbe8",
       "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8087",
-      "title": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
-      "description": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
-      "hammer_price_usd": 997.0,
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8773",
+      "title": "AR STATER 350-300 B.C ITALY. Bruttium. Kroton. AR Stater (7.44 gms), ca. 350-300 B.C. NGC Ch EF, Strik CHOICE XF",
+      "description": "AR STATER 350-300 B.C ITALY. Bruttium. Kroton. AR Stater (7.44 gms), ca. 350-300 B.C. NGC Ch EF, Strik CHOICE XF",
+      "hammer_price_usd": 1975.0,
       "currency_original": "USD",
-      "price_original": 997.0,
+      "price_original": 1975.0,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8087_ngc6710505-004_obv_c.jpg",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/8773_1.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
-        "grade": "VF",
+        "grade": "XF",
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
@@ -294,6 +306,7 @@
     {
       "id": "mashops-a7346d33d1c2",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=21",
       "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
@@ -310,6 +323,37 @@
         "grade_numeric": null,
         "strike_score": 4,
         "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-69c8de4b3416",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=7503",
+      "title": "AR STATER 361 BC CILICIA. Tarsus. Mazaeus, as Satrap (ca. 361-328 BC). AR stater (24mm, 10.51 gm, NGC MS",
+      "description": "AR STATER 361 BC CILICIA. Tarsus. Mazaeus, as Satrap (ca. 361-328 BC). AR stater (24mm, 10.51 gm, NGC MS",
+      "hammer_price_usd": 1975.0,
+      "currency_original": "USD",
+      "price_original": 1975.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/7503_1.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
         "details_grade": null,
         "certification_url": null
       },
@@ -324,6 +368,7 @@
     {
       "id": "mashops-cdae0b8ac041",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=23",
       "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
@@ -354,6 +399,7 @@
     {
       "id": "mashops-0f498bcc37e7",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=27",
       "title": "EL Third-Stater c.610-546 BC  NGC XF Strike: 5/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC XF Strike: 5/5 Surface: 4/5",
@@ -384,12 +430,13 @@
     {
       "id": "mashops-ca5a6cce7c5d",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88746",
       "title": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
       "description": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
-      "hammer_price_usd": 866.67,
+      "hammer_price_usd": 870.18,
       "currency_original": "USD",
-      "price_original": 866.67,
+      "price_original": 870.18,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
       "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88746_ngc6631251-017_obv_c.jpg",
@@ -412,8 +459,40 @@
       }
     },
     {
+      "id": "mashops-380473671e57",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=183",
+      "title": "AE Stater Rhescuporis V, AD 314-341 KINGDOM OF BOSPORUS AE Stater Rhescuporis V, AD 314-341 NGC AU NGC AU Strike: 5/5 Surface: 4/5",
+      "description": "AE Stater Rhescuporis V, AD 314-341 KINGDOM OF BOSPORUS AE Stater Rhescuporis V, AD 314-341 NGC AU NGC AU Strike: 5/5 Surface: 4/5",
+      "hammer_price_usd": 549.99,
+      "currency_original": "USD",
+      "price_original": 549.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid183_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-b85b75808569",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=18",
       "title": "EL Third-Stater c.610-546 BC  NGC AU Strike: 3/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC AU Strike: 3/5 Surface: 4/5",
@@ -442,17 +521,18 @@
       }
     },
     {
-      "id": "mashops-67841014f9ee",
+      "id": "mashops-692faae31bec",
       "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=53",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 8000.0,
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88745",
+      "title": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
+      "description": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
+      "hammer_price_usd": 1131.23,
       "currency_original": "USD",
-      "price_original": 8000.0,
+      "price_original": 1131.23,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid53_combined.jpg",
+      "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88745_combined.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
@@ -474,6 +554,7 @@
     {
       "id": "mashops-71ed48dcda15",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=31",
       "title": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 5/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 5/5 Surface: 4/5",
@@ -502,38 +583,9 @@
       }
     },
     {
-      "id": "mashops-692faae31bec",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88745",
-      "title": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "description": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 1126.67,
-      "currency_original": "USD",
-      "price_original": 1126.67,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88745_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-118c656e0e4a",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8087",
       "title": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
       "description": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
@@ -550,36 +602,6 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-a7346d33d1c2",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=21",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
-      "hammer_price_usd": 8000.0,
-      "currency_original": "USD",
-      "price_original": 8000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid21_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 4,
         "details_grade": null,
         "certification_url": null
       },
@@ -594,6 +616,7 @@
     {
       "id": "mashops-cdae0b8ac041",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=23",
       "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
@@ -624,6 +647,7 @@
     {
       "id": "mashops-0f498bcc37e7",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=27",
       "title": "EL Third-Stater c.610-546 BC  NGC XF Strike: 5/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC XF Strike: 5/5 Surface: 4/5",
@@ -654,12 +678,13 @@
     {
       "id": "mashops-ca5a6cce7c5d",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88746",
       "title": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
       "description": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
-      "hammer_price_usd": 866.67,
+      "hammer_price_usd": 870.18,
       "currency_original": "USD",
-      "price_original": 866.67,
+      "price_original": 870.18,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
       "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88746_ngc6631251-017_obv_c.jpg",
@@ -682,8 +707,40 @@
       }
     },
     {
+      "id": "mashops-380473671e57",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=183",
+      "title": "AE Stater Rhescuporis V, AD 314-341 KINGDOM OF BOSPORUS AE Stater Rhescuporis V, AD 314-341 NGC AU NGC AU Strike: 5/5 Surface: 4/5",
+      "description": "AE Stater Rhescuporis V, AD 314-341 KINGDOM OF BOSPORUS AE Stater Rhescuporis V, AD 314-341 NGC AU NGC AU Strike: 5/5 Surface: 4/5",
+      "hammer_price_usd": 549.99,
+      "currency_original": "USD",
+      "price_original": 549.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid183_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-b85b75808569",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=18",
       "title": "EL Third-Stater c.610-546 BC  NGC AU Strike: 3/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC AU Strike: 3/5 Surface: 4/5",
@@ -712,17 +769,18 @@
       }
     },
     {
-      "id": "mashops-67841014f9ee",
+      "id": "mashops-692faae31bec",
       "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=53",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 8000.0,
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88745",
+      "title": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
+      "description": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
+      "hammer_price_usd": 1131.23,
       "currency_original": "USD",
-      "price_original": 8000.0,
+      "price_original": 1131.23,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid53_combined.jpg",
+      "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88745_combined.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
@@ -744,6 +802,7 @@
     {
       "id": "mashops-71ed48dcda15",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=31",
       "title": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 5/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 5/5 Surface: 4/5",
@@ -772,38 +831,9 @@
       }
     },
     {
-      "id": "mashops-692faae31bec",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88745",
-      "title": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "description": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 1126.67,
-      "currency_original": "USD",
-      "price_original": 1126.67,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88745_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-118c656e0e4a",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8087",
       "title": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
       "description": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
@@ -820,36 +850,6 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-a7346d33d1c2",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=21",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
-      "hammer_price_usd": 8000.0,
-      "currency_original": "USD",
-      "price_original": 8000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid21_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 4,
         "details_grade": null,
         "certification_url": null
       },
@@ -864,6 +864,7 @@
     {
       "id": "mashops-cdae0b8ac041",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=23",
       "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
@@ -894,6 +895,7 @@
     {
       "id": "mashops-0f498bcc37e7",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=27",
       "title": "EL Third-Stater c.610-546 BC  NGC XF Strike: 5/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC XF Strike: 5/5 Surface: 4/5",
@@ -924,12 +926,13 @@
     {
       "id": "mashops-ca5a6cce7c5d",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88746",
       "title": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
       "description": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
-      "hammer_price_usd": 866.67,
+      "hammer_price_usd": 870.18,
       "currency_original": "USD",
-      "price_original": 866.67,
+      "price_original": 870.18,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
       "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88746_ngc6631251-017_obv_c.jpg",
@@ -952,8 +955,40 @@
       }
     },
     {
+      "id": "mashops-380473671e57",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=183",
+      "title": "AE Stater Rhescuporis V, AD 314-341 KINGDOM OF BOSPORUS AE Stater Rhescuporis V, AD 314-341 NGC AU NGC AU Strike: 5/5 Surface: 4/5",
+      "description": "AE Stater Rhescuporis V, AD 314-341 KINGDOM OF BOSPORUS AE Stater Rhescuporis V, AD 314-341 NGC AU NGC AU Strike: 5/5 Surface: 4/5",
+      "hammer_price_usd": 549.99,
+      "currency_original": "USD",
+      "price_original": 549.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid183_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-b85b75808569",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=18",
       "title": "EL Third-Stater c.610-546 BC  NGC AU Strike: 3/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC AU Strike: 3/5 Surface: 4/5",
@@ -982,17 +1017,18 @@
       }
     },
     {
-      "id": "mashops-67841014f9ee",
+      "id": "mashops-692faae31bec",
       "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=53",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 8000.0,
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88745",
+      "title": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
+      "description": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
+      "hammer_price_usd": 1131.23,
       "currency_original": "USD",
-      "price_original": 8000.0,
+      "price_original": 1131.23,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid53_combined.jpg",
+      "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88745_combined.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
@@ -1014,6 +1050,7 @@
     {
       "id": "mashops-71ed48dcda15",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=31",
       "title": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 5/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 5/5 Surface: 4/5",
@@ -1042,38 +1079,9 @@
       }
     },
     {
-      "id": "mashops-692faae31bec",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88745",
-      "title": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "description": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 1126.67,
-      "currency_original": "USD",
-      "price_original": 1126.67,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88745_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-118c656e0e4a",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8087",
       "title": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
       "description": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
@@ -1090,36 +1098,6 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-a7346d33d1c2",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=21",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
-      "hammer_price_usd": 8000.0,
-      "currency_original": "USD",
-      "price_original": 8000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid21_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 4,
         "details_grade": null,
         "certification_url": null
       },
@@ -1134,6 +1112,7 @@
     {
       "id": "mashops-cdae0b8ac041",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=23",
       "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
@@ -1164,6 +1143,7 @@
     {
       "id": "mashops-0f498bcc37e7",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=27",
       "title": "EL Third-Stater c.610-546 BC  NGC XF Strike: 5/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC XF Strike: 5/5 Surface: 4/5",
@@ -1194,12 +1174,13 @@
     {
       "id": "mashops-ca5a6cce7c5d",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88746",
       "title": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
       "description": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
-      "hammer_price_usd": 866.67,
+      "hammer_price_usd": 870.18,
       "currency_original": "USD",
-      "price_original": 866.67,
+      "price_original": 870.18,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
       "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88746_ngc6631251-017_obv_c.jpg",
@@ -1222,8 +1203,40 @@
       }
     },
     {
+      "id": "mashops-380473671e57",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=183",
+      "title": "AE Stater Rhescuporis V, AD 314-341 KINGDOM OF BOSPORUS AE Stater Rhescuporis V, AD 314-341 NGC AU NGC AU Strike: 5/5 Surface: 4/5",
+      "description": "AE Stater Rhescuporis V, AD 314-341 KINGDOM OF BOSPORUS AE Stater Rhescuporis V, AD 314-341 NGC AU NGC AU Strike: 5/5 Surface: 4/5",
+      "hammer_price_usd": 549.99,
+      "currency_original": "USD",
+      "price_original": 549.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid183_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-b85b75808569",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=18",
       "title": "EL Third-Stater c.610-546 BC  NGC AU Strike: 3/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC AU Strike: 3/5 Surface: 4/5",
@@ -1252,17 +1265,18 @@
       }
     },
     {
-      "id": "mashops-67841014f9ee",
+      "id": "mashops-692faae31bec",
       "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=53",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 8000.0,
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88745",
+      "title": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
+      "description": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
+      "hammer_price_usd": 1131.23,
       "currency_original": "USD",
-      "price_original": 8000.0,
+      "price_original": 1131.23,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid53_combined.jpg",
+      "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88745_combined.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
@@ -1284,6 +1298,7 @@
     {
       "id": "mashops-71ed48dcda15",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=31",
       "title": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 5/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 5/5 Surface: 4/5",
@@ -1312,38 +1327,9 @@
       }
     },
     {
-      "id": "mashops-692faae31bec",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88745",
-      "title": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "description": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 1126.67,
-      "currency_original": "USD",
-      "price_original": 1126.67,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88745_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-118c656e0e4a",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8087",
       "title": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
       "description": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
@@ -1360,36 +1346,6 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-a7346d33d1c2",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=21",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
-      "hammer_price_usd": 8000.0,
-      "currency_original": "USD",
-      "price_original": 8000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid21_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 4,
         "details_grade": null,
         "certification_url": null
       },
@@ -1404,6 +1360,7 @@
     {
       "id": "mashops-cdae0b8ac041",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=23",
       "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
@@ -1434,6 +1391,7 @@
     {
       "id": "mashops-0f498bcc37e7",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=27",
       "title": "EL Third-Stater c.610-546 BC  NGC XF Strike: 5/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC XF Strike: 5/5 Surface: 4/5",
@@ -1464,12 +1422,13 @@
     {
       "id": "mashops-ca5a6cce7c5d",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88746",
       "title": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
       "description": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
-      "hammer_price_usd": 866.67,
+      "hammer_price_usd": 870.18,
       "currency_original": "USD",
-      "price_original": 866.67,
+      "price_original": 870.18,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
       "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88746_ngc6631251-017_obv_c.jpg",
@@ -1492,8 +1451,40 @@
       }
     },
     {
+      "id": "mashops-380473671e57",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=183",
+      "title": "AE Stater Rhescuporis V, AD 314-341 KINGDOM OF BOSPORUS AE Stater Rhescuporis V, AD 314-341 NGC AU NGC AU Strike: 5/5 Surface: 4/5",
+      "description": "AE Stater Rhescuporis V, AD 314-341 KINGDOM OF BOSPORUS AE Stater Rhescuporis V, AD 314-341 NGC AU NGC AU Strike: 5/5 Surface: 4/5",
+      "hammer_price_usd": 549.99,
+      "currency_original": "USD",
+      "price_original": 549.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid183_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-b85b75808569",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=18",
       "title": "EL Third-Stater c.610-546 BC  NGC AU Strike: 3/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC AU Strike: 3/5 Surface: 4/5",
@@ -1522,17 +1513,18 @@
       }
     },
     {
-      "id": "mashops-67841014f9ee",
+      "id": "mashops-692faae31bec",
       "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=53",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 8000.0,
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88745",
+      "title": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
+      "description": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
+      "hammer_price_usd": 1131.23,
       "currency_original": "USD",
-      "price_original": 8000.0,
+      "price_original": 1131.23,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid53_combined.jpg",
+      "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88745_combined.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
@@ -1554,6 +1546,7 @@
     {
       "id": "mashops-71ed48dcda15",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=31",
       "title": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 5/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 5/5 Surface: 4/5",
@@ -1582,38 +1575,9 @@
       }
     },
     {
-      "id": "mashops-692faae31bec",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88745",
-      "title": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "description": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 1126.67,
-      "currency_original": "USD",
-      "price_original": 1126.67,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88745_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-118c656e0e4a",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8087",
       "title": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
       "description": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
@@ -1630,36 +1594,6 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-a7346d33d1c2",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=21",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
-      "hammer_price_usd": 8000.0,
-      "currency_original": "USD",
-      "price_original": 8000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid21_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 4,
         "details_grade": null,
         "certification_url": null
       },
@@ -1674,6 +1608,7 @@
     {
       "id": "mashops-cdae0b8ac041",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=23",
       "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
@@ -1704,6 +1639,7 @@
     {
       "id": "mashops-0f498bcc37e7",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=27",
       "title": "EL Third-Stater c.610-546 BC  NGC XF Strike: 5/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC XF Strike: 5/5 Surface: 4/5",
@@ -1734,12 +1670,13 @@
     {
       "id": "mashops-ca5a6cce7c5d",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88746",
       "title": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
       "description": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
-      "hammer_price_usd": 866.67,
+      "hammer_price_usd": 870.18,
       "currency_original": "USD",
-      "price_original": 866.67,
+      "price_original": 870.18,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
       "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88746_ngc6631251-017_obv_c.jpg",
@@ -1762,8 +1699,40 @@
       }
     },
     {
+      "id": "mashops-380473671e57",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=183",
+      "title": "AE Stater Rhescuporis V, AD 314-341 KINGDOM OF BOSPORUS AE Stater Rhescuporis V, AD 314-341 NGC AU NGC AU Strike: 5/5 Surface: 4/5",
+      "description": "AE Stater Rhescuporis V, AD 314-341 KINGDOM OF BOSPORUS AE Stater Rhescuporis V, AD 314-341 NGC AU NGC AU Strike: 5/5 Surface: 4/5",
+      "hammer_price_usd": 549.99,
+      "currency_original": "USD",
+      "price_original": 549.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid183_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-b85b75808569",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=18",
       "title": "EL Third-Stater c.610-546 BC  NGC AU Strike: 3/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC AU Strike: 3/5 Surface: 4/5",
@@ -1792,17 +1761,18 @@
       }
     },
     {
-      "id": "mashops-67841014f9ee",
+      "id": "mashops-692faae31bec",
       "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=53",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 8000.0,
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88745",
+      "title": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
+      "description": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
+      "hammer_price_usd": 1131.23,
       "currency_original": "USD",
-      "price_original": 8000.0,
+      "price_original": 1131.23,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid53_combined.jpg",
+      "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88745_combined.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
@@ -1824,6 +1794,7 @@
     {
       "id": "mashops-71ed48dcda15",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=31",
       "title": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 5/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 5/5 Surface: 4/5",
@@ -1852,38 +1823,9 @@
       }
     },
     {
-      "id": "mashops-692faae31bec",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88745",
-      "title": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "description": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 1126.67,
-      "currency_original": "USD",
-      "price_original": 1126.67,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88745_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-118c656e0e4a",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8087",
       "title": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
       "description": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
@@ -1900,36 +1842,6 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-a7346d33d1c2",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=21",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
-      "hammer_price_usd": 8000.0,
-      "currency_original": "USD",
-      "price_original": 8000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid21_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 4,
         "details_grade": null,
         "certification_url": null
       },
@@ -1944,6 +1856,7 @@
     {
       "id": "mashops-cdae0b8ac041",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=23",
       "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
@@ -1974,6 +1887,7 @@
     {
       "id": "mashops-0f498bcc37e7",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=27",
       "title": "EL Third-Stater c.610-546 BC  NGC XF Strike: 5/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC XF Strike: 5/5 Surface: 4/5",
@@ -2004,12 +1918,13 @@
     {
       "id": "mashops-ca5a6cce7c5d",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88746",
       "title": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
       "description": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
-      "hammer_price_usd": 866.67,
+      "hammer_price_usd": 870.18,
       "currency_original": "USD",
-      "price_original": 866.67,
+      "price_original": 870.18,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
       "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88746_ngc6631251-017_obv_c.jpg",
@@ -2032,8 +1947,40 @@
       }
     },
     {
+      "id": "mashops-380473671e57",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=183",
+      "title": "AE Stater Rhescuporis V, AD 314-341 KINGDOM OF BOSPORUS AE Stater Rhescuporis V, AD 314-341 NGC AU NGC AU Strike: 5/5 Surface: 4/5",
+      "description": "AE Stater Rhescuporis V, AD 314-341 KINGDOM OF BOSPORUS AE Stater Rhescuporis V, AD 314-341 NGC AU NGC AU Strike: 5/5 Surface: 4/5",
+      "hammer_price_usd": 549.99,
+      "currency_original": "USD",
+      "price_original": 549.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid183_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-b85b75808569",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=18",
       "title": "EL Third-Stater c.610-546 BC  NGC AU Strike: 3/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC AU Strike: 3/5 Surface: 4/5",
@@ -2062,17 +2009,18 @@
       }
     },
     {
-      "id": "mashops-67841014f9ee",
+      "id": "mashops-692faae31bec",
       "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=53",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 8000.0,
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88745",
+      "title": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
+      "description": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
+      "hammer_price_usd": 1131.23,
       "currency_original": "USD",
-      "price_original": 8000.0,
+      "price_original": 1131.23,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid53_combined.jpg",
+      "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88745_combined.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
@@ -2094,6 +2042,7 @@
     {
       "id": "mashops-71ed48dcda15",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=31",
       "title": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 5/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 5/5 Surface: 4/5",
@@ -2122,38 +2071,9 @@
       }
     },
     {
-      "id": "mashops-692faae31bec",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88745",
-      "title": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "description": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 1126.67,
-      "currency_original": "USD",
-      "price_original": 1126.67,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88745_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-118c656e0e4a",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8087",
       "title": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
       "description": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
@@ -2170,36 +2090,6 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-a7346d33d1c2",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=21",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
-      "hammer_price_usd": 8000.0,
-      "currency_original": "USD",
-      "price_original": 8000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid21_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 4,
         "details_grade": null,
         "certification_url": null
       },
@@ -2214,6 +2104,7 @@
     {
       "id": "mashops-cdae0b8ac041",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=23",
       "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
@@ -2244,6 +2135,7 @@
     {
       "id": "mashops-0f498bcc37e7",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=27",
       "title": "EL Third-Stater c.610-546 BC  NGC XF Strike: 5/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC XF Strike: 5/5 Surface: 4/5",
@@ -2274,12 +2166,13 @@
     {
       "id": "mashops-ca5a6cce7c5d",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88746",
       "title": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
       "description": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
-      "hammer_price_usd": 866.67,
+      "hammer_price_usd": 870.18,
       "currency_original": "USD",
-      "price_original": 866.67,
+      "price_original": 870.18,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
       "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88746_ngc6631251-017_obv_c.jpg",
@@ -2302,8 +2195,40 @@
       }
     },
     {
+      "id": "mashops-380473671e57",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=183",
+      "title": "AE Stater Rhescuporis V, AD 314-341 KINGDOM OF BOSPORUS AE Stater Rhescuporis V, AD 314-341 NGC AU NGC AU Strike: 5/5 Surface: 4/5",
+      "description": "AE Stater Rhescuporis V, AD 314-341 KINGDOM OF BOSPORUS AE Stater Rhescuporis V, AD 314-341 NGC AU NGC AU Strike: 5/5 Surface: 4/5",
+      "hammer_price_usd": 549.99,
+      "currency_original": "USD",
+      "price_original": 549.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid183_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-b85b75808569",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=18",
       "title": "EL Third-Stater c.610-546 BC  NGC AU Strike: 3/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC AU Strike: 3/5 Surface: 4/5",
@@ -2332,17 +2257,18 @@
       }
     },
     {
-      "id": "mashops-67841014f9ee",
+      "id": "mashops-692faae31bec",
       "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=53",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 8000.0,
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88745",
+      "title": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
+      "description": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
+      "hammer_price_usd": 1131.23,
       "currency_original": "USD",
-      "price_original": 8000.0,
+      "price_original": 1131.23,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid53_combined.jpg",
+      "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88745_combined.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
@@ -2364,6 +2290,7 @@
     {
       "id": "mashops-71ed48dcda15",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=31",
       "title": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 5/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 5/5 Surface: 4/5",
@@ -2392,38 +2319,9 @@
       }
     },
     {
-      "id": "mashops-692faae31bec",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88745",
-      "title": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "description": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 1126.67,
-      "currency_original": "USD",
-      "price_original": 1126.67,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88745_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-118c656e0e4a",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8087",
       "title": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
       "description": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
@@ -2440,36 +2338,6 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-a7346d33d1c2",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=21",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
-      "hammer_price_usd": 8000.0,
-      "currency_original": "USD",
-      "price_original": 8000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid21_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 4,
         "details_grade": null,
         "certification_url": null
       },
@@ -2484,6 +2352,7 @@
     {
       "id": "mashops-cdae0b8ac041",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=23",
       "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
@@ -2514,6 +2383,7 @@
     {
       "id": "mashops-0f498bcc37e7",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=27",
       "title": "EL Third-Stater c.610-546 BC  NGC XF Strike: 5/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC XF Strike: 5/5 Surface: 4/5",
@@ -2544,12 +2414,13 @@
     {
       "id": "mashops-ca5a6cce7c5d",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88746",
       "title": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
       "description": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
-      "hammer_price_usd": 866.67,
+      "hammer_price_usd": 870.18,
       "currency_original": "USD",
-      "price_original": 866.67,
+      "price_original": 870.18,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
       "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88746_ngc6631251-017_obv_c.jpg",
@@ -2572,8 +2443,40 @@
       }
     },
     {
+      "id": "mashops-380473671e57",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=183",
+      "title": "AE Stater Rhescuporis V, AD 314-341 KINGDOM OF BOSPORUS AE Stater Rhescuporis V, AD 314-341 NGC AU NGC AU Strike: 5/5 Surface: 4/5",
+      "description": "AE Stater Rhescuporis V, AD 314-341 KINGDOM OF BOSPORUS AE Stater Rhescuporis V, AD 314-341 NGC AU NGC AU Strike: 5/5 Surface: 4/5",
+      "hammer_price_usd": 549.99,
+      "currency_original": "USD",
+      "price_original": 549.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid183_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-b85b75808569",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=18",
       "title": "EL Third-Stater c.610-546 BC  NGC AU Strike: 3/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC AU Strike: 3/5 Surface: 4/5",
@@ -2602,17 +2505,18 @@
       }
     },
     {
-      "id": "mashops-67841014f9ee",
+      "id": "mashops-692faae31bec",
       "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=53",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 8000.0,
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88745",
+      "title": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
+      "description": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
+      "hammer_price_usd": 1131.23,
       "currency_original": "USD",
-      "price_original": 8000.0,
+      "price_original": 1131.23,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid53_combined.jpg",
+      "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88745_combined.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
@@ -2634,6 +2538,7 @@
     {
       "id": "mashops-71ed48dcda15",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=31",
       "title": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 5/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 5/5 Surface: 4/5",
@@ -2662,38 +2567,9 @@
       }
     },
     {
-      "id": "mashops-692faae31bec",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88745",
-      "title": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "description": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 1126.67,
-      "currency_original": "USD",
-      "price_original": 1126.67,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88745_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-118c656e0e4a",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8087",
       "title": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
       "description": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
@@ -2710,36 +2586,6 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-a7346d33d1c2",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=21",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
-      "hammer_price_usd": 8000.0,
-      "currency_original": "USD",
-      "price_original": 8000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid21_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 4,
         "details_grade": null,
         "certification_url": null
       },
@@ -2754,6 +2600,7 @@
     {
       "id": "mashops-cdae0b8ac041",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=23",
       "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
@@ -2784,6 +2631,7 @@
     {
       "id": "mashops-0f498bcc37e7",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=27",
       "title": "EL Third-Stater c.610-546 BC  NGC XF Strike: 5/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC XF Strike: 5/5 Surface: 4/5",
@@ -2814,12 +2662,13 @@
     {
       "id": "mashops-ca5a6cce7c5d",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88746",
       "title": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
       "description": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
-      "hammer_price_usd": 866.67,
+      "hammer_price_usd": 870.18,
       "currency_original": "USD",
-      "price_original": 866.67,
+      "price_original": 870.18,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
       "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88746_ngc6631251-017_obv_c.jpg",
@@ -2842,8 +2691,40 @@
       }
     },
     {
+      "id": "mashops-380473671e57",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=183",
+      "title": "AE Stater Rhescuporis V, AD 314-341 KINGDOM OF BOSPORUS AE Stater Rhescuporis V, AD 314-341 NGC AU NGC AU Strike: 5/5 Surface: 4/5",
+      "description": "AE Stater Rhescuporis V, AD 314-341 KINGDOM OF BOSPORUS AE Stater Rhescuporis V, AD 314-341 NGC AU NGC AU Strike: 5/5 Surface: 4/5",
+      "hammer_price_usd": 549.99,
+      "currency_original": "USD",
+      "price_original": 549.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid183_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-b85b75808569",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=18",
       "title": "EL Third-Stater c.610-546 BC  NGC AU Strike: 3/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC AU Strike: 3/5 Surface: 4/5",
@@ -2872,17 +2753,18 @@
       }
     },
     {
-      "id": "mashops-67841014f9ee",
+      "id": "mashops-692faae31bec",
       "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=53",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 8000.0,
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88745",
+      "title": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
+      "description": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
+      "hammer_price_usd": 1131.23,
       "currency_original": "USD",
-      "price_original": 8000.0,
+      "price_original": 1131.23,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid53_combined.jpg",
+      "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88745_combined.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
@@ -2904,6 +2786,7 @@
     {
       "id": "mashops-71ed48dcda15",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=31",
       "title": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 5/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 5/5 Surface: 4/5",
@@ -2932,38 +2815,9 @@
       }
     },
     {
-      "id": "mashops-692faae31bec",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88745",
-      "title": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "description": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 1126.67,
-      "currency_original": "USD",
-      "price_original": 1126.67,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88745_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-118c656e0e4a",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8087",
       "title": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
       "description": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
@@ -2980,36 +2834,6 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-a7346d33d1c2",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=21",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
-      "hammer_price_usd": 8000.0,
-      "currency_original": "USD",
-      "price_original": 8000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid21_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 4,
         "details_grade": null,
         "certification_url": null
       },
@@ -3024,6 +2848,7 @@
     {
       "id": "mashops-cdae0b8ac041",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=23",
       "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
@@ -3054,6 +2879,7 @@
     {
       "id": "mashops-0f498bcc37e7",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=27",
       "title": "EL Third-Stater c.610-546 BC  NGC XF Strike: 5/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC XF Strike: 5/5 Surface: 4/5",
@@ -3084,12 +2910,13 @@
     {
       "id": "mashops-ca5a6cce7c5d",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88746",
       "title": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
       "description": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
-      "hammer_price_usd": 866.67,
+      "hammer_price_usd": 870.18,
       "currency_original": "USD",
-      "price_original": 866.67,
+      "price_original": 870.18,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
       "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88746_ngc6631251-017_obv_c.jpg",
@@ -3112,8 +2939,40 @@
       }
     },
     {
+      "id": "mashops-380473671e57",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=183",
+      "title": "AE Stater Rhescuporis V, AD 314-341 KINGDOM OF BOSPORUS AE Stater Rhescuporis V, AD 314-341 NGC AU NGC AU Strike: 5/5 Surface: 4/5",
+      "description": "AE Stater Rhescuporis V, AD 314-341 KINGDOM OF BOSPORUS AE Stater Rhescuporis V, AD 314-341 NGC AU NGC AU Strike: 5/5 Surface: 4/5",
+      "hammer_price_usd": 549.99,
+      "currency_original": "USD",
+      "price_original": 549.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid183_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-b85b75808569",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=18",
       "title": "EL Third-Stater c.610-546 BC  NGC AU Strike: 3/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC AU Strike: 3/5 Surface: 4/5",
@@ -3142,17 +3001,18 @@
       }
     },
     {
-      "id": "mashops-67841014f9ee",
+      "id": "mashops-692faae31bec",
       "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=53",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 8000.0,
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88745",
+      "title": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
+      "description": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
+      "hammer_price_usd": 1131.23,
       "currency_original": "USD",
-      "price_original": 8000.0,
+      "price_original": 1131.23,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid53_combined.jpg",
+      "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88745_combined.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
@@ -3174,6 +3034,7 @@
     {
       "id": "mashops-71ed48dcda15",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=31",
       "title": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 5/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 5/5 Surface: 4/5",
@@ -3202,38 +3063,9 @@
       }
     },
     {
-      "id": "mashops-692faae31bec",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88745",
-      "title": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "description": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 1126.67,
-      "currency_original": "USD",
-      "price_original": 1126.67,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88745_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-118c656e0e4a",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8087",
       "title": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
       "description": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
@@ -3250,36 +3082,6 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-a7346d33d1c2",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=21",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
-      "hammer_price_usd": 8000.0,
-      "currency_original": "USD",
-      "price_original": 8000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid21_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 4,
         "details_grade": null,
         "certification_url": null
       },
@@ -3294,6 +3096,7 @@
     {
       "id": "mashops-cdae0b8ac041",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=23",
       "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
@@ -3324,6 +3127,7 @@
     {
       "id": "mashops-0f498bcc37e7",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=27",
       "title": "EL Third-Stater c.610-546 BC  NGC XF Strike: 5/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC XF Strike: 5/5 Surface: 4/5",
@@ -3354,12 +3158,13 @@
     {
       "id": "mashops-ca5a6cce7c5d",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88746",
       "title": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
       "description": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
-      "hammer_price_usd": 866.67,
+      "hammer_price_usd": 870.18,
       "currency_original": "USD",
-      "price_original": 866.67,
+      "price_original": 870.18,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
       "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88746_ngc6631251-017_obv_c.jpg",
@@ -3382,8 +3187,40 @@
       }
     },
     {
+      "id": "mashops-380473671e57",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=183",
+      "title": "AE Stater Rhescuporis V, AD 314-341 KINGDOM OF BOSPORUS AE Stater Rhescuporis V, AD 314-341 NGC AU NGC AU Strike: 5/5 Surface: 4/5",
+      "description": "AE Stater Rhescuporis V, AD 314-341 KINGDOM OF BOSPORUS AE Stater Rhescuporis V, AD 314-341 NGC AU NGC AU Strike: 5/5 Surface: 4/5",
+      "hammer_price_usd": 549.99,
+      "currency_original": "USD",
+      "price_original": 549.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid183_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-b85b75808569",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=18",
       "title": "EL Third-Stater c.610-546 BC  NGC AU Strike: 3/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC AU Strike: 3/5 Surface: 4/5",
@@ -3412,17 +3249,18 @@
       }
     },
     {
-      "id": "mashops-67841014f9ee",
+      "id": "mashops-692faae31bec",
       "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=53",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 8000.0,
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88745",
+      "title": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
+      "description": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
+      "hammer_price_usd": 1131.23,
       "currency_original": "USD",
-      "price_original": 8000.0,
+      "price_original": 1131.23,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid53_combined.jpg",
+      "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88745_combined.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
@@ -3444,6 +3282,7 @@
     {
       "id": "mashops-71ed48dcda15",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=31",
       "title": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 5/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 5/5 Surface: 4/5",
@@ -3472,38 +3311,9 @@
       }
     },
     {
-      "id": "mashops-692faae31bec",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88745",
-      "title": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "description": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 1126.67,
-      "currency_original": "USD",
-      "price_original": 1126.67,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88745_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-118c656e0e4a",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8087",
       "title": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
       "description": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
@@ -3520,36 +3330,6 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-a7346d33d1c2",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=21",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
-      "hammer_price_usd": 8000.0,
-      "currency_original": "USD",
-      "price_original": 8000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid21_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 4,
         "details_grade": null,
         "certification_url": null
       },
@@ -3564,6 +3344,7 @@
     {
       "id": "mashops-cdae0b8ac041",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=23",
       "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
@@ -3594,6 +3375,7 @@
     {
       "id": "mashops-0f498bcc37e7",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=27",
       "title": "EL Third-Stater c.610-546 BC  NGC XF Strike: 5/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC XF Strike: 5/5 Surface: 4/5",
@@ -3624,12 +3406,13 @@
     {
       "id": "mashops-ca5a6cce7c5d",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88746",
       "title": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
       "description": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
-      "hammer_price_usd": 866.67,
+      "hammer_price_usd": 870.18,
       "currency_original": "USD",
-      "price_original": 866.67,
+      "price_original": 870.18,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
       "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88746_ngc6631251-017_obv_c.jpg",
@@ -3652,8 +3435,40 @@
       }
     },
     {
+      "id": "mashops-380473671e57",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=183",
+      "title": "AE Stater Rhescuporis V, AD 314-341 KINGDOM OF BOSPORUS AE Stater Rhescuporis V, AD 314-341 NGC AU NGC AU Strike: 5/5 Surface: 4/5",
+      "description": "AE Stater Rhescuporis V, AD 314-341 KINGDOM OF BOSPORUS AE Stater Rhescuporis V, AD 314-341 NGC AU NGC AU Strike: 5/5 Surface: 4/5",
+      "hammer_price_usd": 549.99,
+      "currency_original": "USD",
+      "price_original": 549.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid183_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-b85b75808569",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=18",
       "title": "EL Third-Stater c.610-546 BC  NGC AU Strike: 3/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC AU Strike: 3/5 Surface: 4/5",
@@ -3682,17 +3497,18 @@
       }
     },
     {
-      "id": "mashops-67841014f9ee",
+      "id": "mashops-692faae31bec",
       "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=53",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 8000.0,
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88745",
+      "title": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
+      "description": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
+      "hammer_price_usd": 1131.23,
       "currency_original": "USD",
-      "price_original": 8000.0,
+      "price_original": 1131.23,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid53_combined.jpg",
+      "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88745_combined.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
@@ -3714,6 +3530,7 @@
     {
       "id": "mashops-71ed48dcda15",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=31",
       "title": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 5/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 5/5 Surface: 4/5",
@@ -3742,38 +3559,9 @@
       }
     },
     {
-      "id": "mashops-692faae31bec",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88745",
-      "title": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "description": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 1126.67,
-      "currency_original": "USD",
-      "price_original": 1126.67,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88745_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-118c656e0e4a",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8087",
       "title": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
       "description": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
@@ -3790,36 +3578,6 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-a7346d33d1c2",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=21",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
-      "hammer_price_usd": 8000.0,
-      "currency_original": "USD",
-      "price_original": 8000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid21_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 4,
         "details_grade": null,
         "certification_url": null
       },
@@ -3834,6 +3592,7 @@
     {
       "id": "mashops-cdae0b8ac041",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=23",
       "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
@@ -3864,6 +3623,7 @@
     {
       "id": "mashops-0f498bcc37e7",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=27",
       "title": "EL Third-Stater c.610-546 BC  NGC XF Strike: 5/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC XF Strike: 5/5 Surface: 4/5",
@@ -3894,12 +3654,13 @@
     {
       "id": "mashops-ca5a6cce7c5d",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88746",
       "title": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
       "description": "AR Stater Mazaeus, c.361-328 BC Kilikien, Tarsos - Mazaeus Stater 361-328 v.Chr. - L\u00f6we attackiert Stier NGC AU Strike: 3/5 Surface: 3/5",
-      "hammer_price_usd": 866.67,
+      "hammer_price_usd": 870.18,
       "currency_original": "USD",
-      "price_original": 866.67,
+      "price_original": 870.18,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
       "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88746_ngc6631251-017_obv_c.jpg",
@@ -3922,8 +3683,40 @@
       }
     },
     {
+      "id": "mashops-380473671e57",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=183",
+      "title": "AE Stater Rhescuporis V, AD 314-341 KINGDOM OF BOSPORUS AE Stater Rhescuporis V, AD 314-341 NGC AU NGC AU Strike: 5/5 Surface: 4/5",
+      "description": "AE Stater Rhescuporis V, AD 314-341 KINGDOM OF BOSPORUS AE Stater Rhescuporis V, AD 314-341 NGC AU NGC AU Strike: 5/5 Surface: 4/5",
+      "hammer_price_usd": 549.99,
+      "currency_original": "USD",
+      "price_original": 549.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid183_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-b85b75808569",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=18",
       "title": "EL Third-Stater c.610-546 BC  NGC AU Strike: 3/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC AU Strike: 3/5 Surface: 4/5",
@@ -3952,17 +3745,18 @@
       }
     },
     {
-      "id": "mashops-67841014f9ee",
+      "id": "mashops-692faae31bec",
       "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=53",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 8000.0,
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88745",
+      "title": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
+      "description": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
+      "hammer_price_usd": 1131.23,
       "currency_original": "USD",
-      "price_original": 8000.0,
+      "price_original": 1131.23,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid53_combined.jpg",
+      "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88745_combined.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
@@ -3984,6 +3778,7 @@
     {
       "id": "mashops-71ed48dcda15",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=31",
       "title": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 5/5 Surface: 4/5",
       "description": "EL Third-Stater c.610-546 BC  NGC Ch VF Strike: 5/5 Surface: 4/5",
@@ -4012,38 +3807,9 @@
       }
     },
     {
-      "id": "mashops-692faae31bec",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/fenzl/item.php?id=88745",
-      "title": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "description": "AR Stater 500-450 BC Griechenland Stater Thasos - Silen raubt Nymphe - NGC zertifiziert NGC Ch XF Strike: 5/5 Surface: 3/5",
-      "hammer_price_usd": 1126.67,
-      "currency_original": "USD",
-      "price_original": 1126.67,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/fenzl/pic/thumb/artid88745_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-118c656e0e4a",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8087",
       "title": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
       "description": "AR Stater 4th-3rd Centuries BC AKARNANIA. Anaktorion. AR Stater, ca. 350-300 B.C. NGC Ch VF.  HGC-4, 763; Pegas NGC Ch VF",
@@ -4060,36 +3826,6 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-a7346d33d1c2",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=21",
-      "title": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
-      "description": "EL Third-Stater c.610-546 BC  NGC Ch XF Strike: 4/5 Surface: 4/5",
-      "hammer_price_usd": 8000.0,
-      "currency_original": "USD",
-      "price_original": 8000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid21_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 4,
         "details_grade": null,
         "certification_url": null
       },

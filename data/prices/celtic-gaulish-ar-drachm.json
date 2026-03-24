@@ -6,7 +6,9 @@
   "dynasty": "Gaul",
   "denomination": "AR Drachm",
   "metal": "silver",
-  "sale_count": 1,
+  "sale_count": 15,
+  "realized_count": 1,
+  "fixed_price_count": 14,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 170.0,
@@ -15,13 +17,15 @@
   "median_price_usd": 170.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "XF": 1
+    "XF": 1,
+    "MS": 14
   },
-  "thumbnail_url": null,
+  "thumbnail_url": "https://img.ma-shops.com/dicher/pic/thumb/182_ngc6558557-025_obv_c.jpg",
   "sales": [
     {
       "id": "cng-30efa1a28793",
       "source": "cng",
+      "listing_type": "auction_realized",
       "lot_url": "https://auctions.cngcoins.com/lots/view/4-ICA69P",
       "title": "Electronic Auction 597 Lot: 16. GAUL, Southern. Volcae-Tectosages. Circa 200-118 BC. AR Drachm (13mm; 12h). NGC XF.",
       "description": "Celtic, Silver Estimated:\u00a0$   150 Sold\u00a0Price:\u00a0$ :  170",
@@ -38,6 +42,440 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-22c23b16da4d",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=182",
+      "title": "AR Drachm 2nd-1st Centuries BC GAUL, MASSALIA AR Drachm 2nd-1st Centuries BC NGC MS NGC MS Strike: 4/5 Surface: 4/5",
+      "description": "AR Drachm 2nd-1st Centuries BC GAUL, MASSALIA AR Drachm 2nd-1st Centuries BC NGC MS NGC MS Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 780.99,
+      "currency_original": "USD",
+      "price_original": 780.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/182_ngc6558557-025_obv_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-22c23b16da4d",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=182",
+      "title": "AR Drachm 2nd-1st Centuries BC GAUL, MASSALIA AR Drachm 2nd-1st Centuries BC NGC MS NGC MS Strike: 4/5 Surface: 4/5",
+      "description": "AR Drachm 2nd-1st Centuries BC GAUL, MASSALIA AR Drachm 2nd-1st Centuries BC NGC MS NGC MS Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 780.99,
+      "currency_original": "USD",
+      "price_original": 780.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/182_ngc6558557-025_obv_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-22c23b16da4d",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=182",
+      "title": "AR Drachm 2nd-1st Centuries BC GAUL, MASSALIA AR Drachm 2nd-1st Centuries BC NGC MS NGC MS Strike: 4/5 Surface: 4/5",
+      "description": "AR Drachm 2nd-1st Centuries BC GAUL, MASSALIA AR Drachm 2nd-1st Centuries BC NGC MS NGC MS Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 780.99,
+      "currency_original": "USD",
+      "price_original": 780.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/182_ngc6558557-025_obv_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-22c23b16da4d",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=182",
+      "title": "AR Drachm 2nd-1st Centuries BC GAUL, MASSALIA AR Drachm 2nd-1st Centuries BC NGC MS NGC MS Strike: 4/5 Surface: 4/5",
+      "description": "AR Drachm 2nd-1st Centuries BC GAUL, MASSALIA AR Drachm 2nd-1st Centuries BC NGC MS NGC MS Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 780.99,
+      "currency_original": "USD",
+      "price_original": 780.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/182_ngc6558557-025_obv_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-22c23b16da4d",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=182",
+      "title": "AR Drachm 2nd-1st Centuries BC GAUL, MASSALIA AR Drachm 2nd-1st Centuries BC NGC MS NGC MS Strike: 4/5 Surface: 4/5",
+      "description": "AR Drachm 2nd-1st Centuries BC GAUL, MASSALIA AR Drachm 2nd-1st Centuries BC NGC MS NGC MS Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 780.99,
+      "currency_original": "USD",
+      "price_original": 780.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/182_ngc6558557-025_obv_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-22c23b16da4d",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=182",
+      "title": "AR Drachm 2nd-1st Centuries BC GAUL, MASSALIA AR Drachm 2nd-1st Centuries BC NGC MS NGC MS Strike: 4/5 Surface: 4/5",
+      "description": "AR Drachm 2nd-1st Centuries BC GAUL, MASSALIA AR Drachm 2nd-1st Centuries BC NGC MS NGC MS Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 780.99,
+      "currency_original": "USD",
+      "price_original": 780.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/182_ngc6558557-025_obv_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-22c23b16da4d",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=182",
+      "title": "AR Drachm 2nd-1st Centuries BC GAUL, MASSALIA AR Drachm 2nd-1st Centuries BC NGC MS NGC MS Strike: 4/5 Surface: 4/5",
+      "description": "AR Drachm 2nd-1st Centuries BC GAUL, MASSALIA AR Drachm 2nd-1st Centuries BC NGC MS NGC MS Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 780.99,
+      "currency_original": "USD",
+      "price_original": 780.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/182_ngc6558557-025_obv_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-22c23b16da4d",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=182",
+      "title": "AR Drachm 2nd-1st Centuries BC GAUL, MASSALIA AR Drachm 2nd-1st Centuries BC NGC MS NGC MS Strike: 4/5 Surface: 4/5",
+      "description": "AR Drachm 2nd-1st Centuries BC GAUL, MASSALIA AR Drachm 2nd-1st Centuries BC NGC MS NGC MS Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 780.99,
+      "currency_original": "USD",
+      "price_original": 780.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/182_ngc6558557-025_obv_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-22c23b16da4d",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=182",
+      "title": "AR Drachm 2nd-1st Centuries BC GAUL, MASSALIA AR Drachm 2nd-1st Centuries BC NGC MS NGC MS Strike: 4/5 Surface: 4/5",
+      "description": "AR Drachm 2nd-1st Centuries BC GAUL, MASSALIA AR Drachm 2nd-1st Centuries BC NGC MS NGC MS Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 780.99,
+      "currency_original": "USD",
+      "price_original": 780.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/182_ngc6558557-025_obv_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-22c23b16da4d",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=182",
+      "title": "AR Drachm 2nd-1st Centuries BC GAUL, MASSALIA AR Drachm 2nd-1st Centuries BC NGC MS NGC MS Strike: 4/5 Surface: 4/5",
+      "description": "AR Drachm 2nd-1st Centuries BC GAUL, MASSALIA AR Drachm 2nd-1st Centuries BC NGC MS NGC MS Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 780.99,
+      "currency_original": "USD",
+      "price_original": 780.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/182_ngc6558557-025_obv_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-22c23b16da4d",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=182",
+      "title": "AR Drachm 2nd-1st Centuries BC GAUL, MASSALIA AR Drachm 2nd-1st Centuries BC NGC MS NGC MS Strike: 4/5 Surface: 4/5",
+      "description": "AR Drachm 2nd-1st Centuries BC GAUL, MASSALIA AR Drachm 2nd-1st Centuries BC NGC MS NGC MS Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 780.99,
+      "currency_original": "USD",
+      "price_original": 780.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/182_ngc6558557-025_obv_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-22c23b16da4d",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=182",
+      "title": "AR Drachm 2nd-1st Centuries BC GAUL, MASSALIA AR Drachm 2nd-1st Centuries BC NGC MS NGC MS Strike: 4/5 Surface: 4/5",
+      "description": "AR Drachm 2nd-1st Centuries BC GAUL, MASSALIA AR Drachm 2nd-1st Centuries BC NGC MS NGC MS Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 780.99,
+      "currency_original": "USD",
+      "price_original": 780.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/182_ngc6558557-025_obv_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-22c23b16da4d",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=182",
+      "title": "AR Drachm 2nd-1st Centuries BC GAUL, MASSALIA AR Drachm 2nd-1st Centuries BC NGC MS NGC MS Strike: 4/5 Surface: 4/5",
+      "description": "AR Drachm 2nd-1st Centuries BC GAUL, MASSALIA AR Drachm 2nd-1st Centuries BC NGC MS NGC MS Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 780.99,
+      "currency_original": "USD",
+      "price_original": 780.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/182_ngc6558557-025_obv_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-22c23b16da4d",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=182",
+      "title": "AR Drachm 2nd-1st Centuries BC GAUL, MASSALIA AR Drachm 2nd-1st Centuries BC NGC MS NGC MS Strike: 4/5 Surface: 4/5",
+      "description": "AR Drachm 2nd-1st Centuries BC GAUL, MASSALIA AR Drachm 2nd-1st Centuries BC NGC MS NGC MS Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 780.99,
+      "currency_original": "USD",
+      "price_original": 780.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/182_ngc6558557-025_obv_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
         "details_grade": null,
         "certification_url": null
       },

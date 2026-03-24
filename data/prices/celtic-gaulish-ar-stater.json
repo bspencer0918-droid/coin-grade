@@ -7,6 +7,8 @@
   "denomination": "AR Stater",
   "metal": "gold",
   "sale_count": 2,
+  "realized_count": 2,
+  "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 900.0,
@@ -22,6 +24,7 @@
     {
       "id": "cng-be43bb8301ae",
       "source": "cng",
+      "listing_type": "auction_realized",
       "lot_url": "https://auctions.cngcoins.com/lots/view/4-HRM74D",
       "title": "CNG Feature Auction 130 Lot: 5. GAUL, Northwest. Aulerci Eburovices. 3rd century BC. AV Half Stater (17mm, 3.19 g, 11h). NGC XF, 5/5, 4/5.",
       "description": "Celtic, Gold Estimated:\u00a0$   500 Sold\u00a0Price:\u00a0$   900",
@@ -52,6 +55,7 @@
     {
       "id": "cng-ecd8f23a9dc0",
       "source": "cng",
+      "listing_type": "auction_realized",
       "lot_url": "https://auctions.cngcoins.com/lots/view/4-HRM74F",
       "title": "CNG Feature Auction 130 Lot: 6. GAUL, Northwest. Aulerci Eburovices. 3rd century BC. AV Half Stater (19mm, 3.30 g, 3h). NGC Ch XF, 4/5, 4/5.",
       "description": "Celtic, Gold Estimated:\u00a0$   500 Sold\u00a0Price:\u00a0$ : 1 500",

@@ -7,6 +7,8 @@
   "denomination": "Unknown",
   "metal": "gold",
   "sale_count": 2,
+  "realized_count": 2,
+  "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 900.0,
@@ -22,6 +24,7 @@
     {
       "id": "cng-21465a689906",
       "source": "cng",
+      "listing_type": "auction_realized",
       "lot_url": "https://auctions.cngcoins.com/lots/view/4-I2GRQ9",
       "title": "Electronic Auction 596 \u2013 Session 1 Lot: 19. GAUL, Northwest. Aulerci Eburovices. Late 3rd-early 2nd century BC. AV Hemistater (17mm, 3.10 g, 3h). NGC Ch VF, 5/5, 4/5.",
       "description": "Celtic, Gold Estimated:\u00a0$   300 Sold\u00a0Price:\u00a0$   950",
@@ -52,6 +55,7 @@
     {
       "id": "cng-9030737e2e4b",
       "source": "cng",
+      "listing_type": "auction_realized",
       "lot_url": "https://auctions.cngcoins.com/lots/view/4-I2GRQB",
       "title": "Electronic Auction 596 \u2013 Session 1 Lot: 20. GAUL, Northwest. Aulerci Eburovices. Late 3rd-early 2nd century BC. AV Hemistater (18mm, 3.05 g, 12h). NGC Ch VF, 4/5, 4/5.",
       "description": "Celtic, Gold Estimated:\u00a0$   300 Sold\u00a0Price:\u00a0$ :  900",

@@ -1,6 +1,13 @@
 {
   "rulers": [
     {
+      "name": "Antoninus Pius",
+      "slug": "antoninus-pius",
+      "reign": "",
+      "sale_count": 1,
+      "data_url": "roman/by-ruler/antoninus-pius.json"
+    },
+    {
       "name": "Augustus",
       "slug": "augustus",
       "reign": "",
@@ -36,6 +43,20 @@
       "data_url": "roman/by-ruler/elagabalus.json"
     },
     {
+      "name": "Gallienus",
+      "slug": "gallienus",
+      "reign": "",
+      "sale_count": 1,
+      "data_url": "roman/by-ruler/gallienus.json"
+    },
+    {
+      "name": "Gordian III",
+      "slug": "gordian-iii",
+      "reign": "",
+      "sale_count": 1,
+      "data_url": "roman/by-ruler/gordian-iii.json"
+    },
+    {
       "name": "Hadrian",
       "slug": "hadrian",
       "reign": "",
@@ -46,7 +67,7 @@
       "name": "Julius Caesar",
       "slug": "julius-caesar",
       "reign": "",
-      "sale_count": 1,
+      "sale_count": 2,
       "data_url": "roman/by-ruler/julius-caesar.json"
     },
     {

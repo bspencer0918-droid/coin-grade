@@ -6,22 +6,57 @@
   "dynasty": null,
   "denomination": "AR Didrachm",
   "metal": "silver",
-  "sale_count": 30,
+  "sale_count": 57,
+  "realized_count": 0,
+  "fixed_price_count": 57,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 975.0,
+    "min": 579.99,
     "max": 975.0
   },
   "median_price_usd": 975.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "XF": 30
+    "XF": 43,
+    "VF": 14
   },
-  "thumbnail_url": "https://img.ma-shops.com/khouli/pic/thumb/artid9034_combined.jpg",
+  "thumbnail_url": "https://img.ma-shops.com/khouli/pic/thumb/artid9036_combined.jpg",
   "sales": [
     {
+      "id": "mashops-89fcd28aa660",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9036",
+      "title": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
+      "description": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
+      "hammer_price_usd": 975.0,
+      "currency_original": "USD",
+      "price_original": 975.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid9036_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-f4462792fa1a",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9034",
       "title": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, Agesidamos, magistrate, struck c. 250-230 NGC Ch XF Strike: 4/5 Surface: 3/5",
       "description": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, Agesidamos, magistrate, struck c. 250-230 NGC Ch XF Strike: 4/5 Surface: 3/5",
@@ -50,8 +85,40 @@
       }
     },
     {
+      "id": "mashops-f6d4aa4298c1",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=77",
+      "title": "AR Didrachm c.302-281 BC AR Didrachm c.302-281 BC CALABRIA TARAS Dicher Collection NGC Ch XF Strike: 3/5 Surface: 2/5",
+      "description": "AR Didrachm c.302-281 BC AR Didrachm c.302-281 BC CALABRIA TARAS Dicher Collection NGC Ch XF Strike: 3/5 Surface: 2/5",
+      "hammer_price_usd": 579.99,
+      "currency_original": "USD",
+      "price_original": 579.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid77_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 3,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-29ae7f1a2f69",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9037",
       "title": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
       "description": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
@@ -80,8 +147,40 @@
       }
     },
     {
+      "id": "mashops-4a205ef28cbd",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8971",
+      "title": "AR Didrachm Azemilkos, c.349-311/0 BC Phoenicia. Tyre. Azemilkos, ca. 349-311/0 B.C.E. AR Didrachm, Dated Year 9 (341/ NGC Ch VF",
+      "description": "AR Didrachm Azemilkos, c.349-311/0 BC Phoenicia. Tyre. Azemilkos, ca. 349-311/0 B.C.E. AR Didrachm, Dated Year 9 (341/ NGC Ch VF",
+      "hammer_price_usd": 975.0,
+      "currency_original": "USD",
+      "price_original": 975.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8971_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-f4462792fa1a",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9034",
       "title": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, Agesidamos, magistrate, struck c. 250-230 NGC Ch XF Strike: 4/5 Surface: 3/5",
       "description": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, Agesidamos, magistrate, struck c. 250-230 NGC Ch XF Strike: 4/5 Surface: 3/5",
@@ -110,8 +209,40 @@
       }
     },
     {
+      "id": "mashops-f6d4aa4298c1",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=77",
+      "title": "AR Didrachm c.302-281 BC AR Didrachm c.302-281 BC CALABRIA TARAS Dicher Collection NGC Ch XF Strike: 3/5 Surface: 2/5",
+      "description": "AR Didrachm c.302-281 BC AR Didrachm c.302-281 BC CALABRIA TARAS Dicher Collection NGC Ch XF Strike: 3/5 Surface: 2/5",
+      "hammer_price_usd": 579.99,
+      "currency_original": "USD",
+      "price_original": 579.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid77_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 3,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-29ae7f1a2f69",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9037",
       "title": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
       "description": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
@@ -140,8 +271,40 @@
       }
     },
     {
+      "id": "mashops-4a205ef28cbd",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8971",
+      "title": "AR Didrachm Azemilkos, c.349-311/0 BC Phoenicia. Tyre. Azemilkos, ca. 349-311/0 B.C.E. AR Didrachm, Dated Year 9 (341/ NGC Ch VF",
+      "description": "AR Didrachm Azemilkos, c.349-311/0 BC Phoenicia. Tyre. Azemilkos, ca. 349-311/0 B.C.E. AR Didrachm, Dated Year 9 (341/ NGC Ch VF",
+      "hammer_price_usd": 975.0,
+      "currency_original": "USD",
+      "price_original": 975.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8971_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-f4462792fa1a",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9034",
       "title": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, Agesidamos, magistrate, struck c. 250-230 NGC Ch XF Strike: 4/5 Surface: 3/5",
       "description": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, Agesidamos, magistrate, struck c. 250-230 NGC Ch XF Strike: 4/5 Surface: 3/5",
@@ -170,8 +333,40 @@
       }
     },
     {
+      "id": "mashops-f6d4aa4298c1",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=77",
+      "title": "AR Didrachm c.302-281 BC AR Didrachm c.302-281 BC CALABRIA TARAS Dicher Collection NGC Ch XF Strike: 3/5 Surface: 2/5",
+      "description": "AR Didrachm c.302-281 BC AR Didrachm c.302-281 BC CALABRIA TARAS Dicher Collection NGC Ch XF Strike: 3/5 Surface: 2/5",
+      "hammer_price_usd": 579.99,
+      "currency_original": "USD",
+      "price_original": 579.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid77_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 3,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-29ae7f1a2f69",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9037",
       "title": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
       "description": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
@@ -200,8 +395,40 @@
       }
     },
     {
+      "id": "mashops-4a205ef28cbd",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8971",
+      "title": "AR Didrachm Azemilkos, c.349-311/0 BC Phoenicia. Tyre. Azemilkos, ca. 349-311/0 B.C.E. AR Didrachm, Dated Year 9 (341/ NGC Ch VF",
+      "description": "AR Didrachm Azemilkos, c.349-311/0 BC Phoenicia. Tyre. Azemilkos, ca. 349-311/0 B.C.E. AR Didrachm, Dated Year 9 (341/ NGC Ch VF",
+      "hammer_price_usd": 975.0,
+      "currency_original": "USD",
+      "price_original": 975.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8971_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-f4462792fa1a",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9034",
       "title": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, Agesidamos, magistrate, struck c. 250-230 NGC Ch XF Strike: 4/5 Surface: 3/5",
       "description": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, Agesidamos, magistrate, struck c. 250-230 NGC Ch XF Strike: 4/5 Surface: 3/5",
@@ -230,8 +457,40 @@
       }
     },
     {
+      "id": "mashops-f6d4aa4298c1",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=77",
+      "title": "AR Didrachm c.302-281 BC AR Didrachm c.302-281 BC CALABRIA TARAS Dicher Collection NGC Ch XF Strike: 3/5 Surface: 2/5",
+      "description": "AR Didrachm c.302-281 BC AR Didrachm c.302-281 BC CALABRIA TARAS Dicher Collection NGC Ch XF Strike: 3/5 Surface: 2/5",
+      "hammer_price_usd": 579.99,
+      "currency_original": "USD",
+      "price_original": 579.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid77_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 3,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-29ae7f1a2f69",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9037",
       "title": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
       "description": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
@@ -260,8 +519,40 @@
       }
     },
     {
+      "id": "mashops-4a205ef28cbd",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8971",
+      "title": "AR Didrachm Azemilkos, c.349-311/0 BC Phoenicia. Tyre. Azemilkos, ca. 349-311/0 B.C.E. AR Didrachm, Dated Year 9 (341/ NGC Ch VF",
+      "description": "AR Didrachm Azemilkos, c.349-311/0 BC Phoenicia. Tyre. Azemilkos, ca. 349-311/0 B.C.E. AR Didrachm, Dated Year 9 (341/ NGC Ch VF",
+      "hammer_price_usd": 975.0,
+      "currency_original": "USD",
+      "price_original": 975.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8971_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-f4462792fa1a",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9034",
       "title": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, Agesidamos, magistrate, struck c. 250-230 NGC Ch XF Strike: 4/5 Surface: 3/5",
       "description": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, Agesidamos, magistrate, struck c. 250-230 NGC Ch XF Strike: 4/5 Surface: 3/5",
@@ -290,8 +581,40 @@
       }
     },
     {
+      "id": "mashops-f6d4aa4298c1",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=77",
+      "title": "AR Didrachm c.302-281 BC AR Didrachm c.302-281 BC CALABRIA TARAS Dicher Collection NGC Ch XF Strike: 3/5 Surface: 2/5",
+      "description": "AR Didrachm c.302-281 BC AR Didrachm c.302-281 BC CALABRIA TARAS Dicher Collection NGC Ch XF Strike: 3/5 Surface: 2/5",
+      "hammer_price_usd": 579.99,
+      "currency_original": "USD",
+      "price_original": 579.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid77_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 3,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-29ae7f1a2f69",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9037",
       "title": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
       "description": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
@@ -320,8 +643,40 @@
       }
     },
     {
+      "id": "mashops-4a205ef28cbd",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8971",
+      "title": "AR Didrachm Azemilkos, c.349-311/0 BC Phoenicia. Tyre. Azemilkos, ca. 349-311/0 B.C.E. AR Didrachm, Dated Year 9 (341/ NGC Ch VF",
+      "description": "AR Didrachm Azemilkos, c.349-311/0 BC Phoenicia. Tyre. Azemilkos, ca. 349-311/0 B.C.E. AR Didrachm, Dated Year 9 (341/ NGC Ch VF",
+      "hammer_price_usd": 975.0,
+      "currency_original": "USD",
+      "price_original": 975.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8971_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-f4462792fa1a",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9034",
       "title": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, Agesidamos, magistrate, struck c. 250-230 NGC Ch XF Strike: 4/5 Surface: 3/5",
       "description": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, Agesidamos, magistrate, struck c. 250-230 NGC Ch XF Strike: 4/5 Surface: 3/5",
@@ -350,8 +705,40 @@
       }
     },
     {
+      "id": "mashops-f6d4aa4298c1",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=77",
+      "title": "AR Didrachm c.302-281 BC AR Didrachm c.302-281 BC CALABRIA TARAS Dicher Collection NGC Ch XF Strike: 3/5 Surface: 2/5",
+      "description": "AR Didrachm c.302-281 BC AR Didrachm c.302-281 BC CALABRIA TARAS Dicher Collection NGC Ch XF Strike: 3/5 Surface: 2/5",
+      "hammer_price_usd": 579.99,
+      "currency_original": "USD",
+      "price_original": 579.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid77_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 3,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-29ae7f1a2f69",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9037",
       "title": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
       "description": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
@@ -380,8 +767,40 @@
       }
     },
     {
+      "id": "mashops-4a205ef28cbd",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8971",
+      "title": "AR Didrachm Azemilkos, c.349-311/0 BC Phoenicia. Tyre. Azemilkos, ca. 349-311/0 B.C.E. AR Didrachm, Dated Year 9 (341/ NGC Ch VF",
+      "description": "AR Didrachm Azemilkos, c.349-311/0 BC Phoenicia. Tyre. Azemilkos, ca. 349-311/0 B.C.E. AR Didrachm, Dated Year 9 (341/ NGC Ch VF",
+      "hammer_price_usd": 975.0,
+      "currency_original": "USD",
+      "price_original": 975.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8971_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-f4462792fa1a",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9034",
       "title": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, Agesidamos, magistrate, struck c. 250-230 NGC Ch XF Strike: 4/5 Surface: 3/5",
       "description": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, Agesidamos, magistrate, struck c. 250-230 NGC Ch XF Strike: 4/5 Surface: 3/5",
@@ -410,8 +829,40 @@
       }
     },
     {
+      "id": "mashops-f6d4aa4298c1",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=77",
+      "title": "AR Didrachm c.302-281 BC AR Didrachm c.302-281 BC CALABRIA TARAS Dicher Collection NGC Ch XF Strike: 3/5 Surface: 2/5",
+      "description": "AR Didrachm c.302-281 BC AR Didrachm c.302-281 BC CALABRIA TARAS Dicher Collection NGC Ch XF Strike: 3/5 Surface: 2/5",
+      "hammer_price_usd": 579.99,
+      "currency_original": "USD",
+      "price_original": 579.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid77_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 3,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-29ae7f1a2f69",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9037",
       "title": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
       "description": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
@@ -440,8 +891,40 @@
       }
     },
     {
+      "id": "mashops-4a205ef28cbd",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8971",
+      "title": "AR Didrachm Azemilkos, c.349-311/0 BC Phoenicia. Tyre. Azemilkos, ca. 349-311/0 B.C.E. AR Didrachm, Dated Year 9 (341/ NGC Ch VF",
+      "description": "AR Didrachm Azemilkos, c.349-311/0 BC Phoenicia. Tyre. Azemilkos, ca. 349-311/0 B.C.E. AR Didrachm, Dated Year 9 (341/ NGC Ch VF",
+      "hammer_price_usd": 975.0,
+      "currency_original": "USD",
+      "price_original": 975.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8971_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-f4462792fa1a",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9034",
       "title": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, Agesidamos, magistrate, struck c. 250-230 NGC Ch XF Strike: 4/5 Surface: 3/5",
       "description": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, Agesidamos, magistrate, struck c. 250-230 NGC Ch XF Strike: 4/5 Surface: 3/5",
@@ -470,8 +953,40 @@
       }
     },
     {
+      "id": "mashops-f6d4aa4298c1",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=77",
+      "title": "AR Didrachm c.302-281 BC AR Didrachm c.302-281 BC CALABRIA TARAS Dicher Collection NGC Ch XF Strike: 3/5 Surface: 2/5",
+      "description": "AR Didrachm c.302-281 BC AR Didrachm c.302-281 BC CALABRIA TARAS Dicher Collection NGC Ch XF Strike: 3/5 Surface: 2/5",
+      "hammer_price_usd": 579.99,
+      "currency_original": "USD",
+      "price_original": 579.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid77_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 3,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-29ae7f1a2f69",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9037",
       "title": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
       "description": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
@@ -500,8 +1015,40 @@
       }
     },
     {
+      "id": "mashops-4a205ef28cbd",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8971",
+      "title": "AR Didrachm Azemilkos, c.349-311/0 BC Phoenicia. Tyre. Azemilkos, ca. 349-311/0 B.C.E. AR Didrachm, Dated Year 9 (341/ NGC Ch VF",
+      "description": "AR Didrachm Azemilkos, c.349-311/0 BC Phoenicia. Tyre. Azemilkos, ca. 349-311/0 B.C.E. AR Didrachm, Dated Year 9 (341/ NGC Ch VF",
+      "hammer_price_usd": 975.0,
+      "currency_original": "USD",
+      "price_original": 975.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8971_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-f4462792fa1a",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9034",
       "title": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, Agesidamos, magistrate, struck c. 250-230 NGC Ch XF Strike: 4/5 Surface: 3/5",
       "description": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, Agesidamos, magistrate, struck c. 250-230 NGC Ch XF Strike: 4/5 Surface: 3/5",
@@ -530,8 +1077,40 @@
       }
     },
     {
+      "id": "mashops-f6d4aa4298c1",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=77",
+      "title": "AR Didrachm c.302-281 BC AR Didrachm c.302-281 BC CALABRIA TARAS Dicher Collection NGC Ch XF Strike: 3/5 Surface: 2/5",
+      "description": "AR Didrachm c.302-281 BC AR Didrachm c.302-281 BC CALABRIA TARAS Dicher Collection NGC Ch XF Strike: 3/5 Surface: 2/5",
+      "hammer_price_usd": 579.99,
+      "currency_original": "USD",
+      "price_original": 579.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid77_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 3,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-29ae7f1a2f69",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9037",
       "title": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
       "description": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
@@ -560,8 +1139,40 @@
       }
     },
     {
+      "id": "mashops-4a205ef28cbd",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8971",
+      "title": "AR Didrachm Azemilkos, c.349-311/0 BC Phoenicia. Tyre. Azemilkos, ca. 349-311/0 B.C.E. AR Didrachm, Dated Year 9 (341/ NGC Ch VF",
+      "description": "AR Didrachm Azemilkos, c.349-311/0 BC Phoenicia. Tyre. Azemilkos, ca. 349-311/0 B.C.E. AR Didrachm, Dated Year 9 (341/ NGC Ch VF",
+      "hammer_price_usd": 975.0,
+      "currency_original": "USD",
+      "price_original": 975.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8971_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-f4462792fa1a",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9034",
       "title": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, Agesidamos, magistrate, struck c. 250-230 NGC Ch XF Strike: 4/5 Surface: 3/5",
       "description": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, Agesidamos, magistrate, struck c. 250-230 NGC Ch XF Strike: 4/5 Surface: 3/5",
@@ -590,8 +1201,40 @@
       }
     },
     {
+      "id": "mashops-f6d4aa4298c1",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=77",
+      "title": "AR Didrachm c.302-281 BC AR Didrachm c.302-281 BC CALABRIA TARAS Dicher Collection NGC Ch XF Strike: 3/5 Surface: 2/5",
+      "description": "AR Didrachm c.302-281 BC AR Didrachm c.302-281 BC CALABRIA TARAS Dicher Collection NGC Ch XF Strike: 3/5 Surface: 2/5",
+      "hammer_price_usd": 579.99,
+      "currency_original": "USD",
+      "price_original": 579.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid77_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 3,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-29ae7f1a2f69",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9037",
       "title": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
       "description": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
@@ -620,8 +1263,40 @@
       }
     },
     {
+      "id": "mashops-4a205ef28cbd",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8971",
+      "title": "AR Didrachm Azemilkos, c.349-311/0 BC Phoenicia. Tyre. Azemilkos, ca. 349-311/0 B.C.E. AR Didrachm, Dated Year 9 (341/ NGC Ch VF",
+      "description": "AR Didrachm Azemilkos, c.349-311/0 BC Phoenicia. Tyre. Azemilkos, ca. 349-311/0 B.C.E. AR Didrachm, Dated Year 9 (341/ NGC Ch VF",
+      "hammer_price_usd": 975.0,
+      "currency_original": "USD",
+      "price_original": 975.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8971_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-f4462792fa1a",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9034",
       "title": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, Agesidamos, magistrate, struck c. 250-230 NGC Ch XF Strike: 4/5 Surface: 3/5",
       "description": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, Agesidamos, magistrate, struck c. 250-230 NGC Ch XF Strike: 4/5 Surface: 3/5",
@@ -650,8 +1325,40 @@
       }
     },
     {
+      "id": "mashops-f6d4aa4298c1",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=77",
+      "title": "AR Didrachm c.302-281 BC AR Didrachm c.302-281 BC CALABRIA TARAS Dicher Collection NGC Ch XF Strike: 3/5 Surface: 2/5",
+      "description": "AR Didrachm c.302-281 BC AR Didrachm c.302-281 BC CALABRIA TARAS Dicher Collection NGC Ch XF Strike: 3/5 Surface: 2/5",
+      "hammer_price_usd": 579.99,
+      "currency_original": "USD",
+      "price_original": 579.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid77_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 3,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-29ae7f1a2f69",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9037",
       "title": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
       "description": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
@@ -680,8 +1387,40 @@
       }
     },
     {
+      "id": "mashops-4a205ef28cbd",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8971",
+      "title": "AR Didrachm Azemilkos, c.349-311/0 BC Phoenicia. Tyre. Azemilkos, ca. 349-311/0 B.C.E. AR Didrachm, Dated Year 9 (341/ NGC Ch VF",
+      "description": "AR Didrachm Azemilkos, c.349-311/0 BC Phoenicia. Tyre. Azemilkos, ca. 349-311/0 B.C.E. AR Didrachm, Dated Year 9 (341/ NGC Ch VF",
+      "hammer_price_usd": 975.0,
+      "currency_original": "USD",
+      "price_original": 975.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8971_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-f4462792fa1a",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9034",
       "title": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, Agesidamos, magistrate, struck c. 250-230 NGC Ch XF Strike: 4/5 Surface: 3/5",
       "description": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, Agesidamos, magistrate, struck c. 250-230 NGC Ch XF Strike: 4/5 Surface: 3/5",
@@ -710,8 +1449,40 @@
       }
     },
     {
+      "id": "mashops-f6d4aa4298c1",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=77",
+      "title": "AR Didrachm c.302-281 BC AR Didrachm c.302-281 BC CALABRIA TARAS Dicher Collection NGC Ch XF Strike: 3/5 Surface: 2/5",
+      "description": "AR Didrachm c.302-281 BC AR Didrachm c.302-281 BC CALABRIA TARAS Dicher Collection NGC Ch XF Strike: 3/5 Surface: 2/5",
+      "hammer_price_usd": 579.99,
+      "currency_original": "USD",
+      "price_original": 579.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid77_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 3,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-29ae7f1a2f69",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9037",
       "title": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
       "description": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
@@ -740,8 +1511,40 @@
       }
     },
     {
+      "id": "mashops-4a205ef28cbd",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8971",
+      "title": "AR Didrachm Azemilkos, c.349-311/0 BC Phoenicia. Tyre. Azemilkos, ca. 349-311/0 B.C.E. AR Didrachm, Dated Year 9 (341/ NGC Ch VF",
+      "description": "AR Didrachm Azemilkos, c.349-311/0 BC Phoenicia. Tyre. Azemilkos, ca. 349-311/0 B.C.E. AR Didrachm, Dated Year 9 (341/ NGC Ch VF",
+      "hammer_price_usd": 975.0,
+      "currency_original": "USD",
+      "price_original": 975.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8971_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-f4462792fa1a",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9034",
       "title": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, Agesidamos, magistrate, struck c. 250-230 NGC Ch XF Strike: 4/5 Surface: 3/5",
       "description": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, Agesidamos, magistrate, struck c. 250-230 NGC Ch XF Strike: 4/5 Surface: 3/5",
@@ -770,8 +1573,40 @@
       }
     },
     {
+      "id": "mashops-f6d4aa4298c1",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=77",
+      "title": "AR Didrachm c.302-281 BC AR Didrachm c.302-281 BC CALABRIA TARAS Dicher Collection NGC Ch XF Strike: 3/5 Surface: 2/5",
+      "description": "AR Didrachm c.302-281 BC AR Didrachm c.302-281 BC CALABRIA TARAS Dicher Collection NGC Ch XF Strike: 3/5 Surface: 2/5",
+      "hammer_price_usd": 579.99,
+      "currency_original": "USD",
+      "price_original": 579.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid77_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 3,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-29ae7f1a2f69",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9037",
       "title": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
       "description": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
@@ -800,8 +1635,40 @@
       }
     },
     {
+      "id": "mashops-4a205ef28cbd",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8971",
+      "title": "AR Didrachm Azemilkos, c.349-311/0 BC Phoenicia. Tyre. Azemilkos, ca. 349-311/0 B.C.E. AR Didrachm, Dated Year 9 (341/ NGC Ch VF",
+      "description": "AR Didrachm Azemilkos, c.349-311/0 BC Phoenicia. Tyre. Azemilkos, ca. 349-311/0 B.C.E. AR Didrachm, Dated Year 9 (341/ NGC Ch VF",
+      "hammer_price_usd": 975.0,
+      "currency_original": "USD",
+      "price_original": 975.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8971_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-f4462792fa1a",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9034",
       "title": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, Agesidamos, magistrate, struck c. 250-230 NGC Ch XF Strike: 4/5 Surface: 3/5",
       "description": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, Agesidamos, magistrate, struck c. 250-230 NGC Ch XF Strike: 4/5 Surface: 3/5",
@@ -830,8 +1697,40 @@
       }
     },
     {
+      "id": "mashops-f6d4aa4298c1",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=77",
+      "title": "AR Didrachm c.302-281 BC AR Didrachm c.302-281 BC CALABRIA TARAS Dicher Collection NGC Ch XF Strike: 3/5 Surface: 2/5",
+      "description": "AR Didrachm c.302-281 BC AR Didrachm c.302-281 BC CALABRIA TARAS Dicher Collection NGC Ch XF Strike: 3/5 Surface: 2/5",
+      "hammer_price_usd": 579.99,
+      "currency_original": "USD",
+      "price_original": 579.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid77_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 3,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-29ae7f1a2f69",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9037",
       "title": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
       "description": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
@@ -860,54 +1759,25 @@
       }
     },
     {
-      "id": "mashops-f4462792fa1a",
+      "id": "mashops-4a205ef28cbd",
       "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9034",
-      "title": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, Agesidamos, magistrate, struck c. 250-230 NGC Ch XF Strike: 4/5 Surface: 3/5",
-      "description": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, Agesidamos, magistrate, struck c. 250-230 NGC Ch XF Strike: 4/5 Surface: 3/5",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8971",
+      "title": "AR Didrachm Azemilkos, c.349-311/0 BC Phoenicia. Tyre. Azemilkos, ca. 349-311/0 B.C.E. AR Didrachm, Dated Year 9 (341/ NGC Ch VF",
+      "description": "AR Didrachm Azemilkos, c.349-311/0 BC Phoenicia. Tyre. Azemilkos, ca. 349-311/0 B.C.E. AR Didrachm, Dated Year 9 (341/ NGC Ch VF",
       "hammer_price_usd": 975.0,
       "currency_original": "USD",
       "price_original": 975.0,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid9034_combined.jpg",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8971_combined.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
-        "grade": "XF",
+        "grade": "VF",
         "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-29ae7f1a2f69",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9037",
-      "title": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
-      "description": "AR Didrachm c.250-230 BC Islands of Caria, Rhodes, AR Didrachm, struck c. 250-230 BC, Agesidamos, magistr NGC XF Strike: 4/5 Surface: 3/5",
-      "hammer_price_usd": 975.0,
-      "currency_original": "USD",
-      "price_original": 975.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid9037_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 3,
+        "strike_score": null,
+        "surface_score": null,
         "details_grade": null,
         "certification_url": null
       },

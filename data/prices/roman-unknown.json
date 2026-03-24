@@ -6,23 +6,27 @@
   "dynasty": null,
   "denomination": "Unknown",
   "metal": "silver",
-  "sale_count": 35,
+  "sale_count": 49,
+  "realized_count": 0,
+  "fixed_price_count": 49,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 44.0,
-    "max": 1200.0
+    "max": 9862.03
   },
-  "median_price_usd": 99.0,
+  "median_price_usd": 1200.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
     "MS": 20,
-    "XF": 15
+    "XF": 15,
+    "AU": 14
   },
   "thumbnail_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8328_combined.jpg",
   "sales": [
     {
       "id": "vcoins-db885f2e2507",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1953_s__dollar_franklin_half_dollar_silver_900_san_francisco_mint_4148000_125g_ngc_ms_65_pcgs_6666/2348792/Default.aspx",
       "title": "United States Federal republic 1953 S \u00bd Dollar \"Franklin Half Dollar\" Silver (.900) San Francisco Mint (4148000) 12.5g NGC MS...",
       "description": "",
@@ -53,6 +57,7 @@
     {
       "id": "vcoins-84d63809364d",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1954_d__dollar_franklin_half_dollar_silver_900_denver_mint_25445580_125g_ngc_ms_64_pcgs_6668/2348571/Default.aspx",
       "title": "United States Federal republic 1954 D \u00bd Dollar \"Franklin Half Dollar\" Silver (.900) Denver Mint (25445580) 12.5g NGC MS 64 PC...",
       "description": "",
@@ -83,6 +88,7 @@
     {
       "id": "vcoins-df6a8c06939f",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1954_s__dollar_franklin_half_dollar_silver_900_san_francisco_mint_4993400_125g_ngc_ms_65_pcgs_6669/2348570/Default.aspx",
       "title": "United States Federal republic 1954 S \u00bd Dollar \"Franklin Half Dollar\" Silver (.900) San Francisco Mint (4993400) 12.5g NGC MS...",
       "description": "",
@@ -113,6 +119,7 @@
     {
       "id": "vcoins-7161756d53df",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1960_d__dollar_franklin_half_dollar_silver_900_denver_mint_18215812_125g_ngc_ms_64_pcgs_6679/2348569/Default.aspx",
       "title": "United States Federal republic 1960 D \u00bd Dollar \"Franklin Half Dollar\" Silver (.900) Denver Mint (18215812) 12.5g NGC MS 64 PC...",
       "description": "",
@@ -143,6 +150,7 @@
     {
       "id": "vcoins-69c5700ccad0",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1960_d__dollar_franklin_half_dollar_silver_900_denver_mint_18215812_125g_ngc_ms_64_pcgs_6679/2348568/Default.aspx",
       "title": "United States Federal republic 1960 D \u00bd Dollar \"Franklin Half Dollar\" Silver (.900) Denver Mint (18215812) 12.5g NGC MS 64 PC...",
       "description": "",
@@ -173,6 +181,7 @@
     {
       "id": "vcoins-e5f09ee384ae",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1961__dollar_franklin_half_dollar_silver_900_philadelphia_mint_8290000_125g_ngc_ms_65_pcgs_6680/2348566/Default.aspx",
       "title": "United States Federal republic 1961 \u00bd Dollar \"Franklin Half Dollar\" Silver (.900) Philadelphia Mint (8290000) 12.5g NGC MS 65...",
       "description": "",
@@ -203,6 +212,7 @@
     {
       "id": "vcoins-694e2bdee6e3",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1961_d__dollar_franklin_half_dollar_silver_900_denver_mint_20276442_125g_ngc_ms_65_pcgs_6681/2348565/Default.aspx",
       "title": "United States Federal republic 1961 D \u00bd Dollar \"Franklin Half Dollar\" Silver (.900) Denver Mint (20276442) 12.5g NGC MS 65 PC...",
       "description": "",
@@ -233,6 +243,7 @@
     {
       "id": "vcoins-eda23545bd48",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1961_d__dollar_franklin_half_dollar_silver_900_denver_mint_20276442_125g_ngc_ms_66_pcgs_6681/2348563/Default.aspx",
       "title": "United States Federal republic 1961 D \u00bd Dollar \"Franklin Half Dollar\" Silver (.900) Denver Mint (20276442) 12.5g NGC MS 66 PC...",
       "description": "",
@@ -263,6 +274,7 @@
     {
       "id": "vcoins-d8e04b3babe1",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1960_d__dollar_washington_silver_quarter_silver_900_denver_mint_63000324_625g_ngc_ms_64_pcgs_5869_greysheet_5698/2348553/Default.aspx",
       "title": "United States Federal republic 1960 D \u00bc Dollar \"Washington Silver Quarter\" Silver (.900) Denver Mint (63000324) 6.25g NGC MS ...",
       "description": "",
@@ -293,6 +305,7 @@
     {
       "id": "vcoins-24d6a7942697",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1955_d__dollar_washington_silver_quarter_silver_900_denver_mint_3182400_625g_ngc_ms_64_pcgs_5859_greysheet_5693/2348549/Default.aspx",
       "title": "United States Federal republic 1955 D \u00bc Dollar \"Washington Silver Quarter\" Silver (.900) Denver Mint (3182400) 6.25g NGC MS 6...",
       "description": "",
@@ -323,6 +336,7 @@
     {
       "id": "vcoins-db885f2e2507",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1953_s__dollar_franklin_half_dollar_silver_900_san_francisco_mint_4148000_125g_ngc_ms_65_pcgs_6666/2348792/Default.aspx",
       "title": "United States Federal republic 1953 S \u00bd Dollar \"Franklin Half Dollar\" Silver (.900) San Francisco Mint (4148000) 12.5g NGC MS...",
       "description": "",
@@ -353,6 +367,7 @@
     {
       "id": "vcoins-84d63809364d",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1954_d__dollar_franklin_half_dollar_silver_900_denver_mint_25445580_125g_ngc_ms_64_pcgs_6668/2348571/Default.aspx",
       "title": "United States Federal republic 1954 D \u00bd Dollar \"Franklin Half Dollar\" Silver (.900) Denver Mint (25445580) 12.5g NGC MS 64 PC...",
       "description": "",
@@ -383,6 +398,7 @@
     {
       "id": "vcoins-df6a8c06939f",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1954_s__dollar_franklin_half_dollar_silver_900_san_francisco_mint_4993400_125g_ngc_ms_65_pcgs_6669/2348570/Default.aspx",
       "title": "United States Federal republic 1954 S \u00bd Dollar \"Franklin Half Dollar\" Silver (.900) San Francisco Mint (4993400) 12.5g NGC MS...",
       "description": "",
@@ -413,6 +429,7 @@
     {
       "id": "vcoins-7161756d53df",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1960_d__dollar_franklin_half_dollar_silver_900_denver_mint_18215812_125g_ngc_ms_64_pcgs_6679/2348569/Default.aspx",
       "title": "United States Federal republic 1960 D \u00bd Dollar \"Franklin Half Dollar\" Silver (.900) Denver Mint (18215812) 12.5g NGC MS 64 PC...",
       "description": "",
@@ -443,6 +460,7 @@
     {
       "id": "vcoins-69c5700ccad0",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1960_d__dollar_franklin_half_dollar_silver_900_denver_mint_18215812_125g_ngc_ms_64_pcgs_6679/2348568/Default.aspx",
       "title": "United States Federal republic 1960 D \u00bd Dollar \"Franklin Half Dollar\" Silver (.900) Denver Mint (18215812) 12.5g NGC MS 64 PC...",
       "description": "",
@@ -473,6 +491,7 @@
     {
       "id": "vcoins-e5f09ee384ae",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1961__dollar_franklin_half_dollar_silver_900_philadelphia_mint_8290000_125g_ngc_ms_65_pcgs_6680/2348566/Default.aspx",
       "title": "United States Federal republic 1961 \u00bd Dollar \"Franklin Half Dollar\" Silver (.900) Philadelphia Mint (8290000) 12.5g NGC MS 65...",
       "description": "",
@@ -503,6 +522,7 @@
     {
       "id": "vcoins-694e2bdee6e3",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1961_d__dollar_franklin_half_dollar_silver_900_denver_mint_20276442_125g_ngc_ms_65_pcgs_6681/2348565/Default.aspx",
       "title": "United States Federal republic 1961 D \u00bd Dollar \"Franklin Half Dollar\" Silver (.900) Denver Mint (20276442) 12.5g NGC MS 65 PC...",
       "description": "",
@@ -533,6 +553,7 @@
     {
       "id": "vcoins-eda23545bd48",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1961_d__dollar_franklin_half_dollar_silver_900_denver_mint_20276442_125g_ngc_ms_66_pcgs_6681/2348563/Default.aspx",
       "title": "United States Federal republic 1961 D \u00bd Dollar \"Franklin Half Dollar\" Silver (.900) Denver Mint (20276442) 12.5g NGC MS 66 PC...",
       "description": "",
@@ -563,6 +584,7 @@
     {
       "id": "vcoins-d8e04b3babe1",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1960_d__dollar_washington_silver_quarter_silver_900_denver_mint_63000324_625g_ngc_ms_64_pcgs_5869_greysheet_5698/2348553/Default.aspx",
       "title": "United States Federal republic 1960 D \u00bc Dollar \"Washington Silver Quarter\" Silver (.900) Denver Mint (63000324) 6.25g NGC MS ...",
       "description": "",
@@ -593,6 +615,7 @@
     {
       "id": "vcoins-24d6a7942697",
       "source": "vcoins",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.vcoins.com/en/stores/coins_numismatica_barcelona/333/product/united_states_federal_republic_1955_d__dollar_washington_silver_quarter_silver_900_denver_mint_3182400_625g_ngc_ms_64_pcgs_5859_greysheet_5693/2348549/Default.aspx",
       "title": "United States Federal republic 1955 D \u00bc Dollar \"Washington Silver Quarter\" Silver (.900) Denver Mint (3182400) 6.25g NGC MS 6...",
       "description": "",
@@ -623,6 +646,7 @@
     {
       "id": "mashops-f40a79a597f3",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8328",
       "title": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
       "description": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
@@ -651,8 +675,40 @@
       }
     },
     {
+      "id": "mashops-d1a4008de244",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/thomasnumismatics/item.php?id=2404",
+      "title": "Didrachme ou Quadrigatus 225-210 av.JC Roman Republic AU  /  NGC AU \u2605 strike 5 / 5-Surface 4 / 5",
+      "description": "Didrachme ou Quadrigatus 225-210 av.JC Roman Republic AU  /  NGC AU \u2605 strike 5 / 5-Surface 4 / 5",
+      "hammer_price_usd": 9862.03,
+      "currency_original": "USD",
+      "price_original": 9862.03,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/thomasnumismatics/pic/thumb/2404.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-f40a79a597f3",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8328",
       "title": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
       "description": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
@@ -681,8 +737,40 @@
       }
     },
     {
+      "id": "mashops-d1a4008de244",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/thomasnumismatics/item.php?id=2404",
+      "title": "Didrachme ou Quadrigatus 225-210 av.JC Roman Republic AU  /  NGC AU \u2605 strike 5 / 5-Surface 4 / 5",
+      "description": "Didrachme ou Quadrigatus 225-210 av.JC Roman Republic AU  /  NGC AU \u2605 strike 5 / 5-Surface 4 / 5",
+      "hammer_price_usd": 9862.03,
+      "currency_original": "USD",
+      "price_original": 9862.03,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/thomasnumismatics/pic/thumb/2404.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-f40a79a597f3",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8328",
       "title": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
       "description": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
@@ -711,8 +799,40 @@
       }
     },
     {
+      "id": "mashops-d1a4008de244",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/thomasnumismatics/item.php?id=2404",
+      "title": "Didrachme ou Quadrigatus 225-210 av.JC Roman Republic AU  /  NGC AU \u2605 strike 5 / 5-Surface 4 / 5",
+      "description": "Didrachme ou Quadrigatus 225-210 av.JC Roman Republic AU  /  NGC AU \u2605 strike 5 / 5-Surface 4 / 5",
+      "hammer_price_usd": 9862.03,
+      "currency_original": "USD",
+      "price_original": 9862.03,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/thomasnumismatics/pic/thumb/2404.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-f40a79a597f3",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8328",
       "title": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
       "description": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
@@ -741,8 +861,40 @@
       }
     },
     {
+      "id": "mashops-d1a4008de244",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/thomasnumismatics/item.php?id=2404",
+      "title": "Didrachme ou Quadrigatus 225-210 av.JC Roman Republic AU  /  NGC AU \u2605 strike 5 / 5-Surface 4 / 5",
+      "description": "Didrachme ou Quadrigatus 225-210 av.JC Roman Republic AU  /  NGC AU \u2605 strike 5 / 5-Surface 4 / 5",
+      "hammer_price_usd": 9862.03,
+      "currency_original": "USD",
+      "price_original": 9862.03,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/thomasnumismatics/pic/thumb/2404.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-f40a79a597f3",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8328",
       "title": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
       "description": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
@@ -771,8 +923,40 @@
       }
     },
     {
+      "id": "mashops-d1a4008de244",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/thomasnumismatics/item.php?id=2404",
+      "title": "Didrachme ou Quadrigatus 225-210 av.JC Roman Republic AU  /  NGC AU \u2605 strike 5 / 5-Surface 4 / 5",
+      "description": "Didrachme ou Quadrigatus 225-210 av.JC Roman Republic AU  /  NGC AU \u2605 strike 5 / 5-Surface 4 / 5",
+      "hammer_price_usd": 9862.03,
+      "currency_original": "USD",
+      "price_original": 9862.03,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/thomasnumismatics/pic/thumb/2404.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-f40a79a597f3",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8328",
       "title": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
       "description": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
@@ -801,8 +985,40 @@
       }
     },
     {
+      "id": "mashops-d1a4008de244",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/thomasnumismatics/item.php?id=2404",
+      "title": "Didrachme ou Quadrigatus 225-210 av.JC Roman Republic AU  /  NGC AU \u2605 strike 5 / 5-Surface 4 / 5",
+      "description": "Didrachme ou Quadrigatus 225-210 av.JC Roman Republic AU  /  NGC AU \u2605 strike 5 / 5-Surface 4 / 5",
+      "hammer_price_usd": 9862.03,
+      "currency_original": "USD",
+      "price_original": 9862.03,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/thomasnumismatics/pic/thumb/2404.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-f40a79a597f3",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8328",
       "title": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
       "description": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
@@ -831,8 +1047,40 @@
       }
     },
     {
+      "id": "mashops-d1a4008de244",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/thomasnumismatics/item.php?id=2404",
+      "title": "Didrachme ou Quadrigatus 225-210 av.JC Roman Republic AU  /  NGC AU \u2605 strike 5 / 5-Surface 4 / 5",
+      "description": "Didrachme ou Quadrigatus 225-210 av.JC Roman Republic AU  /  NGC AU \u2605 strike 5 / 5-Surface 4 / 5",
+      "hammer_price_usd": 9862.03,
+      "currency_original": "USD",
+      "price_original": 9862.03,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/thomasnumismatics/pic/thumb/2404.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-f40a79a597f3",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8328",
       "title": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
       "description": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
@@ -861,8 +1109,40 @@
       }
     },
     {
+      "id": "mashops-d1a4008de244",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/thomasnumismatics/item.php?id=2404",
+      "title": "Didrachme ou Quadrigatus 225-210 av.JC Roman Republic AU  /  NGC AU \u2605 strike 5 / 5-Surface 4 / 5",
+      "description": "Didrachme ou Quadrigatus 225-210 av.JC Roman Republic AU  /  NGC AU \u2605 strike 5 / 5-Surface 4 / 5",
+      "hammer_price_usd": 9862.03,
+      "currency_original": "USD",
+      "price_original": 9862.03,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/thomasnumismatics/pic/thumb/2404.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-f40a79a597f3",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8328",
       "title": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
       "description": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
@@ -891,8 +1171,40 @@
       }
     },
     {
+      "id": "mashops-d1a4008de244",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/thomasnumismatics/item.php?id=2404",
+      "title": "Didrachme ou Quadrigatus 225-210 av.JC Roman Republic AU  /  NGC AU \u2605 strike 5 / 5-Surface 4 / 5",
+      "description": "Didrachme ou Quadrigatus 225-210 av.JC Roman Republic AU  /  NGC AU \u2605 strike 5 / 5-Surface 4 / 5",
+      "hammer_price_usd": 9862.03,
+      "currency_original": "USD",
+      "price_original": 9862.03,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/thomasnumismatics/pic/thumb/2404.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-f40a79a597f3",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8328",
       "title": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
       "description": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
@@ -921,8 +1233,40 @@
       }
     },
     {
+      "id": "mashops-d1a4008de244",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/thomasnumismatics/item.php?id=2404",
+      "title": "Didrachme ou Quadrigatus 225-210 av.JC Roman Republic AU  /  NGC AU \u2605 strike 5 / 5-Surface 4 / 5",
+      "description": "Didrachme ou Quadrigatus 225-210 av.JC Roman Republic AU  /  NGC AU \u2605 strike 5 / 5-Surface 4 / 5",
+      "hammer_price_usd": 9862.03,
+      "currency_original": "USD",
+      "price_original": 9862.03,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/thomasnumismatics/pic/thumb/2404.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-f40a79a597f3",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8328",
       "title": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
       "description": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
@@ -951,8 +1295,40 @@
       }
     },
     {
+      "id": "mashops-d1a4008de244",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/thomasnumismatics/item.php?id=2404",
+      "title": "Didrachme ou Quadrigatus 225-210 av.JC Roman Republic AU  /  NGC AU \u2605 strike 5 / 5-Surface 4 / 5",
+      "description": "Didrachme ou Quadrigatus 225-210 av.JC Roman Republic AU  /  NGC AU \u2605 strike 5 / 5-Surface 4 / 5",
+      "hammer_price_usd": 9862.03,
+      "currency_original": "USD",
+      "price_original": 9862.03,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/thomasnumismatics/pic/thumb/2404.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-f40a79a597f3",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8328",
       "title": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
       "description": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
@@ -981,8 +1357,40 @@
       }
     },
     {
+      "id": "mashops-d1a4008de244",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/thomasnumismatics/item.php?id=2404",
+      "title": "Didrachme ou Quadrigatus 225-210 av.JC Roman Republic AU  /  NGC AU \u2605 strike 5 / 5-Surface 4 / 5",
+      "description": "Didrachme ou Quadrigatus 225-210 av.JC Roman Republic AU  /  NGC AU \u2605 strike 5 / 5-Surface 4 / 5",
+      "hammer_price_usd": 9862.03,
+      "currency_original": "USD",
+      "price_original": 9862.03,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/thomasnumismatics/pic/thumb/2404.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-f40a79a597f3",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8328",
       "title": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
       "description": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
@@ -1011,8 +1419,40 @@
       }
     },
     {
+      "id": "mashops-d1a4008de244",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/thomasnumismatics/item.php?id=2404",
+      "title": "Didrachme ou Quadrigatus 225-210 av.JC Roman Republic AU  /  NGC AU \u2605 strike 5 / 5-Surface 4 / 5",
+      "description": "Didrachme ou Quadrigatus 225-210 av.JC Roman Republic AU  /  NGC AU \u2605 strike 5 / 5-Surface 4 / 5",
+      "hammer_price_usd": 9862.03,
+      "currency_original": "USD",
+      "price_original": 9862.03,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/thomasnumismatics/pic/thumb/2404.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-f40a79a597f3",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8328",
       "title": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
       "description": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
@@ -1041,8 +1481,40 @@
       }
     },
     {
+      "id": "mashops-d1a4008de244",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/thomasnumismatics/item.php?id=2404",
+      "title": "Didrachme ou Quadrigatus 225-210 av.JC Roman Republic AU  /  NGC AU \u2605 strike 5 / 5-Surface 4 / 5",
+      "description": "Didrachme ou Quadrigatus 225-210 av.JC Roman Republic AU  /  NGC AU \u2605 strike 5 / 5-Surface 4 / 5",
+      "hammer_price_usd": 9862.03,
+      "currency_original": "USD",
+      "price_original": 9862.03,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/thomasnumismatics/pic/thumb/2404.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-f40a79a597f3",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8328",
       "title": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
       "description": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",

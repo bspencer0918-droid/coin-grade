@@ -6,7 +6,9 @@
   "dynasty": "Severan",
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 15,
+  "sale_count": 29,
+  "realized_count": 0,
+  "fixed_price_count": 29,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 150.0,
@@ -15,13 +17,14 @@
   "median_price_usd": 150.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "VF": 15
+    "VF": 29
   },
   "thumbnail_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid665_combined.jpg",
   "sales": [
     {
       "id": "mashops-10f653bc00ef",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=665",
       "title": "AR Denarius Elagabalus, AD 218-222  NGC VF",
       "description": "AR Denarius Elagabalus, AD 218-222  NGC VF",
@@ -50,8 +53,40 @@
       }
     },
     {
+      "id": "mashops-c10f04f8079b",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=666",
+      "title": "AR Denarius Elagabalus, AD 218-222  NGC VF",
+      "description": "AR Denarius Elagabalus, AD 218-222  NGC VF",
+      "hammer_price_usd": 150.0,
+      "currency_original": "USD",
+      "price_original": 150.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid666_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-10f653bc00ef",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=665",
       "title": "AR Denarius Elagabalus, AD 218-222  NGC VF",
       "description": "AR Denarius Elagabalus, AD 218-222  NGC VF",
@@ -80,8 +115,40 @@
       }
     },
     {
+      "id": "mashops-c10f04f8079b",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=666",
+      "title": "AR Denarius Elagabalus, AD 218-222  NGC VF",
+      "description": "AR Denarius Elagabalus, AD 218-222  NGC VF",
+      "hammer_price_usd": 150.0,
+      "currency_original": "USD",
+      "price_original": 150.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid666_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-10f653bc00ef",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=665",
       "title": "AR Denarius Elagabalus, AD 218-222  NGC VF",
       "description": "AR Denarius Elagabalus, AD 218-222  NGC VF",
@@ -110,8 +177,40 @@
       }
     },
     {
+      "id": "mashops-c10f04f8079b",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=666",
+      "title": "AR Denarius Elagabalus, AD 218-222  NGC VF",
+      "description": "AR Denarius Elagabalus, AD 218-222  NGC VF",
+      "hammer_price_usd": 150.0,
+      "currency_original": "USD",
+      "price_original": 150.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid666_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-10f653bc00ef",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=665",
       "title": "AR Denarius Elagabalus, AD 218-222  NGC VF",
       "description": "AR Denarius Elagabalus, AD 218-222  NGC VF",
@@ -140,8 +239,40 @@
       }
     },
     {
+      "id": "mashops-c10f04f8079b",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=666",
+      "title": "AR Denarius Elagabalus, AD 218-222  NGC VF",
+      "description": "AR Denarius Elagabalus, AD 218-222  NGC VF",
+      "hammer_price_usd": 150.0,
+      "currency_original": "USD",
+      "price_original": 150.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid666_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-10f653bc00ef",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=665",
       "title": "AR Denarius Elagabalus, AD 218-222  NGC VF",
       "description": "AR Denarius Elagabalus, AD 218-222  NGC VF",
@@ -170,8 +301,40 @@
       }
     },
     {
+      "id": "mashops-c10f04f8079b",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=666",
+      "title": "AR Denarius Elagabalus, AD 218-222  NGC VF",
+      "description": "AR Denarius Elagabalus, AD 218-222  NGC VF",
+      "hammer_price_usd": 150.0,
+      "currency_original": "USD",
+      "price_original": 150.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid666_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-10f653bc00ef",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=665",
       "title": "AR Denarius Elagabalus, AD 218-222  NGC VF",
       "description": "AR Denarius Elagabalus, AD 218-222  NGC VF",
@@ -200,8 +363,40 @@
       }
     },
     {
+      "id": "mashops-c10f04f8079b",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=666",
+      "title": "AR Denarius Elagabalus, AD 218-222  NGC VF",
+      "description": "AR Denarius Elagabalus, AD 218-222  NGC VF",
+      "hammer_price_usd": 150.0,
+      "currency_original": "USD",
+      "price_original": 150.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid666_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-10f653bc00ef",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=665",
       "title": "AR Denarius Elagabalus, AD 218-222  NGC VF",
       "description": "AR Denarius Elagabalus, AD 218-222  NGC VF",
@@ -230,8 +425,40 @@
       }
     },
     {
+      "id": "mashops-c10f04f8079b",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=666",
+      "title": "AR Denarius Elagabalus, AD 218-222  NGC VF",
+      "description": "AR Denarius Elagabalus, AD 218-222  NGC VF",
+      "hammer_price_usd": 150.0,
+      "currency_original": "USD",
+      "price_original": 150.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid666_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-10f653bc00ef",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=665",
       "title": "AR Denarius Elagabalus, AD 218-222  NGC VF",
       "description": "AR Denarius Elagabalus, AD 218-222  NGC VF",
@@ -260,8 +487,40 @@
       }
     },
     {
+      "id": "mashops-c10f04f8079b",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=666",
+      "title": "AR Denarius Elagabalus, AD 218-222  NGC VF",
+      "description": "AR Denarius Elagabalus, AD 218-222  NGC VF",
+      "hammer_price_usd": 150.0,
+      "currency_original": "USD",
+      "price_original": 150.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid666_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-10f653bc00ef",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=665",
       "title": "AR Denarius Elagabalus, AD 218-222  NGC VF",
       "description": "AR Denarius Elagabalus, AD 218-222  NGC VF",
@@ -290,8 +549,40 @@
       }
     },
     {
+      "id": "mashops-c10f04f8079b",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=666",
+      "title": "AR Denarius Elagabalus, AD 218-222  NGC VF",
+      "description": "AR Denarius Elagabalus, AD 218-222  NGC VF",
+      "hammer_price_usd": 150.0,
+      "currency_original": "USD",
+      "price_original": 150.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid666_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-10f653bc00ef",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=665",
       "title": "AR Denarius Elagabalus, AD 218-222  NGC VF",
       "description": "AR Denarius Elagabalus, AD 218-222  NGC VF",
@@ -320,8 +611,40 @@
       }
     },
     {
+      "id": "mashops-c10f04f8079b",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=666",
+      "title": "AR Denarius Elagabalus, AD 218-222  NGC VF",
+      "description": "AR Denarius Elagabalus, AD 218-222  NGC VF",
+      "hammer_price_usd": 150.0,
+      "currency_original": "USD",
+      "price_original": 150.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid666_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-10f653bc00ef",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=665",
       "title": "AR Denarius Elagabalus, AD 218-222  NGC VF",
       "description": "AR Denarius Elagabalus, AD 218-222  NGC VF",
@@ -350,8 +673,40 @@
       }
     },
     {
+      "id": "mashops-c10f04f8079b",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=666",
+      "title": "AR Denarius Elagabalus, AD 218-222  NGC VF",
+      "description": "AR Denarius Elagabalus, AD 218-222  NGC VF",
+      "hammer_price_usd": 150.0,
+      "currency_original": "USD",
+      "price_original": 150.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid666_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-10f653bc00ef",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=665",
       "title": "AR Denarius Elagabalus, AD 218-222  NGC VF",
       "description": "AR Denarius Elagabalus, AD 218-222  NGC VF",
@@ -380,8 +735,40 @@
       }
     },
     {
+      "id": "mashops-c10f04f8079b",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=666",
+      "title": "AR Denarius Elagabalus, AD 218-222  NGC VF",
+      "description": "AR Denarius Elagabalus, AD 218-222  NGC VF",
+      "hammer_price_usd": 150.0,
+      "currency_original": "USD",
+      "price_original": 150.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid666_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-10f653bc00ef",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=665",
       "title": "AR Denarius Elagabalus, AD 218-222  NGC VF",
       "description": "AR Denarius Elagabalus, AD 218-222  NGC VF",
@@ -410,8 +797,40 @@
       }
     },
     {
+      "id": "mashops-c10f04f8079b",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=666",
+      "title": "AR Denarius Elagabalus, AD 218-222  NGC VF",
+      "description": "AR Denarius Elagabalus, AD 218-222  NGC VF",
+      "hammer_price_usd": 150.0,
+      "currency_original": "USD",
+      "price_original": 150.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid666_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-10f653bc00ef",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=665",
       "title": "AR Denarius Elagabalus, AD 218-222  NGC VF",
       "description": "AR Denarius Elagabalus, AD 218-222  NGC VF",
@@ -440,8 +859,40 @@
       }
     },
     {
+      "id": "mashops-c10f04f8079b",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=666",
+      "title": "AR Denarius Elagabalus, AD 218-222  NGC VF",
+      "description": "AR Denarius Elagabalus, AD 218-222  NGC VF",
+      "hammer_price_usd": 150.0,
+      "currency_original": "USD",
+      "price_original": 150.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid666_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-10f653bc00ef",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=665",
       "title": "AR Denarius Elagabalus, AD 218-222  NGC VF",
       "description": "AR Denarius Elagabalus, AD 218-222  NGC VF",

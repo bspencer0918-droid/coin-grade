@@ -6,23 +6,27 @@
   "dynasty": null,
   "denomination": "AR Drachm",
   "metal": "silver",
-  "sale_count": 75,
+  "sale_count": 61,
+  "realized_count": 0,
+  "fixed_price_count": 61,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 529.99,
     "max": 2399.99
   },
-  "median_price_usd": 900.0,
+  "median_price_usd": 679.99,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "AU": 60,
-    "MS": 15
+    "AU": 32,
+    "MS": 15,
+    "XF": 14
   },
   "thumbnail_url": "https://img.ma-shops.com/dicher/pic/thumb/48_image-1_23_c.jpg",
   "sales": [
     {
       "id": "mashops-de8ee24527d2",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=48",
       "title": "AR Drachm c.90-79 BC RARE AR Drachm c.90-79 BC BOSPORUS PHANAGORIA Mithradates VI Dicher Collection NGC AU Strike: 5/5 Surface: 3/5",
       "description": "AR Drachm c.90-79 BC RARE AR Drachm c.90-79 BC BOSPORUS PHANAGORIA Mithradates VI Dicher Collection NGC AU Strike: 5/5 Surface: 3/5",
@@ -53,6 +57,7 @@
     {
       "id": "mashops-ab142bfc3f18",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=66",
       "title": "AR Drachm Pacorus, c.AD 78-120  NGC Ch AU Strike: 5/5 Surface: 5/5",
       "description": "AR Drachm Pacorus, c.AD 78-120  NGC Ch AU Strike: 5/5 Surface: 5/5",
@@ -83,6 +88,7 @@
     {
       "id": "mashops-9ee21d0a3c17",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=116",
       "title": "AR Drachm Seleucus II, 246-225 BC AR Drachm Seleucus II, 246-225 BC SELEUCID KINGDOM (VERY RARE) NGC AU Strike: 3/5 Surface: 2/5",
       "description": "AR Drachm Seleucus II, 246-225 BC AR Drachm Seleucus II, 246-225 BC SELEUCID KINGDOM (VERY RARE) NGC AU Strike: 3/5 Surface: 2/5",
@@ -113,6 +119,7 @@
     {
       "id": "mashops-b749addd95ad",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=157",
       "title": "AR Drachm Mithradates II,c.121-91BC PARTHIAN KINGDOM AR Drachm Mithradates II,c.121-91BC NGC MS NGC MS Strike: 5/5 Surface: 3/5",
       "description": "AR Drachm Mithradates II,c.121-91BC PARTHIAN KINGDOM AR Drachm Mithradates II,c.121-91BC NGC MS NGC MS Strike: 5/5 Surface: 3/5",
@@ -143,6 +150,38 @@
     {
       "id": "mashops-0795820bfb23",
       "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=13",
+      "title": "AR Drachm Demetrius II,146/5-138 BC AR Drachm Demetrius II,146/5-138 BC SELEUCID KINGDOM NGC AU Strike: 4/5 Surface: 3/5",
+      "description": "AR Drachm Demetrius II,146/5-138 BC AR Drachm Demetrius II,146/5-138 BC SELEUCID KINGDOM NGC AU Strike: 4/5 Surface: 3/5",
+      "hammer_price_usd": 599.99,
+      "currency_original": "USD",
+      "price_original": 599.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/13_image-1_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 6,
+        "surface_score": 6,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-0795820bfb23",
+      "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=13",
       "title": "AR Drachm Demetrius II,146/5-138 BC AR Drachm Demetrius II,146/5-138 BC SELEUCID KINGDOM NGC AU Strike: 4/5 Surface: 3/5",
       "description": "AR Drachm Demetrius II,146/5-138 BC AR Drachm Demetrius II,146/5-138 BC SELEUCID KINGDOM NGC AU Strike: 4/5 Surface: 3/5",
@@ -173,6 +212,7 @@
     {
       "id": "mashops-de8ee24527d2",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=48",
       "title": "AR Drachm c.90-79 BC RARE AR Drachm c.90-79 BC BOSPORUS PHANAGORIA Mithradates VI Dicher Collection NGC AU Strike: 5/5 Surface: 3/5",
       "description": "AR Drachm c.90-79 BC RARE AR Drachm c.90-79 BC BOSPORUS PHANAGORIA Mithradates VI Dicher Collection NGC AU Strike: 5/5 Surface: 3/5",
@@ -201,68 +241,9 @@
       }
     },
     {
-      "id": "mashops-ab142bfc3f18",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=66",
-      "title": "AR Drachm Pacorus, c.AD 78-120  NGC Ch AU Strike: 5/5 Surface: 5/5",
-      "description": "AR Drachm Pacorus, c.AD 78-120  NGC Ch AU Strike: 5/5 Surface: 5/5",
-      "hammer_price_usd": 900.0,
-      "currency_original": "USD",
-      "price_original": 900.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid66_ngc4830432-004_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-9ee21d0a3c17",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=116",
-      "title": "AR Drachm Seleucus II, 246-225 BC AR Drachm Seleucus II, 246-225 BC SELEUCID KINGDOM (VERY RARE) NGC AU Strike: 3/5 Surface: 2/5",
-      "description": "AR Drachm Seleucus II, 246-225 BC AR Drachm Seleucus II, 246-225 BC SELEUCID KINGDOM (VERY RARE) NGC AU Strike: 3/5 Surface: 2/5",
-      "hammer_price_usd": 1899.99,
-      "currency_original": "USD",
-      "price_original": 1899.99,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid116_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 3,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-b749addd95ad",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=157",
       "title": "AR Drachm Mithradates II,c.121-91BC PARTHIAN KINGDOM AR Drachm Mithradates II,c.121-91BC NGC MS NGC MS Strike: 5/5 Surface: 3/5",
       "description": "AR Drachm Mithradates II,c.121-91BC PARTHIAN KINGDOM AR Drachm Mithradates II,c.121-91BC NGC MS NGC MS Strike: 5/5 Surface: 3/5",
@@ -291,8 +272,40 @@
       }
     },
     {
+      "id": "mashops-b86dbdec878f",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=59",
+      "title": "AR Drachm 2nd-1st Centuries BC AR Drachm 2nd-1st Centuries BC BOSPORUS PANTICAPAEUM Dicher Collection NGC Ch XF Strike: 4/5 Surface: 3/5",
+      "description": "AR Drachm 2nd-1st Centuries BC AR Drachm 2nd-1st Centuries BC BOSPORUS PANTICAPAEUM Dicher Collection NGC Ch XF Strike: 4/5 Surface: 3/5",
+      "hammer_price_usd": 679.99,
+      "currency_original": "USD",
+      "price_original": 679.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/59_image-1_12_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-0795820bfb23",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=13",
       "title": "AR Drachm Demetrius II,146/5-138 BC AR Drachm Demetrius II,146/5-138 BC SELEUCID KINGDOM NGC AU Strike: 4/5 Surface: 3/5",
       "description": "AR Drachm Demetrius II,146/5-138 BC AR Drachm Demetrius II,146/5-138 BC SELEUCID KINGDOM NGC AU Strike: 4/5 Surface: 3/5",
@@ -323,6 +336,7 @@
     {
       "id": "mashops-de8ee24527d2",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=48",
       "title": "AR Drachm c.90-79 BC RARE AR Drachm c.90-79 BC BOSPORUS PHANAGORIA Mithradates VI Dicher Collection NGC AU Strike: 5/5 Surface: 3/5",
       "description": "AR Drachm c.90-79 BC RARE AR Drachm c.90-79 BC BOSPORUS PHANAGORIA Mithradates VI Dicher Collection NGC AU Strike: 5/5 Surface: 3/5",
@@ -351,68 +365,9 @@
       }
     },
     {
-      "id": "mashops-ab142bfc3f18",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=66",
-      "title": "AR Drachm Pacorus, c.AD 78-120  NGC Ch AU Strike: 5/5 Surface: 5/5",
-      "description": "AR Drachm Pacorus, c.AD 78-120  NGC Ch AU Strike: 5/5 Surface: 5/5",
-      "hammer_price_usd": 900.0,
-      "currency_original": "USD",
-      "price_original": 900.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid66_ngc4830432-004_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-9ee21d0a3c17",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=116",
-      "title": "AR Drachm Seleucus II, 246-225 BC AR Drachm Seleucus II, 246-225 BC SELEUCID KINGDOM (VERY RARE) NGC AU Strike: 3/5 Surface: 2/5",
-      "description": "AR Drachm Seleucus II, 246-225 BC AR Drachm Seleucus II, 246-225 BC SELEUCID KINGDOM (VERY RARE) NGC AU Strike: 3/5 Surface: 2/5",
-      "hammer_price_usd": 1899.99,
-      "currency_original": "USD",
-      "price_original": 1899.99,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid116_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 3,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-b749addd95ad",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=157",
       "title": "AR Drachm Mithradates II,c.121-91BC PARTHIAN KINGDOM AR Drachm Mithradates II,c.121-91BC NGC MS NGC MS Strike: 5/5 Surface: 3/5",
       "description": "AR Drachm Mithradates II,c.121-91BC PARTHIAN KINGDOM AR Drachm Mithradates II,c.121-91BC NGC MS NGC MS Strike: 5/5 Surface: 3/5",
@@ -441,8 +396,40 @@
       }
     },
     {
+      "id": "mashops-b86dbdec878f",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=59",
+      "title": "AR Drachm 2nd-1st Centuries BC AR Drachm 2nd-1st Centuries BC BOSPORUS PANTICAPAEUM Dicher Collection NGC Ch XF Strike: 4/5 Surface: 3/5",
+      "description": "AR Drachm 2nd-1st Centuries BC AR Drachm 2nd-1st Centuries BC BOSPORUS PANTICAPAEUM Dicher Collection NGC Ch XF Strike: 4/5 Surface: 3/5",
+      "hammer_price_usd": 679.99,
+      "currency_original": "USD",
+      "price_original": 679.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/59_image-1_12_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-0795820bfb23",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=13",
       "title": "AR Drachm Demetrius II,146/5-138 BC AR Drachm Demetrius II,146/5-138 BC SELEUCID KINGDOM NGC AU Strike: 4/5 Surface: 3/5",
       "description": "AR Drachm Demetrius II,146/5-138 BC AR Drachm Demetrius II,146/5-138 BC SELEUCID KINGDOM NGC AU Strike: 4/5 Surface: 3/5",
@@ -473,6 +460,7 @@
     {
       "id": "mashops-de8ee24527d2",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=48",
       "title": "AR Drachm c.90-79 BC RARE AR Drachm c.90-79 BC BOSPORUS PHANAGORIA Mithradates VI Dicher Collection NGC AU Strike: 5/5 Surface: 3/5",
       "description": "AR Drachm c.90-79 BC RARE AR Drachm c.90-79 BC BOSPORUS PHANAGORIA Mithradates VI Dicher Collection NGC AU Strike: 5/5 Surface: 3/5",
@@ -501,68 +489,9 @@
       }
     },
     {
-      "id": "mashops-ab142bfc3f18",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=66",
-      "title": "AR Drachm Pacorus, c.AD 78-120  NGC Ch AU Strike: 5/5 Surface: 5/5",
-      "description": "AR Drachm Pacorus, c.AD 78-120  NGC Ch AU Strike: 5/5 Surface: 5/5",
-      "hammer_price_usd": 900.0,
-      "currency_original": "USD",
-      "price_original": 900.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid66_ngc4830432-004_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-9ee21d0a3c17",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=116",
-      "title": "AR Drachm Seleucus II, 246-225 BC AR Drachm Seleucus II, 246-225 BC SELEUCID KINGDOM (VERY RARE) NGC AU Strike: 3/5 Surface: 2/5",
-      "description": "AR Drachm Seleucus II, 246-225 BC AR Drachm Seleucus II, 246-225 BC SELEUCID KINGDOM (VERY RARE) NGC AU Strike: 3/5 Surface: 2/5",
-      "hammer_price_usd": 1899.99,
-      "currency_original": "USD",
-      "price_original": 1899.99,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid116_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 3,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-b749addd95ad",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=157",
       "title": "AR Drachm Mithradates II,c.121-91BC PARTHIAN KINGDOM AR Drachm Mithradates II,c.121-91BC NGC MS NGC MS Strike: 5/5 Surface: 3/5",
       "description": "AR Drachm Mithradates II,c.121-91BC PARTHIAN KINGDOM AR Drachm Mithradates II,c.121-91BC NGC MS NGC MS Strike: 5/5 Surface: 3/5",
@@ -591,8 +520,40 @@
       }
     },
     {
+      "id": "mashops-b86dbdec878f",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=59",
+      "title": "AR Drachm 2nd-1st Centuries BC AR Drachm 2nd-1st Centuries BC BOSPORUS PANTICAPAEUM Dicher Collection NGC Ch XF Strike: 4/5 Surface: 3/5",
+      "description": "AR Drachm 2nd-1st Centuries BC AR Drachm 2nd-1st Centuries BC BOSPORUS PANTICAPAEUM Dicher Collection NGC Ch XF Strike: 4/5 Surface: 3/5",
+      "hammer_price_usd": 679.99,
+      "currency_original": "USD",
+      "price_original": 679.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/59_image-1_12_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-0795820bfb23",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=13",
       "title": "AR Drachm Demetrius II,146/5-138 BC AR Drachm Demetrius II,146/5-138 BC SELEUCID KINGDOM NGC AU Strike: 4/5 Surface: 3/5",
       "description": "AR Drachm Demetrius II,146/5-138 BC AR Drachm Demetrius II,146/5-138 BC SELEUCID KINGDOM NGC AU Strike: 4/5 Surface: 3/5",
@@ -623,6 +584,7 @@
     {
       "id": "mashops-de8ee24527d2",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=48",
       "title": "AR Drachm c.90-79 BC RARE AR Drachm c.90-79 BC BOSPORUS PHANAGORIA Mithradates VI Dicher Collection NGC AU Strike: 5/5 Surface: 3/5",
       "description": "AR Drachm c.90-79 BC RARE AR Drachm c.90-79 BC BOSPORUS PHANAGORIA Mithradates VI Dicher Collection NGC AU Strike: 5/5 Surface: 3/5",
@@ -651,68 +613,9 @@
       }
     },
     {
-      "id": "mashops-ab142bfc3f18",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=66",
-      "title": "AR Drachm Pacorus, c.AD 78-120  NGC Ch AU Strike: 5/5 Surface: 5/5",
-      "description": "AR Drachm Pacorus, c.AD 78-120  NGC Ch AU Strike: 5/5 Surface: 5/5",
-      "hammer_price_usd": 900.0,
-      "currency_original": "USD",
-      "price_original": 900.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid66_ngc4830432-004_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-9ee21d0a3c17",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=116",
-      "title": "AR Drachm Seleucus II, 246-225 BC AR Drachm Seleucus II, 246-225 BC SELEUCID KINGDOM (VERY RARE) NGC AU Strike: 3/5 Surface: 2/5",
-      "description": "AR Drachm Seleucus II, 246-225 BC AR Drachm Seleucus II, 246-225 BC SELEUCID KINGDOM (VERY RARE) NGC AU Strike: 3/5 Surface: 2/5",
-      "hammer_price_usd": 1899.99,
-      "currency_original": "USD",
-      "price_original": 1899.99,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid116_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 3,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-b749addd95ad",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=157",
       "title": "AR Drachm Mithradates II,c.121-91BC PARTHIAN KINGDOM AR Drachm Mithradates II,c.121-91BC NGC MS NGC MS Strike: 5/5 Surface: 3/5",
       "description": "AR Drachm Mithradates II,c.121-91BC PARTHIAN KINGDOM AR Drachm Mithradates II,c.121-91BC NGC MS NGC MS Strike: 5/5 Surface: 3/5",
@@ -741,8 +644,40 @@
       }
     },
     {
+      "id": "mashops-b86dbdec878f",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=59",
+      "title": "AR Drachm 2nd-1st Centuries BC AR Drachm 2nd-1st Centuries BC BOSPORUS PANTICAPAEUM Dicher Collection NGC Ch XF Strike: 4/5 Surface: 3/5",
+      "description": "AR Drachm 2nd-1st Centuries BC AR Drachm 2nd-1st Centuries BC BOSPORUS PANTICAPAEUM Dicher Collection NGC Ch XF Strike: 4/5 Surface: 3/5",
+      "hammer_price_usd": 679.99,
+      "currency_original": "USD",
+      "price_original": 679.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/59_image-1_12_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-0795820bfb23",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=13",
       "title": "AR Drachm Demetrius II,146/5-138 BC AR Drachm Demetrius II,146/5-138 BC SELEUCID KINGDOM NGC AU Strike: 4/5 Surface: 3/5",
       "description": "AR Drachm Demetrius II,146/5-138 BC AR Drachm Demetrius II,146/5-138 BC SELEUCID KINGDOM NGC AU Strike: 4/5 Surface: 3/5",
@@ -773,6 +708,7 @@
     {
       "id": "mashops-de8ee24527d2",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=48",
       "title": "AR Drachm c.90-79 BC RARE AR Drachm c.90-79 BC BOSPORUS PHANAGORIA Mithradates VI Dicher Collection NGC AU Strike: 5/5 Surface: 3/5",
       "description": "AR Drachm c.90-79 BC RARE AR Drachm c.90-79 BC BOSPORUS PHANAGORIA Mithradates VI Dicher Collection NGC AU Strike: 5/5 Surface: 3/5",
@@ -801,68 +737,9 @@
       }
     },
     {
-      "id": "mashops-ab142bfc3f18",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=66",
-      "title": "AR Drachm Pacorus, c.AD 78-120  NGC Ch AU Strike: 5/5 Surface: 5/5",
-      "description": "AR Drachm Pacorus, c.AD 78-120  NGC Ch AU Strike: 5/5 Surface: 5/5",
-      "hammer_price_usd": 900.0,
-      "currency_original": "USD",
-      "price_original": 900.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid66_ngc4830432-004_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-9ee21d0a3c17",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=116",
-      "title": "AR Drachm Seleucus II, 246-225 BC AR Drachm Seleucus II, 246-225 BC SELEUCID KINGDOM (VERY RARE) NGC AU Strike: 3/5 Surface: 2/5",
-      "description": "AR Drachm Seleucus II, 246-225 BC AR Drachm Seleucus II, 246-225 BC SELEUCID KINGDOM (VERY RARE) NGC AU Strike: 3/5 Surface: 2/5",
-      "hammer_price_usd": 1899.99,
-      "currency_original": "USD",
-      "price_original": 1899.99,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid116_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 3,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-b749addd95ad",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=157",
       "title": "AR Drachm Mithradates II,c.121-91BC PARTHIAN KINGDOM AR Drachm Mithradates II,c.121-91BC NGC MS NGC MS Strike: 5/5 Surface: 3/5",
       "description": "AR Drachm Mithradates II,c.121-91BC PARTHIAN KINGDOM AR Drachm Mithradates II,c.121-91BC NGC MS NGC MS Strike: 5/5 Surface: 3/5",
@@ -891,8 +768,40 @@
       }
     },
     {
+      "id": "mashops-b86dbdec878f",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=59",
+      "title": "AR Drachm 2nd-1st Centuries BC AR Drachm 2nd-1st Centuries BC BOSPORUS PANTICAPAEUM Dicher Collection NGC Ch XF Strike: 4/5 Surface: 3/5",
+      "description": "AR Drachm 2nd-1st Centuries BC AR Drachm 2nd-1st Centuries BC BOSPORUS PANTICAPAEUM Dicher Collection NGC Ch XF Strike: 4/5 Surface: 3/5",
+      "hammer_price_usd": 679.99,
+      "currency_original": "USD",
+      "price_original": 679.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/59_image-1_12_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-0795820bfb23",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=13",
       "title": "AR Drachm Demetrius II,146/5-138 BC AR Drachm Demetrius II,146/5-138 BC SELEUCID KINGDOM NGC AU Strike: 4/5 Surface: 3/5",
       "description": "AR Drachm Demetrius II,146/5-138 BC AR Drachm Demetrius II,146/5-138 BC SELEUCID KINGDOM NGC AU Strike: 4/5 Surface: 3/5",
@@ -923,6 +832,7 @@
     {
       "id": "mashops-de8ee24527d2",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=48",
       "title": "AR Drachm c.90-79 BC RARE AR Drachm c.90-79 BC BOSPORUS PHANAGORIA Mithradates VI Dicher Collection NGC AU Strike: 5/5 Surface: 3/5",
       "description": "AR Drachm c.90-79 BC RARE AR Drachm c.90-79 BC BOSPORUS PHANAGORIA Mithradates VI Dicher Collection NGC AU Strike: 5/5 Surface: 3/5",
@@ -951,68 +861,9 @@
       }
     },
     {
-      "id": "mashops-ab142bfc3f18",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=66",
-      "title": "AR Drachm Pacorus, c.AD 78-120  NGC Ch AU Strike: 5/5 Surface: 5/5",
-      "description": "AR Drachm Pacorus, c.AD 78-120  NGC Ch AU Strike: 5/5 Surface: 5/5",
-      "hammer_price_usd": 900.0,
-      "currency_original": "USD",
-      "price_original": 900.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid66_ngc4830432-004_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-9ee21d0a3c17",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=116",
-      "title": "AR Drachm Seleucus II, 246-225 BC AR Drachm Seleucus II, 246-225 BC SELEUCID KINGDOM (VERY RARE) NGC AU Strike: 3/5 Surface: 2/5",
-      "description": "AR Drachm Seleucus II, 246-225 BC AR Drachm Seleucus II, 246-225 BC SELEUCID KINGDOM (VERY RARE) NGC AU Strike: 3/5 Surface: 2/5",
-      "hammer_price_usd": 1899.99,
-      "currency_original": "USD",
-      "price_original": 1899.99,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid116_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 3,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-b749addd95ad",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=157",
       "title": "AR Drachm Mithradates II,c.121-91BC PARTHIAN KINGDOM AR Drachm Mithradates II,c.121-91BC NGC MS NGC MS Strike: 5/5 Surface: 3/5",
       "description": "AR Drachm Mithradates II,c.121-91BC PARTHIAN KINGDOM AR Drachm Mithradates II,c.121-91BC NGC MS NGC MS Strike: 5/5 Surface: 3/5",
@@ -1041,8 +892,40 @@
       }
     },
     {
+      "id": "mashops-b86dbdec878f",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=59",
+      "title": "AR Drachm 2nd-1st Centuries BC AR Drachm 2nd-1st Centuries BC BOSPORUS PANTICAPAEUM Dicher Collection NGC Ch XF Strike: 4/5 Surface: 3/5",
+      "description": "AR Drachm 2nd-1st Centuries BC AR Drachm 2nd-1st Centuries BC BOSPORUS PANTICAPAEUM Dicher Collection NGC Ch XF Strike: 4/5 Surface: 3/5",
+      "hammer_price_usd": 679.99,
+      "currency_original": "USD",
+      "price_original": 679.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/59_image-1_12_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-0795820bfb23",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=13",
       "title": "AR Drachm Demetrius II,146/5-138 BC AR Drachm Demetrius II,146/5-138 BC SELEUCID KINGDOM NGC AU Strike: 4/5 Surface: 3/5",
       "description": "AR Drachm Demetrius II,146/5-138 BC AR Drachm Demetrius II,146/5-138 BC SELEUCID KINGDOM NGC AU Strike: 4/5 Surface: 3/5",
@@ -1073,6 +956,7 @@
     {
       "id": "mashops-de8ee24527d2",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=48",
       "title": "AR Drachm c.90-79 BC RARE AR Drachm c.90-79 BC BOSPORUS PHANAGORIA Mithradates VI Dicher Collection NGC AU Strike: 5/5 Surface: 3/5",
       "description": "AR Drachm c.90-79 BC RARE AR Drachm c.90-79 BC BOSPORUS PHANAGORIA Mithradates VI Dicher Collection NGC AU Strike: 5/5 Surface: 3/5",
@@ -1101,68 +985,9 @@
       }
     },
     {
-      "id": "mashops-ab142bfc3f18",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=66",
-      "title": "AR Drachm Pacorus, c.AD 78-120  NGC Ch AU Strike: 5/5 Surface: 5/5",
-      "description": "AR Drachm Pacorus, c.AD 78-120  NGC Ch AU Strike: 5/5 Surface: 5/5",
-      "hammer_price_usd": 900.0,
-      "currency_original": "USD",
-      "price_original": 900.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid66_ngc4830432-004_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-9ee21d0a3c17",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=116",
-      "title": "AR Drachm Seleucus II, 246-225 BC AR Drachm Seleucus II, 246-225 BC SELEUCID KINGDOM (VERY RARE) NGC AU Strike: 3/5 Surface: 2/5",
-      "description": "AR Drachm Seleucus II, 246-225 BC AR Drachm Seleucus II, 246-225 BC SELEUCID KINGDOM (VERY RARE) NGC AU Strike: 3/5 Surface: 2/5",
-      "hammer_price_usd": 1899.99,
-      "currency_original": "USD",
-      "price_original": 1899.99,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid116_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 3,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-b749addd95ad",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=157",
       "title": "AR Drachm Mithradates II,c.121-91BC PARTHIAN KINGDOM AR Drachm Mithradates II,c.121-91BC NGC MS NGC MS Strike: 5/5 Surface: 3/5",
       "description": "AR Drachm Mithradates II,c.121-91BC PARTHIAN KINGDOM AR Drachm Mithradates II,c.121-91BC NGC MS NGC MS Strike: 5/5 Surface: 3/5",
@@ -1191,8 +1016,40 @@
       }
     },
     {
+      "id": "mashops-b86dbdec878f",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=59",
+      "title": "AR Drachm 2nd-1st Centuries BC AR Drachm 2nd-1st Centuries BC BOSPORUS PANTICAPAEUM Dicher Collection NGC Ch XF Strike: 4/5 Surface: 3/5",
+      "description": "AR Drachm 2nd-1st Centuries BC AR Drachm 2nd-1st Centuries BC BOSPORUS PANTICAPAEUM Dicher Collection NGC Ch XF Strike: 4/5 Surface: 3/5",
+      "hammer_price_usd": 679.99,
+      "currency_original": "USD",
+      "price_original": 679.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/59_image-1_12_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-0795820bfb23",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=13",
       "title": "AR Drachm Demetrius II,146/5-138 BC AR Drachm Demetrius II,146/5-138 BC SELEUCID KINGDOM NGC AU Strike: 4/5 Surface: 3/5",
       "description": "AR Drachm Demetrius II,146/5-138 BC AR Drachm Demetrius II,146/5-138 BC SELEUCID KINGDOM NGC AU Strike: 4/5 Surface: 3/5",
@@ -1223,6 +1080,7 @@
     {
       "id": "mashops-de8ee24527d2",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=48",
       "title": "AR Drachm c.90-79 BC RARE AR Drachm c.90-79 BC BOSPORUS PHANAGORIA Mithradates VI Dicher Collection NGC AU Strike: 5/5 Surface: 3/5",
       "description": "AR Drachm c.90-79 BC RARE AR Drachm c.90-79 BC BOSPORUS PHANAGORIA Mithradates VI Dicher Collection NGC AU Strike: 5/5 Surface: 3/5",
@@ -1251,68 +1109,9 @@
       }
     },
     {
-      "id": "mashops-ab142bfc3f18",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=66",
-      "title": "AR Drachm Pacorus, c.AD 78-120  NGC Ch AU Strike: 5/5 Surface: 5/5",
-      "description": "AR Drachm Pacorus, c.AD 78-120  NGC Ch AU Strike: 5/5 Surface: 5/5",
-      "hammer_price_usd": 900.0,
-      "currency_original": "USD",
-      "price_original": 900.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid66_ngc4830432-004_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-9ee21d0a3c17",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=116",
-      "title": "AR Drachm Seleucus II, 246-225 BC AR Drachm Seleucus II, 246-225 BC SELEUCID KINGDOM (VERY RARE) NGC AU Strike: 3/5 Surface: 2/5",
-      "description": "AR Drachm Seleucus II, 246-225 BC AR Drachm Seleucus II, 246-225 BC SELEUCID KINGDOM (VERY RARE) NGC AU Strike: 3/5 Surface: 2/5",
-      "hammer_price_usd": 1899.99,
-      "currency_original": "USD",
-      "price_original": 1899.99,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid116_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 3,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-b749addd95ad",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=157",
       "title": "AR Drachm Mithradates II,c.121-91BC PARTHIAN KINGDOM AR Drachm Mithradates II,c.121-91BC NGC MS NGC MS Strike: 5/5 Surface: 3/5",
       "description": "AR Drachm Mithradates II,c.121-91BC PARTHIAN KINGDOM AR Drachm Mithradates II,c.121-91BC NGC MS NGC MS Strike: 5/5 Surface: 3/5",
@@ -1341,8 +1140,40 @@
       }
     },
     {
+      "id": "mashops-b86dbdec878f",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=59",
+      "title": "AR Drachm 2nd-1st Centuries BC AR Drachm 2nd-1st Centuries BC BOSPORUS PANTICAPAEUM Dicher Collection NGC Ch XF Strike: 4/5 Surface: 3/5",
+      "description": "AR Drachm 2nd-1st Centuries BC AR Drachm 2nd-1st Centuries BC BOSPORUS PANTICAPAEUM Dicher Collection NGC Ch XF Strike: 4/5 Surface: 3/5",
+      "hammer_price_usd": 679.99,
+      "currency_original": "USD",
+      "price_original": 679.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/59_image-1_12_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-0795820bfb23",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=13",
       "title": "AR Drachm Demetrius II,146/5-138 BC AR Drachm Demetrius II,146/5-138 BC SELEUCID KINGDOM NGC AU Strike: 4/5 Surface: 3/5",
       "description": "AR Drachm Demetrius II,146/5-138 BC AR Drachm Demetrius II,146/5-138 BC SELEUCID KINGDOM NGC AU Strike: 4/5 Surface: 3/5",
@@ -1373,6 +1204,7 @@
     {
       "id": "mashops-de8ee24527d2",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=48",
       "title": "AR Drachm c.90-79 BC RARE AR Drachm c.90-79 BC BOSPORUS PHANAGORIA Mithradates VI Dicher Collection NGC AU Strike: 5/5 Surface: 3/5",
       "description": "AR Drachm c.90-79 BC RARE AR Drachm c.90-79 BC BOSPORUS PHANAGORIA Mithradates VI Dicher Collection NGC AU Strike: 5/5 Surface: 3/5",
@@ -1401,68 +1233,9 @@
       }
     },
     {
-      "id": "mashops-ab142bfc3f18",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=66",
-      "title": "AR Drachm Pacorus, c.AD 78-120  NGC Ch AU Strike: 5/5 Surface: 5/5",
-      "description": "AR Drachm Pacorus, c.AD 78-120  NGC Ch AU Strike: 5/5 Surface: 5/5",
-      "hammer_price_usd": 900.0,
-      "currency_original": "USD",
-      "price_original": 900.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid66_ngc4830432-004_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-9ee21d0a3c17",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=116",
-      "title": "AR Drachm Seleucus II, 246-225 BC AR Drachm Seleucus II, 246-225 BC SELEUCID KINGDOM (VERY RARE) NGC AU Strike: 3/5 Surface: 2/5",
-      "description": "AR Drachm Seleucus II, 246-225 BC AR Drachm Seleucus II, 246-225 BC SELEUCID KINGDOM (VERY RARE) NGC AU Strike: 3/5 Surface: 2/5",
-      "hammer_price_usd": 1899.99,
-      "currency_original": "USD",
-      "price_original": 1899.99,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid116_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 3,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-b749addd95ad",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=157",
       "title": "AR Drachm Mithradates II,c.121-91BC PARTHIAN KINGDOM AR Drachm Mithradates II,c.121-91BC NGC MS NGC MS Strike: 5/5 Surface: 3/5",
       "description": "AR Drachm Mithradates II,c.121-91BC PARTHIAN KINGDOM AR Drachm Mithradates II,c.121-91BC NGC MS NGC MS Strike: 5/5 Surface: 3/5",
@@ -1491,8 +1264,40 @@
       }
     },
     {
+      "id": "mashops-b86dbdec878f",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=59",
+      "title": "AR Drachm 2nd-1st Centuries BC AR Drachm 2nd-1st Centuries BC BOSPORUS PANTICAPAEUM Dicher Collection NGC Ch XF Strike: 4/5 Surface: 3/5",
+      "description": "AR Drachm 2nd-1st Centuries BC AR Drachm 2nd-1st Centuries BC BOSPORUS PANTICAPAEUM Dicher Collection NGC Ch XF Strike: 4/5 Surface: 3/5",
+      "hammer_price_usd": 679.99,
+      "currency_original": "USD",
+      "price_original": 679.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/59_image-1_12_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-0795820bfb23",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=13",
       "title": "AR Drachm Demetrius II,146/5-138 BC AR Drachm Demetrius II,146/5-138 BC SELEUCID KINGDOM NGC AU Strike: 4/5 Surface: 3/5",
       "description": "AR Drachm Demetrius II,146/5-138 BC AR Drachm Demetrius II,146/5-138 BC SELEUCID KINGDOM NGC AU Strike: 4/5 Surface: 3/5",
@@ -1523,6 +1328,7 @@
     {
       "id": "mashops-de8ee24527d2",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=48",
       "title": "AR Drachm c.90-79 BC RARE AR Drachm c.90-79 BC BOSPORUS PHANAGORIA Mithradates VI Dicher Collection NGC AU Strike: 5/5 Surface: 3/5",
       "description": "AR Drachm c.90-79 BC RARE AR Drachm c.90-79 BC BOSPORUS PHANAGORIA Mithradates VI Dicher Collection NGC AU Strike: 5/5 Surface: 3/5",
@@ -1551,68 +1357,9 @@
       }
     },
     {
-      "id": "mashops-ab142bfc3f18",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=66",
-      "title": "AR Drachm Pacorus, c.AD 78-120  NGC Ch AU Strike: 5/5 Surface: 5/5",
-      "description": "AR Drachm Pacorus, c.AD 78-120  NGC Ch AU Strike: 5/5 Surface: 5/5",
-      "hammer_price_usd": 900.0,
-      "currency_original": "USD",
-      "price_original": 900.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid66_ngc4830432-004_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-9ee21d0a3c17",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=116",
-      "title": "AR Drachm Seleucus II, 246-225 BC AR Drachm Seleucus II, 246-225 BC SELEUCID KINGDOM (VERY RARE) NGC AU Strike: 3/5 Surface: 2/5",
-      "description": "AR Drachm Seleucus II, 246-225 BC AR Drachm Seleucus II, 246-225 BC SELEUCID KINGDOM (VERY RARE) NGC AU Strike: 3/5 Surface: 2/5",
-      "hammer_price_usd": 1899.99,
-      "currency_original": "USD",
-      "price_original": 1899.99,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid116_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 3,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-b749addd95ad",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=157",
       "title": "AR Drachm Mithradates II,c.121-91BC PARTHIAN KINGDOM AR Drachm Mithradates II,c.121-91BC NGC MS NGC MS Strike: 5/5 Surface: 3/5",
       "description": "AR Drachm Mithradates II,c.121-91BC PARTHIAN KINGDOM AR Drachm Mithradates II,c.121-91BC NGC MS NGC MS Strike: 5/5 Surface: 3/5",
@@ -1641,8 +1388,40 @@
       }
     },
     {
+      "id": "mashops-b86dbdec878f",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=59",
+      "title": "AR Drachm 2nd-1st Centuries BC AR Drachm 2nd-1st Centuries BC BOSPORUS PANTICAPAEUM Dicher Collection NGC Ch XF Strike: 4/5 Surface: 3/5",
+      "description": "AR Drachm 2nd-1st Centuries BC AR Drachm 2nd-1st Centuries BC BOSPORUS PANTICAPAEUM Dicher Collection NGC Ch XF Strike: 4/5 Surface: 3/5",
+      "hammer_price_usd": 679.99,
+      "currency_original": "USD",
+      "price_original": 679.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/59_image-1_12_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-0795820bfb23",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=13",
       "title": "AR Drachm Demetrius II,146/5-138 BC AR Drachm Demetrius II,146/5-138 BC SELEUCID KINGDOM NGC AU Strike: 4/5 Surface: 3/5",
       "description": "AR Drachm Demetrius II,146/5-138 BC AR Drachm Demetrius II,146/5-138 BC SELEUCID KINGDOM NGC AU Strike: 4/5 Surface: 3/5",
@@ -1673,6 +1452,7 @@
     {
       "id": "mashops-de8ee24527d2",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=48",
       "title": "AR Drachm c.90-79 BC RARE AR Drachm c.90-79 BC BOSPORUS PHANAGORIA Mithradates VI Dicher Collection NGC AU Strike: 5/5 Surface: 3/5",
       "description": "AR Drachm c.90-79 BC RARE AR Drachm c.90-79 BC BOSPORUS PHANAGORIA Mithradates VI Dicher Collection NGC AU Strike: 5/5 Surface: 3/5",
@@ -1701,68 +1481,9 @@
       }
     },
     {
-      "id": "mashops-ab142bfc3f18",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=66",
-      "title": "AR Drachm Pacorus, c.AD 78-120  NGC Ch AU Strike: 5/5 Surface: 5/5",
-      "description": "AR Drachm Pacorus, c.AD 78-120  NGC Ch AU Strike: 5/5 Surface: 5/5",
-      "hammer_price_usd": 900.0,
-      "currency_original": "USD",
-      "price_original": 900.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid66_ngc4830432-004_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-9ee21d0a3c17",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=116",
-      "title": "AR Drachm Seleucus II, 246-225 BC AR Drachm Seleucus II, 246-225 BC SELEUCID KINGDOM (VERY RARE) NGC AU Strike: 3/5 Surface: 2/5",
-      "description": "AR Drachm Seleucus II, 246-225 BC AR Drachm Seleucus II, 246-225 BC SELEUCID KINGDOM (VERY RARE) NGC AU Strike: 3/5 Surface: 2/5",
-      "hammer_price_usd": 1899.99,
-      "currency_original": "USD",
-      "price_original": 1899.99,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid116_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 3,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-b749addd95ad",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=157",
       "title": "AR Drachm Mithradates II,c.121-91BC PARTHIAN KINGDOM AR Drachm Mithradates II,c.121-91BC NGC MS NGC MS Strike: 5/5 Surface: 3/5",
       "description": "AR Drachm Mithradates II,c.121-91BC PARTHIAN KINGDOM AR Drachm Mithradates II,c.121-91BC NGC MS NGC MS Strike: 5/5 Surface: 3/5",
@@ -1791,8 +1512,40 @@
       }
     },
     {
+      "id": "mashops-b86dbdec878f",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=59",
+      "title": "AR Drachm 2nd-1st Centuries BC AR Drachm 2nd-1st Centuries BC BOSPORUS PANTICAPAEUM Dicher Collection NGC Ch XF Strike: 4/5 Surface: 3/5",
+      "description": "AR Drachm 2nd-1st Centuries BC AR Drachm 2nd-1st Centuries BC BOSPORUS PANTICAPAEUM Dicher Collection NGC Ch XF Strike: 4/5 Surface: 3/5",
+      "hammer_price_usd": 679.99,
+      "currency_original": "USD",
+      "price_original": 679.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/59_image-1_12_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-0795820bfb23",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=13",
       "title": "AR Drachm Demetrius II,146/5-138 BC AR Drachm Demetrius II,146/5-138 BC SELEUCID KINGDOM NGC AU Strike: 4/5 Surface: 3/5",
       "description": "AR Drachm Demetrius II,146/5-138 BC AR Drachm Demetrius II,146/5-138 BC SELEUCID KINGDOM NGC AU Strike: 4/5 Surface: 3/5",
@@ -1823,6 +1576,7 @@
     {
       "id": "mashops-de8ee24527d2",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=48",
       "title": "AR Drachm c.90-79 BC RARE AR Drachm c.90-79 BC BOSPORUS PHANAGORIA Mithradates VI Dicher Collection NGC AU Strike: 5/5 Surface: 3/5",
       "description": "AR Drachm c.90-79 BC RARE AR Drachm c.90-79 BC BOSPORUS PHANAGORIA Mithradates VI Dicher Collection NGC AU Strike: 5/5 Surface: 3/5",
@@ -1851,68 +1605,9 @@
       }
     },
     {
-      "id": "mashops-ab142bfc3f18",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=66",
-      "title": "AR Drachm Pacorus, c.AD 78-120  NGC Ch AU Strike: 5/5 Surface: 5/5",
-      "description": "AR Drachm Pacorus, c.AD 78-120  NGC Ch AU Strike: 5/5 Surface: 5/5",
-      "hammer_price_usd": 900.0,
-      "currency_original": "USD",
-      "price_original": 900.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid66_ngc4830432-004_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-9ee21d0a3c17",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=116",
-      "title": "AR Drachm Seleucus II, 246-225 BC AR Drachm Seleucus II, 246-225 BC SELEUCID KINGDOM (VERY RARE) NGC AU Strike: 3/5 Surface: 2/5",
-      "description": "AR Drachm Seleucus II, 246-225 BC AR Drachm Seleucus II, 246-225 BC SELEUCID KINGDOM (VERY RARE) NGC AU Strike: 3/5 Surface: 2/5",
-      "hammer_price_usd": 1899.99,
-      "currency_original": "USD",
-      "price_original": 1899.99,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid116_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 3,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-b749addd95ad",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=157",
       "title": "AR Drachm Mithradates II,c.121-91BC PARTHIAN KINGDOM AR Drachm Mithradates II,c.121-91BC NGC MS NGC MS Strike: 5/5 Surface: 3/5",
       "description": "AR Drachm Mithradates II,c.121-91BC PARTHIAN KINGDOM AR Drachm Mithradates II,c.121-91BC NGC MS NGC MS Strike: 5/5 Surface: 3/5",
@@ -1941,8 +1636,40 @@
       }
     },
     {
+      "id": "mashops-b86dbdec878f",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=59",
+      "title": "AR Drachm 2nd-1st Centuries BC AR Drachm 2nd-1st Centuries BC BOSPORUS PANTICAPAEUM Dicher Collection NGC Ch XF Strike: 4/5 Surface: 3/5",
+      "description": "AR Drachm 2nd-1st Centuries BC AR Drachm 2nd-1st Centuries BC BOSPORUS PANTICAPAEUM Dicher Collection NGC Ch XF Strike: 4/5 Surface: 3/5",
+      "hammer_price_usd": 679.99,
+      "currency_original": "USD",
+      "price_original": 679.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/59_image-1_12_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-0795820bfb23",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=13",
       "title": "AR Drachm Demetrius II,146/5-138 BC AR Drachm Demetrius II,146/5-138 BC SELEUCID KINGDOM NGC AU Strike: 4/5 Surface: 3/5",
       "description": "AR Drachm Demetrius II,146/5-138 BC AR Drachm Demetrius II,146/5-138 BC SELEUCID KINGDOM NGC AU Strike: 4/5 Surface: 3/5",
@@ -1973,6 +1700,7 @@
     {
       "id": "mashops-de8ee24527d2",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=48",
       "title": "AR Drachm c.90-79 BC RARE AR Drachm c.90-79 BC BOSPORUS PHANAGORIA Mithradates VI Dicher Collection NGC AU Strike: 5/5 Surface: 3/5",
       "description": "AR Drachm c.90-79 BC RARE AR Drachm c.90-79 BC BOSPORUS PHANAGORIA Mithradates VI Dicher Collection NGC AU Strike: 5/5 Surface: 3/5",
@@ -2001,68 +1729,9 @@
       }
     },
     {
-      "id": "mashops-ab142bfc3f18",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=66",
-      "title": "AR Drachm Pacorus, c.AD 78-120  NGC Ch AU Strike: 5/5 Surface: 5/5",
-      "description": "AR Drachm Pacorus, c.AD 78-120  NGC Ch AU Strike: 5/5 Surface: 5/5",
-      "hammer_price_usd": 900.0,
-      "currency_original": "USD",
-      "price_original": 900.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid66_ngc4830432-004_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-9ee21d0a3c17",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=116",
-      "title": "AR Drachm Seleucus II, 246-225 BC AR Drachm Seleucus II, 246-225 BC SELEUCID KINGDOM (VERY RARE) NGC AU Strike: 3/5 Surface: 2/5",
-      "description": "AR Drachm Seleucus II, 246-225 BC AR Drachm Seleucus II, 246-225 BC SELEUCID KINGDOM (VERY RARE) NGC AU Strike: 3/5 Surface: 2/5",
-      "hammer_price_usd": 1899.99,
-      "currency_original": "USD",
-      "price_original": 1899.99,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid116_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 3,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-b749addd95ad",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=157",
       "title": "AR Drachm Mithradates II,c.121-91BC PARTHIAN KINGDOM AR Drachm Mithradates II,c.121-91BC NGC MS NGC MS Strike: 5/5 Surface: 3/5",
       "description": "AR Drachm Mithradates II,c.121-91BC PARTHIAN KINGDOM AR Drachm Mithradates II,c.121-91BC NGC MS NGC MS Strike: 5/5 Surface: 3/5",
@@ -2091,8 +1760,40 @@
       }
     },
     {
+      "id": "mashops-b86dbdec878f",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=59",
+      "title": "AR Drachm 2nd-1st Centuries BC AR Drachm 2nd-1st Centuries BC BOSPORUS PANTICAPAEUM Dicher Collection NGC Ch XF Strike: 4/5 Surface: 3/5",
+      "description": "AR Drachm 2nd-1st Centuries BC AR Drachm 2nd-1st Centuries BC BOSPORUS PANTICAPAEUM Dicher Collection NGC Ch XF Strike: 4/5 Surface: 3/5",
+      "hammer_price_usd": 679.99,
+      "currency_original": "USD",
+      "price_original": 679.99,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/59_image-1_12_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-0795820bfb23",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=13",
       "title": "AR Drachm Demetrius II,146/5-138 BC AR Drachm Demetrius II,146/5-138 BC SELEUCID KINGDOM NGC AU Strike: 4/5 Surface: 3/5",
       "description": "AR Drachm Demetrius II,146/5-138 BC AR Drachm Demetrius II,146/5-138 BC SELEUCID KINGDOM NGC AU Strike: 4/5 Surface: 3/5",
@@ -2123,6 +1824,7 @@
     {
       "id": "mashops-de8ee24527d2",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=48",
       "title": "AR Drachm c.90-79 BC RARE AR Drachm c.90-79 BC BOSPORUS PHANAGORIA Mithradates VI Dicher Collection NGC AU Strike: 5/5 Surface: 3/5",
       "description": "AR Drachm c.90-79 BC RARE AR Drachm c.90-79 BC BOSPORUS PHANAGORIA Mithradates VI Dicher Collection NGC AU Strike: 5/5 Surface: 3/5",
@@ -2151,68 +1853,9 @@
       }
     },
     {
-      "id": "mashops-ab142bfc3f18",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/numistrade/item.php?id=66",
-      "title": "AR Drachm Pacorus, c.AD 78-120  NGC Ch AU Strike: 5/5 Surface: 5/5",
-      "description": "AR Drachm Pacorus, c.AD 78-120  NGC Ch AU Strike: 5/5 Surface: 5/5",
-      "hammer_price_usd": 900.0,
-      "currency_original": "USD",
-      "price_original": 900.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/numistrade/pic/thumb/artid66_ngc4830432-004_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-9ee21d0a3c17",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=116",
-      "title": "AR Drachm Seleucus II, 246-225 BC AR Drachm Seleucus II, 246-225 BC SELEUCID KINGDOM (VERY RARE) NGC AU Strike: 3/5 Surface: 2/5",
-      "description": "AR Drachm Seleucus II, 246-225 BC AR Drachm Seleucus II, 246-225 BC SELEUCID KINGDOM (VERY RARE) NGC AU Strike: 3/5 Surface: 2/5",
-      "hammer_price_usd": 1899.99,
-      "currency_original": "USD",
-      "price_original": 1899.99,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/artid116_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 3,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-b749addd95ad",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/dicher/item.php?id=157",
       "title": "AR Drachm Mithradates II,c.121-91BC PARTHIAN KINGDOM AR Drachm Mithradates II,c.121-91BC NGC MS NGC MS Strike: 5/5 Surface: 3/5",
       "description": "AR Drachm Mithradates II,c.121-91BC PARTHIAN KINGDOM AR Drachm Mithradates II,c.121-91BC NGC MS NGC MS Strike: 5/5 Surface: 3/5",
@@ -2241,24 +1884,25 @@
       }
     },
     {
-      "id": "mashops-0795820bfb23",
+      "id": "mashops-b86dbdec878f",
       "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=13",
-      "title": "AR Drachm Demetrius II,146/5-138 BC AR Drachm Demetrius II,146/5-138 BC SELEUCID KINGDOM NGC AU Strike: 4/5 Surface: 3/5",
-      "description": "AR Drachm Demetrius II,146/5-138 BC AR Drachm Demetrius II,146/5-138 BC SELEUCID KINGDOM NGC AU Strike: 4/5 Surface: 3/5",
-      "hammer_price_usd": 599.99,
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/dicher/item.php?id=59",
+      "title": "AR Drachm 2nd-1st Centuries BC AR Drachm 2nd-1st Centuries BC BOSPORUS PANTICAPAEUM Dicher Collection NGC Ch XF Strike: 4/5 Surface: 3/5",
+      "description": "AR Drachm 2nd-1st Centuries BC AR Drachm 2nd-1st Centuries BC BOSPORUS PANTICAPAEUM Dicher Collection NGC Ch XF Strike: 4/5 Surface: 3/5",
+      "hammer_price_usd": 679.99,
       "currency_original": "USD",
-      "price_original": 599.99,
+      "price_original": 679.99,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/13_image-1_c.jpg",
+      "image_url": "https://img.ma-shops.com/dicher/pic/thumb/59_image-1_12_c.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
-        "grade": "AU",
+        "grade": "XF",
         "grade_numeric": null,
-        "strike_score": 6,
-        "surface_score": 6,
+        "strike_score": 4,
+        "surface_score": 3,
         "details_grade": null,
         "certification_url": null
       },

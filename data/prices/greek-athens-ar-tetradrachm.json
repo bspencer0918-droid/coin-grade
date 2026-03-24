@@ -6,23 +6,89 @@
   "dynasty": "City-State",
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 30,
+  "sale_count": 44,
+  "realized_count": 0,
+  "fixed_price_count": 44,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 975.0,
-    "max": 1795.0
+    "max": 2495.0
   },
-  "median_price_usd": 1385.0,
+  "median_price_usd": 1695.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
+    "MS": 1,
     "AU": 15,
-    "VF": 15
+    "VF": 28
   },
-  "thumbnail_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8193_ngc6821667-061_obv_c.jpg",
+  "thumbnail_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8192_ngc6842001-124_obv_c.jpg",
   "sales": [
     {
+      "id": "mashops-6283fd525db4",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8192",
+      "title": "AR Tetradrachm c.440-404 BC ATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (24mm, 17.18 gm, 6h). NGC MS 4/5 NGC MS Strike: 4/5 Surface: 4/5",
+      "description": "AR Tetradrachm c.440-404 BC ATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (24mm, 17.18 gm, 6h). NGC MS 4/5 NGC MS Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 2495.0,
+      "currency_original": "USD",
+      "price_original": 2495.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8192_ngc6842001-124_obv_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-1395f28d701f",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=7785",
+      "title": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (30mm, 16.62 g, 12h). New Styl NGC AU Strike: 4/5 Surface: 3/5",
+      "description": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (30mm, 16.62 g, 12h). New Styl NGC AU Strike: 4/5 Surface: 3/5",
+      "hammer_price_usd": 1975.0,
+      "currency_original": "USD",
+      "price_original": 1975.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid7785_ngc6327280-024_obv_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-35fd536d9a79",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8193",
       "title": "AR Tetradrachm c.440-404 BC ATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (25mm, 17.17 gm, 9h). NGC AU 4/5 NGC AU Strike: 4/5 Surface: 4/5",
       "description": "AR Tetradrachm c.440-404 BC ATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (25mm, 17.17 gm, 9h). NGC AU 4/5 NGC AU Strike: 4/5 Surface: 4/5",
@@ -53,6 +119,7 @@
     {
       "id": "mashops-aaac0ba26c3d",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8788",
       "title": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (28mm, 16.26 g, 11h). New Style NGC Ch VF Strike: 5/5 Surface: 1/5",
       "description": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (28mm, 16.26 g, 11h). New Style NGC Ch VF Strike: 5/5 Surface: 1/5",
@@ -81,8 +148,40 @@
       }
     },
     {
+      "id": "mashops-35c9bdbd9c05",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8950",
+      "title": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (29mm, 16.67 g, 12h). New Style NGC Ch VF Strike: 4/5 Surface: 4/5",
+      "description": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (29mm, 16.67 g, 12h). New Style NGC Ch VF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1695.0,
+      "currency_original": "USD",
+      "price_original": 1695.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8950_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-35fd536d9a79",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8193",
       "title": "AR Tetradrachm c.440-404 BC ATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (25mm, 17.17 gm, 9h). NGC AU 4/5 NGC AU Strike: 4/5 Surface: 4/5",
       "description": "AR Tetradrachm c.440-404 BC ATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (25mm, 17.17 gm, 9h). NGC AU 4/5 NGC AU Strike: 4/5 Surface: 4/5",
@@ -113,6 +212,7 @@
     {
       "id": "mashops-aaac0ba26c3d",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8788",
       "title": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (28mm, 16.26 g, 11h). New Style NGC Ch VF Strike: 5/5 Surface: 1/5",
       "description": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (28mm, 16.26 g, 11h). New Style NGC Ch VF Strike: 5/5 Surface: 1/5",
@@ -141,8 +241,40 @@
       }
     },
     {
+      "id": "mashops-35c9bdbd9c05",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8950",
+      "title": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (29mm, 16.67 g, 12h). New Style NGC Ch VF Strike: 4/5 Surface: 4/5",
+      "description": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (29mm, 16.67 g, 12h). New Style NGC Ch VF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1695.0,
+      "currency_original": "USD",
+      "price_original": 1695.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8950_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-35fd536d9a79",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8193",
       "title": "AR Tetradrachm c.440-404 BC ATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (25mm, 17.17 gm, 9h). NGC AU 4/5 NGC AU Strike: 4/5 Surface: 4/5",
       "description": "AR Tetradrachm c.440-404 BC ATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (25mm, 17.17 gm, 9h). NGC AU 4/5 NGC AU Strike: 4/5 Surface: 4/5",
@@ -173,6 +305,7 @@
     {
       "id": "mashops-aaac0ba26c3d",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8788",
       "title": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (28mm, 16.26 g, 11h). New Style NGC Ch VF Strike: 5/5 Surface: 1/5",
       "description": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (28mm, 16.26 g, 11h). New Style NGC Ch VF Strike: 5/5 Surface: 1/5",
@@ -201,8 +334,40 @@
       }
     },
     {
+      "id": "mashops-35c9bdbd9c05",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8950",
+      "title": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (29mm, 16.67 g, 12h). New Style NGC Ch VF Strike: 4/5 Surface: 4/5",
+      "description": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (29mm, 16.67 g, 12h). New Style NGC Ch VF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1695.0,
+      "currency_original": "USD",
+      "price_original": 1695.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8950_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-35fd536d9a79",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8193",
       "title": "AR Tetradrachm c.440-404 BC ATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (25mm, 17.17 gm, 9h). NGC AU 4/5 NGC AU Strike: 4/5 Surface: 4/5",
       "description": "AR Tetradrachm c.440-404 BC ATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (25mm, 17.17 gm, 9h). NGC AU 4/5 NGC AU Strike: 4/5 Surface: 4/5",
@@ -233,6 +398,7 @@
     {
       "id": "mashops-aaac0ba26c3d",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8788",
       "title": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (28mm, 16.26 g, 11h). New Style NGC Ch VF Strike: 5/5 Surface: 1/5",
       "description": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (28mm, 16.26 g, 11h). New Style NGC Ch VF Strike: 5/5 Surface: 1/5",
@@ -261,8 +427,40 @@
       }
     },
     {
+      "id": "mashops-35c9bdbd9c05",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8950",
+      "title": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (29mm, 16.67 g, 12h). New Style NGC Ch VF Strike: 4/5 Surface: 4/5",
+      "description": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (29mm, 16.67 g, 12h). New Style NGC Ch VF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1695.0,
+      "currency_original": "USD",
+      "price_original": 1695.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8950_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-35fd536d9a79",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8193",
       "title": "AR Tetradrachm c.440-404 BC ATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (25mm, 17.17 gm, 9h). NGC AU 4/5 NGC AU Strike: 4/5 Surface: 4/5",
       "description": "AR Tetradrachm c.440-404 BC ATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (25mm, 17.17 gm, 9h). NGC AU 4/5 NGC AU Strike: 4/5 Surface: 4/5",
@@ -293,6 +491,7 @@
     {
       "id": "mashops-aaac0ba26c3d",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8788",
       "title": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (28mm, 16.26 g, 11h). New Style NGC Ch VF Strike: 5/5 Surface: 1/5",
       "description": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (28mm, 16.26 g, 11h). New Style NGC Ch VF Strike: 5/5 Surface: 1/5",
@@ -321,8 +520,40 @@
       }
     },
     {
+      "id": "mashops-35c9bdbd9c05",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8950",
+      "title": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (29mm, 16.67 g, 12h). New Style NGC Ch VF Strike: 4/5 Surface: 4/5",
+      "description": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (29mm, 16.67 g, 12h). New Style NGC Ch VF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1695.0,
+      "currency_original": "USD",
+      "price_original": 1695.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8950_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-35fd536d9a79",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8193",
       "title": "AR Tetradrachm c.440-404 BC ATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (25mm, 17.17 gm, 9h). NGC AU 4/5 NGC AU Strike: 4/5 Surface: 4/5",
       "description": "AR Tetradrachm c.440-404 BC ATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (25mm, 17.17 gm, 9h). NGC AU 4/5 NGC AU Strike: 4/5 Surface: 4/5",
@@ -353,6 +584,7 @@
     {
       "id": "mashops-aaac0ba26c3d",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8788",
       "title": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (28mm, 16.26 g, 11h). New Style NGC Ch VF Strike: 5/5 Surface: 1/5",
       "description": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (28mm, 16.26 g, 11h). New Style NGC Ch VF Strike: 5/5 Surface: 1/5",
@@ -381,8 +613,40 @@
       }
     },
     {
+      "id": "mashops-35c9bdbd9c05",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8950",
+      "title": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (29mm, 16.67 g, 12h). New Style NGC Ch VF Strike: 4/5 Surface: 4/5",
+      "description": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (29mm, 16.67 g, 12h). New Style NGC Ch VF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1695.0,
+      "currency_original": "USD",
+      "price_original": 1695.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8950_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-35fd536d9a79",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8193",
       "title": "AR Tetradrachm c.440-404 BC ATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (25mm, 17.17 gm, 9h). NGC AU 4/5 NGC AU Strike: 4/5 Surface: 4/5",
       "description": "AR Tetradrachm c.440-404 BC ATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (25mm, 17.17 gm, 9h). NGC AU 4/5 NGC AU Strike: 4/5 Surface: 4/5",
@@ -413,6 +677,7 @@
     {
       "id": "mashops-aaac0ba26c3d",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8788",
       "title": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (28mm, 16.26 g, 11h). New Style NGC Ch VF Strike: 5/5 Surface: 1/5",
       "description": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (28mm, 16.26 g, 11h). New Style NGC Ch VF Strike: 5/5 Surface: 1/5",
@@ -441,8 +706,40 @@
       }
     },
     {
+      "id": "mashops-35c9bdbd9c05",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8950",
+      "title": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (29mm, 16.67 g, 12h). New Style NGC Ch VF Strike: 4/5 Surface: 4/5",
+      "description": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (29mm, 16.67 g, 12h). New Style NGC Ch VF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1695.0,
+      "currency_original": "USD",
+      "price_original": 1695.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8950_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-35fd536d9a79",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8193",
       "title": "AR Tetradrachm c.440-404 BC ATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (25mm, 17.17 gm, 9h). NGC AU 4/5 NGC AU Strike: 4/5 Surface: 4/5",
       "description": "AR Tetradrachm c.440-404 BC ATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (25mm, 17.17 gm, 9h). NGC AU 4/5 NGC AU Strike: 4/5 Surface: 4/5",
@@ -473,6 +770,7 @@
     {
       "id": "mashops-aaac0ba26c3d",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8788",
       "title": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (28mm, 16.26 g, 11h). New Style NGC Ch VF Strike: 5/5 Surface: 1/5",
       "description": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (28mm, 16.26 g, 11h). New Style NGC Ch VF Strike: 5/5 Surface: 1/5",
@@ -501,8 +799,40 @@
       }
     },
     {
+      "id": "mashops-35c9bdbd9c05",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8950",
+      "title": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (29mm, 16.67 g, 12h). New Style NGC Ch VF Strike: 4/5 Surface: 4/5",
+      "description": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (29mm, 16.67 g, 12h). New Style NGC Ch VF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1695.0,
+      "currency_original": "USD",
+      "price_original": 1695.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8950_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-35fd536d9a79",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8193",
       "title": "AR Tetradrachm c.440-404 BC ATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (25mm, 17.17 gm, 9h). NGC AU 4/5 NGC AU Strike: 4/5 Surface: 4/5",
       "description": "AR Tetradrachm c.440-404 BC ATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (25mm, 17.17 gm, 9h). NGC AU 4/5 NGC AU Strike: 4/5 Surface: 4/5",
@@ -533,6 +863,7 @@
     {
       "id": "mashops-aaac0ba26c3d",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8788",
       "title": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (28mm, 16.26 g, 11h). New Style NGC Ch VF Strike: 5/5 Surface: 1/5",
       "description": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (28mm, 16.26 g, 11h). New Style NGC Ch VF Strike: 5/5 Surface: 1/5",
@@ -561,8 +892,40 @@
       }
     },
     {
+      "id": "mashops-35c9bdbd9c05",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8950",
+      "title": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (29mm, 16.67 g, 12h). New Style NGC Ch VF Strike: 4/5 Surface: 4/5",
+      "description": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (29mm, 16.67 g, 12h). New Style NGC Ch VF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1695.0,
+      "currency_original": "USD",
+      "price_original": 1695.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8950_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-35fd536d9a79",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8193",
       "title": "AR Tetradrachm c.440-404 BC ATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (25mm, 17.17 gm, 9h). NGC AU 4/5 NGC AU Strike: 4/5 Surface: 4/5",
       "description": "AR Tetradrachm c.440-404 BC ATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (25mm, 17.17 gm, 9h). NGC AU 4/5 NGC AU Strike: 4/5 Surface: 4/5",
@@ -593,6 +956,7 @@
     {
       "id": "mashops-aaac0ba26c3d",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8788",
       "title": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (28mm, 16.26 g, 11h). New Style NGC Ch VF Strike: 5/5 Surface: 1/5",
       "description": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (28mm, 16.26 g, 11h). New Style NGC Ch VF Strike: 5/5 Surface: 1/5",
@@ -621,8 +985,40 @@
       }
     },
     {
+      "id": "mashops-35c9bdbd9c05",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8950",
+      "title": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (29mm, 16.67 g, 12h). New Style NGC Ch VF Strike: 4/5 Surface: 4/5",
+      "description": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (29mm, 16.67 g, 12h). New Style NGC Ch VF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1695.0,
+      "currency_original": "USD",
+      "price_original": 1695.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8950_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-35fd536d9a79",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8193",
       "title": "AR Tetradrachm c.440-404 BC ATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (25mm, 17.17 gm, 9h). NGC AU 4/5 NGC AU Strike: 4/5 Surface: 4/5",
       "description": "AR Tetradrachm c.440-404 BC ATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (25mm, 17.17 gm, 9h). NGC AU 4/5 NGC AU Strike: 4/5 Surface: 4/5",
@@ -653,6 +1049,7 @@
     {
       "id": "mashops-aaac0ba26c3d",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8788",
       "title": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (28mm, 16.26 g, 11h). New Style NGC Ch VF Strike: 5/5 Surface: 1/5",
       "description": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (28mm, 16.26 g, 11h). New Style NGC Ch VF Strike: 5/5 Surface: 1/5",
@@ -681,8 +1078,40 @@
       }
     },
     {
+      "id": "mashops-35c9bdbd9c05",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8950",
+      "title": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (29mm, 16.67 g, 12h). New Style NGC Ch VF Strike: 4/5 Surface: 4/5",
+      "description": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (29mm, 16.67 g, 12h). New Style NGC Ch VF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1695.0,
+      "currency_original": "USD",
+      "price_original": 1695.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8950_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-35fd536d9a79",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8193",
       "title": "AR Tetradrachm c.440-404 BC ATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (25mm, 17.17 gm, 9h). NGC AU 4/5 NGC AU Strike: 4/5 Surface: 4/5",
       "description": "AR Tetradrachm c.440-404 BC ATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (25mm, 17.17 gm, 9h). NGC AU 4/5 NGC AU Strike: 4/5 Surface: 4/5",
@@ -713,6 +1142,7 @@
     {
       "id": "mashops-aaac0ba26c3d",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8788",
       "title": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (28mm, 16.26 g, 11h). New Style NGC Ch VF Strike: 5/5 Surface: 1/5",
       "description": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (28mm, 16.26 g, 11h). New Style NGC Ch VF Strike: 5/5 Surface: 1/5",
@@ -741,8 +1171,40 @@
       }
     },
     {
+      "id": "mashops-35c9bdbd9c05",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8950",
+      "title": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (29mm, 16.67 g, 12h). New Style NGC Ch VF Strike: 4/5 Surface: 4/5",
+      "description": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (29mm, 16.67 g, 12h). New Style NGC Ch VF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1695.0,
+      "currency_original": "USD",
+      "price_original": 1695.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8950_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-35fd536d9a79",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8193",
       "title": "AR Tetradrachm c.440-404 BC ATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (25mm, 17.17 gm, 9h). NGC AU 4/5 NGC AU Strike: 4/5 Surface: 4/5",
       "description": "AR Tetradrachm c.440-404 BC ATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (25mm, 17.17 gm, 9h). NGC AU 4/5 NGC AU Strike: 4/5 Surface: 4/5",
@@ -773,6 +1235,7 @@
     {
       "id": "mashops-aaac0ba26c3d",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8788",
       "title": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (28mm, 16.26 g, 11h). New Style NGC Ch VF Strike: 5/5 Surface: 1/5",
       "description": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (28mm, 16.26 g, 11h). New Style NGC Ch VF Strike: 5/5 Surface: 1/5",
@@ -801,8 +1264,40 @@
       }
     },
     {
+      "id": "mashops-35c9bdbd9c05",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8950",
+      "title": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (29mm, 16.67 g, 12h). New Style NGC Ch VF Strike: 4/5 Surface: 4/5",
+      "description": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (29mm, 16.67 g, 12h). New Style NGC Ch VF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1695.0,
+      "currency_original": "USD",
+      "price_original": 1695.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8950_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-35fd536d9a79",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8193",
       "title": "AR Tetradrachm c.440-404 BC ATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (25mm, 17.17 gm, 9h). NGC AU 4/5 NGC AU Strike: 4/5 Surface: 4/5",
       "description": "AR Tetradrachm c.440-404 BC ATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (25mm, 17.17 gm, 9h). NGC AU 4/5 NGC AU Strike: 4/5 Surface: 4/5",
@@ -833,6 +1328,7 @@
     {
       "id": "mashops-aaac0ba26c3d",
       "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8788",
       "title": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (28mm, 16.26 g, 11h). New Style NGC Ch VF Strike: 5/5 Surface: 1/5",
       "description": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (28mm, 16.26 g, 11h). New Style NGC Ch VF Strike: 5/5 Surface: 1/5",
@@ -861,54 +1357,25 @@
       }
     },
     {
-      "id": "mashops-35fd536d9a79",
+      "id": "mashops-35c9bdbd9c05",
       "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8193",
-      "title": "AR Tetradrachm c.440-404 BC ATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (25mm, 17.17 gm, 9h). NGC AU 4/5 NGC AU Strike: 4/5 Surface: 4/5",
-      "description": "AR Tetradrachm c.440-404 BC ATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (25mm, 17.17 gm, 9h). NGC AU 4/5 NGC AU Strike: 4/5 Surface: 4/5",
-      "hammer_price_usd": 1795.0,
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8950",
+      "title": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (29mm, 16.67 g, 12h). New Style NGC Ch VF Strike: 4/5 Surface: 4/5",
+      "description": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (29mm, 16.67 g, 12h). New Style NGC Ch VF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1695.0,
       "currency_original": "USD",
-      "price_original": 1795.0,
+      "price_original": 1695.0,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8193_ngc6821667-061_obv_c.jpg",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8950_combined.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 4,
+        "grade": "VF",
+        "grade_numeric": null,
         "strike_score": 4,
         "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-aaac0ba26c3d",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8788",
-      "title": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (28mm, 16.26 g, 11h). New Style NGC Ch VF Strike: 5/5 Surface: 1/5",
-      "description": "AR Tetradrachm 2nd-1st Centuries BC ATTICA, Athens. Circa 165-42 BC. AR Tetradrachm (28mm, 16.26 g, 11h). New Style NGC Ch VF Strike: 5/5 Surface: 1/5",
-      "hammer_price_usd": 975.0,
-      "currency_original": "USD",
-      "price_original": 975.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8788_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 1,
         "details_grade": null,
         "certification_url": null
       },

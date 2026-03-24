@@ -7,6 +7,8 @@
   "denomination": "AR Shekel",
   "metal": "silver",
   "sale_count": 1,
+  "realized_count": 1,
+  "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 1450.0,
@@ -22,6 +24,7 @@
     {
       "id": "cng-e22e73aca88b",
       "source": "cng",
+      "listing_type": "auction_realized",
       "lot_url": "https://auctions.cngcoins.com/lots/view/4-HRM74J",
       "title": "CNG Feature Auction 130 Lot: 8. IBERIA, Punic Iberia. Circa 237-209 BC. AR Shekel (21mm, 7.28 g, 1h). NGC XF, 5/5, 2/5, edge chip.",
       "description": "Greek, Silver Estimated:\u00a0$  1 000 Sold\u00a0Price:\u00a0$ : 1 450",

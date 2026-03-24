@@ -6,38 +6,41 @@
   "dynasty": null,
   "denomination": "AR Didrachm",
   "metal": "electrum",
-  "sale_count": 15,
+  "sale_count": 2,
+  "realized_count": 0,
+  "fixed_price_count": 2,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 695.0,
-    "max": 695.0
+    "max": 3475.0
   },
-  "median_price_usd": 695.0,
+  "median_price_usd": 2085.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "XF": 15
+    "XF": 2
   },
-  "thumbnail_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8604_ngc2072881-001_obv_c.jpg",
+  "thumbnail_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8659_combined.jpg",
   "sales": [
     {
-      "id": "mashops-f2905075c7ba",
+      "id": "mashops-f1a4ccffa057",
       "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8604",
-      "title": "AR Didrachm c.281-240 BC CALABRIA. Tarentum. Ca. 281-240 BC. AR stater or didrachm (19mm, 6.33 gm, 6h). N NGC XF Strike: 5/5 Surface: 2/5",
-      "description": "AR Didrachm c.281-240 BC CALABRIA. Tarentum. Ca. 281-240 BC. AR stater or didrachm (19mm, 6.33 gm, 6h). N NGC XF Strike: 5/5 Surface: 2/5",
-      "hammer_price_usd": 695.0,
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8659",
+      "title": "AR Stater-Didrachm Archelaus, 413-400/399 BC KINGS OF MACEDON. Archelaos. 413-399 BC. AR Stater (10.66 gm). Head of Apollo, w NGC XF Strike: 4/5 Surface: 4/5",
+      "description": "AR Stater-Didrachm Archelaus, 413-400/399 BC KINGS OF MACEDON. Archelaos. 413-399 BC. AR Stater (10.66 gm). Head of Apollo, w NGC XF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 3475.0,
       "currency_original": "USD",
-      "price_original": 695.0,
+      "price_original": 3475.0,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8604_ngc2072881-001_obv_c.jpg",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8659_combined.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
         "grade": "XF",
         "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 2,
+        "strike_score": 4,
+        "surface_score": 4,
         "details_grade": null,
         "certification_url": null
       },
@@ -52,396 +55,7 @@
     {
       "id": "mashops-f2905075c7ba",
       "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8604",
-      "title": "AR Didrachm c.281-240 BC CALABRIA. Tarentum. Ca. 281-240 BC. AR stater or didrachm (19mm, 6.33 gm, 6h). N NGC XF Strike: 5/5 Surface: 2/5",
-      "description": "AR Didrachm c.281-240 BC CALABRIA. Tarentum. Ca. 281-240 BC. AR stater or didrachm (19mm, 6.33 gm, 6h). N NGC XF Strike: 5/5 Surface: 2/5",
-      "hammer_price_usd": 695.0,
-      "currency_original": "USD",
-      "price_original": 695.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8604_ngc2072881-001_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-f2905075c7ba",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8604",
-      "title": "AR Didrachm c.281-240 BC CALABRIA. Tarentum. Ca. 281-240 BC. AR stater or didrachm (19mm, 6.33 gm, 6h). N NGC XF Strike: 5/5 Surface: 2/5",
-      "description": "AR Didrachm c.281-240 BC CALABRIA. Tarentum. Ca. 281-240 BC. AR stater or didrachm (19mm, 6.33 gm, 6h). N NGC XF Strike: 5/5 Surface: 2/5",
-      "hammer_price_usd": 695.0,
-      "currency_original": "USD",
-      "price_original": 695.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8604_ngc2072881-001_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-f2905075c7ba",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8604",
-      "title": "AR Didrachm c.281-240 BC CALABRIA. Tarentum. Ca. 281-240 BC. AR stater or didrachm (19mm, 6.33 gm, 6h). N NGC XF Strike: 5/5 Surface: 2/5",
-      "description": "AR Didrachm c.281-240 BC CALABRIA. Tarentum. Ca. 281-240 BC. AR stater or didrachm (19mm, 6.33 gm, 6h). N NGC XF Strike: 5/5 Surface: 2/5",
-      "hammer_price_usd": 695.0,
-      "currency_original": "USD",
-      "price_original": 695.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8604_ngc2072881-001_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-f2905075c7ba",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8604",
-      "title": "AR Didrachm c.281-240 BC CALABRIA. Tarentum. Ca. 281-240 BC. AR stater or didrachm (19mm, 6.33 gm, 6h). N NGC XF Strike: 5/5 Surface: 2/5",
-      "description": "AR Didrachm c.281-240 BC CALABRIA. Tarentum. Ca. 281-240 BC. AR stater or didrachm (19mm, 6.33 gm, 6h). N NGC XF Strike: 5/5 Surface: 2/5",
-      "hammer_price_usd": 695.0,
-      "currency_original": "USD",
-      "price_original": 695.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8604_ngc2072881-001_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-f2905075c7ba",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8604",
-      "title": "AR Didrachm c.281-240 BC CALABRIA. Tarentum. Ca. 281-240 BC. AR stater or didrachm (19mm, 6.33 gm, 6h). N NGC XF Strike: 5/5 Surface: 2/5",
-      "description": "AR Didrachm c.281-240 BC CALABRIA. Tarentum. Ca. 281-240 BC. AR stater or didrachm (19mm, 6.33 gm, 6h). N NGC XF Strike: 5/5 Surface: 2/5",
-      "hammer_price_usd": 695.0,
-      "currency_original": "USD",
-      "price_original": 695.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8604_ngc2072881-001_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-f2905075c7ba",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8604",
-      "title": "AR Didrachm c.281-240 BC CALABRIA. Tarentum. Ca. 281-240 BC. AR stater or didrachm (19mm, 6.33 gm, 6h). N NGC XF Strike: 5/5 Surface: 2/5",
-      "description": "AR Didrachm c.281-240 BC CALABRIA. Tarentum. Ca. 281-240 BC. AR stater or didrachm (19mm, 6.33 gm, 6h). N NGC XF Strike: 5/5 Surface: 2/5",
-      "hammer_price_usd": 695.0,
-      "currency_original": "USD",
-      "price_original": 695.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8604_ngc2072881-001_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-f2905075c7ba",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8604",
-      "title": "AR Didrachm c.281-240 BC CALABRIA. Tarentum. Ca. 281-240 BC. AR stater or didrachm (19mm, 6.33 gm, 6h). N NGC XF Strike: 5/5 Surface: 2/5",
-      "description": "AR Didrachm c.281-240 BC CALABRIA. Tarentum. Ca. 281-240 BC. AR stater or didrachm (19mm, 6.33 gm, 6h). N NGC XF Strike: 5/5 Surface: 2/5",
-      "hammer_price_usd": 695.0,
-      "currency_original": "USD",
-      "price_original": 695.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8604_ngc2072881-001_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-f2905075c7ba",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8604",
-      "title": "AR Didrachm c.281-240 BC CALABRIA. Tarentum. Ca. 281-240 BC. AR stater or didrachm (19mm, 6.33 gm, 6h). N NGC XF Strike: 5/5 Surface: 2/5",
-      "description": "AR Didrachm c.281-240 BC CALABRIA. Tarentum. Ca. 281-240 BC. AR stater or didrachm (19mm, 6.33 gm, 6h). N NGC XF Strike: 5/5 Surface: 2/5",
-      "hammer_price_usd": 695.0,
-      "currency_original": "USD",
-      "price_original": 695.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8604_ngc2072881-001_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-f2905075c7ba",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8604",
-      "title": "AR Didrachm c.281-240 BC CALABRIA. Tarentum. Ca. 281-240 BC. AR stater or didrachm (19mm, 6.33 gm, 6h). N NGC XF Strike: 5/5 Surface: 2/5",
-      "description": "AR Didrachm c.281-240 BC CALABRIA. Tarentum. Ca. 281-240 BC. AR stater or didrachm (19mm, 6.33 gm, 6h). N NGC XF Strike: 5/5 Surface: 2/5",
-      "hammer_price_usd": 695.0,
-      "currency_original": "USD",
-      "price_original": 695.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8604_ngc2072881-001_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-f2905075c7ba",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8604",
-      "title": "AR Didrachm c.281-240 BC CALABRIA. Tarentum. Ca. 281-240 BC. AR stater or didrachm (19mm, 6.33 gm, 6h). N NGC XF Strike: 5/5 Surface: 2/5",
-      "description": "AR Didrachm c.281-240 BC CALABRIA. Tarentum. Ca. 281-240 BC. AR stater or didrachm (19mm, 6.33 gm, 6h). N NGC XF Strike: 5/5 Surface: 2/5",
-      "hammer_price_usd": 695.0,
-      "currency_original": "USD",
-      "price_original": 695.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8604_ngc2072881-001_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-f2905075c7ba",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8604",
-      "title": "AR Didrachm c.281-240 BC CALABRIA. Tarentum. Ca. 281-240 BC. AR stater or didrachm (19mm, 6.33 gm, 6h). N NGC XF Strike: 5/5 Surface: 2/5",
-      "description": "AR Didrachm c.281-240 BC CALABRIA. Tarentum. Ca. 281-240 BC. AR stater or didrachm (19mm, 6.33 gm, 6h). N NGC XF Strike: 5/5 Surface: 2/5",
-      "hammer_price_usd": 695.0,
-      "currency_original": "USD",
-      "price_original": 695.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8604_ngc2072881-001_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-f2905075c7ba",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8604",
-      "title": "AR Didrachm c.281-240 BC CALABRIA. Tarentum. Ca. 281-240 BC. AR stater or didrachm (19mm, 6.33 gm, 6h). N NGC XF Strike: 5/5 Surface: 2/5",
-      "description": "AR Didrachm c.281-240 BC CALABRIA. Tarentum. Ca. 281-240 BC. AR stater or didrachm (19mm, 6.33 gm, 6h). N NGC XF Strike: 5/5 Surface: 2/5",
-      "hammer_price_usd": 695.0,
-      "currency_original": "USD",
-      "price_original": 695.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8604_ngc2072881-001_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-f2905075c7ba",
-      "source": "mashops",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8604",
-      "title": "AR Didrachm c.281-240 BC CALABRIA. Tarentum. Ca. 281-240 BC. AR stater or didrachm (19mm, 6.33 gm, 6h). N NGC XF Strike: 5/5 Surface: 2/5",
-      "description": "AR Didrachm c.281-240 BC CALABRIA. Tarentum. Ca. 281-240 BC. AR stater or didrachm (19mm, 6.33 gm, 6h). N NGC XF Strike: 5/5 Surface: 2/5",
-      "hammer_price_usd": 695.0,
-      "currency_original": "USD",
-      "price_original": 695.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8604_ngc2072881-001_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-f2905075c7ba",
-      "source": "mashops",
+      "listing_type": "fixed_price",
       "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8604",
       "title": "AR Didrachm c.281-240 BC CALABRIA. Tarentum. Ca. 281-240 BC. AR stater or didrachm (19mm, 6.33 gm, 6h). N NGC XF Strike: 5/5 Surface: 2/5",
       "description": "AR Didrachm c.281-240 BC CALABRIA. Tarentum. Ca. 281-240 BC. AR stater or didrachm (19mm, 6.33 gm, 6h). N NGC XF Strike: 5/5 Surface: 2/5",
