@@ -75,6 +75,12 @@ class HJBScraper(BaseScraper):
 
                     yielded = 0
                     for item in items:
+                        # If the summary fields have no NGC text, try the detail endpoint
+                        all_text = " ".join(str(v) for v in item.values() if v)
+                        if "NGC" not in all_text.upper():
+                            detail = self._fetch_detail(client, item)
+                            if detail:
+                                item = {**item, **detail}
                         listing = self._parse_item(item, today)
                         if listing:
                             yield listing
@@ -87,6 +93,32 @@ class HJBScraper(BaseScraper):
                         break
         finally:
             client.close()
+
+    def _fetch_detail(self, client, item: dict) -> dict | None:
+        """
+        Fetch the lot detail endpoint to get the full description, which often
+        contains the NGC grade text not present in the summary API response.
+        Returns the detail dict merged fields, or None on failure.
+        """
+        inv_num = item.get("InventoryNumber")
+        group   = item.get("InventoryGroup")
+        if not inv_num or not group:
+            return None
+        try:
+            self._wait()
+            resp = client.post(DETAIL_URL, json={
+                "InventoryGroup":  group,
+                "InventoryNumber": inv_num,
+            })
+            resp.raise_for_status()
+            data = resp.json()
+            detail = data.get("data") or {}
+            if isinstance(detail, list) and detail:
+                detail = detail[0]
+            return detail if isinstance(detail, dict) else None
+        except Exception as e:
+            logger.debug(f"[HJB] Detail fetch failed for {group}/{inv_num}: {e}")
+            return None
 
     def _parse_item(self, item: dict, today: date) -> RawListing | None:
         try:

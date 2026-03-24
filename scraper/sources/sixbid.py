@@ -52,16 +52,16 @@ class SixbidScraper(BaseScraper):
                     logger.info(f"[Sixbid] query='{query}' offset={start}")
                     self._wait()
                     try:
+                        # Sixbid uses Solr's JSON Query DSL: "offset"/"limit" not "start"/"rows"
                         resp = client.post(API_URL, json={
-                            "query":    query,
-                            "language": "en",
-                            "start":    start,
-                            "rows":     RESULTS_PER_PAGE,
+                            "query":  query,
+                            "offset": start,
+                            "limit":  RESULTS_PER_PAGE,
                         })
                         if resp.status_code == 400:
                             logger.error(
                                 f"[Sixbid] 400 Bad Request at offset {start}. "
-                                f"Response: {resp.text[:300]}"
+                                f"Response: {resp.text[:400]}"
                             )
                             break
                         resp.raise_for_status()

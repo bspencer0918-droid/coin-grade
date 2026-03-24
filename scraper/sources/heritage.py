@@ -88,6 +88,14 @@ class HeritageScraper(BaseScraper):
             )
             page = await context.new_page()
 
+            # Apply stealth patches to evade Cloudflare bot detection
+            try:
+                from playwright_stealth import stealth_async
+                await stealth_async(page)
+                logger.info("[Heritage] Stealth mode applied")
+            except ImportError:
+                logger.warning("[Heritage] playwright-stealth not installed — Cloudflare may block us")
+
             # Login once for the entire session
             logged_in = await self._login(page)
             if not logged_in:

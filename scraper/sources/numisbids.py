@@ -102,23 +102,6 @@ class NumisBidsScraper(BaseScraper):
 
     def _parse_item(self, item, sale_dates: dict) -> RawListing | None:
         try:
-            # Title
-            title_el = item.select_one("span.summary a, div.browsetext span a")
-            if not title_el:
-                return None
-            title = title_el.get_text(strip=True)
-
-            # Lot URL
-            link_el = item.select_one("a[href*='/sale/']") or item.select_one("a[href]")
-            lot_url = urljoin(BASE_URL, link_el["href"]) if link_el else BASE_URL
-
-            # Price — look for realized/hammer price in specific elements.
-            # NumisBids uses span.rateclick as a *currency-conversion widget*, not
-            # a price display; its data-message holds a fixed widget value (e.g. the
-            # exchange rate), NOT the hammer price.  Look for actual price labels first.
-            price: float | None = None
-            currency = "EUR"
-
             item_text = item.get_text(separator=" ")
 
             # Log the first item's structure for debugging
@@ -127,16 +110,51 @@ class NumisBidsScraper(BaseScraper):
                 logger.info(f"[NumisBids] First item HTML snippet: {str(item)[:500]}")
                 logger.info(f"[NumisBids] First item text: {item_text[:300]}")
 
+            # Lot URL — span.lot a holds the canonical lot link
+            link_el = item.select_one("span.lot a, a[href*='/sale/'], a[href]")
+            lot_url = urljoin(BASE_URL, link_el["href"]) if link_el else BASE_URL
+
+            # Title — NumisBids puts the coin description in div.browsetext (below
+            # div.browsetext-top which only has the lot number and price header).
+            # Fall back to any descriptive text in the item if the selector misses.
+            title = ""
+            for sel in ["div.browsetext", "span.summary", "div.description",
+                        "p.description", "div.lot-title"]:
+                el = item.select_one(sel)
+                if el:
+                    title = el.get_text(separator=" ", strip=True)
+                    if title:
+                        break
+            # Last resort: strip lot-number prefix and price prefix from full text
+            if not title:
+                # Remove "Lot NNNNN" and "Starting price: NNN" / "Result: NNN" preamble
+                title = re.sub(r'^Lot\s+\d+\s*', '', item_text.strip())
+                title = re.sub(r'(?:Starting price|Result|Realized|Hammer)\s*:[\s\d.,€$£EURUGBCHF]+', '', title)
+                title = title.strip()
+            if not title:
+                return None
+
+            # Determine listing type from label text
+            is_realized = bool(re.search(
+                r'(?:Result|Realized|Hammer|Zuschlag|Résultat)\s*:', item_text, re.IGNORECASE
+            ))
+            listing_type = ListingType.AUCTION_REALIZED if is_realized else ListingType.AUCTION_ESTIMATE
+
+            # Price extraction
+            price: float | None = None
+            currency = "EUR"
+
             # 1. Try specific realized-price element classes
             for sel in ["span.result", "div.result", "span.hammer", "span.price",
-                        "td.result", "td.hammer", "div.price", "span.priceresult"]:
+                        "td.result", "td.hammer", "div.price", "span.priceresult",
+                        "span.estimate"]:
                 el = item.select_one(sel)
                 if el:
                     price, currency = _parse_numisbids_price(el.get_text(strip=True))
                     if price and price > 10:
                         break
 
-            # 2. Try rateclick data attributes (site may store raw price here)
+            # 2. Try rateclick data attributes
             if not price:
                 rate_el = item.select_one("span.rateclick")
                 if rate_el:
@@ -149,38 +167,40 @@ class NumisBidsScraper(BaseScraper):
                         except (ValueError, TypeError):
                             pass
 
-            # 3. Scan for "Result:|Realized:|Hammer:" label patterns
+            # 3. Scan for label patterns — both "currency amount" and "amount currency"
             if not price:
+                # "Result: €500" / "Starting price: 500 EUR" / "Hammer: CHF 200"
                 m = re.search(
-                    r'(?:Result|Realized|Hammer|Zuschlag|Résultat)\s*:?\s*'
-                    r'([€$£]|EUR|USD|GBP|CHF)?\s*([\d.,]+)',
+                    r'(?:Result|Realized|Hammer|Zuschlag|Résultat|Starting price|Estimate)\s*:?\s*'
+                    r'(?:([€$£]|EUR|USD|GBP|CHF)\s*)?([\d.,]+)'
+                    r'(?:\s*(EUR|USD|GBP|CHF))?',
                     item_text, re.IGNORECASE
                 )
                 if m:
-                    currency_raw = (m.group(1) or "EUR").strip()
-                    currency = {"€": "EUR", "$": "USD", "£": "GBP"}.get(currency_raw, currency_raw.upper())
+                    currency_raw = (m.group(1) or m.group(3) or "EUR").strip()
+                    currency = {"€": "EUR", "$": "USD", "£": "GBP"}.get(currency_raw, currency_raw.upper() or "EUR")
                     price, _ = _parse_numisbids_price(m.group(2))
 
-            # 4. Last resort: find any "€/CHF/£ NNN" currency+amount in item text.
-            #    This catches prices shown as plain text like "€ 450" or "CHF 200".
+            # 4. Any "NNN EUR/GBP/CHF/USD" or "€/£ NNN" pattern
             if not price:
                 m = re.search(
-                    r'([€£]|CHF|EUR|GBP|USD|\$)\s*([\d][,\d]*(?:\.\d+)?)',
+                    r'([\d][,\d]*(?:\.\d+)?)\s*(EUR|GBP|CHF|USD)'
+                    r'|([€£\$])\s*([\d][,\d]*(?:\.\d+)?)',
                     item_text
                 )
                 if m:
-                    currency_raw = m.group(1).strip()
-                    currency = {"€": "EUR", "£": "GBP", "$": "USD",
-                                "CHF": "CHF", "EUR": "EUR", "GBP": "GBP", "USD": "USD"}.get(currency_raw, "EUR")
-                    price, _ = _parse_numisbids_price(m.group(2))
+                    if m.group(1):  # amount then currency
+                        currency = m.group(2)
+                        price, _ = _parse_numisbids_price(m.group(1))
+                    else:           # currency symbol then amount
+                        currency = {"€": "EUR", "£": "GBP", "$": "USD"}.get(m.group(3), "EUR")
+                        price, _ = _parse_numisbids_price(m.group(4))
 
-            # Skip if no price found, or suspiciously low for an NGC ancient coin.
-            # Minimum $25 (~23 EUR) — lower than this is almost certainly a
-            # widget value or lot number, not a hammer price.
+            # Skip if no price found or suspiciously low
             if not price or price < 25:
                 return None
 
-            # Sale date — find closest preceding statusbar
+            # Sale date
             sale_date = _find_closest_date(item, sale_dates)
 
             # Image
@@ -191,8 +211,8 @@ class NumisBidsScraper(BaseScraper):
                 if src:
                     image_url = urljoin(BASE_URL, src) if not src.startswith("http") else src
 
-            # Description
-            desc_el = item.select_one("div.browsetext, span.summary")
+            # Description (browsetext-top has the lot/price header; skip it)
+            desc_el = item.select_one("div.browsetext")
             description = desc_el.get_text(separator=" ", strip=True) if desc_el else ""
 
             return RawListing(
@@ -205,7 +225,7 @@ class NumisBidsScraper(BaseScraper):
                 image_url=image_url,
                 source=Source.NUMISBIDS,
                 raw_cert_text=f"{title} {description}",
-                listing_type=ListingType.AUCTION_REALIZED,
+                listing_type=listing_type,
             )
         except Exception as e:
             logger.debug(f"[NumisBids] Parse error: {e}")
