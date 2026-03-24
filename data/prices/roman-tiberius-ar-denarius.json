@@ -8,17 +8,18 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 1,
-  "realized_count": 1,
+  "sale_count": 2,
+  "realized_count": 2,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 950.0,
+    "min": 650.0,
     "max": 950.0
   },
-  "median_price_usd": 950.0,
-  "last_sale_date": "2026-01-16",
+  "median_price_usd": 800.0,
+  "last_sale_date": "2026-03-24",
   "grade_distribution": {
+    "VF": 1,
     "XF": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/862ae0d35afdc0b75ad940637f75495a/img/ponterio/236/image45372.jpg",
@@ -31,6 +32,38 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "cng-01d9d0cf0f16",
+      "source": "cng",
+      "listing_type": "auction_realized",
+      "lot_url": "https://auctions.cngcoins.com/lots/view/4-CBBOSC",
+      "title": "Triton XXVII \u2013 Session 6 Lot: 6017. Tiberius. AD 14-37. AR Denarius (18mm, 3.81 g, 1h). Lugdunum (Lyon) mint. Struck AD 15-16. NGC VF, 4/5, 5/5.",
+      "description": "Roman Imperial, Silver Estimated:\u00a0$   400 Sold\u00a0Price:\u00a0$   650",
+      "hammer_price_usd": 650.0,
+      "currency_original": "USD",
+      "price_original": 650.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-65b6bc15bd22",
       "source": "coinarchives",

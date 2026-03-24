@@ -4,6 +4,8 @@
   "ruler": "Gaulish Tribes",
   "ruler_normalized": "gaulish",
   "dynasty": "Gaul",
+  "ruler_dates": null,
+  "ruler_rarity": null,
   "denomination": "AR Unit",
   "metal": "silver",
   "sale_count": 2,
@@ -20,6 +22,14 @@
     "XF": 2
   },
   "thumbnail_url": null,
+  "median_weight_g": null,
+  "top_strike_score": null,
+  "top_surface_score": null,
+  "top_grade_numeric": null,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
   "sales": [
     {
       "id": "cng-01ef60725480",
@@ -42,7 +52,8 @@
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -73,7 +84,8 @@
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,

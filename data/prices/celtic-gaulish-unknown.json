@@ -4,23 +4,34 @@
   "ruler": "Gaulish Tribes",
   "ruler_normalized": "gaulish",
   "dynasty": "Gaul",
+  "ruler_dates": null,
+  "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "gold",
-  "sale_count": 6,
-  "realized_count": 6,
+  "sale_count": 8,
+  "realized_count": 8,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 650.0,
-    "max": 1000.0
+    "max": 3500.0
   },
-  "median_price_usd": 900.0,
+  "median_price_usd": 925.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
     "VF": 4,
-    "XF": 2
+    "XF": 2,
+    "G": 2
   },
   "thumbnail_url": null,
+  "median_weight_g": null,
+  "top_strike_score": 4,
+  "top_surface_score": 3,
+  "top_grade_numeric": null,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
   "sales": [
     {
       "id": "cng-21465a689906",
@@ -43,7 +54,8 @@
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -74,7 +86,8 @@
         "strike_score": 4,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -105,7 +118,8 @@
         "strike_score": 4,
         "surface_score": 5,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -136,7 +150,8 @@
         "strike_score": 4,
         "surface_score": 3,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -167,7 +182,8 @@
         "strike_score": 3,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -198,7 +214,72 @@
         "strike_score": 4,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "cng-f44346209704",
+      "source": "cng",
+      "listing_type": "auction_realized",
+      "lot_url": "https://auctions.cngcoins.com/lots/view/4-8G4WD7",
+      "title": "Electronic Auction 531 \u2013 Session 1 Lot: 5. GAUL, Northwest. Aulerci Eburovices. Late 3rd-early 2nd century BC. AV Hemistater (16mm, 3.54 g, 9h). NGC graded Ch VF, 4/5, 3/5, edge marks.",
+      "description": "Celtic, Gold Estimated:\u00a0$  2 000 Sold\u00a0Price:\u00a0$  1 500",
+      "hammer_price_usd": 1500.0,
+      "currency_original": "USD",
+      "price_original": 1500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "cng-2a20472d1d03",
+      "source": "cng",
+      "listing_type": "auction_realized",
+      "lot_url": "https://auctions.cngcoins.com/lots/view/4-85Z8TW",
+      "title": "Triton XXVI Lot: 6. GAUL, Northwest. Aulerci Eburovices. Late 3rd-early 2nd century BC. AV Hemistater (16mm, 3.68 g, 11h). NGC graded XF, 5/5, 5/5.",
+      "description": "Celtic, Gold Estimated:\u00a0$  3 000 Sold\u00a0Price:\u00a0$ : 3 500",
+      "hammer_price_usd": 3500.0,
+      "currency_original": "USD",
+      "price_original": 3500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,

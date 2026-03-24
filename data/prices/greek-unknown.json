@@ -7,22 +7,23 @@
   "ruler_dates": null,
   "ruler_rarity": null,
   "denomination": "Unknown",
-  "metal": "unknown",
-  "sale_count": 6,
-  "realized_count": 6,
+  "metal": "silver",
+  "sale_count": 11,
+  "realized_count": 11,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 60.0,
-    "max": 4104.0
+    "max": 5500.0
   },
-  "median_price_usd": 560.92,
-  "last_sale_date": "2026-01-31",
+  "median_price_usd": 250.0,
+  "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "VF": 2,
+    "XF": 2,
+    "VF": 4,
+    "F": 2,
     "AU": 2,
-    "G": 1,
-    "F": 1
+    "G": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/8676a98ed245e26523613bfb9c265f0a/img/marciniak/028/image06012.jpg",
   "median_weight_g": null,
@@ -34,6 +35,166 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "cng-3e6c817969b9",
+      "source": "cng",
+      "listing_type": "auction_realized",
+      "lot_url": "https://auctions.cngcoins.com/lots/view/4-DF1NEQ",
+      "title": "Electronic Auction 561 Lot: 12. CALABRIA, Tarentum. Circa 380-325 BC. AR Diobol (12mm, 8h). NGC XF.",
+      "description": "Greek, Silver Estimated:\u00a0$   100 Sold\u00a0Price:\u00a0$   250",
+      "hammer_price_usd": 250.0,
+      "currency_original": "USD",
+      "price_original": 250.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "cng-55c2f93cf0e0",
+      "source": "cng",
+      "listing_type": "auction_realized",
+      "lot_url": "https://auctions.cngcoins.com/lots/view/4-C76MN5",
+      "title": "Electronic Auction 553 Lot: 17. MACEDON, Akanthos. Circa 430-390 BC. AR Tetrobol (15mm). NGC Ch VF.",
+      "description": "Greek, Silver Estimated:\u00a0$   100 Sold\u00a0Price:\u00a0$ :  140",
+      "hammer_price_usd": 140.0,
+      "currency_original": "USD",
+      "price_original": 140.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "cng-e61fcf4ed85e",
+      "source": "cng",
+      "listing_type": "auction_realized",
+      "lot_url": "https://auctions.cngcoins.com/lots/view/4-C76MN7",
+      "title": "Electronic Auction 553 Lot: 18. KINGS of MACEDON. Perdikkas II. 451-413 BC. AR Tetrobol (13mm, 1.83 g, 6h). Light Macedonian standard. Aigai mint. Struck circa 420-413 BC. NGC Ch VF, 3/5, 4/5.",
+      "description": "Greek, Silver Estimated:\u00a0$   100 Sold\u00a0Price:\u00a0$   140",
+      "hammer_price_usd": 140.0,
+      "currency_original": "USD",
+      "price_original": 140.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 3,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "cng-84a3fbd866ff",
+      "source": "cng",
+      "listing_type": "auction_realized",
+      "lot_url": "https://auctions.cngcoins.com/lots/view/4-C76MN9",
+      "title": "Electronic Auction 553 Lot: 19. KINGS of MACEDON. Perdikkas II. 451-413 BC. AR Tetrobol (14mm, 2.24 g, 12h). Heavy Macedonian standard. Aigai mint(?). Struck circa 432-422 BC. NGC Ch F, 5/5, 2/5, scuff.",
+      "description": "Greek, 12h, Silver Estimated:\u00a0$   100 Sold\u00a0Price:\u00a0$ :  120",
+      "hammer_price_usd": 120.0,
+      "currency_original": "USD",
+      "price_original": 120.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "cng-03d7291ac95f",
+      "source": "cng",
+      "listing_type": "auction_realized",
+      "lot_url": "https://auctions.cngcoins.com/lots/view/4-9K4CFK",
+      "title": "CNG Feature Auction 123 Lot: 16. LUCANIA, Thourioi. Circa 400-350 BC. AR Dinomos \u2013 Distater (24.5mm, 15.54 g, 2h). NGC Ch XF, 5/5, 3/5, Fine Style.",
+      "description": "Greek, Silver Estimated:\u00a0$  3 000 Sold\u00a0Price:\u00a0$  5 500",
+      "hammer_price_usd": 5500.0,
+      "currency_original": "USD",
+      "price_original": 5500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-18e81472079b",
       "source": "coinarchives",

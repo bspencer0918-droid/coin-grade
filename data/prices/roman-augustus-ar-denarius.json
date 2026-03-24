@@ -8,19 +8,19 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 23,
-  "realized_count": 23,
+  "sale_count": 25,
+  "realized_count": 25,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 77.76,
     "max": 16500.0
   },
-  "median_price_usd": 750.0,
-  "last_sale_date": "2026-03-15",
+  "median_price_usd": 800.0,
+  "last_sale_date": "2026-03-24",
   "grade_distribution": {
+    "XF": 10,
     "MS": 6,
-    "XF": 8,
     "VF": 5,
     "AU": 1,
     "G": 3
@@ -35,6 +35,70 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "cng-035b561077cd",
+      "source": "cng",
+      "listing_type": "auction_realized",
+      "lot_url": "https://auctions.cngcoins.com/lots/view/4-FI36QF",
+      "title": "Triton XXVIII \u2013 Session 6 Lot: 6018. Augustus. 27 BC-AD 14. AR Denarius (18mm, 3.89 g, 8h). Lugdunum (Lyon) mint. Struck 2 BC-AD 12. NGC Ch XF, 5/5, 4/5, Fine Style.",
+      "description": "Roman Imperial, Silver Estimated:\u00a0$   500 Sold\u00a0Price:\u00a0$ : 1 100",
+      "hammer_price_usd": 1100.0,
+      "currency_original": "USD",
+      "price_original": 1100.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "cng-1202655e0fe2",
+      "source": "cng",
+      "listing_type": "auction_realized",
+      "lot_url": "https://auctions.cngcoins.com/lots/view/4-CBBORO",
+      "title": "Triton XXVII \u2013 Session 6 Lot: 6005. Augustus. 27 BC-AD 14. AR Denarius (19mm, 3.89 g, 7h). Uncertain Spanish mint (Colonia Patricia?). Struck circa 18-17/16 BC. NGC Ch XF, 4/5, 4/5.",
+      "description": "Roman Imperial, Silver Estimated:\u00a0$   750 Sold\u00a0Price:\u00a0$   950",
+      "hammer_price_usd": 950.0,
+      "currency_original": "USD",
+      "price_original": 950.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-32dda30a4889",
       "source": "coinarchives",
