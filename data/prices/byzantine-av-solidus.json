@@ -6,19 +6,18 @@
   "dynasty": null,
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 46,
+  "sale_count": 45,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 29.21,
+    "min": 1975.0,
     "max": 9793.39
   },
   "median_price_usd": 2495.0,
-  "last_sale_date": "2026-04-11",
+  "last_sale_date": "2026-03-24",
   "grade_distribution": {
     "MS": 15,
     "AU": 15,
-    "XF": 15,
-    "VF": 1
+    "XF": 15
   },
   "thumbnail_url": "https://img.ma-shops.com/gin/pic/thumb/11583_hbr-6815.jpg",
   "sales": [
@@ -1361,36 +1360,6 @@
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "numisbids-3eb46f7f6091",
-      "source": "numisbids",
-      "lot_url": "https://www.numisbids.com/sale/10501/lot/44020",
-      "title": "LEO III & CONSTANTINE V, 717-741. AV Solidus (4.44 gms), Constantinople Mint, 725-732. NGC Ch VF, Strike: 5/5 Surface:...",
-      "description": "LEO III & CONSTANTINE V, 717-741. AV Solidus (4.44 gms), Constantinople Mint, 725-732. NGC Ch VF, Strike: 5/5 Surface:...",
-      "hammer_price_usd": 29.21,
-      "currency_original": "GBP",
-      "price_original": 23.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-04-11",
-      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237/thumb44020.jpg?1774052012",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
         "details_grade": null,
         "certification_url": null
       },
