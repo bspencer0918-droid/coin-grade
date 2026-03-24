@@ -38,23 +38,29 @@ EXCHANGE_RATE_API_KEY = os.getenv("EXCHANGE_RATE_API_KEY", "")
 
 # Rate limiting (seconds between requests per source)
 RATE_LIMITS = {
-    "cng":      2.5,
-    "roma":     3.0,
-    "heritage": 4.0,
-    "ebay":     1.0,   # API, not scraping
-    "vcoins":   2.5,
-    "mashops":  2.5,
-    "ngc":      2.0,   # cert lookup
+    "cng":       2.5,
+    "roma":      3.0,
+    "heritage":  4.0,
+    "ebay":      1.0,   # API, not scraping
+    "vcoins":    2.5,
+    "mashops":   2.5,
+    "numisbids": 2.0,
+    "sixbid":    1.5,   # REST API
+    "hjb":       2.0,   # JSON API
+    "ngc":       2.0,   # cert lookup
 }
 
 # Max pages to scrape per source per run (limits runtime)
 MAX_PAGES = {
-    "cng":      20,
-    "roma":     15,
-    "heritage": 15,
-    "ebay":     50,   # API pages
-    "vcoins":   20,
-    "mashops":  15,
+    "cng":       20,
+    "roma":      15,
+    "heritage":  15,
+    "ebay":      50,   # API pages
+    "vcoins":    20,
+    "mashops":   15,
+    "numisbids": 10,
+    "sixbid":    20,   # 15 results per page via API
+    "hjb":       10,
 }
 
 # Playwright browser config

@@ -30,12 +30,15 @@ class Metal(str, Enum):
 
 
 class Source(str, Enum):
-    CNG      = "cng"
-    ROMA     = "roma"
-    HERITAGE = "heritage"
-    EBAY     = "ebay"
-    VCOINS   = "vcoins"
-    MASHOPS  = "mashops"
+    CNG        = "cng"
+    ROMA       = "roma"
+    HERITAGE   = "heritage"
+    EBAY       = "ebay"
+    VCOINS     = "vcoins"
+    MASHOPS    = "mashops"
+    NUMISBIDS  = "numisbids"
+    SIXBID     = "sixbid"
+    HJB        = "hjb"
 
 
 class NGCGrade(str, Enum):
