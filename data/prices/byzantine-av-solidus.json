@@ -18,44 +18,13 @@
   "median_price_usd": 1500.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "XF": 4,
     "MS": 5,
     "AU": 11,
+    "XF": 4,
     "G": 5
   },
   "thumbnail_url": "https://media.coinarchives.com/6d96d70ea740c374d0306fb77f445821/img/heritage/61557/image25001.jpg",
   "sales": [
-    {
-      "id": "mashops-9bfba1b0c5e8",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9077",
-      "title": "AV Solidus Theodosius II, AD 402-450 Roman Empire, Theodosius II (AD 402-450), AV Solidus, Constantinople, 3rd Offici NGC Ch XF Strike: 5/5 Surface: 2/5",
-      "description": "AV Solidus Theodosius II, AD 402-450 Roman Empire, Theodosius II (AD 402-450), AV Solidus, Constantinople, 3rd Offici NGC Ch XF Strike: 5/5 Surface: 2/5",
-      "hammer_price_usd": 1795.0,
-      "currency_original": "USD",
-      "price_original": 1795.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid9077_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "mashops-aa63be5478fc",
       "source": "mashops",
@@ -131,6 +100,37 @@
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
       "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid9075_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-9bfba1b0c5e8",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=9077",
+      "title": "AV Solidus Theodosius II, AD 402-450 Roman Empire, Theodosius II (AD 402-450), AV Solidus, Constantinople, 3rd Offici NGC Ch XF Strike: 5/5 Surface: 2/5",
+      "description": "AV Solidus Theodosius II, AD 402-450 Roman Empire, Theodosius II (AD 402-450), AV Solidus, Constantinople, 3rd Offici NGC Ch XF Strike: 5/5 Surface: 2/5",
+      "hammer_price_usd": 1795.0,
+      "currency_original": "USD",
+      "price_original": 1795.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid9077_combined.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,

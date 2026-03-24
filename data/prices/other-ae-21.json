@@ -7,9 +7,9 @@
   "ruler_dates": null,
   "denomination": "AE 21",
   "metal": "unknown",
-  "sale_count": 3,
+  "sale_count": 4,
   "realized_count": 2,
-  "fixed_price_count": 1,
+  "fixed_price_count": 2,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 120.0,
@@ -19,6 +19,7 @@
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
     "MS": 1,
+    "VG": 1,
     "AU": 1,
     "XF": 1
   },
@@ -41,6 +42,37 @@
         "verified": false,
         "cert_number": null,
         "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-e49016518f94",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=1660",
+      "title": "AE21 c.2nd Century AD NGC certified Thracian AE 21 with grapes, 2nd century (X41) NGC VG",
+      "description": "AE21 c.2nd Century AD NGC certified Thracian AE 21 with grapes, 2nd century (X41) NGC VG",
+      "hammer_price_usd": 95.0,
+      "currency_original": "USD",
+      "price_original": 95.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid1660_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VG",
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
