@@ -70,18 +70,58 @@ class NumisBidsScraper(BaseScraper):
             link_el = item.select_one("a[href*='/sale/']") or item.select_one("a[href]")
             lot_url = urljoin(BASE_URL, link_el["href"]) if link_el else BASE_URL
 
-            # Price — look for USD estimate in data-message or text
+            # Price — look for realized/hammer price in specific elements.
+            # NumisBids uses span.rateclick as a *currency-conversion widget*, not
+            # a price display; its data-message holds a fixed widget value (e.g. the
+            # exchange rate), NOT the hammer price.  Look for actual price labels first.
             price: float | None = None
-            currency = "USD"
-            rate_el = item.select_one("span.rateclick")
-            if rate_el:
-                # data-message may contain "USD 1,250"
-                msg = rate_el.get("data-message", "") or rate_el.get_text(strip=True)
-                price, currency = _parse_numisbids_price(msg)
-            if price is None:
-                # fallback: any price text in the item
-                price_text = item.get_text()
-                price, currency = _parse_numisbids_price(price_text)
+            currency = "EUR"
+
+            item_text = item.get_text(separator=" ")
+
+            # Log the first item's structure for debugging
+            if getattr(self, "_debug_logged", False) is False:
+                self._debug_logged = True
+                logger.info(f"[NumisBids] First item HTML snippet: {str(item)[:500]}")
+                logger.info(f"[NumisBids] First item text: {item_text[:300]}")
+
+            # 1. Try elements that typically hold the realized price
+            for sel in ["span.result", "div.result", "span.hammer", "span.price",
+                        "td.result", "td.hammer", "div.price"]:
+                el = item.select_one(sel)
+                if el:
+                    price, currency = _parse_numisbids_price(el.get_text(strip=True))
+                    if price and price > 1:
+                        break
+
+            # 2. Try rateclick data-rawvalue or data-eur attributes (actual price attrs)
+            if not price:
+                rate_el = item.select_one("span.rateclick")
+                if rate_el:
+                    raw_val = (rate_el.get("data-eur") or rate_el.get("data-rawvalue")
+                               or rate_el.get("data-price") or "")
+                    if raw_val:
+                        try:
+                            price = float(str(raw_val).replace(",", ""))
+                            currency = "EUR"
+                        except (ValueError, TypeError):
+                            pass
+
+            # 3. Scan item text for "Result|Realized|Hammer: <amount>" patterns
+            if not price:
+                m = re.search(
+                    r'(?:Result|Realized|Hammer|Zuschlag|Résultat)\s*:?\s*'
+                    r'([€$£]|EUR|USD|GBP|CHF)?\s*([\d.,]+)',
+                    item_text, re.IGNORECASE
+                )
+                if m:
+                    currency_raw = (m.group(1) or "EUR").strip()
+                    currency = {"€": "EUR", "$": "USD", "£": "GBP"}.get(currency_raw, currency_raw.upper())
+                    price, _ = _parse_numisbids_price(m.group(2))
+
+            # Skip if price still not found or implausibly low (< $5 is certainly an error)
+            if not price or price < 5:
+                return None
 
             # Sale date — find closest preceding statusbar
             sale_date = _find_closest_date(item, sale_dates)
