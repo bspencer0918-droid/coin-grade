@@ -4,9 +4,13 @@
   "ruler": "Claudius",
   "ruler_normalized": "claudius",
   "dynasty": "Julio-Claudian",
+  "ruler_dates": null,
+  "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
   "sale_count": 1,
+  "realized_count": 0,
+  "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 29.21,
@@ -18,10 +22,19 @@
     "VF": 1
   },
   "thumbnail_url": "https://media.numisbids.com/sales/hosted/heritage/61609/thumb23001.jpg",
+  "median_weight_g": null,
+  "top_strike_score": null,
+  "top_surface_score": null,
+  "top_grade_numeric": null,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
   "sales": [
     {
       "id": "numisbids-70bf0508274e",
       "source": "numisbids",
+      "listing_type": "auction_realized",
       "lot_url": "https://www.numisbids.com/sale/10477/lot/23001",
       "title": "Ancients SYRIA. Antioch. Nero (AD 54-68), with Divus Claudius. AR tetradrachm (26mm, 14.06 gm, 12h). NGC Choice VF 4/5...",
       "description": "Ancients SYRIA. Antioch. Nero (AD 54-68), with Divus Claudius. AR tetradrachm (26mm, 14.06 gm, 12h). NGC Choice VF 4/5...",
@@ -39,7 +52,8 @@
         "strike_score": 4,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,

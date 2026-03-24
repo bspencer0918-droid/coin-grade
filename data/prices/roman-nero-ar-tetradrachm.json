@@ -4,9 +4,13 @@
   "ruler": "Nero",
   "ruler_normalized": "nero",
   "dynasty": "Julio-Claudian",
+  "ruler_dates": null,
+  "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
   "sale_count": 1,
+  "realized_count": 0,
+  "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 29.21,
@@ -18,10 +22,19 @@
     "F": 1
   },
   "thumbnail_url": "https://media.numisbids.com/sales/hosted/heritage/61609/thumb23002.jpg",
+  "median_weight_g": null,
+  "top_strike_score": null,
+  "top_surface_score": null,
+  "top_grade_numeric": null,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
   "sales": [
     {
       "id": "numisbids-80b4decf8aba",
       "source": "numisbids",
+      "listing_type": "auction_realized",
       "lot_url": "https://www.numisbids.com/sale/10477/lot/23002",
       "title": "Ancients SYRIA. Antioch. Nero (AD 54-68). AR tetradrachm (24mm, 12h). NGC Fine. Dated Regnal Year 9 and Year 111 of the...",
       "description": "Ancients SYRIA. Antioch. Nero (AD 54-68). AR tetradrachm (24mm, 12h). NGC Fine. Dated Regnal Year 9 and Year 111 of the...",
@@ -39,7 +52,8 @@
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,

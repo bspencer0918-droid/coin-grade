@@ -4,9 +4,13 @@
   "ruler": null,
   "ruler_normalized": null,
   "dynasty": null,
+  "ruler_dates": null,
+  "ruler_rarity": null,
   "denomination": "AR Siglos",
   "metal": "silver",
   "sale_count": 18,
+  "realized_count": 0,
+  "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 29.21,
@@ -18,10 +22,19 @@
     "VF": 18
   },
   "thumbnail_url": "https://media.numisbids.com/sales/hosted/heritage/61611/thumb21002.jpg",
+  "median_weight_g": null,
+  "top_strike_score": null,
+  "top_surface_score": null,
+  "top_grade_numeric": null,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
   "sales": [
     {
       "id": "numisbids-bc1a799c0063",
       "source": "numisbids",
+      "listing_type": "auction_realized",
       "lot_url": "https://www.numisbids.com/sale/10450/lot/21002",
       "title": "Ancients THRACE. Byzantium. Ca. 350-300 BC. AR half-siglos (14mm, 2.53 gm). NGC VF 3/5 - 4/5. Persic standard. Y\u03a0Y...",
       "description": "Ancients THRACE. Byzantium. Ca. 350-300 BC. AR half-siglos (14mm, 2.53 gm). NGC VF 3/5 - 4/5. Persic standard. Y\u03a0Y...",
@@ -39,7 +52,8 @@
         "strike_score": 3,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -52,6 +66,7 @@
     {
       "id": "numisbids-1000c579a195",
       "source": "numisbids",
+      "listing_type": "auction_realized",
       "lot_url": "https://www.numisbids.com/sale/10450/lot/21003",
       "title": "Ancients PONTUS. Amisus (as Peiraieus). Late 5th-4th centuries BC. AR siglos (18mm, 5.31 gm, 2h). NGC Choice VF 4/5 -...",
       "description": "Ancients PONTUS. Amisus (as Peiraieus). Late 5th-4th centuries BC. AR siglos (18mm, 5.31 gm, 2h). NGC Choice VF 4/5 -...",
@@ -69,7 +84,8 @@
         "strike_score": 4,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -82,6 +98,7 @@
     {
       "id": "numisbids-bc1a799c0063",
       "source": "numisbids",
+      "listing_type": "auction_realized",
       "lot_url": "https://www.numisbids.com/sale/10450/lot/21002",
       "title": "Ancients THRACE. Byzantium. Ca. 350-300 BC. AR half-siglos (14mm, 2.53 gm). NGC VF 3/5 - 4/5. Persic standard. Y\u03a0Y...",
       "description": "Ancients THRACE. Byzantium. Ca. 350-300 BC. AR half-siglos (14mm, 2.53 gm). NGC VF 3/5 - 4/5. Persic standard. Y\u03a0Y...",
@@ -99,7 +116,8 @@
         "strike_score": 3,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -112,6 +130,7 @@
     {
       "id": "numisbids-1000c579a195",
       "source": "numisbids",
+      "listing_type": "auction_realized",
       "lot_url": "https://www.numisbids.com/sale/10450/lot/21003",
       "title": "Ancients PONTUS. Amisus (as Peiraieus). Late 5th-4th centuries BC. AR siglos (18mm, 5.31 gm, 2h). NGC Choice VF 4/5 -...",
       "description": "Ancients PONTUS. Amisus (as Peiraieus). Late 5th-4th centuries BC. AR siglos (18mm, 5.31 gm, 2h). NGC Choice VF 4/5 -...",
@@ -129,7 +148,8 @@
         "strike_score": 4,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -142,6 +162,7 @@
     {
       "id": "numisbids-bc1a799c0063",
       "source": "numisbids",
+      "listing_type": "auction_realized",
       "lot_url": "https://www.numisbids.com/sale/10450/lot/21002",
       "title": "Ancients THRACE. Byzantium. Ca. 350-300 BC. AR half-siglos (14mm, 2.53 gm). NGC VF 3/5 - 4/5. Persic standard. Y\u03a0Y...",
       "description": "Ancients THRACE. Byzantium. Ca. 350-300 BC. AR half-siglos (14mm, 2.53 gm). NGC VF 3/5 - 4/5. Persic standard. Y\u03a0Y...",
@@ -159,7 +180,8 @@
         "strike_score": 3,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -172,6 +194,7 @@
     {
       "id": "numisbids-1000c579a195",
       "source": "numisbids",
+      "listing_type": "auction_realized",
       "lot_url": "https://www.numisbids.com/sale/10450/lot/21003",
       "title": "Ancients PONTUS. Amisus (as Peiraieus). Late 5th-4th centuries BC. AR siglos (18mm, 5.31 gm, 2h). NGC Choice VF 4/5 -...",
       "description": "Ancients PONTUS. Amisus (as Peiraieus). Late 5th-4th centuries BC. AR siglos (18mm, 5.31 gm, 2h). NGC Choice VF 4/5 -...",
@@ -189,7 +212,8 @@
         "strike_score": 4,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -202,6 +226,7 @@
     {
       "id": "numisbids-bc1a799c0063",
       "source": "numisbids",
+      "listing_type": "auction_realized",
       "lot_url": "https://www.numisbids.com/sale/10450/lot/21002",
       "title": "Ancients THRACE. Byzantium. Ca. 350-300 BC. AR half-siglos (14mm, 2.53 gm). NGC VF 3/5 - 4/5. Persic standard. Y\u03a0Y...",
       "description": "Ancients THRACE. Byzantium. Ca. 350-300 BC. AR half-siglos (14mm, 2.53 gm). NGC VF 3/5 - 4/5. Persic standard. Y\u03a0Y...",
@@ -219,7 +244,8 @@
         "strike_score": 3,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -232,6 +258,7 @@
     {
       "id": "numisbids-1000c579a195",
       "source": "numisbids",
+      "listing_type": "auction_realized",
       "lot_url": "https://www.numisbids.com/sale/10450/lot/21003",
       "title": "Ancients PONTUS. Amisus (as Peiraieus). Late 5th-4th centuries BC. AR siglos (18mm, 5.31 gm, 2h). NGC Choice VF 4/5 -...",
       "description": "Ancients PONTUS. Amisus (as Peiraieus). Late 5th-4th centuries BC. AR siglos (18mm, 5.31 gm, 2h). NGC Choice VF 4/5 -...",
@@ -249,7 +276,8 @@
         "strike_score": 4,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -262,6 +290,7 @@
     {
       "id": "numisbids-bc1a799c0063",
       "source": "numisbids",
+      "listing_type": "auction_realized",
       "lot_url": "https://www.numisbids.com/sale/10450/lot/21002",
       "title": "Ancients THRACE. Byzantium. Ca. 350-300 BC. AR half-siglos (14mm, 2.53 gm). NGC VF 3/5 - 4/5. Persic standard. Y\u03a0Y...",
       "description": "Ancients THRACE. Byzantium. Ca. 350-300 BC. AR half-siglos (14mm, 2.53 gm). NGC VF 3/5 - 4/5. Persic standard. Y\u03a0Y...",
@@ -279,7 +308,8 @@
         "strike_score": 3,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -292,6 +322,7 @@
     {
       "id": "numisbids-1000c579a195",
       "source": "numisbids",
+      "listing_type": "auction_realized",
       "lot_url": "https://www.numisbids.com/sale/10450/lot/21003",
       "title": "Ancients PONTUS. Amisus (as Peiraieus). Late 5th-4th centuries BC. AR siglos (18mm, 5.31 gm, 2h). NGC Choice VF 4/5 -...",
       "description": "Ancients PONTUS. Amisus (as Peiraieus). Late 5th-4th centuries BC. AR siglos (18mm, 5.31 gm, 2h). NGC Choice VF 4/5 -...",
@@ -309,7 +340,8 @@
         "strike_score": 4,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -322,6 +354,7 @@
     {
       "id": "numisbids-bc1a799c0063",
       "source": "numisbids",
+      "listing_type": "auction_realized",
       "lot_url": "https://www.numisbids.com/sale/10450/lot/21002",
       "title": "Ancients THRACE. Byzantium. Ca. 350-300 BC. AR half-siglos (14mm, 2.53 gm). NGC VF 3/5 - 4/5. Persic standard. Y\u03a0Y...",
       "description": "Ancients THRACE. Byzantium. Ca. 350-300 BC. AR half-siglos (14mm, 2.53 gm). NGC VF 3/5 - 4/5. Persic standard. Y\u03a0Y...",
@@ -339,7 +372,8 @@
         "strike_score": 3,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -352,6 +386,7 @@
     {
       "id": "numisbids-1000c579a195",
       "source": "numisbids",
+      "listing_type": "auction_realized",
       "lot_url": "https://www.numisbids.com/sale/10450/lot/21003",
       "title": "Ancients PONTUS. Amisus (as Peiraieus). Late 5th-4th centuries BC. AR siglos (18mm, 5.31 gm, 2h). NGC Choice VF 4/5 -...",
       "description": "Ancients PONTUS. Amisus (as Peiraieus). Late 5th-4th centuries BC. AR siglos (18mm, 5.31 gm, 2h). NGC Choice VF 4/5 -...",
@@ -369,7 +404,8 @@
         "strike_score": 4,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -382,6 +418,7 @@
     {
       "id": "numisbids-bc1a799c0063",
       "source": "numisbids",
+      "listing_type": "auction_realized",
       "lot_url": "https://www.numisbids.com/sale/10450/lot/21002",
       "title": "Ancients THRACE. Byzantium. Ca. 350-300 BC. AR half-siglos (14mm, 2.53 gm). NGC VF 3/5 - 4/5. Persic standard. Y\u03a0Y...",
       "description": "Ancients THRACE. Byzantium. Ca. 350-300 BC. AR half-siglos (14mm, 2.53 gm). NGC VF 3/5 - 4/5. Persic standard. Y\u03a0Y...",
@@ -399,7 +436,8 @@
         "strike_score": 3,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -412,6 +450,7 @@
     {
       "id": "numisbids-1000c579a195",
       "source": "numisbids",
+      "listing_type": "auction_realized",
       "lot_url": "https://www.numisbids.com/sale/10450/lot/21003",
       "title": "Ancients PONTUS. Amisus (as Peiraieus). Late 5th-4th centuries BC. AR siglos (18mm, 5.31 gm, 2h). NGC Choice VF 4/5 -...",
       "description": "Ancients PONTUS. Amisus (as Peiraieus). Late 5th-4th centuries BC. AR siglos (18mm, 5.31 gm, 2h). NGC Choice VF 4/5 -...",
@@ -429,7 +468,8 @@
         "strike_score": 4,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -442,6 +482,7 @@
     {
       "id": "numisbids-bc1a799c0063",
       "source": "numisbids",
+      "listing_type": "auction_realized",
       "lot_url": "https://www.numisbids.com/sale/10450/lot/21002",
       "title": "Ancients THRACE. Byzantium. Ca. 350-300 BC. AR half-siglos (14mm, 2.53 gm). NGC VF 3/5 - 4/5. Persic standard. Y\u03a0Y...",
       "description": "Ancients THRACE. Byzantium. Ca. 350-300 BC. AR half-siglos (14mm, 2.53 gm). NGC VF 3/5 - 4/5. Persic standard. Y\u03a0Y...",
@@ -459,7 +500,8 @@
         "strike_score": 3,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -472,6 +514,7 @@
     {
       "id": "numisbids-1000c579a195",
       "source": "numisbids",
+      "listing_type": "auction_realized",
       "lot_url": "https://www.numisbids.com/sale/10450/lot/21003",
       "title": "Ancients PONTUS. Amisus (as Peiraieus). Late 5th-4th centuries BC. AR siglos (18mm, 5.31 gm, 2h). NGC Choice VF 4/5 -...",
       "description": "Ancients PONTUS. Amisus (as Peiraieus). Late 5th-4th centuries BC. AR siglos (18mm, 5.31 gm, 2h). NGC Choice VF 4/5 -...",
@@ -489,7 +532,8 @@
         "strike_score": 4,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -502,6 +546,7 @@
     {
       "id": "numisbids-bc1a799c0063",
       "source": "numisbids",
+      "listing_type": "auction_realized",
       "lot_url": "https://www.numisbids.com/sale/10450/lot/21002",
       "title": "Ancients THRACE. Byzantium. Ca. 350-300 BC. AR half-siglos (14mm, 2.53 gm). NGC VF 3/5 - 4/5. Persic standard. Y\u03a0Y...",
       "description": "Ancients THRACE. Byzantium. Ca. 350-300 BC. AR half-siglos (14mm, 2.53 gm). NGC VF 3/5 - 4/5. Persic standard. Y\u03a0Y...",
@@ -519,7 +564,8 @@
         "strike_score": 3,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
@@ -532,6 +578,7 @@
     {
       "id": "numisbids-1000c579a195",
       "source": "numisbids",
+      "listing_type": "auction_realized",
       "lot_url": "https://www.numisbids.com/sale/10450/lot/21003",
       "title": "Ancients PONTUS. Amisus (as Peiraieus). Late 5th-4th centuries BC. AR siglos (18mm, 5.31 gm, 2h). NGC Choice VF 4/5 -...",
       "description": "Ancients PONTUS. Amisus (as Peiraieus). Late 5th-4th centuries BC. AR siglos (18mm, 5.31 gm, 2h). NGC Choice VF 4/5 -...",
@@ -549,7 +596,8 @@
         "strike_score": 4,
         "surface_score": 4,
         "details_grade": null,
-        "certification_url": null
+        "certification_url": null,
+        "grading_service": "ngc"
       },
       "metadata": {
         "mint": null,
