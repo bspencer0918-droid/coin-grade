@@ -11,6 +11,7 @@ from pathlib import Path
 from typing import Optional
 
 from ..models import Category, Metal
+from .us_coin_classifier import classify_us_coin
 
 _DATA_DIR = Path(__file__).parent.parent / "data"
 
@@ -189,6 +190,16 @@ def classify(title: str, description: str = "") -> dict:
     """
     full = f"{title} {description}"
     text_lower = full.lower()
+
+    # --- US coin detection (runs before ancient classification) ---
+    # US coins are identified by series keywords + a TPG service (NGC/PCGS).
+    # They never match ancient ruler keywords so would otherwise fall to OTHER.
+    us_result = classify_us_coin(full)
+    if us_result:
+        metal        = Metal(us_result["metal"]) if us_result["metal"] in Metal._value2member_map_ else Metal.UNKNOWN
+        us_result["metal"] = metal
+        us_result["category"] = Category.US
+        return us_result
 
     metal        = detect_metal(full)
     denomination = detect_denomination(full)

@@ -23,12 +23,33 @@ logger = logging.getLogger(__name__)
 
 BASE_URL = "https://coins.ha.com"
 
-# Heritage search URL for NGC ancient coins (realized prices)
-SEARCH_URL = (
-    "https://coins.ha.com/c/search-results.zx"
-    "?N=790+231+4294967021+4294966556"  # Ancient coins, NGC graded, sold
-    "&Ntk=SI_Titles-Desc&Ntt=NGC&Nty=1"
-)
+# Heritage search URLs — ancient coins and US coins searched separately
+# N-parameter facets: 790=Coins dept, 231=Ancient category, 4294967021=Realized,
+# 4294966556=additional filter. For US coins we drop the 231 ancient facet and
+# search the full coins category for NGC/PCGS graded lots.
+SEARCH_URLS = [
+    # Ancient coins — NGC graded
+    (
+        "https://coins.ha.com/c/search-results.zx"
+        "?N=790+231+4294967021+4294966556"
+        "&Ntk=SI_Titles-Desc&Ntt=NGC&Nty=1",
+        "ancient/NGC",
+    ),
+    # US coins — NGC graded
+    (
+        "https://coins.ha.com/c/search-results.zx"
+        "?N=790+4294967021+4294966556"
+        "&Ntk=SI_Titles-Desc&Ntt=NGC&Nty=1",
+        "US/NGC",
+    ),
+    # US coins — PCGS graded
+    (
+        "https://coins.ha.com/c/search-results.zx"
+        "?N=790+4294967021+4294966556"
+        "&Ntk=SI_Titles-Desc&Ntt=PCGS&Nty=1",
+        "US/PCGS",
+    ),
+]
 
 
 class HeritageScraper(BaseScraper):
@@ -37,34 +58,37 @@ class HeritageScraper(BaseScraper):
     def scrape(self, max_pages: int = MAX_PAGES["heritage"]) -> Iterator[RawListing]:
         import asyncio
 
-        for page_num in range(1, max_pages + 1):
-            url = f"{SEARCH_URL}&ic__offerPage={page_num}"
-            logger.info(f"[Heritage] Fetching page {page_num}")
-            try:
-                html = asyncio.run(self.fetch_with_browser(url, wait_selector=".item-image, .lot-number, main"))
-            except Exception as e:
-                logger.error(f"[Heritage] Browser fetch failed (likely Cloudflare block): {e}")
-                break
+        pages_per_search = max(max_pages // len(SEARCH_URLS), 10)
 
-            if "Access Denied" in html or "cf-browser-verification" in html:
-                logger.warning("[Heritage] Cloudflare block detected — marking source as blocked")
-                break
+        for search_url, label in SEARCH_URLS:
+            for page_num in range(1, pages_per_search + 1):
+                url = f"{search_url}&ic__offerPage={page_num}"
+                logger.info(f"[Heritage:{label}] Fetching page {page_num}")
+                try:
+                    html = asyncio.run(self.fetch_with_browser(url, wait_selector=".item-image, .lot-number, main"))
+                except Exception as e:
+                    logger.error(f"[Heritage:{label}] Browser fetch failed: {e}")
+                    break
 
-            soup = BeautifulSoup(html, "lxml")
-            items = soup.select("li.result-item, div.lot-item, article.item")
-            if not items:
-                logger.info(f"[Heritage] No items on page {page_num}")
-                break
+                if "Access Denied" in html or "cf-browser-verification" in html:
+                    logger.warning(f"[Heritage:{label}] Cloudflare block — skipping search")
+                    break
 
-            yielded = 0
-            for item in items:
-                listing = self._parse_item(item)
-                if listing:
-                    yield listing
-                    yielded += 1
-            logger.info(f"[Heritage] Page {page_num}: {yielded} listings")
-            if yielded < 5:
-                break
+                soup = BeautifulSoup(html, "lxml")
+                items = soup.select("li.result-item, div.lot-item, article.item")
+                if not items:
+                    logger.info(f"[Heritage:{label}] No items on page {page_num}")
+                    break
+
+                yielded = 0
+                for item in items:
+                    listing = self._parse_item(item)
+                    if listing:
+                        yield listing
+                        yielded += 1
+                logger.info(f"[Heritage:{label}] Page {page_num}: {yielded} listings")
+                if yielded < 5:
+                    break
 
     def _parse_item(self, item) -> RawListing | None:
         try:

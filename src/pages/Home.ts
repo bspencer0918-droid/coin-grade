@@ -5,6 +5,7 @@ import type { Meta, CatalogIndex } from '../types/coin.ts'
 import { href } from '../router.ts'
 
 const CATEGORY_ICONS: Record<string, string> = {
+  us:        '🦅',
   roman:     '🏛️',
   greek:     '⚡',
   byzantine: '✝️',

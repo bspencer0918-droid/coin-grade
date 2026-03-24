@@ -5,7 +5,8 @@ import type { FilterState, Category, Metal, NGCGrade, Source } from '../types/co
 import { NGC_GRADE_ORDER } from '../types/coin.ts'
 
 const CATEGORIES: Array<{ value: Category | ''; label: string }> = [
-  { value: '',          label: 'All Civilizations' },
+  { value: '',          label: 'All'        },
+  { value: 'us',        label: 'US Coins'   },
   { value: 'roman',     label: 'Roman'      },
   { value: 'greek',     label: 'Greek'      },
   { value: 'byzantine', label: 'Byzantine'  },
@@ -78,7 +79,7 @@ export function renderFilterPanel(
         </select>
       </div>
 
-      <!-- Ruler (shown when category is roman or byzantine) -->
+      <!-- Ruler (shown when category is roman or byzantine; hidden for US coins) -->
       <div id="f-ruler-wrap" class="${filters.category === '' || (filters.category !== 'roman' && filters.category !== 'byzantine') ? 'hidden' : ''}">
         <label class="filter-label">Ruler</label>
         <select id="f-ruler" class="filter-select">

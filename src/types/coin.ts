@@ -2,7 +2,7 @@
 // Coin Grade — Shared TypeScript types (mirrors Pydantic models)
 // ============================================================
 
-export type Category    = 'roman' | 'greek' | 'byzantine' | 'persian' | 'celtic' | 'egyptian' | 'other'
+export type Category    = 'roman' | 'greek' | 'byzantine' | 'persian' | 'celtic' | 'egyptian' | 'us' | 'other'
 export type Metal       = 'gold' | 'silver' | 'bronze' | 'billon' | 'electrum' | 'unknown'
 export type Source      = 'cng' | 'heritage' | 'vcoins' | 'mashops' | 'numisbids' | 'sixbid' | 'hjb' | 'coinarchives'
 export type ListingType = 'auction_realized' | 'fixed_price' | 'auction_estimate'
@@ -12,14 +12,15 @@ export type NGCGrade = 'MS' | 'AU' | 'XF' | 'VF' | 'F' | 'VG' | 'G' | 'AG' | 'P'
 export const NGC_GRADE_ORDER: NGCGrade[] = ['MS','AU','XF','VF','F','VG','G','AG','P']
 
 export interface NGCInfo {
-  verified:            boolean           // cert number confirmed via ngccoin.com
+  verified:            boolean           // cert number confirmed via ngccoin.com / pcgs.com
   cert_number:         string | null
   grade:               NGCGrade | null
-  grade_numeric:       number | null     // e.g. 62 in "MS 62"
-  strike_score:        number | null     // 1–5
-  surface_score:       number | null     // 1–5
+  grade_numeric:       number | null     // e.g. 62 in "MS 62", 65 in "MS-65"
+  strike_score:        number | null     // 1–5 (NGC ancients only)
+  surface_score:       number | null     // 1–5 (NGC ancients only)
   details_grade:       string | null     // e.g. "Cleaning" — means coin has issues
   certification_url:   string | null
+  grading_service:     string            // "ngc" | "pcgs"
 }
 
 export interface Sale {
@@ -70,6 +71,12 @@ export interface CoinSummary {
   median_weight_g:     number | null
   top_strike_score:    number | null   // NGC strike score (1–5) of top-grade rep sale
   top_surface_score:   number | null   // NGC surface score (1–5) of top-grade rep sale
+  top_grade_numeric:   number | null   // e.g. 65 for MS-65 (US coins)
+  dominant_service:    string          // "ngc" | "pcgs" | "mixed"
+  // US coin fields
+  series:              string | null   // e.g. "Morgan Dollar"
+  date_struck:         string | null   // e.g. "1921"
+  mint_mark:           string | null   // e.g. "D", "S", "CC", "" = Philadelphia
 }
 
 // Full coin type with complete price history (lazy-loaded per coin)

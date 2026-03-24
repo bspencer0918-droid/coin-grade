@@ -90,25 +90,39 @@ export function renderCoinTable(
 
     const topGrade = NGC_GRADE_ORDER.find(g => coin.grade_distribution[g])
 
-    // White line: "AV Aureus | Commodus (AD 177–192)"
-    const rulerPart = coin.ruler
-      ? ` | ${coin.ruler}${coin.ruler_dates ? ` (${coin.ruler_dates})` : ''}`
-      : ''
+    // White line:
+    //   Ancient: "AV Aureus | Commodus (AD 177–192)"
+    //   US coin: "Morgan Dollar | 1921-D"
+    const isUS = coin.category === 'us'
+    const rulerPart = isUS
+      ? (coin.date_struck
+          ? ` | ${coin.date_struck}${coin.mint_mark ? `-${coin.mint_mark}` : ''}`
+          : '')
+      : coin.ruler
+        ? ` | ${coin.ruler}${coin.ruler_dates ? ` (${coin.ruler_dates})` : ''}`
+        : ''
     const rarityBadge = coin.ruler_rarity === 'scarce'
       ? `<span class="ml-1.5 px-1 py-0.5 rounded text-[10px] border bg-amber-900/40 text-amber-300 border-amber-700 align-middle">Scarce</span>`
       : coin.ruler_rarity === 'common'
         ? `<span class="ml-1.5 px-1 py-0.5 rounded text-[10px] border bg-stone-800 text-stone-500 border-stone-600 align-middle">High Mintage</span>`
         : ''
 
-    // Grey line: "NGC AU 5/5-2/5 (7.13g)" or simpler fallbacks
-    const scoreStr = (coin.top_strike_score != null && coin.top_surface_score != null)
+    // Grey line:
+    //   Ancient NGC: "NGC AU 5/5-2/5 (7.13g)"
+    //   US NGC:      "NGC MS-65"
+    //   US PCGS:     "PCGS MS-65"
+    const svc = (coin.dominant_service ?? 'ngc').toUpperCase()
+    const numericSuffix = (isUS && coin.top_grade_numeric != null)
+      ? `-${coin.top_grade_numeric}`
+      : ''
+    const scoreStr = (!isUS && coin.top_strike_score != null && coin.top_surface_score != null)
       ? ` ${coin.top_strike_score}/5-${coin.top_surface_score}/5`
       : ''
-    const weightStr = coin.median_weight_g != null
+    const weightStr = (!isUS && coin.median_weight_g != null)
       ? ` (${coin.median_weight_g.toFixed(2)}g)`
       : ''
     const gradeSubtitle = topGrade
-      ? `NGC ${topGrade}${scoreStr}${weightStr}`
+      ? `${svc} ${topGrade}${numericSuffix}${scoreStr}${weightStr}`
       : coin.category
 
     return `

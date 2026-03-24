@@ -17,6 +17,7 @@ class Category(str, Enum):
     PERSIAN   = "persian"
     CELTIC    = "celtic"
     EGYPTIAN  = "egyptian"
+    US        = "us"
     OTHER     = "other"
 
 
@@ -66,11 +67,12 @@ class NGCInfo(BaseModel):
     verified:          bool
     cert_number:       Optional[str]  = None
     grade:             Optional[NGCGrade] = None
-    grade_numeric:     Optional[int]  = None   # e.g. 62 in "MS 62"
-    strike_score:      Optional[int]  = None   # 1–5
-    surface_score:     Optional[int]  = None   # 1–5
+    grade_numeric:     Optional[int]  = None   # e.g. 62 in "MS 62", 65 in "MS-65"
+    strike_score:      Optional[int]  = None   # 1–5 (NGC ancients only)
+    surface_score:     Optional[int]  = None   # 1–5 (NGC ancients only)
     details_grade:     Optional[str]  = None   # e.g. "Cleaning"
     certification_url: Optional[str]  = None
+    grading_service:   str            = "ngc"  # "ngc" | "pcgs"
 
 
 class SaleMetadata(BaseModel):
@@ -126,6 +128,12 @@ class CoinSummary(BaseModel):
     median_weight_g:     Optional[float] = None   # median across all sales with weight data
     top_strike_score:    Optional[int]   = None   # NGC strike score (1–5) of top-grade rep sale
     top_surface_score:   Optional[int]   = None   # NGC surface score (1–5) of top-grade rep sale
+    top_grade_numeric:   Optional[int]   = None   # e.g. 65 for MS-65 (US coins)
+    dominant_service:    str             = "ngc"  # "ngc" | "pcgs" | "mixed"
+    # US coin fields
+    series:              Optional[str]   = None   # e.g. "Morgan Dollar"
+    date_struck:         Optional[str]   = None   # e.g. "1921"
+    mint_mark:           Optional[str]   = None   # e.g. "D", "S", "CC", "" = Philadelphia
 
 
 class CoinDetail(CoinSummary):

@@ -31,6 +31,7 @@ from .sources.hjb          import HJBScraper
 from .sources.coinarchives import CoinArchivesScraper
 from .utils.coin_classifier  import classify
 from .utils.ngc_detector     import detect_ngc, verify_cert
+from .utils.pcgs_detector    import detect_pcgs
 from .utils.price_normalizer import load_exchange_rates, to_usd
 from .utils.slab_ocr         import extract_cert_from_image
 
@@ -73,18 +74,26 @@ def raw_to_sale(raw: RawListing, usd_rate_fn=to_usd) -> Sale | None:
 
     ngc = detect_ngc(raw.title, raw.description, raw.raw_cert_text)
 
-    # If we found NGC grade info but no cert number, try OCR on the slab image.
-    # This catches listings (e.g. VCoins, MA Shops) where the cert is only
-    # visible on the label photo and not written in the listing text.
+    # If NGC not found, try PCGS
+    if not ngc.grade and not ngc.cert_number:
+        pcgs = detect_pcgs(raw.title, raw.description, raw.raw_cert_text)
+        if pcgs.grade or pcgs.cert_number:
+            ngc = pcgs   # reuse NGCInfo model; grading_service='pcgs' already set
+
+    # If we found grade info but no cert number, try OCR on the slab image.
     if ngc.grade and not ngc.cert_number and raw.image_url:
         ocr_cert = extract_cert_from_image(raw.image_url)
         if ocr_cert:
             logger.debug(f"[OCR] Cert {ocr_cert} from image, re-running detector")
-            ngc = detect_ngc(raw.title, raw.description,
-                             f"{raw.raw_cert_text} cert {ocr_cert}")
+            if ngc.grading_service == "pcgs":
+                ngc = detect_pcgs(raw.title, raw.description,
+                                  f"{raw.raw_cert_text} cert {ocr_cert}")
+            else:
+                ngc = detect_ngc(raw.title, raw.description,
+                                 f"{raw.raw_cert_text} cert {ocr_cert}")
 
     if not ngc.grade and not ngc.cert_number:
-        return None  # Not NGC — skip
+        return None  # Neither NGC nor PCGS — skip
 
     classification = classify(raw.title, raw.description)
 
@@ -243,6 +252,24 @@ def build_coin_catalog(
                 key=lambda s: s.sale_date, reverse=True,
             )
             rep_sale = scored[0] if scored else None
+            # For US coins: grab numeric grade from any top-grade sale
+            if not rep_sale:
+                any_top = sorted(
+                    [s for s in realized_sales if s.ngc.grade == top_grade_enum and s.ngc.grade_numeric],
+                    key=lambda s: s.sale_date, reverse=True,
+                )
+                rep_sale = any_top[0] if any_top else rep_sale
+
+        # Dominant grading service
+        services = [s.ngc.grading_service for s in sales]
+        ngc_count  = services.count("ngc")
+        pcgs_count = services.count("pcgs")
+        if ngc_count == 0:
+            dominant_service = "pcgs"
+        elif pcgs_count == 0:
+            dominant_service = "ngc"
+        else:
+            dominant_service = "ngc" if ngc_count >= pcgs_count else "pcgs"
 
         # Median weight across all sales that have weight data
         weights = [s.metadata.weight_g for s in sales if s.metadata.weight_g]
@@ -251,11 +278,14 @@ def build_coin_catalog(
         coin_details[slug] = CoinDetail(
             slug=slug,
             category=cls["category"],
-            ruler=cls["ruler"],
-            ruler_normalized=cls["ruler_normalized"],
-            dynasty=cls["dynasty"],
+            ruler=cls.get("ruler"),
+            ruler_normalized=cls.get("ruler_normalized"),
+            dynasty=cls.get("dynasty"),
             ruler_dates=cls.get("ruler_dates"),
             ruler_rarity=cls.get("ruler_rarity"),
+            series=cls.get("series"),
+            date_struck=cls.get("date_struck"),
+            mint_mark=cls.get("mint_mark"),
             denomination=cls["denomination"],
             metal=cls["metal"],
             sale_count=len(sales),
@@ -270,6 +300,8 @@ def build_coin_catalog(
             median_weight_g=median_weight,
             top_strike_score=rep_sale.ngc.strike_score if rep_sale else None,
             top_surface_score=rep_sale.ngc.surface_score if rep_sale else None,
+            top_grade_numeric=rep_sale.ngc.grade_numeric if rep_sale else None,
+            dominant_service=dominant_service,
             sales=sales,
         )
 
@@ -309,6 +341,11 @@ def write_outputs(coin_details: dict[str, CoinDetail], statuses: dict[Source, So
             median_weight_g=c.median_weight_g,
             top_strike_score=c.top_strike_score,
             top_surface_score=c.top_surface_score,
+            top_grade_numeric=c.top_grade_numeric,
+            dominant_service=c.dominant_service,
+            series=c.series,
+            date_struck=c.date_struck,
+            mint_mark=c.mint_mark,
         )
         for c in coin_details.values()
     ]
