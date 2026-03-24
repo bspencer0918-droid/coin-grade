@@ -33,51 +33,67 @@ BASE_URL   = "https://www.ma-shops.com"
 SEARCH_URL = f"{BASE_URL}/shops/search.php"
 
 
+# Search terms that together cover all NGC ancient coin categories on MA Shops.
+# Using multiple targeted searches gets far more results than "NGC ancient" alone.
+SEARCH_TERMS = [
+    "NGC ancient",
+    "NGC roman",
+    "NGC greek",
+    "NGC byzantine",
+    "NGC MS ancient",
+    "NGC AU ancient",
+    "NGC XF ancient",
+    "NGC VF ancient",
+]
+
+
 class MAShopsScraper(BaseScraper):
     source = Source.MASHOPS
 
     def scrape(self, max_pages: int = MAX_PAGES["mashops"]) -> Iterator[RawListing]:
         today = date.today()
+        # pages_per_term so total pages across all searches ≤ max_pages
+        pages_per_term = max(1, max_pages // len(SEARCH_TERMS))
 
-        for page_num in range(1, max_pages + 1):
-            params = {
-                "searchstr": "NGC ancient",
-                "curr":      "USD",
-                "p":         str(page_num),
-            }
-            url = f"{SEARCH_URL}?{urlencode(params)}"
-            logger.info(f"[MA Shops] Fetching page {page_num}: {url}")
-            try:
-                resp = self.fetch(url)
-                soup = BeautifulSoup(resp.text, "lxml")
-            except Exception as e:
-                logger.error(f"[MA Shops] Page {page_num} failed: {e}")
-                break
+        for term in SEARCH_TERMS:
+            logger.info(f"[MA Shops] Starting search: '{term}' (up to {pages_per_term} pages)")
+            for page_num in range(1, pages_per_term + 1):
+                params = {
+                    "searchstr": term,
+                    "curr":      "USD",
+                    "p":         str(page_num),
+                }
+                url = f"{SEARCH_URL}?{urlencode(params)}"
+                logger.info(f"[MA Shops] '{term}' page {page_num}")
+                try:
+                    resp = self.fetch(url)
+                    soup = BeautifulSoup(resp.text, "lxml")
+                except Exception as e:
+                    logger.error(f"[MA Shops] Page {page_num} failed: {e}")
+                    break
 
-            # Table rows that contain listings — each has a spx-title cell
-            rows = soup.select("tr:has(td.spx-title)")
-            if not rows:
-                # Fallback: any row with a spx-thumb image
-                rows = soup.select("tr:has(td.spxThumbTd)")
-            if not rows:
-                logger.info(f"[MA Shops] No items on page {page_num}")
-                break
+                # Table rows that contain listings — each has a spx-title cell
+                rows = soup.select("tr:has(td.spx-title)")
+                if not rows:
+                    rows = soup.select("tr:has(td.spxThumbTd)")
+                if not rows:
+                    logger.info(f"[MA Shops] No items on page {page_num} for '{term}'")
+                    break
 
-            yielded = 0
-            for row in rows:
-                listing = self._parse_row(row, today)
-                if listing:
-                    yield listing
-                    yielded += 1
+                yielded = 0
+                for row in rows:
+                    listing = self._parse_row(row, today)
+                    if listing:
+                        yield listing
+                        yielded += 1
 
-            logger.info(f"[MA Shops] Page {page_num}: {yielded} listings")
-            if yielded < 3:
-                break
+                logger.info(f"[MA Shops] '{term}' page {page_num}: {yielded} listings")
+                if yielded < 3:
+                    break
 
-            # Check if there's a next page
-            next_link = soup.select_one(".spx-navigation-right a")
-            if not next_link:
-                break
+                next_link = soup.select_one(".spx-navigation-right a")
+                if not next_link:
+                    break
 
     def _parse_row(self, row, today: date) -> RawListing | None:
         try:

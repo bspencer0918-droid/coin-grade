@@ -50,17 +50,19 @@ RATE_LIMITS = {
     "ngc":       2.0,   # cert lookup
 }
 
-# Max pages to scrape per source per run (limits runtime)
+# Max pages to scrape per source per run.
+# MA Shops alone has 8+ pages of Roman NGC coins; set high limits and let
+# the scraper stop naturally when pages run out.
 MAX_PAGES = {
-    "cng":       20,
+    "cng":       50,
     "roma":      15,
-    "heritage":  15,
+    "heritage":  30,
     "ebay":      50,   # API pages
-    "vcoins":    20,
-    "mashops":   15,
-    "numisbids": 10,
-    "sixbid":    20,   # 15 results per page via API
-    "hjb":       10,
+    "vcoins":    50,
+    "mashops":   200,  # hundreds of pages across all searches
+    "numisbids": 50,
+    "sixbid":    50,   # 50 results per page via API
+    "hjb":       20,
 }
 
 # Playwright browser config

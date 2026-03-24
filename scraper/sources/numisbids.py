@@ -85,16 +85,16 @@ class NumisBidsScraper(BaseScraper):
                 logger.info(f"[NumisBids] First item HTML snippet: {str(item)[:500]}")
                 logger.info(f"[NumisBids] First item text: {item_text[:300]}")
 
-            # 1. Try elements that typically hold the realized price
+            # 1. Try specific realized-price element classes
             for sel in ["span.result", "div.result", "span.hammer", "span.price",
-                        "td.result", "td.hammer", "div.price"]:
+                        "td.result", "td.hammer", "div.price", "span.priceresult"]:
                 el = item.select_one(sel)
                 if el:
                     price, currency = _parse_numisbids_price(el.get_text(strip=True))
-                    if price and price > 1:
+                    if price and price > 10:
                         break
 
-            # 2. Try rateclick data-rawvalue or data-eur attributes (actual price attrs)
+            # 2. Try rateclick data attributes (site may store raw price here)
             if not price:
                 rate_el = item.select_one("span.rateclick")
                 if rate_el:
@@ -107,7 +107,7 @@ class NumisBidsScraper(BaseScraper):
                         except (ValueError, TypeError):
                             pass
 
-            # 3. Scan item text for "Result|Realized|Hammer: <amount>" patterns
+            # 3. Scan for "Result:|Realized:|Hammer:" label patterns
             if not price:
                 m = re.search(
                     r'(?:Result|Realized|Hammer|Zuschlag|Résultat)\s*:?\s*'
@@ -119,8 +119,23 @@ class NumisBidsScraper(BaseScraper):
                     currency = {"€": "EUR", "$": "USD", "£": "GBP"}.get(currency_raw, currency_raw.upper())
                     price, _ = _parse_numisbids_price(m.group(2))
 
-            # Skip if price still not found or implausibly low (< $5 is certainly an error)
-            if not price or price < 5:
+            # 4. Last resort: find any "€/CHF/£ NNN" currency+amount in item text.
+            #    This catches prices shown as plain text like "€ 450" or "CHF 200".
+            if not price:
+                m = re.search(
+                    r'([€£]|CHF|EUR|GBP|USD|\$)\s*([\d][,\d]*(?:\.\d+)?)',
+                    item_text
+                )
+                if m:
+                    currency_raw = m.group(1).strip()
+                    currency = {"€": "EUR", "£": "GBP", "$": "USD",
+                                "CHF": "CHF", "EUR": "EUR", "GBP": "GBP", "USD": "USD"}.get(currency_raw, "EUR")
+                    price, _ = _parse_numisbids_price(m.group(2))
+
+            # Skip if no price found, or suspiciously low for an NGC ancient coin.
+            # Minimum $25 (~23 EUR) — lower than this is almost certainly a
+            # widget value or lot number, not a hammer price.
+            if not price or price < 25:
                 return None
 
             # Sale date — find closest preceding statusbar
