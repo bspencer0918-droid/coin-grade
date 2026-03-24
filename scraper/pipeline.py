@@ -22,7 +22,6 @@ from .models import (
     Source, SourceStatus,
 )
 from .sources.cng          import CNGScraper
-from .sources.ebay         import EbayScraper
 from .sources.heritage     import HeritageScraper
 from .sources.mashops      import MAShopsScraper
 from .sources.vcoins       import VCoinsScraper
@@ -48,7 +47,6 @@ logger = logging.getLogger(__name__)
 
 SCRAPERS = [
     CNGScraper(),
-    EbayScraper(),
     HeritageScraper(),
     VCoinsScraper(),
     MAShopsScraper(),

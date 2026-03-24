@@ -41,11 +41,6 @@ PRICES_DIR.mkdir(exist_ok=True)
 # NGC cert cache (not committed to repo)
 NGC_CACHE_FILE = ROOT / "scraper" / "ngc_cache.json"
 
-# eBay API
-EBAY_APP_ID  = os.getenv("EBAY_APP_ID",  "")
-EBAY_CERT_ID = os.getenv("EBAY_CERT_ID", "")
-EBAY_DEV_ID  = os.getenv("EBAY_DEV_ID",  "")
-
 # Exchange rate API
 EXCHANGE_RATE_API_KEY = os.getenv("EXCHANGE_RATE_API_KEY", "")
 
@@ -54,7 +49,6 @@ RATE_LIMITS = {
     "cng":          2.5,
     "roma":         3.0,
     "heritage":     4.0,
-    "ebay":         1.0,   # API, not scraping
     "vcoins":       2.5,
     "mashops":      2.5,
     "numisbids":    2.0,
@@ -71,7 +65,6 @@ MAX_PAGES = {
     "cng":          120,  # ~120 auctions ≈ 4 years of archive
     "roma":         15,
     "heritage":     50,
-    "ebay":         50,   # API pages (100 items each)
     "vcoins":       50,
     "mashops":      200,  # hundreds of pages across all searches
     "numisbids":    100,  # date-cutoff stops this early

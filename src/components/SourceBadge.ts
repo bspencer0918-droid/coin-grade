@@ -6,7 +6,6 @@ import type { Source } from '../types/coin.ts'
 const SOURCE_STYLES: Record<Source, string> = {
   cng:          'bg-amber-900/60  text-amber-300  border-amber-700',
   heritage:     'bg-blue-900/60   text-blue-300   border-blue-700',
-  ebay:         'bg-yellow-900/60 text-yellow-300 border-yellow-700',
   vcoins:       'bg-green-900/60  text-green-300  border-green-700',
   mashops:      'bg-purple-900/60 text-purple-300 border-purple-700',
   numisbids:    'bg-cyan-900/60   text-cyan-300   border-cyan-700',
@@ -18,7 +17,6 @@ const SOURCE_STYLES: Record<Source, string> = {
 const SOURCE_LABELS: Record<Source, string> = {
   cng:          'CNG',
   heritage:     'Heritage',
-  ebay:         'eBay',
   vcoins:       'VCoins',
   mashops:      'MA Shops',
   numisbids:    'NumisBids',

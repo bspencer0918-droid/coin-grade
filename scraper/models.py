@@ -33,7 +33,6 @@ class Source(str, Enum):
     CNG          = "cng"
     ROMA         = "roma"
     HERITAGE     = "heritage"
-    EBAY         = "ebay"
     VCOINS       = "vcoins"
     MASHOPS      = "mashops"
     NUMISBIDS    = "numisbids"

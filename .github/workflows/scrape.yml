@@ -38,9 +38,6 @@ jobs:
 
       - name: Run scraper pipeline
         env:
-          EBAY_APP_ID:           ${{ secrets.EBAY_APP_ID }}
-          EBAY_CERT_ID:          ${{ secrets.EBAY_CERT_ID }}
-          EBAY_DEV_ID:           ${{ secrets.EBAY_DEV_ID }}
           EXCHANGE_RATE_API_KEY: ${{ secrets.EXCHANGE_RATE_API_KEY }}
         run: python -m scraper.pipeline
 
