@@ -8,6 +8,7 @@ from __future__ import annotations
 import hashlib
 import json
 import logging
+import re
 import statistics
 import sys
 from collections import defaultdict
@@ -33,7 +34,7 @@ from .utils.coin_classifier  import classify
 from .utils.ngc_detector     import detect_ngc, verify_cert
 from .utils.pcgs_detector    import detect_pcgs
 from .utils.price_normalizer import load_exchange_rates, to_usd
-from .utils.slab_ocr         import extract_cert_from_image
+from .utils.slab_ocr         import extract_cert_from_image, extract_label_from_image
 
 logging.basicConfig(
     level=logging.INFO,
@@ -80,27 +81,82 @@ def raw_to_sale(raw: RawListing, usd_rate_fn=to_usd) -> Sale | None:
         if pcgs.grade or pcgs.cert_number:
             ngc = pcgs   # reuse NGCInfo model; grading_service='pcgs' already set
 
-    # If we found grade info but no cert number, try OCR on the slab image.
-    if ngc.grade and not ngc.cert_number and raw.image_url:
-        ocr_cert = extract_cert_from_image(raw.image_url)
-        if ocr_cert:
-            logger.debug(f"[OCR] Cert {ocr_cert} from image, re-running detector")
+    # Run OCR on the slab image to extract all label fields.
+    # This fills in cert number, grade, scores, weight, region, denomination,
+    # and obv/rev description directly from the label photo.
+    ocr_label = None
+    if raw.image_url:
+        ocr_label = extract_label_from_image(raw.image_url)
+
+        if ocr_label.found_anything:
+            # Build an enriched cert text and re-run NGC detection
+            ocr_extra = " ".join(filter(None, [
+                f"NGC {ocr_label.grade}" if ocr_label.grade else "",
+                f"cert {ocr_label.cert_number}" if ocr_label.cert_number else "",
+                ocr_label.denomination,
+                ocr_label.region,
+                ocr_label.date_struck,
+                ocr_label.obv_rev_desc,
+            ]))
+            enriched_cert_text = f"{raw.raw_cert_text} {ocr_extra}"
+
             if ngc.grading_service == "pcgs":
-                ngc = detect_pcgs(raw.title, raw.description,
-                                  f"{raw.raw_cert_text} cert {ocr_cert}")
+                ngc = detect_pcgs(raw.title, raw.description, enriched_cert_text)
             else:
-                ngc = detect_ngc(raw.title, raw.description,
-                                 f"{raw.raw_cert_text} cert {ocr_cert}")
+                ngc = detect_ngc(raw.title, raw.description, enriched_cert_text)
+
+            # If OCR found grade/scores directly, apply them even if text detector missed
+            if ocr_label.grade and not ngc.grade:
+                from .models import NGCGrade
+                grade_map = {"MS": NGCGrade.MS, "AU": NGCGrade.AU, "XF": NGCGrade.XF,
+                             "EF": NGCGrade.XF, "VF": NGCGrade.VF, "F": NGCGrade.F,
+                             "VG": NGCGrade.VG, "G": NGCGrade.G, "AG": NGCGrade.AG}
+                parsed_grade = grade_map.get(ocr_label.grade.upper())
+                if parsed_grade:
+                    ngc = ngc.model_copy(update={"grade": parsed_grade})
+
+            if ocr_label.cert_number and not ngc.cert_number:
+                ngc = ngc.model_copy(update={"cert_number": ocr_label.cert_number})
+            if ocr_label.strike_score and not ngc.strike_score:
+                ngc = ngc.model_copy(update={"strike_score": ocr_label.strike_score})
+            if ocr_label.surface_score and not ngc.surface_score:
+                ngc = ngc.model_copy(update={"surface_score": ocr_label.surface_score})
+            if ocr_label.details_note and not ngc.details_grade:
+                ngc = ngc.model_copy(update={"details_grade": ocr_label.details_note})
 
     if not ngc.grade and not ngc.cert_number:
         return None  # Neither NGC nor PCGS — skip
 
     classification = classify(raw.title, raw.description)
 
+    # Supplement classification with OCR label data when text parsing missed it
+    if ocr_label:
+        if ocr_label.date_struck and not classification.get("date_struck"):
+            classification["date_struck"] = ocr_label.date_struck
+        if ocr_label.region and not classification.get("mint"):
+            classification["mint"] = ocr_label.region
+        if ocr_label.denomination and not classification.get("denomination"):
+            classification["denomination"] = ocr_label.denomination
+
     price_usd = usd_rate_fn(raw.price, raw.currency)
 
     # Stable ID: hash of source + lot_url
     sale_id = f"{raw.source.value}-{hashlib.md5(raw.lot_url.encode()).hexdigest()[:12]}"
+
+    # Populate SaleMetadata from OCR label fields
+    metadata = SaleMetadata(
+        mint=ocr_label.region if ocr_label else None,
+        weight_g=ocr_label.weight_g if ocr_label else None,
+        obverse_desc=None,
+        reverse_desc=None,
+    )
+    # Split "obv Apollo, rv lion head" into separate fields if possible
+    if ocr_label and ocr_label.obv_rev_desc:
+        obv_rv = ocr_label.obv_rev_desc
+        rv_split = re.split(r'\brv\b|\brev\b', obv_rv, maxsplit=1, flags=re.IGNORECASE)
+        metadata.obverse_desc = rv_split[0].strip().lstrip("obv").strip(" ,") if rv_split else obv_rv
+        if len(rv_split) > 1:
+            metadata.reverse_desc = rv_split[1].strip()
 
     sale = Sale(
         id=sale_id,
@@ -116,7 +172,7 @@ def raw_to_sale(raw: RawListing, usd_rate_fn=to_usd) -> Sale | None:
         sale_date=raw.sale_date or datetime.now(timezone.utc).date(),
         image_url=raw.image_url,
         ngc=ngc,
-        metadata=SaleMetadata(),
+        metadata=metadata,
     )
     return sale, classification
 
