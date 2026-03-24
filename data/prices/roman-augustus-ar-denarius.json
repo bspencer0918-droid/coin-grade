@@ -5,11 +5,12 @@
   "ruler_normalized": "augustus",
   "dynasty": "Julio-Claudian",
   "ruler_dates": "27 BC \u2013 AD 14",
+  "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 25,
+  "sale_count": 24,
   "realized_count": 23,
-  "fixed_price_count": 2,
+  "fixed_price_count": 1,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 77.76,
@@ -18,7 +19,6 @@
   "median_price_usd": 750.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "F": 1,
     "VF": 6,
     "MS": 6,
     "XF": 8,
@@ -27,37 +27,6 @@
   },
   "thumbnail_url": "https://media.coinarchives.com/264e72d30b4c1ae7f55f57038f2f8e62/img/heritage/61605/image23133.jpg",
   "sales": [
-    {
-      "id": "mashops-2967a6fd622a",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8153",
-      "title": "AR Denarius Augustus, 27 BC-AD 14 Augustus (27 BC-AD 14). AR denarius (18mm, 3.63 gm, 6h). NGC Choice Fine 5/5 - 2 NGC Ch F Strike: 5/5 Surface: 2/5",
-      "description": "AR Denarius Augustus, 27 BC-AD 14 Augustus (27 BC-AD 14). AR denarius (18mm, 3.63 gm, 6h). NGC Choice Fine 5/5 - 2 NGC Ch F Strike: 5/5 Surface: 2/5",
-      "hammer_price_usd": 675.0,
-      "currency_original": "USD",
-      "price_original": 675.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8153_combined.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "F",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "mashops-85610b5d59d3",
       "source": "mashops",

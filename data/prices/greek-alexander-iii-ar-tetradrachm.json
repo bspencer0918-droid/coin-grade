@@ -5,6 +5,7 @@
   "ruler_normalized": "alexander-iii",
   "dynasty": "Macedonian",
   "ruler_dates": null,
+  "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
   "sale_count": 13,
@@ -18,8 +19,8 @@
   "median_price_usd": 2500.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "XF": 2,
     "VF": 4,
+    "XF": 2,
     "MS": 3,
     "AU": 2,
     "P": 1,
@@ -27,37 +28,6 @@
   },
   "thumbnail_url": "https://media.coinarchives.com/1a12d69fc4ee3707d703a10c7af8c68c/img/heritage/61596/image21018.jpg",
   "sales": [
-    {
-      "id": "mashops-73a82585e092",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/ritter/item.php?id=72443",
-      "title": "Tetradrachm 328-320 BC Kingdom of Macedonia, Alexander III, the Great, 336-323 BC good extremely fine / extremely fine, NGC XF 5/5 4",
-      "description": "Tetradrachm 328-320 BC Kingdom of Macedonia, Alexander III, the Great, 336-323 BC good extremely fine / extremely fine, NGC XF 5/5 4",
-      "hammer_price_usd": 1740.36,
-      "currency_original": "USD",
-      "price_original": 1740.36,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/ritter/pic/thumb/72443.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "mashops-2e41f0f48876",
       "source": "mashops",
@@ -78,6 +48,37 @@
         "grade_numeric": 4,
         "strike_score": 4,
         "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-73a82585e092",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/ritter/item.php?id=72443",
+      "title": "Tetradrachm 328-320 BC Kingdom of Macedonia, Alexander III, the Great, 336-323 BC good extremely fine / extremely fine, NGC XF 5/5 4",
+      "description": "Tetradrachm 328-320 BC Kingdom of Macedonia, Alexander III, the Great, 336-323 BC good extremely fine / extremely fine, NGC XF 5/5 4",
+      "hammer_price_usd": 1740.36,
+      "currency_original": "USD",
+      "price_original": 1740.36,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/ritter/pic/thumb/72443.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
         "details_grade": null,
         "certification_url": null
       },

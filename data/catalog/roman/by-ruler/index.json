@@ -18,7 +18,7 @@
       "name": "Augustus",
       "slug": "augustus",
       "reign": "",
-      "sale_count": 12,
+      "sale_count": 11,
       "data_url": "roman/by-ruler/augustus.json"
     },
     {
@@ -67,14 +67,14 @@
       "name": "Elagabalus",
       "slug": "elagabalus",
       "reign": "",
-      "sale_count": 3,
+      "sale_count": 2,
       "data_url": "roman/by-ruler/elagabalus.json"
     },
     {
       "name": "Gallienus",
       "slug": "gallienus",
       "reign": "",
-      "sale_count": 1,
+      "sale_count": 2,
       "data_url": "roman/by-ruler/gallienus.json"
     },
     {
@@ -162,13 +162,6 @@
       "data_url": "roman/by-ruler/philip-i.json"
     },
     {
-      "name": "Severus Alexander",
-      "slug": "severus-alexander",
-      "reign": "",
-      "sale_count": 1,
-      "data_url": "roman/by-ruler/severus-alexander.json"
-    },
-    {
       "name": "Theodosius I",
       "slug": "theodosius-i",
       "reign": "",
@@ -195,6 +188,13 @@
       "reign": "",
       "sale_count": 2,
       "data_url": "roman/by-ruler/vespasian.json"
+    },
+    {
+      "name": "Vitellius",
+      "slug": "vitellius",
+      "reign": "",
+      "sale_count": 1,
+      "data_url": "roman/by-ruler/vitellius.json"
     }
   ]
 }

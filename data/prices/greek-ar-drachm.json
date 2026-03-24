@@ -5,6 +5,7 @@
   "ruler_normalized": null,
   "dynasty": null,
   "ruler_dates": null,
+  "ruler_rarity": null,
   "denomination": "AR Drachm",
   "metal": "silver",
   "sale_count": 46,
@@ -19,9 +20,8 @@
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
     "AU": 11,
-    "VG": 1,
     "MS": 5,
-    "XF": 13,
+    "XF": 14,
     "VF": 12,
     "G": 4
   },
@@ -78,37 +78,6 @@
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-95195726ed62",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=604",
-      "title": "AR Drachm Phraates IV, c.38-2 BC  NGC VG",
-      "description": "AR Drachm Phraates IV, c.38-2 BC  NGC VG",
-      "hammer_price_usd": 89.25,
-      "currency_original": "USD",
-      "price_original": 89.25,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/treewalk/pic/thumb/604_v1o_-_1_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VG",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
         "details_grade": null,
         "certification_url": null
       },
@@ -183,130 +152,6 @@
       }
     },
     {
-      "id": "mashops-eba209a3a650",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/cdma/item.php?id=1021645",
-      "title": "Drachm ca. 550-510 BC Sybaris Lucania, Sybaris, Pedigree, Silver, NGC Ch XF 5/5-2/5",
-      "description": "Drachm ca. 550-510 BC Sybaris Lucania, Sybaris, Pedigree, Silver, NGC Ch XF 5/5-2/5",
-      "hammer_price_usd": 4118.85,
-      "currency_original": "USD",
-      "price_original": 4118.85,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/cdma/pic/thumb/1021645.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-7feb12073f85",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8608",
-      "title": "AR Drachm c.2nd Century BC IONIA. Ephesus. Ca. 2nd century BC. AR drachm (19mm, 12h). NGC VF. Metrodorus, m NGC VF",
-      "description": "AR Drachm c.2nd Century BC IONIA. Ephesus. Ca. 2nd century BC. AR drachm (19mm, 12h). NGC VF. Metrodorus, m NGC VF",
-      "hammer_price_usd": 975.0,
-      "currency_original": "USD",
-      "price_original": 975.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/8608_1.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-bea12807c9e3",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/nazzi/item.php?id=16",
-      "title": "AR Drachm c. 500-450 BC Mysia - Parion - Civic and semi-autonomous coinage NGC XF",
-      "description": "AR Drachm c. 500-450 BC Mysia - Parion - Civic and semi-autonomous coinage NGC XF",
-      "hammer_price_usd": 440.89,
-      "currency_original": "USD",
-      "price_original": 440.89,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/nazzi/pic/thumb/16_n152a_co.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-ee588bacb1eb",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/nazzi/item.php?id=17",
-      "title": "AR Drachm c. 500-450 BC Mysia - Parion - Civic and semi-autonomous coinage NGC Ch VF",
-      "description": "AR Drachm c. 500-450 BC Mysia - Parion - Civic and semi-autonomous coinage NGC Ch VF",
-      "hammer_price_usd": 382.88,
-      "currency_original": "USD",
-      "price_original": 382.88,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/nazzi/pic/thumb/17_n152b_co.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "mashops-ab142bfc3f18",
       "source": "mashops",
       "listing_type": "fixed_price",
@@ -369,6 +214,68 @@
       }
     },
     {
+      "id": "mashops-bea12807c9e3",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/nazzi/item.php?id=16",
+      "title": "AR Drachm c. 500-450 BC Mysia - Parion - Civic and semi-autonomous coinage NGC XF",
+      "description": "AR Drachm c. 500-450 BC Mysia - Parion - Civic and semi-autonomous coinage NGC XF",
+      "hammer_price_usd": 440.89,
+      "currency_original": "USD",
+      "price_original": 440.89,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/nazzi/pic/thumb/16_n152a_co.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-eba209a3a650",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/cdma/item.php?id=1021645",
+      "title": "Drachm ca. 550-510 BC Sybaris Lucania, Sybaris, Pedigree, Silver, NGC Ch XF 5/5-2/5",
+      "description": "Drachm ca. 550-510 BC Sybaris Lucania, Sybaris, Pedigree, Silver, NGC Ch XF 5/5-2/5",
+      "hammer_price_usd": 4118.85,
+      "currency_original": "USD",
+      "price_original": 4118.85,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/cdma/pic/thumb/1021645.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "mashops-09ace013476a",
       "source": "mashops",
       "listing_type": "fixed_price",
@@ -381,6 +288,37 @@
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
       "image_url": "https://img.ma-shops.com/cdma/pic/thumb/1067752.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-7aeff6b2eb87",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/pollandt/item.php?id=84528",
+      "title": "AR Drachm Mithradates II,c.121-91BC Tolle Erhaltung, Quality NGC XF",
+      "description": "AR Drachm Mithradates II,c.121-91BC Tolle Erhaltung, Quality NGC XF",
+      "hammer_price_usd": 462.94,
+      "currency_original": "USD",
+      "price_original": 462.94,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/pollandt/pic/thumb/artid84528_combined.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
@@ -416,6 +354,68 @@
         "verified": false,
         "cert_number": null,
         "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-ee588bacb1eb",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/nazzi/item.php?id=17",
+      "title": "AR Drachm c. 500-450 BC Mysia - Parion - Civic and semi-autonomous coinage NGC Ch VF",
+      "description": "AR Drachm c. 500-450 BC Mysia - Parion - Civic and semi-autonomous coinage NGC Ch VF",
+      "hammer_price_usd": 382.88,
+      "currency_original": "USD",
+      "price_original": 382.88,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/nazzi/pic/thumb/17_n152b_co.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-7feb12073f85",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8608",
+      "title": "AR Drachm c.2nd Century BC IONIA. Ephesus. Ca. 2nd century BC. AR drachm (19mm, 12h). NGC VF. Metrodorus, m NGC VF",
+      "description": "AR Drachm c.2nd Century BC IONIA. Ephesus. Ca. 2nd century BC. AR drachm (19mm, 12h). NGC VF. Metrodorus, m NGC VF",
+      "hammer_price_usd": 975.0,
+      "currency_original": "USD",
+      "price_original": 975.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/8608_1.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,

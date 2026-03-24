@@ -5,11 +5,12 @@
   "ruler_normalized": null,
   "dynasty": null,
   "ruler_dates": null,
+  "ruler_rarity": null,
   "denomination": "AE 18",
   "metal": "unknown",
-  "sale_count": 3,
+  "sale_count": 2,
   "realized_count": 1,
-  "fixed_price_count": 2,
+  "fixed_price_count": 1,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 60.0,
@@ -18,8 +19,7 @@
   "median_price_usd": 60.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "XF": 2,
-    "VG": 1
+    "XF": 2
   },
   "thumbnail_url": "https://media.coinarchives.com/5fff62f486377c2345d102a9246a3204/img/ponterio/236/image45443.jpg",
   "sales": [
@@ -40,37 +40,6 @@
         "verified": false,
         "cert_number": null,
         "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": null
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "mashops-bf8eb2e4e28b",
-      "source": "mashops",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=1410",
-      "title": "AE18 Sev.Alexander, AD 222-235  NGC VG",
-      "description": "AE18 Sev.Alexander, AD 222-235  NGC VG",
-      "hammer_price_usd": 60.0,
-      "currency_original": "USD",
-      "price_original": 60.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-24",
-      "image_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid1410_ngc6828080-006_obv_c.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VG",
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
