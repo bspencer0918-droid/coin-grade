@@ -15,7 +15,7 @@ from typing import Iterator
 
 import httpx
 
-from ..models import RawListing, Source
+from ..models import ListingType, RawListing, Source
 from ..config import EBAY_APP_ID, MAX_PAGES
 from .base import BaseScraper
 
@@ -133,7 +133,7 @@ class EbayScraper(BaseScraper):
                 image_url=image_url,
                 source=Source.EBAY,
                 raw_cert_text=raw_cert,
-                is_auction=True,
+                listing_type=ListingType.AUCTION_REALIZED,
             )
         except Exception as e:
             logger.debug(f"[eBay] Parse error: {e}")

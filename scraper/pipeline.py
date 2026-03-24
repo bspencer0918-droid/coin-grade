@@ -17,7 +17,7 @@ from typing import Iterator
 
 from .config import DATA_DIR, CATALOG_DIR, PRICES_DIR, EXCHANGE_RATE_API_KEY
 from .models import (
-    Category, CoinDetail, CoinSummary, Meta, NGCGrade,
+    Category, CoinDetail, CoinSummary, ListingType, Meta, NGCGrade,
     NGC_GRADE_ORDER, PriceRange, RawListing, Sale, SaleMetadata,
     Source, SourceStatus,
 )
@@ -84,6 +84,7 @@ def raw_to_sale(raw: RawListing, usd_rate_fn=to_usd) -> Sale | None:
     sale = Sale(
         id=sale_id,
         source=raw.source,
+        listing_type=raw.listing_type,
         lot_url=raw.lot_url,
         title=raw.title,
         description=raw.description,
@@ -154,7 +155,13 @@ def build_coin_catalog(
         sales   = [s for s, _ in items]
         cls     = items[0][1]          # use classification from first sale
 
-        prices  = [s.hammer_price_usd for s in sales]
+        all_prices      = [s.hammer_price_usd for s in sales]
+        realized_sales  = [s for s in sales if s.listing_type == ListingType.AUCTION_REALIZED]
+        realized_prices = [s.hammer_price_usd for s in realized_sales]
+        fixed_count     = sum(1 for s in sales if s.listing_type == ListingType.FIXED_PRICE)
+
+        # Use only realized auction prices for median/range — asking prices skew stats
+        price_source = realized_prices if realized_prices else all_prices
         dates   = sorted([s.sale_date.isoformat() for s in sales], reverse=True)
 
         grade_dist: dict[str, int] = defaultdict(int)
@@ -164,8 +171,10 @@ def build_coin_catalog(
 
         ngc_verified = sum(1 for s in sales if s.ngc.verified)
 
-        # Thumbnail: first available image
-        thumbnail = next((s.image_url for s in sales if s.image_url), None)
+        # Thumbnail: prefer realized sale images (more likely to be coin photos)
+        thumbnail = next((s.image_url for s in realized_sales if s.image_url), None)
+        if not thumbnail:
+            thumbnail = next((s.image_url for s in sales if s.image_url), None)
 
         coin_details[slug] = CoinDetail(
             slug=slug,
@@ -176,9 +185,11 @@ def build_coin_catalog(
             denomination=cls["denomination"],
             metal=cls["metal"],
             sale_count=len(sales),
+            realized_count=len(realized_sales),
+            fixed_price_count=fixed_count,
             ngc_verified_count=ngc_verified,
-            price_range_usd=PriceRange(min=min(prices), max=max(prices)) if prices else None,
-            median_price_usd=statistics.median(prices) if prices else 0.0,
+            price_range_usd=PriceRange(min=min(price_source), max=max(price_source)) if price_source else None,
+            median_price_usd=statistics.median(price_source) if price_source else 0.0,
             last_sale_date=dates[0] if dates else "",
             grade_distribution=dict(grade_dist),
             thumbnail_url=thumbnail,
@@ -211,7 +222,9 @@ def write_outputs(coin_details: dict[str, CoinDetail], statuses: dict[Source, So
             slug=c.slug, category=c.category, ruler=c.ruler,
             ruler_normalized=c.ruler_normalized, dynasty=c.dynasty,
             denomination=c.denomination, metal=c.metal,
-            sale_count=c.sale_count, ngc_verified_count=c.ngc_verified_count,
+            sale_count=c.sale_count, realized_count=c.realized_count,
+            fixed_price_count=c.fixed_price_count,
+            ngc_verified_count=c.ngc_verified_count,
             price_range_usd=c.price_range_usd, median_price_usd=c.median_price_usd,
             last_sale_date=c.last_sale_date, grade_distribution=c.grade_distribution,
             thumbnail_url=c.thumbnail_url,

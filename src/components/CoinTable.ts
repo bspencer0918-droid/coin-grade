@@ -71,6 +71,9 @@ export function renderCoinTable(
     const range  = coin.price_range_usd
       ? `$${coin.price_range_usd.min.toLocaleString()} – $${coin.price_range_usd.max.toLocaleString()}`
       : '—'
+    const forSaleNote = (coin.fixed_price_count ?? 0) > 0
+      ? `<div class="text-xs text-sky-500 mt-0.5">${coin.fixed_price_count} for sale</div>`
+      : ''
     const isCustomThumb = coin.denomination === 'AR Tetradrachm'
     const thumbSrc = isCustomThumb ? '/coin-grade/ar-tetradrachm.jpg' : coin.thumbnail_url
     const thumbClass = isCustomThumb
@@ -98,6 +101,7 @@ export function renderCoinTable(
         <td class="table-cell">
           <div class="text-gold-300 font-mono">${price}</div>
           <div class="text-xs text-stone-600">${range}</div>
+          ${forSaleNote}
         </td>
         <td class="table-cell text-stone-400 text-xs">${coin.last_sale_date}</td>
         <td class="table-cell text-stone-400 text-center">${coin.sale_count}</td>
@@ -150,7 +154,7 @@ export function renderCoinTable(
               ${col('Ruler', 'ruler', filters.sortBy, filters.sortDir)}
               <th class="table-header">Metal</th>
               <th class="table-header">Top Grades</th>
-              ${col('Median Price', 'median_price_usd', filters.sortBy, filters.sortDir)}
+              ${col('Median Hammer', 'median_price_usd', filters.sortBy, filters.sortDir)}
               ${col('Last Sale', 'last_sale_date', filters.sortBy, filters.sortDir)}
               ${col('Sales', 'sale_count', filters.sortBy, filters.sortDir)}
               <th class="table-header" title="NGC cert verified">✓</th>

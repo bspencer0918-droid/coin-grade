@@ -41,6 +41,12 @@ class Source(str, Enum):
     HJB        = "hjb"
 
 
+class ListingType(str, Enum):
+    AUCTION_REALIZED = "auction_realized"   # Hammer price from a completed auction
+    FIXED_PRICE      = "fixed_price"        # Dealer asking price (not a sale)
+    AUCTION_ESTIMATE = "auction_estimate"   # Pre-sale estimate, no transaction yet
+
+
 class NGCGrade(str, Enum):
     MS = "MS"
     AU = "AU"
@@ -79,6 +85,7 @@ class SaleMetadata(BaseModel):
 class Sale(BaseModel):
     id:                      str
     source:                  Source
+    listing_type:            ListingType = ListingType.AUCTION_REALIZED
     lot_url:                 str
     title:                   str
     description:             str = ""
@@ -99,20 +106,22 @@ class PriceRange(BaseModel):
 
 class CoinSummary(BaseModel):
     """Lightweight entry in catalog/index.json — no sale history."""
-    slug:               str
-    category:           Category
-    ruler:              Optional[str]  = None
-    ruler_normalized:   Optional[str]  = None
-    dynasty:            Optional[str]  = None
-    denomination:       str
-    metal:              Metal
-    sale_count:         int
-    ngc_verified_count: int
-    price_range_usd:    Optional[PriceRange] = None
-    median_price_usd:   float = 0.0
-    last_sale_date:     str   = ""
-    grade_distribution: dict[str, int] = Field(default_factory=dict)
-    thumbnail_url:      Optional[str]  = None
+    slug:                str
+    category:            Category
+    ruler:               Optional[str]  = None
+    ruler_normalized:    Optional[str]  = None
+    dynasty:             Optional[str]  = None
+    denomination:        str
+    metal:               Metal
+    sale_count:          int
+    realized_count:      int   = 0     # auction_realized only
+    fixed_price_count:   int   = 0     # fixed_price listings
+    ngc_verified_count:  int
+    price_range_usd:     Optional[PriceRange] = None
+    median_price_usd:    float = 0.0   # median of auction_realized only
+    last_sale_date:      str   = ""
+    grade_distribution:  dict[str, int] = Field(default_factory=dict)
+    thumbnail_url:       Optional[str]  = None
 
 
 class CoinDetail(CoinSummary):
@@ -147,4 +156,4 @@ class RawListing(BaseModel):
     image_url:      Optional[str]   = None
     source:         Source
     raw_cert_text:  str = ""   # Any text that might contain NGC cert info
-    is_auction:     bool = True  # False for fixed-price (VCoins, MA Shops)
+    listing_type:   ListingType = ListingType.AUCTION_REALIZED

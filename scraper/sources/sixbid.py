@@ -14,7 +14,7 @@ from typing import Iterator
 
 import httpx
 
-from ..models import RawListing, Source
+from ..models import ListingType, RawListing, Source
 from ..config import MAX_PAGES, RATE_LIMITS
 from .base import BaseScraper
 
@@ -134,7 +134,7 @@ class SixbidScraper(BaseScraper):
                 image_url=image_url,
                 source=Source.SIXBID,
                 raw_cert_text=f"{title} {description}",
-                is_auction=True,
+                listing_type=ListingType.AUCTION_REALIZED,
             )
         except Exception as e:
             logger.debug(f"[Sixbid] Parse error: {e}")

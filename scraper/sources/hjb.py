@@ -12,7 +12,7 @@ from typing import Iterator
 
 import httpx
 
-from ..models import RawListing, Source
+from ..models import ListingType, RawListing, Source
 from ..config import MAX_PAGES
 from .base import BaseScraper
 
@@ -123,7 +123,7 @@ class HJBScraper(BaseScraper):
                 image_url=image_url,
                 source=Source.HJB,
                 raw_cert_text=all_fields,
-                is_auction=False,
+                listing_type=ListingType.FIXED_PRICE,
             )
         except Exception as e:
             logger.debug(f"[HJB] Parse error: {e}")

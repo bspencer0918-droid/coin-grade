@@ -19,7 +19,7 @@ from urllib.parse import urljoin
 
 from bs4 import BeautifulSoup, Tag
 
-from ..models import RawListing, Source
+from ..models import ListingType, RawListing, Source
 from ..config import MAX_PAGES
 from .base import BaseScraper
 
@@ -126,7 +126,7 @@ def _parse_lots(soup: BeautifulSoup, auction_id: int, auction_date: date | None)
                 image_url=None,
                 source=Source.CNG,
                 raw_cert_text=title,
-                is_auction=True,
+                listing_type=ListingType.AUCTION_REALIZED,
             )
 
         i += 2   # Skip past the price row

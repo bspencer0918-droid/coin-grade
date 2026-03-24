@@ -1,7 +1,7 @@
 // ============================================================
 // Individual coin detail page
 // ============================================================
-import type { CoinDetail, Sale, NGCGrade } from '../types/coin.ts'
+import type { CoinDetail, ListingType, Sale, NGCGrade } from '../types/coin.ts'
 import { NGC_GRADE_ORDER } from '../types/coin.ts'
 import { renderSourceBadge } from '../components/SourceBadge.ts'
 import { renderGradeBreakdown } from '../components/GradeBreakdown.ts'
@@ -17,8 +17,16 @@ function formatUSD(n: number): string {
   return n.toLocaleString('en-US', { style: 'currency', currency: 'USD', minimumFractionDigits: 0 })
 }
 
+const LISTING_TYPE_CONFIG: Record<ListingType, { label: string; priceLabel: string; cls: string }> = {
+  auction_realized: { label: 'Sold',    priceLabel: 'Hammer',  cls: 'bg-emerald-900/40 text-emerald-300 border-emerald-700' },
+  fixed_price:      { label: 'For Sale', priceLabel: 'Asking',  cls: 'bg-sky-900/40     text-sky-300     border-sky-700'     },
+  auction_estimate: { label: 'Estimate', priceLabel: 'Est.',    cls: 'bg-stone-800      text-stone-400   border-stone-600'   },
+}
+
 function saleRow(sale: Sale): string {
   const ngc = sale.ngc
+  const lt  = LISTING_TYPE_CONFIG[sale.listing_type ?? 'auction_realized']
+
   const grade = ngc.grade
     ? `<span class="${GRADE_BADGE[ngc.grade] ?? 'badge-grade bg-stone-800 text-stone-300'}">${ngc.grade}${ngc.grade_numeric ? ` ${ngc.grade_numeric}` : ''}</span>`
     : '—'
@@ -35,6 +43,10 @@ function saleRow(sale: Sale): string {
     ? `<img src="${sale.image_url}" alt="" class="w-12 h-12 object-cover rounded border border-stone-700" loading="lazy" />`
     : `<div class="w-12 h-12 rounded border border-stone-800 bg-stone-900"></div>`
 
+  const priceColor = sale.listing_type === 'fixed_price'      ? 'text-sky-300'
+                   : sale.listing_type === 'auction_estimate'  ? 'text-stone-400'
+                   : 'text-gold-300'
+
   return `
     <tr class="table-row">
       <td class="table-cell w-14">${img}</td>
@@ -45,7 +57,12 @@ function saleRow(sale: Sale): string {
         </a>
       </td>
       <td class="table-cell">${grade}</td>
-      <td class="table-cell text-gold-300 font-mono">${formatUSD(sale.hammer_price_usd)}</td>
+      <td class="table-cell">
+        <div class="${priceColor} font-mono">${formatUSD(sale.hammer_price_usd)}</div>
+        <div class="text-xs mt-0.5">
+          <span class="px-1.5 py-0.5 rounded border text-xs ${lt.cls}">${lt.label}</span>
+        </div>
+      </td>
       <td class="table-cell text-stone-400 text-sm">${sale.sale_date}</td>
       <td class="table-cell">${renderSourceBadge(sale.source)}</td>
       <td class="table-cell">${certLink}${verified}</td>
@@ -106,17 +123,20 @@ export function renderCoinPage(coin: CoinDetail): string {
 
           <div class="flex flex-wrap gap-6 mt-4">
             <div>
-              <div class="text-xs text-stone-600 uppercase tracking-wider font-display">Median Price</div>
+              <div class="text-xs text-stone-600 uppercase tracking-wider font-display">Median Hammer</div>
               <div class="text-2xl text-gold-400 font-mono">${medianPrice}</div>
+              <div class="text-xs text-stone-600 mt-0.5">${coin.realized_count} auction sale${coin.realized_count !== 1 ? 's' : ''}</div>
             </div>
             <div>
-              <div class="text-xs text-stone-600 uppercase tracking-wider font-display">Range</div>
+              <div class="text-xs text-stone-600 uppercase tracking-wider font-display">Hammer Range</div>
               <div class="text-lg text-stone-300 font-mono">${minPrice} – ${maxPrice}</div>
             </div>
+            ${coin.fixed_price_count > 0 ? `
             <div>
-              <div class="text-xs text-stone-600 uppercase tracking-wider font-display">Total Sales</div>
-              <div class="text-2xl text-stone-200 font-mono">${coin.sale_count}</div>
-            </div>
+              <div class="text-xs text-stone-600 uppercase tracking-wider font-display">For Sale</div>
+              <div class="text-2xl text-sky-400 font-mono">${coin.fixed_price_count}</div>
+              <div class="text-xs text-stone-600 mt-0.5">dealer listing${coin.fixed_price_count !== 1 ? 's' : ''}</div>
+            </div>` : ''}
             <div>
               <div class="text-xs text-stone-600 uppercase tracking-wider font-display">Last Sale</div>
               <div class="text-stone-300">${coin.last_sale_date}</div>
@@ -136,7 +156,7 @@ export function renderCoinPage(coin: CoinDetail): string {
 
       <!-- Sales table -->
       <section class="card overflow-hidden">
-        <div class="card-header">All Sales (${coin.sale_count})</div>
+        <div class="card-header">All Records (${coin.sale_count})</div>
         <div class="overflow-x-auto">
           <table class="w-full">
             <thead>
@@ -144,7 +164,7 @@ export function renderCoinPage(coin: CoinDetail): string {
                 <th class="table-header w-14"></th>
                 <th class="table-header">Listing</th>
                 <th class="table-header">Grade</th>
-                <th class="table-header">Price</th>
+                <th class="table-header">Price / Type</th>
                 <th class="table-header">Date</th>
                 <th class="table-header">Source</th>
                 <th class="table-header">NGC Cert</th>

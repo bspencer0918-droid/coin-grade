@@ -15,7 +15,7 @@ from urllib.parse import urljoin, urlencode
 
 from bs4 import BeautifulSoup
 
-from ..models import RawListing, Source
+from ..models import ListingType, RawListing, Source
 from ..config import MAX_PAGES
 from .base import BaseScraper
 
@@ -99,7 +99,7 @@ class HeritageScraper(BaseScraper):
                 image_url=image_url,
                 source=Source.HERITAGE,
                 raw_cert_text=f"{title} {description}",
-                is_auction=True,
+                listing_type=ListingType.AUCTION_REALIZED,
             )
         except Exception as e:
             logger.debug(f"[Heritage] Parse error: {e}")

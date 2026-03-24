@@ -18,7 +18,7 @@ from urllib.parse import urljoin
 
 from bs4 import BeautifulSoup
 
-from ..models import RawListing, Source
+from ..models import ListingType, RawListing, Source
 from ..config import MAX_PAGES
 from .base import BaseScraper
 
@@ -141,7 +141,7 @@ class VCoinsScraper(BaseScraper):
                 image_url=image_url,
                 source=Source.VCOINS,
                 raw_cert_text=title,
-                is_auction=False,
+                listing_type=ListingType.FIXED_PRICE,
             )
         except Exception as e:
             logger.debug(f"[VCoins] Parse error: {e}")

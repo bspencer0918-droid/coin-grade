@@ -3,7 +3,7 @@
 // ============================================================
 import { Chart, LineController, LineElement, PointElement, LinearScale,
          Tooltip, Legend, CategoryScale } from 'chart.js'
-import type { Sale, Source } from '../types/coin.ts'
+import type { ListingType, Sale, Source } from '../types/coin.ts'
 
 Chart.register(LineController, LineElement, PointElement, LinearScale,
                Tooltip, Legend, CategoryScale)
@@ -27,11 +27,16 @@ export function renderPriceChartContainer(): string {
     <div class="card">
       <div class="card-header">Price History</div>
       <div class="p-4">
-        <div class="flex gap-3 mb-3 text-xs">
+        <div class="flex flex-wrap items-center gap-4 mb-3 text-xs">
           <label class="flex items-center gap-1 text-stone-400 cursor-pointer">
             <input type="checkbox" id="chart-log-scale" class="filter-checkbox" />
             Log scale
           </label>
+          <div class="flex items-center gap-3 text-stone-500 ml-auto">
+            <span class="flex items-center gap-1">● Auction realized</span>
+            <span class="flex items-center gap-1">■ Dealer asking</span>
+            <span class="flex items-center gap-1">▲ Estimate</span>
+          </div>
         </div>
         <div class="relative h-64">
           <canvas id="price-chart"></canvas>
@@ -41,6 +46,13 @@ export function renderPriceChartContainer(): string {
   `
 }
 
+// Point style per listing type: realized=circle, fixed_price=rect, estimate=triangle
+const LISTING_POINT_STYLE: Record<ListingType, string> = {
+  auction_realized: 'circle',
+  fixed_price:      'rect',
+  auction_estimate: 'triangle',
+}
+
 export function mountPriceChart(sales: Sale[]) {
   const canvas = document.getElementById('price-chart') as HTMLCanvasElement | null
   if (!canvas) return
@@ -48,26 +60,33 @@ export function mountPriceChart(sales: Sale[]) {
   if (chartInstance) { chartInstance.destroy(); chartInstance = null }
 
   const sorted = [...sales].sort((a, b) => a.sale_date.localeCompare(b.sale_date))
-  // All unique dates as labels
   const labels = sorted.map(s => s.sale_date)
 
   const datasets = (['cng','heritage','ebay','vcoins','mashops','numisbids','sixbid','hjb'] as Source[]).map(src => {
     const srcSales = sorted.filter(s => s.source === src)
     if (srcSales.length === 0) return null
-    // Map each date label to price for this source (null if no sale on that date)
     const data = labels.map(label => {
       const match = srcSales.find(s => s.sale_date === label)
       return match ? match.hammer_price_usd : null
     })
+    // Per-point styles based on listing type
+    const pointStyles = labels.map(label => {
+      const match = srcSales.find(s => s.sale_date === label)
+      return match ? LISTING_POINT_STYLE[match.listing_type ?? 'auction_realized'] : 'circle'
+    })
+    // Fixed-price listings get a dashed border
+    const isFixedOnly = srcSales.every(s => s.listing_type === 'fixed_price')
     return {
       label:            src.toUpperCase(),
       data,
       borderColor:      SOURCE_COLORS[src],
       backgroundColor:  SOURCE_COLORS[src] + '33',
+      pointStyle:       pointStyles as never,
       pointRadius:      5,
       pointHoverRadius: 7,
       tension:          0.3,
       borderWidth:      2,
+      borderDash:       isFixedOnly ? [4, 4] : [],
       spanGaps:         true,
     }
   }).filter(Boolean)

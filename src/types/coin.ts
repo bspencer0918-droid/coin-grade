@@ -2,9 +2,10 @@
 // Coin Grade — Shared TypeScript types (mirrors Pydantic models)
 // ============================================================
 
-export type Category = 'roman' | 'greek' | 'byzantine' | 'persian' | 'celtic' | 'egyptian' | 'other'
-export type Metal    = 'gold' | 'silver' | 'bronze' | 'billon' | 'electrum' | 'unknown'
-export type Source   = 'cng' | 'heritage' | 'ebay' | 'vcoins' | 'mashops' | 'numisbids' | 'sixbid' | 'hjb'
+export type Category    = 'roman' | 'greek' | 'byzantine' | 'persian' | 'celtic' | 'egyptian' | 'other'
+export type Metal       = 'gold' | 'silver' | 'bronze' | 'billon' | 'electrum' | 'unknown'
+export type Source      = 'cng' | 'heritage' | 'ebay' | 'vcoins' | 'mashops' | 'numisbids' | 'sixbid' | 'hjb'
+export type ListingType = 'auction_realized' | 'fixed_price' | 'auction_estimate'
 
 export type NGCGrade = 'MS' | 'AU' | 'XF' | 'VF' | 'F' | 'VG' | 'G' | 'AG' | 'P'
 
@@ -24,6 +25,7 @@ export interface NGCInfo {
 export interface Sale {
   id:                      string
   source:                  Source
+  listing_type:            ListingType
   lot_url:                 string
   title:                   string
   description:             string
@@ -53,6 +55,8 @@ export interface CoinSummary {
   denomination:        string
   metal:               Metal
   sale_count:          number
+  realized_count:      number
+  fixed_price_count:   number
   ngc_verified_count:  number
   price_range_usd:     { min: number; max: number }
   median_price_usd:    number
