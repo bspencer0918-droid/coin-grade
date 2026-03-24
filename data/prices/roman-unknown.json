@@ -6,20 +6,22 @@
   "dynasty": null,
   "denomination": "Unknown",
   "metal": "silver",
-  "sale_count": 8,
+  "sale_count": 16,
   "realized_count": 0,
-  "fixed_price_count": 8,
+  "fixed_price_count": 16,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 44.0,
-    "max": 99.0
+    "max": 9862.03
   },
-  "median_price_usd": 74.25,
+  "median_price_usd": 109.5,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "MS": 8
+    "MS": 9,
+    "AU": 6,
+    "XF": 1
   },
-  "thumbnail_url": null,
+  "thumbnail_url": "https://img.ma-shops.com/thomasnumismatics/pic/thumb/2404.jpg",
   "sales": [
     {
       "id": "vcoins-db885f2e2507",
@@ -260,6 +262,254 @@
         "surface_score": null,
         "details_grade": null,
         "certification_url": "https://www.ngccoin.com/certlookup/3182400/"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-d1a4008de244",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/thomasnumismatics/item.php?id=2404",
+      "title": "Didrachme ou Quadrigatus 225-210 av.JC Roman Republic AU  /  NGC AU \u2605 strike 5 / 5-Surface 4 / 5",
+      "description": "Didrachme ou Quadrigatus 225-210 av.JC Roman Republic AU  /  NGC AU \u2605 strike 5 / 5-Surface 4 / 5",
+      "hammer_price_usd": 9862.03,
+      "currency_original": "USD",
+      "price_original": 9862.03,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/thomasnumismatics/pic/thumb/2404.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-f40a79a597f3",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8328",
+      "title": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
+      "description": "AR Victoriatus Anonymous, after c.211 BC Anonymous, after c.211 BC ROMAN REPUBLIC AR Victoriatus NGC XF Strike: 4/5 Surface: 4/5",
+      "hammer_price_usd": 1200.0,
+      "currency_original": "USD",
+      "price_original": 1200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8328_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-e0d12b9385a7",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/worldmoneyshop/item.php?id=2072",
+      "title": "TALER (1564-95) Erzherzog Ferdinand, 1564-1595, AUSTRIA. Holy Roman Empire Taler Ensisheim mint NGC MS 63",
+      "description": "TALER (1564-95) Erzherzog Ferdinand, 1564-1595, AUSTRIA. Holy Roman Empire Taler Ensisheim mint NGC MS 63",
+      "hammer_price_usd": 2350.0,
+      "currency_original": "USD",
+      "price_original": 2350.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/worldmoneyshop/pic/thumb/2072_1564-taler-1_c.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 63,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-5188f506a45f",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/enumismat/item.php?id=8586",
+      "title": "276-282 ROMAN EMPIRE,Probus,AD 276-282 BI Aurellanianus / PIAETAS  NGC Ch AU (043) NGC Ch AU",
+      "description": "276-282 ROMAN EMPIRE,Probus,AD 276-282 BI Aurellanianus / PIAETAS  NGC Ch AU (043) NGC Ch AU",
+      "hammer_price_usd": 130.0,
+      "currency_original": "USD",
+      "price_original": 130.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/enumismat/pic/thumb/8586.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-69b408f34a93",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/enumismat/item.php?id=8682",
+      "title": "276-282 ROMAN EMPIRE,Probus,AD 276-282 BI Aurellanianus /Laetitia NGC Ch AU (016) NGC Ch AU",
+      "description": "276-282 ROMAN EMPIRE,Probus,AD 276-282 BI Aurellanianus /Laetitia NGC Ch AU (016) NGC Ch AU",
+      "hammer_price_usd": 130.0,
+      "currency_original": "USD",
+      "price_original": 130.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/enumismat/pic/thumb/8682.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-5b4a1eb971b3",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/enumismat/item.php?id=8589",
+      "title": "276-282 ROMAN Probus,AD 276-282 BI Aurellanianus / Felicitas standing NGC Ch AU (027) NGC Ch AU",
+      "description": "276-282 ROMAN Probus,AD 276-282 BI Aurellanianus / Felicitas standing NGC Ch AU (027) NGC Ch AU",
+      "hammer_price_usd": 125.0,
+      "currency_original": "USD",
+      "price_original": 125.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/enumismat/pic/thumb/8589.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-cf4412a06c46",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/enumismat/item.php?id=8695",
+      "title": "276-282 ROMAN EMPIRE,Probus,AD 276-282 BI Aurellanianus /Pax standing  NGC Ch AU (029) NGC Ch AU",
+      "description": "276-282 ROMAN EMPIRE,Probus,AD 276-282 BI Aurellanianus /Pax standing  NGC Ch AU (029) NGC Ch AU",
+      "hammer_price_usd": 130.0,
+      "currency_original": "USD",
+      "price_original": 130.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/enumismat/pic/thumb/8695.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-39818e34c1b2",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/enumismat/item.php?id=8680",
+      "title": "276-282 ROMAN EMPIRE,Probus,AD 276-282 BI Aurellanianus /MARS VICTOR NGC Ch AU (30) NGC Ch AU (30",
+      "description": "276-282 ROMAN EMPIRE,Probus,AD 276-282 BI Aurellanianus /MARS VICTOR NGC Ch AU (30) NGC Ch AU (30",
+      "hammer_price_usd": 120.0,
+      "currency_original": "USD",
+      "price_original": 120.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/enumismat/pic/thumb/8680.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
       },
       "metadata": {
         "mint": null,

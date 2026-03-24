@@ -1,0 +1,56 @@
+{
+  "slug": "roman-av-aureus",
+  "category": "roman",
+  "ruler": null,
+  "ruler_normalized": null,
+  "dynasty": null,
+  "denomination": "AV Aureus",
+  "metal": "gold",
+  "sale_count": 1,
+  "realized_count": 0,
+  "fixed_price_count": 1,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 32370.67,
+    "max": 32370.67
+  },
+  "median_price_usd": 32370.67,
+  "last_sale_date": "2026-03-24",
+  "grade_distribution": {
+    "AU": 1
+  },
+  "thumbnail_url": "https://img.ma-shops.com/cdma/pic/thumb/489298.jpg",
+  "sales": [
+    {
+      "id": "mashops-9ffdc5aafa77",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/cdma/item.php?id=489298",
+      "title": "Aureus 294-295 Cyzicus Maximien Hercule, Kyzikos, Gold, NGC Ch AU 5/5-3/5",
+      "description": "Aureus 294-295 Cyzicus Maximien Hercule, Kyzikos, Gold, NGC Ch AU 5/5-3/5",
+      "hammer_price_usd": 32370.67,
+      "currency_original": "USD",
+      "price_original": 32370.67,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/cdma/pic/thumb/489298.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

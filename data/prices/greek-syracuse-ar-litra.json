@@ -1,0 +1,56 @@
+{
+  "slug": "greek-syracuse-ar-litra",
+  "category": "greek",
+  "ruler": "Syracuse",
+  "ruler_normalized": "syracuse",
+  "dynasty": "City-State",
+  "denomination": "AR Litra",
+  "metal": "unknown",
+  "sale_count": 1,
+  "realized_count": 0,
+  "fixed_price_count": 1,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 288.9,
+    "max": 288.9
+  },
+  "median_price_usd": 288.9,
+  "last_sale_date": "2026-03-24",
+  "grade_distribution": {
+    "XF": 1
+  },
+  "thumbnail_url": "https://img.ma-shops.com/cdma/pic/thumb/1065986.jpg",
+  "sales": [
+    {
+      "id": "mashops-978e4198d9ec",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/cdma/item.php?id=1065986",
+      "title": "Litra 275-215 BC Syracuse Coin, Sicily, Hieron II, Syracuse, graded, NGC XF",
+      "description": "Litra 275-215 BC Syracuse Coin, Sicily, Hieron II, Syracuse, graded, NGC XF",
+      "hammer_price_usd": 288.9,
+      "currency_original": "USD",
+      "price_original": 288.9,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/cdma/pic/thumb/1065986.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

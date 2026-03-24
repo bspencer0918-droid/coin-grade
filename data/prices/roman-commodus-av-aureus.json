@@ -1,0 +1,56 @@
+{
+  "slug": "roman-commodus-av-aureus",
+  "category": "roman",
+  "ruler": "Commodus",
+  "ruler_normalized": "commodus",
+  "dynasty": "Nerva-Antonine",
+  "denomination": "AV Aureus",
+  "metal": "gold",
+  "sale_count": 1,
+  "realized_count": 0,
+  "fixed_price_count": 1,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 27265.62,
+    "max": 27265.62
+  },
+  "median_price_usd": 27265.62,
+  "last_sale_date": "2026-03-24",
+  "grade_distribution": {
+    "AU": 1
+  },
+  "thumbnail_url": "https://img.ma-shops.com/cdma/pic/thumb/906478.jpg",
+  "sales": [
+    {
+      "id": "mashops-e3ddc4e0249d",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/cdma/item.php?id=906478",
+      "title": "Aureus 183-184 Rome Commodus, Rome, Very rare, Gold, NGC Ch AU 5/5-2/5",
+      "description": "Aureus 183-184 Rome Commodus, Rome, Very rare, Gold, NGC Ch AU 5/5-2/5",
+      "hammer_price_usd": 27265.62,
+      "currency_original": "USD",
+      "price_original": 27265.62,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/cdma/pic/thumb/906478.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}
