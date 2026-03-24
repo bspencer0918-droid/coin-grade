@@ -7,25 +7,88 @@
   "ruler_dates": "27 BC \u2013 AD 14",
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 23,
+  "sale_count": 25,
   "realized_count": 23,
-  "fixed_price_count": 0,
+  "fixed_price_count": 2,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 77.76,
     "max": 16500.0
   },
   "median_price_usd": 750.0,
-  "last_sale_date": "2026-03-15",
+  "last_sale_date": "2026-03-24",
   "grade_distribution": {
+    "F": 1,
+    "VF": 6,
     "MS": 6,
     "XF": 8,
-    "VF": 5,
     "AU": 1,
     "G": 3
   },
   "thumbnail_url": "https://media.coinarchives.com/264e72d30b4c1ae7f55f57038f2f8e62/img/heritage/61605/image23133.jpg",
   "sales": [
+    {
+      "id": "vcoins-fcf59036ed63",
+      "source": "vcoins",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.vcoins.com/en/stores/perseus_coins__collectibles/334/product/roman_empire__augustus_27_bcad_14__ar_denarius__ngc_fine/2339208/Default.aspx",
+      "title": "Roman Empire - Augustus, 27 BC-AD 14 - AR Denarius - NGC Fine",
+      "description": "",
+      "hammer_price_usd": 485.0,
+      "currency_original": "USD",
+      "price_original": 485.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "mashops-85610b5d59d3",
+      "source": "mashops",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.ma-shops.com/khouli/item.php?id=8896",
+      "title": "Octavian, as Imperator and Triumvir (43-33 BC). AR denarius (19mm, 10h). NGC VF,",
+      "description": "Octavian, as Imperator and Triumvir (43-33 BC). AR denarius (19mm, 10h). NGC VF,",
+      "hammer_price_usd": 795.0,
+      "currency_original": "USD",
+      "price_original": 795.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://img.ma-shops.com/khouli/pic/thumb/artid8896_combined.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-32dda30a4889",
       "source": "coinarchives",
