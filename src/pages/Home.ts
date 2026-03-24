@@ -104,12 +104,11 @@ export function renderHome(meta: Meta | null, catalog: CatalogIndex | null): str
       </section>
 
       <!-- Stats bar -->
-      <section class="grid grid-cols-2 sm:grid-cols-4 gap-4">
+      <section class="grid grid-cols-3 gap-4">
         ${[
           { label: 'Total Sales', value: totalSales.toLocaleString() },
           { label: 'NGC Cert Verified', value: ngcVerified.toLocaleString() },
           { label: 'Coin Types', value: (catalog?.coins.length ?? 0).toLocaleString() },
-          { label: 'Last Updated', value: lastUpdated },
         ].map(s => `
           <div class="card p-4 text-center">
             <div class="text-2xl font-mono text-gold-400">${s.value}</div>
