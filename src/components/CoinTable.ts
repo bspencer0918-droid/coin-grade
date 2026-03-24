@@ -74,7 +74,7 @@ export function renderCoinTable(
     const isCustomThumb = coin.denomination === 'AR Tetradrachm'
     const thumbSrc = isCustomThumb ? '/coin-grade/ar-tetradrachm.jpg' : coin.thumbnail_url
     const thumbClass = isCustomThumb
-      ? 'w-10 h-10 object-contain rounded-full border border-stone-700 bg-stone-900'
+      ? 'w-10 h-10 object-contain rounded-full border border-stone-700 bg-stone-900 p-0.5'
       : 'w-10 h-10 object-cover rounded border border-stone-700'
     const thumb  = thumbSrc
       ? `<img src="${thumbSrc}" alt="" class="${thumbClass}" loading="lazy" />`

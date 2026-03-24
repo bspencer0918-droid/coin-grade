@@ -88,7 +88,7 @@ export function renderCoinPage(coin: CoinDetail): string {
       <section class="flex gap-6 flex-wrap">
         ${coin.denomination === 'AR Tetradrachm'
           ? `<img src="/coin-grade/ar-tetradrachm.jpg" alt="${coin.denomination}"
-                  class="w-32 h-32 object-contain rounded-full border border-stone-700 shadow-lg bg-stone-900" />`
+                  class="w-32 h-32 object-contain rounded-full border border-stone-700 shadow-lg bg-stone-900 p-1" />`
           : coin.thumbnail_url
             ? `<img src="${coin.thumbnail_url}" alt="${coin.denomination}"
                     class="w-32 h-32 object-cover rounded-xl border border-stone-700 shadow-lg" />`
