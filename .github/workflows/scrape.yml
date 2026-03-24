@@ -39,6 +39,8 @@ jobs:
       - name: Run scraper pipeline
         env:
           EXCHANGE_RATE_API_KEY: ${{ secrets.EXCHANGE_RATE_API_KEY }}
+          HERITAGE_EMAIL:        ${{ secrets.HERITAGE_EMAIL }}
+          HERITAGE_PASSWORD:     ${{ secrets.HERITAGE_PASSWORD }}
         run: python -m scraper.pipeline
 
       - name: Commit updated data files

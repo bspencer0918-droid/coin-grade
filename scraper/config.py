@@ -44,6 +44,10 @@ NGC_CACHE_FILE = ROOT / "scraper" / "ngc_cache.json"
 # Exchange rate API
 EXCHANGE_RATE_API_KEY = os.getenv("EXCHANGE_RATE_API_KEY", "")
 
+# Heritage Auctions credentials (required to view realized prices)
+HERITAGE_EMAIL    = os.getenv("HERITAGE_EMAIL",    "")
+HERITAGE_PASSWORD = os.getenv("HERITAGE_PASSWORD", "")
+
 # Rate limiting (seconds between requests per source)
 RATE_LIMITS = {
     "cng":              2.5,
