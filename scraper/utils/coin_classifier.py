@@ -178,23 +178,51 @@ def make_slug(category: Category, ruler_slug: Optional[str], denomination: str, 
 
 def classify(title: str, description: str = "") -> dict:
     """
-    Returns a dict with: category, ruler, ruler_normalized, dynasty, denomination, metal, slug.
+    Returns a dict with: category, ruler, ruler_normalized, dynasty,
+    ruler_dates, ruler_rarity, denomination, metal, slug.
+
+    Strategy: scan all ruler lists first so that listings like
+    "Heraclius... AV solidus" (which never say "Byzantine") are
+    correctly assigned to the Byzantine category via ruler match.
+    Only fall back to text-based category detection when no ruler
+    is found in any list.
     """
     full = f"{title} {description}"
+    text_lower = full.lower()
 
-    category    = detect_category(full)
-    metal       = detect_metal(full)
+    metal        = detect_metal(full)
     denomination = detect_denomination(full)
-    ruler, ruler_slug, ruler_dates, ruler_rarity = detect_ruler(full, category)
 
-    # Dynasty (simplified)
-    dynasty: Optional[str] = None
-    rulers_data = _load_rulers()
-    if ruler_slug:
-        for r in rulers_data.get(category.value, []):
-            if r.get("slug") == ruler_slug:
-                dynasty = r.get("dynasty")
+    # --- Ruler-first detection (scans all categories in yaml order) ---
+    rulers_data   = _load_rulers()
+    ruler         = None
+    ruler_slug    = None
+    ruler_dates   = None
+    ruler_rarity  = None
+    dynasty       = None
+    category: Optional[Category] = None
+
+    for cat_name, cat_rulers in rulers_data.items():
+        try:
+            cat_enum = Category(cat_name)
+        except ValueError:
+            continue  # unknown category key — skip
+        for r in cat_rulers:
+            keywords: list[str] = r.get("keywords", [r["name"].lower()])
+            if any(kw in text_lower for kw in keywords):
+                ruler        = r["name"]
+                ruler_slug   = r.get("slug", r["name"].lower().replace(" ", "-"))
+                ruler_dates  = r.get("dates")
+                ruler_rarity = r.get("rarity")
+                dynasty      = r.get("dynasty")
+                category     = cat_enum
                 break
+        if category is not None:
+            break
+
+    # Fall back to keyword-based category when no ruler matched
+    if category is None:
+        category = detect_category(full)
 
     slug = make_slug(category, ruler_slug, denomination, metal)
 
