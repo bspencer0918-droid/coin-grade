@@ -7,8 +7,8 @@
   "ruler_dates": "27 BC \u2013 AD 14",
   "ruler_rarity": null,
   "denomination": "Unknown",
-  "metal": "gold",
-  "sale_count": 38,
+  "metal": "bronze",
+  "sale_count": 39,
   "realized_count": 38,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
@@ -17,11 +17,11 @@
     "max": 12420.0
   },
   "median_price_usd": 360.0,
-  "last_sale_date": "2026-03-15",
+  "last_sale_date": "2026-03-24",
   "grade_distribution": {
+    "VF": 4,
     "MS": 17,
     "AU": 7,
-    "VF": 3,
     "F": 4,
     "XF": 7
   },
@@ -35,6 +35,38 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "numisbids-deeaf23616b7",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10471/lot/22",
+      "title": "Roman Empire As 249-251. NGC Choice VF Trajan Decius. Rome. (Ric-120a). Obv: IMP C M Q TRAIANVS DECIVS AVG. Laureate,...",
+      "description": "Roman Empire As 249-251. NGC Choice VF Trajan Decius. Rome. (Ric-120a). Obv: IMP C M Q TRAIANVS DECIVS AVG. Laureate,...",
+      "hammer_price_usd": 118.8,
+      "currency_original": "EUR",
+      "price_original": 110.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/klondike/070/thumb00022.jpg?1773410111",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-8816fa4e9914",
       "source": "coinarchives",
@@ -60,7 +92,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -92,7 +124,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -124,7 +156,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -156,7 +188,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -188,7 +220,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -220,7 +252,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -252,7 +284,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -284,7 +316,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -316,7 +348,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -348,7 +380,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -380,7 +412,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -412,7 +444,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -444,7 +476,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -476,7 +508,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -508,7 +540,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -540,7 +572,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -572,7 +604,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -604,7 +636,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -636,7 +668,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -668,7 +700,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -700,7 +732,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -732,7 +764,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -764,7 +796,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -796,7 +828,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -828,7 +860,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -860,7 +892,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -892,7 +924,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -924,7 +956,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -956,7 +988,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -988,7 +1020,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -1020,7 +1052,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -1052,7 +1084,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -1084,7 +1116,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -1116,7 +1148,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -1148,7 +1180,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -1180,7 +1212,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -1212,7 +1244,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -1244,7 +1276,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

@@ -43,6 +43,13 @@
       "data_url": "roman/by-ruler/constantine-i.json"
     },
     {
+      "name": "Diocletian",
+      "slug": "diocletian",
+      "reign": "",
+      "sale_count": 1,
+      "data_url": "roman/by-ruler/diocletian.json"
+    },
+    {
       "name": "Domitian",
       "slug": "domitian",
       "reign": "",
@@ -57,6 +64,13 @@
       "data_url": "roman/by-ruler/elagabalus.json"
     },
     {
+      "name": "Galba",
+      "slug": "galba",
+      "reign": "",
+      "sale_count": 1,
+      "data_url": "roman/by-ruler/galba.json"
+    },
+    {
       "name": "Gallienus",
       "slug": "gallienus",
       "reign": "",
@@ -69,6 +83,13 @@
       "reign": "",
       "sale_count": 1,
       "data_url": "roman/by-ruler/geta.json"
+    },
+    {
+      "name": "Gordian III",
+      "slug": "gordian-iii",
+      "reign": "",
+      "sale_count": 1,
+      "data_url": "roman/by-ruler/gordian-iii.json"
     },
     {
       "name": "Honorius",
@@ -109,7 +130,7 @@
       "name": "Lucius Verus",
       "slug": "lucius-verus",
       "reign": "",
-      "sale_count": 1,
+      "sale_count": 2,
       "data_url": "roman/by-ruler/lucius-verus.json"
     },
     {
@@ -158,7 +179,7 @@
       "name": "Philip I",
       "slug": "philip-i",
       "reign": "",
-      "sale_count": 6,
+      "sale_count": 7,
       "data_url": "roman/by-ruler/philip-i.json"
     },
     {
@@ -207,7 +228,7 @@
       "name": "Vespasian",
       "slug": "vespasian",
       "reign": "",
-      "sale_count": 3,
+      "sale_count": 4,
       "data_url": "roman/by-ruler/vespasian.json"
     }
   ]

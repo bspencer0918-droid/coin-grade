@@ -8,7 +8,7 @@
   "ruler_rarity": null,
   "denomination": "AR Didrachm",
   "metal": "silver",
-  "sale_count": 8,
+  "sale_count": 9,
   "realized_count": 8,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
@@ -20,7 +20,7 @@
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
     "G": 1,
-    "VF": 2,
+    "VF": 3,
     "MS": 1,
     "AU": 1,
     "XF": 3
@@ -68,6 +68,38 @@
       }
     },
     {
+      "id": "numisbids-24ba0ca627bd",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10398/lot/19005",
+      "title": "ITALY. Lucania. Velia. AR Didrachm (Nomos) (7.50 gms), ca. 300-280 B.C. NGC VF, Strike: 5/5 Surface: 3/5. Light...",
+      "description": "ITALY. Lucania. Velia. AR Didrachm (Nomos) (7.50 gms), ca. 300-280 B.C. NGC VF, Strike: 5/5 Surface: 3/5. Light...",
+      "hammer_price_usd": 300.0,
+      "currency_original": "USD",
+      "price_original": 300.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/stacksbowers_mar26/thumb19005.jpg?1771891250",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-0e5a1e6581a9",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -92,7 +124,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -124,7 +156,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -156,7 +188,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -188,7 +220,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -220,7 +252,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -252,7 +284,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -284,7 +316,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

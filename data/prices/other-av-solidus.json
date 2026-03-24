@@ -8,18 +8,18 @@
   "ruler_rarity": null,
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 3,
+  "sale_count": 4,
   "realized_count": 3,
-  "fixed_price_count": 0,
+  "fixed_price_count": 1,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 2200.0,
     "max": 2600.0
   },
   "median_price_usd": 2200.0,
-  "last_sale_date": "2026-01-16",
+  "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "MS": 1,
+    "MS": 2,
     "AU": 2
   },
   "thumbnail_url": "https://media.coinarchives.com/eafc1976d6ea5deccb354b061bf2563d/img/ponterio/236/image40256.jpg",
@@ -32,6 +32,38 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "hjb-6828655cfc0e",
+      "source": "hjb",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/107709",
+      "title": "Revolt of the Heraclii. Solidus",
+      "description": "",
+      "hammer_price_usd": 15000.0,
+      "currency_original": "USD",
+      "price_original": 15000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc107709a.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "1023052616",
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": "https://www.ngccoin.com/certlookup/1023052616/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-93645c62e316",
       "source": "coinarchives",
@@ -57,7 +89,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -89,7 +121,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -121,7 +153,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

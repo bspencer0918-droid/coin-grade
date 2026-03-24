@@ -8,7 +8,7 @@
   "ruler_rarity": null,
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 5,
+  "sale_count": 6,
   "realized_count": 5,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
@@ -17,8 +17,9 @@
     "max": 1600.0
   },
   "median_price_usd": 1200.0,
-  "last_sale_date": "2026-01-16",
+  "last_sale_date": "2026-04-11",
   "grade_distribution": {
+    "VF": 1,
     "AU": 3,
     "XF": 2
   },
@@ -32,6 +33,38 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "numisbids-3eb46f7f6091",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10501/lot/44020",
+      "title": "LEO III & CONSTANTINE V, 717-741. AV Solidus (4.44 gms), Constantinople Mint, 725-732. NGC Ch VF, Strike: 5/5 Surface:...",
+      "description": "LEO III & CONSTANTINE V, 717-741. AV Solidus (4.44 gms), Constantinople Mint, 725-732. NGC Ch VF, Strike: 5/5 Surface:...",
+      "hammer_price_usd": 900.0,
+      "currency_original": "USD",
+      "price_original": 900.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237/thumb44020.jpg?1774052012",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-69b933d9bce6",
       "source": "coinarchives",
@@ -57,7 +90,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -89,7 +122,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -121,7 +154,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -153,7 +186,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -185,7 +218,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

@@ -7,18 +7,19 @@
   "ruler_dates": null,
   "ruler_rarity": null,
   "denomination": "Unknown",
-  "metal": "gold",
-  "sale_count": 7,
+  "metal": "unknown",
+  "sale_count": 8,
   "realized_count": 7,
-  "fixed_price_count": 0,
+  "fixed_price_count": 1,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 11500.0,
     "max": 30800.0
   },
   "median_price_usd": 22000.0,
-  "last_sale_date": "2026-01-16",
+  "last_sale_date": "2026-03-24",
   "grade_distribution": {
+    "F": 1,
     "VF": 2,
     "AU": 5
   },
@@ -32,6 +33,38 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "hjb-27b03af57c10",
+      "source": "hjb",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/107707",
+      "title": "Ptolemaic, Ptolemy II.",
+      "description": "",
+      "hammer_price_usd": 18500.0,
+      "currency_original": "USD",
+      "price_original": 18500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc107707a.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "1023052559",
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": "https://www.ngccoin.com/certlookup/1023052559/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-a30d3d012e66",
       "source": "coinarchives",
@@ -57,7 +90,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -89,7 +122,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -121,7 +154,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -153,7 +186,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -185,7 +218,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -217,7 +250,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -249,7 +282,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

@@ -8,7 +8,7 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 5,
+  "sale_count": 7,
   "realized_count": 5,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
@@ -20,8 +20,8 @@
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
     "VF": 1,
+    "XF": 4,
     "MS": 1,
-    "XF": 2,
     "F": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/ae96208ac5e39adc6a47ce61a90291ff/img/heritage/3129/image33001.jpg",
@@ -67,6 +67,70 @@
       }
     },
     {
+      "id": "numisbids-87a1a57c2890",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10398/lot/19008",
+      "title": "SICILY. Syracuse. Dionysios I, 406-367 B.C. AV 50 Litrai (50 Dekadrachm) (2.88 gms), ca. 400-370 B.C. NGC EF, Strike:...",
+      "description": "SICILY. Syracuse. Dionysios I, 406-367 B.C. AV 50 Litrai (50 Dekadrachm) (2.88 gms), ca. 400-370 B.C. NGC EF, Strike:...",
+      "hammer_price_usd": 1800.0,
+      "currency_original": "USD",
+      "price_original": 1800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/stacksbowers_mar26/thumb19008.jpg?1771891250",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-e2665eec1b01",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10398/lot/19009",
+      "title": "SICILY. Syracuse. Agathokles, 317-289 B.C. EL 50 Litrai (Hemistater) (3.60 gms), ca. 306/5 B.C. NGC Ch EF, Strike: 4/5...",
+      "description": "SICILY. Syracuse. Agathokles, 317-289 B.C. EL 50 Litrai (Hemistater) (3.60 gms), ca. 306/5 B.C. NGC Ch EF, Strike: 4/5...",
+      "hammer_price_usd": 600.0,
+      "currency_original": "USD",
+      "price_original": 600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/stacksbowers_mar26/thumb19009.jpg?1771891250",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-1cf94c3f722c",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -91,7 +155,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -123,7 +187,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -155,7 +219,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -187,7 +251,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

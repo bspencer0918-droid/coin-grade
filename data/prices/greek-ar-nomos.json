@@ -8,7 +8,7 @@
   "ruler_rarity": null,
   "denomination": "AR Nomos",
   "metal": "silver",
-  "sale_count": 71,
+  "sale_count": 74,
   "realized_count": 71,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
@@ -20,9 +20,9 @@
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
     "F": 11,
-    "AU": 14,
-    "XF": 18,
-    "VF": 25,
+    "AU": 15,
+    "XF": 19,
+    "VF": 26,
     "VG": 1,
     "G": 1,
     "MS": 1
@@ -2150,6 +2150,102 @@
       }
     },
     {
+      "id": "numisbids-175418a8df18",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10398/lot/19003",
+      "title": "ITALY. Lucania. Metapontion. AR Stater (Nomos) (8.07 gms), ca. 510-470 B.C. NGC Ch EF, Strike: 5/5 Surface: 3/5. HGC-1,...",
+      "description": "ITALY. Lucania. Metapontion. AR Stater (Nomos) (8.07 gms), ca. 510-470 B.C. NGC Ch EF, Strike: 5/5 Surface: 3/5. HGC-1,...",
+      "hammer_price_usd": 480.0,
+      "currency_original": "USD",
+      "price_original": 480.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/stacksbowers_mar26/thumb19003.jpg?1771891250",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-c7c3581e4107",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10398/lot/19004",
+      "title": "ITALY. Lucania. Thourioi. AR Stater (Nomos) (7.63 gms), ca. 400-350 B.C. NGC Ch VF, Strike: 3/5 Surface: 3/5. Marks,...",
+      "description": "ITALY. Lucania. Thourioi. AR Stater (Nomos) (7.63 gms), ca. 400-350 B.C. NGC Ch VF, Strike: 3/5 Surface: 3/5. Marks,...",
+      "hammer_price_usd": 240.0,
+      "currency_original": "USD",
+      "price_original": 240.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/stacksbowers_mar26/thumb19004.jpg?1771891250",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 3,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-591f554fe654",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10398/lot/19006",
+      "title": "ITALY. Bruttium. Kroton. AR Stater (Nomos) (7.67 gms), ca. 400-325 B.C. NGC AU, Strike: 3/5 Surface: 4/5. Fine Style....",
+      "description": "ITALY. Bruttium. Kroton. AR Stater (Nomos) (7.67 gms), ca. 400-325 B.C. NGC AU, Strike: 3/5 Surface: 4/5. Fine Style....",
+      "hammer_price_usd": 600.0,
+      "currency_original": "USD",
+      "price_original": 600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/stacksbowers_mar26/thumb19006.jpg?1771891250",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 3,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-d76174c0c84f",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -2174,7 +2270,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -2206,7 +2302,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -2238,7 +2334,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -2270,7 +2366,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -2302,7 +2398,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

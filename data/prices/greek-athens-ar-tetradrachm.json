@@ -8,7 +8,7 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 12,
+  "sale_count": 33,
   "realized_count": 12,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
@@ -17,12 +17,12 @@
     "max": 9250.0
   },
   "median_price_usd": 3402.5,
-  "last_sale_date": "2026-02-23",
+  "last_sale_date": "2026-04-11",
   "grade_distribution": {
+    "AU": 21,
+    "XF": 6,
     "MS": 1,
-    "AU": 5,
     "VF": 2,
-    "XF": 1,
     "G": 3
   },
   "thumbnail_url": "https://media.coinarchives.com/ad03bada6728c0ffc4fd9333c662a1e5/img/heritage/3130/image36023.jpg",
@@ -35,6 +35,678 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "numisbids-ef3c4e84bc5c",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10398/lot/19021",
+      "title": "ATTICA. Athens. AR Tetradrachm (17.21 gms), ca. 454-404 B.C. NGC Ch AU, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "description": "ATTICA. Athens. AR Tetradrachm (17.21 gms), ca. 454-404 B.C. NGC Ch AU, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "hammer_price_usd": 600.0,
+      "currency_original": "USD",
+      "price_original": 600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/stacksbowers_mar26/thumb19021.jpg?1771891250",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-a47c4993eb3e",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10398/lot/19022",
+      "title": "ATTICA. Athens. AR Tetradrachm (17.17 gms), ca. 454-404 B.C. NGC Ch AU, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "description": "ATTICA. Athens. AR Tetradrachm (17.17 gms), ca. 454-404 B.C. NGC Ch AU, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "hammer_price_usd": 600.0,
+      "currency_original": "USD",
+      "price_original": 600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/stacksbowers_mar26/thumb19022.jpg?1771891250",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-7f7df625a56d",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10398/lot/19023",
+      "title": "ATTICA. Athens. AR Tetradrachm (17.23 gms), ca. 454-404 B.C. NGC Ch AU, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "description": "ATTICA. Athens. AR Tetradrachm (17.23 gms), ca. 454-404 B.C. NGC Ch AU, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "hammer_price_usd": 600.0,
+      "currency_original": "USD",
+      "price_original": 600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/stacksbowers_mar26/thumb19023.jpg?1771891250",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-6ef4a69d971f",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10398/lot/19024",
+      "title": "ATTICA. Athens. AR Tetradrachm (17.22 gms), ca. 454-404 B.C. NGC Ch AU, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "description": "ATTICA. Athens. AR Tetradrachm (17.22 gms), ca. 454-404 B.C. NGC Ch AU, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "hammer_price_usd": 600.0,
+      "currency_original": "USD",
+      "price_original": 600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/stacksbowers_mar26/thumb19024.jpg?1771891250",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-349dfe515a8b",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10398/lot/19025",
+      "title": "ATTICA. Athens. AR Tetradrachm (17.13 gms), ca. 454-404 B.C. NGC Ch AU, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "description": "ATTICA. Athens. AR Tetradrachm (17.13 gms), ca. 454-404 B.C. NGC Ch AU, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "hammer_price_usd": 600.0,
+      "currency_original": "USD",
+      "price_original": 600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/stacksbowers_mar26/thumb19025.jpg?1771891250",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-49d3b77ddc2f",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10471/lot/9",
+      "title": "Ancient Greece, Athens. Tetradrachm 440-404 BC. NGC XF 4/5, 2/5. Athena right/ owl. XF, strike 4/5, surface 2/5. 17.14...",
+      "description": "Ancient Greece, Athens. Tetradrachm 440-404 BC. NGC XF 4/5, 2/5. Athena right/ owl. XF, strike 4/5, surface 2/5. 17.14...",
+      "hammer_price_usd": 810.0,
+      "currency_original": "EUR",
+      "price_original": 750.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/klondike/070/thumb00009.jpg?1773410111",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-11bb31f9f78c",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10501/lot/44001",
+      "title": "ATTICA. Athens. AR Tetradrachm (17.19 gms), ca. 454-404 B.C. NGC Ch AU, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "description": "ATTICA. Athens. AR Tetradrachm (17.19 gms), ca. 454-404 B.C. NGC Ch AU, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "hammer_price_usd": 600.0,
+      "currency_original": "USD",
+      "price_original": 600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237/thumb44001.jpg?1774052012",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-8435f24ba2e3",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10501/lot/44002",
+      "title": "ATTICA. Athens. AR Tetradrachm (17.20 gms), ca. 454-404 B.C. NGC Ch AU, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "description": "ATTICA. Athens. AR Tetradrachm (17.20 gms), ca. 454-404 B.C. NGC Ch AU, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "hammer_price_usd": 600.0,
+      "currency_original": "USD",
+      "price_original": 600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237/thumb44002.jpg?1774052012",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-4ec06c31b7b7",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10501/lot/44003",
+      "title": "ATTICA. Athens. AR Tetradrachm (17.19 gms), ca. 454-404 B.C. NGC Ch AU, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "description": "ATTICA. Athens. AR Tetradrachm (17.19 gms), ca. 454-404 B.C. NGC Ch AU, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "hammer_price_usd": 600.0,
+      "currency_original": "USD",
+      "price_original": 600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237/thumb44003.jpg?1774052012",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-8b65668347d4",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10501/lot/44004",
+      "title": "ATTICA. Athens. AR Tetradrachm (17.24 gms), ca. 454-404 B.C. NGC Ch AU, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "description": "ATTICA. Athens. AR Tetradrachm (17.24 gms), ca. 454-404 B.C. NGC Ch AU, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "hammer_price_usd": 600.0,
+      "currency_original": "USD",
+      "price_original": 600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237/thumb44004.jpg?1774052012",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-75c689d73f1f",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10501/lot/44005",
+      "title": "ATTICA. Athens. AR Tetradrachm (17.20 gms), ca. 454-404 B.C. NGC AU, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "description": "ATTICA. Athens. AR Tetradrachm (17.20 gms), ca. 454-404 B.C. NGC AU, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "hammer_price_usd": 600.0,
+      "currency_original": "USD",
+      "price_original": 600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237/thumb44005.jpg?1774052012",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-e9a00dd21952",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10501/lot/44006",
+      "title": "ATTICA. Athens. AR Tetradrachm (17.25 gms), ca. 454-404 B.C. NGC AU, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "description": "ATTICA. Athens. AR Tetradrachm (17.25 gms), ca. 454-404 B.C. NGC AU, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "hammer_price_usd": 600.0,
+      "currency_original": "USD",
+      "price_original": 600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237/thumb44006.jpg?1774052012",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-9a9ad5b61d52",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10501/lot/44007",
+      "title": "ATTICA. Athens. AR Tetradrachm (17.18 gms), ca. 454-404 B.C. NGC AU, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "description": "ATTICA. Athens. AR Tetradrachm (17.18 gms), ca. 454-404 B.C. NGC AU, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "hammer_price_usd": 600.0,
+      "currency_original": "USD",
+      "price_original": 600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237/thumb44007.jpg?1774052012",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-c9d379102db0",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10501/lot/44008",
+      "title": "ATTICA. Athens. AR Tetradrachm (17.21 gms), ca. 454-404 B.C. NGC AU, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "description": "ATTICA. Athens. AR Tetradrachm (17.21 gms), ca. 454-404 B.C. NGC AU, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "hammer_price_usd": 600.0,
+      "currency_original": "USD",
+      "price_original": 600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237/thumb44008.jpg?1774052012",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-fbad5604aff0",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10501/lot/44009",
+      "title": "ATTICA. Athens. AR Tetradrachm (17.18 gms), ca. 454-404 B.C. NGC AU, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "description": "ATTICA. Athens. AR Tetradrachm (17.18 gms), ca. 454-404 B.C. NGC AU, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "hammer_price_usd": 600.0,
+      "currency_original": "USD",
+      "price_original": 600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237/thumb44009.jpg?1774052012",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-23d3197e1b51",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10501/lot/44010",
+      "title": "ATTICA. Athens. AR Tetradrachm (17.21 gms), ca. 454-404 B.C. NGC AU, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "description": "ATTICA. Athens. AR Tetradrachm (17.21 gms), ca. 454-404 B.C. NGC AU, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "hammer_price_usd": 600.0,
+      "currency_original": "USD",
+      "price_original": 600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237/thumb44010.jpg?1774052012",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-abc38b9ae310",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10501/lot/44011",
+      "title": "ATTICA. Athens. AR Tetradrachm (17.20 gms), ca. 454-404 B.C. NGC AU, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "description": "ATTICA. Athens. AR Tetradrachm (17.20 gms), ca. 454-404 B.C. NGC AU, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "hammer_price_usd": 600.0,
+      "currency_original": "USD",
+      "price_original": 600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237/thumb44011.jpg?1774052012",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-c42c77c12bc6",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10501/lot/44012",
+      "title": "ATTICA. Athens. AR Tetradrachm (17.18 gms), ca. 454-404 B.C. NGC Ch EF, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "description": "ATTICA. Athens. AR Tetradrachm (17.18 gms), ca. 454-404 B.C. NGC Ch EF, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "hammer_price_usd": 480.0,
+      "currency_original": "USD",
+      "price_original": 480.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237/thumb44012.jpg?1774052012",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-8e28c7690ba8",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10501/lot/44013",
+      "title": "ATTICA. Athens. AR Tetradrachm (17.19 gms), ca. 454-404 B.C. NGC Ch EF, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "description": "ATTICA. Athens. AR Tetradrachm (17.19 gms), ca. 454-404 B.C. NGC Ch EF, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "hammer_price_usd": 480.0,
+      "currency_original": "USD",
+      "price_original": 480.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237/thumb44013.jpg?1774052012",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-e136e75014e5",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10501/lot/44014",
+      "title": "ATTICA. Athens. AR Tetradrachm (17.18 gms), ca. 454-404 B.C. NGC Ch EF, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "description": "ATTICA. Athens. AR Tetradrachm (17.18 gms), ca. 454-404 B.C. NGC Ch EF, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "hammer_price_usd": 480.0,
+      "currency_original": "USD",
+      "price_original": 480.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237/thumb44014.jpg?1774052012",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-5a294b574234",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10501/lot/44015",
+      "title": "ATTICA. Athens. AR Tetradrachm (17.16 gms), ca. 454-404 B.C. NGC Ch EF, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "description": "ATTICA. Athens. AR Tetradrachm (17.16 gms), ca. 454-404 B.C. NGC Ch EF, Strike: 5/5 Surface: 5/5. HGC-4, 1597; Kroll-8....",
+      "hammer_price_usd": 480.0,
+      "currency_original": "USD",
+      "price_original": 480.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237/thumb44015.jpg?1774052012",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-de0adfb93b1c",
       "source": "coinarchives",
@@ -60,7 +732,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -92,7 +764,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -124,7 +796,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -156,7 +828,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -188,7 +860,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -220,7 +892,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -252,7 +924,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -284,7 +956,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -316,7 +988,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -348,7 +1020,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -380,7 +1052,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -412,7 +1084,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

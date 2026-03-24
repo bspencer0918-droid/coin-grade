@@ -7,8 +7,8 @@
   "ruler_dates": null,
   "ruler_rarity": null,
   "denomination": "AR Obol",
-  "metal": "silver",
-  "sale_count": 4,
+  "metal": "unknown",
+  "sale_count": 6,
   "realized_count": 4,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
@@ -17,8 +17,10 @@
     "max": 605.0
   },
   "median_price_usd": 245.0,
-  "last_sale_date": "2026-02-23",
+  "last_sale_date": "2026-03-24",
   "grade_distribution": {
+    "VF": 1,
+    "F": 1,
     "G": 3,
     "XF": 1
   },
@@ -32,6 +34,70 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "numisbids-13828769c026",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10471/lot/11",
+      "title": "Phoenicia Aradus obol 400-350 BC. NGC Choice VF Nice little coin, about 2400 years old, bust of Baal Arwad right/galley...",
+      "description": "Phoenicia Aradus obol 400-350 BC. NGC Choice VF Nice little coin, about 2400 years old, bust of Baal Arwad right/galley...",
+      "hammer_price_usd": 145.8,
+      "currency_original": "EUR",
+      "price_original": 135.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/klondike/070/thumb00011.jpg?1773410111",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-c888feda9ddb",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10471/lot/16",
+      "title": "Phoencia Aradus obol 400-350 BC. NGC Choice F. Bust tupe Nice little coin, about 2400 years old, bust of Baal Arwad...",
+      "description": "Phoencia Aradus obol 400-350 BC. NGC Choice F. Bust tupe Nice little coin, about 2400 years old, bust of Baal Arwad...",
+      "hammer_price_usd": 75.6,
+      "currency_original": "EUR",
+      "price_original": 70.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/klondike/070/thumb00016.jpg?1773410111",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-9b7b7a567d1b",
       "source": "coinarchives",
@@ -57,7 +123,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -89,7 +155,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -121,7 +187,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -153,7 +219,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

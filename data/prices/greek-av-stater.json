@@ -8,7 +8,7 @@
   "ruler_rarity": null,
   "denomination": "AV Stater",
   "metal": "gold",
-  "sale_count": 8,
+  "sale_count": 9,
   "realized_count": 8,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
@@ -21,8 +21,8 @@
   "grade_distribution": {
     "AU": 2,
     "MS": 4,
-    "G": 1,
-    "VF": 1
+    "VF": 2,
+    "G": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/cf309aa8fb8ab0994882dc83bf96f28e/img/heritage/3129/image33026.jpg",
   "median_weight_g": null,
@@ -99,6 +99,38 @@
       }
     },
     {
+      "id": "numisbids-7b3ffe2b7d43",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10398/lot/19019",
+      "title": "THRACE. Byzantion. AV Stater (8.49 gms), ca. mid-late 3rd Century B.C. NGC Ch VF, Strike: 5/5 Surface: 2/5. Edge Bends....",
+      "description": "THRACE. Byzantion. AV Stater (8.49 gms), ca. mid-late 3rd Century B.C. NGC Ch VF, Strike: 5/5 Surface: 2/5. Edge Bends....",
+      "hammer_price_usd": 1200.0,
+      "currency_original": "USD",
+      "price_original": 1200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/stacksbowers_mar26/thumb19019.jpg?1771891250",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-5f4251798c37",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -123,7 +155,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -155,7 +187,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -187,7 +219,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -219,7 +251,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -251,7 +283,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -283,7 +315,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

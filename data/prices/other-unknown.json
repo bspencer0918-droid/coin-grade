@@ -8,7 +8,7 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 38,
+  "sale_count": 78,
   "realized_count": 38,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
@@ -17,14 +17,15 @@
     "max": 14040.0
   },
   "median_price_usd": 887.5,
-  "last_sale_date": "2026-03-24",
+  "last_sale_date": "2026-04-11",
   "grade_distribution": {
-    "VF": 12,
-    "XF": 6,
-    "F": 7,
-    "AU": 4,
-    "MS": 1,
-    "G": 8
+    "VF": 16,
+    "XF": 15,
+    "MS": 11,
+    "AU": 18,
+    "P": 2,
+    "G": 9,
+    "F": 7
   },
   "thumbnail_url": "https://media.coinarchives.com/62a5ed29e563c210d5094b3f63af1452/img/marciniak/028/image06001.jpg",
   "median_weight_g": null,
@@ -229,6 +230,1286 @@
       }
     },
     {
+      "id": "numisbids-ba1c787a303b",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10397/lot/18265",
+      "title": "SWEDEN. Coup d'\u00c9tat, Restrike Silver Medal, 1772. Gustav III. NGC MS-64. Hild-19; Delzanno-26a; Bruun-17896. Diameter:...",
+      "description": "SWEDEN. Coup d'\u00c9tat, Restrike Silver Medal, 1772. Gustav III. NGC MS-64. Hild-19; Delzanno-26a; Bruun-17896. Diameter:...",
+      "hammer_price_usd": 540.0,
+      "currency_original": "EUR",
+      "price_original": 500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/bruun4/thumb18265.jpg?1771891212",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-f2a3e910d98b",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10444/lot/1001",
+      "title": "\u7d00\u5143\u524d610-546\u5e74\u9803 \u53e4\u4ee3 \u30ea\u30c7\u30a3\u30a2\u738b\u56fd \u30d8\u30df\u30d8\u30af\u30c6 1/12\u30b9\u30c6\u30fc\u30bf\u30fc \u30a8\u30ec\u30af\u30c8\u30e9\u30e0\u8ca8 NGC VF...",
+      "description": "\u7d00\u5143\u524d610-546\u5e74\u9803 \u53e4\u4ee3 \u30ea\u30c7\u30a3\u30a2\u738b\u56fd \u30d8\u30df\u30d8\u30af\u30c6 1/12\u30b9\u30c6\u30fc\u30bf\u30fc \u30a8\u30ec\u30af\u30c8\u30e9\u30e0\u8ca8 NGC VF...",
+      "hammer_price_usd": 129.6,
+      "currency_original": "EUR",
+      "price_original": 120.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/galleria/004/thumb01001.jpg?1772811875",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-b388473df291",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10444/lot/1002",
+      "title": "\u7d00\u5143\u524d610-546\u5e74\u9803 \u53e4\u4ee3 \u30ea\u30c7\u30a3\u30a2\u738b\u56fd  1/3\u30b9\u30c6\u30fc\u30bf\u30fc \u30a8\u30ec\u30af\u30c8\u30e9\u30e0\u8ca8 NGC AU Strike: 5/5 Surface:...",
+      "description": "\u7d00\u5143\u524d610-546\u5e74\u9803 \u53e4\u4ee3 \u30ea\u30c7\u30a3\u30a2\u738b\u56fd  1/3\u30b9\u30c6\u30fc\u30bf\u30fc \u30a8\u30ec\u30af\u30c8\u30e9\u30e0\u8ca8 NGC AU Strike: 5/5 Surface:...",
+      "hammer_price_usd": 648.0,
+      "currency_original": "EUR",
+      "price_original": 600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/galleria/004/thumb01002.jpg?1772811875",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-3532625642bf",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10444/lot/1003",
+      "title": "\u7d00\u5143\u524d610-546\u5e74\u9803 \u53e4\u4ee3 \u30ea\u30c7\u30a3\u30a2\u738b\u56fd 1/3\u30b9\u30c6\u30fc\u30bf\u30fc \u30a8\u30ec\u30af\u30c8\u30e9\u30e0\u8ca8 NGC Ch XF Strike: 5/5...",
+      "description": "\u7d00\u5143\u524d610-546\u5e74\u9803 \u53e4\u4ee3 \u30ea\u30c7\u30a3\u30a2\u738b\u56fd 1/3\u30b9\u30c6\u30fc\u30bf\u30fc \u30a8\u30ec\u30af\u30c8\u30e9\u30e0\u8ca8 NGC Ch XF Strike: 5/5...",
+      "hammer_price_usd": 540.0,
+      "currency_original": "EUR",
+      "price_original": 500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/galleria/004/thumb01003.jpg?1772811875",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-3874dfc74685",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10444/lot/1006",
+      "title": "286-310\u5e74 \u53e4\u4ee3 \u30a8\u30b8\u30d7\u30c8 \u30de\u30af\u30b7\u30df\u30a2\u30cc\u30b9 \u30a2\u30ec\u30af\u30b5\u30f3\u30c9\u30ea\u30a2 \u30c6\u30c8\u30e9\u30c9\u30e9\u30af\u30de \u30d3\u30ed\u30f3\u8ca8 NGC XF...",
+      "description": "286-310\u5e74 \u53e4\u4ee3 \u30a8\u30b8\u30d7\u30c8 \u30de\u30af\u30b7\u30df\u30a2\u30cc\u30b9 \u30a2\u30ec\u30af\u30b5\u30f3\u30c9\u30ea\u30a2 \u30c6\u30c8\u30e9\u30c9\u30e9\u30af\u30de \u30d3\u30ed\u30f3\u8ca8 NGC XF...",
+      "hammer_price_usd": 54.0,
+      "currency_original": "EUR",
+      "price_original": 50.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/galleria/004/thumb01006.jpg?1772811875",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-b005d4c11022",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10444/lot/1007",
+      "title": "1\u4e16\u7d00 \u53e4\u4ee3 \u30a2\u30e9\u30d3\u30a2 \u30d2\u30e0\u30e4\u30eb\u738b\u56fd \u30a2\u30e9\u30d3\u30a2\u30fb\u30d5\u30a7\u30ea\u30af\u30b9 \u30c9\u30e9\u30af\u30de\u9280\u8ca8 NGC Ch XF Strike: 5/5...",
+      "description": "1\u4e16\u7d00 \u53e4\u4ee3 \u30a2\u30e9\u30d3\u30a2 \u30d2\u30e0\u30e4\u30eb\u738b\u56fd \u30a2\u30e9\u30d3\u30a2\u30fb\u30d5\u30a7\u30ea\u30af\u30b9 \u30c9\u30e9\u30af\u30de\u9280\u8ca8 NGC Ch XF Strike: 5/5...",
+      "hammer_price_usd": 54.0,
+      "currency_original": "EUR",
+      "price_original": 50.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/galleria/004/thumb01007.jpg?1772811875",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-b3ee852b883a",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10444/lot/1010",
+      "title": "\u7d00\u5143\u524d650-600\u5e74\u9803 \u53e4\u4ee3 \u30ae\u30ea\u30b7\u30a2 \u30a4\u30aa\u30cb\u30a2 1/3\u30b9\u30c6\u30fc\u30bf\u30fc \u30a8\u30ec\u30af\u30c8\u30e9\u30e0\u8ca8 NGC AU Strike: 4/5...",
+      "description": "\u7d00\u5143\u524d650-600\u5e74\u9803 \u53e4\u4ee3 \u30ae\u30ea\u30b7\u30a2 \u30a4\u30aa\u30cb\u30a2 1/3\u30b9\u30c6\u30fc\u30bf\u30fc \u30a8\u30ec\u30af\u30c8\u30e9\u30e0\u8ca8 NGC AU Strike: 4/5...",
+      "hammer_price_usd": 324.0,
+      "currency_original": "EUR",
+      "price_original": 300.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/galleria/004/thumb01010.jpg?1772811875",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-223c4ff8aaf6",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10444/lot/1011",
+      "title": "\u7d00\u5143\u524d440-404\u5e74 \u53e4\u4ee3 \u30ae\u30ea\u30b7\u30a2 \u30a2\u30c3\u30c6\u30a3\u30ab \u30a2\u30c6\u30cd \u30c6\u30c8\u30e9\u30c9\u30e9\u30af\u30de\u9280\u8ca8 NGC Ch MS Strike:5/5...",
+      "description": "\u7d00\u5143\u524d440-404\u5e74 \u53e4\u4ee3 \u30ae\u30ea\u30b7\u30a2 \u30a2\u30c3\u30c6\u30a3\u30ab \u30a2\u30c6\u30cd \u30c6\u30c8\u30e9\u30c9\u30e9\u30af\u30de\u9280\u8ca8 NGC Ch MS Strike:5/5...",
+      "hammer_price_usd": 540.0,
+      "currency_original": "EUR",
+      "price_original": 500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/galleria/004/thumb01011.jpg?1772811875",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-63d8335edffe",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10444/lot/1012",
+      "title": "\u7d00\u5143\u524d440-404\u5e74 \u53e4\u4ee3 \u30ae\u30ea\u30b7\u30a2 \u30a2\u30c3\u30c6\u30a3\u30ab \u30a2\u30c6\u30cd \u30c6\u30c8\u30e9\u30c9\u30e9\u30af\u30de\u9280\u8ca8 NGC MS Strike:5/5...",
+      "description": "\u7d00\u5143\u524d440-404\u5e74 \u53e4\u4ee3 \u30ae\u30ea\u30b7\u30a2 \u30a2\u30c3\u30c6\u30a3\u30ab \u30a2\u30c6\u30cd \u30c6\u30c8\u30e9\u30c9\u30e9\u30af\u30de\u9280\u8ca8 NGC MS Strike:5/5...",
+      "hammer_price_usd": 432.0,
+      "currency_original": "EUR",
+      "price_original": 400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/galleria/004/thumb01012.jpg?1772811875",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-060d82a0fd51",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10444/lot/1013",
+      "title": "\u7d00\u5143\u524d440-404\u5e74 \u53e4\u4ee3 \u30ae\u30ea\u30b7\u30a2 \u30a2\u30c3\u30c6\u30a3\u30ab \u30a2\u30c6\u30cd \u30c6\u30c8\u30e9\u30c9\u30e9\u30af\u30de\u9280\u8ca8 NGC Ch AU Strike:5/5...",
+      "description": "\u7d00\u5143\u524d440-404\u5e74 \u53e4\u4ee3 \u30ae\u30ea\u30b7\u30a2 \u30a2\u30c3\u30c6\u30a3\u30ab \u30a2\u30c6\u30cd \u30c6\u30c8\u30e9\u30c9\u30e9\u30af\u30de\u9280\u8ca8 NGC Ch AU Strike:5/5...",
+      "hammer_price_usd": 270.0,
+      "currency_original": "EUR",
+      "price_original": 250.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/galleria/004/thumb01013.jpg?1772811875",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-3e5063ef7732",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10444/lot/1014",
+      "title": "\u7d00\u5143\u524d440-404\u5e74 \u53e4\u4ee3 \u30ae\u30ea\u30b7\u30a2 \u30a2\u30c3\u30c6\u30a3\u30ab \u30a2\u30c6\u30cd \u30c6\u30c8\u30e9\u30c9\u30e9\u30af\u30de\u9280\u8ca8 NGC AU Strike:5/5...",
+      "description": "\u7d00\u5143\u524d440-404\u5e74 \u53e4\u4ee3 \u30ae\u30ea\u30b7\u30a2 \u30a2\u30c3\u30c6\u30a3\u30ab \u30a2\u30c6\u30cd \u30c6\u30c8\u30e9\u30c9\u30e9\u30af\u30de\u9280\u8ca8 NGC AU Strike:5/5...",
+      "hammer_price_usd": 270.0,
+      "currency_original": "EUR",
+      "price_original": 250.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/galleria/004/thumb01014.jpg?1772811875",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-8b262538598d",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10444/lot/1015",
+      "title": "\u7d00\u5143\u524d440-404\u5e74 \u53e4\u4ee3 \u30ae\u30ea\u30b7\u30a2 \u30a2\u30c3\u30c6\u30a3\u30ab \u30a2\u30c6\u30cd \u30c6\u30c8\u30e9\u30c9\u30e9\u30af\u30de\u9280\u8ca8 NGC Ch XF Strike:5/5...",
+      "description": "\u7d00\u5143\u524d440-404\u5e74 \u53e4\u4ee3 \u30ae\u30ea\u30b7\u30a2 \u30a2\u30c3\u30c6\u30a3\u30ab \u30a2\u30c6\u30cd \u30c6\u30c8\u30e9\u30c9\u30e9\u30af\u30de\u9280\u8ca8 NGC Ch XF Strike:5/5...",
+      "hammer_price_usd": 172.8,
+      "currency_original": "EUR",
+      "price_original": 160.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/galleria/004/thumb01015.jpg?1772811875",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-9524289a630f",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10444/lot/1016",
+      "title": "\u7d00\u5143\u524d350\u2013300\u5e74 \u53e4\u4ee3 \u30ae\u30ea\u30b7\u30a2 \u30c8\u30e9\u30ad\u30a2 \u30cf\u30fc\u30d5\u30b7\u30b0\u30ed\u30b9\u9280\u8ca8 NGC Ch VF Strike: 5/5 Surface: 5/5...",
+      "description": "\u7d00\u5143\u524d350\u2013300\u5e74 \u53e4\u4ee3 \u30ae\u30ea\u30b7\u30a2 \u30c8\u30e9\u30ad\u30a2 \u30cf\u30fc\u30d5\u30b7\u30b0\u30ed\u30b9\u9280\u8ca8 NGC Ch VF Strike: 5/5 Surface: 5/5...",
+      "hammer_price_usd": 54.0,
+      "currency_original": "EUR",
+      "price_original": 50.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/galleria/004/thumb01016.jpg?1772811875",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-6167986ab481",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10444/lot/1017",
+      "title": "\u7d00\u5143\u524d54\u5e74 \u53e4\u4ee3 \u30ae\u30ea\u30b7\u30a2 \u30c8\u30e9\u30ad\u30a2/\u30b9\u30ad\u30bf\u30a4 \u30b3\u30bd\u30f3\u738b \u30b9\u30c6\u30fc\u30bf\u30fc\u91d1\u8ca8 NGC Ch MS Strike: 5/5...",
+      "description": "\u7d00\u5143\u524d54\u5e74 \u53e4\u4ee3 \u30ae\u30ea\u30b7\u30a2 \u30c8\u30e9\u30ad\u30a2/\u30b9\u30ad\u30bf\u30a4 \u30b3\u30bd\u30f3\u738b \u30b9\u30c6\u30fc\u30bf\u30fc\u91d1\u8ca8 NGC Ch MS Strike: 5/5...",
+      "hammer_price_usd": 864.0,
+      "currency_original": "EUR",
+      "price_original": 800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/galleria/004/thumb01017.jpg?1772811875",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-87542016412d",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10444/lot/1019",
+      "title": "\u7d00\u5143\u524d2\u4e16\u7d00 \u53e4\u4ee3 \u30ae\u30ea\u30b7\u30a2 \u30a2\u30ab\u30a4\u30a2\u540c\u76df \u30b3\u30ea\u30f3\u30c8\u30b9 \u30d8\u30df\u30c9\u30e9\u30af\u30de\u9280\u8ca8 NGC Ch VF Strike: 5/5...",
+      "description": "\u7d00\u5143\u524d2\u4e16\u7d00 \u53e4\u4ee3 \u30ae\u30ea\u30b7\u30a2 \u30a2\u30ab\u30a4\u30a2\u540c\u76df \u30b3\u30ea\u30f3\u30c8\u30b9 \u30d8\u30df\u30c9\u30e9\u30af\u30de\u9280\u8ca8 NGC Ch VF Strike: 5/5...",
+      "hammer_price_usd": 129.6,
+      "currency_original": "EUR",
+      "price_original": 120.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/galleria/004/thumb01019.jpg?1772811875",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-7cddbfd9b58a",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10444/lot/1023",
+      "title": "138\u2013141\u5e74 \u53e4\u4ee3 \u30ed\u30fc\u30de\u5e1d\u56fd \u5927\u30d5\u30a1\u30a6\u30b9\u30c6\u30a3\u30ca \u30c7\u30ca\u30ea\u30a6\u30b9\u9280\u8ca8 posthumous issue NGC Ch XF Strike:...",
+      "description": "138\u2013141\u5e74 \u53e4\u4ee3 \u30ed\u30fc\u30de\u5e1d\u56fd \u5927\u30d5\u30a1\u30a6\u30b9\u30c6\u30a3\u30ca \u30c7\u30ca\u30ea\u30a6\u30b9\u9280\u8ca8 posthumous issue NGC Ch XF Strike:...",
+      "hammer_price_usd": 54.0,
+      "currency_original": "EUR",
+      "price_original": 50.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/galleria/004/thumb01023.jpg?1772811875",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-e3bb5ec98bce",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10444/lot/1024",
+      "title": "193-211\u5e74 \u53e4\u4ee3 \u30ed\u30fc\u30de\u5e1d\u56fd \u30bb\u30d7\u30c6\u30a3\u30df\u30a6\u30b9\u30fb\u30bb\u30a6\u30a7\u30eb\u30b9 \u30c7\u30ca\u30ea\u30a6\u30b9\u9280\u8ca8 NGC Ch XF Strike: 5/5...",
+      "description": "193-211\u5e74 \u53e4\u4ee3 \u30ed\u30fc\u30de\u5e1d\u56fd \u30bb\u30d7\u30c6\u30a3\u30df\u30a6\u30b9\u30fb\u30bb\u30a6\u30a7\u30eb\u30b9 \u30c7\u30ca\u30ea\u30a6\u30b9\u9280\u8ca8 NGC Ch XF Strike: 5/5...",
+      "hammer_price_usd": 81.0,
+      "currency_original": "EUR",
+      "price_original": 75.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/galleria/004/thumb01024.jpg?1772811875",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-f423baf5de2d",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10444/lot/1025",
+      "title": "198-217\u5e74 \u53e4\u4ee3 \u30ed\u30fc\u30de\u5e1d\u56fd \u30ab\u30e9\u30ab\u30e9 \u30c7\u30ca\u30ea\u30a6\u30b9\u9280\u8ca8 NGC AU Strike: 5/5 Surface: 5/5 (8243529-008)...",
+      "description": "198-217\u5e74 \u53e4\u4ee3 \u30ed\u30fc\u30de\u5e1d\u56fd \u30ab\u30e9\u30ab\u30e9 \u30c7\u30ca\u30ea\u30a6\u30b9\u9280\u8ca8 NGC AU Strike: 5/5 Surface: 5/5 (8243529-008)...",
+      "hammer_price_usd": 81.0,
+      "currency_original": "EUR",
+      "price_original": 75.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/galleria/004/thumb01025.jpg?1772811875",
+      "ngc": {
+        "verified": false,
+        "cert_number": "8243529-008",
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": "https://www.ngccoin.com/certlookup/8243529008/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-327c04f204fc",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10444/lot/1026",
+      "title": "337-350\u5e74 \u53e4\u4ee3 \u30ed\u30fc\u30de\u5e1d\u56fd \u30b3\u30f3\u30b9\u30bf\u30f3\u30c6\u30a3\u30cc\u30b9 \u30bb\u30f3\u30c6\u30cb\u30aa\u30ca\u30ea\u30b9 \u30d3\u30ed\u30f3\u8ca8 NGC Ch XF Strike:...",
+      "description": "337-350\u5e74 \u53e4\u4ee3 \u30ed\u30fc\u30de\u5e1d\u56fd \u30b3\u30f3\u30b9\u30bf\u30f3\u30c6\u30a3\u30cc\u30b9 \u30bb\u30f3\u30c6\u30cb\u30aa\u30ca\u30ea\u30b9 \u30d3\u30ed\u30f3\u8ca8 NGC Ch XF Strike:...",
+      "hammer_price_usd": 54.0,
+      "currency_original": "EUR",
+      "price_original": 50.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-24",
+      "image_url": "https://media.numisbids.com/sales/hosted/galleria/004/thumb01026.jpg?1772811875",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-cb820fc401dc",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10501/lot/44024",
+      "title": "ANNAM. 1-1/2 Tien, ND (1820-41). Minh Mang. NGC AU-58. Fr-7; KM-215; Sch-211. A RARE Annamese issue in gold. Crisp...",
+      "description": "ANNAM. 1-1/2 Tien, ND (1820-41). Minh Mang. NGC AU-58. Fr-7; KM-215; Sch-211. A RARE Annamese issue in gold. Crisp...",
+      "hammer_price_usd": 1500.0,
+      "currency_original": "USD",
+      "price_original": 1500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237/thumb44024.jpg?1774052012",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-ccda89d9f782",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10501/lot/44026",
+      "title": "ANNAM. Fantasy Imitative Silver 7 Tien, \"Year 15\" (ca. 20th Century). Minh Mang. NGC AU Details--Tooled. cf. KM-195...",
+      "description": "ANNAM. Fantasy Imitative Silver 7 Tien, \"Year 15\" (ca. 20th Century). Minh Mang. NGC AU Details--Tooled. cf. KM-195...",
+      "hammer_price_usd": 420.0,
+      "currency_original": "USD",
+      "price_original": 420.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237/thumb44026.jpg?1774052012",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-0e9d858ebe9c",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10501/lot/44027",
+      "title": "- Appealing 7 Tien from the Reign of Thieu Tri ANNAM. 7 Tien, ND (1841-47). Thieu Tri. NGC AU-55. KM-291; Sch-258.2. A...",
+      "description": "- Appealing 7 Tien from the Reign of Thieu Tri ANNAM. 7 Tien, ND (1841-47). Thieu Tri. NGC AU-55. KM-291; Sch-258.2. A...",
+      "hammer_price_usd": 4800.0,
+      "currency_original": "USD",
+      "price_original": 4800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237/thumb44027.jpg?1774052012",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-fc61ba2867e6",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10501/lot/44029",
+      "title": "- Impressive Mint State Dragon Crown ANNAM. 7 Tien, ND (1848-83). Tu Duc. NGC MS-62. KM-469; Sch-368. Nicely struck...",
+      "description": "- Impressive Mint State Dragon Crown ANNAM. 7 Tien, ND (1848-83). Tu Duc. NGC MS-62. KM-469; Sch-368. Nicely struck...",
+      "hammer_price_usd": 4800.0,
+      "currency_original": "USD",
+      "price_original": 4800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237/thumb44029.jpg?1774052012",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-0b79755b72b0",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10501/lot/44031",
+      "title": "ANNAM. 3 Tien, ND (1848-83). Tu Duc. PCGS MS-63. KM-442; Sch-407a. Weight: 11.31 gms. A wondrous Choice example, tied...",
+      "description": "ANNAM. 3 Tien, ND (1848-83). Tu Duc. PCGS MS-63. KM-442; Sch-407a. Weight: 11.31 gms. A wondrous Choice example, tied...",
+      "hammer_price_usd": 2400.0,
+      "currency_original": "USD",
+      "price_original": 2400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237/thumb44031.jpg?1774052012",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 63,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "pcgs"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-360ac1afae7f",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10503/lot/47153",
+      "title": "ANGOLA. 2 Macutas, ND (1837). Maria II. NGC VF-20. KM-51.1; Gomes-05.02. Crowned arms countermark applied to a 1763...",
+      "description": "ANGOLA. 2 Macutas, ND (1837). Maria II. NGC VF-20. KM-51.1; Gomes-05.02. Crowned arms countermark applied to a 1763...",
+      "hammer_price_usd": 60.0,
+      "currency_original": "USD",
+      "price_original": 60.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237online/thumb47153.jpg?1774052437",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-379f23524c5a",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10503/lot/47154",
+      "title": "ANGUILLA. Anguilla - Peru. Dollar, 1967. NGC EF-40. KMX-3. Mintage: 1,530. A \"Liberty Dollar\" counterstamped on a Peru...",
+      "description": "ANGUILLA. Anguilla - Peru. Dollar, 1967. NGC EF-40. KMX-3. Mintage: 1,530. A \"Liberty Dollar\" counterstamped on a Peru...",
+      "hammer_price_usd": 60.0,
+      "currency_original": "USD",
+      "price_original": 60.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237online/thumb47154.jpg?1774052437",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-7d3c306ca7e8",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10503/lot/47165",
+      "title": "AUSTRALIA. Sydney & Brisbane. Flavelle Bros. & Co. Copper Penny Token, ND (1857). Victoria. NGC AU-58. KM-Tn70....",
+      "description": "AUSTRALIA. Sydney & Brisbane. Flavelle Bros. & Co. Copper Penny Token, ND (1857). Victoria. NGC AU-58. KM-Tn70....",
+      "hammer_price_usd": 36.0,
+      "currency_original": "USD",
+      "price_original": 36.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237online/thumb47165.jpg?1774052437",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-65be1e741ee3",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10503/lot/47166",
+      "title": "AUSTRALIA. Sovereign, 1867-SYDNEY. Sydney Mint. Victoria. NGC AU-58. Fr-10; KM-4. AGW: 0.2354 oz.  Estimate: 1250 - 1750",
+      "description": "AUSTRALIA. Sovereign, 1867-SYDNEY. Sydney Mint. Victoria. NGC AU-58. Fr-10; KM-4. AGW: 0.2354 oz.  Estimate: 1250 - 1750",
+      "hammer_price_usd": 750.0,
+      "currency_original": "USD",
+      "price_original": 750.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237online/thumb47166.jpg?1774052437",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-038dc38a81c9",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10503/lot/47169",
+      "title": "AUSTRALIA. Sovereign, 1898-M. Melbourne Mint. Victoria. NGC MS-61. S-3875; Fr-24; KM-13.  Estimate: 800 - 1200",
+      "description": "AUSTRALIA. Sovereign, 1898-M. Melbourne Mint. Victoria. NGC MS-61. S-3875; Fr-24; KM-13.  Estimate: 800 - 1200",
+      "hammer_price_usd": 480.0,
+      "currency_original": "USD",
+      "price_original": 480.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237online/thumb47169.jpg?1774052437",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-3660312e8a26",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10503/lot/47170",
+      "title": "AUSTRALIA. 3 Pence, 1912. London Mint. George V. NGC AU-58. KM-24.  Estimate: 60 - 100",
+      "description": "AUSTRALIA. 3 Pence, 1912. London Mint. George V. NGC AU-58. KM-24.  Estimate: 60 - 100",
+      "hammer_price_usd": 36.0,
+      "currency_original": "USD",
+      "price_original": 36.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237online/thumb47170.jpg?1774052437",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-203a63eed32d",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10503/lot/47187",
+      "title": "BHUTAN. 1/2 Rupee, ND (1910-27). Ugyen Wangchuck. NGC AU-50. KM-19. Four Buddhist symbols variety.  Estimate: 200 - 400",
+      "description": "BHUTAN. 1/2 Rupee, ND (1910-27). Ugyen Wangchuck. NGC AU-50. KM-19. Four Buddhist symbols variety.  Estimate: 200 - 400",
+      "hammer_price_usd": 120.0,
+      "currency_original": "USD",
+      "price_original": 120.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237online/thumb47187.jpg?1774052437",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-ce633993ae60",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10503/lot/47190",
+      "title": "BHUTAN. 5 Sertums, 1994. Jigme Singye Wangchuck. NGC PROOF-69 Ultra Cameo. Fr-15; KM-82. AGW: 0.1458 oz. 1994 Olympic...",
+      "description": "BHUTAN. 5 Sertums, 1994. Jigme Singye Wangchuck. NGC PROOF-69 Ultra Cameo. Fr-15; KM-82. AGW: 0.1458 oz. 1994 Olympic...",
+      "hammer_price_usd": 420.0,
+      "currency_original": "USD",
+      "price_original": 420.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237online/thumb47190.jpg?1774052437",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "P",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-9c95282e368c",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10503/lot/47191",
+      "title": "BHUTAN. 5 Sertums, 1994. Jigme Singye Wangchuck. NGC PROOF-68 Ultra Cameo. Fr-15; KM-82. AGW: 0.1458 oz. 1994 Olympic...",
+      "description": "BHUTAN. 5 Sertums, 1994. Jigme Singye Wangchuck. NGC PROOF-68 Ultra Cameo. Fr-15; KM-82. AGW: 0.1458 oz. 1994 Olympic...",
+      "hammer_price_usd": 420.0,
+      "currency_original": "USD",
+      "price_original": 420.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237online/thumb47191.jpg?1774052437",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "P",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-63f14f7f7bac",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10503/lot/47192",
+      "title": "BOLIVIA. Cob 8 Reales, ND (1574-1622)-P. Potosi Mint. NGC Genuine--Shipwreck Effect. cf. Cal-Type-164. \"P\" mintmark...",
+      "description": "BOLIVIA. Cob 8 Reales, ND (1574-1622)-P. Potosi Mint. NGC Genuine--Shipwreck Effect. cf. Cal-Type-164. \"P\" mintmark...",
+      "hammer_price_usd": 120.0,
+      "currency_original": "USD",
+      "price_original": 120.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237online/thumb47192.jpg?1774052437",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-644eefe6126f",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10503/lot/47195",
+      "title": "BOLIVIA. 50 Centavos, 1906-PTS MM. Potosi Mint. NGC MS-65. KM-175.1.  Estimate: 60 - 100",
+      "description": "BOLIVIA. 50 Centavos, 1906-PTS MM. Potosi Mint. NGC MS-65. KM-175.1.  Estimate: 60 - 100",
+      "hammer_price_usd": 36.0,
+      "currency_original": "USD",
+      "price_original": 36.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237online/thumb47195.jpg?1774052437",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-314775e2d406",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10503/lot/47196",
+      "title": "BRAZIL. 40 Reis, 1889. Rio de Janeiro Mint. NGC MS-63 Red Brown. KM-491.  Estimate: 60 - 100",
+      "description": "BRAZIL. 40 Reis, 1889. Rio de Janeiro Mint. NGC MS-63 Red Brown. KM-491.  Estimate: 60 - 100",
+      "hammer_price_usd": 36.0,
+      "currency_original": "USD",
+      "price_original": 36.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237online/thumb47196.jpg?1774052437",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-631325d75a9e",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10503/lot/47210",
+      "title": "BULGARIA. Lev, 1910. Kremnica Mint. Ferdinand I. NGC MS-62. KM-28.  Estimate: 150 - 300",
+      "description": "BULGARIA. Lev, 1910. Kremnica Mint. Ferdinand I. NGC MS-62. KM-28.  Estimate: 150 - 300",
+      "hammer_price_usd": 90.0,
+      "currency_original": "USD",
+      "price_original": 90.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237online/thumb47210.jpg?1774052437",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-d85b40334089",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10503/lot/47222",
+      "title": "BURMA. 1/4 Pe (Pice), CS 1143 (1781). NGC EF Details--Environmental Damage. KM-2.2; Robinson & Shaw-8.3D. Variety with...",
+      "description": "BURMA. 1/4 Pe (Pice), CS 1143 (1781). NGC EF Details--Environmental Damage. KM-2.2; Robinson & Shaw-8.3D. Variety with...",
+      "hammer_price_usd": 90.0,
+      "currency_original": "USD",
+      "price_original": 90.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237online/thumb47222.jpg?1774052437",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-2e976aa392c5",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10503/lot/47224",
+      "title": "BURMA. Kyat, CS 1214 (1852). Mandalay Mint. Mindon. NGC AU-58. KM-10.  Estimate: 500 - 750",
+      "description": "BURMA. Kyat, CS 1214 (1852). Mandalay Mint. Mindon. NGC AU-58. KM-10.  Estimate: 500 - 750",
+      "hammer_price_usd": 300.0,
+      "currency_original": "USD",
+      "price_original": 300.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237online/thumb47224.jpg?1774052437",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "numisbids-eb25e5c81cab",
+      "source": "numisbids",
+      "listing_type": "auction_estimate",
+      "lot_url": "https://www.numisbids.com/sale/10503/lot/47225",
+      "title": "BURMA. Kyat, CS 1214 (1852). Mandalay Mint. Mindon. NGC AU-55. KM-10. Lettering around peacock variety.  Estimate: 300...",
+      "description": "BURMA. Kyat, CS 1214 (1852). Mandalay Mint. Mindon. NGC AU-55. KM-10. Lettering around peacock variety.  Estimate: 300...",
+      "hammer_price_usd": 180.0,
+      "currency_original": "USD",
+      "price_original": 180.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-11",
+      "image_url": "https://media.numisbids.com/sales/hosted/ponterio/237online/thumb47225.jpg?1774052437",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-bdbd84c48cf4",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -253,7 +1534,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -285,7 +1566,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -317,7 +1598,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -349,7 +1630,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -381,7 +1662,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -413,7 +1694,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -445,7 +1726,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -477,7 +1758,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -509,7 +1790,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -541,7 +1822,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -573,7 +1854,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -605,7 +1886,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -637,7 +1918,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -669,7 +1950,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -701,7 +1982,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -733,7 +2014,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -765,7 +2046,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -797,7 +2078,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -829,7 +2110,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -861,7 +2142,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -893,7 +2174,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -925,7 +2206,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -957,7 +2238,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -989,7 +2270,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -1021,7 +2302,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -1053,7 +2334,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -1085,7 +2366,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -1117,7 +2398,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -1149,7 +2430,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -1181,7 +2462,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -1213,7 +2494,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -1245,7 +2526,7 @@
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": null,
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
