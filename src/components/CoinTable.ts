@@ -89,24 +89,28 @@ export function renderCoinTable(
       : ''
 
     const topGrade = NGC_GRADE_ORDER.find(g => coin.grade_distribution[g])
-    const subtitle = coin.ruler
-      ? coin.ruler_dates
-        ? `${coin.ruler} (${coin.ruler_dates})`
-        : coin.ruler
-      : coin.category
-    const gradeNote = topGrade ? ` · NGC ${topGrade}` : ''
+
+    // White line: "AV Aureus | Commodus (AD 177–192)"
+    const rulerPart = coin.ruler
+      ? ` | ${coin.ruler}${coin.ruler_dates ? ` (${coin.ruler_dates})` : ''}`
+      : ''
     const rarityBadge = coin.ruler_rarity === 'scarce'
-      ? `<span class="ml-1 px-1 py-0.5 rounded text-[10px] border bg-amber-900/40 text-amber-300 border-amber-700 align-middle">Scarce</span>`
+      ? `<span class="ml-1.5 px-1 py-0.5 rounded text-[10px] border bg-amber-900/40 text-amber-300 border-amber-700 align-middle">Scarce</span>`
       : coin.ruler_rarity === 'common'
-        ? `<span class="ml-1 px-1 py-0.5 rounded text-[10px] border bg-stone-800 text-stone-500 border-stone-600 align-middle">High Mintage</span>`
+        ? `<span class="ml-1.5 px-1 py-0.5 rounded text-[10px] border bg-stone-800 text-stone-500 border-stone-600 align-middle">High Mintage</span>`
         : ''
+
+    // Grey line: "NGC AU" or category fallback
+    const gradeSubtitle = topGrade
+      ? `NGC ${topGrade}`
+      : coin.category
 
     return `
       <tr class="table-row cursor-pointer" data-slug="${coin.slug}">
         <td class="table-cell w-12">${thumb}</td>
         <td class="table-cell">
-          <div class="font-medium text-stone-100">${coin.denomination}${rarityBadge}</div>
-          <div class="text-xs text-stone-500">${subtitle}${gradeNote}</div>
+          <div class="font-medium text-stone-100">${coin.denomination}${rulerPart}${rarityBadge}</div>
+          <div class="text-xs text-stone-500">${gradeSubtitle}</div>
         </td>
         <td class="table-cell text-stone-300">${coin.ruler ?? '—'}</td>
         <td class="table-cell capitalize text-stone-400">${coin.metal}</td>
