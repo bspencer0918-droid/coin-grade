@@ -69,6 +69,9 @@ class HJBScraper(BaseScraper):
                         logger.info(f"[HJB] Sample item keys: {list(items[0].keys())}")
                         logger.info(f"[HJB] Sample title: {items[0].get('Title','')[:100]}")
                         logger.info(f"[HJB] Sample desc: {str(items[0].get('Description',''))[:100]}")
+                        # Log all field values for first item to see where NGC text hides
+                        all_vals = {k: str(v)[:80] for k, v in items[0].items() if v}
+                        logger.info(f"[HJB] First item all fields: {all_vals}")
 
                     yielded = 0
                     for item in items:

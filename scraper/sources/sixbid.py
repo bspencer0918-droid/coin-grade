@@ -53,15 +53,17 @@ class SixbidScraper(BaseScraper):
                     self._wait()
                     try:
                         resp = client.post(API_URL, json={
-                            "query":        query,
-                            "language":     "en",
-                            "start":        start,
-                            "rows":         RESULTS_PER_PAGE,
-                            "currency":     "usd",
-                            "thesaurus":    False,
-                            "translations": False,
-                            "highlight":    False,
+                            "query":    query,
+                            "language": "en",
+                            "start":    start,
+                            "rows":     RESULTS_PER_PAGE,
                         })
+                        if resp.status_code == 400:
+                            logger.error(
+                                f"[Sixbid] 400 Bad Request at offset {start}. "
+                                f"Response: {resp.text[:300]}"
+                            )
+                            break
                         resp.raise_for_status()
                         data = resp.json()
                     except Exception as e:

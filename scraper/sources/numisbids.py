@@ -3,6 +3,7 @@ NumisBids scraper — aggregates results from many European auction houses.
 
 Server-rendered HTML, no JS required.
 Search URL: https://www.numisbids.com/searchall?searchall=NGC+ancient&pg=N
+Results URL: https://www.numisbids.com/n.pl?p=results&searchtext=NGC+ancient&pg=N
 Listing container: div.browse
 """
 from __future__ import annotations
@@ -21,8 +22,9 @@ from .base import BaseScraper
 
 logger = logging.getLogger(__name__)
 
-BASE_URL   = "https://www.numisbids.com"
-SEARCH_URL = f"{BASE_URL}/searchall"
+BASE_URL    = "https://www.numisbids.com"
+SEARCH_URL  = f"{BASE_URL}/searchall"
+RESULTS_URL = f"{BASE_URL}/n.pl"
 
 
 class NumisBidsScraper(BaseScraper):
@@ -39,53 +41,64 @@ class NumisBidsScraper(BaseScraper):
         "div[class*='browse']",
     ]
 
+    # Search templates: {pg} is substituted with the page number.
+    # We try both the general searchall (includes upcoming + past) and
+    # the results-only archive (past/realized auctions only).
+    _SEARCHES = [
+        (f"{SEARCH_URL}?searchall=NGC+ancient&pg={{pg}}", "searchall/NGC-ancient"),
+        (f"{RESULTS_URL}?p=results&searchtext=NGC+ancient&pg={{pg}}", "results/NGC-ancient"),
+    ]
+
     def scrape(self, max_pages: int = MAX_PAGES["numisbids"]) -> Iterator[RawListing]:
         cutoff = cutoff_date()
-        for page_num in range(1, max_pages + 1):
-            url = f"{SEARCH_URL}?searchall=NGC+ancient&pg={page_num}"
-            logger.info(f"[NumisBids] Fetching page {page_num}")
-            try:
-                resp = self.fetch(url)
-                soup = BeautifulSoup(resp.text, "lxml")
-            except Exception as e:
-                logger.error(f"[NumisBids] Page {page_num} failed: {e}")
-                break
+        pages_per_search = max(max_pages // len(self._SEARCHES), 10)
 
-            # Try each selector until we find items
-            items = []
-            for sel in self._ITEM_SELECTORS:
-                items = soup.select(sel)
-                if items:
-                    logger.info(f"[NumisBids] Matched selector '{sel}' → {len(items)} items")
+        for url_template, label in self._SEARCHES:
+            self._debug_logged = False  # reset per search
+            for page_num in range(1, pages_per_search + 1):
+                url = url_template.format(pg=page_num)
+                logger.info(f"[NumisBids:{label}] Fetching page {page_num}")
+                try:
+                    resp = self.fetch(url)
+                    soup = BeautifulSoup(resp.text, "lxml")
+                except Exception as e:
+                    logger.error(f"[NumisBids:{label}] Page {page_num} failed: {e}")
                     break
 
-            if not items:
-                # Log a snippet of the page to help debug selector mismatches
-                body_text = soup.get_text(separator=" ", strip=True)[:400]
-                logger.info(f"[NumisBids] No items on page {page_num}. Body snippet: {body_text}")
-                break
+                # Try each selector until we find items
+                items = []
+                for sel in self._ITEM_SELECTORS:
+                    items = soup.select(sel)
+                    if items:
+                        logger.info(f"[NumisBids:{label}] Matched selector '{sel}' → {len(items)} items")
+                        break
 
-            # Build a map of sale dates from the status bars on the page
-            sale_dates = _extract_sale_dates(soup)
+                if not items:
+                    body_text = soup.get_text(separator=" ", strip=True)[:400]
+                    logger.info(f"[NumisBids:{label}] No items on page {page_num}. Body snippet: {body_text}")
+                    break
 
-            yielded = 0
-            past_cutoff = 0
-            for item in items:
-                listing = self._parse_item(item, sale_dates)
-                if listing:
-                    if listing.sale_date and listing.sale_date < cutoff:
-                        past_cutoff += 1
-                        continue
-                    yield listing
-                    yielded += 1
+                # Build a map of sale dates from the status bars on the page
+                sale_dates = _extract_sale_dates(soup)
 
-            logger.info(f"[NumisBids] Page {page_num}: {yielded} listings")
-            # If all items on this page are older than cutoff, stop paginating
-            if past_cutoff > 0 and yielded == 0:
-                logger.info(f"[NumisBids] All items on page {page_num} older than {cutoff} — stopping")
-                break
-            if yielded < 5 and past_cutoff == 0:
-                break
+                yielded = 0
+                past_cutoff = 0
+                for item in items:
+                    listing = self._parse_item(item, sale_dates)
+                    if listing:
+                        if listing.sale_date and listing.sale_date < cutoff:
+                            past_cutoff += 1
+                            continue
+                        yield listing
+                        yielded += 1
+
+                logger.info(f"[NumisBids:{label}] Page {page_num}: {yielded} listings")
+                # If all items on this page are older than cutoff, stop paginating
+                if past_cutoff > 0 and yielded == 0:
+                    logger.info(f"[NumisBids:{label}] All items older than {cutoff} — stopping")
+                    break
+                if yielded < 5 and past_cutoff == 0:
+                    break
 
     def _parse_item(self, item, sale_dates: dict) -> RawListing | None:
         try:

@@ -29,8 +29,6 @@ BASE_URL   = "https://coins.ha.com"
 LOGIN_URL  = "https://www.ha.com/c/login.zx"
 
 # Search queries: (url_fragment, label)
-# N-parameter facets: 790=Coins, 4294967021=Realized prices,
-# 4294966556=additional filter. Ntk/Ntt = keyword search.
 SEARCH_QUERIES = [
     (
         f"{BASE_URL}/c/search-results.zx"
@@ -61,63 +59,17 @@ class HeritageScraper(BaseScraper):
             logger.warning("[Heritage] No credentials set — skipping (set HERITAGE_EMAIL / HERITAGE_PASSWORD)")
             return
 
-        pages_per_query = max(max_pages // len(SEARCH_QUERIES), 10)
+        # Run entire scrape in a single async browser session (login once, reuse session)
+        results = asyncio.run(self._scrape_async(max_pages))
+        yield from results
 
-        for search_url, label in SEARCH_QUERIES:
-            for page_num in range(1, pages_per_query + 1):
-                url = f"{search_url}&ic__offerPage={page_num}"
-                logger.info(f"[Heritage:{label}] Fetching page {page_num}")
-                self._wait()
-
-                try:
-                    html = asyncio.run(
-                        self._fetch_authenticated(url)
-                    )
-                except Exception as e:
-                    logger.error(f"[Heritage:{label}] Fetch failed: {e}")
-                    break
-
-                if "Access Denied" in html or "cf-browser-verification" in html:
-                    logger.warning(f"[Heritage:{label}] Cloudflare block — skipping")
-                    break
-
-                # If redirected back to login, our session expired
-                if "loginForm" in html or "sign-in" in html.lower():
-                    logger.warning(f"[Heritage:{label}] Session expired / login wall — stopping")
-                    break
-
-                soup = BeautifulSoup(html, "lxml")
-                items = soup.select(
-                    "li.result-item, div.lot-item, article.item, "
-                    "div[class*='result-item'], li[class*='lot']"
-                )
-                if not items:
-                    # Log a snippet to help debug selector changes
-                    snippet = soup.get_text(separator=" ", strip=True)[:300]
-                    logger.info(f"[Heritage:{label}] No items on page {page_num}. Snippet: {snippet}")
-                    break
-
-                yielded = 0
-                for item in items:
-                    listing = self._parse_item(item, label)
-                    if listing:
-                        yield listing
-                        yielded += 1
-
-                logger.info(f"[Heritage:{label}] Page {page_num}: {yielded} listings")
-                if yielded < 3:
-                    break
-
-    async def _fetch_authenticated(self, url: str) -> str:
-        """
-        Launch a Playwright browser, log in to Heritage with stored
-        credentials, then navigate to url and return the page HTML.
-        Session cookies are not persisted between calls — we log in
-        fresh each time (Heritage sessions last the duration of the run).
-        """
+    async def _scrape_async(self, max_pages: int) -> list[RawListing]:
         from playwright.async_api import async_playwright
         from ..config import BROWSER_ARGS, VIEWPORT, USER_AGENTS
         import random
+
+        results: list[RawListing] = []
+        pages_per_query = max(max_pages // len(SEARCH_QUERIES), 10)
 
         async with async_playwright() as p:
             browser = await p.chromium.launch(headless=True, args=BROWSER_ARGS)
@@ -129,52 +81,209 @@ class HeritageScraper(BaseScraper):
                     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
                 },
             )
-            # Block images/fonts to speed up scraping
+            # Block images/fonts/media to speed up scraping
             await context.route(
                 "**/*.{png,jpg,jpeg,gif,webp,svg,woff,woff2,ttf,mp4,mp3}",
                 lambda route: route.abort(),
             )
             page = await context.new_page()
 
-            # --- Login ---
-            logger.info("[Heritage] Logging in...")
-            await page.goto(LOGIN_URL, wait_until="domcontentloaded", timeout=30000)
+            # Login once for the entire session
+            logged_in = await self._login(page)
+            if not logged_in:
+                logger.warning("[Heritage] Login failed — will attempt to scrape anyway (may hit paywall)")
 
-            try:
-                await page.wait_for_selector(
-                    "input[type='email'], input[name='email'], input[id*='email'], input[placeholder*='mail']",
-                    timeout=10000,
-                )
-                await page.fill(
-                    "input[type='email'], input[name='email'], input[id*='email'], input[placeholder*='mail']",
-                    HERITAGE_EMAIL,
-                )
-                await page.fill(
-                    "input[type='password'], input[name='password'], input[id*='password']",
-                    HERITAGE_PASSWORD,
-                )
-                await page.click(
-                    "button[type='submit'], input[type='submit'], button[class*='login'], button[class*='sign']"
-                )
-                # Wait for redirect after successful login
-                await page.wait_for_load_state("domcontentloaded", timeout=15000)
-                logger.info(f"[Heritage] Login complete, now at: {page.url}")
-            except Exception as e:
-                logger.warning(f"[Heritage] Login step failed: {e} — attempting to scrape anyway")
+            for search_url, label in SEARCH_QUERIES:
+                for page_num in range(1, pages_per_query + 1):
+                    url = f"{search_url}&ic__offerPage={page_num}"
+                    logger.info(f"[Heritage:{label}] Fetching page {page_num}")
+                    self._wait()
 
-            # --- Fetch target page with authenticated session ---
-            await page.goto(url, wait_until="domcontentloaded", timeout=30000)
-            try:
-                await page.wait_for_selector(
-                    ".result-item, .lot-item, article.item, main",
-                    timeout=15000,
-                )
-            except Exception:
-                pass  # proceed anyway and let the parser decide
+                    try:
+                        await page.goto(url, wait_until="domcontentloaded", timeout=30000)
+                        try:
+                            await page.wait_for_selector(
+                                ".result-item, .lot-item, article.item, main, #content",
+                                timeout=15000,
+                            )
+                        except Exception:
+                            pass  # proceed and let the parser decide
 
-            html = await page.content()
+                        html = await page.content()
+                    except Exception as e:
+                        logger.error(f"[Heritage:{label}] Fetch failed: {e}")
+                        break
+
+                    if "Access Denied" in html or "cf-browser-verification" in html:
+                        logger.warning(f"[Heritage:{label}] Cloudflare block — skipping")
+                        break
+
+                    if "loginForm" in html or ("sign-in" in html.lower() and "logged" not in html.lower()):
+                        logger.warning(f"[Heritage:{label}] Session expired / login wall — stopping")
+                        break
+
+                    soup = BeautifulSoup(html, "lxml")
+
+                    # Log the page URL and title to help diagnose redirects
+                    title_el = soup.find("title")
+                    logger.info(f"[Heritage:{label}] Page title: {title_el.get_text()[:80] if title_el else '?'}")
+
+                    items = soup.select(
+                        "li.result-item, div.lot-item, article.item, "
+                        "div[class*='result-item'], li[class*='lot'], "
+                        "div.lot-details, div[class*='lot-details']"
+                    )
+                    if not items:
+                        snippet = soup.get_text(separator=" ", strip=True)[:400]
+                        logger.info(f"[Heritage:{label}] No items on page {page_num}. Snippet: {snippet}")
+                        break
+
+                    yielded = 0
+                    for item in items:
+                        listing = self._parse_item(item, label)
+                        if listing:
+                            results.append(listing)
+                            yielded += 1
+
+                    logger.info(f"[Heritage:{label}] Page {page_num}: {yielded} listings")
+                    if yielded < 3:
+                        break
+
             await browser.close()
-            return html
+
+        return results
+
+    async def _login(self, page) -> bool:
+        """
+        Navigate to Heritage login page and submit credentials.
+        Returns True if login appears successful.
+        """
+        logger.info("[Heritage] Navigating to login page...")
+        try:
+            await page.goto(LOGIN_URL, wait_until="networkidle", timeout=45000)
+        except Exception as e:
+            logger.warning(f"[Heritage] Login page load timeout (continuing): {e}")
+
+        # Log what we see on the login page
+        try:
+            html_snippet = await page.content()
+            if "cf-browser-verification" in html_snippet or "Access Denied" in html_snippet:
+                logger.warning("[Heritage] Cloudflare challenge on login page")
+                return False
+            logger.info(f"[Heritage] Login page URL: {page.url}")
+        except Exception:
+            pass
+
+        # Try multiple selector strategies for the email/username field
+        email_selectors = [
+            "input[name='email']",
+            "input[type='email']",
+            "input[name='haEmail']",
+            "input[id='haEmail']",
+            "input[name='userName']",
+            "input[name='username']",
+            "input[id='email']",
+            "input[id='username']",
+            "input[placeholder*='email' i]",
+            "input[placeholder*='Email' i]",
+            "input[autocomplete='email']",
+            "input[autocomplete='username']",
+            "#loginForm input[type='text']",
+            "form input[type='text']:first-of-type",
+        ]
+
+        email_filled = False
+        for sel in email_selectors:
+            try:
+                el = await page.wait_for_selector(sel, timeout=3000)
+                if el:
+                    await el.fill(HERITAGE_EMAIL)
+                    logger.info(f"[Heritage] Filled email using selector: {sel}")
+                    email_filled = True
+                    break
+            except Exception:
+                continue
+
+        if not email_filled:
+            logger.warning("[Heritage] Could not find email input — login likely failed")
+            # Log visible inputs to help debug
+            try:
+                inputs = await page.query_selector_all("input")
+                for inp in inputs[:10]:
+                    attrs = await inp.evaluate("el => ({type: el.type, name: el.name, id: el.id, placeholder: el.placeholder})")
+                    logger.info(f"[Heritage] Found input: {attrs}")
+            except Exception:
+                pass
+            return False
+
+        # Fill password
+        password_selectors = [
+            "input[type='password']",
+            "input[name='password']",
+            "input[name='haPassword']",
+            "input[id='haPassword']",
+            "input[id='password']",
+        ]
+        password_filled = False
+        for sel in password_selectors:
+            try:
+                el = await page.query_selector(sel)
+                if el:
+                    await el.fill(HERITAGE_PASSWORD)
+                    logger.info(f"[Heritage] Filled password using selector: {sel}")
+                    password_filled = True
+                    break
+            except Exception:
+                continue
+
+        if not password_filled:
+            logger.warning("[Heritage] Could not find password input")
+            return False
+
+        # Submit the form
+        submit_selectors = [
+            "button[type='submit']",
+            "input[type='submit']",
+            "button[class*='login' i]",
+            "button[class*='sign' i]",
+            "#loginForm button",
+            "form button",
+        ]
+        submitted = False
+        for sel in submit_selectors:
+            try:
+                el = await page.query_selector(sel)
+                if el:
+                    await el.click()
+                    logger.info(f"[Heritage] Clicked submit using selector: {sel}")
+                    submitted = True
+                    break
+            except Exception:
+                continue
+
+        if not submitted:
+            logger.warning("[Heritage] Could not find submit button — trying Enter key")
+            try:
+                await page.keyboard.press("Enter")
+                submitted = True
+            except Exception:
+                pass
+
+        if submitted:
+            try:
+                await page.wait_for_load_state("networkidle", timeout=20000)
+                logger.info(f"[Heritage] After login, URL: {page.url}")
+                # Check if we successfully logged in
+                current_url = page.url
+                if "login" not in current_url.lower():
+                    logger.info("[Heritage] Login appears successful (redirected away from login page)")
+                    return True
+                else:
+                    logger.warning(f"[Heritage] Still on login page after submit: {current_url}")
+            except Exception as e:
+                logger.warning(f"[Heritage] Post-login wait failed: {e}")
+
+        return False
 
     def _parse_item(self, item, label: str) -> RawListing | None:
         try:
