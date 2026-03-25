@@ -7,7 +7,7 @@
   "ruler_dates": "AD 79\u00e2\u20ac\u201c81",
   "ruler_rarity": null,
   "denomination": "Unknown",
-  "metal": "silver",
+  "metal": "bronze",
   "sale_count": 3,
   "realized_count": 3,
   "fixed_price_count": 0,
@@ -19,19 +19,51 @@
   "median_price_usd": 840.0,
   "last_sale_date": "2025-08-29",
   "grade_distribution": {
-    "MS": 2,
-    "AU": 1
+    "AU": 1,
+    "MS": 2
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-2-6-7-2-32672841&w=120&h=300&it=product",
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-0-8-2-3-30823851&w=120&h=300&it=product",
   "median_weight_g": null,
-  "top_strike_score": 5,
-  "top_surface_score": 4,
-  "top_grade_numeric": 5,
+  "top_strike_score": 4,
+  "top_surface_score": 3,
+  "top_grade_numeric": 4,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "heritage-1348fa5d5b3a",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-lydia-germe-titus-ad-79-81-ae-18mm-292-gm-5h-ngc-choice-au-4-5-3-5-countermark/a/61438-23040.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: LYDIA. Germe. Titus (AD 79-81). AE (18mm, 2.92\ngm, 5h). NGC Choice AU 4/5 - 3/5, countermark.",
+      "description": "Auction 61438 | Lot 23040 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Provincial",
+      "hammer_price_usd": 240.0,
+      "currency_original": "USD",
+      "price_original": 240.0,
+      "buyers_premium_included": false,
+      "sale_date": "2024-11-25",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-0-8-2-3-30823851&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-565fa5fe551d",
       "source": "heritage",
@@ -84,38 +116,6 @@
         "grade_numeric": 4,
         "strike_score": 4,
         "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-1348fa5d5b3a",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-lydia-germe-titus-ad-79-81-ae-18mm-292-gm-5h-ngc-choice-au-4-5-3-5-countermark/a/61438-23040.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients: LYDIA. Germe. Titus (AD 79-81). AE (18mm, 2.92\ngm, 5h). NGC Choice AU 4/5 - 3/5, countermark.",
-      "description": "Auction 61438 | Lot 23040 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Provincial",
-      "hammer_price_usd": 240.0,
-      "currency_original": "USD",
-      "price_original": 240.0,
-      "buyers_premium_included": false,
-      "sale_date": "2024-11-25",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-0-8-2-3-30823851&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 3,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

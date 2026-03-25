@@ -8,18 +8,18 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 4,
-  "realized_count": 4,
+  "sale_count": 7,
+  "realized_count": 7,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 34.0,
     "max": 2280.0
   },
-  "median_price_usd": 173.0,
+  "median_price_usd": 205.2,
   "last_sale_date": "2025-12-25",
   "grade_distribution": {
-    "AU": 1,
+    "AU": 4,
     "AG": 1,
     "F": 1,
     "XF": 1
@@ -54,6 +54,102 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-38686dd6eb5a",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-anonymous-issues-time-of-domitian-to-antoninus-pius-ca-ad-81-161-ae-quadrans-19mm-194-gm-12h-ngc-choice-au-5-5-/a/231941-62151.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Anonymous Issues, time of Domitian to Antoninus\nPius (ca. AD 81-161). AE quadrans (19mm, 1.94 gm, 12h). NGC Choice\nAU 5/5 - 3/5.",
+      "description": "Auction 231941 | Lot 62151 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 205.2,
+      "currency_original": "USD",
+      "price_original": 205.2,
+      "buyers_premium_included": false,
+      "sale_date": "2019-10-10",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-1-3-7-2-21372925&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-a92dda4c533b",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-domitian-ad-81-96-ae-as-1181-gm-ngc-au-5-5-2-5-smoothingandnbsp-/a/3064-32302.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Domitian (AD 81-96). AE as (11.81 gm). NGC AU\n5/5 - 2/5, smoothing.",
+      "description": "Auction 3064 | Lot 32302 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 336.0,
+      "currency_original": "USD",
+      "price_original": 336.0,
+      "buyers_premium_included": false,
+      "sale_date": "2018-04-23",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-7-9-8-0-17980127&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-ecbf357c41cc",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-mysia-cyzicus-domitian-ad-81-96-ae-18mm-380-gm-7h-ngc-au-5-5-3-5/a/232237-63211.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: MYSIA. Cyzicus. Domitian (AD 81-96). AE (18mm,\n3.80 gm, 7h). NGC AU 5/5 - 3/5.",
+      "description": "Auction 232237 | Lot 63211 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Provincial",
+      "hammer_price_usd": 70.0,
+      "currency_original": "USD",
+      "price_original": 70.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-09-14",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-6-5-9-2-26592126&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

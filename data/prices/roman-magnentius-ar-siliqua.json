@@ -8,18 +8,18 @@
   "ruler_rarity": "scarce",
   "denomination": "AR Siliqua",
   "metal": "silver",
-  "sale_count": 2,
-  "realized_count": 2,
+  "sale_count": 3,
+  "realized_count": 3,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 1800.0,
     "max": 3360.0
   },
-  "median_price_usd": 2580.0,
+  "median_price_usd": 1920.0,
   "last_sale_date": "2018-04-23",
   "grade_distribution": {
-    "AU": 2
+    "AU": 3
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=1-7-4-4-2-17442268&w=120&h=300&it=product",
   "median_weight_g": null,
@@ -83,6 +83,38 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-0b02ad3f5a2a",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-magnentius-western-usurper-ad-350-353-ar-heavy-siliqua-20mm-305-gm-6h-ngc-au-4-5-3-5andnbsp-/a/3064-30326.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Magnentius, Western usurper (AD 350-353). AR\nheavy siliqua (20mm, 3.05 gm, 6h). NGC AU 4/5 - 3/5.",
+      "description": "Auction 3064 | Lot 30326 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 1920.0,
+      "currency_original": "USD",
+      "price_original": 1920.0,
+      "buyers_premium_included": false,
+      "sale_date": "2018-04-23",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-7-4-4-2-17442290&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

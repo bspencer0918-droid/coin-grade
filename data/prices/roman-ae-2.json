@@ -19,20 +19,52 @@
   "median_price_usd": 408.0,
   "last_sale_date": "2021-12-19",
   "grade_distribution": {
-    "MS": 2,
     "AU": 1,
+    "MS": 2,
     "VF": 1
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-2-0-2-3-22023647&w=120&h=300&it=product",
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-5-1-1-3-25113448&w=120&h=300&it=product",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 4,
+  "top_surface_score": 3,
   "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "heritage-8bd65347db59",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-vetranio-ad-350-ae2-or-bi-centenionalis-23mm-559-gm-5h-ngc-choice-au-5-5-3-5/a/61241-97300.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Vetranio (AD 350). AE2 or BI centenionalis\n(23mm, 5.59 gm, 5h). NGC Choice AU 5/5 - 3/5.",
+      "description": "Auction 61241 | Lot 97300 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 180.0,
+      "currency_original": "USD",
+      "price_original": 180.0,
+      "buyers_premium_included": false,
+      "sale_date": "2021-12-19",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-5-1-1-3-25113448&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-02e9309ee69f",
       "source": "heritage",
@@ -85,38 +117,6 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-8bd65347db59",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-vetranio-ad-350-ae2-or-bi-centenionalis-23mm-559-gm-5h-ngc-choice-au-5-5-3-5/a/61241-97300.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients: Vetranio (AD 350). AE2 or BI centenionalis\n(23mm, 5.59 gm, 5h). NGC Choice AU 5/5 - 3/5.",
-      "description": "Auction 61241 | Lot 97300 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
-      "hammer_price_usd": 180.0,
-      "currency_original": "USD",
-      "price_original": 180.0,
-      "buyers_premium_included": false,
-      "sale_date": "2021-12-19",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-5-1-1-3-25113448&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 3,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

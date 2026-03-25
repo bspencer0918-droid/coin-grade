@@ -8,18 +8,18 @@
   "ruler_rarity": null,
   "denomination": "AR Quinarius",
   "metal": "silver",
-  "sale_count": 3,
-  "realized_count": 3,
+  "sale_count": 5,
+  "realized_count": 5,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 1560.0,
+    "min": 168.0,
     "max": 5520.0
   },
-  "median_price_usd": 4680.0,
+  "median_price_usd": 1560.0,
   "last_sale_date": "2022-01-19",
   "grade_distribution": {
-    "AU": 1,
+    "AU": 3,
     "VF": 1,
     "XF": 1
   },
@@ -53,6 +53,70 @@
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-1bc3832212e3",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-galerius-as-caesar-ad-305-311-bi-quinarius-15mm-141-gm-11h-ngc-choice-au-5-5-3-5/a/271933-35432.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Galerius, as Caesar (AD 305-311). BI quinarius\n(15mm, 1.41 gm, 11h). NGC Choice AU 5/5 - 3/5.",
+      "description": "Auction 271933 | Lot 35432 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 216.0,
+      "currency_original": "USD",
+      "price_original": 216.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-08-18",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-0-8-8-9-20889992&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-2393d2f6daa5",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-constantius-i-as-caesar-ad-305-306-bi-quinarius-15mm-160-gm-1h-ngc-choice-au-5-5-2-5/a/271933-35437.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Constantius I, as Caesar (AD 305-306). BI\nquinarius (15mm, 1.60 gm, 1h). NGC Choice AU 5/5 - 2/5.",
+      "description": "Auction 271933 | Lot 35437 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 168.0,
+      "currency_original": "USD",
+      "price_original": 168.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-08-18",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-0-8-9-0-20890200&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

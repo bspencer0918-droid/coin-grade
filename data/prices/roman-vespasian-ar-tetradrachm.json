@@ -8,18 +8,18 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 3,
-  "realized_count": 2,
+  "sale_count": 4,
+  "realized_count": 3,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 44.0,
     "max": 750.0
   },
-  "median_price_usd": 397.0,
+  "median_price_usd": 432.0,
   "last_sale_date": "2026-04-11",
   "grade_distribution": {
-    "AU": 1,
+    "AU": 2,
     "VG": 1,
     "VF": 1
   },
@@ -53,6 +53,38 @@
         "grade_numeric": 4,
         "strike_score": 4,
         "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-805e23431b83",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-syria-antioch-vespasian-ad-69-79-andnbsp-ar-tetradrachm-1498-gm-ngc-au-4-5-4-5/a/3063-33337.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: SYRIA. Antioch. Vespasian (AD 69-79).\u00a0AR\ntetradrachm (14.98 gm). NGC AU 4/5 - 4/5.",
+      "description": "Auction 3063 | Lot 33337 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Provincial",
+      "hammer_price_usd": 432.0,
+      "currency_original": "USD",
+      "price_original": 432.0,
+      "buyers_premium_included": false,
+      "sale_date": "2018-01-17",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-7-1-6-8-17168137&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

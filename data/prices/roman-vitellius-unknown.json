@@ -8,18 +8,18 @@
   "ruler_rarity": "scarce",
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 2,
-  "realized_count": 2,
+  "sale_count": 3,
+  "realized_count": 3,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 900.0,
+    "min": 444.0,
     "max": 900.0
   },
   "median_price_usd": 900.0,
   "last_sale_date": "2023-04-20",
   "grade_distribution": {
-    "AU": 2
+    "AU": 3
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-7-0-8-3-27083260&w=120&h=300&it=product",
   "median_weight_g": null,
@@ -82,6 +82,38 @@
         "grade": "AU",
         "grade_numeric": 4,
         "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-0b76bb2295bc",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-vitellius-ad-69-ae-as-27mm-1115-gm-6h-ngc-au-5-5-2-5/a/61160-97219.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Vitellius (AD 69). AE as (27mm, 11.15 gm, 6h).\nNGC AU 5/5 - 2/5.",
+      "description": "Auction 61160 | Lot 97219 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 444.0,
+      "currency_original": "USD",
+      "price_original": 444.0,
+      "buyers_premium_included": false,
+      "sale_date": "2020-05-10",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-2-0-4-1-22041849&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
         "surface_score": 2,
         "details_grade": null,
         "certification_url": null,

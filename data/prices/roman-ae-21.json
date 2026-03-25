@@ -1,0 +1,67 @@
+{
+  "slug": "roman-ae-21",
+  "category": "roman",
+  "ruler": null,
+  "ruler_normalized": null,
+  "dynasty": null,
+  "ruler_dates": null,
+  "ruler_rarity": null,
+  "denomination": "AE 21",
+  "metal": "bronze",
+  "sale_count": 1,
+  "realized_count": 1,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 65.0,
+    "max": 65.0
+  },
+  "median_price_usd": 65.0,
+  "last_sale_date": "2017-06-01",
+  "grade_distribution": {
+    "AU": 1
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=1-5-4-6-9-15469762&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": null,
+  "top_surface_score": null,
+  "top_grade_numeric": null,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-da38d7cf21e4",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-troas-alexandria-ca-3rd-century-ad-ae-21-mm-ngc-choice-au-smoothing/a/231722-61050.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: TROAS. Alexandria. Ca. 3rd century AD. AE 21\nmm. NGC Choice AU, smoothing.",
+      "description": "Auction 231722 | Lot 61050 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Provincial",
+      "hammer_price_usd": 65.0,
+      "currency_original": "USD",
+      "price_original": 65.0,
+      "buyers_premium_included": false,
+      "sale_date": "2017-06-01",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-5-4-6-9-15469762&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

@@ -19,21 +19,53 @@
   "median_price_usd": 16500.0,
   "last_sale_date": "2026-01-12",
   "grade_distribution": {
+    "AU": 1,
     "VF": 7,
     "F": 8,
-    "VG": 2,
-    "AU": 1
+    "VG": 2
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-3-6-1-0-33610336&w=120&h=300&it=product",
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-3-6-5-4-23654479&w=120&h=300&it=product",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 2,
+  "top_surface_score": 3,
   "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "heritage-e9591debc664",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-galba-ad-68-69-av-aureus-19mm-726-gm-6h-ngc-au-5-5-3-5-fine-style/a/3091-31042.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Galba (AD 68-69). AV aureus (19mm, 7.26 gm,\n6h). NGC AU 5/5 - 3/5, Fine Style.",
+      "description": "Auction 3091 | Lot 31042 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 66000.0,
+      "currency_original": "USD",
+      "price_original": 66000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2021-05-07",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-3-6-5-4-23654479&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-08103575224a",
       "source": "heritage",
@@ -470,38 +502,6 @@
         "grade_numeric": 4,
         "strike_score": 4,
         "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-e9591debc664",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-galba-ad-68-69-av-aureus-19mm-726-gm-6h-ngc-au-5-5-3-5-fine-style/a/3091-31042.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:Galba (AD 68-69). AV aureus (19mm, 7.26 gm,\n6h). NGC AU 5/5 - 3/5, Fine Style.",
-      "description": "",
-      "hammer_price_usd": 66000.0,
-      "currency_original": "USD",
-      "price_original": 66000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2021-05-07",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-3-6-5-4-23654479&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 3,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

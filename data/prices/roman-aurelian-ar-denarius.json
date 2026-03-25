@@ -8,29 +8,62 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 1,
-  "realized_count": 1,
+  "sale_count": 2,
+  "realized_count": 2,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 159.0,
-    "max": 159.0
+    "max": 169.0
   },
-  "median_price_usd": 159.0,
-  "last_sale_date": "2022-01-27",
+  "median_price_usd": 164.0,
+  "last_sale_date": "2025-01-09",
   "grade_distribution": {
+    "AU": 1,
     "MS": 1
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-5-3-0-2-25302283&w=120&h=300&it=product",
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-1-6-0-5-31605676&w=120&h=300&it=product",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 3,
+  "top_surface_score": 2,
   "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "heritage-ea901fa665bf",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-aurelian-ad-270-275-bi-denarius-18mm-246-gm-5h-ngc-au-5-5-2-5-silvering/a/232502-62104.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Aurelian (AD 270-275). BI denarius (18mm, 2.46\ngm, 5h). NGC AU 5/5 - 2/5, Silvering.",
+      "description": "Auction 232502 | Lot 62104 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 169.0,
+      "currency_original": "USD",
+      "price_original": 169.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-01-09",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-1-6-0-5-31605676&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-263a91825a12",
       "source": "heritage",

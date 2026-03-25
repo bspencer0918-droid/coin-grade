@@ -1,0 +1,67 @@
+{
+  "slug": "roman-augustus-ar-drachm",
+  "category": "roman",
+  "ruler": "Augustus",
+  "ruler_normalized": "augustus",
+  "dynasty": "Julio-Claudian",
+  "ruler_dates": "27 BC \u00e2\u20ac\u201c AD 14",
+  "ruler_rarity": null,
+  "denomination": "AR Drachm",
+  "metal": "silver",
+  "sale_count": 1,
+  "realized_count": 1,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 5040.0,
+    "max": 5040.0
+  },
+  "median_price_usd": 5040.0,
+  "last_sale_date": "2025-03-15",
+  "grade_distribution": {
+    "AU": 1
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-1-4-6-1-31461920&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 5,
+  "top_grade_numeric": 5,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-7b783fdbe645",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-lycia-masicytes-augustus-27-bc-ad-14-ar-drachm-19mm-350-gm-11h-ngc-au-5-5-5-5/a/61482-25001.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: LYCIA. Masicytes. Augustus (27 BC-AD 14). AR\ndrachm (19mm, 3.50 gm, 11h). NGC AU 5/5 - 5/5.",
+      "description": "Auction 61482 | Lot 25001 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Provincial",
+      "hammer_price_usd": 5040.0,
+      "currency_original": "USD",
+      "price_original": 5040.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-03-15",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-1-4-6-1-31461920&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

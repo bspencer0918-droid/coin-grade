@@ -8,18 +8,18 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 2,
-  "realized_count": 2,
+  "sale_count": 4,
+  "realized_count": 4,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 840.0,
+    "min": 276.0,
     "max": 3120.0
   },
-  "median_price_usd": 1980.0,
+  "median_price_usd": 606.0,
   "last_sale_date": "2023-09-10",
   "grade_distribution": {
-    "AU": 2
+    "AU": 4
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-8-8-0-6-28806175&w=120&h=300&it=product",
   "median_weight_g": null,
@@ -68,8 +68,8 @@
       "source": "heritage",
       "listing_type": "auction_realized",
       "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-cilicia-tarsus-hadrian-117-138-ad-ar-tetradrachm-26mm-957-gm-12h-ngc-au-4-5-3-5-graffito/a/3073-32184.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:CILICIA. Tarsus. Hadrian (117-138 AD). AR\ntetradrachm (26mm, 9.57 gm, 12h). NGC AU 4/5 - 3/5, graffito.",
-      "description": "",
+      "title": "Ancients: CILICIA. Tarsus. Hadrian (117-138 AD). AR\ntetradrachm (26mm, 9.57 gm, 12h). NGC AU 4/5 - 3/5, graffito.",
+      "description": "Auction 3073 | Lot 32184 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Provincial",
       "hammer_price_usd": 840.0,
       "currency_original": "USD",
       "price_original": 840.0,
@@ -83,6 +83,70 @@
         "grade_numeric": 4,
         "strike_score": 4,
         "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-83eea51534d0",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-egypt-alexandria-hadrian-ad-117-138-bi-tetradrachm-25mm-1373-gm-11h-ngc-au-4-5-5-5/a/61241-97083.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: EGYPT. Alexandria. Hadrian (AD 117-138). BI\ntetradrachm (25mm, 13.73 gm, 11h). NGC AU 4/5 - 5/5.",
+      "description": "Auction 61241 | Lot 97083 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Provincial",
+      "hammer_price_usd": 276.0,
+      "currency_original": "USD",
+      "price_original": 276.0,
+      "buyers_premium_included": false,
+      "sale_date": "2021-12-19",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-5-1-1-3-25113036&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-c21842b9f660",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-egypt-alexandria-hadrian-ad-117-138-bi-tetradrachm-25mm-1373-gm-11h-ngc-au-4-5-5-5/a/232235-61234.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: EGYPT. Alexandria. Hadrian (AD 117-138). BI\ntetradrachm (25mm, 13.73 gm, 11h). NGC AU 4/5 - 5/5.",
+      "description": "Auction 232235 | Lot 61234 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Provincial",
+      "hammer_price_usd": 372.0,
+      "currency_original": "USD",
+      "price_original": 372.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-08-31",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-6-4-8-7-26487612&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 5,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

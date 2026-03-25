@@ -8,18 +8,18 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 4,
-  "realized_count": 4,
+  "sale_count": 9,
+  "realized_count": 9,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 780.0,
+    "min": 228.0,
     "max": 2040.0
   },
-  "median_price_usd": 1860.0,
+  "median_price_usd": 780.0,
   "last_sale_date": "2025-08-29",
   "grade_distribution": {
-    "AU": 4
+    "AU": 9
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-2-7-2-3-32723488&w=120&h=300&it=product",
   "median_weight_g": null,
@@ -140,6 +140,166 @@
       "buyers_premium_included": false,
       "sale_date": "2022-09-18",
       "image_url": "https://dyn1.heritagestatic.com/ha?p=2-6-4-5-6-26456190&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-01f446fe5f5d",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-caligula-ad-37-41-ae-quadrans-17mm-281-gm-7h-ngc-au-5-5-4-5/a/3067-33360.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Caligula (AD 37-41) AE quadrans (17mm, 2.81 gm,\n7h). NGC AU\u2605 5/5 - 4/5.",
+      "description": "Auction 3067 | Lot 33360 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 252.0,
+      "currency_original": "USD",
+      "price_original": 252.0,
+      "buyers_premium_included": false,
+      "sale_date": "2018-09-11",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-1-4-5-19145075&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-4846b61d8fe1",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-germanicus-father-of-caligula-died-ad-19-ae-as-941-gm-ngc-au-4-5-4-5-lamination/a/3064-32282.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Germanicus, father of Caligula (died AD 19). AE\nas (9.41 gm). NGC AU 4/5 - 4/5, lamination.",
+      "description": "Auction 3064 | Lot 32282 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 373.2,
+      "currency_original": "USD",
+      "price_original": 373.2,
+      "buyers_premium_included": false,
+      "sale_date": "2018-04-23",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-7-9-8-0-17980128&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-599ab08500dd",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-gaius-caligula-ad-37-41-ae-as-28mm-1031-gm-7h-ngc-au-5-5-2-5-fine-style/a/61375-25191.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Gaius (Caligula) (AD 37-41). AE as (28mm, 10.31\ngm, 7h). NGC AU 5/5 - 2/5, Fine Style.",
+      "description": "Auction 61375 | Lot 25191 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 1020.0,
+      "currency_original": "USD",
+      "price_original": 1020.0,
+      "buyers_premium_included": false,
+      "sale_date": "2024-05-20",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-0-1-4-2-30142676&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-d549e9ba76d8",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-gaius-caligula-ad-37-41-ae-quadrans-18mm-332-gm-7h-ngc-au-4-5-5-5/a/232350-62124.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Gaius (Caligula) (AD 37-41). AE quadrans (18mm,\n3.32 gm, 7h). NGC AU 4/5 - 5/5.",
+      "description": "Auction 232350 | Lot 62124 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 456.0,
+      "currency_original": "USD",
+      "price_original": 456.0,
+      "buyers_premium_included": false,
+      "sale_date": "2023-12-13",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-9-3-2-5-29325977&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-11481466f03e",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-caligula-ad-37-41-ae-quadrans-17mm-282-gm-5h-ngc-au-5-5-2-5/a/232141-62163.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Caligula (AD 37-41). AE quadrans (17mm, 2.82\ngm, 5h). NGC AU 5/5 - 2/5.",
+      "description": "Auction 232141 | Lot 62163 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 228.0,
+      "currency_original": "USD",
+      "price_original": 228.0,
+      "buyers_premium_included": false,
+      "sale_date": "2021-10-13",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-4-7-8-5-24785081&w=120&h=300&it=product",
       "ngc": {
         "verified": false,
         "cert_number": null,

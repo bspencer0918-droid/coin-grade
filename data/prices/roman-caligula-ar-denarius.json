@@ -8,65 +8,33 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 18,
-  "realized_count": 18,
+  "sale_count": 20,
+  "realized_count": 20,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 1920.0,
     "max": 21600.0
   },
-  "median_price_usd": 5520.0,
+  "median_price_usd": 6900.0,
   "last_sale_date": "2025-11-07",
   "grade_distribution": {
+    "AU": 7,
     "MS": 1,
-    "AU": 5,
     "XF": 3,
     "VF": 7,
     "F": 2
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-4-1-19541495&w=120&h=300&it=product",
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-5-7-7-4-25774494&w=120&h=300&it=product",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 2,
+  "top_surface_score": 3,
   "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "heritage-72a7e816f756",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-caligula-ad-37-41-ar-denarius-19mm-352-gm-8h-ngc-ms-5-5-2-5/a/3071-34085.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients: Caligula (AD 37-41). AR denarius (19mm, 3.52\ngm, 8h). NGC MS 5/5 - 2/5.",
-      "description": "Auction 3071 | Lot 34085 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
-      "hammer_price_usd": 13200.0,
-      "currency_original": "USD",
-      "price_original": 13200.0,
-      "buyers_premium_included": false,
-      "sale_date": "2019-01-07",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-4-1-19541495&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "heritage-ee77c6c21b70",
       "source": "heritage",
@@ -132,6 +100,198 @@
       }
     },
     {
+      "id": "heritage-73af20877578",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-gaius-caligula-ad-37-41-with-agrippina-senior-ar-denarius-19mm-371-gm-9h-ngc-au-5-5-3-5/a/3113-31050.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Gaius (Caligula) (AD 37-41), with Agrippina\nSenior. AR denarius (19mm, 3.71 gm, 9h). NGC AU 5/5 - 3/5.",
+      "description": "Auction 3113 | Lot 31050 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 16800.0,
+      "currency_original": "USD",
+      "price_original": 16800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2024-01-08",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-9-3-4-0-29340707&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-94f53e4d02f0",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-gaius-caligula-ad-37-41-with-germanicus-ar-denarius-19mm-364-gm-10h-ngc-au-5-5-2-5/a/3087-30043.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Gaius 'Caligula' (AD 37-41), with Germanicus.\nAR denarius (19mm, 3.64 gm, 10h). NGC AU 5/5 - 2/5.",
+      "description": "Auction 3087 | Lot 30043 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 9600.0,
+      "currency_original": "USD",
+      "price_original": 9600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2020-12-19",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-3-1-1-7-23117286&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-6bd4ee84b8a8",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-gaius-caligula-ad-37-41-with-germanicus-ar-denarius-20mm-378-gm-10h-ngc-au-5-5-5-5/a/3081-32053.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Gaius 'Caligula' (AD 37-41), with Germanicus.\nAR denarius (20mm, 3.78 gm, 10h). NGC AU\u2605 5/5 - 5/5.",
+      "description": "Auction 3081 | Lot 32053 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 21600.0,
+      "currency_original": "USD",
+      "price_original": 21600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2020-01-13",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-1-5-9-0-21590023&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-b4700e2e7d5a",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-gaius-caligula-ad-37-41-with-agrippina-senior-ar-denarius-18mm-383-gm-11h-ngc-au-4-5-5-5/a/3066-30095.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Gaius 'Caligula' (AD 37-41), with Agrippina\nSenior. AR denarius (18mm, 3.83 gm, 11h). NGC AU\u2605 4/5 - 5/5.",
+      "description": "Auction 3066 | Lot 30095 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 19200.0,
+      "currency_original": "USD",
+      "price_original": 19200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2018-08-17",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-8-8-7-4-18874700&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-9537bc2bf6c7",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-gaius-caligula-ad-37-41-with-agrippina-senior-ar-denarius-19mm-371-gm-9h-ngc-au-5-5-3-5andnbsp-/a/3061-32087.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Gaius 'Caligula' (AD 37-41), with Agrippina\nSenior. AR denarius (19mm, 3.71 gm, 9h). NGC AU 5/5 -\n3/5.",
+      "description": "Auction 3061 | Lot 32087 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 12600.0,
+      "currency_original": "USD",
+      "price_original": 12600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2018-01-08",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-6-2-0-6-16206497&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-72a7e816f756",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-caligula-ad-37-41-ar-denarius-19mm-352-gm-8h-ngc-ms-5-5-2-5/a/3071-34085.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Caligula (AD 37-41). AR denarius (19mm, 3.52\ngm, 8h). NGC MS 5/5 - 2/5.",
+      "description": "Auction 3071 | Lot 34085 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 13200.0,
+      "currency_original": "USD",
+      "price_original": 13200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-01-07",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-4-1-19541495&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "heritage-5744949c2a11",
       "source": "heritage",
       "listing_type": "auction_realized",
@@ -183,38 +343,6 @@
         "grade_numeric": 3,
         "strike_score": 3,
         "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-73af20877578",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-gaius-caligula-ad-37-41-with-agrippina-senior-ar-denarius-19mm-371-gm-9h-ngc-au-5-5-3-5/a/3113-31050.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:Gaius (Caligula) (AD 37-41), with Agrippina\nSenior. AR denarius (19mm, 3.71 gm, 9h). NGC AU 5/5 - 3/5.",
-      "description": "",
-      "hammer_price_usd": 16800.0,
-      "currency_original": "USD",
-      "price_original": 16800.0,
-      "buyers_premium_included": false,
-      "sale_date": "2024-01-08",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-9-3-4-0-29340707&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 3,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"
@@ -356,38 +484,6 @@
       }
     },
     {
-      "id": "heritage-94f53e4d02f0",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-gaius-caligula-ad-37-41-with-germanicus-ar-denarius-19mm-364-gm-10h-ngc-au-5-5-2-5/a/3087-30043.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:Gaius 'Caligula' (AD 37-41), with Germanicus.\nAR denarius (19mm, 3.64 gm, 10h). NGC AU 5/5 - 2/5.",
-      "description": "",
-      "hammer_price_usd": 9600.0,
-      "currency_original": "USD",
-      "price_original": 9600.0,
-      "buyers_premium_included": false,
-      "sale_date": "2020-12-19",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-3-1-1-7-23117286&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "heritage-68d0c86e72b2",
       "source": "heritage",
       "listing_type": "auction_realized",
@@ -439,38 +535,6 @@
         "grade_numeric": 4,
         "strike_score": 4,
         "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-6bd4ee84b8a8",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-gaius-caligula-ad-37-41-with-germanicus-ar-denarius-20mm-378-gm-10h-ngc-au-5-5-5-5/a/3081-32053.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:Gaius 'Caligula' (AD 37-41), with Germanicus.\nAR denarius (20mm, 3.78 gm, 10h). NGC AU\u2605 5/5 - 5/5.",
-      "description": "",
-      "hammer_price_usd": 21600.0,
-      "currency_original": "USD",
-      "price_original": 21600.0,
-      "buyers_premium_included": false,
-      "sale_date": "2020-01-13",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-1-5-9-0-21590023&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

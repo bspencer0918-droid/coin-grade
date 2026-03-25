@@ -8,18 +8,18 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 3,
-  "realized_count": 3,
+  "sale_count": 5,
+  "realized_count": 5,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 1200.0,
+    "min": 840.0,
     "max": 1440.0
   },
-  "median_price_usd": 1380.0,
+  "median_price_usd": 1200.0,
   "last_sale_date": "2025-01-22",
   "grade_distribution": {
-    "AU": 2,
+    "AU": 4,
     "MS": 1
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-1-0-3-4-31034081&w=120&h=300&it=product",
@@ -84,6 +84,70 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-6733dda1eb5a",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-titus-ad-79-81-ar-denarius-18mm-345-gm-6h-ngc-choice-au-4-5-5-5-fine-style/a/231846-63091.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Titus (AD 79-81). AR denarius (18mm, 3.45 gm,\n6h). NGC Choice AU 4/5 - 5/5, Fine Style.",
+      "description": "Auction 231846 | Lot 63091 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 840.0,
+      "currency_original": "USD",
+      "price_original": 840.0,
+      "buyers_premium_included": false,
+      "sale_date": "2018-11-15",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-4-1-6-19416942&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-946ccbf7dd72",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-titus-ad-79-81-ar-denarius-18mm-309-gm-6h-ngc-au-5-5-2-5/a/232144-61192.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Titus (AD 79-81). AR denarius (18mm, 3.09 gm,\n6h). NGC AU 5/5 - 2/5.",
+      "description": "Auction 232144 | Lot 61192 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 840.0,
+      "currency_original": "USD",
+      "price_original": 840.0,
+      "buyers_premium_included": false,
+      "sale_date": "2021-11-03",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-4-8-5-0-24850982&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

@@ -8,21 +8,22 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 3,
-  "realized_count": 3,
+  "sale_count": 4,
+  "realized_count": 4,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 1560.0,
-    "max": 1920.0
+    "max": 3120.0
   },
-  "median_price_usd": 1680.0,
-  "last_sale_date": "2024-05-10",
+  "median_price_usd": 1800.0,
+  "last_sale_date": "2025-12-25",
   "grade_distribution": {
+    "AU": 1,
     "VF": 2,
     "XF": 1
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-9-9-1-2-29912624&w=120&h=300&it=product",
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-3-6-4-4-33644478&w=120&h=300&it=product",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 2,
@@ -32,6 +33,38 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "heritage-61d8ea9e0886",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-cleopatra-vii-and-marc-antony-as-rulers-of-the-east-37-31-bc-ae-22mm-927-gm-1h-ngc-au-4-5-2-5-light-smoothing/a/232552-64205.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Cleopatra VII and Marc Antony, as Rulers of the\nEast (37-31 BC). AE (22mm, 9.27 gm, 1h). NGC AU 4/5 - 2/5, light\nsmoothing.",
+      "description": "Auction 232552 | Lot 64205 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Provincial",
+      "hammer_price_usd": 3120.0,
+      "currency_original": "USD",
+      "price_original": 3120.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-25",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-3-6-4-4-33644478&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-2476679b336b",
       "source": "heritage",
