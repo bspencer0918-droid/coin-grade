@@ -71,7 +71,7 @@ RATE_LIMITS = {
 # hard cap, so these are just safety limits.
 MAX_PAGES = {
     "cng":              120,  # ~120 auctions ≈ 4 years of archive
-    "heritage":         100,  # 100 × 200 results/page = 20,000 max per civ+grade combo
+    "heritage":         200,  # 200 × 50 results/page = 10,000 max per civ+grade combo
     "numisbids":        100,  # date-cutoff stops this early
     "sixbid":           200,  # 50 results/page via API; date filter applied server-side
     "hjb":              20,

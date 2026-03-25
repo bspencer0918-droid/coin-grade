@@ -1,0 +1,289 @@
+{
+  "id": "byzantine",
+  "name": "Byzantine",
+  "emoji": "✝️",
+  "dates": "330–1453 AD",
+  "overview": "The Byzantine Empire was the direct continuation of the Roman Empire in the East — it never called itself 'Byzantine,' a term invented by later historians, but always Romaioi, 'Roman.' From Constantine's foundation of Constantinople to its fall to Ottoman forces in 1453, the empire preserved Roman law, Greek culture, and Christian orthodoxy for over a thousand years. Its gold solidus was the most trusted currency in the medieval world, circulating from Ireland to India.",
+  "periods": [
+    {
+      "id": "byzantine-empire",
+      "name": "Byzantine Empire",
+      "dates": "330–1453 AD",
+      "overview": "The Byzantine Empire maintained Roman administrative and legal traditions while developing a distinctly Greek-Christian culture. Its coinage evolved from the late Roman solidus to the distinctive Byzantine nomisma and later debased trachea, recording each dynasty's theology, political claims, and artistic sensibility across eleven centuries."
+    }
+  ],
+  "groups": [
+    {
+      "id": "justinian-dynasty",
+      "name": "Justinian Dynasty",
+      "period_id": "byzantine-empire",
+      "dates": "518–602 AD",
+      "overview": "The Justinian dynasty brought Byzantium to its greatest territorial extent — reconquering North Africa, Italy, and southern Spain from barbarian kingdoms. Justinian I's legal codification, his great church of Hagia Sophia, and his monetary reform make him the defining ruler of early Byzantine history.",
+      "rulers": [
+        {
+          "id": "justinian-i",
+          "name": "Justinian I",
+          "dates": "527–565 AD",
+          "portrait_url": "https://en.wikipedia.org/wiki/Special:FilePath/Meister_von_San_Vitale_in_Ravenna.jpg",
+          "overview": "Flavius Petrus Sabbatius Iustinianus — Justinian the Great — was the Byzantine emperor who reconquered the western Mediterranean, codified Roman law in the Corpus Juris Civilis, built the Hagia Sophia, and reformed the coinage system that would serve Byzantium for centuries.",
+          "biography": "Born around 482 AD at Tauresium in Dardania (modern North Macedonia), Justinian was the nephew of the emperor Justin I and was effectively co-ruler from the early 520s before becoming sole emperor in 527 AD. His wife Theodora — a former actress of low origin who became one of the most formidable empresses in Byzantine history — was his constant political partner.\n\nJustinian's reconquest program, carried out by his brilliant generals Belisarius and Narses, recovered North Africa from the Vandals (533–534 AD), Italy from the Ostrogoths (535–554 AD, at enormous cost), and southern Spain from the Visigoths (554 AD). These victories temporarily restored much of the western empire. But the cost in lives and treasure was ruinous, and the plague of 541–542 AD (the Justinianic Plague, probably bubonic) killed perhaps half the population of the Mediterranean world and permanently undermined the empire's recovery.\n\nHis legal legacy is more durable than his military conquests. The Corpus Juris Civilis — comprising the Codex Justinianus, the Digesta (a systematic anthology of classical Roman law), the Institutes (a student textbook), and the Novellae (new laws) — preserved and transmitted Roman law to the medieval West and forms the foundation of legal systems across Europe and Latin America today.\n\nHis greatest architectural achievement was the Hagia Sophia in Constantinople, rebuilt after the Nika revolt destroyed the earlier church in 532 AD. Completed in 537 AD, it remained the largest church in Christendom for nearly a thousand years. Justinian reportedly said at its dedication: 'Solomon, I have surpassed thee.' He died on November 14, 565 AD, aged eighty-three.",
+          "coinage": "Justinian I's monetary reform of 538 AD is one of the most significant in Byzantine numismatic history. He introduced the system of marking large bronze folles with their denomination value in Greek letters — M for 40 nummi, K for 20, I for 10, E for 5 — making each coin's value explicit in a way no previous Roman coinage had done. The regnal year was also added, dating coins precisely for the first time in Roman/Byzantine history.\n\nHis gold solidus maintained the purity and weight standard established by Constantine I. His portrait types show a full-face imperial bust wearing the loros (imperial jeweled collar), a distinctly Byzantine departure from the profile portraits of earlier Roman coinage. His folles are the most numerous large Byzantine bronze coins encountered today — his thirty-eight year reign and high mint production ensure their relative abundance. The Constantinople, Nicomedia, Cyzicus, Antioch, and Carthage mints all produced substantial series.",
+          "coin_slugs": ["byzantine-justinian-i-ae-follis","byzantine-justinian-i-ae-2","byzantine-justinian-i-ae-nummus","byzantine-justinian-i-ar-siliqua","byzantine-justinian-i-av-semissis","byzantine-justinian-i-av-solidus"]
+        },
+        {
+          "id": "justin-ii",
+          "name": "Justin II",
+          "dates": "565–578 AD",
+          "portrait_url": "https://en.wikipedia.org/wiki/Special:FilePath/Justin_II_tremissis_gold.jpg",
+          "overview": "Flavius Iustinus — Justin II — was Justinian's nephew and successor, who abandoned Justinian's cautious financial policies, triggered wars on multiple frontiers, and ended his reign in apparent madness, being wheeled around the palace on a mechanical throne to prevent him attacking courtiers.",
+          "biography": "Born around 520 AD, Justin II became emperor on Justinian's death in 565 AD. He immediately reversed his uncle's policy of paying subsidies to barbarian neighbors, provoking simultaneous crises on multiple frontiers. In the Balkans, the Avars and Slavs raided deeply into imperial territory; in the East, refusing the Persians their annual payment triggered a ruinous war (572–591 AD) that began disastrously. The Lombards invaded and settled much of Italy in 568–569 AD, undoing much of Justinian's reconquest.\n\nFrom around 574 AD Justin suffered what ancient sources describe as episodes of madness — howling, biting courtiers, demanding music be played constantly to soothe his nerves. He appointed the general Tiberius as Caesar and effective co-ruler in 574 AD, withdrawing from active government. He died on October 5, 578 AD, having designated Tiberius as his successor. His reign illustrates how rapidly Justinian's expensive conquests were proving unsustainable.",
+          "coinage": "Justin II introduced a significant innovation in Byzantine iconography: his folles show the emperor and his wife Sophia seated together facing forward on a double throne — the first Byzantine coin to show the empress on equal footing with the emperor. This double portrait type became standard for Byzantine bronze coinage. His gold solidi continue the Justinianic tradition. Some of his bronze coins were produced in the new Italian mints established during the Lombard invasions, providing important documentation of Byzantine administrative reach.",
+          "coin_slugs": ["byzantine-justin-ii-ae-follis","byzantine-justin-ii-av-solidus","byzantine-justin-ii-unknown"]
+        }
+      ]
+    },
+    {
+      "id": "heraclian",
+      "name": "Heraclian Dynasty",
+      "period_id": "byzantine-empire",
+      "dates": "602–711 AD",
+      "overview": "The Heraclian dynasty presided over one of the greatest catastrophes in Byzantine history — the loss of Syria, Palestine, Egypt, and North Africa to the Arab Muslim conquests in the 630s–650s — while simultaneously winning a dramatic final victory over Persia. The dynasty also transformed the empire's official language from Latin to Greek.",
+      "rulers": [
+        {
+          "id": "phocas",
+          "name": "Phocas",
+          "dates": "602–610 AD",
+          "portrait_url": "https://en.wikipedia.org/wiki/Special:FilePath/Phocas_tremissis_gold.jpg",
+          "overview": "Flavius Phocas was the centurion who murdered the emperor Maurice and his family in a mutiny, seized the throne, and ruled with such brutal incompetence that he brought the Byzantine Empire to the brink of destruction before being overthrown and executed by Heraclius.",
+          "biography": "Born around 547 AD of unknown Thracian origin, Phocas was a junior officer in the Danubian army who led a mutiny against the emperor Maurice in 602 AD, after Maurice refused to allow the troops to winter south of the Danube. Maurice and his six sons were captured and executed. Phocas then ruled for eight years as emperor.\n\nHis reign was characterized by purges of perceived enemies (including Maurice's surviving relatives and supporters), persecution of Jews, and military incompetence. The Persians under Khosrow II, using Maurice's murder as a pretext, launched an enormous offensive that eventually captured Antioch, Damascus, Jerusalem (614 AD, carrying off the True Cross), and Egypt. The empire seemed on the verge of dissolution.\n\nHeraclius, the son of the exarch of Carthage, sailed from North Africa with a fleet and was welcomed into Constantinople. Phocas was captured and brought before Heraclius, who reportedly asked: 'Is this how you have governed the empire?' Phocas answered: 'And will you govern it better?' He was executed on October 5, 610 AD.",
+          "coinage": "Phocas's coins are relatively scarce given his eight-year reign and the chaos of his rule. His portrait types are notably crude compared to Justinianic standards — a bearded, somewhat brutish face that ancient sources describe as matching his character. He introduced the bearded imperial portrait to Byzantine coinage. His gold solidi are his most commonly encountered issues; his bronze folles are known from Constantinople and other mints. He also struck the first Byzantine coins to show the emperor's image with a nimbus (halo), reflecting the intensification of imperial sacred imagery.",
+          "coin_slugs": ["byzantine-phocas-ae-follis","byzantine-phocas-av-nomisma","byzantine-phocas-av-semissis","byzantine-phocas-av-solidus","byzantine-phocas-av-tremissis","byzantine-phocas-unknown"]
+        },
+        {
+          "id": "heraclius",
+          "name": "Heraclius",
+          "dates": "610–641 AD",
+          "portrait_url": "https://en.wikipedia.org/wiki/Special:FilePath/Heraclius_scholastique.jpg",
+          "overview": "Flavius Heraclius was the Byzantine emperor who achieved one of history's most dramatic military reversals — rescuing the empire from Persian conquest through a brilliant counter-offensive — only to see the fruits of victory swept away by the Arab Muslim conquests within a decade of his triumph.",
+          "biography": "Born around 575 AD, probably in Cappadocia, Heraclius was the son of the exarch (viceroy) of Byzantine North Africa. His overthrow of Phocas in 610 AD inherited an empire in desperate crisis — Persia had overrun the eastern provinces, the Avars and Slavs controlled the Balkans, and the treasury was empty. The first decade of his reign was simply trying to survive.\n\nThen in 622 AD Heraclius launched his great counter-offensive, a campaign in which he personally led the Byzantine army in a series of operations of extraordinary strategic brilliance, striking at the Persian heartland in Mesopotamia while Constantinople itself was besieged simultaneously by Avars and Persians in 626 AD. The city held, the Persian fleet was destroyed, and in 627–628 AD Heraclius won a decisive victory at Nineveh and marched to Ctesiphon. Khosrow II was overthrown and murdered by his own son. The True Cross was recovered and returned to Jerusalem in 630 AD — one of the great ceremonial moments of Byzantine history.\n\nBut within two years the Arab armies, newly unified by Islam, began their conquest of Syria. Heraclius's exhausted empire, its treasury stripped and its population decimated by plague and war, could not resist. By 636 AD Syria was lost; by 641 AD Egypt was falling. Heraclius died on February 11, 641 AD, reportedly broken by the loss of his eastern provinces. He was one of the greatest Byzantine military commanders and one of its most tragic figures.",
+          "coinage": "Heraclius introduced dramatic innovations to Byzantine coinage. His earliest coins show him alone in the Phocas tradition; by the 630s his solidi show multiple busts — himself, his son Heraclius Constantine, and sometimes his younger son Heraklonas — reflecting the co-emperor system. His later portrait types show an aged, bearded man very different from his early vigorous images — a visible record of his reign's toll. He also changed the obverse legend from Latin to the Greek DEUS ADIUTA ROMANIS ('God, help the Romans') on some issues, reflecting the Hellenization of the empire. His copper folles continued with the traditional M (40 nummi) denomination markings.",
+          "coin_slugs": ["byzantine-heraclius-ae-12","byzantine-heraclius-ar-siliqua","byzantine-heraclius-av-semissis","byzantine-heraclius-av-solidus","byzantine-heraclius-av-tremissis","byzantine-heraclius-unknown"]
+        },
+        {
+          "id": "constans-ii",
+          "name": "Constans II",
+          "dates": "641–668 AD",
+          "portrait_url": "https://en.wikipedia.org/wiki/Special:FilePath/Constans_II.jpg",
+          "overview": "Flavius Heraclius Constantine — known as Constans II — was Heraclius's grandson who presided over further Arab conquests of Byzantine territory while attempting to move the imperial capital to Syracuse in Sicily, and was murdered in his bath.",
+          "biography": "Born in 630 AD, Constans II came to power as a child after his father Heraclius Constantine died within months of succeeding Heraclius, and after a brief reign by his uncle Heraklonas was overthrown. He ruled for twenty-seven years — the longest Heraclian reign after Heraclius himself.\n\nHis reign saw the permanent loss of Egypt (641–642 AD) and Cyrenaica to Arab forces, and the beginning of Arab raids into Asia Minor and the first Arab attacks on the sea approaches to Constantinople. Constans attempted to rebuild Byzantine naval power and won some defensive victories, but could not reverse the territorial losses. He also became embroiled in the Monothelite theological controversy — attempting to suppress debate on Christ's will(s) by imperial fiat, which alienated the western church and led to his arrest of Pope Martin I.\n\nIn 662 AD Constans moved to Syracuse in Sicily, apparently planning to make it a new imperial capital from which to focus on the western Mediterranean. This unprecedented abandonment of Constantinople caused resentment. He was murdered on September 15, 668 AD, in his bath at Syracuse — reportedly beaten to death with a soap dish by his chamberlain.",
+          "coinage": "Constans II's coinage is notable for its bewildering variety of portrait types. Unlike earlier Byzantine emperors who maintained relatively consistent portraits, Constans's gold solidi show him in numerous different guises — with a long beard, a short beard, in the loros or in military dress, alone or with his sons. His distinctive 'helmet' portrait type, showing him in a plumed military helmet, is among the most immediately recognizable of all Byzantine coins. His bronze folles continued the Heraclian denomination system with further weight reductions.",
+          "coin_slugs": ["byzantine-constans-ii-ae-follis","byzantine-constans-ii-ar-siliqua","byzantine-constans-ii-av-semissis","byzantine-constans-ii-av-solidus","byzantine-constans-ii-av-tremissis","byzantine-constans-ii-unknown"]
+        }
+      ]
+    },
+    {
+      "id": "isaurian",
+      "name": "Isaurian Dynasty",
+      "period_id": "byzantine-empire",
+      "dates": "717–802 AD",
+      "overview": "The Isaurian dynasty saved Constantinople from Arab siege and presided over the great Iconoclast controversy — the theological and political battle over whether religious images should be permitted or destroyed — that divided Byzantine society for over a century.",
+      "rulers": [
+        {
+          "id": "leo-iii",
+          "name": "Leo III",
+          "dates": "717–741 AD",
+          "portrait_url": "https://en.wikipedia.org/wiki/Special:FilePath/Leo_III_the_Isaurian.jpg",
+          "overview": "Leo III the Isaurian was the general who saved Constantinople from the great Arab siege of 717–718 AD and then launched the Iconoclast controversy that would divide Byzantine Christianity for over a century.",
+          "biography": "Born around 685 AD in Germanikeia in Syria (or possibly Isauria — the sources disagree), Leo was the military governor of the Anatolikon theme who marched on Constantinople in 717 AD during a succession crisis and became emperor. He immediately faced the greatest crisis yet: an enormous Arab fleet and army besieged Constantinople by land and sea from August 717 to August 718 AD.\n\nLeo organized the defense brilliantly. Greek fire devastated the Arab fleet repeatedly; a Bulgarian army attacked the besiegers' rear; and disease and cold weather took enormous toll on the besieging forces. When the Arabs withdrew, they had suffered their most catastrophic defeat — it was the decisive check on Arab expansion into Europe from the east. Constantinople was saved.\n\nIn 726 AD Leo ordered the removal of a prominent image of Christ from the Chalke gate of the palace — the first act of the Iconoclast controversy. His formal edict of 730 AD declaring the veneration of images to be idolatry sparked a conflict with the papacy, the western church, and a significant portion of Byzantine society that would continue in waves until 843 AD. He also reorganized the empire's provincial government (the theme system) and strengthened its fiscal base. He died on June 18, 741 AD.",
+          "coinage": "Leo III's coinage reflects his Iconoclast position in a significant way: he replaced the image of Christ on Byzantine gold solidi with a military portrait bust of himself and his son Constantine V — eliminating the holy image in favor of the dynastic image. This was itself a theologically charged decision. His folles continued the traditional Byzantine types. His reign's numismatic output is relatively modest given the military crises he faced; his gold is consistently of high purity.",
+          "coin_slugs": ["byzantine-leo-iii-ae-follis","byzantine-leo-iii-av-solidus","byzantine-leo-iii-unknown"]
+        },
+        {
+          "id": "constantine-v",
+          "name": "Constantine V",
+          "dates": "741–775 AD",
+          "portrait_url": "https://en.wikipedia.org/wiki/Special:FilePath/Constantine_V_Copronymus.jpg",
+          "overview": "Constantine V Copronymus was the most zealous of the Iconoclast emperors — a brilliant military commander who won major victories against Arabs and Bulgars, convened a council declaring image-veneration heretical, and was so hated by his later Orthodox opponents that they dug up his bones and threw them into the sea.",
+          "biography": "Born on July 7, 718 AD, Constantine V was Leo III's son and co-emperor from 720 AD. His nickname 'Copronymus' ('named for dung') was given by his Iconophile enemies who claimed he had defecated in the baptismal font as a baby. He became sole emperor in 741 AD after defeating his brother-in-law Artabasdos in a two-year civil war.\n\nAs emperor, Constantine was genuinely formidable. He won nine campaigns against Bulgaria and pushed Byzantine power north of the Danube. He campaigned repeatedly and successfully against the Arabs in Asia Minor. At home, he convened the Council of Hieria in 754 AD which formally declared image veneration heresy, began the systematic destruction of icons and mosaics, exiled and persecuted monks who resisted, and tried to eliminate monasticism in the empire. The opposition called him a monster; his soldiers worshipped him.\n\nHe died on September 14, 775 AD, on campaign against Bulgaria — reportedly from fever aggravated by a leg ulcer. His soldiers reportedly wept and asked why he had abandoned them. His memory was so venerated by the common people that when his tomb was later opened by Iconophile rulers, popular protests forced the authorities to stop.",
+          "coinage": "Constantine V's coinage continues the Iconoclast numismatic tradition of eliminating religious imagery. His gold nomismata (the Byzantine term for the solidus had evolved) show carefully modeled dynastic portraits — himself, his son Leo IV, and his father Leo III in three-figure compositions that assert dynastic continuity over three generations. His folles are relatively numerous given his long reign. The artistic quality of his coinage is generally high despite the ideological constraints of Iconoclasm.",
+          "coin_slugs": ["byzantine-constantine-v-ae-follis","byzantine-constantine-v-av-nomisma","byzantine-constantine-v-av-solidus","byzantine-constantine-v-unknown"]
+        },
+        {
+          "id": "leo-iv",
+          "name": "Leo IV",
+          "dates": "775–780 AD",
+          "overview": "Leo IV 'the Khazar' was Constantine V's son by his Khazar wife, who ruled for five years as a moderate Iconoclast before dying of fever — probably caused by wearing a gem-encrusted crown from the Hagia Sophia despite warnings it was sacred — leaving his nine-year-old son Constantine VI under the regency of his wife Irene.",
+          "biography": "Born on January 25, 750 AD, Leo IV co-reigned with his father from 751 AD and became sole emperor on Constantine V's death in 775 AD. He was less zealously Iconoclast than his father — he recalled some Iconophile monks from exile and tolerated icons more than the Hierian Council had decreed. His principal occupation was defending the frontiers against Bulgars and Arabs, generally successfully.\n\nHe died suddenly on September 8, 780 AD, aged thirty. The cause was reportedly fever brought on by his insistence on wearing a crown from the Hagia Sophia treasury that had supposedly been dedicated to sacred use. Whatever the cause, his early death left his young son Constantine VI in the hands of his Athenian wife Irene — who would become the first woman to rule the Byzantine Empire in her own name.",
+          "coinage": "Leo IV's coinage largely continues the types of his father Constantine V, including the dynastic portrait compositions. His relatively short reign limits the variety of his types. His gold nomismata and folles are consistent with late Isaurian standards. Some of his issues show him with his father Constantine V and his infant son Constantine VI, extending the dynastic portrait tradition across yet another generation.",
+          "coin_slugs": ["byzantine-leo-iv-ae-follis"]
+        },
+        {
+          "id": "irene",
+          "name": "Irene of Athens",
+          "dates": "797–802 AD",
+          "portrait_url": "https://en.wikipedia.org/wiki/Special:FilePath/Irene_of_Athens.jpg",
+          "overview": "Irene was the first woman to rule the Byzantine Empire as sole emperor in her own right, who restored Iconophile orthodoxy at the Second Council of Nicaea (787 AD), had her own son blinded to prevent his challenge to her rule, and was eventually deposed by a palace coup.",
+          "biography": "Born around 752 AD in Athens, Irene was chosen as wife for the young Leo IV around 768 AD. After his death in 780 AD she served as regent for her son Constantine VI, during which time she convened the Seventh Ecumenical Council (Second Council of Nicaea, 787 AD) that formally restored the veneration of icons and ended the first phase of Iconoclasm.\n\nAs Constantine VI grew older, conflict between mother and son became acute. She had him exiled, then recalled, then — after he proved militarily and politically incompetent — had him blinded on August 15, 797 AD, in the very room where he had been born. He died of his wounds shortly after. Irene then ruled as sole emperor, using the male title Basileus rather than the feminine Basilissa.\n\nShe was reportedly courted by Charlemagne, who had been crowned 'Emperor of the Romans' by the Pope in 800 AD (partly because Rome refused to recognize a woman as legitimate emperor of the East). The negotiations came to nothing. A palace coup overthrew her on October 31, 802 AD; she was exiled to Lesbos and died there in August 803 AD.",
+          "coinage": "Irene's coinage is historically unique: she is the only Byzantine emperor to appear alone on both the obverse and reverse of her coins. Her gold solidi show her portrait on the obverse, and then her portrait again (or sometimes standing full-length) on the reverse — unprecedented in a tradition where the reverse usually showed religious imagery or co-emperors. This extraordinary self-assertion on the coinage was matched by her use of the male imperial title. Her coins are relatively scarce given her brief five-year sole reign.",
+          "coin_slugs": ["byzantine-irene-ae-follis","byzantine-irene-av-solidus"]
+        }
+      ]
+    },
+    {
+      "id": "nikephorian",
+      "name": "Nikephorian Dynasty",
+      "period_id": "byzantine-empire",
+      "dates": "802–820 AD",
+      "overview": "The brief Nikephorian dynasty replaced Irene through a palace coup and governed through a period of continued military pressure from the Bulgars and internal religious controversy over the restoration of icons.",
+      "rulers": [
+        {
+          "id": "nicephorus-i",
+          "name": "Nicephorus I",
+          "dates": "802–811 AD",
+          "overview": "Nicephorus I was the finance minister who overthrew Irene and ruled as a capable, fiscally aggressive emperor until he was killed in battle against the Bulgars — the only Byzantine emperor to die in battle since Valens at Adrianople in 378 AD.",
+          "biography": "Born around 760 AD of Arab or Phrygian origin, Nicephorus had served as logothetes tou genikou (general finance minister) under Irene before organizing her overthrow in 802 AD. As emperor he proved an energetic and sometimes harsh administrator, reviving old taxes, creating new ones, and generally attempting to rebuild imperial finances.\n\nHis Bulgarian policy was catastrophic. After an initial peace, war broke out in 809 AD. The Bulgarian Khan Krum was an exceptional military commander who destroyed a Byzantine army in 809 AD and then lured Nicephorus into the Balkan passes. On July 26, 811 AD, at the Battle of Pliska, the Byzantine army was surrounded and massacred. Nicephorus was killed in the fighting — the first emperor to die in battle against barbarians since Valens. Krum made his skull into a drinking cup lined with silver, toasting his boyars from it at feasts.",
+          "coinage": "Nicephorus I's coinage follows post-Isaurian patterns — he restored Christ's image to the gold nomisma, a significant reversal of Iconoclast policy that reflected his moderate Iconophile position. His portrait types are conventionally Byzantine. His coin series is limited by his nine-year reign and the financial pressures of his Bulgarian wars.",
+          "coin_slugs": ["byzantine-nicephorus-i-ae-follis","byzantine-nicephorus-i-av-nomisma","byzantine-nicephorus-i-av-solidus","byzantine-nicephorus-i-unknown"]
+        },
+        {
+          "id": "michael-i",
+          "name": "Michael I Rhangabe",
+          "dates": "811–813 AD",
+          "overview": "Michael I Rhangabe was Nicephorus I's son-in-law who was raised to the throne after the Pliska disaster, proved completely unable to deal with the Bulgarian threat, and abdicated after less than two years when his army refused to fight.",
+          "biography": "Born around 770 AD, Michael was married to Nicephorus I's daughter Prokopia and served as curopalates (high court official). After Nicephorus's death he was the logical candidate for the throne. He immediately made peace with Charlemagne, recognizing him as 'Emperor' — not of the Romans, but generally — in exchange for Charlemagne's recognition of Byzantine sovereignty over Venice and other Adriatic cities.\n\nHis Bulgarian policy continued the disasters of his predecessor's reign. When Krum invaded Thrace in 813 AD and threatened Constantinople, Michael assembled an army but could not persuade it to fight. His own general Leo the Armenian refused to engage the Bulgars without favorable omens. The army proclaimed Leo emperor, and Michael abdicated on July 11, 813 AD, becoming a monk under the name Athanasios. He died in 844 AD, having outlived several of his successors.",
+          "coinage": "Michael I Rhangabe's coinage is limited by his short reign of less than two years. He restored the full Iconophile numismatic tradition, including the image of Christ on gold nomismata, and resumed the portrait types of the pre-Iconoclast tradition. His coins are relatively scarce.",
+          "coin_slugs": ["byzantine-michael-i-ae-follis","byzantine-michael-i-av-nomisma","byzantine-michael-i-av-semissis","byzantine-michael-i-av-solidus","byzantine-michael-i-unknown"]
+        }
+      ]
+    },
+    {
+      "id": "amorian",
+      "name": "Amorian Dynasty",
+      "period_id": "byzantine-empire",
+      "dates": "820–867 AD",
+      "overview": "The Amorian dynasty (named for Amorion in Phrygia, the family's hometown) presided over the second phase of Iconoclasm and its final defeat, as well as continued Arab pressure and the beginnings of Slavic and Viking contact with Byzantine civilization.",
+      "rulers": [
+        {
+          "id": "leo-v",
+          "name": "Leo V 'the Armenian'",
+          "dates": "813–820 AD",
+          "overview": "Leo V 'the Armenian' was the general who overthrew Michael I Rhangabe, checked the Bulgarian advance, and then revived Iconoclasm — the second phase — before being murdered in the Hagia Sophia on Christmas Day.",
+          "biography": "Born around 775 AD of Armenian origin, Leo V was a capable general who served several emperors before his proclamation by the army in 813 AD. He checked Krum's Bulgarian advance through a combination of defensive warfare and negotiation — aided enormously by Krum's sudden death in 814 AD. He then turned to internal policy, deciding that the empire's military failures were divine punishment for the restoration of icon veneration. In 815 AD he convened a council that rescinded the Second Council of Nicaea and restored Iconoclasm.\n\nHis second Iconoclasm was less brutal than the first — monks were exiled rather than mutilated, and popular resistance was tolerated to a greater degree. He governed competently otherwise, strengthening the frontiers and reforming the military. A court conspiracy led by the future emperor Michael II resulted in his assassination on December 25, 820 AD, in the very sanctuary of the Hagia Sophia — a desecration that shocked even his enemies.",
+          "coinage": "Leo V's coinage reflects his Iconoclast revival: Christ's image was removed from the gold nomisma again, replaced by the cross or the emperor's portrait. His portrait types show a military figure, appropriate to his general's origins. His reign of less than seven years limits the variety of his numismatic output.",
+          "coin_slugs": ["byzantine-leo-v-ae-follis","byzantine-leo-v-av-solidus","byzantine-leo-v-av-tremissis","byzantine-leo-v-unknown"]
+        },
+        {
+          "id": "theophilos",
+          "name": "Theophilos",
+          "dates": "829–842 AD",
+          "portrait_url": "https://en.wikipedia.org/wiki/Special:FilePath/Theophilos_emperor.jpg",
+          "overview": "Theophilos was the last Iconoclast emperor — an extraordinarily cultured ruler who loved art (despite destroying sacred images), administered justice personally in public sessions, and presided over the brilliant Arab-Byzantine cultural exchange of the ninth century.",
+          "biography": "Born in 813 AD, Theophilos was the son of Michael II and became emperor in 829 AD. He was one of the most culturally sophisticated of all Byzantine emperors — deeply learned in theology, philosophy, and music, fluent in Arabic, and fascinated by Islamic art and architecture. He remodeled parts of the Great Palace in Constantinople with explicit reference to the Abbasid palaces of Baghdad, including mechanical devices: golden trees with mechanical singing birds, mechanical lions that roared, and thrones that could rise from the floor.\n\nHe prosecuted the Iconoclast policy inherited from his father with some vigor, exiling and imprisoning monks who continued to venerate images. But his wars with the Abbasid Caliphate were disastrous — a major Arab raid sacked Amorion (his family's hometown) in 838 AD, an event of enormous symbolic and emotional significance. He died on January 20, 842 AD, aged about twenty-eight or twenty-nine, of dysentery. His widow Theodora acted as regent for their young son Michael III and formally restored icon veneration in March 843 AD — the final end of Iconoclasm, still celebrated in the Eastern Orthodox Church as the 'Triumph of Orthodoxy.'",
+          "coinage": "Theophilos's coinage shows the last phase of Byzantine Iconoclasm in its numismatic expression — no Christ on the gold, imperial portraits maintaining the Iconoclast tradition. But his coins also show the high quality of Amorian-era metalwork and die-cutting. Some of his gold types are among the most aesthetically refined of the middle Byzantine period. His copper folles are relatively numerous.",
+          "coin_slugs": ["byzantine-theophilos-ae-follis","byzantine-theophilos-av-semissis","byzantine-theophilos-av-solidus","byzantine-theophilos-unknown"]
+        }
+      ]
+    },
+    {
+      "id": "macedonian",
+      "name": "Macedonian Dynasty",
+      "period_id": "byzantine-empire",
+      "dates": "867–1056 AD",
+      "overview": "The Macedonian dynasty was Byzantium's golden age — two centuries of relative stability, military expansion, and cultural brilliance. Basil I founded the dynasty; Basil II 'the Bulgar-Slayer' brought it to its apogee. The Macedonian coinage established the distinctive Byzantine nomisma as the gold standard of the medieval world.",
+      "rulers": [
+        {
+          "id": "basil-i",
+          "name": "Basil I 'the Macedonian'",
+          "dates": "867–886 AD",
+          "portrait_url": "https://en.wikipedia.org/wiki/Special:FilePath/Basil_I_the_Macedonian.jpg",
+          "overview": "Basil I was the founder of the Macedonian dynasty — a Macedonian peasant (possibly of Armenian origin) who rose through charm and physical prowess to become the lover of the emperor Michael III, murdered him, and founded a dynasty that would rule Byzantium for two centuries.",
+          "biography": "Born around 830 AD in the theme of Macedonia (in the Balkans, not ancient Macedonia), Basil came from obscure origin — possibly Armenian peasant stock. He attracted the attention of the emperor Michael III through his extraordinary physical strength (he allegedly wrestled a Bulgarian champion to the ground with one hand) and became his favorite companion and eventually his co-emperor in 866 AD. On September 23/24, 867 AD, Basil organized Michael's murder and became sole emperor.\n\nDespite his brutal path to power, Basil proved a capable emperor. He reconquered territories in southern Italy and in the East, began the reconversion of Bulgaria to Orthodoxy, and initiated a major legal reform that eventually produced the Basilika (a revised and expanded codification of Justinianic law). He established a stable dynasty that would rule for nearly two centuries. He died on August 29, 886 AD, from a hunting accident — dragged for miles by a stag that caught its antler in his belt — perhaps the most ignominious end of any successful Byzantine emperor.",
+          "coinage": "Basil I established the coin types that would define the Macedonian dynasty. His gold nomismata typically show a facing portrait of the emperor on the obverse and Christ enthroned on the reverse — the full restoration of Iconophile imagery after Iconoclasm's end. He also developed the Christ-crowning-emperor type, showing Christ placing a crown on the emperor's head, which became a standard Byzantine theme. His miliaresion (silver) coins show the enthroned Virgin, establishing Marian imagery as a Byzantine numismatic constant.",
+          "coin_slugs": ["byzantine-basil-i-ae-follis","byzantine-basil-i-av-semissis","byzantine-basil-i-av-solidus","byzantine-basil-i-av-tremissis"]
+        },
+        {
+          "id": "romanus-i",
+          "name": "Romanus I Lekapenos",
+          "dates": "920–944 AD",
+          "overview": "Romanus I Lekapenos was the admiral who seized effective power as regent for the young Constantine VII, made himself co-emperor, and governed competently for over twenty years before his own sons overthrew and exiled him.",
+          "biography": "Born around 870 AD of Armenian origin, Romanus was an admiral (droungarios of the fleet) who exploited the minority of Constantine VII Porphyrogenitus to seize control of the government. He married his daughter Helena to Constantine, making himself emperor-father-in-law, then progressively elevated his own sons as co-emperors to sideline the legitimate Macedonian heir. He governed energetically — winning significant military successes against Bulgaria and the Arab frontier — for over twenty years.\n\nIn December 944 AD, his own sons Stephanos and Constantine, fearing that Romanus intended to pass power to them over the legitimate Constantine VII, overthrew their father and exiled him to a monastery. He died as a monk in June 948 AD, reportedly with exemplary piety. Within weeks the legitimate Constantine VII had exiled Romanus's sons in turn — the wheel of Byzantine palace politics turning predictably.",
+          "coinage": "Romanus I Lekapenos's coinage maintains Macedonian-era types and standards. His nomismata show his portrait and the standing figures of himself and Constantine VII together — asserting collegial legitimacy while visually subordinating the legitimate emperor. His silver miliaresia are important historical documents, showing both his careful management of his legitimacy claims and the high quality of mid-Macedonian metalwork.",
+          "coin_slugs": ["byzantine-romanus-i-ae-follis","byzantine-romanus-i-av-nomisma","byzantine-romanus-i-unknown"]
+        },
+        {
+          "id": "john-i",
+          "name": "John I Tzimiskes",
+          "dates": "969–976 AD",
+          "overview": "John I Tzimiskes was a brilliant Armenian general who murdered the emperor Nicephorus II Phocas with the help of the empress Theophano, seized the throne, won major victories against the Rus' and Fatimid Arabs, and died at the height of his powers.",
+          "biography": "Born around 925 AD into an Armenian military family, John Tzimiskes was one of the empire's finest soldiers — small in stature but reportedly of extraordinary physical courage and military skill. He served under the emperor Nicephorus II Phocas and became his co-commander in major campaigns against the Arabs. But he also became the lover of the empress Theophano, and together they organized Nicephorus's murder in December 969 AD, killing him in his own bedroom.\n\nThe Patriarch of Constantinople refused to crown John unless he sent Theophano away — which he did. As emperor, John was active and militarily successful. He defeated Sviatoslav of the Kievan Rus' in a major campaign in Bulgaria (971 AD), personally leading the final assault. He then turned east, winning remarkable victories in Syria and Palestine — reportedly reaching the gates of Jerusalem before withdrawing. He died on January 10, 976 AD, possibly poisoned, possibly of typhoid.",
+          "coinage": "John I Tzimiskes's coinage is of fine quality and includes some of the most elegant nomismata of the Macedonian period. His gold shows the standard Christ-enthroned reverse with his own portrait, using the titulature IWANNhS BASILEVS RWMAIWn. He also struck the distinctive class A2 histamenon nomisma — one of the important steps in the evolution of Byzantine gold toward the scyphate (cup-shaped) form.",
+          "coin_slugs": ["byzantine-john-i-av-nomisma","byzantine-john-i-el-bi-trachy","byzantine-john-i-unknown"]
+        },
+        {
+          "id": "constantine-x",
+          "name": "Constantine X Doukas",
+          "dates": "1059–1067 AD",
+          "overview": "Constantine X Doukas was the civilian aristocrat who succeeded the soldier-emperor Isaac I Komnenos, presided over the progressive debasement of the Byzantine nomisma, and fatally weakened the military through fiscal cuts — setting the stage for the Manzikert disaster.",
+          "biography": "Born around 1006 AD, Constantine was a member of the powerful civilian Doukas family and had served in high administrative positions before being chosen as emperor by Isaac I Komnenos when Isaac abdicated due to illness in 1059 AD. He represented the victory of the civilian aristocracy over the military aristocracy — a political conflict that would prove fatal to Byzantine military strength.\n\nConstantine systematically reduced military spending, weakening the professional army and the frontier defense system. He relied increasingly on mercenaries and reduced the military landholdings (pronoia) that had sustained the theme armies. The debasement of the nomisma — which had been nearly pure gold for seven centuries — began seriously under his reign. He died in May 1067 AD; his widow Eudokia briefly ruled as regent before remarrying Romanus IV Diogenes. The debasement and military weakness he presided over contributed directly to the catastrophe of Manzikert (1071 AD).",
+          "coinage": "Constantine X Doukas's coinage marks the beginning of the serious debasement of the Byzantine nomisma. The histamenon nomisma of his reign, already somewhat debased under his predecessor, fell further in gold content — visible in the coin's paler color compared to earlier pure-gold issues. His coins use the standard facing-Christ reverse and imperial portrait obverse of the Macedonian tradition, but the artistic and metallurgical quality begins to decline.",
+          "coin_slugs": ["byzantine-constantine-x-ae-follis","byzantine-constantine-x-av-nomisma","byzantine-constantine-x-unknown"]
+        },
+        {
+          "id": "michael-vii",
+          "name": "Michael VII Doukas",
+          "dates": "1071–1078 AD",
+          "overview": "Michael VII Doukas was a scholar-emperor who was ruling when the Seljuk Turks destroyed a Byzantine army at Manzikert and captured the emperor Romanus IV — an event that opened Anatolia to Turkish settlement and permanently changed the empire's strategic situation.",
+          "biography": "Born around 1050 AD, Michael was Constantine X's son and had been educated by the scholar Michael Psellos. He served as co-emperor under Romanus IV Diogenes and came to full power after Romanus's capture and subsequent death. His reign coincided with the aftermath of Manzikert (1071 AD) — the defeat that opened Anatolia to Seljuk colonization.\n\nMichael proved completely unable to deal with the resulting crises: Seljuk raids penetrating deep into Anatolia, Norman pressure in the Balkans, and economic collapse driven by currency debasement. His coinage was so debased that foreign merchants reportedly refused to accept it. He was forced to abdicate in 1078 AD and became a monk, later serving as Archbishop of Ephesus.",
+          "coinage": "Michael VII's nickname 'Parapinakes' ('minus a quarter') was given by his subjects because of the severe debasement of his coin — a nomisma of his reign allegedly bought only three-quarters of what it had previously. His histamenon nomisma contains perhaps 60-70% gold, a dramatic decline from the near-pure standard of a century earlier. His tetarteron (a lighter denomination) continued in similarly debased form. The scyphate (cup-shaped) form of Byzantine gold coins becomes increasingly pronounced in his issues.",
+          "coin_slugs": ["byzantine-michael-vii-av-nomisma"]
+        }
+      ]
+    },
+    {
+      "id": "komnenian",
+      "name": "Komnenian Dynasty",
+      "period_id": "byzantine-empire",
+      "dates": "1081–1185 AD",
+      "overview": "The Komnenian dynasty rescued Byzantium from near-collapse, restored military and fiscal stability, and presided over an extraordinary cultural renaissance. Their coins — the electrum and billon trachea (cup-shaped coins) — are the most distinctive in Byzantine numismatic history.",
+      "rulers": [
+        {
+          "id": "alexios-i",
+          "name": "Alexios I Komnenos",
+          "dates": "1081–1118 AD",
+          "portrait_url": "https://en.wikipedia.org/wiki/Special:FilePath/Alexios_I_Komnenos.jpg",
+          "overview": "Alexios I Komnenos rescued the Byzantine Empire from the brink of disintegration, conducted a sweeping monetary reform, and deftly managed the First Crusade — both exploiting it and surviving it — to restore Byzantine power in western Asia Minor.",
+          "biography": "Born in 1048 AD, Alexios was the nephew of Isaac I Komnenos and had served as a general under Michael VII and Nicephorus III before seizing power in a coup in April 1081 AD. He inherited a catastrophically weakened empire: the Normans under Robert Guiscard were attacking from the west, the Seljuks controlled most of Anatolia, the Cumans and Pechenegs raided the Balkans, and the treasury was empty.\n\nAlexios's genius was diplomatic and administrative rather than purely military — he played his enemies against each other with extraordinary skill. He used the First Crusade (which he had partially inspired by appeals to Pope Urban II) to recover much of western Asia Minor from the Seljuks, while carefully managing the crusaders to serve Byzantine rather than purely crusader interests. His reforms of the court hierarchy, the fiscal system, and the military established the Komnenian state on a stable foundation.\n\nHis daughter Anna Komnena wrote the Alexiad — a biography of her father that is the most important historical text of the Byzantine twelfth century and one of the finest historical works of the Middle Ages. Alexios died on August 15, 1118 AD, aged about seventy.",
+          "coinage": "Alexios I conducted the most comprehensive Byzantine monetary reform since Justinian, completing it definitively in 1092 AD. He abolished the heavily debased nomisma and introduced a new four-denomination system: the hyperpyron (fine gold, about 20.5 carats), the electrum trachy (pale gold/silver alloy, about 6 carats), the billon trachy (debased silver), and the copper tetarteron and noummion. The cup-shaped (scyphate) form became standard for all precious-metal coins. This reformed system, called the hyperpyron standard, served Byzantium for over a century.",
+          "coin_slugs": ["byzantine-alexios-i-av-nomisma"]
+        },
+        {
+          "id": "manuel-i",
+          "name": "Manuel I Komnenos",
+          "dates": "1143–1180 AD",
+          "overview": "Manuel I Komnenos was the most western-oriented of the Byzantine emperors — a chivalric ruler who loved jousting, married a western princess, and pursued an ambitious policy of Byzantine hegemony in Italy and the Holy Land that ultimately overextended the empire.",
+          "biography": "Born around 1118 AD, Manuel was the youngest son of John II Komnenos (who succeeded Alexios I) and was chosen over his older brothers as heir on his father's deathbed. His thirty-seven year reign was the longest and most ambitious of the Komnenian dynasty.\n\nManuel was deeply influenced by western chivalric culture — he jousted in tournaments, wore western armor, and filled Constantinople with Latin knights and merchants. He pursued an activist foreign policy in all directions: reconquering parts of Dalmatia and Serbia, intervening in Hungary and Italy, attempting to impose Byzantine suzerainty over the Crusader states. His Italian campaign of 1155–1158 AD temporarily restored Byzantine presence in southern Italy for the first time since Justinian.\n\nBut his defeat at the Battle of Myriokephalon in 1176 AD against the Seljuk Sultanate of Rum shattered the myth of Byzantine military invincibility in Anatolia and ended his western ambitions. He died on September 24, 1180 AD. The overextension of his reign contributed to the crisis of the dynasty's last years.",
+          "coinage": "Manuel I's coinage continues the Alexian hyperpyron system. His hyperpyra are of consistent fine gold quality. His electrum trachy and billon trachy issues are numerous and show the full iconographic range of Komnenian coinage: Christ enthroned, the Virgin Orans, the Archangel Michael, the emperor standing and on horseback. The scyphate (cup-shaped) form is fully developed in his issues. Some of his billon trachea were struck in very large quantities and are among the more commonly encountered Byzantine coins today.",
+          "coin_slugs": ["byzantine-manuel-i-el-bi-trachy","byzantine-manuel-i-unknown"]
+        },
+        {
+          "id": "andronicus-i",
+          "name": "Andronikos I Komnenos",
+          "dates": "1183–1185 AD",
+          "overview": "Andronikos I Komnenos was the most dramatically villainous emperor in Byzantine history — a man of great personal charm and genuine popular appeal who massacred the Latin inhabitants of Constantinople, terrorized the aristocracy, and was ultimately lynched by a mob.",
+          "biography": "Born around 1118 AD, Andronikos was a grandson of Alexios I and led a scandalous life of romantic adventure across the medieval world — captured by the Turks, allied with the King of France, lover of the Queen of Jerusalem, refugee at the Seljuk court. He was in his mid-sixties when he seized power as regent for the young emperor Alexios II in 1182 AD, having first organized the massacre of the Latin (western) merchant community in Constantinople — an atrocity that poisoned Byzantine-western relations for generations.\n\nAndronikos had Alexios II strangled and ruled as sole emperor from 1183 AD. His reign began with genuine reforming energy — he cracked down on corruption and tax-farming with unusual effectiveness. But it degenerated rapidly into paranoid terror. Aristocrats were arrested, blinded, and executed on flimsy pretexts. When a Norman army invaded from the west in 1185 AD, the population rose in revolt. Andronikos was captured, handed to the Constantinople mob, and subjected to days of torture before being killed. He was approximately sixty-five years old.",
+          "coinage": "Andronikos I's coinage is limited by his brief two-year reign but maintains the quality of the Komnenian monetary system. His hyperpyra and billon trachea follow standard Komnenian types. His portrait types show him as an elderly man, consistent with his age at accession. Some of his coins show unusual iconographic details that may reflect specific political or religious statements of his brief and turbulent reign.",
+          "coin_slugs": ["byzantine-andronicus-i-el-bi-trachy","byzantine-andronicus-i-unknown"]
+        },
+        {
+          "id": "isaac-ii",
+          "name": "Isaac II Angelos",
+          "dates": "1185–1195 AD",
+          "overview": "Isaac II Angelos was the accidental emperor — an obscure member of the Angelos family who became emperor by accident when the mob that overthrew Andronikos acclaimed him, and then was overthrown by his own brother after ten years.",
+          "biography": "Born around 1156 AD, Isaac Angelos was a private citizen when a court official sent to arrest him for suspected treason was killed by Isaac in self-defense. He fled to the Hagia Sophia, the mob rallied to him, and when Andronikos I was lynched, Isaac was acclaimed emperor — one of the stranger routes to the Byzantine throne.\n\nHis reign was characterized by consistent military defeats: the Bulgarians established the Second Bulgarian Empire in 1185 AD under the Asen brothers, and Isaac could not suppress it despite repeated campaigns. He also faced a serious revolt in Cyprus (which he lost to the Crusader Richard I of England) and continuing Norman pressure. He was overthrown in April 1195 AD by his brother Alexios III, who had him blinded and imprisoned. Isaac was later briefly restored by his son Alexios IV during the Fourth Crusade's first capture of Constantinople in 1203 AD, but died again in captivity in 1204 AD as the crusaders sacked the city.",
+          "coinage": "Isaac II Angelos's coinage marks the beginning of the Angelid decline in monetary quality. His hyperpyra maintain reasonable gold content, but his billon trachea show increasing debasement and declining artistic quality. His portrait types and reverse imagery continue Komnenian conventions, but the execution becomes less fine. His coins document the gradual degradation of Byzantine monetary and administrative standards in the late twelfth century.",
+          "coin_slugs": ["byzantine-isaac-ii-el-bi-trachy","byzantine-isaac-ii-unknown"]
+        }
+      ]
+    }
+  ]
+}

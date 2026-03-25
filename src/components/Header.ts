@@ -7,9 +7,10 @@ export function renderHeader(activePage: string): string {
   const base = import.meta.env.BASE_URL
 
   const navLinks: Array<{ label: string; page: string; route: string }> = [
-    { label: 'Home',    page: 'home',   route: href({ name: 'home'   }) },
-    { label: 'Browse',  page: 'browse', route: href({ name: 'browse' }) },
-    { label: 'About',   page: 'about',  route: href({ name: 'about'  }) },
+    { label: 'Home',    page: 'home',    route: href({ name: 'home'    }) },
+    { label: 'Browse',  page: 'browse',  route: href({ name: 'browse'  }) },
+    { label: 'History', page: 'history', route: href({ name: 'history' }) },
+    { label: 'About',   page: 'about',   route: href({ name: 'about'   }) },
   ]
 
   const navHTML = navLinks.map(({ label, page, route }) => `

@@ -51,7 +51,7 @@ BASE_URL   = "https://coins.ha.com"
 SEARCH_URL = f"{BASE_URL}/c/search/results.zx"
 CDP_URL    = "http://localhost:9222"
 
-RPP = 200   # results per page (Heritage max = 200)
+RPP = 50    # results per page (Heritage currently caps at 50)
 
 # -----------------------------------------------------------------------
 # Civilization sub-categories (coin_category_child values)
@@ -161,12 +161,20 @@ class HeritageScraper:
             context = browser.contexts[0] if browser.contexts else await browser.new_context()
             page = await context.new_page()
 
+            last_pause = time.time()
+
             for civ_label, civ_id in CIVILIZATIONS:
                 for grade_label, grade_id in GRADES:
                     label = f"{civ_label}/{grade_label}"
                     combo_results = 0
 
                     for page_num in range(1, max_pages + 1):
+                        # Pause 30 seconds every 5 minutes to avoid rate limiting
+                        if time.time() - last_pause >= 300:
+                            logger.info("[Heritage] 5-minute mark — pausing 30 seconds to avoid rate limiting...")
+                            time.sleep(30)
+                            last_pause = time.time()
+
                         url = _build_url(civ_id, grade_id, page_num)
                         logger.info(f"[Heritage:{label}] CDP page {page_num}: {url}")
                         time.sleep(_RATE)
@@ -206,12 +214,12 @@ class HeritageScraper:
                             f"{len(items)} items, {page_new} new (combo total: {combo_results})"
                         )
 
-                        # If fewer items than a full page, we've reached the end
-                        if len(items) < RPP:
-                            logger.info(f"[Heritage:{label}] Last page reached ({len(items)} < {RPP})")
+                        # If no items returned, we've reached the end
+                        if len(items) == 0:
+                            logger.info(f"[Heritage:{label}] No items on page {page_num} — stopping")
                             break
 
-                        # If all items on this page were duplicates for 2+ pages, stop
+                        # If all items on this page were duplicates, stop
                         if page_new == 0:
                             logger.info(f"[Heritage:{label}] All duplicates on page {page_num} — stopping")
                             break
@@ -243,17 +251,27 @@ class HeritageScraper:
             if _USE_CURL_CFFI:
                 client.headers.update(session_headers)
 
+            last_pause = time.time()
+
             for civ_label, civ_id in CIVILIZATIONS:
                 for grade_label, grade_id in GRADES:
                     label = f"{civ_label}/{grade_label}"
                     yield from self._scrape_combo_http(
-                        client, civ_id, grade_id, label, max_pages, seen_urls
+                        client, civ_id, grade_id, label, max_pages, seen_urls,
+                        last_pause_ref=[last_pause]
                     )
 
     def _scrape_combo_http(
-        self, client, civ_id, grade_id, label, max_pages, seen_urls
+        self, client, civ_id, grade_id, label, max_pages, seen_urls,
+        last_pause_ref: list | None = None
     ) -> Iterator[RawListing]:
         for page_num in range(1, max_pages + 1):
+            # Pause 30 seconds every 5 minutes to avoid rate limiting
+            if last_pause_ref is not None and time.time() - last_pause_ref[0] >= 300:
+                logger.info("[Heritage] 5-minute mark — pausing 30 seconds to avoid rate limiting...")
+                time.sleep(30)
+                last_pause_ref[0] = time.time()
+
             url = _build_url(civ_id, grade_id, page_num)
             logger.info(f"[Heritage:{label}] HTTP page {page_num}")
             time.sleep(_RATE)
@@ -283,7 +301,7 @@ class HeritageScraper:
                     page_new += 1
 
             logger.info(f"[Heritage:{label}] page {page_num}: {page_new} new")
-            if len(items) < RPP or page_new == 0:
+            if len(items) == 0 or page_new == 0:
                 break
 
 

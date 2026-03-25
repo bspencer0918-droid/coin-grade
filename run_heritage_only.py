@@ -203,7 +203,7 @@ def main():
                             f"{len(items)} items, {page_new} new (combo: {combo_count})"
                         )
 
-                        if len(items) < RPP or page_new == 0:
+                        if len(items) == 0 or page_new == 0:
                             break
 
                     logger.info(f"[Heritage:{combo_key}] Done — {combo_count} new listings")

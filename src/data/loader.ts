@@ -2,6 +2,7 @@
 // Lazy JSON data loader — all fetches go through this module
 // ============================================================
 import type { Meta, CatalogIndex, CoinDetail } from '../types/coin.ts'
+import type { HistoryCivilization } from '../types/history.ts'
 
 const BASE = import.meta.env.BASE_URL   // '/coin-grade/' in production, '/' in dev
 
@@ -31,4 +32,8 @@ export async function loadCoinDetail(slug: string): Promise<CoinDetail> {
 
 export async function loadRulerIndex(category: string): Promise<{ rulers: Array<{ name: string; slug: string; reign: string; sale_count: number; data_url: string }> }> {
   return fetchJSON(`catalog/${category}/by-ruler/index.json`)
+}
+
+export async function loadHistory(civ: string): Promise<HistoryCivilization> {
+  return fetchJSON<HistoryCivilization>(`history/${civ}.json`)
 }

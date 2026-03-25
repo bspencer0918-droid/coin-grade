@@ -8,7 +8,11 @@ import { renderHome } from './pages/Home.ts'
 import { renderBrowse } from './pages/Browse.ts'
 import { renderCoinPage, renderCoinPageLoading } from './pages/CoinPage.ts'
 import { renderAbout } from './pages/About.ts'
-import { loadMeta, loadCatalog, loadCoinDetail } from './data/loader.ts'
+import { renderHistoryPage } from './pages/HistoryPage.ts'
+import { renderHistoryCivPage, renderHistoryCivPageLoading } from './pages/HistoryCivPage.ts'
+import { renderHistoryGroupPage, renderHistoryGroupPageLoading } from './pages/HistoryGroupPage.ts'
+import { renderHistoryRulerPage, renderHistoryRulerPageLoading } from './pages/HistoryRulerPage.ts'
+import { loadMeta, loadCatalog, loadCoinDetail, loadHistory } from './data/loader.ts'
 import type { Meta, CatalogIndex, FilterState } from './types/coin.ts'
 import { DEFAULT_FILTER } from './types/coin.ts'
 
@@ -91,6 +95,75 @@ async function renderRoute(route: Route) {
 
     case 'about': {
       setContent(renderHeader('about'), renderAbout() + renderFooter())
+      break
+    }
+
+    case 'history': {
+      setContent(renderHeader('history'), renderHistoryPage() + renderFooter())
+      break
+    }
+
+    case 'history-civ': {
+      setContent(renderHeader('history'), renderHistoryCivPageLoading() + renderFooter())
+      try {
+        const civ = await loadHistory(route.civ)
+        setContent(renderHeader('history'), renderHistoryCivPage(civ) + renderFooter())
+      } catch {
+        setContent(
+          renderHeader('history'),
+          `<main class="max-w-4xl mx-auto px-4 py-16 text-center">
+            <div class="text-5xl mb-4">🏛️</div>
+            <h1 class="font-display text-2xl text-gold-400 mb-2">Civilization not found</h1>
+            <p class="text-stone-500 mb-6">History data for "<code class="text-stone-300">${route.civ}</code>" could not be loaded.</p>
+            <a href="#/history" class="btn-ghost">← Back to History</a>
+          </main>` + renderFooter()
+        )
+      }
+      break
+    }
+
+    case 'history-group': {
+      setContent(renderHeader('history'), renderHistoryGroupPageLoading() + renderFooter())
+      try {
+        const civ = await loadHistory(route.civ)
+        const group = civ.groups.find(g => g.id === route.group)
+        if (!group) throw new Error('Group not found')
+        setContent(renderHeader('history'), renderHistoryGroupPage(civ, group) + renderFooter())
+      } catch {
+        setContent(
+          renderHeader('history'),
+          `<main class="max-w-4xl mx-auto px-4 py-16 text-center">
+            <div class="text-5xl mb-4">🏛️</div>
+            <h1 class="font-display text-2xl text-gold-400 mb-2">Dynasty not found</h1>
+            <p class="text-stone-500 mb-6">Could not load data for this dynasty.</p>
+            <a href="#/history/${route.civ}" class="btn-ghost">← Back to ${route.civ}</a>
+          </main>` + renderFooter()
+        )
+      }
+      break
+    }
+
+    case 'history-ruler': {
+      setContent(renderHeader('history'), renderHistoryRulerPageLoading() + renderFooter())
+      try {
+        const civ = await loadHistory(route.civ)
+        const group = civ.groups.find(g => g.id === route.group)
+        if (!group) throw new Error('Group not found')
+        const ruler = group.rulers.find(r => r.id === route.ruler)
+        if (!ruler) throw new Error('Ruler not found')
+        const coins = catalog?.coins ?? []
+        setContent(renderHeader('history'), renderHistoryRulerPage(civ, group, ruler, coins) + renderFooter())
+      } catch {
+        setContent(
+          renderHeader('history'),
+          `<main class="max-w-4xl mx-auto px-4 py-16 text-center">
+            <div class="text-5xl mb-4">🏛️</div>
+            <h1 class="font-display text-2xl text-gold-400 mb-2">Ruler not found</h1>
+            <p class="text-stone-500 mb-6">Could not load data for this ruler.</p>
+            <a href="#/history/${route.civ}/${route.group}" class="btn-ghost">← Back</a>
+          </main>` + renderFooter()
+        )
+      }
       break
     }
   }

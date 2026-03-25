@@ -1,0 +1,210 @@
+{
+  "id": "greek",
+  "name": "Greek",
+  "emoji": "🏛️",
+  "dates": "700 – 31 BC",
+  "overview": "The Greeks invented coinage and elevated it into an art form. From the crude electrum lumps of seventh-century Lydia to the magnificent portrait tetradrachms of the Hellenistic kingdoms, Greek coinage reflects eight centuries of intellectual, artistic, and political brilliance. The Athenian owl tetradrachm financed an empire; the coins of Alexander the Great carried Greek culture to the borders of India.",
+  "periods": [
+    {
+      "id": "archaic",
+      "name": "Archaic Period",
+      "dates": "800–480 BC",
+      "overview": "The Archaic period saw the invention of coinage in the Aegean world — first electrum lumps in Lydia, then the silver coins of the Greek city-states. Early Greek coins were often struck with simple incuse (punched) reverses, but already showed the remarkable artistic ambition that would flower in the Classical period."
+    },
+    {
+      "id": "classical",
+      "name": "Classical Period",
+      "dates": "480–323 BC",
+      "overview": "The Classical period, from the Persian Wars to Alexander's death, produced the masterworks of Greek coinage — the Athenian owl, the Syracusan decadrachm, the Corinthian Pegasos stater. Greek coins of this era were vehicles for civic pride, political propaganda, and sheer artistic excellence."
+    },
+    {
+      "id": "hellenistic",
+      "name": "Hellenistic Period",
+      "dates": "323–31 BC",
+      "overview": "Alexander's conquests spread Greek coinage from Spain to Bactria. The Hellenistic kingdoms competed in producing vivid royal portraits, elaborate mythological reverses, and massive silver tetradrachms that circulated as international currency across the known world."
+    }
+  ],
+  "groups": [
+    {
+      "id": "lydia",
+      "name": "Lydia",
+      "period_id": "archaic",
+      "dates": "680–546 BC",
+      "overview": "Lydia, a kingdom in western Asia Minor (modern Turkey), is traditionally credited with inventing the world's first true coinage in the seventh century BC. The Lydian king Croesus, legendary for his wealth, struck the world's first bimetallic currency — pure gold staters and pure silver staters — setting the standard that Greek cities would follow.",
+      "rulers": [
+        {
+          "id": "croesus",
+          "name": "Croesus",
+          "dates": "560–546 BC",
+          "portrait_url": "https://en.wikipedia.org/wiki/Special:FilePath/Croesus_and_Solon.jpg",
+          "overview": "Croesus was the last king of Lydia and one of the wealthiest rulers of the ancient world. His name became synonymous with fabulous riches — 'rich as Croesus' echoes across Western languages to this day. His gold staters are among the first true coins ever minted.",
+          "biography": "Born around 595 BC, Croesus was the son of Alyattes II and the last king of the Mermnad dynasty. He came to the throne after killing his half-brother and rival, and rapidly extended Lydian control over the Greek cities of the Ionian coast — including Ephesus, Miletus, and others — though he treated them relatively leniently and became a generous patron of Greek temples, including lavish dedications at Delphi.\n\nCroesus's wealth was legendary even in antiquity. The Lydians had access to electrum from the river Pactolus — whose gold-bearing sands gave rise to the myth of King Midas — and had developed the techniques for separating gold from silver to produce pure metal. The story of Solon visiting Croesus and warning him that no man could be called happy until he was dead (a warning Croesus recalled too late) is one of the most famous moral tales of antiquity, though it is almost certainly legendary.\n\nThe Oracle at Delphi proved his undoing. Asking whether he should attack Persia, the Oracle replied that if he crossed the Halys river, a great empire would be destroyed. He crossed — and the empire destroyed was his own. Cyrus the Great of Persia defeated Croesus at the Battle of Thymbra around 546 BC. Lydian tradition says Croesus was placed on a funeral pyre; some accounts say Apollo rescued him. The historical reality is that he was captured and his kingdom absorbed into the Persian Empire. Lydia's monetary traditions passed to the Persian empire and to the Greek cities that Persia now controlled.",
+          "biography": "Born around 595 BC, Croesus was the son of Alyattes II and the last king of the Mermnad dynasty of Lydia. He extended Lydian control over the Greek cities of the Ionian coast and became a generous patron of Greek temples, including lavish dedications at Delphi, where the priests knew him as the most generous donor they had ever received.\n\nCroesus's wealth derived from the electrum deposits in the river Pactolus and from Lydia's sophisticated metallurgical skills in refining and separating precious metals. His court became a gathering place for Greek sages and travelers — the story of the Athenian lawgiver Solon visiting him and refusing to name Croesus the happiest man alive (warning that happiness cannot be judged before death) is one of antiquity's most resonant moral fables, preserved by Herodotus.\n\nHis downfall came through overconfidence in oracular prophecy. The Delphic Oracle's ambiguous response to his question about attacking Persia led him to launch a campaign against Cyrus the Great. Defeated at the Battle of Thymbra around 546 BC, Croesus was captured when the Persians took his capital Sardis. Persia absorbed Lydia entirely, and Croesus passed into legend as the supreme example of fortune's reversibility.\n\nThe coinage tradition Croesus established did not die with his kingdom. The Persian empire adopted and adapted Lydian monetary practices; the Ionian Greek cities that passed under Persian and then Athenian hegemony continued the tradition; and the pure gold stater became the template for Philip II's gold coinage and ultimately Alexander's. Every gold coin minted in the Western world bears some genetic relationship to Croesus's innovation.",
+          "coinage": "Croesus's coins represent one of the most significant innovations in economic history: the world's first bimetallic currency system, with pure gold staters (about 8 grams) and pure silver staters (about 10 grams) minted to a fixed weight standard. Before Croesus, Lydian coinage had used electrum — a natural gold-silver alloy whose proportions varied and made it difficult to value precisely. By separating the metals and guaranteeing their purity, Croesus created a reliable, easily valued currency.\n\nThe design of Croesean staters is bold and simple: a confronted lion and bull on the obverse (the lion representing the king, the bull representing the power of nature), and a simple incuse punch on the reverse. The artistry is archaic but powerful. These coins are among the rarest and most expensive of all ancient coins — as direct tokens of the world's first true monetary economy, they carry extraordinary historical weight. The few genuine examples in major auction sales have fetched six-figure sums.",
+          "coin_slugs": ["greek-av-stater","greek-ar-stater"]
+        }
+      ]
+    },
+    {
+      "id": "early-greek-coinage",
+      "name": "Early Greek City-States",
+      "period_id": "archaic",
+      "dates": "700–480 BC",
+      "overview": "The major Greek city-states developed their own distinctive coinage traditions in the Archaic period, each choosing symbols that represented civic identity — Aegina's sea turtle, Corinth's Pegasos, Athens's owl. These early coins established the visual language of Greek numismatics.",
+      "rulers": [
+        {
+          "id": "aegina",
+          "name": "Aegina",
+          "dates": "650–457 BC",
+          "portrait_url": "https://en.wikipedia.org/wiki/Special:FilePath/Aegina_Temple_of_Aphaea.jpg",
+          "overview": "Aegina, the small island in the Saronic Gulf near Athens, was one of the first Greek city-states to adopt coinage and became a major commercial hub whose distinctive 'turtle' coins — among the earliest Greek silver coins — circulated across the Mediterranean.",
+          "biography": "Aegina was a prosperous trading island whose merchant fleet competed successfully with Corinth and Athens. Its citizens had extensive trade contacts in Egypt, the Black Sea, and throughout the Aegean. The Aeginetans developed their own weight standard — the Aeginetan standard — which became widely adopted across the Greek world and competed with the Euboic-Attic standard used by Athens and many others.\n\nAegina's commercial success made it Athens's great commercial rival, and the 'ancient hatred' between Athens and Aegina is a recurrent theme in Thucydides and other fifth-century sources. Athens finally crushed Aegina in 457 BC during the First Peloponnesian War — expelling the Aeginetan population from the island and replacing them with Athenian colonists. The distinctive Aeginetan turtle coinage thus ended, replaced by Athenian owls. After the Peloponnesian War, some Aeginetans returned, but the city never recovered its former prominence.\n\nAegina's greatest monument is the Temple of Aphaea, completed around 500 BC, whose sculptural pediments — now partly in the Glyptothek in Munich — are among the finest surviving examples of late Archaic Greek art. The island's role in the development of Greek coinage, however, is its most enduring contribution to history.",
+          "coinage": "Aeginetan coinage is among the earliest in the Greek world, beginning around 650–600 BC — possibly the very first Greek city-state to mint coins on a regular basis. The obverse consistently shows a sea turtle (later a land tortoise after 457 BC on the smaller island issues), and the reverse a simple incuse square punch divided into smaller sections. The design is austere and archaic, but extraordinarily consistent across two centuries of production.\n\nThe Aeginetan stater (about 12.2 grams) and its fractions — drachm, obol, and smaller — were widely used in trade and have been found in hoards from Egypt to the Black Sea. The change from sea turtle to land tortoise around 457 BC marks the watershed of Athenian conquest, making the two types chronologically distinct. Aeginetan coins are among the most collectible of all Archaic Greek issues for their historical importance and their beautiful simplicity.",
+          "coin_slugs": ["greek-ar-stater","greek-ar-didrachm","greek-ar-drachm","greek-ar-obol"]
+        },
+        {
+          "id": "corinth-archaic",
+          "name": "Corinth (Archaic)",
+          "dates": "650–400 BC",
+          "overview": "Corinth was one of the wealthiest and most commercially active of all Greek city-states, controlling the Isthmus of Corinth and the trade routes between mainland Greece and the Peloponnese. Its distinctive silver staters, bearing the winged horse Pegasos on the obverse, became one of the most widely circulated coins of the Archaic world.",
+          "biography": "Corinth's geographic position — controlling the narrow land bridge between mainland Greece and the Peloponnese, with ports on both the Saronic and Corinthian Gulfs — made it a natural commercial hub. Ships could be dragged on rollers across the Isthmus (the diolkos) rather than making the dangerous voyage around the Peloponnese, and Corinth taxed this trade heavily.\n\nThe city was one of the earliest Greek states to develop monumental architecture, pottery, and coinage. Corinthian pottery of the seventh and sixth centuries BC was exported across the Mediterranean. Corinth founded numerous colonies, including Syracuse in Sicily (traditionally 734 BC), spreading Corinthian commercial and cultural influence widely. In the fifth century Corinth was a major power in the Peloponnesian League and a persistent rival of Athens. Destroyed by Rome in 146 BC, it was refounded as a Roman colony in 44 BC by Julius Caesar.",
+          "coinage": "Corinthian staters are among the most beautiful of all Archaic and Classical Greek coins. The obverse shows the winged horse Pegasos with the letter koppa (an archaic Greek letter used as an abbreviation for Corinth) beneath it; the reverse shows the helmeted head of Athena (wearing the distinctive Corinthian helmet) in an incuse square, later developed into a full artistic composition. The Corinthian stater weighs about 8.6 grams on the Corinthian-Euboic standard.\n\nThe Pegasos type, nicknamed 'colts' in antiquity (poloi), was widely imitated across the Greek world — Acarnania, Leucas, Ambracia, and Corinth's colonial foundations all used similar types. The evolution of the Athena portrait reverse from simple archaic incuse to full Classical beauty across the fifth and fourth centuries is one of the great artistic stories of Greek numismatics.",
+          "coin_slugs": ["greek-corinth-ar-stater","greek-corinth-ar-drachm"]
+        }
+      ]
+    },
+    {
+      "id": "athens",
+      "name": "Athens",
+      "period_id": "classical",
+      "dates": "480–322 BC",
+      "overview": "Athens produced the most recognized coin in the ancient world: the silver tetradrachm bearing Athena on the obverse and her owl on the reverse. The 'Athenian owl' financed the Parthenon, paid the fleet that defeated Persia at Salamis, and circulated from Spain to Persia as the dominant international currency of the fifth century BC.",
+      "rulers": [
+        {
+          "id": "athens",
+          "name": "Athens",
+          "dates": "5th–4th century BC",
+          "portrait_url": "https://en.wikipedia.org/wiki/Special:FilePath/Velletri_Athena.jpg",
+          "overview": "Athens — the city of Athena, democracy, philosophy, and the Parthenon — produced the most widely recognized coin of the ancient world. The silver tetradrachm, with its helmeted Athena and alert owl, was the dollar of the classical Mediterranean, trusted from Egypt to India.",
+          "biography": "Athens rose to extraordinary prominence in the fifth century BC through a combination of democratic reforms, silver mining wealth from the Laurion mines, and military success. The Athenian silver mines at Laurion, discovered in significant new deposits around 483 BC (just before the Persian invasion), provided the financial foundation for both the fleet that defeated Persia at Salamis (480 BC) and the Athenian Empire that followed.\n\nThe coinage of Athens is inseparable from the city's political and military history. The 'owls' funded Themistocles's trireme fleet, paid for the Periclean building program that produced the Parthenon, and circulated as international currency throughout the Athenian Empire — where Athens prohibited subject states from issuing their own silver coins, forcing them to use Athenian tetradrachms instead. This monetization policy both enriched Athens and spread the owl image across the eastern Mediterranean.\n\nThe defeat in the Peloponnesian War (431–404 BC) severely damaged Athenian power but not immediately its monetary prestige. Athens continued to mint tetradrachms throughout the fourth century, though in reduced quantities. Around 393 BC the coinage underwent a major stylistic revision — the 'New Style' owl — becoming more elaborate and eventually incorporating the names of mint magistrates. Athenian silver remained internationally significant until the Macedonian conquest under Philip II and Alexander III redirected the flow of precious metal.\n\nAthens's cultural legacy — Plato, Aristotle, Sophocles, Euripides, Thucydides, the Parthenon — is beyond measure. But in the global history of money, the Athenian owl tetradrachm holds a special place: it was the first international reserve currency, trusted across the ancient world for its consistent weight and purity.",
+          "coinage": "The Athenian tetradrachm is the most famous of all ancient Greek coins. The obverse shows the helmeted head of Athena — wearing the Attic helmet pushed back to reveal her face, with an olive wreath and a small owl behind the helmet — in right-facing profile. The reverse shows the standing Little Owl (Athena noctua), an olive sprig, a crescent moon, and the letters AOE (abbreviation for Athenians) in the right field. Both sides are rendered with remarkable consistency across two centuries of production.\n\nThe early 'archaic' owls, from before 480 BC, have a distinctly stiff, frontal Athena and a very simple owl. The 'classical' owls, from 480 to about 393 BC, are the 'standard' type — consistently well-struck on large, thick flans of high-purity silver. The 'New Style' owls from the later fourth and third centuries BC are more elaborate, with a more naturalistic Athena and a more detailed reverse. All types are commonly encountered in today's market, though well-preserved examples command significant premiums.",
+          "coin_slugs": ["greek-athens-ar-tetradrachm","greek-athens-ar-drachm","greek-athens-ar-obol","greek-athens-ar-stater","greek-athens-ar-hemidrachm","greek-athens-ar-denarius","greek-athens-ar-unit","greek-athens-ae-25","greek-athens-unknown"]
+        }
+      ]
+    },
+    {
+      "id": "corinth",
+      "name": "Corinth",
+      "period_id": "classical",
+      "dates": "480–146 BC",
+      "overview": "Corinth maintained its commercial prominence through the Classical and into the Hellenistic period, continuing to produce its distinctive Pegasos staters. Corinthian coins were widely imitated across the western Greek world, creating an extensive family of 'Corinthian-type' coins.",
+      "rulers": [
+        {
+          "id": "corinth",
+          "name": "Corinth",
+          "dates": "6th–1st century BC",
+          "portrait_url": "https://en.wikipedia.org/wiki/Special:FilePath/Temple_of_Apollo_Corinth_-_panoramio.jpg",
+          "overview": "Corinth was one of ancient Greece's wealthiest and most commercially sophisticated city-states, producing the beautiful Pegasos staters that circulated across the western Mediterranean for centuries.",
+          "biography": "Classical Corinth continued to develop as a commercial powerhouse through the fifth and fourth centuries BC. Although it fought on the Spartan side during the Peloponnesian War, the city maintained its commercial networks with both sides of the conflict. The Corinthian War (395–387 BC) — ironically a war in which Corinth found itself fighting its former Spartan allies alongside Athens — reflected the complexity of Greek interstate politics.\n\nCorinth's colonies remained commercially active throughout the period. Syracuse in Sicily, Corinth's most successful colonial foundation, grew to become perhaps the largest Greek city in the western Mediterranean. The architectural relationship between Corinth and its colonies is reflected in their coinage: Syracusan and Corinthian types share the Athena/Pegasos imagery.\n\nThe Macedonian conquest under Philip II reduced Corinth's independence, but the League of Corinth established by Philip made the city symbolically important as a meeting place. The Romans sacked Corinth with particular brutality in 146 BC — the same year they destroyed Carthage — selling the population into slavery and leaving the city a ruin for a century, until Julius Caesar refounded it as a Roman colony in 44 BC.",
+          "coinage": "Corinthian Classical coinage evolved the Archaic type into one of the most aesthetically refined series in Greek numismatics. The Pegasos obverse became increasingly naturalistic, while the reverse Athena head developed from a simple archaic image to a full portrait of extraordinary beauty — the so-called 'Corinthian' type helmet with its distinctive cheek guards and crest became one of the most recognizable images in ancient art. The stater continued at approximately 8.6 grams of fine silver.\n\nCorinthian staters are divided by modern numismatists into 'periods' based on the style of the Athena portrait and various die details. The finest examples from the Classical period show Athena in three-quarter view — a bold artistic experiment for the early fourth century — of breathtaking sophistication. The bronze small-denomination coins of Corinth are also of high quality. Corinthian types were imitated by numerous western Greek cities, creating a 'Pegasos family' of coinage that spans the western Mediterranean.",
+          "coin_slugs": ["greek-corinth-ar-stater","greek-corinth-ar-tetradrachm","greek-corinth-ar-drachm","greek-corinth-ar-hemidrachm","greek-corinth-ar-trihemiobol","greek-corinth-ae-12","greek-corinth-ae-15","greek-corinth-unknown"]
+        }
+      ]
+    },
+    {
+      "id": "syracuse",
+      "name": "Syracuse",
+      "period_id": "classical",
+      "dates": "480–212 BC",
+      "overview": "Syracuse, the great Corinthian colony in Sicily, produced some of the finest coins ever struck in the ancient world. The Syracusan decadrachm — particularly the masterpieces signed by the engravers Kimon and Euainetos — is considered by many numismatists to represent the apex of the Greek coiners' art.",
+      "rulers": [
+        {
+          "id": "syracuse",
+          "name": "Syracuse",
+          "dates": "5th–3rd century BC",
+          "portrait_url": "https://en.wikipedia.org/wiki/Special:FilePath/Teatro_greco_siracusa.jpg",
+          "overview": "Syracuse was the greatest Greek city of the western Mediterranean — a Corinthian colony that grew to rival Athens in power and wealth, producing the most artistically ambitious coins of the ancient world.",
+          "biography": "Founded by Corinthian colonists traditionally in 734 BC, Syracuse grew over two centuries into the largest and wealthiest Greek city in the western Mediterranean. Its great harbor made it a natural commercial hub; its Sicilian hinterland provided grain that fed much of the Greek world. By the fifth century BC Syracuse was governed by powerful tyrants — Gelon, Hieron I, Dionysios I — who commanded resources comparable to any mainland Greek state.\n\nThe defining moment of Syracusan history was the defeat of the Athenian Expedition of 415–413 BC — the greatest military disaster in Athenian history. Athens sent an enormous fleet and army to conquer Sicily and was completely destroyed. The Athenian general Nicias and thousands of soldiers were captured and executed or worked to death in the stone quarries of Syracuse. The victory was commemorated on the famous Syracusan decadrachms, and the period that followed — under the tyrant Dionysios I — saw Syracuse develop the most extraordinary coinage of the ancient world.\n\nSyracuse fell to the Romans after a two-year siege in 212 BC, during the Second Punic War. The Roman general Marcellus is said to have wept when he saw the beauty of the city he had just taken. The mathematician Archimedes — whose war machines had prolonged the defense — was killed by a Roman soldier during the sack, reportedly while working on a mathematical problem in the dirt.",
+          "coinage": "Syracusan coinage is arguably the greatest artistic achievement in all ancient numismatics. The standard type shows the head of the nymph Arethusa (or possibly Persephone) surrounded by dolphins on the obverse, and a quadriga (four-horse chariot) on the reverse. This type, evolving from archaic rigidity to Classical naturalism, was developed to extraordinary heights by named engravers whose signatures appear on the coins — an almost unique phenomenon in ancient art.\n\nThe signed decadrachms of the late fifth and early fourth century BC — particularly those signed by Kimon and Euainetos — are among the most beautiful objects ever created in metal. Kimon's facing head of Arethusa, with her hair swirling around her face, is a virtuoso technical and artistic achievement. Euainetos's chariot reverses show galloping horses in dramatic foreshortening. Major examples sell for hundreds of thousands of dollars at auction. The full range of Syracusan bronze coinage is also of very high quality, making Syracuse one of the most rewarding fields in all ancient numismatics.",
+          "coin_slugs": ["greek-syracuse-ar-tetradrachm","greek-syracuse-ar-drachm","greek-syracuse-ar-litra","greek-syracuse-ar-stater","greek-syracuse-ar-hemidrachm","greek-syracuse-ar-obol","greek-syracuse-ar-trihemiobol","greek-syracuse-ae-21","greek-syracuse-ae-25","greek-syracuse-ae-28","greek-syracuse-av-stater","greek-syracuse-unknown"]
+        }
+      ]
+    },
+    {
+      "id": "macedon",
+      "name": "Kingdom of Macedon",
+      "period_id": "classical",
+      "dates": "359–323 BC",
+      "overview": "Under Philip II, the Kingdom of Macedon was transformed from a peripheral, semi-barbarous monarchy into the dominant power of the Greek world. Philip's military reforms, gold mines at Philippi, and diplomatic genius laid the foundation for his son Alexander's world conquest.",
+      "rulers": [
+        {
+          "id": "philip-ii",
+          "name": "Philip II of Macedon",
+          "dates": "359–336 BC",
+          "portrait_url": "https://en.wikipedia.org/wiki/Special:FilePath/Philip_II_of_Macedon.jpg",
+          "overview": "Philip II was Alexander the Great's father and the creator of the Macedonian military machine — the king who transformed Macedonia from a weak northern kingdom into the dominant power of the Greek world through military innovation, diplomatic brilliance, and exploitation of Thracian gold mines.",
+          "biography": "Born in 382 BC, Philip came to the Macedonian throne in 359 BC in a crisis — the kingdom was surrounded by enemies and had just suffered a disastrous military defeat. Within years he had revolutionized the Macedonian army, introducing the sarissa (an 18-foot pike) and the combined arms tactics that would make Macedonia invincible, and begun systematically expanding his power through northern Greece.\n\nHis capture of Amphipolis in 357 BC and, crucially, the gold mines of Mount Pangaion gave him the financial resources for both military expansion and a new gold coinage that immediately became the dominant currency of the northern Aegean. He defeated Athens and its allies at the Battle of Chaeronea in 338 BC — the battle that ended Greek city-state independence — and organized the conquered Greeks into the League of Corinth, positioning himself as hegemon (commander-in-chief) for a projected invasion of Persia.\n\nPhilip was assassinated at his daughter's wedding at Aegae in 336 BC, probably on the orders of the Persian king Artaxerxes III or through a domestic conspiracy (the historical debate continues). He was forty-six years old. His son Alexander, who had fought with him at Chaeronea, succeeded at age twenty — inheriting the world's finest army and a plan for the Persian invasion he would execute beyond all expectation.",
+          "coinage": "Philip II's coinage is historically significant for two reasons: his gold staters (showing Apollo on the obverse and a two-horse chariot on the reverse) were the first Greek gold coins struck in sufficient quantity to serve as an international reserve currency, and they were so widely imitated across the Celtic world that Philip's gold stater effectively became the template for Celtic coinage from Gaul to Britain. The silver tetradrachm with Philip's portrait on horseback (or Zeus on the obverse / horseman reverse) established the royal portrait tetradrachm tradition that Alexander and the Successors would develop into the supreme medium of Hellenistic royal imagery.",
+          "coin_slugs": ["greek-ar-stater","greek-av-stater"]
+        }
+      ]
+    },
+    {
+      "id": "alexander",
+      "name": "Alexander the Great",
+      "period_id": "hellenistic",
+      "dates": "336–323 BC",
+      "overview": "Alexander III of Macedon conquered the Persian Empire, Egypt, Central Asia, and northwestern India in just thirteen years, spreading Greek language, culture, and coinage across the known world. His coins — minted in his name throughout the Hellenistic period — are the most widely circulated of all ancient Greek coins.",
+      "rulers": [
+        {
+          "id": "alexander-iii",
+          "name": "Alexander III 'the Great'",
+          "dates": "336–323 BC",
+          "portrait_url": "https://en.wikipedia.org/wiki/Special:FilePath/AlexanderTheGreat_Bust.jpg",
+          "overview": "Alexander III of Macedon was the greatest conqueror of antiquity — the king who destroyed the Persian Empire, founded cities from Egypt to Bactria, and spread Greek culture across a world stretching from the Adriatic to the Indian subcontinent, all before dying at thirty-two.",
+          "biography": "Born on July 20 or 21, 356 BC, in Pella, Alexander was educated by Aristotle — the greatest philosopher of antiquity — from age thirteen to sixteen. He fought alongside his father Philip at Chaeronea in 338 BC at age eighteen, commanding the Macedonian cavalry with decisive effect. When Philip was assassinated in 336 BC, Alexander moved with characteristic speed to secure the throne, executing potential rivals and forcing the reassertion of Macedonian hegemony over Greece before launching the Persian invasion Philip had planned.\n\nIn eleven years of continuous campaigning, Alexander conquered the Persian Empire in its entirety — winning decisive victories at Granicus (334 BC), Issus (333 BC), and Gaugamela (331 BC) that eliminated Persian resistance. He then pushed east: into Bactria and Sogdia (modern Afghanistan and Uzbekistan), where he fought some of his most difficult guerrilla campaigns, and finally into northwestern India, where his exhausted troops at the Hyphasis river finally refused to march further east (326 BC). The return journey through the Gedrosian desert was catastrophic, costing thousands of lives.\n\nAlexander founded perhaps twenty cities named Alexandria across the conquered territories — including Alexandria in Egypt, which became the greatest city of the Hellenistic world and a center of learning rivaling Athens. His policy of marrying Persian noble women, encouraging his officers to do the same, wearing Persian dress, and incorporating Persian and other Asian troops into his army was controversial among his Macedonians but reflected a genuine vision of a unified Greco-Persian empire. He died in Babylon on June 10 or 11, 323 BC, aged thirty-two, after an illness of ten or eleven days (fever, possibly typhoid or alcohol-related). He left no clear heir and had not named a successor; asked on his deathbed to whom he left his empire, he reportedly answered 'to the strongest' — or said nothing at all.",
+          "coinage": "Alexander's coinage was the most influential in the ancient world. He introduced a standardized silver tetradrachm (weighing approximately 17.2 grams on the Attic standard) that became the universal Greek coin — replacing the previous diversity of city-state issues with a single internationally recognized type. The obverse shows the head of Heracles wearing a lion-skin headdress (an allusion to Alexander's claimed divine descent through Heracles); the reverse shows Zeus enthroned, holding an eagle and scepter, with the inscription ALEXANDROU ('of Alexander').\n\nAlexander also struck abundant gold staters with Athena on the obverse and a winged Nike on the reverse. These types were minted at dozens of mints from Macedonia to Babylon, both during his lifetime and for generations afterward — the Successors (Diadochoi) continued minting coins 'in the name of Alexander' for decades after his death. The total quantity of Alexander-type coins minted is almost incalculably large; they have been found in hoards from Spain to Bactria. His coins are the most commonly encountered of all Greek coins today, ranging from well-worn circulated examples accessible to beginning collectors to superb mint-state specimens that fetch extraordinary prices.",
+          "coin_slugs": ["greek-alexander-iii-ar-tetradrachm","greek-alexander-iii-ar-drachm","greek-alexander-iii-ar-stater","greek-alexander-iii-ar-didrachm","greek-alexander-iii-ar-hemidrachm","greek-alexander-iii-ar-obol","greek-alexander-iii-av-stater","greek-alexander-iii-av-solidus","greek-alexander-iii-unknown"]
+        }
+      ]
+    },
+    {
+      "id": "ptolemaic",
+      "name": "Ptolemaic Kingdom",
+      "period_id": "hellenistic",
+      "dates": "305–30 BC",
+      "overview": "The Ptolemaic Kingdom of Egypt, founded by one of Alexander's generals, lasted nearly three centuries and produced a distinctive coinage that combined Greek artistic traditions with Egyptian religious imagery. Ptolemaic Alexandria became the greatest center of learning in the ancient world.",
+      "rulers": [
+        {
+          "id": "ptolemy-i",
+          "name": "Ptolemy I Soter",
+          "dates": "305–283 BC",
+          "portrait_url": "https://en.wikipedia.org/wiki/Special:FilePath/Ptolemy_I_Soter_Louvre_Ma849.jpg",
+          "overview": "Ptolemy I Soter ('the Savior') was one of Alexander's most trusted generals, who secured Egypt after Alexander's death and founded the dynasty that would rule Egypt for nearly three centuries — ending only with Cleopatra VII's defeat in 30 BC.",
+          "biography": "Born around 367 BC, Ptolemy was a boyhood companion of Alexander (possibly an illegitimate son of Philip II) and served as one of his most important generals and bodyguards throughout the Asian campaigns. He was present at most of Alexander's major battles and commanded the force that captured the Indian rebel Bessus.\n\nWhen Alexander died in 323 BC, Ptolemy moved immediately to secure Egypt — the wealthiest province of the former Persian empire. He also stole Alexander's body (intended for burial in Macedon) and brought it to Egypt, a significant piece of political theater that associated his rule with Alexander's prestige. He initially governed as satrap, then declared himself king in 305 BC, taking the title Ptolemy I Soter.\n\nPtolemy I was both a statesman and a scholar. He founded or significantly developed the Museum and Library of Alexandria — institutions that made Alexandria the intellectual capital of the Hellenistic world. He wrote a history of Alexander's campaigns (now lost, but used by later historians). He established a stable administrative and military system that made Egypt the most durable of the successor kingdoms. He abdicated in 285 BC in favor of his son Ptolemy II (making him the only major Diadoch to peacefully transfer power) and died in 283 BC, aged about eighty-four.",
+          "coinage": "Ptolemy I's coinage represents the most dramatic departure from the Alexander tradition among the Successors. While other Hellenistic rulers continued to mint coins 'in the name of Alexander,' Ptolemy broke with this tradition around 305 BC by introducing his own portrait — a bold assertion of independent royal identity. His portrait on his silver tetradrachms is one of the most vivid in Hellenistic numismatics: a strong, realistic face with a distinctive diadem and the aegis (divine armor) of Zeus, later replaced by the elephant-scalp headdress referencing Alexander's Indian campaigns.\n\nHis reverse shows the eagle of Zeus standing on a thunderbolt — a type that became the standard reverse for all subsequent Ptolemaic coinage, giving the dynasty its most recognizable numismatic identity. Ptolemy also broke with Alexander's Attic weight standard, adopting a slightly lighter Phoenician standard that made Ptolemaic coins distinctive and slightly non-interchangeable with other Greek silver. His extensive bronze coinage, minted at Alexandria and other Egyptian mints, is very common today and forms an important part of the Ptolemaic numismatic record.",
+          "coin_slugs": ["greek-ptolemy-i-ar-tetradrachm","greek-ptolemy-i-ar-drachm","greek-ptolemy-i-ar-stater","greek-ptolemy-i-ar-hemidrachm","greek-ptolemy-i-ar-obol","greek-ptolemy-i-ar-trihemiobol","greek-ptolemy-i-ae-19","greek-ptolemy-i-ae-28","greek-ptolemy-i-ae-35","greek-ptolemy-i-ae-37","greek-ptolemy-i-ae-38","greek-ptolemy-i-ae-39","greek-ptolemy-i-ae-41","greek-ptolemy-i-ae-42","greek-ptolemy-i-ae-43","greek-ptolemy-i-ae-48","greek-ptolemy-i-av-stater","greek-ptolemy-i-unknown"]
+        }
+      ]
+    },
+    {
+      "id": "rhodes",
+      "name": "Rhodes",
+      "period_id": "hellenistic",
+      "dates": "408–84 BC",
+      "overview": "Rhodes was the greatest naval and commercial power of the Hellenistic Aegean — a prosperous island republic whose silver drachms and tetradrachms, bearing the sun god Helios on the obverse, circulated across the eastern Mediterranean for three centuries.",
+      "rulers": [
+        {
+          "id": "rhodes",
+          "name": "Rhodes",
+          "dates": "408–84 BC",
+          "portrait_url": "https://en.wikipedia.org/wiki/Special:FilePath/Colossus_of_Rhodes.jpg",
+          "overview": "Rhodes was the dominant naval power of the Hellenistic Aegean — a unified island state renowned for its seamanship, its commercial law (which influenced later Roman maritime law), and the Colossus of Rhodes, one of the Seven Wonders of the Ancient World.",
+          "biography": "The island of Rhodes was unified in 408 BC when its three existing cities (Ialysos, Kamiros, and Lindos) merged to create a single new capital, also named Rhodes. The new city was built on a grid plan and quickly became one of the most prosperous trading ports in the eastern Mediterranean. Rhodian merchant ships were the most respected in the Hellenistic world, and Rhodian maritime law was so sophisticated that Rome eventually adapted it for its own legal code.\n\nRhodes was famous for its neutrality and diplomatic skill — it generally maintained friendly relations with all the major Hellenistic powers while avoiding subordination to any. When an ally of Antigonus besieged it (305–304 BC), the Rhodians' determined resistance became legendary; after the siege was lifted, they sold the abandoned siege equipment and used the proceeds to build the Colossus of Rhodes — a massive bronze statue of Helios at the harbor entrance, completed around 280 BC and destroyed by an earthquake in 226 BC.\n\nRhodes maintained its independence through the turbulent Hellenistic period through commercial wealth and naval power. It suffered severely from the earthquake of 226 BC and again from Roman punitive measures after 168 BC (when it had attempted to mediate in Rome's war with Macedon, displeasing Rome). Its commercial importance declined but it remained culturally significant as a center of philosophy, oratory, and art. The dictator Sulla's lieutenant Lucullus sacked it in 84 BC, effectively ending its independence.",
+          "coinage": "Rhodian coinage is among the most aesthetically consistent in the Greek world. The obverse invariably shows the radiate head of Helios — the sun god who was Rhodes's patron deity — usually in three-quarter or frontal view, with the rays of the sun framing his face. The reverse shows a rose (rhodon in Greek — the etymological connection between the island's name and the flower was exploited in coinage as in all other areas of Rhodian visual culture) with various subsidiary symbols and the ethnic RODION.\n\nThe Helios portrait is one of the finest in Greek numismatics — the three-quarter frontal view, showing a young god with wind-swept hair and parted lips, is technically demanding and often executed with extraordinary skill. Rhodian drachms (about 3.5g) are more commonly encountered than the larger tetradrachms and are among the most popular entry points into Greek numismatics for their beauty and historical significance. The variety of auxiliary symbols (rose bud, thunderbolt, bucranium, etc.) and magistrate names on the reverses makes Rhodian coinage a rewarding field of specialized study.",
+          "coin_slugs": ["greek-rhodes-ar-didrachm","greek-rhodes-ar-drachm","greek-rhodes-ar-stater","greek-rhodes-ar-tetradrachm","greek-rhodes-ar-hemidrachm","greek-rhodes-ar-obol","greek-rhodes-ar-trihemiobol","greek-rhodes-av-stater","greek-rhodes-unknown"]
+        }
+      ]
+    }
+  ]
+}
