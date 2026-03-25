@@ -8,20 +8,22 @@
   "ruler_rarity": "scarce",
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 3,
-  "realized_count": 3,
+  "sale_count": 9,
+  "realized_count": 9,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 701.5,
+    "min": 109.0,
     "max": 4320.0
   },
-  "median_price_usd": 1020.0,
+  "median_price_usd": 156.0,
   "last_sale_date": "2026-03-15",
   "grade_distribution": {
     "AU": 1,
-    "VG": 1,
-    "F": 1
+    "XF": 4,
+    "VF": 1,
+    "F": 2,
+    "VG": 1
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-3-4-9-5-23495216&w=120&h=300&it=product",
   "median_weight_g": null,
@@ -66,6 +68,230 @@
       }
     },
     {
+      "id": "heritage-9f0b39996a85",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-maximinus-i-ad-235-238-ae-as-26mm-1176-gm-12h-ngc-choice-xf-5-5-3-5/a/61241-97223.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Maximinus I (AD 235-238). AE as (26mm, 11.76\ngm, 12h). NGC Choice XF 5/5 - 3/5.",
+      "description": "Auction 61241 | Lot 97223 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 124.0,
+      "currency_original": "USD",
+      "price_original": 124.0,
+      "buyers_premium_included": false,
+      "sale_date": "2021-12-19",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-5-1-1-3-25113567&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-fb20b70fdfa5",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-maximinus-ii-ad-310-313-bi-argenteus-ngc-choice-xf-silvering/a/231735-65089.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Maximinus II (AD 310-313). BI argenteus. NGC\nChoice XF, Silvering.",
+      "description": "Auction 231735 | Lot 65089 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 156.0,
+      "currency_original": "USD",
+      "price_original": 156.0,
+      "buyers_premium_included": false,
+      "sale_date": "2017-08-31",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-5-7-3-3-15733991&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-4e5babafd9df",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-thrace-anchialus-maximinus-i-ad-235-238-ae-23mm-12h-ngc-xf/a/61438-23021.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: THRACE. Anchialus. Maximinus I (AD 235-238). AE\n(23mm, 12h). NGC XF.",
+      "description": "Auction 61438 | Lot 23021 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Provincial",
+      "hammer_price_usd": 109.0,
+      "currency_original": "USD",
+      "price_original": 109.0,
+      "buyers_premium_included": false,
+      "sale_date": "2024-11-25",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-0-8-9-9-30899494&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-7bfd2c39f13f",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-pisidia-olbasa-maximinus-i-ad-235-238-ae-25mm-12h-ngc-xf-adjusted-flan/a/61160-97073.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: PISIDIA. Olbasa. Maximinus I (AD 235-238). AE\n(25mm, 12h). NGC XF\u2605 , adjusted flan.",
+      "description": "Auction 61160 | Lot 97073 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Provincial",
+      "hammer_price_usd": 114.0,
+      "currency_original": "USD",
+      "price_original": 114.0,
+      "buyers_premium_included": false,
+      "sale_date": "2020-05-10",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-2-0-2-3-22023472&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-a83507aa54ef",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-thrace-anchialus-maximinus-i-ad-235-238-ae-29-mm-1439-gm-1h-ngc-choice-vf-5-5-4-5/a/61288-95139.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: THRACE. Anchialus. Maximinus I (AD 235-238). AE\n(29 mm, 14.39 gm, 1h). NGC Choice VF 5/5 - 4/5.",
+      "description": "Auction 61288 | Lot 95139 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Provincial",
+      "hammer_price_usd": 432.0,
+      "currency_original": "USD",
+      "price_original": 432.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-09-18",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-6-4-5-5-26455815&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-57b47832b662",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-cilicia-tarsus-maximinus-i-ad-235-238-ae-36mm-2361-gm-1h-ngc-choice-fine-5-5-3-5-repatinated/a/3101-32073.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: CILICIA. Tarsus. Maximinus I (AD 235-238). AE\n(36mm, 23.61 gm, 1h). NGC Choice Fine 5/5 - 3/5, repatinated.",
+      "description": "Auction 3101 | Lot 32073 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Provincial",
+      "hammer_price_usd": 4320.0,
+      "currency_original": "USD",
+      "price_original": 4320.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-08-28",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-6-3-4-9-26349634&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-fc9cd6f41fd1",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-thrace-deultum-maximinus-i-ad-235-238-ae-24mm-899-gm-7h-ngc-choice-fine-5-5-3-5-light-smoothing/a/61379-24019.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: THRACE. Deultum. Maximinus I (AD 235-238). AE\n(24mm, 8.99 gm, 7h). NGC Choice Fine 5/5 - 3/5, light\nsmoothing.",
+      "description": "Auction 61379 | Lot 24019 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Provincial",
+      "hammer_price_usd": 109.0,
+      "currency_original": "USD",
+      "price_original": 109.0,
+      "buyers_premium_included": false,
+      "sale_date": "2024-05-27",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-9-7-7-6-29776442&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "heritage-627832312a9c",
       "source": "heritage",
       "listing_type": "auction_realized",
@@ -85,38 +311,6 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-57b47832b662",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-cilicia-tarsus-maximinus-i-ad-235-238-ae-36mm-2361-gm-1h-ngc-choice-fine-5-5-3-5-repatinated/a/3101-32073.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:CILICIA. Tarsus. Maximinus I (AD 235-238). AE\n(36mm, 23.61 gm, 1h). NGC Choice Fine 5/5 - 3/5, repatinated.",
-      "description": "",
-      "hammer_price_usd": 4320.0,
-      "currency_original": "USD",
-      "price_original": 4320.0,
-      "buyers_premium_included": false,
-      "sale_date": "2022-08-28",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-6-3-4-9-26349634&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "F",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

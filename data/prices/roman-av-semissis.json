@@ -8,20 +8,21 @@
   "ruler_rarity": null,
   "denomination": "AV Semissis",
   "metal": "gold",
-  "sale_count": 6,
-  "realized_count": 6,
+  "sale_count": 8,
+  "realized_count": 8,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 456.0,
     "max": 7500.0
   },
-  "median_price_usd": 3255.0,
-  "last_sale_date": "2023-07-05",
+  "median_price_usd": 945.0,
+  "last_sale_date": "2024-05-02",
   "grade_distribution": {
     "AU": 2,
-    "MS": 2,
-    "VF": 2
+    "XF": 2,
+    "VF": 2,
+    "MS": 2
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-8-3-7-8-28378361&w=120&h=300&it=product",
   "median_weight_g": null,
@@ -98,6 +99,134 @@
       }
     },
     {
+      "id": "heritage-7390e7eff60a",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-marcian-eastern-roman-empire-ad-450-457-av-semissis-18mm-224-gm-6h-ngc-xf-5-5-2-5-bent-scratches/a/232418-61152.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Marcian, Eastern Roman Empire (AD 450-457). AV\nsemissis (18mm, 2.24 gm, 6h). NGC XF 5/5 - 2/5, bent,\nscratches.",
+      "description": "Auction 232418 | Lot 61152 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 780.0,
+      "currency_original": "USD",
+      "price_original": 780.0,
+      "buyers_premium_included": false,
+      "sale_date": "2024-05-02",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-0-1-0-9-30109499&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-58384b603044",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-zeno-second-reign-ad-474-491-av-semissis-19mm-220-gm-7h-ngc-xf-5-5-1-5-scratches-flan-flaw-wavy-flan-edge/a/232329-63127.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Zeno, Second Reign (AD 474-491). AV semissis\n(19mm, 2.20 gm, 7h). NGC XF 5/5 - 1/5, scratches, flan flaw, wavy\nflan, edge marks.",
+      "description": "Auction 232329 | Lot 63127 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 516.0,
+      "currency_original": "USD",
+      "price_original": 516.0,
+      "buyers_premium_included": false,
+      "sale_date": "2023-07-19",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-8-4-7-0-28470054&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 1,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-eca63cf8f667",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-johannes-western-roman-empire-ad-423-425-av-semissis-17mm-222-gm-6h-ngc-choice-vf-5-5-3-5-lt-scratch/a/3075-32075.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Johannes, Western Roman Empire (AD 423-425). AV\nsemissis (17mm, 2.22 gm, 6h). NGC Choice VF 5/5 - 3/5, lt.\nscratch.",
+      "description": "Auction 3075 | Lot 32075 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 5520.0,
+      "currency_original": "USD",
+      "price_original": 5520.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-08-15",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-1-1-3-5-21135124&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-48948e1d847d",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-galla-placidia-western-roman-empire-ad-421-422-av-semissis-16mm-202-gm-6h-ngc-choice-vf-5-5-3-5-edge-filing/a/3071-32305.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Galla Placidia, Western Roman Empire (AD\n421-422). AV semissis (16mm, 2.02 gm, 6h). NGC Choice VF 5/5 - 3/5,\nedge filing.",
+      "description": "Auction 3071 | Lot 32305 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 5400.0,
+      "currency_original": "USD",
+      "price_original": 5400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-01-07",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-0-1-19501802&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "heritage-ecf4319effa2",
       "source": "heritage",
       "listing_type": "auction_realized",
@@ -146,70 +275,6 @@
         "verified": false,
         "cert_number": null,
         "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-eca63cf8f667",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-johannes-western-roman-empire-ad-423-425-av-semissis-17mm-222-gm-6h-ngc-choice-vf-5-5-3-5-lt-scratch/a/3075-32075.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:Johannes, Western Roman Empire (AD 423-425). AV\nsemissis (17mm, 2.22 gm, 6h). NGC Choice VF 5/5 - 3/5, lt.\nscratch.",
-      "description": "",
-      "hammer_price_usd": 5520.0,
-      "currency_original": "USD",
-      "price_original": 5520.0,
-      "buyers_premium_included": false,
-      "sale_date": "2019-08-15",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-1-1-3-5-21135124&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-48948e1d847d",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-galla-placidia-western-roman-empire-ad-421-422-av-semissis-16mm-202-gm-6h-ngc-choice-vf-5-5-3-5-edge-filing/a/3071-32305.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:Galla Placidia, Western Roman Empire (AD\n421-422). AV semissis (16mm, 2.02 gm, 6h). NGC Choice VF 5/5 - 3/5,\nedge filing.",
-      "description": "",
-      "hammer_price_usd": 5400.0,
-      "currency_original": "USD",
-      "price_original": 5400.0,
-      "buyers_premium_included": false,
-      "sale_date": "2019-01-07",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-0-1-19501802&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 3,

@@ -8,20 +8,20 @@
   "ruler_rarity": null,
   "denomination": "AV Aureus",
   "metal": "gold",
-  "sale_count": 6,
-  "realized_count": 6,
+  "sale_count": 8,
+  "realized_count": 8,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 4560.0,
+    "min": 3840.0,
     "max": 18800.0
   },
-  "median_price_usd": 9300.0,
+  "median_price_usd": 8906.25,
   "last_sale_date": "2026-01-16",
   "grade_distribution": {
     "AU": 4,
-    "MS": 1,
-    "XF": 1
+    "XF": 3,
+    "MS": 1
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-2-5-4-7-22547117&w=120&h=300&it=product",
   "median_weight_g": null,
@@ -148,6 +148,70 @@
         "grade": "AU",
         "grade_numeric": 4,
         "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-8c10a75664dc",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-marcus-aurelius-ad-161-180-av-aureus-18mm-654-gm-11h-ngc-xf-5-5-3-5andnbsp-/a/3064-30308.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Marcus Aurelius (AD 161-180). AV aureus (18mm,\n6.54 gm, 11h). NGC XF 5/5 - 3/5.",
+      "description": "Auction 3064 | Lot 30308 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 3840.0,
+      "currency_original": "USD",
+      "price_original": 3840.0,
+      "buyers_premium_included": false,
+      "sale_date": "2018-04-23",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-7-4-3-5-17435663&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-b17cf3184f14",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-marcus-aurelius-ad-161-180-av-aureus-20mm-714-gm-11h-ngc-xf-5-5-3-5/a/3064-30309.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Marcus Aurelius (AD 161-180). AV aureus (20mm,\n7.14 gm, 11h). NGC XF 5/5 - 3/5.",
+      "description": "Auction 3064 | Lot 30309 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 5040.0,
+      "currency_original": "USD",
+      "price_original": 5040.0,
+      "buyers_premium_included": false,
+      "sale_date": "2018-04-23",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-7-4-3-5-17435041&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
         "surface_score": 3,
         "details_grade": null,
         "certification_url": null,

@@ -1,0 +1,99 @@
+{
+  "slug": "roman-nero-ar-hemidrachm",
+  "category": "roman",
+  "ruler": "Nero",
+  "ruler_normalized": "nero",
+  "dynasty": "Julio-Claudian",
+  "ruler_dates": "AD 54\u00e2\u20ac\u201c68",
+  "ruler_rarity": null,
+  "denomination": "AR Hemidrachm",
+  "metal": "silver",
+  "sale_count": 2,
+  "realized_count": 2,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 336.0,
+    "max": 840.0
+  },
+  "median_price_usd": 588.0,
+  "last_sale_date": "2022-06-15",
+  "grade_distribution": {
+    "XF": 2
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-5-0-9-9-25099540&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": 4,
+  "top_surface_score": 4,
+  "top_grade_numeric": null,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-95c9f1a52269",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-nero-ad-54-68-ar-hemidrachm-14mm-173gm-12h-ngc-choice-xf-4-5-4-5/a/61241-97118.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Nero (AD 54-68). AR hemidrachm (14mm, 1.73gm,\n12h). NGC Choice XF\u2605 4/5 - 4/5.",
+      "description": "Auction 61241 | Lot 97118 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 840.0,
+      "currency_original": "USD",
+      "price_original": 840.0,
+      "buyers_premium_included": false,
+      "sale_date": "2021-12-19",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-5-0-9-9-25099540&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-7274c61611a9",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-nero-ad-54-68-ar-hemidrachm-15mm-12h-ngc-choice-xf/a/232224-63183.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Nero (AD 54-68). AR hemidrachm (15mm, 12h). NGC\nChoice XF.",
+      "description": "Auction 232224 | Lot 63183 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 336.0,
+      "currency_original": "USD",
+      "price_original": 336.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-06-15",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-6-0-5-0-26050369&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

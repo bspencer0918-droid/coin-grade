@@ -8,18 +8,19 @@
   "ruler_rarity": null,
   "denomination": "AE Nummus",
   "metal": "bronze",
-  "sale_count": 2,
-  "realized_count": 2,
+  "sale_count": 3,
+  "realized_count": 3,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 69.0,
     "max": 1560.0
   },
-  "median_price_usd": 814.5,
+  "median_price_usd": 222.0,
   "last_sale_date": "2025-09-04",
   "grade_distribution": {
     "AU": 1,
+    "VF": 1,
     "MS": 1
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-2-8-6-6-32866025&w=120&h=300&it=product",
@@ -49,6 +50,38 @@
         "verified": false,
         "cert_number": null,
         "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-b46355bd66c4",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-constantius-ii-ad-337-361-ae3-or-bi-nummus-18mm-5h-ngc-vf-scratches/a/232518-61082.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Constantius II (AD 337-361). AE3 or BI nummus\n(18mm, 5h). NGC VF, scratches.",
+      "description": "Auction 232518 | Lot 61082 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 222.0,
+      "currency_original": "USD",
+      "price_original": 222.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-05-01",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-2-2-3-6-32236931&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,

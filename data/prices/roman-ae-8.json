@@ -1,0 +1,67 @@
+{
+  "slug": "roman-ae-8",
+  "category": "roman",
+  "ruler": null,
+  "ruler_normalized": null,
+  "dynasty": null,
+  "ruler_dates": null,
+  "ruler_rarity": null,
+  "denomination": "AE 8",
+  "metal": "bronze",
+  "sale_count": 1,
+  "realized_count": 1,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 240.0,
+    "max": 240.0
+  },
+  "median_price_usd": 240.0,
+  "last_sale_date": "2022-09-14",
+  "grade_distribution": {
+    "VF": 1
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-6-5-6-2-26562192&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 2,
+  "top_grade_numeric": 5,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-aa35d067048b",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-bosporan-kingdom-cotys-i-ad-45-6-60-1-with-britannicus-ae-8-units-19mm-534-gm-12h-ngc-choice-vf-5-5-2-5-/a/232237-63209.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: BOSPORAN KINGDOM. Cotys I (AD 45/6-60/1) with\nBritannicus. AE 8 units (19mm, 5.34 gm, 12h). NGC Choice VF 5/5 -\n2/5, smoothing.",
+      "description": "Auction 232237 | Lot 63209 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Provincial",
+      "hammer_price_usd": 240.0,
+      "currency_original": "USD",
+      "price_original": 240.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-09-14",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-6-5-6-2-26562192&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

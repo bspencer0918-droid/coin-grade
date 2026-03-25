@@ -8,18 +8,19 @@
   "ruler_rarity": null,
   "denomination": "AE 9",
   "metal": "bronze",
-  "sale_count": 1,
-  "realized_count": 1,
+  "sale_count": 3,
+  "realized_count": 3,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 129.0,
-    "max": 129.0
+    "min": 75.0,
+    "max": 149.0
   },
   "median_price_usd": 129.0,
-  "last_sale_date": "2022-07-06",
+  "last_sale_date": "2024-11-25",
   "grade_distribution": {
-    "AU": 1
+    "AU": 1,
+    "XF": 2
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-6-1-5-0-26150079&w=120&h=300&it=product",
   "median_weight_g": null,
@@ -48,6 +49,70 @@
         "verified": false,
         "cert_number": null,
         "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-8b30bea8805c",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-pisidia-termessus-anonymous-issue-3rd-century-ad-ae-9-assaria-29mm-1447-gm-12h-ngc-choice-xf-4-5-4-5/a/61438-23050.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: PISIDIA. Termessus. Anonymous issue. 3rd\ncentury AD. AE 9-assaria (29mm, 14.47 gm, 12h). NGC Choice XF 4/5 -\n4/5.",
+      "description": "Auction 61438 | Lot 23050 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Provincial",
+      "hammer_price_usd": 149.0,
+      "currency_original": "USD",
+      "price_original": 149.0,
+      "buyers_premium_included": false,
+      "sale_date": "2024-11-25",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-0-8-2-3-30823956&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-3ddac5c1fac7",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-pisidia-termessus-ca-3rd-century-ad-ae-9-assaria-28mm-7h-ngc-xf/a/232242-63177.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: PISIDIA. Termessus. Ca. 3rd Century AD. AE\n9-assaria (28mm, 7h). NGC XF.",
+      "description": "Auction 232242 | Lot 63177 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Provincial",
+      "hammer_price_usd": 75.0,
+      "currency_original": "USD",
+      "price_original": 75.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-10-19",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-6-8-1-4-26814776&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,

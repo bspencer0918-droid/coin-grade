@@ -20,8 +20,8 @@
   "last_sale_date": "2026-01-12",
   "grade_distribution": {
     "AU": 4,
-    "MS": 21,
-    "VF": 1
+    "VF": 1,
+    "MS": 21
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-4-4-1-1-24411056&w=120&h=300&it=product",
   "median_weight_g": null,
@@ -149,6 +149,38 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-9bc05e1e4186",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-gordian-iii-ad-238-244-av-aureus-19mm-498-gm-12h-ngc-choice-vf-5-5-2-5-ex-jewelry/a/3071-32198.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Gordian III (AD 238-244). AV aureus (19mm, 4.98\ngm, 12h). NGC Choice VF 5/5 - 2/5, ex-jewelry.",
+      "description": "Auction 3071 | Lot 32198 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 1440.0,
+      "currency_original": "USD",
+      "price_original": 1440.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-01-07",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-1-9-19519172&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"
@@ -821,38 +853,6 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-9bc05e1e4186",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-gordian-iii-ad-238-244-av-aureus-19mm-498-gm-12h-ngc-choice-vf-5-5-2-5-ex-jewelry/a/3071-32198.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:Gordian III (AD 238-244). AV aureus (19mm, 4.98\ngm, 12h). NGC Choice VF 5/5 - 2/5, ex-jewelry.",
-      "description": "",
-      "hammer_price_usd": 1440.0,
-      "currency_original": "USD",
-      "price_original": 1440.0,
-      "buyers_premium_included": false,
-      "sale_date": "2019-01-07",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-1-9-19519172&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 2,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

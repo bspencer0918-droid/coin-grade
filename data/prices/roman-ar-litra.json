@@ -8,18 +8,20 @@
   "ruler_rarity": null,
   "denomination": "AR Litra",
   "metal": "bronze",
-  "sale_count": 1,
-  "realized_count": 1,
+  "sale_count": 6,
+  "realized_count": 6,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 115.0,
-    "max": 115.0
+    "min": 89.0,
+    "max": 240.0
   },
-  "median_price_usd": 115.0,
-  "last_sale_date": "2022-03-31",
+  "median_price_usd": 169.5,
+  "last_sale_date": "2023-05-10",
   "grade_distribution": {
-    "AU": 1
+    "AU": 1,
+    "XF": 1,
+    "VF": 4
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-5-5-9-0-25590511&w=120&h=300&it=product",
   "median_weight_g": null,
@@ -51,6 +53,166 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-19760f06269c",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-republic/ancients-anonymous-ca-235-231-bc-ae-litra-15mm-284-gm-6h-ngc-xf-5-5-2-5/a/232213-65173.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Anonymous. Ca. 235-231 BC. AE litra (15mm, 2.84\ngm, 6h). NGC XF 5/5 - 2/5.",
+      "description": "Auction 232213 | Lot 65173 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Republic",
+      "hammer_price_usd": 89.0,
+      "currency_original": "USD",
+      "price_original": 89.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-03-31",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-5-5-9-0-25590510&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-0e3a931e4dd7",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-republic/ancients-anonymous-ca-241-325-bc-ae-litra-15mm-10h-ngc-choice-vf/a/232319-62154.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Anonymous. Ca. 241-325 BC. AE litra (15mm,\n10h). NGC Choice VF.",
+      "description": "Auction 232319 | Lot 62154 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Republic",
+      "hammer_price_usd": 159.0,
+      "currency_original": "USD",
+      "price_original": 159.0,
+      "buyers_premium_included": false,
+      "sale_date": "2023-05-10",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-8-0-7-1-28071508&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-2929170ed2bf",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-republic/ancients-anonymous-ca-241-325-bc-ae-litra-16mm-12h-ngc-choice-vf-flan-flaws/a/231952-64110.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Anonymous. Ca. 241-325 BC. AE litra (16mm,\n12h). NGC Choice VF, flan flaws.",
+      "description": "Auction 231952 | Lot 64110 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Republic",
+      "hammer_price_usd": 192.0,
+      "currency_original": "USD",
+      "price_original": 192.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-12-26",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-1-6-8-8-21688543&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-d7f55bd85ffc",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-republic/ancients-anonymous-ca-260-bc-ae-litra-18mm-10h-ngc-choice-vf-/a/231922-65061.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Anonymous. Ca. 260 BC. AE litra (18mm, 10h).\nNGC Choice VF\u2605 .",
+      "description": "Auction 231922 | Lot 65061 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Republic",
+      "hammer_price_usd": 180.0,
+      "currency_original": "USD",
+      "price_original": 180.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-05-30",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-0-8-9-0-20890605&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-8686231e6fda",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-republic/ancients-anonymous-ca-241-325-bc-ae-litra-15mm-5h-ngc-choice-vf/a/231922-65062.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Anonymous. Ca. 241-325 BC. AE litra (15mm, 5h).\nNGC Choice VF.",
+      "description": "Auction 231922 | Lot 65062 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Republic",
+      "hammer_price_usd": 240.0,
+      "currency_original": "USD",
+      "price_original": 240.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-05-30",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-0-8-9-0-20890530&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

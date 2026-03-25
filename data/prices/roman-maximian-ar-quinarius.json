@@ -1,0 +1,99 @@
+{
+  "slug": "roman-maximian-ar-quinarius",
+  "category": "roman",
+  "ruler": "Maximian",
+  "ruler_normalized": "maximian",
+  "dynasty": "Tetrarchy",
+  "ruler_dates": "AD 286\u00e2\u20ac\u201c310",
+  "ruler_rarity": null,
+  "denomination": "AR Quinarius",
+  "metal": "unknown",
+  "sale_count": 2,
+  "realized_count": 2,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 105.0,
+    "max": 132.0
+  },
+  "median_price_usd": 118.5,
+  "last_sale_date": "2019-08-18",
+  "grade_distribution": {
+    "XF": 2
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-0-8-9-0-20890078&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 2,
+  "top_grade_numeric": 5,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-ac09e795bdb5",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-maximian-ad-286-310-bi-quinarius-15mm-147-gm-7h-ngc-choice-xf-5-5-2-5-smoothing/a/271933-35426.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Maximian (AD 286-310). BI quinarius (15mm, 1.47\ngm, 7h). NGC Choice XF 5/5 - 2/5, smoothing.",
+      "description": "Auction 271933 | Lot 35426 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 132.0,
+      "currency_original": "USD",
+      "price_original": 132.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-08-18",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-0-8-9-0-20890078&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-5bbf001aa1d0",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-maximian-ad-286-310-bi-quinarius-15mm-239-gm-1h-ngc-choice-xf-5-5-2-5-scratches/a/271933-35427.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Maximian (AD 286-310). BI quinarius (15mm, 2.39\ngm, 1h). NGC Choice XF 5/5 - 2/5, scratches.",
+      "description": "Auction 271933 | Lot 35427 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 105.0,
+      "currency_original": "USD",
+      "price_original": 105.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-08-18",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-0-8-9-0-20890267&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "slug": "roman-julius-caesar-ae-23",
+  "category": "roman",
+  "ruler": "Julius Caesar",
+  "ruler_normalized": "julius-caesar",
+  "dynasty": "Roman Republic",
+  "ruler_dates": "44 BC",
+  "ruler_rarity": null,
+  "denomination": "AE 23",
+  "metal": "bronze",
+  "sale_count": 2,
+  "realized_count": 2,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 84.0,
+    "max": 119.0
+  },
+  "median_price_usd": 101.5,
+  "last_sale_date": "2025-08-18",
+  "grade_distribution": {
+    "VF": 1,
+    "F": 1
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=1-8-1-8-6-18186862&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": 4,
+  "top_surface_score": 3,
+  "top_grade_numeric": 4,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-f7a9a287b30f",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-pisidia-antiochia-geta-as-caesar-ad-209-211-ae23-572-gm-ngc-vf-4-5-3-5/a/231821-64051.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: PISIDIA. Antiochia. Geta as Caesar (AD\n209-211). AE23 (5.72 gm). NGC VF 4/5 - 3/5.",
+      "description": "Auction 231821 | Lot 64051 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Provincial",
+      "hammer_price_usd": 84.0,
+      "currency_original": "USD",
+      "price_original": 84.0,
+      "buyers_premium_included": false,
+      "sale_date": "2018-05-24",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-8-1-8-6-18186862&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-46c161561767",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-galilee-sepphoris-diocaesarea-antoninus-pius-ad-138-161-ae23-19mm-896-gm-8h-ngc-fine-4-5-3-5/a/61524-24329.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: GALILEE. Sepphoris Diocaesarea.\nAntoninus Pius (AD 138-161). AE23 (19mm, 8.96 gm, 8h). NGC Fine 4/5\n- 3/5.",
+      "description": "Auction 61524 | Lot 24329 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Provincial",
+      "hammer_price_usd": 119.0,
+      "currency_original": "USD",
+      "price_original": 119.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-08-18",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-2-4-0-7-32407290&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

@@ -8,20 +8,20 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "silver",
-  "sale_count": 9,
-  "realized_count": 9,
+  "sale_count": 11,
+  "realized_count": 11,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 1020.0,
+    "min": 270.25,
     "max": 3960.0
   },
   "median_price_usd": 1560.0,
   "last_sale_date": "2026-01-16",
   "grade_distribution": {
     "AU": 4,
-    "MS": 4,
-    "XF": 1
+    "XF": 3,
+    "MS": 4
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-3-7-0-7-23707626&w=120&h=300&it=product",
   "median_weight_g": null,
@@ -149,6 +149,70 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-97d92273a34d",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-theodosius-ii-eastern-roman-empire-ad-402-450-ar-miliarense-23mm-425-gm-6h-ngc-choice-xf-3-5-5-5/a/232335-65149.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Theodosius II, Eastern Roman Empire (AD\n402-450). AR miliarense (23mm, 4.25 gm, 6h). NGC Choice XF 3/5 -\n5/5.",
+      "description": "Auction 232335 | Lot 65149 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 3840.0,
+      "currency_original": "USD",
+      "price_original": 3840.0,
+      "buyers_premium_included": false,
+      "sale_date": "2023-08-30",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-8-6-8-1-28681860&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 3,
+        "strike_score": 3,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-fc05bf310ea6",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-aelia-flaccilla-wife-of-theodosius-i-augusta-ad-379-386-8-ae2-ngc-choice-xf/a/231707-63150.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Aelia Flaccilla, wife of Theodosius I (Augusta,\nAD 379-386/8). \u00c62. NGC Choice XF.",
+      "description": "Auction 231707 | Lot 63150 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 270.25,
+      "currency_original": "USD",
+      "price_original": 270.25,
+      "buyers_premium_included": false,
+      "sale_date": "2017-02-16",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-5-0-7-3-15073645&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

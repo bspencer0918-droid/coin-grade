@@ -8,18 +8,20 @@
   "ruler_rarity": null,
   "denomination": "AV Semissis",
   "metal": "gold",
-  "sale_count": 3,
-  "realized_count": 3,
+  "sale_count": 5,
+  "realized_count": 5,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 504.0,
     "max": 9000.0
   },
-  "median_price_usd": 528.0,
-  "last_sale_date": "2019-01-16",
+  "median_price_usd": 732.0,
+  "last_sale_date": "2026-01-22",
   "grade_distribution": {
     "AU": 2,
+    "XF": 1,
+    "VF": 1,
     "MS": 1
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=1-7-9-5-8-17958196&w=120&h=300&it=product",
@@ -84,6 +86,70 @@
         "grade_numeric": 4,
         "strike_score": 4,
         "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-91fe35a44343",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-theodosius-i-eastern-roman-empire-ad-379-395-av-semissis-17mm-221-gm-12h-ngc-choice-xf-4-5-2-5-scratches/a/232422-65142.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Theodosius I, Eastern Roman Empire (AD\n379-395). AV semissis (17mm, 2.21 gm, 12h). NGC Choice XF 4/5 -\n2/5, scratches.",
+      "description": "Auction 232422 | Lot 65142 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 750.0,
+      "currency_original": "USD",
+      "price_original": 750.0,
+      "buyers_premium_included": false,
+      "sale_date": "2024-05-30",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-0-2-1-2-30212424&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-969040d33f08",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-theodosius-ii-eastern-roman-empire-ad-402-450-av-semissis-18mm-221-gm-6h-ngc-choice-vf-5-5-2-5-ex-jewelry-/a/232604-64095.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Theodosius II, Eastern Roman Empire (AD\n402-450). AV semissis (18mm, 2.21 gm, 6h). NGC Choice VF 5/5 - 2/5,\nex-jewelry, wrinkled, scratches.",
+      "description": "Auction 232604 | Lot 64095 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 732.0,
+      "currency_original": "USD",
+      "price_original": 732.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-22",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-3-7-1-1-33711547&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

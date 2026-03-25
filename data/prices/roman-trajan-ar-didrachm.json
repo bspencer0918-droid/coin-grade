@@ -1,0 +1,100 @@
+{
+  "slug": "roman-trajan-ar-didrachm",
+  "category": "roman",
+  "ruler": "Trajan",
+  "ruler_normalized": "trajan",
+  "dynasty": "Nerva-Antonine",
+  "ruler_dates": "AD 98\u00e2\u20ac\u201c117",
+  "ruler_rarity": null,
+  "denomination": "AR Didrachm",
+  "metal": "silver",
+  "sale_count": 2,
+  "realized_count": 2,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 124.0,
+    "max": 149.0
+  },
+  "median_price_usd": 136.5,
+  "last_sale_date": "2025-03-24",
+  "grade_distribution": {
+    "VF": 1,
+    "F": 1
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-7-1-5-1-27151455&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": null,
+  "top_surface_score": null,
+  "top_grade_numeric": null,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-22470370b712",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-phoenicia-tyre-trajan-ad-98-117-ar-didrachm-21mm-7h-ngc-choice-vf-light-scratches/a/232249-62155.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: PHOENICIA. Tyre. Trajan (AD 98-117). AR\ndidrachm (21mm, 7h). NGC Choice VF, light scratches.",
+      "description": "Auction 232249 | Lot 62155 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Provincial",
+      "hammer_price_usd": 124.0,
+      "currency_original": "USD",
+      "price_original": 124.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-12-07",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-7-1-5-1-27151455&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-8001c2ace3b6",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-syria-antioch-trajan-ad-98-117-ar-didrachm-21mm-704-gm-6h-ngc-fine-5-5-2-5/a/61485-23067.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: SYRIA. Antioch. Trajan (AD 98-117). AR didrachm\n(21mm, 7.04 gm, 6h). NGC Fine 5/5 - 2/5.",
+      "description": "Auction 61485 | Lot 23067 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Provincial",
+      "hammer_price_usd": 149.0,
+      "currency_original": "USD",
+      "price_original": 149.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-03-24",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-1-6-0-5-31605234&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

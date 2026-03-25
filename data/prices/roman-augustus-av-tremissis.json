@@ -4,7 +4,7 @@
   "ruler": "Augustus",
   "ruler_normalized": "augustus",
   "dynasty": "Julio-Claudian",
-  "ruler_dates": "27 BC \u2013 AD 14",
+  "ruler_dates": "27 BC \u00e2\u20ac\u201c AD 14",
   "ruler_rarity": null,
   "denomination": "AV Tremissis",
   "metal": "gold",
@@ -19,19 +19,51 @@
   "median_price_usd": 410.0,
   "last_sale_date": "2025-12-29",
   "grade_distribution": {
-    "AU": 4,
-    "XF": 4
+    "XF": 4,
+    "AU": 4
   },
-  "thumbnail_url": "https://media.coinarchives.com/411f76402c3fc0d5eb46677606588df1/img/heritage/61557/image25003.jpg",
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-1-8-19518933&w=120&h=300&it=product",
   "median_weight_g": null,
-  "top_strike_score": 4,
-  "top_surface_score": 3,
-  "top_grade_numeric": 4,
+  "top_strike_score": 5,
+  "top_surface_score": 2,
+  "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "heritage-af6d7e2ec978",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-romulus-augustus-western-roman-empire-ad-475-476-av-tremissis-14mm-142-gm-7h-ngc-choice-xf-5-5-2-5-marks/a/3071-32318.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Romulus Augustus, Western Roman Empire (AD\n475-476). AV tremissis (14mm, 1.42 gm, 7h). NGC Choice XF 5/5 -\n2/5, marks.",
+      "description": "Auction 3071 | Lot 32318 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 66000.0,
+      "currency_original": "USD",
+      "price_original": 66000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-01-07",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-1-8-19518933&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-2410fc8f0ac3",
       "source": "coinarchives",
@@ -244,38 +276,6 @@
         "grade_numeric": 4,
         "strike_score": 4,
         "surface_score": 1,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-af6d7e2ec978",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-romulus-augustus-western-roman-empire-ad-475-476-av-tremissis-14mm-142-gm-7h-ngc-choice-xf-5-5-2-5-marks/a/3071-32318.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:Romulus Augustus, Western Roman Empire (AD\n475-476). AV tremissis (14mm, 1.42 gm, 7h). NGC Choice XF 5/5 -\n2/5, marks.",
-      "description": "",
-      "hammer_price_usd": 66000.0,
-      "currency_original": "USD",
-      "price_original": 66000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2019-01-07",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-1-8-19518933&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 2,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

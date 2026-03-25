@@ -8,18 +8,19 @@
   "ruler_rarity": null,
   "denomination": "AR Quinarius",
   "metal": "silver",
-  "sale_count": 3,
-  "realized_count": 3,
+  "sale_count": 4,
+  "realized_count": 4,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 456.0,
+    "min": 124.0,
     "max": 5040.0
   },
-  "median_price_usd": 3840.0,
-  "last_sale_date": "2020-08-07",
+  "median_price_usd": 2148.0,
+  "last_sale_date": "2022-12-14",
   "grade_distribution": {
     "AU": 2,
+    "VF": 1,
     "F": 1
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-2-5-4-2-22542310&w=120&h=300&it=product",
@@ -97,12 +98,44 @@
       }
     },
     {
+      "id": "heritage-2a536fa24c31",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-hadrian-ad-117-138-ar-quinarius-16mm-7h-ngc-vf-brushed/a/232250-63185.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Hadrian (AD 117-138). AR quinarius (16mm, 7h).\nNGC VF, brushed.",
+      "description": "Auction 232250 | Lot 63185 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 124.0,
+      "currency_original": "USD",
+      "price_original": 124.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-12-14",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-7-1-8-3-27183014&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "heritage-869d64f2e3f5",
       "source": "heritage",
       "listing_type": "auction_realized",
       "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-hadrian-ad-117-138-av-quinarius-14mm-365-gm-6h-ngc-fine-5-5-3-5-edge-filed/a/3071-32101.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:Hadrian (AD 117-138). AV quinarius (14mm, 3.65\ngm, 6h). NGC Fine 5/5 - 3/5, edge filed.",
-      "description": "",
+      "title": "Ancients: Hadrian (AD 117-138). AV quinarius (14mm, 3.65\ngm, 6h). NGC Fine 5/5 - 3/5, edge filed.",
+      "description": "Auction 3071 | Lot 32101 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
       "hammer_price_usd": 3840.0,
       "currency_original": "USD",
       "price_original": 3840.0,

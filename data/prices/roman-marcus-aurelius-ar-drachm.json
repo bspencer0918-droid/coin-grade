@@ -1,0 +1,67 @@
+{
+  "slug": "roman-marcus-aurelius-ar-drachm",
+  "category": "roman",
+  "ruler": "Marcus Aurelius",
+  "ruler_normalized": "marcus-aurelius",
+  "dynasty": "Nerva-Antonine",
+  "ruler_dates": "AD 161\u00e2\u20ac\u201c180",
+  "ruler_rarity": null,
+  "denomination": "AR Drachm",
+  "metal": "silver",
+  "sale_count": 1,
+  "realized_count": 1,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 312.0,
+    "max": 312.0
+  },
+  "median_price_usd": 312.0,
+  "last_sale_date": "2020-05-10",
+  "grade_distribution": {
+    "VF": 1
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-1-9-9-4-21994776&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": 4,
+  "top_surface_score": 3,
+  "top_grade_numeric": 4,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-063831171ec0",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-egypt-alexandria-marcus-aurelius-ad-161-180-ae-drachm-32mm-1939-gm-12h-ngc-vf-4-5-3-5/a/61160-97113.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: EGYPT. Alexandria. Marcus Aurelius (AD\n161-180). AE drachm (32mm, 19.39 gm, 12h). NGC VF 4/5 - 3/5.",
+      "description": "Auction 61160 | Lot 97113 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Provincial",
+      "hammer_price_usd": 312.0,
+      "currency_original": "USD",
+      "price_original": 312.0,
+      "buyers_premium_included": false,
+      "sale_date": "2020-05-10",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-1-9-9-4-21994776&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

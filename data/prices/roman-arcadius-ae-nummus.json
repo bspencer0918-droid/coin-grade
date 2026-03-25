@@ -8,18 +8,20 @@
   "ruler_rarity": null,
   "denomination": "AE Nummus",
   "metal": "bronze",
-  "sale_count": 2,
-  "realized_count": 2,
+  "sale_count": 4,
+  "realized_count": 4,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 163.2,
+    "min": 69.0,
     "max": 204.0
   },
-  "median_price_usd": 183.6,
-  "last_sale_date": "2021-08-12",
+  "median_price_usd": 182.25,
+  "last_sale_date": "2026-03-15",
   "grade_distribution": {
-    "AU": 2
+    "AU": 2,
+    "XF": 1,
+    "VF": 1
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=1-9-3-2-8-19328206&w=120&h=300&it=product",
   "median_weight_g": null,
@@ -83,6 +85,70 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-a2e7531be415",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-arcadius-ad-383-408-ae3-or-nummus-19mm-320-gm-1h-ngc-choice-xf-5-5-3-5/a/61605-23250.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Arcadius (AD 383-408). AE3 or nummus (19mm,\n3.20 gm, 1h). NGC Choice XF 5/5 - 3/5.",
+      "description": "Auction 61605 | Lot 23250 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 201.3,
+      "currency_original": "USD",
+      "price_original": 201.3,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-15",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-4-0-5-5-34055667&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-f5504183b42c",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-arcadius-eastern-roman-empire-ad-383-408-ae2-or-nummus-24mm-565-gm-6h-ngc-choice-vf-5-5-2-5/a/61241-97313.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Arcadius, Eastern Roman Empire (AD 383-408).\nAE2 or nummus (24mm, 5.65 gm, 6h). NGC Choice VF 5/5 - 2/5.",
+      "description": "Auction 61241 | Lot 97313 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 69.0,
+      "currency_original": "USD",
+      "price_original": 69.0,
+      "buyers_premium_included": false,
+      "sale_date": "2021-12-19",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-5-0-9-9-25099413&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

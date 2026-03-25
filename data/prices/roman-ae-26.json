@@ -1,0 +1,100 @@
+{
+  "slug": "roman-ae-26",
+  "category": "roman",
+  "ruler": null,
+  "ruler_normalized": null,
+  "dynasty": null,
+  "ruler_dates": null,
+  "ruler_rarity": null,
+  "denomination": "AE 26",
+  "metal": "unknown",
+  "sale_count": 2,
+  "realized_count": 2,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 141.0,
+    "max": 204.0
+  },
+  "median_price_usd": 172.5,
+  "last_sale_date": "2018-09-11",
+  "grade_distribution": {
+    "XF": 1,
+    "VF": 1
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=1-9-1-4-8-19148025&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": 4,
+  "top_surface_score": 3,
+  "top_grade_numeric": 4,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-3d415fb866cd",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-thrace-perinthus-poppaea-augusta-ad-62-65-ae26-26mm-886-gm-7h-ngc-xf-4-5-3-5-smoothing/a/3067-33287.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: THRACE. Perinthus. Poppaea (Augusta, AD 62-65).\nAE26 (26mm, 8.86 gm, 7h). NGC XF 4/5 - 3/5, smoothing.",
+      "description": "Auction 3067 | Lot 33287 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Provincial",
+      "hammer_price_usd": 204.0,
+      "currency_original": "USD",
+      "price_original": 204.0,
+      "buyers_premium_included": false,
+      "sale_date": "2018-09-11",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-1-4-8-19148025&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-5f043a4806de",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-moesia-inferior-nicopolis-ad-istrum-diadumenian-ad-218-ae-26-mm-ngc-vf/a/231648-61055.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: MOESIA INFERIOR. Nicopolis ad Istrum.\nDiadumenian (AD 218). AE 26 mm. NGC VF",
+      "description": "Auction 231648 | Lot 61055 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 141.0,
+      "currency_original": "USD",
+      "price_original": 141.0,
+      "buyers_premium_included": false,
+      "sale_date": "2016-12-01",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-4-7-6-6-14766308&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

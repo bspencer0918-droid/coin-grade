@@ -1,0 +1,67 @@
+{
+  "slug": "roman-otho-ar-obol",
+  "category": "roman",
+  "ruler": "Otho",
+  "ruler_normalized": "otho",
+  "dynasty": "Year of Four Emperors",
+  "ruler_dates": "AD 69",
+  "ruler_rarity": "scarce",
+  "denomination": "AR Obol",
+  "metal": "bronze",
+  "sale_count": 1,
+  "realized_count": 1,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 427.2,
+    "max": 427.2
+  },
+  "median_price_usd": 427.2,
+  "last_sale_date": "2023-09-10",
+  "grade_distribution": {
+    "VF": 1
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-8-2-9-1-28291475&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 3,
+  "top_grade_numeric": 5,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-7a36ba64a09e",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-egypt-alexandria-otho-ad-69-ae-obol-22mm-893-gm-11h-ngc-choice-vf-5-5-3-5/a/61324-25081.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: EGYPT. Alexandria. Otho (AD 69). AE obol (22mm,\n8.93 gm, 11h). NGC Choice VF 5/5 - 3/5.",
+      "description": "Auction 61324 | Lot 25081 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Provincial",
+      "hammer_price_usd": 427.2,
+      "currency_original": "USD",
+      "price_original": 427.2,
+      "buyers_premium_included": false,
+      "sale_date": "2023-09-10",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-8-2-9-1-28291475&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

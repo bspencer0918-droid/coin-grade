@@ -20,9 +20,9 @@
   "last_sale_date": "2026-01-12",
   "grade_distribution": {
     "AU": 12,
-    "MS": 13,
     "XF": 1,
-    "VF": 2
+    "VF": 2,
+    "MS": 13
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-2-7-1-0-32710309&w=120&h=300&it=product",
   "median_weight_g": null,
@@ -387,6 +387,102 @@
       }
     },
     {
+      "id": "heritage-8e4968e539c7",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-maximian-first-reign-ad-286-310-av-aureus-19mm-620-gm-12h-ngc-choice-xf-5-5-3-5-scuff/a/3097-30106.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Maximian, First Reign (AD 286-310). AV aureus\n(19mm, 6.20 gm, 12h). NGC Choice XF 5/5 - 3/5, scuff.",
+      "description": "Auction 3097 | Lot 30106 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 18000.0,
+      "currency_original": "USD",
+      "price_original": 18000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-01-10",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-5-1-2-7-25127571&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-bb8f5e45c86b",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-maximian-ad-286-310-av-aureus-22mm-565-gm-1h-ngc-choice-vf-5-5-2-5/a/3071-32234.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Maximian (AD 286-310). AV aureus (22mm, 5.65\ngm, 1h) NGC Choice VF 5/5 - 2/5.",
+      "description": "Auction 3071 | Lot 32234 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 6600.0,
+      "currency_original": "USD",
+      "price_original": 6600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-01-07",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-0-1-19501674&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-7397fa5ccea3",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-maximian-ad-286-310-av-aureus-20mm-478-gm-12h-ngc-vf-5-5-1-5-ex-mount-damage/a/3076-30301.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Maximian (AD 286-310). AV aureus (20mm, 4.78\ngm, 12h). NGC VF 5/5 - 1/5, ex-mount, damage.",
+      "description": "Auction 3076 | Lot 30301 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 2640.0,
+      "currency_original": "USD",
+      "price_original": 2640.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-09-09",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-1-2-2-0-21220011&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 1,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "heritage-40c63f7d5d29",
       "source": "heritage",
       "listing_type": "auction_realized",
@@ -707,70 +803,6 @@
       }
     },
     {
-      "id": "heritage-8e4968e539c7",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-maximian-first-reign-ad-286-310-av-aureus-19mm-620-gm-12h-ngc-choice-xf-5-5-3-5-scuff/a/3097-30106.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:Maximian, First Reign (AD 286-310). AV aureus\n(19mm, 6.20 gm, 12h). NGC Choice XF 5/5 - 3/5, scuff.",
-      "description": "",
-      "hammer_price_usd": 18000.0,
-      "currency_original": "USD",
-      "price_original": 18000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2022-01-10",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-5-1-2-7-25127571&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-7397fa5ccea3",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-maximian-ad-286-310-av-aureus-20mm-478-gm-12h-ngc-vf-5-5-1-5-ex-mount-damage/a/3076-30301.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:Maximian (AD 286-310). AV aureus (20mm, 4.78\ngm, 12h). NGC VF 5/5 - 1/5, ex-mount, damage.",
-      "description": "",
-      "hammer_price_usd": 2640.0,
-      "currency_original": "USD",
-      "price_original": 2640.0,
-      "buyers_premium_included": false,
-      "sale_date": "2019-09-09",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-1-2-2-0-21220011&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 1,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "heritage-59ee511c6631",
       "source": "heritage",
       "listing_type": "auction_realized",
@@ -790,38 +822,6 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-bb8f5e45c86b",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-maximian-ad-286-310-av-aureus-22mm-565-gm-1h-ngc-choice-vf-5-5-2-5/a/3071-32234.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:Maximian (AD 286-310). AV aureus (22mm, 5.65\ngm, 1h) NGC Choice VF 5/5 - 2/5.",
-      "description": "",
-      "hammer_price_usd": 6600.0,
-      "currency_original": "USD",
-      "price_original": 6600.0,
-      "buyers_premium_included": false,
-      "sale_date": "2019-01-07",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-0-1-19501674&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 2,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

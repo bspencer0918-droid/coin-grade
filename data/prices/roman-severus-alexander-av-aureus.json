@@ -8,18 +8,19 @@
   "ruler_rarity": null,
   "denomination": "AV Aureus",
   "metal": "gold",
-  "sale_count": 26,
-  "realized_count": 26,
+  "sale_count": 27,
+  "realized_count": 27,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 4800.0,
+    "min": 2640.0,
     "max": 38400.0
   },
-  "median_price_usd": 12462.5,
+  "median_price_usd": 12000.0,
   "last_sale_date": "2026-01-12",
   "grade_distribution": {
     "AU": 5,
+    "VF": 1,
     "G": 4,
     "MS": 17
   },
@@ -178,6 +179,38 @@
         "verified": false,
         "cert_number": null,
         "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-f55b4fe9e79d",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-severus-alexander-ad-222-235-av-aureus-21mm-630-gm-6h-ngc-choice-vf-5-5-4-5/a/3114-33263.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Severus Alexander (AD 222-235). AV aureus\n(21mm, 6.30 gm, 6h). NGC Choice VF 5/5 - 4/5.",
+      "description": "Auction 3114 | Lot 33263 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 2640.0,
+      "currency_original": "USD",
+      "price_original": 2640.0,
+      "buyers_premium_included": false,
+      "sale_date": "2024-01-18",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-8-9-1-0-28910360&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 4,

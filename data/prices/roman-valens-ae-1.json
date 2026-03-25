@@ -1,0 +1,99 @@
+{
+  "slug": "roman-valens-ae-1",
+  "category": "roman",
+  "ruler": "Valens",
+  "ruler_normalized": "valens",
+  "dynasty": "Valentinian",
+  "ruler_dates": "AD 364\u00e2\u20ac\u201c378",
+  "ruler_rarity": null,
+  "denomination": "AE 1",
+  "metal": "unknown",
+  "sale_count": 2,
+  "realized_count": 2,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 63.0,
+    "max": 168.0
+  },
+  "median_price_usd": 115.5,
+  "last_sale_date": "2020-05-10",
+  "grade_distribution": {
+    "VF": 2
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-2-0-2-3-22023636&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 3,
+  "top_grade_numeric": 5,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-b91888ec06d5",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-valens-eastern-roman-empire-ad-364-378-ae1-or-bi-maiorina-28mm-808-gm-6h-ngc-vf-5-5-3-5-light-smoothing/a/61160-97546.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Valens, Eastern Roman Empire (AD 364-378). AE1\nor BI maiorina (28mm, 8.08 gm, 6h). NGC VF 5/5 - 3/5, light\nsmoothing.",
+      "description": "Auction 61160 | Lot 97546 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 168.0,
+      "currency_original": "USD",
+      "price_original": 168.0,
+      "buyers_premium_included": false,
+      "sale_date": "2020-05-10",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-2-0-2-3-22023636&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-8bd4cc1ccc52",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-valens-ad-364-378-ae1-or-bi-maiorina-26mm-924-gm-6h-ngc-vf-4-5-2-5-smoothing/a/271848-36259.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Valens (AD 364-378). AE1 or BI maiorina (26mm,\n9.24 gm, 6h). NGC VF 4/5 - 2/5, smoothing.",
+      "description": "Auction 271848 | Lot 36259 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 63.0,
+      "currency_original": "USD",
+      "price_original": 63.0,
+      "buyers_premium_included": false,
+      "sale_date": "2018-12-02",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-3-2-3-19323382&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

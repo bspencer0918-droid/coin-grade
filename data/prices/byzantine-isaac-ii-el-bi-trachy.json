@@ -8,18 +8,18 @@
   "ruler_rarity": "scarce",
   "denomination": "EL/BI Trachy",
   "metal": "electrum",
-  "sale_count": 9,
-  "realized_count": 9,
+  "sale_count": 10,
+  "realized_count": 10,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 720.0,
-    "max": 5040.0
+    "max": 7200.0
   },
-  "median_price_usd": 2160.0,
+  "median_price_usd": 2880.0,
   "last_sale_date": "2023-06-22",
   "grade_distribution": {
-    "G": 4,
+    "G": 5,
     "MS": 5
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-7-3-3-1-27331583&w=120&h=300&it=product",
@@ -141,6 +141,38 @@
       "buyers_premium_included": false,
       "sale_date": "2022-07-09",
       "image_url": "https://dyn1.heritagestatic.com/ha?p=2-6-0-6-1-26061326&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-942c416d4311",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-isaac-ii-angelus-ad-1185-1195-el-aspron-trachy-29mm-384-gm-5h-ngc-gem-ms-5-5-5-5/a/3106-33336.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Isaac II Angelus (AD 1185-1195). EL aspron\ntrachy (29mm, 3.84 gm, 5h). NGC Gem MS 5/5 - 5/5.",
+      "description": "Auction 3106 | Lot 33336 \u00bb Ancient Coins \u00bb Byzantine",
+      "hammer_price_usd": 7200.0,
+      "currency_original": "USD",
+      "price_original": 7200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2023-01-18",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-6-0-1-1-26011606&w=120&h=300&it=product",
       "ngc": {
         "verified": false,
         "cert_number": null,

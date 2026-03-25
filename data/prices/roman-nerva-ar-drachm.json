@@ -1,0 +1,67 @@
+{
+  "slug": "roman-nerva-ar-drachm",
+  "category": "roman",
+  "ruler": "Nerva",
+  "ruler_normalized": "nerva",
+  "dynasty": "Nerva-Antonine",
+  "ruler_dates": "AD 96\u00e2\u20ac\u201c98",
+  "ruler_rarity": null,
+  "denomination": "AR Drachm",
+  "metal": "silver",
+  "sale_count": 1,
+  "realized_count": 1,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 288.0,
+    "max": 288.0
+  },
+  "median_price_usd": 288.0,
+  "last_sale_date": "2024-05-27",
+  "grade_distribution": {
+    "VF": 1
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-9-9-6-1-29961599&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 2,
+  "top_grade_numeric": 5,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-3eb51973616b",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-lycian-league-nerva-ad-96-98-ar-drachm-17mm-306-gm-6h-ngc-choice-vf-5-5-2-5-brushed/a/61379-24036.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: LYCIAN LEAGUE. Nerva (AD 96-98). AR drachm\n(17mm, 3.06 gm, 6h). NGC Choice VF 5/5 - 2/5, brushed.",
+      "description": "Auction 61379 | Lot 24036 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Provincial",
+      "hammer_price_usd": 288.0,
+      "currency_original": "USD",
+      "price_original": 288.0,
+      "buyers_premium_included": false,
+      "sale_date": "2024-05-27",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-9-9-6-1-29961599&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

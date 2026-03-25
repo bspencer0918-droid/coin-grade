@@ -1,0 +1,67 @@
+{
+  "slug": "roman-nero-ar-drachm",
+  "category": "roman",
+  "ruler": "Nero",
+  "ruler_normalized": "nero",
+  "dynasty": "Julio-Claudian",
+  "ruler_dates": "AD 54\u00e2\u20ac\u201c68",
+  "ruler_rarity": null,
+  "denomination": "AR Drachm",
+  "metal": "silver",
+  "sale_count": 1,
+  "realized_count": 1,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 264.0,
+    "max": 264.0
+  },
+  "median_price_usd": 264.0,
+  "last_sale_date": "2024-05-27",
+  "grade_distribution": {
+    "XF": 1
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-9-7-7-6-29776382&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 2,
+  "top_grade_numeric": 5,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-33ea2defd66b",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-syria-antioch-nero-ad-54-68-ar-drachm-15mm-367-gm-12h-ngc-choice-xf-5-5-2-5/a/61379-24071.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: SYRIA. Antioch. Nero (AD 54-68). AR drachm\n(15mm, 3.67 gm, 12h). NGC Choice XF 5/5 - 2/5.",
+      "description": "Auction 61379 | Lot 24071 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Provincial",
+      "hammer_price_usd": 264.0,
+      "currency_original": "USD",
+      "price_original": 264.0,
+      "buyers_premium_included": false,
+      "sale_date": "2024-05-27",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-9-7-7-6-29776382&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

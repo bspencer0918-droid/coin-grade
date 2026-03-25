@@ -8,29 +8,126 @@
   "ruler_rarity": null,
   "denomination": "AR Stater",
   "metal": "electrum",
-  "sale_count": 2,
-  "realized_count": 2,
+  "sale_count": 5,
+  "realized_count": 5,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 576.0,
+    "min": 480.0,
     "max": 840.0
   },
-  "median_price_usd": 708.0,
+  "median_price_usd": 528.0,
   "last_sale_date": "2025-08-29",
   "grade_distribution": {
-    "VF": 2
+    "XF": 2,
+    "VF": 3
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-2-7-0-7-32707584&w=120&h=300&it=product",
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-5-1-8-0-25180402&w=120&h=300&it=product",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 2,
+  "top_surface_score": 3,
   "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "heritage-180d05cd7e72",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-bosporan-kingdom-sauromates-iii-ca-ad-229-232-with-severus-alexander-el-stater-20mm-750-gm-2h-ngc-choice-xf-5-5-/a/232248-61129.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: BOSPORAN KINGDOM. Sauromates III (ca. AD\n229-232), with Severus Alexander. EL stater (20mm, 7.50 gm, 2h).\nNGC Choice XF 5/5 - 3/5.",
+      "description": "Auction 232248 | Lot 61129 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Provincial",
+      "hammer_price_usd": 528.0,
+      "currency_original": "USD",
+      "price_original": 528.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-12-01",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-5-1-8-0-25180402&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-8991088a024d",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-bosporan-kingdom-sauromates-iii-ca-ad-229-232-with-severus-alexander-el-stater-19mm-775-gm-1h-ngc-choice-xf-5-5-/a/232246-63134.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: BOSPORAN KINGDOM. Sauromates III (ca. AD\n229-232), with Severus Alexander. EL stater (19mm, 7.75 gm, 1h).\nNGC Choice XF 5/5 - 4/5.",
+      "description": "Auction 232246 | Lot 63134 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Provincial",
+      "hammer_price_usd": 480.0,
+      "currency_original": "USD",
+      "price_original": 480.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-11-16",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-5-1-8-0-25180404&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-956a6bfa2552",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-bosporan-kingdom-rhescuporis-ii-ad-211-227-with-severus-alexander-el-stater-19mm-770-gm-1h-ngc-choice-vf-4-5-/a/61524-24052.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: BOSPORAN KINGDOM. Rhescuporis II (AD 211-227),\nwith Severus Alexander. EL stater (19mm, 7.70 gm, 1h). NGC Choice\nVF 4/5 - 3/5.",
+      "description": "Auction 61524 | Lot 24052 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Provincial",
+      "hammer_price_usd": 528.0,
+      "currency_original": "USD",
+      "price_original": 528.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-08-18",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-2-6-9-0-32690241&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-15117fb29a83",
       "source": "heritage",
