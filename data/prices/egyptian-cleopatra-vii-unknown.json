@@ -8,18 +8,19 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 1,
-  "realized_count": 1,
+  "sale_count": 3,
+  "realized_count": 3,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 1680.0,
-    "max": 1680.0
+    "min": 1560.0,
+    "max": 1920.0
   },
   "median_price_usd": 1680.0,
   "last_sale_date": "2024-05-10",
   "grade_distribution": {
-    "VF": 1
+    "VF": 2,
+    "XF": 1
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-9-9-1-2-29912624&w=120&h=300&it=product",
   "median_weight_g": null,
@@ -48,6 +49,70 @@
         "verified": false,
         "cert_number": null,
         "grade": "VF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-c641a08c3e8e",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-ptolemaic-egypt-cleopatra-vii-and-marc-antony-rulers-of-the-east-37-31-bc-ae-21mm-710-gm-12h-ngc-vf-3-5-3-5/a/3101-35161.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:PTOLEMAIC EGYPT. Cleopatra VII and Marc Antony,\nrulers of the East (37-31 BC). AE (21mm, 7.10 gm, 12h). NGC VF 3/5\n- 3/5.",
+      "description": "",
+      "hammer_price_usd": 1560.0,
+      "currency_original": "USD",
+      "price_original": 1560.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-08-28",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-6-4-3-5-26435314&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 3,
+        "strike_score": 3,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-73ac8ae4897a",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-syria-chalcis-ad-libanum-cleopatra-vii-and-marc-antony-rulers-of-the-east-37-31-bc-ae-20mm-524-gm-12h-ngc-choice-xf/a/3076-30227.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:SYRIA. Chalcis ad Libanum. Cleopatra VII and\nMarc Antony, rulers of the East (37-31 BC). AE (20mm, 5.24 gm,\n12h). NGC Choice XF 4/5 - 2/5, repatinated, cut.",
+      "description": "",
+      "hammer_price_usd": 1920.0,
+      "currency_original": "USD",
+      "price_original": 1920.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-09-09",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-1-2-3-0-21230549&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
         "grade_numeric": 4,
         "strike_score": 4,
         "surface_score": 2,

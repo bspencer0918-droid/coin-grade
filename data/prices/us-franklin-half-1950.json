@@ -1,0 +1,131 @@
+{
+  "slug": "us-franklin-half-1950",
+  "category": "us",
+  "ruler": null,
+  "ruler_normalized": null,
+  "dynasty": null,
+  "ruler_dates": null,
+  "ruler_rarity": null,
+  "denomination": "Franklin Half Dollar 1950",
+  "metal": "silver",
+  "sale_count": 3,
+  "realized_count": 3,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 1471.32,
+    "max": 1772.66
+  },
+  "median_price_usd": 1525.0,
+  "last_sale_date": "2026-01-17",
+  "grade_distribution": {
+    "MS": 3
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-3-5-3-5-33535248&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": null,
+  "top_surface_score": null,
+  "top_grade_numeric": 67,
+  "dominant_service": "pcgs",
+  "series": "Franklin Half Dollar",
+  "date_struck": "1950",
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-16c8245ea921",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/proof-franklin-half-dollars/1950-50c-pr67-pcgs-cdn-2-000-whsle-bid-for-ngc-pcgs-pr67-mintage-51-386/a/1390-7301.s?ic4=ListView-ShortDescription-071515",
+      "title": "1950 50C PR67 PCGS. CDN: $2,000 Whsle. Bid for NGC/PCGS\nPR67. Mintage 51,386.",
+      "description": "Auction 1390 | Lot 7301 \u00bb Half Dollars \u00bb Franklin Half Dollars",
+      "hammer_price_usd": 1772.66,
+      "currency_original": "USD",
+      "price_original": 1772.66,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-17",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-3-5-3-5-33535248&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 67,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "pcgs"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-e01e8bd17d36",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/proof-franklin-half-dollars/1950-50c-pr67-ngc-cdn-2-000-whsle-bid-for-ngc-pcgs-pr67-mintage-51-386/a/1390-7302.s?ic4=ListView-ShortDescription-071515",
+      "title": "1950 50C PR67 NGC. CDN: $2,000 Whsle. Bid for NGC/PCGS PR67.\nMintage 51,386.",
+      "description": "Auction 1390 | Lot 7302 \u00bb Half Dollars \u00bb Franklin Half Dollars",
+      "hammer_price_usd": 1471.32,
+      "currency_original": "USD",
+      "price_original": 1471.32,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-17",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-3-4-9-1-33491422&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 67,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "pcgs"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-9446910f1b33",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/proof-franklin-half-dollars/1950-50c-pr67-ngc-cdn-2-000-whsle-bid-for-ngc-pcgs-pr67-mintage-51-386/a/1390-7303.s?ic4=ListView-ShortDescription-071515",
+      "title": "1950 50C PR67 NGC. CDN: $2,000 Whsle. Bid for NGC/PCGS PR67.\nMintage 51,386.",
+      "description": "Auction 1390 | Lot 7303 \u00bb Half Dollars \u00bb Franklin Half Dollars",
+      "hammer_price_usd": 1525.0,
+      "currency_original": "USD",
+      "price_original": 1525.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-17",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-3-5-9-7-33597957&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 67,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "pcgs"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

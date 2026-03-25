@@ -8,29 +8,95 @@
   "ruler_rarity": null,
   "denomination": "AV Tremissis",
   "metal": "gold",
-  "sale_count": 1,
-  "realized_count": 1,
+  "sale_count": 3,
+  "realized_count": 3,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 507.6,
-    "max": 507.6
+    "max": 1800.0
   },
-  "median_price_usd": 507.6,
+  "median_price_usd": 1320.0,
   "last_sale_date": "2025-09-29",
   "grade_distribution": {
+    "XF": 1,
+    "AU": 1,
     "VF": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/bc0f5d4ffc2bf47125746ac6ed92e552/img/marciniak/027/image04413.jpg",
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-9-2-9-4-29294529&w=120&h=300&it=product",
   "median_weight_g": null,
-  "top_strike_score": 3,
+  "top_strike_score": 4,
   "top_surface_score": 3,
-  "top_grade_numeric": 3,
+  "top_grade_numeric": 4,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "heritage-f9f8000fd249",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-axumite-kingdom-eon-ca-ad-400-420-av-tremissis-or-unit-17mm-159-gm-12h-ngc-choice-xf-4-5-4-5/a/3113-30062.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:AXUMITE KINGDOM. Eon (ca. AD 400/420). AV\ntremissis or unit (17mm, 1.59 gm, 12h). NGC Choice XF 4/5 -\n4/5.",
+      "description": "",
+      "hammer_price_usd": 1320.0,
+      "currency_original": "USD",
+      "price_original": 1320.0,
+      "buyers_premium_included": false,
+      "sale_date": "2024-01-08",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-9-2-9-4-29294529&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-e0d1c2fadcc2",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-odovacar-ad-476-493-av-tremissis-13mm-149-gm-6h-ngc-choice-au-4-5-3-5-flan-flaw/a/3076-30347.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Odovacar (AD 476-493). AV tremissis (13mm, 1.49\ngm, 6h). NGC Choice AU 4/5 - 3/5, flan flaw.",
+      "description": "",
+      "hammer_price_usd": 1800.0,
+      "currency_original": "USD",
+      "price_original": 1800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-09-09",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-1-2-2-0-21220015&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-afe96ea946ae",
       "source": "coinarchives",

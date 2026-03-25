@@ -8,18 +8,20 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "silver",
-  "sale_count": 1,
-  "realized_count": 1,
+  "sale_count": 3,
+  "realized_count": 3,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 312.0,
-    "max": 312.0
+    "max": 2880.0
   },
-  "median_price_usd": 312.0,
+  "median_price_usd": 2280.0,
   "last_sale_date": "2025-08-29",
   "grade_distribution": {
-    "XF": 1
+    "XF": 1,
+    "VF": 1,
+    "F": 1
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-2-6-7-2-32672843&w=120&h=300&it=product",
   "median_weight_g": null,
@@ -51,6 +53,70 @@
         "grade_numeric": 4,
         "strike_score": 4,
         "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-56fe52acb120",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-severus-alexander-ad-222-235-ae-medallic-as-28mm-1352-gm-2h-ngc-vf-5-5-2-5/a/3071-32188.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Severus Alexander (AD 222-235). AE medallic as\n(28mm, 13.52 gm, 2h). NGC VF 5/5 - 2/5.",
+      "description": "",
+      "hammer_price_usd": 2280.0,
+      "currency_original": "USD",
+      "price_original": 2280.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-01-07",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-2-1-19521170&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-89d821655182",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-severus-alexander-ad-222-235-ae-as-27mm-998-gm-12h-ngc-choice-fine-5-5-3-5-light-smoothing/a/3071-32189.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Severus Alexander (AD 222-235). AE as (27mm,\n9.98 gm, 12h). NGC Choice Fine 5/5 - 3/5, light smoothing.",
+      "description": "",
+      "hammer_price_usd": 2880.0,
+      "currency_original": "USD",
+      "price_original": 2880.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-01-07",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-2-1-19521617&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

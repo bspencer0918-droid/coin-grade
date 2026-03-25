@@ -1,0 +1,67 @@
+{
+  "slug": "roman-augustus-ar-didrachm",
+  "category": "roman",
+  "ruler": "Augustus",
+  "ruler_normalized": "augustus",
+  "dynasty": "Julio-Claudian",
+  "ruler_dates": "27 BC \u00e2\u20ac\u201c AD 14",
+  "ruler_rarity": null,
+  "denomination": "AR Didrachm",
+  "metal": "silver",
+  "sale_count": 1,
+  "realized_count": 1,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 1320.0,
+    "max": 1320.0
+  },
+  "median_price_usd": 1320.0,
+  "last_sale_date": "2022-11-04",
+  "grade_distribution": {
+    "AU": 1
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-6-3-6-1-26361504&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": 4,
+  "top_surface_score": 3,
+  "top_grade_numeric": 4,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-d86f2f83edb1",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-nero-as-augustus-ad-54-68-with-agrippina-junior-ar-didrachm-22mm-752-gm-1h-ngc-choice-au-4-5-3-5-fine-style/a/3102-32254.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Nero, as Augustus (AD 54-68) with Agrippina\nJunior. AR didrachm (22mm, 7.52 gm, 1h). NGC Choice AU 4/5 - 3/5,\nFine Style.",
+      "description": "",
+      "hammer_price_usd": 1320.0,
+      "currency_original": "USD",
+      "price_original": 1320.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-11-04",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-6-3-6-1-26361504&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

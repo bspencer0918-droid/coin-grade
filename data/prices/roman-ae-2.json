@@ -1,0 +1,67 @@
+{
+  "slug": "roman-ae-2",
+  "category": "roman",
+  "ruler": null,
+  "ruler_normalized": null,
+  "dynasty": null,
+  "ruler_dates": null,
+  "ruler_rarity": null,
+  "denomination": "AE 2",
+  "metal": "unknown",
+  "sale_count": 1,
+  "realized_count": 1,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 1320.0,
+    "max": 1320.0
+  },
+  "median_price_usd": 1320.0,
+  "last_sale_date": "2019-01-07",
+  "grade_distribution": {
+    "VF": 1
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-2-1-19521600&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": 4,
+  "top_surface_score": 4,
+  "top_grade_numeric": null,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-0e0d153cb45c",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-aelia-verina-eastern-roman-empire-ad-457-484-ae2-19mm-459-gm-6h-ngc-choice-vf-4-5-4-5/a/3071-32325.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Aelia Verina, Eastern Roman Empire (AD\n457-484). AE2 (19mm, 4.59 gm, 6h). NGC Choice VF\u2605 4/5 - 4/5.",
+      "description": "",
+      "hammer_price_usd": 1320.0,
+      "currency_original": "USD",
+      "price_original": 1320.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-01-07",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-2-1-19521600&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

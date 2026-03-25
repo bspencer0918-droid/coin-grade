@@ -4,33 +4,65 @@
   "ruler": "Trajan",
   "ruler_normalized": "trajan",
   "dynasty": "Nerva-Antonine",
-  "ruler_dates": "AD 98\u2013117",
+  "ruler_dates": "AD 98\u00e2\u20ac\u201c117",
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 1,
-  "realized_count": 1,
+  "sale_count": 2,
+  "realized_count": 2,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 60.0,
-    "max": 60.0
+    "max": 1440.0
   },
-  "median_price_usd": 60.0,
+  "median_price_usd": 750.0,
   "last_sale_date": "2026-01-16",
   "grade_distribution": {
-    "VF": 1
+    "VF": 2
   },
-  "thumbnail_url": "https://media.coinarchives.com/1253f645bbdd34bd211d3897dfbea099/img/ponterio/236/image45417.jpg",
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-2-1-19521499&w=120&h=300&it=product",
   "median_weight_g": null,
-  "top_strike_score": null,
-  "top_surface_score": null,
-  "top_grade_numeric": null,
+  "top_strike_score": 4,
+  "top_surface_score": 2,
+  "top_grade_numeric": 4,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "heritage-c85c6cd52bc3",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-contorniates-ad-mid-4th-early-5th-centuries-in-the-name-of-trajan-ae-36mm-1682-gm-6h-ngc-vf-4-5-2-5-edge-chips/a/3071-32094.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Contorniates. AD mid-4th-early 5th centuries.\nIn the name of Trajan. AE (36mm, 16.82 gm, 6h). NGC VF 4/5 - 2/5,\nedge chips.",
+      "description": "",
+      "hammer_price_usd": 1440.0,
+      "currency_original": "USD",
+      "price_original": 1440.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-01-07",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-2-1-19521499&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-7354c4e4a890",
       "source": "coinarchives",

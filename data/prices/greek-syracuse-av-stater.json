@@ -1,0 +1,99 @@
+{
+  "slug": "greek-syracuse-av-stater",
+  "category": "greek",
+  "ruler": "Syracuse",
+  "ruler_normalized": "syracuse",
+  "dynasty": "City-State",
+  "ruler_dates": null,
+  "ruler_rarity": null,
+  "denomination": "AV Stater",
+  "metal": "gold",
+  "sale_count": 2,
+  "realized_count": 2,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 9000.0,
+    "max": 156000.0
+  },
+  "median_price_usd": 82500.0,
+  "last_sale_date": "2024-01-08",
+  "grade_distribution": {
+    "AU": 2
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-9-2-9-4-29294423&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 2,
+  "top_grade_numeric": 5,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-5d4579b2d492",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-sicily-syracuse-agathocles-317-289-bc-as-king-of-sicily-av-stater-octobol-or-double-decadrachm-17mm-570-gm-10h-ngc/a/3113-30013.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:SICILY. Syracuse. Agathocles (317-289 BC), as\nKing of Sicily. AV stater, octobol, or double-decadrachm (17mm,\n5.70 gm, 10h). NGC Choice AU 5/5 - 2/5, Fine Style, brushed.",
+      "description": "",
+      "hammer_price_usd": 9000.0,
+      "currency_original": "USD",
+      "price_original": 9000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2024-01-08",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-9-2-9-4-29294423&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-64096c06f344",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-sicily-syracuse-pyrrhus-278-276-bc-av-stater-20mm-854-gm-9h-ngc-choice-au-5-5-3-5-fine-style-marks/a/3089-31012.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:SICILY. Syracuse. Pyrrhus (278-276 BC). AV\nstater (20mm, 8.54 gm, 9h). NGC Choice AU 5/5 - 3/5, Fine Style,\nmarks.",
+      "description": "",
+      "hammer_price_usd": 156000.0,
+      "currency_original": "USD",
+      "price_original": 156000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2021-01-22",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-3-2-9-7-23297970&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

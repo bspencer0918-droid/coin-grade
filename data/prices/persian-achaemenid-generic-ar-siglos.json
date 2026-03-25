@@ -8,23 +8,25 @@
   "ruler_rarity": null,
   "denomination": "AR Siglos",
   "metal": "silver",
-  "sale_count": 1,
-  "realized_count": 1,
+  "sale_count": 3,
+  "realized_count": 3,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 84000.0,
+    "min": 480.0,
     "max": 84000.0
   },
-  "median_price_usd": 84000.0,
+  "median_price_usd": 3360.0,
   "last_sale_date": "2025-01-13",
   "grade_distribution": {
-    "VF": 1
+    "VF": 1,
+    "AU": 1,
+    "XF": 1
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-1-5-1-7-31517964&w=120&h=300&it=product",
   "median_weight_g": null,
   "top_strike_score": 4,
-  "top_surface_score": 3,
+  "top_surface_score": 5,
   "top_grade_numeric": 4,
   "dominant_service": "ngc",
   "series": null,
@@ -51,6 +53,70 @@
         "grade_numeric": 4,
         "strike_score": 4,
         "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-b7f6ff534e9a",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-pontus-amisus-as-peiraieus-ca-4th-century-bc-ar-siglos-20mm-566-gm-3h-ngc-au-4-5-5-5/a/3102-32103.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:PONTUS. Amisus (as Peiraieus). Ca. 4th century\nBC. AR siglos (20mm, 5.66 gm, 3h). NGC AU 4/5 - 5/5.",
+      "description": "",
+      "hammer_price_usd": 480.0,
+      "currency_original": "USD",
+      "price_original": 480.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-11-04",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-6-4-6-9-26469531&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-a6b7aeabc70c",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-pontus-amisus-as-peiraieus-late-5th-4th-centuries-bc-ar-siglos-17mm-575-gm-3h-ngc-choice-xf-5-5-4-5-fine-style/a/3093-31069.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:PONTUS. Amisus (as Peiraieus). Late 5th-4th\ncenturies BC. AR siglos (17mm, 5.75 gm, 3h). NGC Choice XF\u2605 5/5 -\n4/5, Fine Style.",
+      "description": "",
+      "hammer_price_usd": 3360.0,
+      "currency_original": "USD",
+      "price_original": 3360.0,
+      "buyers_premium_included": false,
+      "sale_date": "2021-10-29",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-4-7-7-1-24771812&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

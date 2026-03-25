@@ -1,0 +1,67 @@
+{
+  "slug": "egyptian-unknown",
+  "category": "egyptian",
+  "ruler": null,
+  "ruler_normalized": null,
+  "dynasty": null,
+  "ruler_dates": null,
+  "ruler_rarity": null,
+  "denomination": "Unknown",
+  "metal": "bronze",
+  "sale_count": 1,
+  "realized_count": 1,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 6600.0,
+    "max": 6600.0
+  },
+  "median_price_usd": 6600.0,
+  "last_sale_date": "2019-01-07",
+  "grade_distribution": {
+    "F": 1
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-2-1-19521154&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": 4,
+  "top_surface_score": 4,
+  "top_grade_numeric": null,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-4a3db81cb018",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-egypt-alexandria-flavia-titiana-wife-of-pertinax-ad-193-ae-diobol-25-mm-816-gm-11h-ngc-fine-4-5-4-5/a/3071-32143.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:EGYPT. Alexandria. Flavia Titiana, wife of\nPertinax (AD 193). AE diobol (25 mm, 8.16 gm, 11h). NGC Fine 4/5 -\n4/5.",
+      "description": "",
+      "hammer_price_usd": 6600.0,
+      "currency_original": "USD",
+      "price_original": 6600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-01-07",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-2-1-19521154&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

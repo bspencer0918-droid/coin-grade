@@ -1,0 +1,100 @@
+{
+  "slug": "egyptian-ptolemaic-generic-ar-didrachm",
+  "category": "egyptian",
+  "ruler": "Ptolemaic (generic)",
+  "ruler_normalized": "ptolemaic-generic",
+  "dynasty": "Ptolemaic",
+  "ruler_dates": null,
+  "ruler_rarity": null,
+  "denomination": "AR Didrachm",
+  "metal": "silver",
+  "sale_count": 2,
+  "realized_count": 2,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 660.0,
+    "max": 2100.0
+  },
+  "median_price_usd": 1380.0,
+  "last_sale_date": "2020-11-06",
+  "grade_distribution": {
+    "XF": 1,
+    "AU": 1
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-2-8-3-5-22835757&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 3,
+  "top_grade_numeric": 5,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-3c8ca43b7bea",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-cyrenaica-cyrene-magas-as-ptolemaic-governor-first-reign-ca-308-277-bc-ar-didrachm-22mm-758-gm-12h-ngc-xf-5-5-/a/3088-34104.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:CYRENAICA. Cyrene. Magas, as Ptolemaic\nGovernor, First Reign (ca. 308-277 BC). AR didrachm (22mm, 7.58 gm,\n12h). NGC XF 5/5 - 3/5.",
+      "description": "",
+      "hammer_price_usd": 2100.0,
+      "currency_original": "USD",
+      "price_original": 2100.0,
+      "buyers_premium_included": false,
+      "sale_date": "2020-11-06",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-2-8-3-5-22835757&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-8112a26c7871",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-ptolemaic-egypt-ptolemy-vi-philometor-180-145-bc-ar-didrachm-22mm-694-gm-12h-ngc-au-5-5-3-5/a/3083-32121.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:PTOLEMAIC EGYPT. Ptolemy VI Philometor (180-145\nBC). AR didrachm (22mm, 6.94 gm, 12h). NGC AU 5/5 - 3/5.",
+      "description": "",
+      "hammer_price_usd": 660.0,
+      "currency_original": "USD",
+      "price_original": 660.0,
+      "buyers_premium_included": false,
+      "sale_date": "2020-04-27",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-2-2-0-7-22207934&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

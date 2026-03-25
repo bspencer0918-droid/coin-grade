@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Siliqua",
   "metal": "silver",
-  "sale_count": 3,
-  "realized_count": 3,
+  "sale_count": 5,
+  "realized_count": 5,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -19,9 +19,9 @@
   "median_price_usd": 480.0,
   "last_sale_date": "2026-03-15",
   "grade_distribution": {
-    "AU": 1,
-    "MS": 1,
-    "XF": 1
+    "AU": 2,
+    "XF": 2,
+    "MS": 1
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-2-6-7-2-32672857&w=120&h=300&it=product",
   "median_weight_g": null,
@@ -50,6 +50,70 @@
         "verified": false,
         "cert_number": null,
         "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-ac542e1da6ec",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-constantius-ii-as-augustus-337-361-ad-ar-anepigraphic-siliqua-21mm-323-gm-11h-ngc-choice-au-4-5-5-5-fine/a/3073-30329.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Constantius II, as Augustus (337-361 AD). AR\nanepigraphic siliqua (21mm, 3.23 gm, 11h). NGC Choice AU\u2605 4/5 -\n5/5, Fine Style.",
+      "description": "",
+      "hammer_price_usd": 2640.0,
+      "currency_original": "USD",
+      "price_original": 2640.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-04-29",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-0-6-3-9-20639913&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-f45582b08764",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-constantius-ii-as-augustus-ad-337-361-ar-siliqua-20mm-253-gm-7h-ngc-xf-5-5-3-5/a/3071-32276.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Constantius II, as Augustus (AD 337-361). AR\nsiliqua (20mm, 2.53 gm, 7h). NGC XF 5/5 - 3/5.",
+      "description": "",
+      "hammer_price_usd": 384.0,
+      "currency_original": "USD",
+      "price_original": 384.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-01-07",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-1-9-19519778&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 3,

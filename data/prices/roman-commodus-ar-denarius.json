@@ -1,0 +1,67 @@
+{
+  "slug": "roman-commodus-ar-denarius",
+  "category": "roman",
+  "ruler": "Commodus",
+  "ruler_normalized": "commodus",
+  "dynasty": "Nerva-Antonine",
+  "ruler_dates": "AD 177\u00e2\u20ac\u201c192",
+  "ruler_rarity": null,
+  "denomination": "AR Denarius",
+  "metal": "silver",
+  "sale_count": 1,
+  "realized_count": 1,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 408.0,
+    "max": 408.0
+  },
+  "median_price_usd": 408.0,
+  "last_sale_date": "2019-01-07",
+  "grade_distribution": {
+    "VF": 1
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-2-1-19521533&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": 4,
+  "top_surface_score": 3,
+  "top_grade_numeric": 4,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-bb5549f0dbba",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-commodus-ad-177-192-ar-denarius-18mm-335-gm-12h-ngc-vf-4-5-3-5/a/3071-32130.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Commodus (AD 177-192). AR denarius (18mm, 3.35\ngm, 12h). NGC VF 4/5 - 3/5.",
+      "description": "",
+      "hammer_price_usd": 408.0,
+      "currency_original": "USD",
+      "price_original": 408.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-01-07",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-2-1-19521533&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

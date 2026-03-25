@@ -1,0 +1,99 @@
+{
+  "slug": "roman-trajan-ar-drachm",
+  "category": "roman",
+  "ruler": "Trajan",
+  "ruler_normalized": "trajan",
+  "dynasty": "Nerva-Antonine",
+  "ruler_dates": "AD 98\u00e2\u20ac\u201c117",
+  "ruler_rarity": null,
+  "denomination": "AR Drachm",
+  "metal": "silver",
+  "sale_count": 2,
+  "realized_count": 2,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 336.0,
+    "max": 600.0
+  },
+  "median_price_usd": 468.0,
+  "last_sale_date": "2019-09-09",
+  "grade_distribution": {
+    "G": 2
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-1-2-4-8-21248352&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": 4,
+  "top_surface_score": 4,
+  "top_grade_numeric": null,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-78d078e5ac54",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-egypt-alexandria-trajan-ad-98-117-ae-drachm-33mm-2153-gm-12h-ngc-good-4-5-4-5/a/3076-33145.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:EGYPT. Alexandria. Trajan (AD 98-117). AE\ndrachm (33mm, 21.53 gm, 12h). NGC Good 4/5 - 4/5.",
+      "description": "",
+      "hammer_price_usd": 336.0,
+      "currency_original": "USD",
+      "price_original": 336.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-09-09",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-1-2-4-8-21248352&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-feced390f4fb",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-egypt-alexandria-trajan-ad-98-117-ae-drachm-33mm-2153-gm-12h-ngc-good-4-5-4-5/a/3071-32093.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:EGYPT. Alexandria. Trajan (AD 98-117). AE\ndrachm (33mm, 21.53 gm, 12h). NGC Good 4/5 - 4/5.",
+      "description": "",
+      "hammer_price_usd": 600.0,
+      "currency_original": "USD",
+      "price_original": 600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-01-07",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-2-1-19521288&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "us-walking-liberty-half-1918-d",
+  "category": "us",
+  "ruler": null,
+  "ruler_normalized": null,
+  "dynasty": null,
+  "ruler_dates": null,
+  "ruler_rarity": null,
+  "denomination": "Walking Liberty Half Dollar 1918-D",
+  "metal": "silver",
+  "sale_count": 2,
+  "realized_count": 2,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 2013.0,
+    "max": 2318.0
+  },
+  "median_price_usd": 2165.5,
+  "last_sale_date": "2026-01-17",
+  "grade_distribution": {
+    "MS": 2
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-3-5-1-5-33515303&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": null,
+  "top_surface_score": null,
+  "top_grade_numeric": 62,
+  "dominant_service": "pcgs",
+  "series": "Walking Liberty Half Dollar",
+  "date_struck": "1918",
+  "mint_mark": "D",
+  "sales": [
+    {
+      "id": "heritage-cc5cebb0549a",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/walking-liberty-half-dollars/1918-d-50c-ms62-pcgs-cac-cac-5-in-62-40-finer-10-25-cdn-1-800-whsle-bid-for-ngc-pcgs-ms62-mintage-3-853-040/a/1390-7246.s?ic4=ListView-ShortDescription-071515",
+      "title": "1918-D 50C MS62 PCGS. CAC. CAC: 5 in 62, 40 finer (10/25).\nCDN: $1,800 Whsle. Bid for NGC/PCGS MS62. Mintage 3,853,040. (PCGS# 6575)",
+      "description": "Auction 1390 | Lot 7246 \u00bb Half Dollars \u00bb Walking Liberty Half Dollars",
+      "hammer_price_usd": 2013.0,
+      "currency_original": "USD",
+      "price_original": 2013.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-17",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-3-5-1-5-33515303&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 62,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "pcgs"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-6d525253acaf",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/walking-liberty-half-dollars/1918-d-50c-ms63-pcgs-cdn-2-200-whsle-bid-for-ngc-pcgs-ms63-mintage-3-853-040-pcgs-6575-/a/1390-7247.s?ic4=ListView-ShortDescription-071515",
+      "title": "1918-D 50C MS63 PCGS. CDN: $2,200 Whsle. Bid for NGC/PCGS\nMS63. Mintage 3,853,040. (PCGS# 6575)",
+      "description": "Auction 1390 | Lot 7247 \u00bb Half Dollars \u00bb Walking Liberty Half Dollars",
+      "hammer_price_usd": 2318.0,
+      "currency_original": "USD",
+      "price_original": 2318.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-17",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-3-6-7-6-33676492&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 63,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "pcgs"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

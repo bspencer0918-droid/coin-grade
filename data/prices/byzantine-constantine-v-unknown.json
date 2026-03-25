@@ -1,0 +1,100 @@
+{
+  "slug": "byzantine-constantine-v-unknown",
+  "category": "byzantine",
+  "ruler": "Constantine V",
+  "ruler_normalized": "constantine-v",
+  "dynasty": "Isaurian",
+  "ruler_dates": "AD 741\u00e2\u20ac\u201c775",
+  "ruler_rarity": "common",
+  "denomination": "Unknown",
+  "metal": "gold",
+  "sale_count": 2,
+  "realized_count": 2,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 1380.0,
+    "max": 48000.0
+  },
+  "median_price_usd": 24690.0,
+  "last_sale_date": "2021-08-20",
+  "grade_distribution": {
+    "VF": 1,
+    "AU": 1
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-4-4-0-8-24408740&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 3,
+  "top_grade_numeric": 5,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-5c5bac6f0f30",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-constantine-vii-porphyrogenitus-ad-913-959-av-medallion-of-4-solidi-modified-from-bulla-26mm-1773-gm-12h-ngc-vf-5-5-/a/3094-33120.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Constantine VII Porphyrogenitus (AD 913-959).\nAV medallion of 4-solidi modified from bulla (26mm, 17.73 gm, 12h).\nNGC VF\u2605 5/5 - 2/5, Fine Style, pierced.",
+      "description": "",
+      "hammer_price_usd": 48000.0,
+      "currency_original": "USD",
+      "price_original": 48000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2021-08-20",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-4-4-0-8-24408740&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-d4028f43ada9",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-basil-ii-bulgaroctonos-ad-976-1025-with-constantine-viii-ar-miliaresion-28mm-280-gm-6h-ngc-choice-au-5-5-3-5-edge/a/3094-34324.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Basil II Bulgaroctonos (AD 976-1025), with\nConstantine VIII. AR miliaresion (28mm, 2.80 gm, 6h). NGC Choice AU\n5/5 - 3/5, edge crimps.",
+      "description": "",
+      "hammer_price_usd": 1380.0,
+      "currency_original": "USD",
+      "price_original": 1380.0,
+      "buyers_premium_included": false,
+      "sale_date": "2021-08-20",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-4-4-6-7-24467079&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

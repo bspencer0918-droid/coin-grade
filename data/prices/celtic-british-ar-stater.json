@@ -8,18 +8,19 @@
   "ruler_rarity": null,
   "denomination": "AR Stater",
   "metal": "gold",
-  "sale_count": 1,
-  "realized_count": 1,
+  "sale_count": 4,
+  "realized_count": 4,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 3600.0,
+    "min": 1320.0,
     "max": 3600.0
   },
-  "median_price_usd": 3600.0,
+  "median_price_usd": 1410.0,
   "last_sale_date": "2024-08-17",
   "grade_distribution": {
-    "AU": 1
+    "AU": 3,
+    "XF": 1
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-0-4-9-7-30497173&w=120&h=300&it=product",
   "median_weight_g": null,
@@ -49,6 +50,102 @@
         "cert_number": null,
         "grade": "AU",
         "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-6938ab7636d9",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/celtic/ancients-britain-durotriges-ca-60-20-bc-el-stater-18mm-581-gm-4h-ngc-au-5-5-4-5/a/3113-30003.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:BRITAIN. Durotriges. Ca. 60-20 BC. EL stater\n(18mm, 5.81 gm, 4h). NGC AU 5/5 - 4/5.",
+      "description": "",
+      "hammer_price_usd": 1380.0,
+      "currency_original": "USD",
+      "price_original": 1380.0,
+      "buyers_premium_included": false,
+      "sale_date": "2024-01-08",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-9-2-9-4-29294531&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-c82b50e12ece",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/celtic/ancients-britain-corieltavi-ca-60-20-bc-av-quarter-stater-16mm-134-gm-12h-ngc-choice-xf-4-5-3-5-brushed/a/3091-32002.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:BRITAIN. Corieltavi. Ca. 60-20 BC. AV\nquarter-stater (16mm, 1.34 gm, 12h). NGC Choice XF 4/5 - 3/5,\nbrushed.",
+      "description": "",
+      "hammer_price_usd": 1320.0,
+      "currency_original": "USD",
+      "price_original": 1320.0,
+      "buyers_premium_included": false,
+      "sale_date": "2021-05-07",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-3-5-6-7-23567746&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-6a7e5d662ace",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/celtic/ancients-britain-cantiaci-ca-50-20-bc-av-1-4-stater-13mm-125-gm-ngc-choice-au-5-5-4-5/a/3071-33002.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:BRITAIN. Cantiaci. Ca. 50-20 BC. AV 1/4 stater\n(13mm, 1.25 gm). NGC Choice AU\u2605 5/5 - 4/5.",
+      "description": "",
+      "hammer_price_usd": 1440.0,
+      "currency_original": "USD",
+      "price_original": 1440.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-01-07",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-0-6-19506516&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,

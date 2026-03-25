@@ -8,18 +8,18 @@
   "ruler_rarity": null,
   "denomination": "AR Stater",
   "metal": "electrum",
-  "sale_count": 1,
-  "realized_count": 1,
+  "sale_count": 2,
+  "realized_count": 2,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 1200.0,
-    "max": 1200.0
+    "max": 2040.0
   },
-  "median_price_usd": 1200.0,
+  "median_price_usd": 1620.0,
   "last_sale_date": "2024-08-17",
   "grade_distribution": {
-    "AU": 1
+    "AU": 2
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-0-2-5-8-30258069&w=120&h=300&it=product",
   "median_weight_g": null,
@@ -44,6 +44,38 @@
       "buyers_premium_included": false,
       "sale_date": "2024-08-17",
       "image_url": "https://dyn1.heritagestatic.com/ha?p=3-0-2-5-8-30258069&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-65902ddf4b46",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-bosporan-kingdom-rhescuporis-ii-ad-211-227-with-caracalla-or-elagabalus-el-stater-19mm-737-gm-11h-ngc-choice-au-5-5-/a/3099-31123.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:BOSPORAN KINGDOM. Rhescuporis II (AD 211-227),\nwith Caracalla or Elagabalus. EL stater (19mm, 7.37 gm, 11h). NGC\nChoice AU 5/5 - 3/5.",
+      "description": "",
+      "hammer_price_usd": 2040.0,
+      "currency_original": "USD",
+      "price_original": 2040.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-05-07",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-5-8-0-7-25807058&w=120&h=300&it=product",
       "ngc": {
         "verified": false,
         "cert_number": null,

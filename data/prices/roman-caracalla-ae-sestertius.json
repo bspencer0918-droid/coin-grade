@@ -1,0 +1,100 @@
+{
+  "slug": "roman-caracalla-ae-sestertius",
+  "category": "roman",
+  "ruler": "Caracalla",
+  "ruler_normalized": "caracalla",
+  "dynasty": "Severan",
+  "ruler_dates": "AD 198\u00e2\u20ac\u201c217",
+  "ruler_rarity": null,
+  "denomination": "AE Sestertius",
+  "metal": "bronze",
+  "sale_count": 2,
+  "realized_count": 2,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 1560.0,
+    "max": 2880.0
+  },
+  "median_price_usd": 2220.0,
+  "last_sale_date": "2021-01-22",
+  "grade_distribution": {
+    "XF": 1,
+    "VF": 1
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-3-2-7-0-23270344&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 4,
+  "top_grade_numeric": 5,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-e397df42524f",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-caracalla-ad-198-217-ae-sestertius-31mm-2634-gm-12h-ngc-choice-xf-5-5-4-5/a/3089-32211.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Caracalla (AD 198-217). AE sestertius (31mm,\n26.34 gm, 12h). NGC Choice XF 5/5 - 4/5.",
+      "description": "",
+      "hammer_price_usd": 1560.0,
+      "currency_original": "USD",
+      "price_original": 1560.0,
+      "buyers_premium_included": false,
+      "sale_date": "2021-01-22",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-3-2-7-0-23270344&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-687bdc51e42f",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-divus-caracalla-died-ad-217-ae-sestertius-32mm-2719-gm-12h-ngc-choice-vf-4-5-3-5-fine-style-smoothing/a/3071-32168.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Divus Caracalla (died AD 217). AE sestertius\n(32mm, 27.19 gm, 12h). NGC Choice VF 4/5 - 3/5, Fine Style,\nsmoothing.",
+      "description": "",
+      "hammer_price_usd": 2880.0,
+      "currency_original": "USD",
+      "price_original": 2880.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-01-07",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-2-1-19521197&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

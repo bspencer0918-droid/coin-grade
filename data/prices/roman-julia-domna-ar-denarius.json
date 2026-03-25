@@ -1,0 +1,100 @@
+{
+  "slug": "roman-julia-domna-ar-denarius",
+  "category": "roman",
+  "ruler": "Julia Domna",
+  "ruler_normalized": "julia-domna",
+  "dynasty": "Severan",
+  "ruler_dates": "AD 193\u00e2\u20ac\u201c217",
+  "ruler_rarity": null,
+  "denomination": "AR Denarius",
+  "metal": "silver",
+  "sale_count": 2,
+  "realized_count": 2,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 900.0,
+    "max": 1200.0
+  },
+  "median_price_usd": 1050.0,
+  "last_sale_date": "2023-11-04",
+  "grade_distribution": {
+    "MS": 1,
+    "XF": 1
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-8-8-2-7-28827498&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 5,
+  "top_grade_numeric": 5,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-bc2041cdd4f4",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-julia-domna-ad-193-217-ar-denarius-18mm-344-gm-12h-ngc-choice-ms-5-5-5-5/a/3110-31149.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Julia Domna (AD 193-217). AR denarius (18mm,\n3.44 gm, 12h). NGC Choice MS 5/5 - 5/5.",
+      "description": "",
+      "hammer_price_usd": 1200.0,
+      "currency_original": "USD",
+      "price_original": 1200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2023-11-04",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-8-8-2-7-28827498&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-c9f00f1aa011",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-diva-julia-domna-ad-193-217-ar-denarius-20mm-252-gm-12h-ngc-xf-5-5-2-5/a/3071-32160.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Diva Julia Domna (AD 193-217). AR denarius\n(20mm, 2.52 gm, 12h). NGC XF 5/5 - 2/5.",
+      "description": "",
+      "hammer_price_usd": 900.0,
+      "currency_original": "USD",
+      "price_original": 900.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-01-07",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-1-9-19519760&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

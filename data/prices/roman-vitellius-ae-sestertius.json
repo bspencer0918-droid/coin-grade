@@ -8,18 +8,19 @@
   "ruler_rarity": "scarce",
   "denomination": "AE Sestertius",
   "metal": "bronze",
-  "sale_count": 1,
-  "realized_count": 1,
+  "sale_count": 2,
+  "realized_count": 2,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 10800.0,
+    "min": 6600.0,
     "max": 10800.0
   },
-  "median_price_usd": 10800.0,
+  "median_price_usd": 8700.0,
   "last_sale_date": "2024-05-10",
   "grade_distribution": {
-    "AU": 1
+    "AU": 1,
+    "XF": 1
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-9-8-6-1-29861162&w=120&h=300&it=product",
   "median_weight_g": null,
@@ -51,6 +52,38 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-c1c88e8156b6",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-vitellius-16-april-22-december-ad-69-ae-sestertius-35mm-2595-gm-6h-ngc-choice-xf-5-5-2-5-fine-style-smoothing/a/3089-32180.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Vitellius (16 April-22 December AD 69). AE\nsestertius (35mm, 25.95 gm, 6h). NGC Choice XF 5/5 - 2/5, Fine\nStyle, smoothing.",
+      "description": "",
+      "hammer_price_usd": 6600.0,
+      "currency_original": "USD",
+      "price_original": 6600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2021-01-22",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-3-2-7-0-23270352&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

@@ -1,0 +1,100 @@
+{
+  "slug": "roman-septimius-severus-ae-sestertius",
+  "category": "roman",
+  "ruler": "Septimius Severus",
+  "ruler_normalized": "septimius-severus",
+  "dynasty": "Severan",
+  "ruler_dates": "AD 193\u00e2\u20ac\u201c211",
+  "ruler_rarity": null,
+  "denomination": "AE Sestertius",
+  "metal": "bronze",
+  "sale_count": 2,
+  "realized_count": 2,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 960.0,
+    "max": 1620.0
+  },
+  "median_price_usd": 1290.0,
+  "last_sale_date": "2021-01-22",
+  "grade_distribution": {
+    "XF": 1,
+    "AU": 1
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-3-2-7-0-23270273&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 3,
+  "top_grade_numeric": 5,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-1467a41783e7",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-septimius-severus-ad-193-211-ae-sestertius-34mm-3362-gm-11h-ngc-xf-5-5-3-5/a/3089-32208.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Septimius Severus (AD 193-211). AE sestertius\n(34mm, 33.62 gm, 11h). NGC XF 5/5 - 3/5.",
+      "description": "",
+      "hammer_price_usd": 1620.0,
+      "currency_original": "USD",
+      "price_original": 1620.0,
+      "buyers_premium_included": false,
+      "sale_date": "2021-01-22",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-3-2-7-0-23270273&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-4e155e3ade80",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-septimius-severus-ad-193-211-ae-sestertius-33mm-2551-gm-12h-ngc-au-5-5-3-5/a/3088-34149.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Septimius Severus (AD 193-211). AE sestertius\n(33mm, 25.51 gm, 12h). NGC AU 5/5 - 3/5.",
+      "description": "",
+      "hammer_price_usd": 960.0,
+      "currency_original": "USD",
+      "price_original": 960.0,
+      "buyers_premium_included": false,
+      "sale_date": "2020-11-06",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-2-9-3-3-22933655&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

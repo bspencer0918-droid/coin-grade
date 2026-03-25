@@ -8,29 +8,94 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 1,
-  "realized_count": 1,
+  "sale_count": 3,
+  "realized_count": 3,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 625.0,
-    "max": 625.0
+    "min": 552.0,
+    "max": 1140.0
   },
   "median_price_usd": 625.0,
   "last_sale_date": "2026-02-23",
   "grade_distribution": {
-    "AU": 1
+    "AU": 2,
+    "MS": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/b9f891d37ef682fd4385487e284901c6/img/goldberg/150/image00467.jpg",
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-5-2-1-3-25213118&w=120&h=300&it=product",
   "median_weight_g": null,
   "top_strike_score": 4,
-  "top_surface_score": 4,
-  "top_grade_numeric": null,
+  "top_surface_score": 3,
+  "top_grade_numeric": 4,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "heritage-ccca20ecf8b3",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-corinthia-corinth-late-4th-early-3rd-centuries-bc-ar-tetradrachm-27mm-1717-gm-3h-ngc-au-5-5-4-5/a/3099-31121.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:CORINTHIA. Corinth. Late 4th-early 3rd\ncenturies BC. AR tetradrachm (27mm, 17.17 gm, 3h). NGC AU 5/5 -\n4/5.",
+      "description": "",
+      "hammer_price_usd": 552.0,
+      "currency_original": "USD",
+      "price_original": 552.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-05-07",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-5-2-1-3-25213118&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-2f7f73284922",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-corinthia-corinth-late-4th-early-3rd-centuries-bc-ar-tetradrachm-28mm-1715-gm-9h-ngc-ms-4-5-3-5-fine-style-brushed-/a/3083-32059.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:CORINTHIA. Corinth. Late 4th-early 3rd\ncenturies BC. AR tetradrachm (28mm, 17.15 gm, 9h). NGC MS 4/5 -\n3/5, Fine Style, brushed, die shift.",
+      "description": "",
+      "hammer_price_usd": 1140.0,
+      "currency_original": "USD",
+      "price_original": 1140.0,
+      "buyers_premium_included": false,
+      "sale_date": "2020-04-27",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-2-0-7-5-22075978&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-e3389074bb5b",
       "source": "coinarchives",

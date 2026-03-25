@@ -1,0 +1,100 @@
+{
+  "slug": "byzantine-heraclius-av-tremissis",
+  "category": "byzantine",
+  "ruler": "Heraclius",
+  "ruler_normalized": "heraclius",
+  "dynasty": "Heraclian",
+  "ruler_dates": "AD 610\u00e2\u20ac\u201c641",
+  "ruler_rarity": "common",
+  "denomination": "AV Tremissis",
+  "metal": "gold",
+  "sale_count": 2,
+  "realized_count": 2,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 660.0,
+    "max": 660.0
+  },
+  "median_price_usd": 660.0,
+  "last_sale_date": "2020-11-06",
+  "grade_distribution": {
+    "AU": 1,
+    "MS": 1
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-2-9-3-3-22933614&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 4,
+  "top_grade_numeric": 5,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-cbc70172940a",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-heraclius-ad-610-641-av-tremissis-15mm-135-gm-6h-ngc-au-5-5-4-5-clipped/a/3088-34177.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Heraclius (AD 610-641). AV tremissis (15mm,\n1.35 gm, 6h). NGC AU 5/5 - 4/5, clipped.",
+      "description": "",
+      "hammer_price_usd": 660.0,
+      "currency_original": "USD",
+      "price_original": 660.0,
+      "buyers_premium_included": false,
+      "sale_date": "2020-11-06",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-2-9-3-3-22933614&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-39787005b80b",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-heraclius-ad-610-641-av-tremissis-15mm-150-gm-6h-ngc-ms-5-5-4-5/a/3073-32319.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Heraclius (AD 610-641). AV tremissis (15mm,\n1.50 gm, 6h). NGC MS 5/5 - 4/5.",
+      "description": "",
+      "hammer_price_usd": 660.0,
+      "currency_original": "USD",
+      "price_original": 660.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-04-29",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-0-8-0-2-20802421&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

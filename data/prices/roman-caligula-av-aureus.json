@@ -8,21 +8,21 @@
   "ruler_rarity": null,
   "denomination": "AV Aureus",
   "metal": "gold",
-  "sale_count": 5,
-  "realized_count": 5,
+  "sale_count": 7,
+  "realized_count": 7,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 43680.0,
+    "min": 33600.0,
     "max": 216000.0
   },
-  "median_price_usd": 176900.0,
+  "median_price_usd": 78000.0,
   "last_sale_date": "2026-01-12",
   "grade_distribution": {
     "XF": 2,
     "AU": 1,
-    "F": 1,
-    "VF": 1
+    "F": 2,
+    "VF": 2
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-3-6-3-8-33638017&w=120&h=300&it=product",
   "median_weight_g": null,
@@ -34,38 +34,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "heritage-65920095fcf2",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-gaius-caligula-ad-37-41-av-aureus-19mm-763-gm-11h-ngc-xf-5-5-4-5/a/3129-34044.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:Gaius (Caligula) (AD 37-41). AV aureus (19mm,\n7.63 gm, 11h). NGC XF 5/5 - 4/5.",
-      "description": "",
-      "hammer_price_usd": 176900.0,
-      "currency_original": "USD",
-      "price_original": 176900.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-12",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-3-6-3-8-33638017&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "heritage-65920095fcf2",
       "source": "heritage",
@@ -182,6 +150,102 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-daa3c6d12466",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-gaius-caligula-ad-37-41-with-germanicus-av-aureus-18mm-769-gm-3h-ngc-vf-5-5-4-5/a/3094-33054.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Gaius \"Caligula\" (AD 37-41), with Germanicus.\nAV aureus (18mm, 7.69 gm, 3h). NGC VF 5/5 - 4/5.",
+      "description": "",
+      "hammer_price_usd": 78000.0,
+      "currency_original": "USD",
+      "price_original": 78000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2021-08-20",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-4-3-9-2-24392421&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-520a7358520c",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-gaius-caligula-ad-37-41-with-agrippina-senior-av-aureus-19mm-765-gm-6h-ngc-fine-5-5-4-5/a/3094-32017.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Gaius \"Caligula\" (AD 37-41), with Agrippina\nSenior. AV aureus (19mm, 7.65 gm, 6h). NGC Fine 5/5 - 4/5.",
+      "description": "",
+      "hammer_price_usd": 33600.0,
+      "currency_original": "USD",
+      "price_original": 33600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2021-08-20",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-4-3-6-0-24360451&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-e7252e070896",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-gaius-caligula-ad-37-41-with-germanicus-av-aureus-18mm-777-gm-11h-ngc-choice-xf-4-5-4-5/a/3091-31038.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Gaius \"Caligula\" (AD 37-41), with Germanicus.\nAV aureus (18mm, 7.77 gm, 11h). NGC Choice XF 4/5 - 4/5.",
+      "description": "",
+      "hammer_price_usd": 156000.0,
+      "currency_original": "USD",
+      "price_original": 156000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2021-05-07",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-3-6-5-4-23654462&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

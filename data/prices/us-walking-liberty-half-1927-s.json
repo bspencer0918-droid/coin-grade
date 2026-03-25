@@ -1,0 +1,100 @@
+{
+  "slug": "us-walking-liberty-half-1927-s",
+  "category": "us",
+  "ruler": null,
+  "ruler_normalized": null,
+  "dynasty": null,
+  "ruler_dates": null,
+  "ruler_rarity": null,
+  "denomination": "Walking Liberty Half Dollar 1927-S",
+  "metal": "silver",
+  "sale_count": 2,
+  "realized_count": 2,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 2074.0,
+    "max": 2257.0
+  },
+  "median_price_usd": 2165.5,
+  "last_sale_date": "2026-01-17",
+  "grade_distribution": {
+    "AU": 1,
+    "MS": 1
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-3-6-6-5-33665143&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": null,
+  "top_surface_score": null,
+  "top_grade_numeric": 63,
+  "dominant_service": "pcgs",
+  "series": "Walking Liberty Half Dollar",
+  "date_struck": "1927",
+  "mint_mark": "S",
+  "sales": [
+    {
+      "id": "heritage-1e8846baf918",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/walking-liberty-half-dollars/1927-s-50c-au58-pcgs-cac-cac-27-in-58-118-finer-11-25-cdn-1-350-whsle-bid-for-ngc-pcgs-au58-mintage-2-392-000/a/1390-7261.s?ic4=ListView-ShortDescription-071515",
+      "title": "1927-S 50C AU58 PCGS. CAC. CAC: 27 in 58, 118 finer (11/25).\nCDN: $1,350 Whsle. Bid for NGC/PCGS AU58. Mintage 2,392,000. (PCGS# 6587)",
+      "description": "Auction 1390 | Lot 7261 \u00bb Half Dollars \u00bb Walking Liberty Half Dollars",
+      "hammer_price_usd": 2074.0,
+      "currency_original": "USD",
+      "price_original": 2074.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-17",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-3-6-6-5-33665143&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 58,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "pcgs"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-802ca7725665",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/walking-liberty-half-dollars/1927-s-50c-ms63-pcgs-cdn-2-300-whsle-bid-for-ngc-pcgs-ms63-mintage-2-392-000-pcgs-6587-/a/1390-7262.s?ic4=ListView-ShortDescription-071515",
+      "title": "1927-S 50C MS63 PCGS. CDN: $2,300 Whsle. Bid for NGC/PCGS\nMS63. Mintage 2,392,000. (PCGS# 6587)",
+      "description": "Auction 1390 | Lot 7262 \u00bb Half Dollars \u00bb Walking Liberty Half Dollars",
+      "hammer_price_usd": 2257.0,
+      "currency_original": "USD",
+      "price_original": 2257.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-17",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-3-6-7-6-33676166&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 63,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "pcgs"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "us-barber-half-1909",
+  "category": "us",
+  "ruler": null,
+  "ruler_normalized": null,
+  "dynasty": null,
+  "ruler_dates": null,
+  "ruler_rarity": null,
+  "denomination": "Barber Half Dollar 1909",
+  "metal": "silver",
+  "sale_count": 2,
+  "realized_count": 2,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 1830.0,
+    "max": 2074.0
+  },
+  "median_price_usd": 1952.0,
+  "last_sale_date": "2026-01-17",
+  "grade_distribution": {
+    "MS": 2
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-3-6-2-4-33624649&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": null,
+  "top_surface_score": null,
+  "top_grade_numeric": 65,
+  "dominant_service": "pcgs",
+  "series": "Barber Half Dollar",
+  "date_struck": "1909",
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-a1dea3b9dee1",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/barber-half-dollars/1909-50c-ms65-pcgs-pcgs-population-68-in-65-2-in-65-18-finer-11-25-cdn-1-440-whsle-bid-for-ngc-pcgs-ms65-mintage-2-368-650/a/1390-7227.s?ic4=ListView-ShortDescription-071515",
+      "title": "1909 50C MS65 PCGS. PCGS Population: 68 in 65 (2 in 65+), 18\nfiner (11/25). CDN: $1,440 Whsle. Bid for NGC/PCGS MS65. Mintage\n2,368,650. (PCGS# 6516)",
+      "description": "Auction 1390 | Lot 7227 \u00bb Half Dollars \u00bb Barber Half Dollars",
+      "hammer_price_usd": 1830.0,
+      "currency_original": "USD",
+      "price_original": 1830.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-17",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-3-6-2-4-33624649&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 65,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "pcgs"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-13a0a8d72dc0",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/barber-half-dollars/1909-50c-ms66-pcgs-pcgs-population-17-in-66-4-in-66-1-finer-11-25-cdn-2-250-whsle-bid-for-ngc-pcgs-ms66-mintage-2-368-650/a/1390-7228.s?ic4=ListView-ShortDescription-071515",
+      "title": "1909 50C MS66 PCGS. PCGS Population: 17 in 66 (4 in 66+), 1\nfiner (11/25). CDN: $2,250 Whsle. Bid for NGC/PCGS MS66. Mintage\n2,368,650. (PCGS# 6516)",
+      "description": "Auction 1390 | Lot 7228 \u00bb Half Dollars \u00bb Barber Half Dollars",
+      "hammer_price_usd": 2074.0,
+      "currency_original": "USD",
+      "price_original": 2074.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-17",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-3-6-9-2-33692210&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 66,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "pcgs"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

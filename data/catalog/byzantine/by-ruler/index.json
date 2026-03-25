@@ -1,17 +1,38 @@
 {
   "rulers": [
     {
+      "name": "Alexios I",
+      "slug": "alexios-i",
+      "reign": "",
+      "sale_count": 1,
+      "data_url": "byzantine/by-ruler/alexios-i.json"
+    },
+    {
       "name": "Andronicus I",
       "slug": "andronicus-i",
       "reign": "",
-      "sale_count": 1,
+      "sale_count": 2,
       "data_url": "byzantine/by-ruler/andronicus-i.json"
+    },
+    {
+      "name": "Basil I",
+      "slug": "basil-i",
+      "reign": "",
+      "sale_count": 2,
+      "data_url": "byzantine/by-ruler/basil-i.json"
+    },
+    {
+      "name": "Constans II",
+      "slug": "constans-ii",
+      "reign": "",
+      "sale_count": 1,
+      "data_url": "byzantine/by-ruler/constans-ii.json"
     },
     {
       "name": "Constantine V",
       "slug": "constantine-v",
       "reign": "",
-      "sale_count": 3,
+      "sale_count": 4,
       "data_url": "byzantine/by-ruler/constantine-v.json"
     },
     {
@@ -25,7 +46,7 @@
       "name": "Heraclius",
       "slug": "heraclius",
       "reign": "",
-      "sale_count": 1,
+      "sale_count": 3,
       "data_url": "byzantine/by-ruler/heraclius.json"
     },
     {
@@ -36,10 +57,17 @@
       "data_url": "byzantine/by-ruler/irene.json"
     },
     {
+      "name": "Isaac II",
+      "slug": "isaac-ii",
+      "reign": "",
+      "sale_count": 1,
+      "data_url": "byzantine/by-ruler/isaac-ii.json"
+    },
+    {
       "name": "John I",
       "slug": "john-i",
       "reign": "",
-      "sale_count": 1,
+      "sale_count": 2,
       "data_url": "byzantine/by-ruler/john-i.json"
     },
     {
@@ -53,14 +81,14 @@
       "name": "Justinian I",
       "slug": "justinian-i",
       "reign": "",
-      "sale_count": 4,
+      "sale_count": 5,
       "data_url": "byzantine/by-ruler/justinian-i.json"
     },
     {
       "name": "Leo III",
       "slug": "leo-iii",
       "reign": "",
-      "sale_count": 2,
+      "sale_count": 3,
       "data_url": "byzantine/by-ruler/leo-iii.json"
     },
     {
@@ -69,6 +97,20 @@
       "reign": "",
       "sale_count": 1,
       "data_url": "byzantine/by-ruler/leo-v.json"
+    },
+    {
+      "name": "Leontius",
+      "slug": "leontius",
+      "reign": "",
+      "sale_count": 1,
+      "data_url": "byzantine/by-ruler/leontius.json"
+    },
+    {
+      "name": "Manuel I",
+      "slug": "manuel-i",
+      "reign": "",
+      "sale_count": 1,
+      "data_url": "byzantine/by-ruler/manuel-i.json"
     },
     {
       "name": "Maurice Tiberius",
@@ -81,7 +123,7 @@
       "name": "Michael I",
       "slug": "michael-i",
       "reign": "",
-      "sale_count": 2,
+      "sale_count": 3,
       "data_url": "byzantine/by-ruler/michael-i.json"
     },
     {
@@ -109,14 +151,14 @@
       "name": "Romanus I",
       "slug": "romanus-i",
       "reign": "",
-      "sale_count": 1,
+      "sale_count": 2,
       "data_url": "byzantine/by-ruler/romanus-i.json"
     },
     {
       "name": "Theophilos",
       "slug": "theophilos",
       "reign": "",
-      "sale_count": 2,
+      "sale_count": 3,
       "data_url": "byzantine/by-ruler/theophilos.json"
     },
     {

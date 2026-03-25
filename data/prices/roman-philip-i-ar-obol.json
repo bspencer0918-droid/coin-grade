@@ -1,0 +1,99 @@
+{
+  "slug": "roman-philip-i-ar-obol",
+  "category": "roman",
+  "ruler": "Philip I",
+  "ruler_normalized": "philip-i",
+  "dynasty": "Crisis of the Third Century",
+  "ruler_dates": "AD 244\u00e2\u20ac\u201c249",
+  "ruler_rarity": null,
+  "denomination": "AR Obol",
+  "metal": "gold",
+  "sale_count": 2,
+  "realized_count": 2,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 1800.0,
+    "max": 3840.0
+  },
+  "median_price_usd": 2820.0,
+  "last_sale_date": "2024-01-08",
+  "grade_distribution": {
+    "AU": 2
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-9-2-8-5-29285077&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 3,
+  "top_grade_numeric": 5,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-6f46911ad95b",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-macedonian-kingdom-philip-ii-359-336-bc-av-1-12-stater-or-obol-9mm-071-gm-12h-ngc-au-5-5-3-5/a/3113-30019.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:MACEDONIAN KINGDOM. Philip II (359-336 BC). AV\n1/12 stater or obol (9mm, 0.71 gm, 12h). NGC AU 5/5 - 3/5.",
+      "description": "",
+      "hammer_price_usd": 1800.0,
+      "currency_original": "USD",
+      "price_original": 1800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2024-01-08",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-9-2-8-5-29285077&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-62c801f20af5",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-macedonian-kingdom-philip-ii-359-336-bc-av-1-12-stater-or-obol-8mm-071-gm-12h-ngc-au-4-5-5-5/a/3101-35026.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:MACEDONIAN KINGDOM. Philip II (359-336 BC). AV\n1/12 stater or obol (8mm, 0.71 gm, 12h). NGC AU 4/5 - 5/5.",
+      "description": "",
+      "hammer_price_usd": 3840.0,
+      "currency_original": "USD",
+      "price_original": 3840.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-08-28",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-6-4-3-5-26435489&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

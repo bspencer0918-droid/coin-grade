@@ -8,18 +8,18 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 3,
-  "realized_count": 3,
+  "sale_count": 5,
+  "realized_count": 5,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 29.21,
-    "max": 1326.0
+    "max": 2280.0
   },
-  "median_price_usd": 840.0,
+  "median_price_usd": 900.0,
   "last_sale_date": "2026-04-11",
   "grade_distribution": {
-    "AU": 2,
+    "AU": 4,
     "F": 1
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-0-3-4-2-30342139&w=120&h=300&it=product",
@@ -84,6 +84,70 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-1fea9e5024e1",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-syria-antioch-nero-ad-54-68-ar-tetradrachm-24mm-1522-gm-12h-ngc-choice-au-4-5-3-5/a/3111-36041.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:SYRIA. Antioch. Nero (AD 54-68). AR tetradrachm\n(24mm, 15.22 gm, 12h). NGC Choice AU 4/5 - 3/5.",
+      "description": "",
+      "hammer_price_usd": 900.0,
+      "currency_original": "USD",
+      "price_original": 900.0,
+      "buyers_premium_included": false,
+      "sale_date": "2023-12-11",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-9-1-7-5-29175130&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-0bf91e700146",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-syria-antioch-nero-ad-54-68-ar-tetradrachm-26mm-1536-gm-11h-ngc-choice-au-5-5-3-5/a/3110-31118.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:SYRIA. Antioch. Nero (AD 54-68). AR tetradrachm\n(26mm, 15.36 gm, 11h). NGC Choice AU 5/5 - 3/5.",
+      "description": "",
+      "hammer_price_usd": 2280.0,
+      "currency_original": "USD",
+      "price_original": 2280.0,
+      "buyers_premium_included": false,
+      "sale_date": "2023-11-04",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-8-9-2-7-28927001&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

@@ -1,0 +1,99 @@
+{
+  "slug": "us-walking-liberty-half-1916-s",
+  "category": "us",
+  "ruler": null,
+  "ruler_normalized": null,
+  "dynasty": null,
+  "ruler_dates": null,
+  "ruler_rarity": null,
+  "denomination": "Walking Liberty Half Dollar 1916-S",
+  "metal": "silver",
+  "sale_count": 2,
+  "realized_count": 2,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 2196.0,
+    "max": 2440.0
+  },
+  "median_price_usd": 2318.0,
+  "last_sale_date": "2026-01-17",
+  "grade_distribution": {
+    "AU": 2
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-3-5-8-4-33584832&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": null,
+  "top_surface_score": null,
+  "top_grade_numeric": 58,
+  "dominant_service": "pcgs",
+  "series": "Walking Liberty Half Dollar",
+  "date_struck": "1916",
+  "mint_mark": "S",
+  "sales": [
+    {
+      "id": "heritage-310301da665e",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/walking-liberty-half-dollars/1916-s-50c-au58-pcgs-cdn-2-100-whsle-bid-for-ngc-pcgs-au58-mintage-508-000-pcgs-6568-/a/1390-7239.s?ic4=ListView-ShortDescription-071515",
+      "title": "1916-S 50C AU58 PCGS. CDN: $2,100 Whsle. Bid for NGC/PCGS\nAU58. Mintage 508,000. (PCGS# 6568)",
+      "description": "Auction 1390 | Lot 7239 \u00bb Half Dollars \u00bb Walking Liberty Half Dollars",
+      "hammer_price_usd": 2196.0,
+      "currency_original": "USD",
+      "price_original": 2196.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-17",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-3-5-8-4-33584832&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 58,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "pcgs"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-4df6d7809519",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/walking-liberty-half-dollars/1916-s-50c-au58-pcgs-cdn-2-100-whsle-bid-for-ngc-pcgs-au58-mintage-508-000-pcgs-6568-/a/1390-7240.s?ic4=ListView-ShortDescription-071515",
+      "title": "1916-S 50C AU58 PCGS. CDN: $2,100 Whsle. Bid for NGC/PCGS\nAU58. Mintage 508,000. (PCGS# 6568)",
+      "description": "Auction 1390 | Lot 7240 \u00bb Half Dollars \u00bb Walking Liberty Half Dollars",
+      "hammer_price_usd": 2440.0,
+      "currency_original": "USD",
+      "price_original": 2440.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-17",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-3-6-6-5-33665826&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 58,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "pcgs"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

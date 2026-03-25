@@ -8,19 +8,19 @@
   "ruler_rarity": null,
   "denomination": "AV Aureus",
   "metal": "gold",
-  "sale_count": 2,
-  "realized_count": 2,
+  "sale_count": 8,
+  "realized_count": 8,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 8400.0,
-    "max": 13200.0
+    "min": 5280.0,
+    "max": 19200.0
   },
-  "median_price_usd": 10800.0,
+  "median_price_usd": 13800.0,
   "last_sale_date": "2024-11-02",
   "grade_distribution": {
-    "AU": 1,
-    "MS": 1
+    "AU": 5,
+    "MS": 3
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-0-9-7-4-30974659&w=120&h=300&it=product",
   "median_weight_g": null,
@@ -84,6 +84,198 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-cce9863dae65",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-aurelian-ad-270-275-av-aureus-20mm-555-gm-5h-ngc-choice-au-5-5-2-5-edge-marks-brushed/a/3099-30130.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Aurelian (AD 270-275). AV aureus (20mm, 5.55\ngm, 5h). NGC Choice AU 5/5 - 2/5, edge marks, brushed.",
+      "description": "",
+      "hammer_price_usd": 9000.0,
+      "currency_original": "USD",
+      "price_original": 9000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-05-07",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-5-7-2-6-25726638&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-579405e3f5d6",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-aurelian-ad-270-275-av-aureus-22mm-417-gm-12h-ngc-choice-au-5-5-4-5/a/3097-30103.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Aurelian (AD 270-275). AV aureus (22mm, 4.17\ngm, 12h). NGC Choice AU 5/5 - 4/5.",
+      "description": "",
+      "hammer_price_usd": 19200.0,
+      "currency_original": "USD",
+      "price_original": 19200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-01-10",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-5-1-4-2-25142329&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-a8030c085556",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-aurelian-ad-270-275-av-binio-or-heavy-aureus-21mm-656-gm-12h-ngc-au-5-5-3-5-brushed/a/3085-30052.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Aurelian (AD 270-275). AV binio or heavy aureus\n(21mm, 6.56 gm, 12h). NGC AU 5/5 - 3/5, brushed.",
+      "description": "",
+      "hammer_price_usd": 14400.0,
+      "currency_original": "USD",
+      "price_original": 14400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2020-08-07",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-2-5-4-9-22549810&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-12196a22ad98",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-aurelian-ad-270-275-av-aureus-22mm-449-gm-1h-ngc-choice-au-5-5-2-5-brushed/a/3081-30195.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Aurelian (AD 270-275). AV aureus (22mm, 4.49\ngm, 1h). NGC Choice AU 5/5 - 2/5, brushed.",
+      "description": "",
+      "hammer_price_usd": 5280.0,
+      "currency_original": "USD",
+      "price_original": 5280.0,
+      "buyers_premium_included": false,
+      "sale_date": "2020-01-13",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-1-7-3-8-21738105&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-2761f3028dd5",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-aurelian-ad-270-275-av-aureus-20mm-418-gm-1h-ngc-ms-4-5-4-5/a/3081-32070.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Aurelian (AD 270-275). AV aureus (20mm, 4.18\ngm, 1h). NGC MS\u2605 4/5 - 4/5.",
+      "description": "",
+      "hammer_price_usd": 14400.0,
+      "currency_original": "USD",
+      "price_original": 14400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2020-01-13",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-1-6-9-7-21697381&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-8c8008582970",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-aurelian-ad-270-275-av-aureus-21mm-418-gm-1h-ngc-ms-4-5-4-5/a/3071-32226.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Aurelian (AD 270-275). AV aureus (21mm, 4.18\ngm, 1h). NGC MS\u2605 4/5 - 4/5.",
+      "description": "",
+      "hammer_price_usd": 18000.0,
+      "currency_original": "USD",
+      "price_original": 18000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-01-07",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-0-1-19501646&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

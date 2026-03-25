@@ -8,18 +8,18 @@
   "ruler_rarity": null,
   "denomination": "AR Stater",
   "metal": "electrum",
-  "sale_count": 1,
-  "realized_count": 1,
+  "sale_count": 2,
+  "realized_count": 2,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 840.0,
+    "min": 576.0,
     "max": 840.0
   },
-  "median_price_usd": 840.0,
+  "median_price_usd": 708.0,
   "last_sale_date": "2025-08-29",
   "grade_distribution": {
-    "VF": 1
+    "VF": 2
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-2-7-0-7-32707584&w=120&h=300&it=product",
   "median_weight_g": null,
@@ -51,6 +51,38 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-1df14eb70e1b",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-bosporan-kingdom-rhescuporis-ii-ad-211-227-with-severus-alexander-el-stater-20mm-772-gm-12h-ngc-vf-5-5-4-5/a/3076-33064.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:BOSPORAN KINGDOM. Rhescuporis II (AD 211-227),\nwith Severus Alexander. EL stater (20mm, 7.72 gm, 12h). NGC VF 5/5\n- 4/5.",
+      "description": "",
+      "hammer_price_usd": 576.0,
+      "currency_original": "USD",
+      "price_original": 576.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-09-09",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-1-2-6-0-21260693&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

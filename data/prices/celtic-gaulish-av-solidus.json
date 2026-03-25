@@ -8,23 +8,24 @@
   "ruler_rarity": null,
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 1,
-  "realized_count": 1,
+  "sale_count": 6,
+  "realized_count": 6,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 1680.0,
-    "max": 1680.0
+    "max": 16800.0
   },
-  "median_price_usd": 1680.0,
+  "median_price_usd": 5640.0,
   "last_sale_date": "2025-11-07",
   "grade_distribution": {
-    "VF": 1
+    "VF": 3,
+    "AU": 3
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-3-2-6-9-33269557&w=120&h=300&it=product",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 3,
+  "top_surface_score": 2,
   "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
@@ -51,6 +52,166 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-34e8e5ad4c54",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/migration-period/ancients-visigoths-gaul-theoderic-i-ad-418-451-av-solidus-22mm-443-gm-5h-ngc-choice-vf-5-5-1-5-ex-mount/a/3110-31172.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:VISIGOTHS. Gaul. Theoderic I (AD 418-451). AV\nsolidus (22mm, 4.43 gm, 5h). NGC Choice VF 5/5 - 1/5, ex-mount.",
+      "description": "",
+      "hammer_price_usd": 2160.0,
+      "currency_original": "USD",
+      "price_original": 2160.0,
+      "buyers_premium_included": false,
+      "sale_date": "2023-11-04",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-8-7-3-5-28735480&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 1,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-2c9f8fc3bd97",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-visigoths-gaul-theoderic-i-ad-418-451-av-solidus-21mm-436-gm-12h-ngc-choice-vf-5-5-5-5/a/3101-32137.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:VISIGOTHS. Gaul. Theoderic I (AD 418-451). AV\nsolidus (21mm, 4.36 gm, 12h). NGC Choice VF 5/5 - 5/5.",
+      "description": "",
+      "hammer_price_usd": 11400.0,
+      "currency_original": "USD",
+      "price_original": 11400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-08-28",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-6-2-5-4-26254588&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-54e7902b3d0e",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-visigoths-gaul-theoderic-i-ad-418-451-av-solidus-22mm-441-gm-5h-ngc-choice-au-5-5-2-5-edge-bend/a/3101-32138.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:VISIGOTHS. Gaul. Theoderic I (AD 418-451). AV\nsolidus (22mm, 4.41 gm, 5h). NGC Choice AU 5/5 - 2/5, edge\nbend.",
+      "description": "",
+      "hammer_price_usd": 2880.0,
+      "currency_original": "USD",
+      "price_original": 2880.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-08-28",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-6-2-5-4-26254590&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-b070b3f60a25",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-visigoths-gaul-euric-or-alaric-ii-ca-ad-470-475-507-av-solidus-21mm-420-gm-6h-ngc-choice-au-5-5-4-5/a/3101-32139.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:VISIGOTHS. Gaul. Euric or Alaric II (ca. AD\n470-475/507). AV solidus (21mm, 4.20 gm, 6h). NGC Choice AU\u26055/5 - 4/5.",
+      "description": "",
+      "hammer_price_usd": 16800.0,
+      "currency_original": "USD",
+      "price_original": 16800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-08-28",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-6-2-5-4-26254603&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-f119a6e1a228",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-visigoths-gaul-euric-or-alaric-ii-ca-ad-461-470-507-av-solidus-21mm-431-gm-6h-ngc-au-5-5-4-5/a/3101-32140.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:VISIGOTHS. Gaul. Euric or Alaric II (ca. AD\n461-470/507). AV solidus (21mm, 4.31 gm, 6h). NGC AU 5/5 - 4/5.",
+      "description": "",
+      "hammer_price_usd": 8400.0,
+      "currency_original": "USD",
+      "price_original": 8400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-08-28",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-6-3-4-3-26343836&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"
