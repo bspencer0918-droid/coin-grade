@@ -25,16 +25,80 @@
     "VF": 22,
     "F": 3
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-3-4-6-8-23468024&w=120&h=300&it=product",
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=1-7-1-9-2-17192384&w=120&h=300&it=product",
   "median_weight_g": null,
-  "top_strike_score": 4,
-  "top_surface_score": 4,
-  "top_grade_numeric": 4,
+  "top_strike_score": 5,
+  "top_surface_score": 5,
+  "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "heritage-371c3ff471a7",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-indo-greek-kingdoms-menander-i-soter-ca-165-55-130-bc-ar-indic-drachm-247-gm-andnbsp-ngc-choice-ms-5-5-5-5/a/3063-33288.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: INDO-GREEK KINGDOMS. Menander I Soter (ca.\n165/55-130 BC). AR Indic drachm (2.47 gm).\u00a0NGC Choice MS 5/5 -\n5/5.",
+      "description": "Auction 3063 | Lot 33288 \u00bb Ancient Coins \u00bb Greek",
+      "hammer_price_usd": 576.0,
+      "currency_original": "USD",
+      "price_original": 576.0,
+      "buyers_premium_included": false,
+      "sale_date": "2018-01-17",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-7-1-9-2-17192384&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-448d38d1ed14",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-seleucid-kingdom-coregency-of-antiochus-i-soter-with-seleucus-i-nicator-ca-294-281-bc-ar-drachm-17mm-418-gm-11h-ngc-ms/a/3071-33197.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: SELEUCID KINGDOM. Coregency of Antiochus I\nSoter with Seleucus I Nicator. Ca. 294-281 BC. AR drachm (17mm,\n4.18 gm, 11h). NGC MS 5/5 - 5/5.",
+      "description": "Auction 3071 | Lot 33197 \u00bb Ancient Coins \u00bb Greek",
+      "hammer_price_usd": 3120.0,
+      "currency_original": "USD",
+      "price_original": 3120.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-01-07",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-2-8-19528390&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-b99e2b13e057",
       "source": "heritage",
@@ -1924,38 +1988,6 @@
       }
     },
     {
-      "id": "heritage-371c3ff471a7",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-indo-greek-kingdoms-menander-i-soter-ca-165-55-130-bc-ar-indic-drachm-247-gm-andnbsp-ngc-choice-ms-5-5-5-5/a/3063-33288.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients: INDO-GREEK KINGDOMS. Menander I Soter (ca.\n165/55-130 BC). AR Indic drachm (2.47 gm).\u00a0NGC Choice MS 5/5 -\n5/5.",
-      "description": "Auction 3063 | Lot 33288 \u00bb Ancient Coins \u00bb Greek",
-      "hammer_price_usd": 576.0,
-      "currency_original": "USD",
-      "price_original": 576.0,
-      "buyers_premium_included": false,
-      "sale_date": "2018-01-17",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-7-1-9-2-17192384&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-9d660a2c458f",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -2135,38 +2167,6 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-448d38d1ed14",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-seleucid-kingdom-coregency-of-antiochus-i-soter-with-seleucus-i-nicator-ca-294-281-bc-ar-drachm-17mm-418-gm-11h-ngc-ms/a/3071-33197.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:SELEUCID KINGDOM. Coregency of Antiochus I\nSoter with Seleucus I Nicator. Ca. 294-281 BC. AR drachm (17mm,\n4.18 gm, 11h). NGC MS 5/5 - 5/5.",
-      "description": "",
-      "hammer_price_usd": 3120.0,
-      "currency_original": "USD",
-      "price_original": 3120.0,
-      "buyers_premium_included": false,
-      "sale_date": "2019-01-07",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-2-8-19528390&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 5,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

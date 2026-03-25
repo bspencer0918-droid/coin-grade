@@ -8,18 +8,18 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 100,
-  "realized_count": 99,
+  "sale_count": 101,
+  "realized_count": 100,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 1050.0,
     "max": 90000.0
   },
-  "median_price_usd": 4320.0,
+  "median_price_usd": 4380.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "MS": 6,
+    "MS": 7,
     "XF": 44,
     "VF": 22,
     "AU": 28
@@ -150,6 +150,102 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-7f704e39b98e",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-sicily-syracuse-second-democracy-ca-466-405-bc-ar-tetradrachm-24mm-1735-gm-12h-ngc-ms-4-5-5-5/a/3081-30009.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: SICILY. Syracuse. Second Democracy (ca. 466-405\nBC). AR tetradrachm (24mm, 17.35 gm, 12h). NGC MS 4/5 - 5/5.",
+      "description": "Auction 3081 | Lot 30009 \u00bb Ancient Coins \u00bb Greek",
+      "hammer_price_usd": 4320.0,
+      "currency_original": "USD",
+      "price_original": 4320.0,
+      "buyers_premium_included": false,
+      "sale_date": "2020-01-13",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-1-7-6-0-21760115&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-fc3540b1f108",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-sicily-syracuse-second-democracy-ca-466-405-bc-ar-tetradrachm-23mm-1735-gm-12h-ngc-ms-4-5-5-5/a/3074-30001.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: SICILY. Syracuse. Second Democracy (ca. 466-405\nBC). AR tetradrachm (23mm, 17.35 gm, 12h). NGC MS 4/5 - 5/5.",
+      "description": "Auction 3074 | Lot 30001 \u00bb Ancient Coins \u00bb Greek",
+      "hammer_price_usd": 4440.0,
+      "currency_original": "USD",
+      "price_original": 4440.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-06-27",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-0-9-5-0-20950770&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-419448eafb1e",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-sicily-syracuse-deinomenid-tyranny-ca-485-465-bc-ar-tetradrachm-23mm-1703-gm-8h-ngc-ms-4-5-3-5/a/3064-30019.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: SICILY. Syracuse. Deinomenid Tyranny (ca.\n485-465 BC). AR tetradrachm (23mm, 17.03 gm, 8h). NGC MS 4/5 -\n3/5.",
+      "description": "Auction 3064 | Lot 30019 \u00bb Ancient Coins \u00bb Greek",
+      "hammer_price_usd": 5040.0,
+      "currency_original": "USD",
+      "price_original": 5040.0,
+      "buyers_premium_included": false,
+      "sale_date": "2018-04-23",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-7-4-4-2-17442780&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"
@@ -2627,38 +2723,6 @@
       }
     },
     {
-      "id": "heritage-7f704e39b98e",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-sicily-syracuse-second-democracy-ca-466-405-bc-ar-tetradrachm-24mm-1735-gm-12h-ngc-ms-4-5-5-5/a/3081-30009.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:SICILY. Syracuse. Second Democracy (ca. 466-405\nBC). AR tetradrachm (24mm, 17.35 gm, 12h). NGC MS 4/5 - 5/5.",
-      "description": "",
-      "hammer_price_usd": 4320.0,
-      "currency_original": "USD",
-      "price_original": 4320.0,
-      "buyers_premium_included": false,
-      "sale_date": "2020-01-13",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-1-7-6-0-21760115&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "heritage-9aa2e196cb81",
       "source": "heritage",
       "listing_type": "auction_realized",
@@ -2934,38 +2998,6 @@
         "grade_numeric": 4,
         "strike_score": 4,
         "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-fc3540b1f108",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-sicily-syracuse-second-democracy-ca-466-405-bc-ar-tetradrachm-23mm-1735-gm-12h-ngc-ms-4-5-5-5/a/3074-30001.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:SICILY. Syracuse. Second Democracy (ca. 466-405\nBC). AR tetradrachm (23mm, 17.35 gm, 12h). NGC MS 4/5 - 5/5.",
-      "description": "",
-      "hammer_price_usd": 4440.0,
-      "currency_original": "USD",
-      "price_original": 4440.0,
-      "buyers_premium_included": false,
-      "sale_date": "2019-06-27",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-0-9-5-0-20950770&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 5,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

@@ -8,29 +8,62 @@
   "ruler_rarity": null,
   "denomination": "AR Trihemiobol",
   "metal": "gold",
-  "sale_count": 1,
-  "realized_count": 1,
+  "sale_count": 2,
+  "realized_count": 2,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 3480.0,
-    "max": 3480.0
+    "max": 4465.0
   },
-  "median_price_usd": 3480.0,
+  "median_price_usd": 3972.5,
   "last_sale_date": "2020-04-27",
   "grade_distribution": {
+    "MS": 1,
     "AU": 1
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-2-1-1-1-22111583&w=120&h=300&it=product",
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=1-5-1-9-5-15195982&w=120&h=300&it=product",
   "median_weight_g": null,
-  "top_strike_score": 4,
-  "top_surface_score": 4,
-  "top_grade_numeric": 4,
+  "top_strike_score": 5,
+  "top_surface_score": 5,
+  "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "heritage-ae26e055177b",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-sicily-syracuse-time-of-dionysius-i-405-367-bc-av-20-litrae-or-trihemiobol-11mm-115-gm-12h-ngc-ms-5-5-5-5/a/3054-30011.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: SICILY. Syracuse. Time of Dionysius I (405-367\nBC). AV 20 litrae or trihemiobol (11mm, 1.15 gm, 12h). NGC MS 5/5 -\n5/5.",
+      "description": "Auction 3054 | Lot 30011 \u00bb Ancient Coins \u00bb Greek",
+      "hammer_price_usd": 4465.0,
+      "currency_original": "USD",
+      "price_original": 4465.0,
+      "buyers_premium_included": false,
+      "sale_date": "2017-04-10",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-5-1-9-5-15195982&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-f34d5e47735d",
       "source": "heritage",
