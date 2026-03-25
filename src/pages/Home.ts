@@ -31,7 +31,7 @@ export function renderHome(meta: Meta | null, catalog: CatalogIndex | null): str
   const categoryCards = Object.entries(catCounts)
     .sort((a, b) => b[1] - a[1])
     .map(([cat, count]) => `
-      <a href="${href({ name: 'browse' })}#cat-${cat}"
+      <a href="${href({ name: 'browse', category: cat })}"
          class="card p-5 hover:border-gold-700/50 transition-colors group cursor-pointer block">
         <div class="text-3xl mb-2">${CATEGORY_ICONS[cat] ?? '🪙'}</div>
         <div class="font-display text-lg text-stone-100 group-hover:text-gold-300 transition-colors capitalize">

@@ -51,6 +51,9 @@ async function renderRoute(route: Route) {
     }
 
     case 'browse': {
+      if (route.category) {
+        filters = { ...DEFAULT_FILTER, category: route.category as FilterState['category'] }
+      }
       setContent(
         renderHeader('browse'),
         renderBrowse(catalog?.coins ?? [], filters, (f) => {

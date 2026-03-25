@@ -4,7 +4,7 @@
 
 export type Route =
   | { name: 'home' }
-  | { name: 'browse' }
+  | { name: 'browse'; category?: string }
   | { name: 'coin';  slug: string }
   | { name: 'about' }
 
@@ -22,10 +22,15 @@ export function onRouteChange(fn: RouteHandler) {
 export function parseRoute(): Route {
   const hash = window.location.hash.replace(/^#\/?/, '') || ''
   if (!hash || hash === 'home') return { name: 'home' }
-  if (hash === 'browse') return { name: 'browse' }
   if (hash === 'about')  return { name: 'about' }
   const m = hash.match(/^coin\/(.+)$/)
   if (m) return { name: 'coin', slug: m[1] }
+  if (hash.startsWith('browse')) {
+    const qIdx = hash.indexOf('?')
+    const params = qIdx >= 0 ? new URLSearchParams(hash.slice(qIdx + 1)) : null
+    const category = params?.get('cat') ?? undefined
+    return { name: 'browse', category }
+  }
   return { name: 'home' }
 }
 
@@ -41,7 +46,7 @@ export function navigate(route: Route) {
 export function href(route: Route): string {
   switch (route.name) {
     case 'home':   return '#/home'
-    case 'browse': return '#/browse'
+    case 'browse': return route.category ? `#/browse?cat=${route.category}` : '#/browse'
     case 'about':  return '#/about'
     case 'coin':   return `#/coin/${route.slug}`
   }
