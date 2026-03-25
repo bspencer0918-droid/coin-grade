@@ -19,10 +19,10 @@
   "median_price_usd": 10500.0,
   "last_sale_date": "2025-08-29",
   "grade_distribution": {
-    "XF": 1,
-    "MS": 1
+    "MS": 1,
+    "XF": 1
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-2-6-8-7-32687776&w=120&h=300&it=product",
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-5-1-4-2-25142294&w=120&h=300&it=product",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 3,
@@ -32,6 +32,38 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "heritage-d2a97fc617d4",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-carausius-romano-british-empire-ad-286-7-293-ar-denarius-24mm-456-gm-7h-ngc-ms-4-5-3-5-edge-filing-die-shift/a/3097-30104.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Carausius, Romano-British Empire (AD\n286/7-293). AR denarius (24mm, 4.56 gm, 7h). NGC MS 4/5 - 3/5, edge\nfiling, die shift.",
+      "description": "Auction 3097 | Lot 30104 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 10800.0,
+      "currency_original": "USD",
+      "price_original": 10800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-01-10",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-5-1-4-2-25142294&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-62ca22bdbac0",
       "source": "heritage",
@@ -49,38 +81,6 @@
         "verified": false,
         "cert_number": null,
         "grade": "XF",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-d2a97fc617d4",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-carausius-romano-british-empire-ad-286-7-293-ar-denarius-24mm-456-gm-7h-ngc-ms-4-5-3-5-edge-filing-die-shift/a/3097-30104.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:Carausius, Romano-British Empire (AD\n286/7-293). AR denarius (24mm, 4.56 gm, 7h). NGC MS 4/5 - 3/5, edge\nfiling, die shift.",
-      "description": "",
-      "hammer_price_usd": 10800.0,
-      "currency_original": "USD",
-      "price_original": 10800.0,
-      "buyers_premium_included": false,
-      "sale_date": "2022-01-10",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-5-1-4-2-25142294&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
         "grade_numeric": 4,
         "strike_score": 4,
         "surface_score": 3,

@@ -8,29 +8,62 @@
   "ruler_rarity": null,
   "denomination": "AR Drachm",
   "metal": "silver",
-  "sale_count": 1,
-  "realized_count": 1,
+  "sale_count": 2,
+  "realized_count": 2,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 480.0,
-    "max": 480.0
+    "max": 750.0
   },
-  "median_price_usd": 480.0,
-  "last_sale_date": "2019-01-07",
+  "median_price_usd": 615.0,
+  "last_sale_date": "2023-07-19",
   "grade_distribution": {
+    "MS": 1,
     "VG": 1
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-2-1-19521435&w=120&h=300&it=product",
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-8-4-7-0-28470154&w=120&h=300&it=product",
   "median_weight_g": null,
-  "top_strike_score": 5,
-  "top_surface_score": 4,
-  "top_grade_numeric": 5,
+  "top_strike_score": 4,
+  "top_surface_score": 3,
+  "top_grade_numeric": 4,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "heritage-2207ef03e161",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-sasanian-kingdom-kavad-ii-ad-628-ar-drachm-31mm-410-gm-3h-ngc-ms-4-5-3-5-brushed/a/232329-63089.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: SASANIAN KINGDOM. Kavad II (AD 628). AR drachm\n(31mm, 4.10 gm, 3h). NGC MS 4/5 - 3/5, brushed.",
+      "description": "Auction 232329 | Lot 63089 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 750.0,
+      "currency_original": "USD",
+      "price_original": 750.0,
+      "buyers_premium_included": false,
+      "sale_date": "2023-07-19",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-8-4-7-0-28470154&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-7a42ca221cfc",
       "source": "heritage",

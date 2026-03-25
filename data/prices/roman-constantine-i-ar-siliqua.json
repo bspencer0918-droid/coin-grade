@@ -8,22 +8,22 @@
   "ruler_rarity": null,
   "denomination": "AR Siliqua",
   "metal": "silver",
-  "sale_count": 6,
-  "realized_count": 6,
+  "sale_count": 8,
+  "realized_count": 8,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 1680.0,
+    "min": 780.0,
     "max": 4200.0
   },
-  "median_price_usd": 2940.0,
+  "median_price_usd": 2100.0,
   "last_sale_date": "2025-05-02",
   "grade_distribution": {
-    "AU": 4,
-    "XF": 1,
-    "MS": 1
+    "MS": 1,
+    "AU": 6,
+    "XF": 1
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-1-9-6-2-31962273&w=120&h=300&it=product",
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-6-3-4-3-26343808&w=120&h=300&it=product",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 3,
@@ -33,6 +33,166 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "heritage-97c758c78a52",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-constantine-i-the-great-ad-307-337-ar-siliqua-18mm-307-gm-11h-ngc-ms-5-5-3-5/a/3101-32130.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Constantine I the Great (AD 307-337). AR\nsiliqua (18mm, 3.07 gm, 11h). NGC MS 5/5 - 3/5.",
+      "description": "Auction 3101 | Lot 32130 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 4080.0,
+      "currency_original": "USD",
+      "price_original": 4080.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-08-28",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-6-3-4-3-26343808&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-abdaed537ef3",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-constantine-iii-western-roman-empire-ad-407-411-ar-siliqua-15mm-165-gm-5h-ngc-choice-au-3-5-4-5/a/3099-31378.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Constantine III, Western Roman Empire (AD\n407-411). AR siliqua (15mm, 1.65 gm, 5h). NGC Choice AU 3/5\n-4/5.",
+      "description": "Auction 3099 | Lot 31378 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 1920.0,
+      "currency_original": "USD",
+      "price_original": 1920.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-05-07",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-5-7-1-8-25718815&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 3,
+        "strike_score": 3,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-44bf0a5a3d1e",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-constantine-i-the-great-ad-307-337-ar-siliqua-18mm-320-gm-6h-ngc-choice-au-5-5-3-5/a/3071-32264.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Constantine I the Great (AD 307-337). AR\nsiliqua (18mm, 3.20 gm, 6h). NGC Choice AU 5/5 - 3/5.",
+      "description": "Auction 3071 | Lot 32264 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 1680.0,
+      "currency_original": "USD",
+      "price_original": 1680.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-01-07",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-1-9-19519483&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-326e6f2265f8",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-constantine-i-the-great-ad-307-337-ar-siliqua-19mm-256-gm-11h-ngc-choice-au-5-5-2-5-marks/a/61297-98294.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Constantine I the Great (AD 307-337). AR\nsiliqua (19mm, 2.56 gm, 11h). NGC Choice AU 5/5 - 2/5, marks.",
+      "description": "Auction 61297 | Lot 98294 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 780.0,
+      "currency_original": "USD",
+      "price_original": 780.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-10-23",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-6-4-9-6-26496305&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-127971262a32",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-constantine-iii-western-roman-empire-ad-407-411-ar-siliqua-16mm-166-gm-12h-ngc-choice-au-4-5-3-5-brushed/a/61258-98233.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Constantine III, Western Roman Empire (AD\n407-411). AR siliqua (16mm, 1.66 gm, 12h). NGC Choice AU 4/5 -3/5,\nbrushed.",
+      "description": "Auction 61258 | Lot 98233 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 1440.0,
+      "currency_original": "USD",
+      "price_original": 1440.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-02-20",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-5-1-5-7-25157864&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-1c1a2c14d68d",
       "source": "heritage",
@@ -98,70 +258,6 @@
       }
     },
     {
-      "id": "heritage-97c758c78a52",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-constantine-i-the-great-ad-307-337-ar-siliqua-18mm-307-gm-11h-ngc-ms-5-5-3-5/a/3101-32130.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:Constantine I the Great (AD 307-337). AR\nsiliqua (18mm, 3.07 gm, 11h). NGC MS 5/5 - 3/5.",
-      "description": "",
-      "hammer_price_usd": 4080.0,
-      "currency_original": "USD",
-      "price_original": 4080.0,
-      "buyers_premium_included": false,
-      "sale_date": "2022-08-28",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-6-3-4-3-26343808&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-abdaed537ef3",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-constantine-iii-western-roman-empire-ad-407-411-ar-siliqua-15mm-165-gm-5h-ngc-choice-au-3-5-4-5/a/3099-31378.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:Constantine III, Western Roman Empire (AD\n407-411). AR siliqua (15mm, 1.65 gm, 5h). NGC Choice AU 3/5\n-4/5.",
-      "description": "",
-      "hammer_price_usd": 1920.0,
-      "currency_original": "USD",
-      "price_original": 1920.0,
-      "buyers_premium_included": false,
-      "sale_date": "2022-05-07",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-5-7-1-8-25718815&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 3,
-        "strike_score": 3,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "heritage-93bb05103eef",
       "source": "heritage",
       "listing_type": "auction_realized",
@@ -181,38 +277,6 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-44bf0a5a3d1e",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-constantine-i-the-great-ad-307-337-ar-siliqua-18mm-320-gm-6h-ngc-choice-au-5-5-3-5/a/3071-32264.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:Constantine I the Great (AD 307-337). AR\nsiliqua (18mm, 3.20 gm, 6h). NGC Choice AU 5/5 - 3/5.",
-      "description": "",
-      "hammer_price_usd": 1680.0,
-      "currency_original": "USD",
-      "price_original": 1680.0,
-      "buyers_premium_included": false,
-      "sale_date": "2019-01-07",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-1-9-19519483&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 3,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

@@ -19,22 +19,118 @@
   "median_price_usd": 14100.0,
   "last_sale_date": "2026-01-12",
   "grade_distribution": {
+    "MS": 3,
     "AU": 12,
     "XF": 6,
     "VF": 16,
-    "F": 5,
-    "MS": 3
+    "F": 5
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-3-1-6-9-33169567&w=120&h=300&it=product",
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-9-9-4-0-29940026&w=120&h=300&it=product",
   "median_weight_g": null,
-  "top_strike_score": 5,
+  "top_strike_score": 4,
   "top_surface_score": 4,
-  "top_grade_numeric": null,
+  "top_grade_numeric": 4,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "heritage-9e9eff52a210",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-claudius-i-ad-41-54-av-aureus-20mm-784-gm-11h-ngc-ms-4-5-4-5/a/3115-31054.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Claudius I (AD 41-54). AV aureus (20mm, 7.84\ngm, 11h). NGC MS 4/5 - 4/5.",
+      "description": "Auction 3115 | Lot 31054 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 126000.0,
+      "currency_original": "USD",
+      "price_original": 126000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2024-05-10",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-9-9-4-0-29940026&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-d8178f3aae7a",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-claudius-i-ad-41-54-av-aureus-19mm-772-gm-8h-ngc-ms-5-5-4-5/a/3109-31043.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Claudius I (AD 41-54). AV aureus (19mm, 7.72\ngm, 8h). NGC MS\u2605 5/5 - 4/5.",
+      "description": "Auction 3109 | Lot 31043 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 132000.0,
+      "currency_original": "USD",
+      "price_original": 132000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2023-08-19",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-8-4-6-4-28464468&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-7bbd60843aec",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-claudius-i-ad-41-54-av-aureus-19mm-774-gm-7h-ngc-ms-5-5-4-5/a/3091-31039.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Claudius I (AD 41-54). AV aureus (19mm, 7.74\ngm, 7h). NGC MS\u2605 5/5 - 4/5.",
+      "description": "Auction 3091 | Lot 31039 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 144000.0,
+      "currency_original": "USD",
+      "price_original": 144000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2021-05-07",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-3-6-5-4-23654460&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-cc6545710c96",
       "source": "heritage",
@@ -48,6 +144,38 @@
       "buyers_premium_included": false,
       "sale_date": "2025-11-07",
       "image_url": "https://dyn1.heritagestatic.com/ha?p=3-3-1-6-9-33169567&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-502f1875ce92",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-claudius-i-ad-41-54-av-aureus-20mm-779-gm-3h-ngc-choice-au-5-5-4-5/a/3081-32055.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Claudius I (AD 41-54). AV aureus (20mm, 7.79\ngm, 3h). NGC Choice AU\u2605 5/5 - 4/5.",
+      "description": "Auction 3081 | Lot 32055 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 31200.0,
+      "currency_original": "USD",
+      "price_original": 31200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2020-01-13",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-1-4-0-1-21401477&w=120&h=300&it=product",
       "ngc": {
         "verified": false,
         "cert_number": null,
@@ -324,38 +452,6 @@
       }
     },
     {
-      "id": "heritage-9e9eff52a210",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-claudius-i-ad-41-54-av-aureus-20mm-784-gm-11h-ngc-ms-4-5-4-5/a/3115-31054.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:Claudius I (AD 41-54). AV aureus (20mm, 7.84\ngm, 11h). NGC MS 4/5 - 4/5.",
-      "description": "",
-      "hammer_price_usd": 126000.0,
-      "currency_original": "USD",
-      "price_original": 126000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2024-05-10",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-9-9-4-0-29940026&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "heritage-bbe06667bd50",
       "source": "heritage",
       "listing_type": "auction_realized",
@@ -437,38 +533,6 @@
         "cert_number": null,
         "grade": "XF",
         "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-d8178f3aae7a",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-claudius-i-ad-41-54-av-aureus-19mm-772-gm-8h-ngc-ms-5-5-4-5/a/3109-31043.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:Claudius I (AD 41-54). AV aureus (19mm, 7.72\ngm, 8h). NGC MS\u2605 5/5 - 4/5.",
-      "description": "",
-      "hammer_price_usd": 132000.0,
-      "currency_original": "USD",
-      "price_original": 132000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2023-08-19",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-8-4-6-4-28464468&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
@@ -964,38 +1028,6 @@
       }
     },
     {
-      "id": "heritage-7bbd60843aec",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-claudius-i-ad-41-54-av-aureus-19mm-774-gm-7h-ngc-ms-5-5-4-5/a/3091-31039.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:Claudius I (AD 41-54). AV aureus (19mm, 7.74\ngm, 7h). NGC MS\u2605 5/5 - 4/5.",
-      "description": "",
-      "hammer_price_usd": 144000.0,
-      "currency_original": "USD",
-      "price_original": 144000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2021-05-07",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-3-6-5-4-23654460&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "heritage-4b9e3f607d99",
       "source": "heritage",
       "listing_type": "auction_realized",
@@ -1143,38 +1175,6 @@
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-502f1875ce92",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-claudius-i-ad-41-54-av-aureus-20mm-779-gm-3h-ngc-choice-au-5-5-4-5/a/3081-32055.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:Claudius I (AD 41-54). AV aureus (20mm, 7.79\ngm, 3h). NGC Choice AU\u2605 5/5 - 4/5.",
-      "description": "",
-      "hammer_price_usd": 31200.0,
-      "currency_original": "USD",
-      "price_original": 31200.0,
-      "buyers_premium_included": false,
-      "sale_date": "2020-01-13",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-1-4-0-1-21401477&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

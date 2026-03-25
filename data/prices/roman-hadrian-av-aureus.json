@@ -8,19 +8,19 @@
   "ruler_rarity": null,
   "denomination": "AV Aureus",
   "metal": "gold",
-  "sale_count": 68,
-  "realized_count": 68,
+  "sale_count": 70,
+  "realized_count": 70,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 1950.0,
     "max": 126000.0
   },
-  "median_price_usd": 5040.0,
+  "median_price_usd": 5280.0,
   "last_sale_date": "2026-01-12",
   "grade_distribution": {
     "MS": 3,
-    "AU": 12,
+    "AU": 14,
     "XF": 13,
     "VF": 30,
     "F": 10
@@ -68,6 +68,70 @@
       }
     },
     {
+      "id": "heritage-b94a282db3b7",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-hadrian-ad-117-138-av-aureus-20mm-713-gm-5h-ngc-ms-5-5-5-5-fine-style/a/3094-32041.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Hadrian (AD 117-138). AV aureus (20mm, 7.13 gm,\n5h). NGC MS\u2605 5/5 - 5/5, Fine Style.",
+      "description": "Auction 3094 | Lot 32041 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 96000.0,
+      "currency_original": "USD",
+      "price_original": 96000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2021-08-20",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-4-3-9-1-24391549&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-d15c7a4b7130",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-hadrian-ad-117-138-av-aureus-21mm-741-gm-6h-ngc-ms-5-5-4-5-fine-style/a/3096-30054.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Hadrian (AD 117-138). AV aureus (21mm, 7.41 gm,\n6h). NGC MS\u2605 5/5 - 4/5, Fine Style.",
+      "description": "Auction 3096 | Lot 30054 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 111000.0,
+      "currency_original": "USD",
+      "price_original": 111000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2021-03-25",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-3-4-9-5-23495214&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "heritage-7047deae3b4c",
       "source": "heritage",
       "listing_type": "auction_realized",
@@ -80,6 +144,198 @@
       "buyers_premium_included": false,
       "sale_date": "2025-08-29",
       "image_url": "https://dyn1.heritagestatic.com/ha?p=3-2-6-8-6-32686601&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-572c176af052",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-hadrian-ad-117-138-av-aureus-21mm-730-gm-6h-ngc-choice-au-5-5-5-5-fine-style/a/3121-33073.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Hadrian (AD 117-138). AV aureus (21mm, 7.30 gm,\n6h). NGC Choice AU \u2605 5/5 - 5/5, Fine Style.",
+      "description": "Auction 3121 | Lot 33073 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 126000.0,
+      "currency_original": "USD",
+      "price_original": 126000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-01-13",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-0-9-9-7-30997662&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-c81bf310cd2a",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-hadrian-ad-117-138-av-aureus-19mm-723-gm-6h-ngc-choice-au-5-5-4-5-fine-style-edge-filing/a/3094-32040.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Hadrian (AD 117-138). AV aureus (19mm, 7.23 gm,\n6h). NGC Choice AU 5/5 - 4/5, Fine Style, edge filing.",
+      "description": "Auction 3094 | Lot 32040 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 43200.0,
+      "currency_original": "USD",
+      "price_original": 43200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2021-08-20",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-4-3-7-5-24375637&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-d2adba8c6d95",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-hadrian-ad-117-138-av-aureus-21mm-711-gm-6h-ngc-choice-au-5-5-4-5-light-scratches/a/3088-33030.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Hadrian (AD 117-138). AV aureus (21mm, 7.11 gm,\n6h). NGC Choice AU 5/5 - 4/5, light scratches.",
+      "description": "Auction 3088 | Lot 33030 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 21600.0,
+      "currency_original": "USD",
+      "price_original": 21600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2020-11-06",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-2-9-3-3-22933764&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-159aa29c68a1",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-hadrian-ad-117-138-av-aureus-19mm-732-gm-6h-ngc-choice-au-5-5-3-5-fine-style-marks/a/3071-32096.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Hadrian (AD 117-138). AV aureus (19mm, 7.32 gm,\n6h). NGC Choice AU 5/5 - 3/5, Fine Style, marks.",
+      "description": "Auction 3071 | Lot 32096 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 9600.0,
+      "currency_original": "USD",
+      "price_original": 9600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-01-07",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-1-9-19519101&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-ece7423a75ba",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-hadrian-ad-117-138-av-aureus-20mm-737-gm-6h-ngc-choice-au-5-5-4-5-fine-styleandnbsp-/a/3061-32098.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Hadrian (AD 117-138). AV aureus (20mm, 7.37 gm,\n6h). NGC Choice AU 5/5 - 4/5, Fine Style.",
+      "description": "Auction 3061 | Lot 32098 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 33600.0,
+      "currency_original": "USD",
+      "price_original": 33600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2018-01-08",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-6-1-5-7-16157889&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-24905fafea10",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-hadrian-ad-117-138-av-aureus-20mm-712-gm-6h-ngc-choice-au-5-5-5-5-fine-style/a/3056-30012.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Hadrian (AD 117-138). AV aureus (20mm, 7.12 gm,\n6h). NGC Choice AU\u2605 5/5 - 5/5, Fine Style.",
+      "description": "Auction 3056 | Lot 30012 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 67562.5,
+      "currency_original": "USD",
+      "price_original": 67562.5,
+      "buyers_premium_included": false,
+      "sale_date": "2017-08-03",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-5-5-9-2-15592514&w=120&h=300&it=product",
       "ngc": {
         "verified": false,
         "cert_number": null,
@@ -407,38 +663,6 @@
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-572c176af052",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-hadrian-ad-117-138-av-aureus-21mm-730-gm-6h-ngc-choice-au-5-5-5-5-fine-style/a/3121-33073.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:Hadrian (AD 117-138). AV aureus (21mm, 7.30 gm,\n6h). NGC Choice AU\u26055/5 - 5/5, Fine Style.",
-      "description": "",
-      "hammer_price_usd": 126000.0,
-      "currency_original": "USD",
-      "price_original": 126000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-01-13",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-0-9-9-7-30997662&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"
@@ -1284,70 +1508,6 @@
       }
     },
     {
-      "id": "heritage-c81bf310cd2a",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-hadrian-ad-117-138-av-aureus-19mm-723-gm-6h-ngc-choice-au-5-5-4-5-fine-style-edge-filing/a/3094-32040.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:Hadrian (AD 117-138). AV aureus (19mm, 7.23 gm,\n6h). NGC Choice AU 5/5 - 4/5, Fine Style, edge filing.",
-      "description": "",
-      "hammer_price_usd": 43200.0,
-      "currency_original": "USD",
-      "price_original": 43200.0,
-      "buyers_premium_included": false,
-      "sale_date": "2021-08-20",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-4-3-7-5-24375637&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-b94a282db3b7",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-hadrian-ad-117-138-av-aureus-20mm-713-gm-5h-ngc-ms-5-5-5-5-fine-style/a/3094-32041.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:Hadrian (AD 117-138). AV aureus (20mm, 7.13 gm,\n5h). NGC MS\u2605 5/5 - 5/5, Fine Style.",
-      "description": "",
-      "hammer_price_usd": 96000.0,
-      "currency_original": "USD",
-      "price_original": 96000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2021-08-20",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-4-3-9-1-24391549&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "heritage-1e44217ff642",
       "source": "heritage",
       "listing_type": "auction_realized",
@@ -1476,38 +1636,6 @@
       }
     },
     {
-      "id": "heritage-d15c7a4b7130",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-hadrian-ad-117-138-av-aureus-21mm-741-gm-6h-ngc-ms-5-5-4-5-fine-style/a/3096-30054.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:Hadrian (AD 117-138). AV aureus (21mm, 7.41 gm,\n6h). NGC MS\u2605 5/5 - 4/5, Fine Style.",
-      "description": "",
-      "hammer_price_usd": 111000.0,
-      "currency_original": "USD",
-      "price_original": 111000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2021-03-25",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-3-4-9-5-23495214&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "heritage-fb878b3e25d0",
       "source": "heritage",
       "listing_type": "auction_realized",
@@ -1524,38 +1652,6 @@
         "verified": false,
         "cert_number": null,
         "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-d2adba8c6d95",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-hadrian-ad-117-138-av-aureus-21mm-711-gm-6h-ngc-choice-au-5-5-4-5-light-scratches/a/3088-33030.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:Hadrian (AD 117-138). AV aureus (21mm, 7.11 gm,\n6h). NGC Choice AU 5/5 - 4/5, light scratches.",
-      "description": "",
-      "hammer_price_usd": 21600.0,
-      "currency_original": "USD",
-      "price_original": 21600.0,
-      "buyers_premium_included": false,
-      "sale_date": "2020-11-06",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-2-9-3-3-22933764&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 4,
@@ -2007,38 +2103,6 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-159aa29c68a1",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-hadrian-ad-117-138-av-aureus-19mm-732-gm-6h-ngc-choice-au-5-5-3-5-fine-style-marks/a/3071-32096.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:Hadrian (AD 117-138). AV aureus (19mm, 7.32 gm,\n6h). NGC Choice AU 5/5 - 3/5, Fine Style, marks.",
-      "description": "",
-      "hammer_price_usd": 9600.0,
-      "currency_original": "USD",
-      "price_original": 9600.0,
-      "buyers_premium_included": false,
-      "sale_date": "2019-01-07",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-1-9-19519101&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 3,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

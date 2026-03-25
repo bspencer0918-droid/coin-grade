@@ -4,7 +4,7 @@
   "ruler": "Claudius",
   "ruler_normalized": "claudius",
   "dynasty": "Julio-Claudian",
-  "ruler_dates": "AD 41\u201354",
+  "ruler_dates": "AD 41\u00e2\u20ac\u201c54",
   "ruler_rarity": null,
   "denomination": "AE Dupondius",
   "metal": "bronze",
@@ -19,19 +19,51 @@
   "median_price_usd": 830.0,
   "last_sale_date": "2026-01-16",
   "grade_distribution": {
-    "VF": 1,
-    "AU": 1
+    "AU": 1,
+    "VF": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/84a207352bdaea297b2fbbe11f21f951/img/ponterio/236/image45388.jpg",
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-2-5-3-0-22530804&w=120&h=300&it=product",
   "median_weight_g": null,
-  "top_strike_score": 5,
-  "top_surface_score": 3,
-  "top_grade_numeric": null,
+  "top_strike_score": 4,
+  "top_surface_score": 4,
+  "top_grade_numeric": 4,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "heritage-0a5949eec705",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-claudius-i-ad-41-54-ae-dupondius-29mm-1151-gm-1h-ngc-choice-au-4-5-4-5/a/3085-31124.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Claudius I (AD 41-54). AE dupondius (29mm,\n11.51 gm, 1h). NGC Choice AU 4/5 - 4/5.",
+      "description": "Auction 3085 | Lot 31124 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 1260.0,
+      "currency_original": "USD",
+      "price_original": 1260.0,
+      "buyers_premium_included": false,
+      "sale_date": "2020-08-07",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-2-5-3-0-22530804&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-6209bb188a1b",
       "source": "coinarchives",
@@ -52,38 +84,6 @@
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-0a5949eec705",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-claudius-i-ad-41-54-ae-dupondius-29mm-1151-gm-1h-ngc-choice-au-4-5-4-5/a/3085-31124.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:Claudius I (AD 41-54). AE dupondius (29mm,\n11.51 gm, 1h). NGC Choice AU 4/5 - 4/5.",
-      "description": "",
-      "hammer_price_usd": 1260.0,
-      "currency_original": "USD",
-      "price_original": 1260.0,
-      "buyers_premium_included": false,
-      "sale_date": "2020-08-07",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-2-5-3-0-22530804&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 4,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

@@ -1,0 +1,131 @@
+{
+  "slug": "roman-tiberius-ar-tetradrachm",
+  "category": "roman",
+  "ruler": "Tiberius",
+  "ruler_normalized": "tiberius",
+  "dynasty": "Julio-Claudian",
+  "ruler_dates": "AD 14\u00e2\u20ac\u201c37",
+  "ruler_rarity": null,
+  "denomination": "AR Tetradrachm",
+  "metal": "silver",
+  "sale_count": 3,
+  "realized_count": 3,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 3120.0,
+    "max": 5124.0
+  },
+  "median_price_usd": 3720.0,
+  "last_sale_date": "2026-01-23",
+  "grade_distribution": {
+    "MS": 3
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-3-5-9-0-33590275&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 3,
+  "top_grade_numeric": 5,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-1713cbb760c1",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-egypt-alexandria-tiberius-ad-14-37-bi-tetradrachm-24mm-1392-gm-12h-ngc-ms-5-5-3-5/a/3130-36056.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: EGYPT. Alexandria. Tiberius (AD 14-37). BI\ntetradrachm (24mm, 13.92 gm, 12h). NGC MS 5/5 - 3/5.",
+      "description": "Auction 3130 | Lot 36056 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Provincial",
+      "hammer_price_usd": 5124.0,
+      "currency_original": "USD",
+      "price_original": 5124.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-23",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-3-5-9-0-33590275&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-e2c856ee3188",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-egypt-alexandria-tiberius-ad-14-37-bi-tetradrachm-24mm-1146-gm-12h-ngc-ms-5-5-2-5/a/61324-25074.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: EGYPT. Alexandria. Tiberius (AD 14-37). BI\ntetradrachm (24mm, 11.46 gm, 12h). NGC MS 5/5 - 2/5.",
+      "description": "Auction 61324 | Lot 25074 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Provincial",
+      "hammer_price_usd": 3120.0,
+      "currency_original": "USD",
+      "price_original": 3120.0,
+      "buyers_premium_included": false,
+      "sale_date": "2023-09-10",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-8-3-4-1-28341735&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-425061e44832",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-egypt-alexandria-tiberius-ad-14-37-bi-tetradrachm-24mm-1392-gm-12h-ngc-ms-5-5-3-5/a/3098-33245.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: EGYPT. Alexandria. Tiberius (AD 14-37). BI\ntetradrachm (24mm, 13.92 gm, 12h). NGC MS 5/5 - 3/5.",
+      "description": "Auction 3098 | Lot 33245 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Provincial",
+      "hammer_price_usd": 3720.0,
+      "currency_original": "USD",
+      "price_original": 3720.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-01-19",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-5-2-7-4-25274912&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}
