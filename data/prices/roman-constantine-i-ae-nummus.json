@@ -4,33 +4,65 @@
   "ruler": "Constantine I",
   "ruler_normalized": "constantine-i",
   "dynasty": "Constantinian",
-  "ruler_dates": "AD 307\u2013337",
+  "ruler_dates": "AD 307\u00e2\u20ac\u201c337",
   "ruler_rarity": null,
   "denomination": "AE Nummus",
   "metal": "bronze",
-  "sale_count": 5,
-  "realized_count": 4,
+  "sale_count": 6,
+  "realized_count": 5,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 60.0,
-    "max": 420.0
+    "max": 16800.0
   },
-  "median_price_usd": 260.0,
+  "median_price_usd": 300.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "AU": 5
+    "AU": 6
   },
-  "thumbnail_url": "https://media.coinarchives.com/563f48bd5a73ec8447a8725adcf65cf0/img/ponterio/236/image45512.jpg",
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-0-8-5-3-30853806&w=120&h=300&it=product",
   "median_weight_g": null,
-  "top_strike_score": null,
-  "top_surface_score": null,
+  "top_strike_score": 5,
+  "top_surface_score": 4,
   "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "heritage-f14d7e233777",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-constantine-i-the-great-ad-307-337-ae3-or-bi-nummus-18mm-311-gm-1h-ngc-au-5-5-4-5/a/3119-30045.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Constantine I the Great (AD 307-337). AE3 or BI\nnummus (18mm, 3.11 gm, 1h). NGC AU\u2605 5/5 - 4/5.",
+      "description": "",
+      "hammer_price_usd": 16800.0,
+      "currency_original": "USD",
+      "price_original": 16800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2024-11-02",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-0-8-5-3-30853806&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "numisbids-7e6ca223fd74",
       "source": "numisbids",

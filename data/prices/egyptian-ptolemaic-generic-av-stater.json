@@ -1,0 +1,100 @@
+{
+  "slug": "egyptian-ptolemaic-generic-av-stater",
+  "category": "egyptian",
+  "ruler": "Ptolemaic (generic)",
+  "ruler_normalized": "ptolemaic-generic",
+  "dynasty": "Ptolemaic",
+  "ruler_dates": null,
+  "ruler_rarity": null,
+  "denomination": "AV Stater",
+  "metal": "gold",
+  "sale_count": 2,
+  "realized_count": 2,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 10200.0,
+    "max": 18000.0
+  },
+  "median_price_usd": 14100.0,
+  "last_sale_date": "2024-11-02",
+  "grade_distribution": {
+    "XF": 1,
+    "AU": 1
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-1-0-9-9-31099068&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 2,
+  "top_grade_numeric": 5,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-78eb698b0ae6",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-cyrenaica-cyrene-ophellas-ptolemaic-governor-ca-322-1-308-bc-av-stater-18mm-861-gm-11h-ngc-choice-xf-4-5-4-5-fine/a/3119-30010.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:CYRENAICA. Cyrene. Ophellas, Ptolemaic Governor\n(ca. 322/1-308 BC). AV stater (18mm, 8.61 gm, 11h). NGC Choice XF\n4/5 - 4/5, Fine Style, edge marks.",
+      "description": "",
+      "hammer_price_usd": 10200.0,
+      "currency_original": "USD",
+      "price_original": 10200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2024-11-02",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-1-0-9-9-31099068&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-ac5dfd429bbc",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-cyrenaica-cyrene-ophellas-ptolemaic-governor-ca-322-1-308-bc-av-stater-19mm-851-gm-1h-ngc-au-5-5-2-5-fine-style-/a/3115-31032.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:CYRENAICA. Cyrene. Ophellas, Ptolemaic Governor\n(ca. 322/1-308 BC). AV stater (19mm, 8.51 gm, 1h). NGC AU 5/5 -\n2/5, Fine Style, ex-jewelry, brushed.",
+      "description": "",
+      "hammer_price_usd": 18000.0,
+      "currency_original": "USD",
+      "price_original": 18000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2024-05-10",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-9-9-8-9-29989116&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

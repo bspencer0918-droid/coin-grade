@@ -1,0 +1,67 @@
+{
+  "slug": "roman-caligula-ar-denarius",
+  "category": "roman",
+  "ruler": "Caligula",
+  "ruler_normalized": "caligula",
+  "dynasty": "Julio-Claudian",
+  "ruler_dates": "AD 37\u00e2\u20ac\u201c41",
+  "ruler_rarity": null,
+  "denomination": "AR Denarius",
+  "metal": "silver",
+  "sale_count": 1,
+  "realized_count": 1,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 15600.0,
+    "max": 15600.0
+  },
+  "median_price_usd": 15600.0,
+  "last_sale_date": "2025-11-07",
+  "grade_distribution": {
+    "XF": 1
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-3-2-2-4-33224587&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 4,
+  "top_grade_numeric": 5,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-5744949c2a11",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-gaius-caligula-ad-37-41-ar-denarius-19mm-353-gm-4h-ngc-choice-xf-5-5-4-5/a/3126-31031.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Gaius (Caligula) (AD 37-41). AR denarius (19mm,\n3.53 gm, 4h). NGC Choice XF 5/5 - 4/5.",
+      "description": "",
+      "hammer_price_usd": 15600.0,
+      "currency_original": "USD",
+      "price_original": 15600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-07",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-3-2-2-4-33224587&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

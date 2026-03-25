@@ -8,29 +8,126 @@
   "ruler_rarity": null,
   "denomination": "AE Sestertius",
   "metal": "bronze",
-  "sale_count": 1,
-  "realized_count": 1,
+  "sale_count": 4,
+  "realized_count": 4,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 800.0,
-    "max": 800.0
+    "max": 10370.0
   },
-  "median_price_usd": 800.0,
+  "median_price_usd": 7105.0,
   "last_sale_date": "2026-01-16",
   "grade_distribution": {
-    "VF": 1
+    "AU": 2,
+    "VF": 2
   },
-  "thumbnail_url": "https://media.coinarchives.com/3660316ca325064beaf585dfb82a86ba/img/ponterio/236/image40249.jpg",
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-3-6-3-8-33638871&w=120&h=300&it=product",
   "median_weight_g": null,
-  "top_strike_score": 5,
-  "top_surface_score": 4,
-  "top_grade_numeric": null,
+  "top_strike_score": 4,
+  "top_surface_score": 3,
+  "top_grade_numeric": 4,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "heritage-285caafff76b",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-didius-julianus-28-march-1-june-ad-193-ae-sestertius-31mm-2036-gm-7h-ngc-au-4-5-3-5-light-smoothing/a/3129-34084.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Didius Julianus (28 March-1 June AD 193). AE\nsestertius (31mm, 20.36 gm, 7h). NGC AU 4/5 - 3/5, light\nsmoothing.",
+      "description": "",
+      "hammer_price_usd": 10370.0,
+      "currency_original": "USD",
+      "price_original": 10370.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-12",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-3-6-3-8-33638871&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-285caafff76b",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-didius-julianus-28-march-1-june-ad-193-ae-sestertius-31mm-2036-gm-7h-ngc-au-4-5-3-5-light-smoothing/a/3129-34084.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Didius Julianus (28 March-1 June AD 193). AE\nsestertius (31mm, 20.36 gm, 7h). NGC AU 4/5 - 3/5, light\nsmoothing.",
+      "description": "",
+      "hammer_price_usd": 10370.0,
+      "currency_original": "USD",
+      "price_original": 10370.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-12",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-3-6-3-8-33638871&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-9a6408a53c8e",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-gordian-i-africanus-march-april-ad-238-ae-sestertius-32mm-2492-gm-11h-ngc-choice-vf-5-5-4-5/a/3123-31128.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Gordian I Africanus (March-April AD 238). AE\nsestertius (32mm, 24.92 gm, 11h). NGC Choice VF 5/5 - 4/5.",
+      "description": "",
+      "hammer_price_usd": 3840.0,
+      "currency_original": "USD",
+      "price_original": 3840.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-05-02",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-2-0-7-9-32079877&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-ea6b01bde02a",
       "source": "coinarchives",

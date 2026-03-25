@@ -1,0 +1,67 @@
+{
+  "slug": "greek-alexander-iii-av-solidus",
+  "category": "greek",
+  "ruler": "Alexander III",
+  "ruler_normalized": "alexander-iii",
+  "dynasty": "Macedonian",
+  "ruler_dates": null,
+  "ruler_rarity": null,
+  "denomination": "AV Solidus",
+  "metal": "gold",
+  "sale_count": 1,
+  "realized_count": 1,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 24000.0,
+    "max": 24000.0
+  },
+  "median_price_usd": 24000.0,
+  "last_sale_date": "2024-11-02",
+  "grade_distribution": {
+    "VF": 1
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-1-0-9-2-31092297&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 2,
+  "top_grade_numeric": 5,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-d0674b56852d",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-alexander-ad-912-913-av-solidus-20mm-377-gm-6h-ngc-vf-5-5-2-5-ex-jewelry/a/3119-30047.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Alexander (AD 912-913). AV solidus (20mm, 3.77\ngm, 6h). NGC VF 5/5 - 2/5, ex-jewelry.",
+      "description": "",
+      "hammer_price_usd": 24000.0,
+      "currency_original": "USD",
+      "price_original": 24000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2024-11-02",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-1-0-9-2-31092297&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

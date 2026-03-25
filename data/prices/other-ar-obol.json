@@ -7,33 +7,65 @@
   "ruler_dates": null,
   "ruler_rarity": null,
   "denomination": "AR Obol",
-  "metal": "unknown",
-  "sale_count": 6,
-  "realized_count": 4,
+  "metal": "silver",
+  "sale_count": 7,
+  "realized_count": 5,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 100.0,
-    "max": 605.0
+    "max": 1920.0
   },
-  "median_price_usd": 245.0,
+  "median_price_usd": 250.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
+    "XF": 2,
     "VF": 1,
     "F": 1,
-    "G": 3,
-    "XF": 1
+    "G": 3
   },
-  "thumbnail_url": "https://media.coinarchives.com/b532292da2c013cf2c0845db9e05c3ec/img/nac/autumn2025/image02579.jpg",
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-2-0-6-4-32064339&w=120&h=300&it=product",
   "median_weight_g": null,
-  "top_strike_score": null,
-  "top_surface_score": null,
-  "top_grade_numeric": null,
+  "top_strike_score": 3,
+  "top_surface_score": 4,
+  "top_grade_numeric": 3,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "heritage-9927ea91c52e",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/judaea/ancients-judaea-yehud-era-macedonian-period-ca-333-302-bc-ar-half-obol-7mm-024-gm-1h-ngc-choice-xf-3-5-4-5/a/3123-31094.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:JUDAEA. Yehud Era. Macedonian Period (ca.\n333-302 BC). AR half-obol (7mm, 0.24 gm, 1h). NGC Choice XF 3/5 -\n4/5.",
+      "description": "",
+      "hammer_price_usd": 1920.0,
+      "currency_original": "USD",
+      "price_original": 1920.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-05-02",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-2-0-6-4-32064339&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 3,
+        "strike_score": 3,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "numisbids-13828769c026",
       "source": "numisbids",

@@ -8,30 +8,62 @@
   "ruler_rarity": null,
   "denomination": "AR Obol",
   "metal": "gold",
-  "sale_count": 2,
-  "realized_count": 2,
+  "sale_count": 3,
+  "realized_count": 3,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 105.0,
-    "max": 850.0
+    "max": 1200.0
   },
-  "median_price_usd": 477.5,
+  "median_price_usd": 850.0,
   "last_sale_date": "2026-01-16",
   "grade_distribution": {
-    "AU": 1,
+    "AU": 2,
     "XF": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/ae55d5d20856a19c495f1b686f5ac943/img/ponterio/236/image40183.jpg",
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-2-3-9-9-32399996&w=120&h=300&it=product",
   "median_weight_g": null,
   "top_strike_score": 4,
-  "top_surface_score": 3,
-  "top_grade_numeric": null,
+  "top_surface_score": 5,
+  "top_grade_numeric": 4,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "heritage-805c5f2e414d",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-cyrenaica-cyrene-governor-magas-or-second-cyrenian-revolt-ca-late-4th-century-bc-av-1-10-stater-or-obol-6mm-071-gm-11h-/a/3125-35114.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:CYRENAICA. Cyrene. Governor Magas or Second\nCyrenian Revolt (ca. late 4th century BC). AV 1/10 stater or obol\n(6mm, 0.71 gm, 11h). NGC AU 4/5 - 5/5.",
+      "description": "",
+      "hammer_price_usd": 1200.0,
+      "currency_original": "USD",
+      "price_original": 1200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-08-29",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-2-3-9-9-32399996&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-e51c25087914",
       "source": "coinarchives",

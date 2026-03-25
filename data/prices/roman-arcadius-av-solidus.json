@@ -4,33 +4,65 @@
   "ruler": "Arcadius",
   "ruler_normalized": "arcadius",
   "dynasty": "Theodosian",
-  "ruler_dates": "AD 395\u2013408",
+  "ruler_dates": "AD 395\u00e2\u20ac\u201c408",
   "ruler_rarity": null,
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 1,
-  "realized_count": 1,
+  "sale_count": 2,
+  "realized_count": 2,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 1200.0,
+    "min": 1080.0,
     "max": 1200.0
   },
-  "median_price_usd": 1200.0,
+  "median_price_usd": 1140.0,
   "last_sale_date": "2026-01-16",
   "grade_distribution": {
-    "AU": 1
+    "AU": 2
   },
-  "thumbnail_url": "https://media.coinarchives.com/a48fdc01cb812c81b47cbb90b34f8317/img/ponterio/236/image40258.jpg",
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-1-2-4-8-31248793&w=120&h=300&it=product",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 2,
-  "top_grade_numeric": null,
+  "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "heritage-9992d88d24cf",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-arcadius-eastern-roman-empire-ad-383-408-av-solidus-20mm-443-gm-6h-ngc-choice-au-5-5-2-5-brushed/a/3120-31049.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Arcadius, Eastern Roman Empire (AD 383-408). AV\nsolidus (20mm, 4.43 gm, 6h). NGC Choice AU 5/5 - 2/5, brushed.",
+      "description": "",
+      "hammer_price_usd": 1080.0,
+      "currency_original": "USD",
+      "price_original": 1080.0,
+      "buyers_premium_included": false,
+      "sale_date": "2024-12-10",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-1-2-4-8-31248793&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-a0d600edf1f6",
       "source": "coinarchives",

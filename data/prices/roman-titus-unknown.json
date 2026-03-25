@@ -1,0 +1,67 @@
+{
+  "slug": "roman-titus-unknown",
+  "category": "roman",
+  "ruler": "Titus",
+  "ruler_normalized": "titus",
+  "dynasty": "Flavian",
+  "ruler_dates": "AD 79\u00e2\u20ac\u201c81",
+  "ruler_rarity": null,
+  "denomination": "Unknown",
+  "metal": "silver",
+  "sale_count": 1,
+  "realized_count": 1,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 840.0,
+    "max": 840.0
+  },
+  "median_price_usd": 840.0,
+  "last_sale_date": "2025-08-29",
+  "grade_distribution": {
+    "MS": 1
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-2-6-7-2-32672841&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 4,
+  "top_grade_numeric": 5,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-565fa5fe551d",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-divus-titus-ad-79-81-ar-antoninianus-22mm-454-gm-11h-ngc-ms-5-5-4-5/a/3125-34055.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:Divus Titus (AD 79-81). AR antoninianus (22mm,\n4.54 gm, 11h). NGC MS 5/5 - 4/5.",
+      "description": "",
+      "hammer_price_usd": 840.0,
+      "currency_original": "USD",
+      "price_original": 840.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-08-29",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-2-6-7-2-32672841&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}
