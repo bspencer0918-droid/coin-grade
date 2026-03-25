@@ -4,7 +4,7 @@
   "ruler": "Marcus Aurelius",
   "ruler_normalized": "marcus-aurelius",
   "dynasty": "Nerva-Antonine",
-  "ruler_dates": "AD 161\u00e2\u20ac\u201c180",
+  "ruler_dates": "AD 161\u2013180",
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
@@ -19,20 +19,84 @@
   "median_price_usd": 1800.0,
   "last_sale_date": "2026-01-16",
   "grade_distribution": {
+    "XF": 2,
     "G": 2,
-    "MS": 2,
-    "XF": 2
+    "MS": 2
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-9-9-9-3-29993690&w=120&h=300&it=product",
+  "thumbnail_url": "https://media.coinarchives.com/b5c186808b5e76b1aed6bb52ddf5614a/img/ponterio/236/image45424.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 5,
-  "top_grade_numeric": 5,
+  "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-3d97000c22f6",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2695527&AucID=6923&Lot=45424&Val=9165f9eb421a8d94a3a103e3377c6915",
+      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 45424 \u2014 MARCUS AURELIUS, A.D. 161-180. AR Denarius (3.48 gms), Rome Mint, A.D. 163. NGC EF, Strike: 5/5 Surface: 5/5.\nTo view all items from the Connecticut Collection, click  here.\nRIC-64; RSC-37A. Obverse: ",
+      "description": "MARCUS AURELIUS, A.D. 161-180. AR Denarius (3.48 gms), Rome Mint, A.D. 163. NGC EF, Strike: 5/5 Surface: 5/5.\nTo view all items from the Connecticut Collection, click  here.\nRIC-64; RSC-37A. Obverse: Bare bust right; Reverse: Concordia seated left, holding patera resting arm on Spes on cornucopia.\n\nFrom the Connecticut Collection. \n\nEx: Classical Numismatic Group 39 (9/1996) Lot # 1479.\n\nEstimate: 75 - 150...",
+      "hammer_price_usd": 420.0,
+      "currency_original": "USD",
+      "price_original": 420.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": "https://media.coinarchives.com/b5c186808b5e76b1aed6bb52ddf5614a/img/ponterio/236/image45424.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-277ece99178c",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2695529&AucID=6923&Lot=45426&Val=82431829ba132a93178bd62f4f0c9983",
+      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 45426 \u2014 MARCUS AURELIUS, A.D. 161-180. AR Denarius, Rome Mint, A.D. 161-180. NGC EF.\nTo view all items from the Cookie Family Collection, click  here.\nRIC-248; RSC-1031. Obverse: Laureate head right; Reverse:",
+      "description": "MARCUS AURELIUS, A.D. 161-180. AR Denarius, Rome Mint, A.D. 161-180. NGC EF.\nTo view all items from the Cookie Family Collection, click  here.\nRIC-248; RSC-1031. Obverse: Laureate head right; Reverse: Marcus Aurelius standing left hold volumen.\n\nFrom the Cookie Family Collection.\n\nEx: Classical Numismatic Group (8/2001) Lot # 63831.\n\nEstimate: 75 - 150...",
+      "hammer_price_usd": 340.0,
+      "currency_original": "USD",
+      "price_original": 340.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": "https://media.coinarchives.com/001d2323a67160bdb3d8ff76730e43d9/img/ponterio/236/image45426.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-3de0970316e2",
       "source": "heritage",
@@ -149,70 +213,6 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-3d97000c22f6",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2695527&AucID=6923&Lot=45424&Val=9165f9eb421a8d94a3a103e3377c6915",
-      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 45424 \u2014 MARCUS AURELIUS, A.D. 161-180. AR Denarius (3.48 gms), Rome Mint, A.D. 163. NGC EF, Strike: 5/5 Surface: 5/5.\nTo view all items from the Connecticut Collection, click  here.\nRIC-64; RSC-37A. Obverse: ",
-      "description": "MARCUS AURELIUS, A.D. 161-180. AR Denarius (3.48 gms), Rome Mint, A.D. 163. NGC EF, Strike: 5/5 Surface: 5/5.\nTo view all items from the Connecticut Collection, click  here.\nRIC-64; RSC-37A. Obverse: Bare bust right; Reverse: Concordia seated left, holding patera resting arm on Spes on cornucopia.\n\nFrom the Connecticut Collection. \n\nEx: Classical Numismatic Group 39 (9/1996) Lot # 1479.\n\nEstimate: 75 - 150...",
-      "hammer_price_usd": 420.0,
-      "currency_original": "USD",
-      "price_original": 420.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-16",
-      "image_url": "https://media.coinarchives.com/b5c186808b5e76b1aed6bb52ddf5614a/img/ponterio/236/image45424.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-277ece99178c",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2695529&AucID=6923&Lot=45426&Val=82431829ba132a93178bd62f4f0c9983",
-      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 45426 \u2014 MARCUS AURELIUS, A.D. 161-180. AR Denarius, Rome Mint, A.D. 161-180. NGC EF.\nTo view all items from the Cookie Family Collection, click  here.\nRIC-248; RSC-1031. Obverse: Laureate head right; Reverse:",
-      "description": "MARCUS AURELIUS, A.D. 161-180. AR Denarius, Rome Mint, A.D. 161-180. NGC EF.\nTo view all items from the Cookie Family Collection, click  here.\nRIC-248; RSC-1031. Obverse: Laureate head right; Reverse: Marcus Aurelius standing left hold volumen.\n\nFrom the Cookie Family Collection.\n\nEx: Classical Numismatic Group (8/2001) Lot # 63831.\n\nEstimate: 75 - 150...",
-      "hammer_price_usd": 340.0,
-      "currency_original": "USD",
-      "price_original": 340.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-16",
-      "image_url": "https://media.coinarchives.com/001d2323a67160bdb3d8ff76730e43d9/img/ponterio/236/image45426.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

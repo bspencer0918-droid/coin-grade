@@ -4,7 +4,7 @@
   "ruler": "Lucius Verus",
   "ruler_normalized": "lucius-verus",
   "dynasty": "Nerva-Antonine",
-  "ruler_dates": "AD 161\u00e2\u20ac\u201c169",
+  "ruler_dates": "AD 161\u2013169",
   "ruler_rarity": null,
   "denomination": "AE Sestertius",
   "metal": "bronze",
@@ -19,20 +19,52 @@
   "median_price_usd": 2160.0,
   "last_sale_date": "2026-03-25",
   "grade_distribution": {
+    "F": 1,
     "AU": 1,
-    "XF": 1,
-    "F": 1
+    "XF": 1
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-3-2-9-3-23293651&w=120&h=300&it=product",
   "median_weight_g": null,
-  "top_strike_score": 5,
-  "top_surface_score": 4,
-  "top_grade_numeric": 5,
+  "top_strike_score": null,
+  "top_surface_score": null,
+  "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "hjb-a10961768928",
+      "source": "hjb",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/106052",
+      "title": "Lucius Verus. Sestertius",
+      "description": "",
+      "hammer_price_usd": 850.0,
+      "currency_original": "USD",
+      "price_original": 850.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-25",
+      "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc106052a.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "991786790",
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": "https://www.ngccoin.com/certlookup/991786790/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "EMS SOS",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-95a1c2e7bf29",
       "source": "heritage",
@@ -91,38 +123,6 @@
       },
       "metadata": {
         "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "hjb-a10961768928",
-      "source": "hjb",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/106052",
-      "title": "Lucius Verus. Sestertius",
-      "description": "",
-      "hammer_price_usd": 850.0,
-      "currency_original": "USD",
-      "price_original": 850.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-25",
-      "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc106052a.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": "991786790",
-        "grade": "F",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "certification_url": "https://www.ngccoin.com/certlookup/991786790/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "EMS SOS",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

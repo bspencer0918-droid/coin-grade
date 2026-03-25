@@ -4,7 +4,7 @@
   "ruler": "Trajan",
   "ruler_normalized": "trajan",
   "dynasty": "Nerva-Antonine",
-  "ruler_dates": "AD 98\u00e2\u20ac\u201c117",
+  "ruler_dates": "AD 98\u2013117",
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
@@ -19,51 +19,19 @@
   "median_price_usd": 645.0,
   "last_sale_date": "2026-02-23",
   "grade_distribution": {
-    "AU": 1,
-    "F": 1
+    "F": 1,
+    "AU": 1
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-6-4-6-9-26469505&w=120&h=300&it=product",
+  "thumbnail_url": "https://media.coinarchives.com/4e5e0f25d588ed2917176b1991271095/img/goldberg/150/image00444.jpg",
   "median_weight_g": null,
-  "top_strike_score": 5,
-  "top_surface_score": 4,
-  "top_grade_numeric": 5,
+  "top_strike_score": null,
+  "top_surface_score": null,
+  "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "heritage-0e30d88dfe4c",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-phoenicia-tyre-trajan-ad-98-117-ar-tetradrachm-27mm-1481-gm-6h-ngc-au-5-5-4-5/a/3102-32210.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:PHOENICIA. Tyre. Trajan (AD 98-117). AR\ntetradrachm (27mm, 14.81 gm, 6h). NGC AU 5/5 - 4/5.",
-      "description": "",
-      "hammer_price_usd": 930.0,
-      "currency_original": "USD",
-      "price_original": 930.0,
-      "buyers_premium_included": false,
-      "sale_date": "2022-11-04",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-6-4-6-9-26469505&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-8688cc49e225",
       "source": "coinarchives",
@@ -84,6 +52,38 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-0e30d88dfe4c",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-provincial/ancients-phoenicia-tyre-trajan-ad-98-117-ar-tetradrachm-27mm-1481-gm-6h-ngc-au-5-5-4-5/a/3102-32210.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients:PHOENICIA. Tyre. Trajan (AD 98-117). AR\ntetradrachm (27mm, 14.81 gm, 6h). NGC AU 5/5 - 4/5.",
+      "description": "",
+      "hammer_price_usd": 930.0,
+      "currency_original": "USD",
+      "price_original": 930.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-11-04",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-6-4-6-9-26469505&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

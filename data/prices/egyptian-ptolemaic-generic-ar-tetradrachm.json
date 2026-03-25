@@ -7,7 +7,7 @@
   "ruler_dates": null,
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
-  "metal": "electrum",
+  "metal": "silver",
   "sale_count": 14,
   "realized_count": 14,
   "fixed_price_count": 0,
@@ -19,21 +19,53 @@
   "median_price_usd": 2100.0,
   "last_sale_date": "2026-02-23",
   "grade_distribution": {
+    "G": 1,
     "MS": 4,
     "AU": 8,
-    "XF": 1,
-    "G": 1
+    "XF": 1
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-6-9-6-9-26969010&w=120&h=300&it=product",
+  "thumbnail_url": "https://media.coinarchives.com/b91b780f086c5767efb9215f6af59bf5/img/goldberg/150/image00560.jpg",
   "median_weight_g": null,
-  "top_strike_score": 5,
-  "top_surface_score": 3,
-  "top_grade_numeric": 5,
+  "top_strike_score": 4,
+  "top_surface_score": 5,
+  "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-5d7285293310",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2710342&AucID=6990&Lot=560&Val=3d3c6f158d61e72ac668cfc7e2d15f97",
+      "title": "Ira & Larry Goldberg Coins & Collectibles - Auction 150, Lot 560 \u2014 Ptolemaic Kingdom. Ptolemy XII, 80-51 BC. Silver Tetradrachm (14.27g), 25 mm. NGC notes this is perhaps Ptolemy X issue yr. 15 (67/6 BC. Diademed bust of Ptolemy facing r. Reverse: Eagle stg. left on ",
+      "description": "Ptolemaic Kingdom. Ptolemy XII, 80-51 BC. Silver Tetradrachm (14.27g), 25 mm. NGC notes this is perhaps Ptolemy X issue yr. 15 (67/6 BC. Diademed bust of Ptolemy facing r. Reverse: Eagle stg. left on thunderbolt. NGC graded AU, Strike: 4/5, Surface: 5/5. Lustrous and lightly toned.  Estimated Value $300 - UP\nEx Peter Preovolos Collection....",
+      "hammer_price_usd": 480.0,
+      "currency_original": "USD",
+      "price_original": 480.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-02-23",
+      "image_url": "https://media.coinarchives.com/b91b780f086c5767efb9215f6af59bf5/img/goldberg/150/image00560.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-8007de418ce2",
       "source": "heritage",
@@ -438,38 +470,6 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-5d7285293310",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2710342&AucID=6990&Lot=560&Val=3d3c6f158d61e72ac668cfc7e2d15f97",
-      "title": "Ira & Larry Goldberg Coins & Collectibles - Auction 150, Lot 560 \u2014 Ptolemaic Kingdom. Ptolemy XII, 80-51 BC. Silver Tetradrachm (14.27g), 25 mm. NGC notes this is perhaps Ptolemy X issue yr. 15 (67/6 BC. Diademed bust of Ptolemy facing r. Reverse: Eagle stg. left on ",
-      "description": "Ptolemaic Kingdom. Ptolemy XII, 80-51 BC. Silver Tetradrachm (14.27g), 25 mm. NGC notes this is perhaps Ptolemy X issue yr. 15 (67/6 BC. Diademed bust of Ptolemy facing r. Reverse: Eagle stg. left on thunderbolt. NGC graded AU, Strike: 4/5, Surface: 5/5. Lustrous and lightly toned.  Estimated Value $300 - UP\nEx Peter Preovolos Collection....",
-      "hammer_price_usd": 480.0,
-      "currency_original": "USD",
-      "price_original": 480.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-02-23",
-      "image_url": "https://media.coinarchives.com/b91b780f086c5767efb9215f6af59bf5/img/goldberg/150/image00560.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "G",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 5,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

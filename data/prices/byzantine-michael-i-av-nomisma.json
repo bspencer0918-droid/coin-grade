@@ -4,7 +4,7 @@
   "ruler": "Michael I",
   "ruler_normalized": "michael-i",
   "dynasty": "Nikephorian",
-  "ruler_dates": "AD 811\u00e2\u20ac\u201c813",
+  "ruler_dates": "AD 811\u2013813",
   "ruler_rarity": "scarce",
   "denomination": "AV Nomisma",
   "metal": "gold",
@@ -19,20 +19,52 @@
   "median_price_usd": 2640.0,
   "last_sale_date": "2026-01-16",
   "grade_distribution": {
+    "XF": 2,
     "AU": 6,
-    "MS": 2,
-    "XF": 2
+    "MS": 2
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-5-8-1-1-25811695&w=120&h=300&it=product",
+  "thumbnail_url": "https://media.coinarchives.com/1a31804ecaee038bd1bc8376543ce1b5/img/ponterio/236/image40303.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 4,
-  "top_grade_numeric": 5,
+  "top_surface_score": 3,
+  "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-43c77b008d19",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2694759&AucID=6923&Lot=40303&Val=39378ffb0fe5315b7be8fb2646cdbddf",
+      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 40303 \u2014 MICHAEL IV, 1034-1041. AV Histamenon Nomisma (4.37 gms), Constantinople Mint. NGC Ch EF, Strike: 5/5 Surface: 3/5. Edge Marks.\nTo view all items from the Peter Jones M.D. Collection, click  here.\nS-18",
+      "description": "MICHAEL IV, 1034-1041. AV Histamenon Nomisma (4.37 gms), Constantinople Mint. NGC Ch EF, Strike: 5/5 Surface: 3/5. Edge Marks.\nTo view all items from the Peter Jones M.D. Collection, click  here.\nS-1824. Obverse: Facing bust of Christ Pantokrator; Reverse: Facing bust of Michael, wearing loros, holding labarum and globus cruciger; manus Dei above. A SCARCER type, this pleasing and relatively lightly handled example provides impressive strike quality, with limited edge marks.\n\nFrom the Peter Jo...",
+      "hammer_price_usd": 2200.0,
+      "currency_original": "USD",
+      "price_original": 2200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": "https://media.coinarchives.com/1a31804ecaee038bd1bc8376543ce1b5/img/ponterio/236/image40303.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-ea673407b37b",
       "source": "heritage",
@@ -309,38 +341,6 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-43c77b008d19",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2694759&AucID=6923&Lot=40303&Val=39378ffb0fe5315b7be8fb2646cdbddf",
-      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 40303 \u2014 MICHAEL IV, 1034-1041. AV Histamenon Nomisma (4.37 gms), Constantinople Mint. NGC Ch EF, Strike: 5/5 Surface: 3/5. Edge Marks.\nTo view all items from the Peter Jones M.D. Collection, click  here.\nS-18",
-      "description": "MICHAEL IV, 1034-1041. AV Histamenon Nomisma (4.37 gms), Constantinople Mint. NGC Ch EF, Strike: 5/5 Surface: 3/5. Edge Marks.\nTo view all items from the Peter Jones M.D. Collection, click  here.\nS-1824. Obverse: Facing bust of Christ Pantokrator; Reverse: Facing bust of Michael, wearing loros, holding labarum and globus cruciger; manus Dei above. A SCARCER type, this pleasing and relatively lightly handled example provides impressive strike quality, with limited edge marks.\n\nFrom the Peter Jo...",
-      "hammer_price_usd": 2200.0,
-      "currency_original": "USD",
-      "price_original": 2200.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-16",
-      "image_url": "https://media.coinarchives.com/1a31804ecaee038bd1bc8376543ce1b5/img/ponterio/236/image40303.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

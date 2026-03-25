@@ -19,20 +19,52 @@
   "median_price_usd": 8520.0,
   "last_sale_date": "2025-11-28",
   "grade_distribution": {
-    "XF": 5,
     "AU": 4,
+    "XF": 5,
     "VF": 1
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-9-3-4-0-29340730&w=120&h=300&it=product",
+  "thumbnail_url": "https://media.coinarchives.com/b5b5aa2a704860152774aad975b9d81e/img/numiscorner/006/image00030.jpg",
   "median_weight_g": null,
-  "top_strike_score": 5,
-  "top_surface_score": 4,
-  "top_grade_numeric": 5,
+  "top_strike_score": 4,
+  "top_surface_score": 2,
+  "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-3d3d7a65305e",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2679809&AucID=6877&Lot=30&Val=533e9e9eea3ec976397ccfad88c821f9",
+      "title": "NumisCorner - Auction 6, Lot 30 \u2014 Seleukid Kingdom, Antiochus I Soter, Stater, 276-261 BC, Ai-Khanoum, Gold, NGC\nDiademed head of Antiochos I to right, with elderly portrait., Apollo (Delphian/Delphinios Apollo), nude, seated left on ",
+      "description": "Seleukid Kingdom, Antiochus I Soter, Stater, 276-261 BC, Ai-Khanoum, Gold, NGC\nDiademed head of Antiochos I to right, with elderly portrait., Apollo (Delphian/Delphinios Apollo), nude, seated left on the omphalos, testing an arrow in his right hand, his left hand holding the top of a bow resting on the ground to the right; \u2206 in the left field., Graded NGC Ch AU Strike: 4/5 Surface: 2/5; lt.smoothing. Possibly struck in A\u00ef Khanoum or Bactra. Variety 435.3 of Seleucid Coins 435, extremely rare,...",
+      "hammer_price_usd": 8640.0,
+      "currency_original": "EUR",
+      "price_original": 8000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-28",
+      "image_url": "https://media.coinarchives.com/b5b5aa2a704860152774aad975b9d81e/img/numiscorner/006/image00030.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-9699bd7f2b4e",
       "source": "heritage",
@@ -309,38 +341,6 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-3d3d7a65305e",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2679809&AucID=6877&Lot=30&Val=533e9e9eea3ec976397ccfad88c821f9",
-      "title": "NumisCorner - Auction 6, Lot 30 \u2014 Seleukid Kingdom, Antiochus I Soter, Stater, 276-261 BC, Ai-Khanoum, Gold, NGC\nDiademed head of Antiochos I to right, with elderly portrait., Apollo (Delphian/Delphinios Apollo), nude, seated left on ",
-      "description": "Seleukid Kingdom, Antiochus I Soter, Stater, 276-261 BC, Ai-Khanoum, Gold, NGC\nDiademed head of Antiochos I to right, with elderly portrait., Apollo (Delphian/Delphinios Apollo), nude, seated left on the omphalos, testing an arrow in his right hand, his left hand holding the top of a bow resting on the ground to the right; \u2206 in the left field., Graded NGC Ch AU Strike: 4/5 Surface: 2/5; lt.smoothing. Possibly struck in A\u00ef Khanoum or Bactra. Variety 435.3 of Seleucid Coins 435, extremely rare,...",
-      "hammer_price_usd": 8640.0,
-      "currency_original": "EUR",
-      "price_original": 8000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-11-28",
-      "image_url": "https://media.coinarchives.com/b5b5aa2a704860152774aad975b9d81e/img/numiscorner/006/image00030.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 2,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

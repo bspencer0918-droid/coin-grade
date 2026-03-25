@@ -19,21 +19,53 @@
   "median_price_usd": 360.0,
   "last_sale_date": "2026-02-05",
   "grade_distribution": {
+    "VG": 1,
     "AU": 1,
     "F": 2,
-    "VF": 1,
-    "VG": 1
+    "VF": 1
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-1-2-3-0-21230413&w=120&h=300&it=product",
+  "thumbnail_url": "https://media.coinarchives.com/dc3d41dfb17353e08d3e1411ab671f4c/img/tcc/a31/image00471.jpg",
   "median_weight_g": null,
-  "top_strike_score": 4,
-  "top_surface_score": 4,
-  "top_grade_numeric": 4,
+  "top_strike_score": 3,
+  "top_surface_score": 3,
+  "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-19252fcfb4da",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2704191&AucID=6964&Lot=471&Val=ebb809ff536ddcf0c122cdeb29545d7a",
+      "title": "The Coin Cabinet - Ancients Auction 31, Lot 471 \u2014 MIGRATIONARY. PSEUDO-IMPERIAL. Odoacer. \nBronze Nummus, AD 477. Rome. \nObv: ODOVAC, draped and cuirassed bust right. Rev: monogram of Odovacar.\n\nIn secure plastic holder, graded NGC VG Strike: 3/5 Sur",
+      "description": "MIGRATIONARY. PSEUDO-IMPERIAL. Odoacer. \nBronze Nummus, AD 477. Rome. \nObv: ODOVAC, draped and cuirassed bust right. Rev: monogram of Odovacar.\n\nIn secure plastic holder, graded NGC VG Strike: 3/5 Surface: 2/5 , certification number 4283740-007.\n\nVery Rare.\n\nEx Heritage 231914 (4/4/2019), lot 61136.\n\nReference: RIC X-3502; MEC-64; BMC Vandals p. 45, 10.\nWeight: 0.84g.\nDiameter: 11mm.\n\nPLEASE NOTE: A 20.00% buyer's premium will be charged separately. VAT on the buyer's premium may apply in acco...",
+      "hammer_price_usd": 317.5,
+      "currency_original": "GBP",
+      "price_original": 250.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-02-05",
+      "image_url": "https://media.coinarchives.com/dc3d41dfb17353e08d3e1411ab671f4c/img/tcc/a31/image00471.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "4283740-007",
+        "grade": "VG",
+        "grade_numeric": null,
+        "strike_score": 3,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": "https://www.ngccoin.com/certlookup/4283740007/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-112690d071e3",
       "source": "heritage",
@@ -152,38 +184,6 @@
         "surface_score": 4,
         "details_grade": null,
         "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-19252fcfb4da",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2704191&AucID=6964&Lot=471&Val=ebb809ff536ddcf0c122cdeb29545d7a",
-      "title": "The Coin Cabinet - Ancients Auction 31, Lot 471 \u2014 MIGRATIONARY. PSEUDO-IMPERIAL. Odoacer. \nBronze Nummus, AD 477. Rome. \nObv: ODOVAC, draped and cuirassed bust right. Rev: monogram of Odovacar.\n\nIn secure plastic holder, graded NGC VG Strike: 3/5 Sur",
-      "description": "MIGRATIONARY. PSEUDO-IMPERIAL. Odoacer. \nBronze Nummus, AD 477. Rome. \nObv: ODOVAC, draped and cuirassed bust right. Rev: monogram of Odovacar.\n\nIn secure plastic holder, graded NGC VG Strike: 3/5 Surface: 2/5 , certification number 4283740-007.\n\nVery Rare.\n\nEx Heritage 231914 (4/4/2019), lot 61136.\n\nReference: RIC X-3502; MEC-64; BMC Vandals p. 45, 10.\nWeight: 0.84g.\nDiameter: 11mm.\n\nPLEASE NOTE: A 20.00% buyer's premium will be charged separately. VAT on the buyer's premium may apply in acco...",
-      "hammer_price_usd": 317.5,
-      "currency_original": "GBP",
-      "price_original": 250.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-02-05",
-      "image_url": "https://media.coinarchives.com/dc3d41dfb17353e08d3e1411ab671f4c/img/tcc/a31/image00471.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": "4283740-007",
-        "grade": "VG",
-        "grade_numeric": null,
-        "strike_score": 3,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": "https://www.ngccoin.com/certlookup/4283740007/",
         "grading_service": "ngc"
       },
       "metadata": {

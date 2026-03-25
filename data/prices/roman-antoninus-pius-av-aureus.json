@@ -4,7 +4,7 @@
   "ruler": "Antoninus Pius",
   "ruler_normalized": "antoninus-pius",
   "dynasty": "Nerva-Antonine",
-  "ruler_dates": "AD 138\u00e2\u20ac\u201c161",
+  "ruler_dates": "AD 138\u2013161",
   "ruler_rarity": null,
   "denomination": "AV Aureus",
   "metal": "gold",
@@ -19,13 +19,13 @@
   "median_price_usd": 5400.0,
   "last_sale_date": "2026-01-12",
   "grade_distribution": {
-    "MS": 11,
     "AU": 26,
+    "MS": 11,
     "VF": 5,
     "XF": 12,
     "F": 1
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-3-6-3-8-33638809&w=120&h=300&it=product",
+  "thumbnail_url": "https://media.coinarchives.com/38078f094403fdcce87a35572da38d70/img/heritage/3126/image31037.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -35,6 +35,38 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-9a43a30451d1",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2649178&AucID=6756&Lot=31037&Val=e5804e578d574f1ccad588dd3454e8c0",
+      "title": "Heritage World Coin Auctions - Dallas Signature Sale 3126, Lot 31037 \u2014 Ancients\nDiva Faustina Senior (AD 138-140/141). AV aureus (19mm, 7.32 gm, 6h). NGC Choice AU 5/5 - 4/5. Rome, ca. AD 141-161. DIVA FAVSTINA, draped bust of Diva Faustina Senior right, seen from front,",
+      "description": "Ancients\nDiva Faustina Senior (AD 138-140/141). AV aureus (19mm, 7.32 gm, 6h). NGC Choice AU 5/5 - 4/5. Rome, ca. AD 141-161. DIVA FAVSTINA, draped bust of Diva Faustina Senior right, seen from front, hair elaborately waved in several loops around head under thin band, braided, drawn up, and coiled on top with pearls / AET-ER-NITAS, Fortuna standing facing, head left, patera in outstretched right hand, rudder in left. Calic\u00f3 1743. RIC III (Antoninus Pius) 349a. Glistening, watery surfaces and ...",
+      "hammer_price_usd": 7500.0,
+      "currency_original": "USD",
+      "price_original": 7500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-06",
+      "image_url": "https://media.coinarchives.com/38078f094403fdcce87a35572da38d70/img/heritage/3126/image31037.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-36fbc9597dc6",
       "source": "heritage",
@@ -1744,38 +1776,6 @@
       "buyers_premium_included": false,
       "sale_date": "2019-01-07",
       "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-0-6-19506532&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-9a43a30451d1",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2649178&AucID=6756&Lot=31037&Val=e5804e578d574f1ccad588dd3454e8c0",
-      "title": "Heritage World Coin Auctions - Dallas Signature Sale 3126, Lot 31037 \u2014 Ancients\nDiva Faustina Senior (AD 138-140/141). AV aureus (19mm, 7.32 gm, 6h). NGC Choice AU 5/5 - 4/5. Rome, ca. AD 141-161. DIVA FAVSTINA, draped bust of Diva Faustina Senior right, seen from front,",
-      "description": "Ancients\nDiva Faustina Senior (AD 138-140/141). AV aureus (19mm, 7.32 gm, 6h). NGC Choice AU 5/5 - 4/5. Rome, ca. AD 141-161. DIVA FAVSTINA, draped bust of Diva Faustina Senior right, seen from front, hair elaborately waved in several loops around head under thin band, braided, drawn up, and coiled on top with pearls / AET-ER-NITAS, Fortuna standing facing, head left, patera in outstretched right hand, rudder in left. Calic\u00f3 1743. RIC III (Antoninus Pius) 349a. Glistening, watery surfaces and ...",
-      "hammer_price_usd": 7500.0,
-      "currency_original": "USD",
-      "price_original": 7500.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-11-06",
-      "image_url": "https://media.coinarchives.com/38078f094403fdcce87a35572da38d70/img/heritage/3126/image31037.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,

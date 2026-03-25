@@ -19,21 +19,53 @@
   "median_price_usd": 2280.0,
   "last_sale_date": "2026-01-16",
   "grade_distribution": {
+    "VF": 1,
     "XF": 3,
     "AU": 2,
-    "MS": 1,
-    "VF": 1
+    "MS": 1
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-4-7-7-1-24771834&w=120&h=300&it=product",
+  "thumbnail_url": "https://media.coinarchives.com/3e29e8b7b799c823cc8f8fdf9f7f1ef0/img/ponterio/236/image45194.jpg",
   "median_weight_g": null,
-  "top_strike_score": 5,
-  "top_surface_score": 5,
-  "top_grade_numeric": 5,
+  "top_strike_score": null,
+  "top_surface_score": null,
+  "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-9d660a2c458f",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2695297&AucID=6923&Lot=45194&Val=35547f4e798bc7eedfe388b7b0b3f99b",
+      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 45194 \u2014 SYRIA. Seleukid Kingdom. Antiochos I Soter, 281-261 B.C. AR Drachm (4.17 gms), Laodikeia Mint. NGC Ch VF. Edge Chip, Brushed.\nTo view all items from the Cookie Family Collection, click  here.\nHGC-9, 1",
+      "description": "SYRIA. Seleukid Kingdom. Antiochos I Soter, 281-261 B.C. AR Drachm (4.17 gms), Laodikeia Mint. NGC Ch VF. Edge Chip, Brushed.\nTo view all items from the Cookie Family Collection, click  here.\nHGC-9, 133; SC-358.5. In the name of Seleukos I. Obverse: Head of Herakles right, wearing lion skin; Reverse: Zeus seated left on throne, holding eagle and scepter; controls to left and below throne. RARE.\n\nFrom the Cookie Family Collection.\n\nEx: Classical Numismatic Group 76 (9/2007) Lot # 781.\n\nEstimate...",
+      "hammer_price_usd": 140.0,
+      "currency_original": "USD",
+      "price_original": 140.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": "https://media.coinarchives.com/3e29e8b7b799c823cc8f8fdf9f7f1ef0/img/ponterio/236/image45194.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-f75fd53d4426",
       "source": "heritage",
@@ -214,38 +246,6 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-9d660a2c458f",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2695297&AucID=6923&Lot=45194&Val=35547f4e798bc7eedfe388b7b0b3f99b",
-      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 45194 \u2014 SYRIA. Seleukid Kingdom. Antiochos I Soter, 281-261 B.C. AR Drachm (4.17 gms), Laodikeia Mint. NGC Ch VF. Edge Chip, Brushed.\nTo view all items from the Cookie Family Collection, click  here.\nHGC-9, 1",
-      "description": "SYRIA. Seleukid Kingdom. Antiochos I Soter, 281-261 B.C. AR Drachm (4.17 gms), Laodikeia Mint. NGC Ch VF. Edge Chip, Brushed.\nTo view all items from the Cookie Family Collection, click  here.\nHGC-9, 133; SC-358.5. In the name of Seleukos I. Obverse: Head of Herakles right, wearing lion skin; Reverse: Zeus seated left on throne, holding eagle and scepter; controls to left and below throne. RARE.\n\nFrom the Cookie Family Collection.\n\nEx: Classical Numismatic Group 76 (9/2007) Lot # 781.\n\nEstimate...",
-      "hammer_price_usd": 140.0,
-      "currency_original": "USD",
-      "price_original": 140.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-16",
-      "image_url": "https://media.coinarchives.com/3e29e8b7b799c823cc8f8fdf9f7f1ef0/img/ponterio/236/image45194.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

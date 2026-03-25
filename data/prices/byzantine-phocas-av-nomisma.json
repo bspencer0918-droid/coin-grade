@@ -4,7 +4,7 @@
   "ruler": "Phocas",
   "ruler_normalized": "phocas",
   "dynasty": "Justinian",
-  "ruler_dates": "AD 602\u00e2\u20ac\u201c610",
+  "ruler_dates": "AD 602\u2013610",
   "ruler_rarity": "scarce",
   "denomination": "AV Nomisma",
   "metal": "gold",
@@ -19,19 +19,51 @@
   "median_price_usd": 1260.0,
   "last_sale_date": "2026-01-16",
   "grade_distribution": {
-    "AU": 5,
-    "XF": 3
+    "XF": 3,
+    "AU": 5
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-6-8-2-4-26824594&w=120&h=300&it=product",
+  "thumbnail_url": "https://media.coinarchives.com/2f46762e4396eaa490eb652b6fde53b0/img/ponterio/236/image40296.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 3,
-  "top_grade_numeric": 5,
+  "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-3e8f98bf534e",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2694752&AucID=6923&Lot=40296&Val=4658cd5ea856e7c1b7b81c64b61add52",
+      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 40296 \u2014 NICEPHORUS II PHOCAS with BASIL II, 963-969. AV Histamenon Nomisma (4.40 gms), Constantinople Mint, 967-969. NGC Ch EF, Strike: 5/5 Surface: 3/5. Edge Marks.\nTo view all items from the Peter Jones M.D",
+      "description": "NICEPHORUS II PHOCAS with BASIL II, 963-969. AV Histamenon Nomisma (4.40 gms), Constantinople Mint, 967-969. NGC Ch EF, Strike: 5/5 Surface: 3/5. Edge Marks.\nTo view all items from the Peter Jones M.D. Collection, click  here.\nS-1778. Obverse: Facing bust of Christ Pantokrator; Reverse: Facing busts of the Theotokos and Nicephorus, holding between them a patriarchal cross. Quite charming, with impressive strike quality and gleaming bright luster, with the noted edge marks being minor and unobt...",
+      "hammer_price_usd": 1700.0,
+      "currency_original": "USD",
+      "price_original": 1700.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": "https://media.coinarchives.com/2f46762e4396eaa490eb652b6fde53b0/img/ponterio/236/image40296.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-7fbf68a7eaef",
       "source": "heritage",
@@ -242,38 +274,6 @@
         "cert_number": null,
         "grade": "AU",
         "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-3e8f98bf534e",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2694752&AucID=6923&Lot=40296&Val=4658cd5ea856e7c1b7b81c64b61add52",
-      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 40296 \u2014 NICEPHORUS II PHOCAS with BASIL II, 963-969. AV Histamenon Nomisma (4.40 gms), Constantinople Mint, 967-969. NGC Ch EF, Strike: 5/5 Surface: 3/5. Edge Marks.\nTo view all items from the Peter Jones M.D",
-      "description": "NICEPHORUS II PHOCAS with BASIL II, 963-969. AV Histamenon Nomisma (4.40 gms), Constantinople Mint, 967-969. NGC Ch EF, Strike: 5/5 Surface: 3/5. Edge Marks.\nTo view all items from the Peter Jones M.D. Collection, click  here.\nS-1778. Obverse: Facing bust of Christ Pantokrator; Reverse: Facing busts of the Theotokos and Nicephorus, holding between them a patriarchal cross. Quite charming, with impressive strike quality and gleaming bright luster, with the noted edge marks being minor and unobt...",
-      "hammer_price_usd": 1700.0,
-      "currency_original": "USD",
-      "price_original": 1700.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-16",
-      "image_url": "https://media.coinarchives.com/2f46762e4396eaa490eb652b6fde53b0/img/ponterio/236/image40296.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 3,
         "details_grade": null,
