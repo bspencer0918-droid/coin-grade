@@ -7,9 +7,9 @@ export function renderAbout(): string {
   return `
     <main class="max-w-4xl mx-auto px-4 sm:px-6 py-10 space-y-10">
       <section>
-        <h1 class="font-display text-4xl text-gold-400 mb-3">About Coin Grade</h1>
+        <h1 class="font-display text-4xl text-gold-400 mb-3">About Chronicle Coins</h1>
         <p class="text-stone-400 text-lg leading-relaxed">
-          Coin Grade aggregates realized auction prices for NGC-certified ancient coins
+          Chronicle Coins aggregates realized auction prices for NGC-certified ancient coins
           from the world's leading numismatic platforms, updated daily.
         </p>
       </section>
@@ -97,9 +97,9 @@ export function renderAbout(): string {
       <section class="card p-6">
         <h2 class="font-display text-xl text-gold-500 mb-3">Disclaimer</h2>
         <p class="text-stone-400 text-sm leading-relaxed">
-          Coin Grade aggregates publicly available auction data for informational purposes only.
+          Chronicle Coins aggregates publicly available auction data for informational purposes only.
           Past realized prices do not guarantee future values. Always consult a professional
-          numismatist before making purchasing or selling decisions. Coin Grade is not affiliated
+          numismatist before making purchasing or selling decisions. Chronicle Coins is not affiliated
           with NGC, PCGS, CNG, Heritage Auctions, Stack's Bowers, Great Collections,
           NumisBids, Sixbid, Harlan J. Berk, or Coin Archives.
         </p>

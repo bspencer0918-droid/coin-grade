@@ -27,13 +27,13 @@ export function renderHeader(activePage: string): string {
         <a href="${href({ name: 'home' })}" class="flex items-center">
           <img
             src="${base}Chronicle%20Coins_V1.jpg"
-            alt="Coin Grade"
+            alt="Chronicle Coins"
             class="h-16 w-auto"
             onerror="this.style.display='none'; this.nextElementSibling.style.display='flex'"
           />
           <!-- Fallback text logo if image fails -->
           <span class="hidden items-center font-display text-2xl text-gold-400 tracking-wider">
-            Coin Grade
+            Chronicle Coins
           </span>
         </a>
 
