@@ -7,7 +7,7 @@
   "ruler_dates": "AD 307\u00e2\u20ac\u201c337",
   "ruler_rarity": null,
   "denomination": "Unknown",
-  "metal": "gold",
+  "metal": "bronze",
   "sale_count": 6,
   "realized_count": 6,
   "fixed_price_count": 0,
@@ -19,21 +19,53 @@
   "median_price_usd": 29400.0,
   "last_sale_date": "2024-05-10",
   "grade_distribution": {
+    "VG": 1,
     "MS": 2,
     "VF": 1,
-    "AU": 2,
-    "VG": 1
+    "AU": 2
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-9-8-6-1-29861100&w=120&h=300&it=product",
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-2-1-19521271&w=120&h=300&it=product",
   "median_weight_g": null,
-  "top_strike_score": 5,
-  "top_surface_score": 4,
-  "top_grade_numeric": null,
+  "top_strike_score": 2,
+  "top_surface_score": 2,
+  "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "heritage-5c5bb275607a",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-constantine-i-the-great-ad-307-337-ae-medallion-37mm-3277-gm-12h-ngc-vg-5-2-2-5-smoothing/a/3071-32266.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Constantine I the Great (AD 307-337). AE\nmedallion (37mm, 32.77 gm, 12h). NGC VG 5/2 - 2/5, smoothing.",
+      "description": "Auction 3071 | Lot 32266 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 1140.0,
+      "currency_original": "USD",
+      "price_original": 1140.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-01-07",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-2-1-19521271&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VG",
+        "grade_numeric": 5,
+        "strike_score": 2,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-d1c35231fc0b",
       "source": "heritage",
@@ -182,38 +214,6 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-5c5bb275607a",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-constantine-i-the-great-ad-307-337-ae-medallion-37mm-3277-gm-12h-ngc-vg-5-2-2-5-smoothing/a/3071-32266.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:Constantine I the Great (AD 307-337). AE\nmedallion (37mm, 32.77 gm, 12h). NGC VG 5/2 - 2/5, smoothing.",
-      "description": "",
-      "hammer_price_usd": 1140.0,
-      "currency_original": "USD",
-      "price_original": 1140.0,
-      "buyers_premium_included": false,
-      "sale_date": "2019-01-07",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-2-1-19521271&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VG",
-        "grade_numeric": 5,
-        "strike_score": 2,
-        "surface_score": 2,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

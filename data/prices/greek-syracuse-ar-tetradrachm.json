@@ -19,21 +19,341 @@
   "median_price_usd": 4320.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
+    "MS": 6,
     "XF": 44,
     "VF": 22,
-    "AU": 28,
-    "MS": 6
+    "AU": 28
   },
-  "thumbnail_url": "https://media.coinarchives.com/ee75d111a89b2a71095ff2f65ca0e390/img/ponterio/236/image40022.jpg",
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-1-7-7-3-21773697&w=120&h=300&it=product",
   "median_weight_g": null,
-  "top_strike_score": 4,
-  "top_surface_score": 5,
-  "top_grade_numeric": null,
+  "top_strike_score": 3,
+  "top_surface_score": 4,
+  "top_grade_numeric": 3,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "heritage-556b7887c54b",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-sicily-syracuse-second-democracy-ca-466-405-bc-ar-tetradrachm-23mm-1744-gm-3h-ngc-choice-ms-4-5-5-5-fine-style/a/3081-32002.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: SICILY. Syracuse. Second Democracy (ca. 466-405\nBC). AR tetradrachm (23mm, 17.44 gm, 3h). NGC Choice MS\u2605 4/5 - 5/5,\nFine Style.",
+      "description": "Auction 3081 | Lot 32002 \u00bb Ancient Coins \u00bb Greek",
+      "hammer_price_usd": 21000.0,
+      "currency_original": "USD",
+      "price_original": 21000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2020-01-13",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-1-7-7-3-21773697&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-959cc46ee41b",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-sicily-syracuse-second-democracy-ca-466-405-bc-ar-tetradrachm-24mm-1720-gm-2h-ngc-ms-3-5-4-5-fine-style/a/3107-31011.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: SICILY. Syracuse. Second Democracy (ca. 466-405\nBC). AR tetradrachm (24mm, 17.20 gm, 2h). NGC MS 3/5 - 4/5, Fine\nStyle.",
+      "description": "Auction 3107 | Lot 31011 \u00bb Ancient Coins \u00bb Greek",
+      "hammer_price_usd": 8400.0,
+      "currency_original": "USD",
+      "price_original": 8400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2023-05-05",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-7-6-5-6-27656387&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 3,
+        "strike_score": 3,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-1beeeaafe009",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-sicily-syracuse-second-democracy-ca-450-405-bc-ar-tetradrachm-24mm-1739-gm-7h-ngc-ms-4-5-5-5-fine-style/a/3105-32006.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: SICILY. Syracuse. Second Democracy. Ca. 450-405\nBC. AR tetradrachm (24mm, 17.39 gm, 7h). NGC MS 4/5 - 5/5, Fine\nStyle.",
+      "description": "Auction 3105 | Lot 32006 \u00bb Ancient Coins \u00bb Greek",
+      "hammer_price_usd": 20400.0,
+      "currency_original": "USD",
+      "price_original": 20400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2023-01-09",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-7-1-8-6-27186404&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-0ae79eb1186d",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-sicily-syracuse-dionysius-i-406-5-367-bc-av-20-litrai-or-tetradrachm-11mm-113-gm-8h-ngc-ms-5-5-4-5/a/3101-35012.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: SICILY. Syracuse. Dionysius I (406/5-367 BC).\nAV 20-litrai or tetradrachm (11mm, 1.13 gm, 8h). NGC MS 5/5 -\n4/5.",
+      "description": "Auction 3101 | Lot 35012 \u00bb Ancient Coins \u00bb Greek",
+      "hammer_price_usd": 9000.0,
+      "currency_original": "USD",
+      "price_original": 9000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-08-28",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-6-4-4-3-26443226&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-3d6f94093ee5",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-sicily-syracuse-agathocles-317-289-bc-ar-tetradrachm-21mm-1692-gm-8h-ngc-choice-xf-4-5-3-5-fine-style/a/3125-30002.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: SICILY. Syracuse. Agathocles (317-289 BC). AR\ntetradrachm (21mm, 16.92 gm, 8h). NGC Choice XF 4/5 - 3/5, Fine\nStyle.",
+      "description": "Auction 3125 | Lot 30002 \u00bb Ancient Coins \u00bb Greek",
+      "hammer_price_usd": 4680.0,
+      "currency_original": "USD",
+      "price_original": 4680.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-08-29",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-2-7-0-3-32703533&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-562a32551f47",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-sicily-syracuse-ca-440-430-bc-ar-tetradrachm-26mm-1676-gm-3h-ngc-choice-xf-4-5-2-5/a/3125-35007.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: SICILY. Syracuse. Ca. 440-430 BC. AR\ntetradrachm (26mm, 16.76 gm, 3h). NGC Choice XF 4/5 - 2/5.",
+      "description": "Auction 3125 | Lot 35007 \u00bb Ancient Coins \u00bb Greek",
+      "hammer_price_usd": 1680.0,
+      "currency_original": "USD",
+      "price_original": 1680.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-08-29",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-2-6-9-0-32690016&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-98c668075c4f",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-sicily-syracuse-ca-415-405-bc-ar-tetradrachm-25mm-1628-gm-6h-ngc-xf-4-5-3-5-fine-style/a/3123-30001.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: SICILY. Syracuse. Ca. 415-405 BC. AR\ntetradrachm (25mm, 16.28 gm, 6h). NGC XF 4/5 - 3/5, Fine Style.",
+      "description": "Auction 3123 | Lot 30001 \u00bb Ancient Coins \u00bb Greek",
+      "hammer_price_usd": 9900.0,
+      "currency_original": "USD",
+      "price_original": 9900.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-05-02",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-2-0-3-7-32037522&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-d39833f16871",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-sicily-syracuse-agathocles-317-289-bc-ar-tetradrachm-26mm-1711-gm-6h-ngc-xf-4-5-4-5-fine-style/a/3123-31008.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: SICILY. Syracuse. Agathocles (317-289 BC). AR\ntetradrachm (26mm, 17.11 gm, 6h). NGC XF 4/5 - 4/5, Fine Style.",
+      "description": "Auction 3123 | Lot 31008 \u00bb Ancient Coins \u00bb Greek",
+      "hammer_price_usd": 5520.0,
+      "currency_original": "USD",
+      "price_original": 5520.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-05-02",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-2-0-4-0-32040032&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-b6e2e0477eaf",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-sicily-syracuse-second-democracy-ca-450-440-bc-ar-tetradrachm-26mm-1710-gm-2h-ngc-vf-4-5-3-5-marks/a/3119-31009.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: SICILY. Syracuse. Second Democracy (ca. 450-440\nBC). AR tetradrachm (26mm, 17.10 gm, 2h). NGC VF 4/5 - 3/5,\nmarks.",
+      "description": "Auction 3119 | Lot 31009 \u00bb Ancient Coins \u00bb Greek",
+      "hammer_price_usd": 1500.0,
+      "currency_original": "USD",
+      "price_original": 1500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2024-11-02",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-1-0-0-8-31008493&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-9bfe1e18252f",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-sicily-syracuse-second-democracy-ca-470-460-bc-ar-tetradrachm-29mm-1704-gm-11h-ngc-vf-5-5-3-5-fine-style/a/3118-33003.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: SICILY. Syracuse. Second Democracy (ca. 470-460\nBC). AR tetradrachm (29mm, 17.04 gm, 11h). NGC VF 5/5 - 3/5, Fine\nStyle.",
+      "description": "Auction 3118 | Lot 33003 \u00bb Ancient Coins \u00bb Greek",
+      "hammer_price_usd": 25200.0,
+      "currency_original": "USD",
+      "price_original": 25200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2024-08-17",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-0-6-0-9-30609039&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-7acf29d23b22",
       "source": "coinarchives",
@@ -99,38 +419,6 @@
       }
     },
     {
-      "id": "heritage-3d6f94093ee5",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-sicily-syracuse-agathocles-317-289-bc-ar-tetradrachm-21mm-1692-gm-8h-ngc-choice-xf-4-5-3-5-fine-style/a/3125-30002.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:SICILY. Syracuse. Agathocles (317-289 BC). AR\ntetradrachm (21mm, 16.92 gm, 8h). NGC Choice XF 4/5 - 3/5, Fine\nStyle.",
-      "description": "",
-      "hammer_price_usd": 4680.0,
-      "currency_original": "USD",
-      "price_original": 4680.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-08-29",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-2-7-0-3-32703533&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "heritage-d7f4a4d6de6f",
       "source": "heritage",
       "listing_type": "auction_realized",
@@ -150,102 +438,6 @@
         "grade_numeric": 4,
         "strike_score": 4,
         "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-562a32551f47",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-sicily-syracuse-ca-440-430-bc-ar-tetradrachm-26mm-1676-gm-3h-ngc-choice-xf-4-5-2-5/a/3125-35007.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:SICILY. Syracuse. Ca. 440-430 BC. AR\ntetradrachm (26mm, 16.76 gm, 3h). NGC Choice XF 4/5 - 2/5.",
-      "description": "",
-      "hammer_price_usd": 1680.0,
-      "currency_original": "USD",
-      "price_original": 1680.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-08-29",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-2-6-9-0-32690016&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-98c668075c4f",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-sicily-syracuse-ca-415-405-bc-ar-tetradrachm-25mm-1628-gm-6h-ngc-xf-4-5-3-5-fine-style/a/3123-30001.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:SICILY. Syracuse. Ca. 415-405 BC. AR\ntetradrachm (25mm, 16.28 gm, 6h). NGC XF 4/5 - 3/5, Fine Style.",
-      "description": "",
-      "hammer_price_usd": 9900.0,
-      "currency_original": "USD",
-      "price_original": 9900.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-05-02",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-2-0-3-7-32037522&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-d39833f16871",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-sicily-syracuse-agathocles-317-289-bc-ar-tetradrachm-26mm-1711-gm-6h-ngc-xf-4-5-4-5-fine-style/a/3123-31008.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:SICILY. Syracuse. Agathocles (317-289 BC). AR\ntetradrachm (26mm, 17.11 gm, 6h). NGC XF 4/5 - 4/5, Fine Style.",
-      "description": "",
-      "hammer_price_usd": 5520.0,
-      "currency_original": "USD",
-      "price_original": 5520.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-05-02",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-2-0-4-0-32040032&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 4,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"
@@ -355,38 +547,6 @@
       }
     },
     {
-      "id": "heritage-b6e2e0477eaf",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-sicily-syracuse-second-democracy-ca-450-440-bc-ar-tetradrachm-26mm-1710-gm-2h-ngc-vf-4-5-3-5-marks/a/3119-31009.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:SICILY. Syracuse. Second Democracy (ca. 450-440\nBC). AR tetradrachm (26mm, 17.10 gm, 2h). NGC VF 4/5 - 3/5,\nmarks.",
-      "description": "",
-      "hammer_price_usd": 1500.0,
-      "currency_original": "USD",
-      "price_original": 1500.0,
-      "buyers_premium_included": false,
-      "sale_date": "2024-11-02",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-1-0-0-8-31008493&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 3,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "heritage-a80c7da576d3",
       "source": "heritage",
       "listing_type": "auction_realized",
@@ -470,38 +630,6 @@
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-9bfe1e18252f",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-sicily-syracuse-second-democracy-ca-470-460-bc-ar-tetradrachm-29mm-1704-gm-11h-ngc-vf-5-5-3-5-fine-style/a/3118-33003.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:SICILY. Syracuse. Second Democracy (ca. 470-460\nBC). AR tetradrachm (29mm, 17.04 gm, 11h). NGC VF 5/5 - 3/5, Fine\nStyle.",
-      "description": "",
-      "hammer_price_usd": 25200.0,
-      "currency_original": "USD",
-      "price_original": 25200.0,
-      "buyers_premium_included": false,
-      "sale_date": "2024-08-17",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-0-6-0-9-30609039&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 3,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"
@@ -1187,38 +1315,6 @@
       }
     },
     {
-      "id": "heritage-959cc46ee41b",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-sicily-syracuse-second-democracy-ca-466-405-bc-ar-tetradrachm-24mm-1720-gm-2h-ngc-ms-3-5-4-5-fine-style/a/3107-31011.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:SICILY. Syracuse. Second Democracy (ca. 466-405\nBC). AR tetradrachm (24mm, 17.20 gm, 2h). NGC MS 3/5 - 4/5, Fine\nStyle.",
-      "description": "",
-      "hammer_price_usd": 8400.0,
-      "currency_original": "USD",
-      "price_original": 8400.0,
-      "buyers_premium_included": false,
-      "sale_date": "2023-05-05",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-7-6-5-6-27656387&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 3,
-        "strike_score": 3,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "heritage-9a7cf5d3eb6a",
       "source": "heritage",
       "listing_type": "auction_realized",
@@ -1270,38 +1366,6 @@
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-1beeeaafe009",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-sicily-syracuse-second-democracy-ca-450-405-bc-ar-tetradrachm-24mm-1739-gm-7h-ngc-ms-4-5-5-5-fine-style/a/3105-32006.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:SICILY. Syracuse. Second Democracy. Ca. 450-405\nBC. AR tetradrachm (24mm, 17.39 gm, 7h). NGC MS 4/5 - 5/5, Fine\nStyle.",
-      "description": "",
-      "hammer_price_usd": 20400.0,
-      "currency_original": "USD",
-      "price_original": 20400.0,
-      "buyers_premium_included": false,
-      "sale_date": "2023-01-09",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-7-1-8-6-27186404&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 5,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"
@@ -1493,38 +1557,6 @@
         "grade": "XF",
         "grade_numeric": 3,
         "strike_score": 3,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-0ae79eb1186d",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-sicily-syracuse-dionysius-i-406-5-367-bc-av-20-litrai-or-tetradrachm-11mm-113-gm-8h-ngc-ms-5-5-4-5/a/3101-35012.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:SICILY. Syracuse. Dionysius I (406/5-367 BC).\nAV 20-litrai or tetradrachm (11mm, 1.13 gm, 8h). NGC MS 5/5 -\n4/5.",
-      "description": "",
-      "hammer_price_usd": 9000.0,
-      "currency_original": "USD",
-      "price_original": 9000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2022-08-28",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-6-4-4-3-26443226&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
         "certification_url": null,
@@ -2710,38 +2742,6 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 2,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-556b7887c54b",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-sicily-syracuse-second-democracy-ca-466-405-bc-ar-tetradrachm-23mm-1744-gm-3h-ngc-choice-ms-4-5-5-5-fine-style/a/3081-32002.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:SICILY. Syracuse. Second Democracy (ca. 466-405\nBC). AR tetradrachm (23mm, 17.44 gm, 3h). NGC Choice MS\u2605 4/5 - 5/5,\nFine Style.",
-      "description": "",
-      "hammer_price_usd": 21000.0,
-      "currency_original": "USD",
-      "price_original": 21000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2020-01-13",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-1-7-7-3-21773697&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 5,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

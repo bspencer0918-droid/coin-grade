@@ -1,0 +1,99 @@
+{
+  "slug": "persian-ar-drachm",
+  "category": "persian",
+  "ruler": null,
+  "ruler_normalized": null,
+  "dynasty": null,
+  "ruler_dates": null,
+  "ruler_rarity": null,
+  "denomination": "AR Drachm",
+  "metal": "silver",
+  "sale_count": 2,
+  "realized_count": 2,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 504.0,
+    "max": 540.0
+  },
+  "median_price_usd": 522.0,
+  "last_sale_date": "2024-11-17",
+  "grade_distribution": {
+    "XF": 2
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-0-9-1-8-30918995&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 4,
+  "top_grade_numeric": 5,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-496fe7b25093",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/near-east/ancients-persis-kingdom-darius-darev-i-2nd-century-bc-ar-drachm-18mm-402-gm-5h-ngc-choice-xf-5-5-4-5/a/61415-22200.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: PERSIS KINGDOM. Darius (Darev) I (2nd century\nBC). AR drachm (18mm, 4.02 gm, 5h). NGC Choice XF 5/5 - 4/5.",
+      "description": "Auction 61415 | Lot 22200 \u00bb Ancient Coins \u00bb Near East",
+      "hammer_price_usd": 540.0,
+      "currency_original": "USD",
+      "price_original": 540.0,
+      "buyers_premium_included": false,
+      "sale_date": "2024-11-17",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-0-9-1-8-30918995&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-13374ed3151f",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/near-east/ancients-persis-kingdom-darev-darius-i-ca-2nd-century-bc-ar-drachm-19mm-1h-ngc-xf-light-smoothing/a/61356-25084.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: PERSIS KINGDOM. Darev (Darius) I (ca. 2nd\ncentury BC). AR drachm (19mm, 1h). NGC XF, light smoothing.",
+      "description": "Auction 61356 | Lot 25084 \u00bb Ancient Coins \u00bb Near East",
+      "hammer_price_usd": 504.0,
+      "currency_original": "USD",
+      "price_original": 504.0,
+      "buyers_premium_included": false,
+      "sale_date": "2024-01-29",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-9-3-1-8-29318764&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

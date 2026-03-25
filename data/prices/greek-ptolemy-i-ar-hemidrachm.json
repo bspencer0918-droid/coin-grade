@@ -19,20 +19,52 @@
   "median_price_usd": 2280.0,
   "last_sale_date": "2024-01-08",
   "grade_distribution": {
-    "AU": 2,
     "F": 1,
+    "AU": 2,
     "XF": 1
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-9-2-9-4-29294557&w=120&h=300&it=product",
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-7-6-5-6-27656421&w=120&h=300&it=product",
   "median_weight_g": null,
-  "top_strike_score": 5,
-  "top_surface_score": 4,
+  "top_strike_score": 4,
+  "top_surface_score": 2,
   "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "heritage-84dbbee147d3",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-ptolemaic-egypt-ptolemy-i-soter-323-282-bc-av-tetarte-1-10-trichryson-or-triobol-hemidrachm-11mm-176-gm-12h-ngc/a/3107-31132.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: PTOLEMAIC EGYPT. Ptolemy I Soter (323-282 BC).\nAV tetarte (1/10 trichryson) or triobol (hemidrachm) (11mm, 1.76\ngm, 12h). NGC Choice Fine 4/5 - 2/5, graffito, bankers marks.",
+      "description": "Auction 3107 | Lot 31132 \u00bb Ancient Coins \u00bb Greek",
+      "hammer_price_usd": 840.0,
+      "currency_original": "USD",
+      "price_original": 840.0,
+      "buyers_premium_included": false,
+      "sale_date": "2023-05-05",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-7-6-5-6-27656421&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-0ef1ee7e5d62",
       "source": "heritage",
@@ -53,38 +85,6 @@
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-84dbbee147d3",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/greek/ancients-ptolemaic-egypt-ptolemy-i-soter-323-282-bc-av-tetarte-1-10-trichryson-or-triobol-hemidrachm-11mm-176-gm-12h-ngc/a/3107-31132.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:PTOLEMAIC EGYPT. Ptolemy I Soter (323-282 BC).\nAV tetarte (1/10 trichryson) or triobol (hemidrachm) (11mm, 1.76\ngm, 12h). NGC Choice Fine 4/5 - 2/5, graffito, bankers marks.",
-      "description": "",
-      "hammer_price_usd": 840.0,
-      "currency_original": "USD",
-      "price_original": 840.0,
-      "buyers_premium_included": false,
-      "sale_date": "2023-05-05",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-7-6-5-6-27656421&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "F",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 2,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

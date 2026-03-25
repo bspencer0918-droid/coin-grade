@@ -4,7 +4,7 @@
   "ruler": "Justin II",
   "ruler_normalized": "justin-ii",
   "dynasty": "Justinian",
-  "ruler_dates": "AD 565\u2013578",
+  "ruler_dates": "AD 565\u00e2\u20ac\u201c578",
   "ruler_rarity": null,
   "denomination": "AV Solidus",
   "metal": "gold",
@@ -19,20 +19,84 @@
   "median_price_usd": 975.0,
   "last_sale_date": "2026-01-16",
   "grade_distribution": {
+    "G": 1,
     "AU": 4,
-    "MS": 3,
-    "G": 1
+    "MS": 3
   },
-  "thumbnail_url": "https://media.coinarchives.com/27a4175575f9d3e6cef289adcecbcdc7/img/ponterio/236/image45560.jpg",
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-4-8-19548343&w=120&h=300&it=product",
   "median_weight_g": null,
-  "top_strike_score": 3,
-  "top_surface_score": 3,
-  "top_grade_numeric": null,
+  "top_strike_score": 5,
+  "top_surface_score": 4,
+  "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "heritage-929cda3f0346",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-justin-ii-ad-565-578-av-solidus-20mm-446-gm-5h-ngc-gem-ms-5-5-5-5/a/3071-33301.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Justin II (AD 565-578). AV solidus (20mm, 4.46\ngm, 5h). NGC Gem MS 5/5 - 5/5.",
+      "description": "Auction 3071 | Lot 33301 \u00bb Ancient Coins \u00bb Byzantine",
+      "hammer_price_usd": 3120.0,
+      "currency_original": "USD",
+      "price_original": 3120.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-01-07",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-4-8-19548343&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-a2652518e737",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-justin-ii-ad-565-578-av-solidus-21mm-441-gm-5h-ngc-au-5-5-4-5/a/3091-32214.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Justin II (AD 565-578). AV solidus (21mm, 4.41\ngm, 5h). NGC AU 5/5 - 4/5.",
+      "description": "Auction 3091 | Lot 32214 \u00bb Ancient Coins \u00bb Byzantine",
+      "hammer_price_usd": 1920.0,
+      "currency_original": "USD",
+      "price_original": 1920.0,
+      "buyers_premium_included": false,
+      "sale_date": "2021-05-07",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-3-8-1-9-23819131&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-ec5df12bae31",
       "source": "coinarchives",
@@ -130,38 +194,6 @@
       }
     },
     {
-      "id": "heritage-a2652518e737",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-justin-ii-ad-565-578-av-solidus-21mm-441-gm-5h-ngc-au-5-5-4-5/a/3091-32214.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:Justin II (AD 565-578). AV solidus (21mm, 4.41\ngm, 5h). NGC AU 5/5 - 4/5.",
-      "description": "",
-      "hammer_price_usd": 1920.0,
-      "currency_original": "USD",
-      "price_original": 1920.0,
-      "buyers_premium_included": false,
-      "sale_date": "2021-05-07",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-3-8-1-9-23819131&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "heritage-a6912b72af8b",
       "source": "heritage",
       "listing_type": "auction_realized",
@@ -244,38 +276,6 @@
         "grade": "MS",
         "grade_numeric": 4,
         "strike_score": 4,
-        "surface_score": 5,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-929cda3f0346",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-justin-ii-ad-565-578-av-solidus-20mm-446-gm-5h-ngc-gem-ms-5-5-5-5/a/3071-33301.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:Justin II (AD 565-578). AV solidus (20mm, 4.46\ngm, 5h). NGC Gem MS 5/5 - 5/5.",
-      "description": "",
-      "hammer_price_usd": 3120.0,
-      "currency_original": "USD",
-      "price_original": 3120.0,
-      "buyers_premium_included": false,
-      "sale_date": "2019-01-07",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-4-8-19548343&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "G",
-        "grade_numeric": null,
-        "strike_score": 5,
         "surface_score": 5,
         "details_grade": null,
         "certification_url": null,

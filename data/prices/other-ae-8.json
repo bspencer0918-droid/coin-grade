@@ -1,0 +1,100 @@
+{
+  "slug": "other-ae-8",
+  "category": "other",
+  "ruler": null,
+  "ruler_normalized": null,
+  "dynasty": null,
+  "ruler_dates": null,
+  "ruler_rarity": null,
+  "denomination": "AE 8",
+  "metal": "bronze",
+  "sale_count": 2,
+  "realized_count": 2,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 124.0,
+    "max": 660.0
+  },
+  "median_price_usd": 392.0,
+  "last_sale_date": "2024-10-13",
+  "grade_distribution": {
+    "F": 1,
+    "VG": 1
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-0-7-8-3-30783500&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": 3,
+  "top_surface_score": 4,
+  "top_grade_numeric": null,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-b7da26c87900",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/judaea/ancients-judaea-hasmonean-dynasty-mattatayah-antigonus-40-37-bc-ae-8-prutot-24mm-1532-gm-12h-ngc-fine-3-5-4-5/a/61408-25045.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: JUDAEA. Hasmonean Dynasty. Mattatayah Antigonus\n(40-37 BC). AE 8-prutot (24mm, 15.32 gm, 12h). NGC Fine 3/5 -\n4/5.",
+      "description": "Auction 61408 | Lot 25045 \u00bb Ancient Coins \u00bb Judaea",
+      "hammer_price_usd": 660.0,
+      "currency_original": "USD",
+      "price_original": 660.0,
+      "buyers_premium_included": false,
+      "sale_date": "2024-10-13",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-0-7-8-3-30783500&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 3,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-7f0a65d7de59",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/judaea/ancients-judaea-hasmonean-dynasty-mattatayah-antigonus-40-37-bc-ae-8-prutot-23mm-1467-gm-7h-ngc-vg-3-5-4-5/a/61336-24009.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: JUDAEA. Hasmonean Dynasty. Mattatayah Antigonus\n(40-37 BC). AE 8-prutot (23mm, 14.67 gm, 7h). NGC VG 3/5 - 4/5.",
+      "description": "Auction 61336 | Lot 24009 \u00bb Ancient Coins \u00bb Judaea",
+      "hammer_price_usd": 124.0,
+      "currency_original": "USD",
+      "price_original": 124.0,
+      "buyers_premium_included": false,
+      "sale_date": "2023-10-15",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-8-2-5-3-28253675&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VG",
+        "grade_numeric": 3,
+        "strike_score": 3,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

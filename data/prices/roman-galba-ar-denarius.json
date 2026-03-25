@@ -4,7 +4,7 @@
   "ruler": "Galba",
   "ruler_normalized": "galba",
   "dynasty": "Year of Four Emperors",
-  "ruler_dates": "AD 68\u201369",
+  "ruler_dates": "AD 68\u00e2\u20ac\u201c69",
   "ruler_rarity": "scarce",
   "denomination": "AR Denarius",
   "metal": "silver",
@@ -19,21 +19,53 @@
   "median_price_usd": 1560.0,
   "last_sale_date": "2026-03-25",
   "grade_distribution": {
-    "P": 1,
     "XF": 6,
+    "P": 1,
     "AU": 2,
     "VF": 5
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-2-7-0-7-32707607&w=120&h=300&it=product",
   "median_weight_g": null,
-  "top_strike_score": null,
-  "top_surface_score": null,
-  "top_grade_numeric": null,
+  "top_strike_score": 5,
+  "top_surface_score": 4,
+  "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "heritage-af36e4e4be8d",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-republic/ancients-p-sulpicius-galba-ca-69-68-bc-ar-denarius-17mm-400-gm-4h-ngc-choice-xf-5-5-4-5-edge-cut/a/3125-34029.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: P. Sulpicius Galba (ca. 69/68 BC). AR denarius\n(17mm, 4.00 gm, 4h). NGC Choice XF 5/5 - 4/5, edge cut.",
+      "description": "Auction 3125 | Lot 34029 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Republic",
+      "hammer_price_usd": 552.0,
+      "currency_original": "USD",
+      "price_original": 552.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-08-29",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-2-7-0-7-32707607&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "hjb-a0cd5d0e312b",
       "source": "hjb",
@@ -56,38 +88,6 @@
         "surface_score": null,
         "details_grade": null,
         "certification_url": "https://www.ngccoin.com/certlookup/1057578788/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-af36e4e4be8d",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/roman-republic/ancients-p-sulpicius-galba-ca-69-68-bc-ar-denarius-17mm-400-gm-4h-ngc-choice-xf-5-5-4-5-edge-cut/a/3125-34029.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:P. Sulpicius Galba (ca. 69/68 BC). AR denarius\n(17mm, 4.00 gm, 4h). NGC Choice XF 5/5 - 4/5, edge cut.",
-      "description": "",
-      "hammer_price_usd": 552.0,
-      "currency_original": "USD",
-      "price_original": 552.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-08-29",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-2-7-0-7-32707607&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null,
         "grading_service": "ngc"
       },
       "metadata": {

@@ -1,49 +1,14 @@
 {
-  "last_updated": "2026-03-25T08:37:26.881654+00:00",
+  "last_updated": "2026-03-25T16:31:32.471025+00:00",
   "next_update": "2026-03-25T06:00:00+00:00",
-  "total_listings": 11063,
+  "total_listings": 12176,
   "ngc_verified_count": 0,
-  "ngc_mentioned_count": 11063,
+  "ngc_mentioned_count": 12176,
   "schema_version": "1.2",
   "sources": {
-    "cng": {
-      "status": "ok",
-      "listings_scraped": 177,
-      "last_error": null
-    },
     "heritage": {
       "status": "ok",
-      "listings_scraped": 0,
-      "last_error": null
-    },
-    "numisbids": {
-      "status": "ok",
-      "listings_scraped": 0,
-      "last_error": null
-    },
-    "sixbid": {
-      "status": "ok",
-      "listings_scraped": 0,
-      "last_error": null
-    },
-    "hjb": {
-      "status": "ok",
-      "listings_scraped": 14,
-      "last_error": null
-    },
-    "coinarchives": {
-      "status": "ok",
-      "listings_scraped": 895,
-      "last_error": null
-    },
-    "stacksbowers": {
-      "status": "ok",
-      "listings_scraped": 0,
-      "last_error": null
-    },
-    "greatcollections": {
-      "status": "ok",
-      "listings_scraped": 0,
+      "listings_scraped": 3407,
       "last_error": null
     }
   }

@@ -4,25 +4,25 @@
   "ruler": "Tiberius",
   "ruler_normalized": "tiberius",
   "dynasty": "Julio-Claudian",
-  "ruler_dates": "AD 14\u201337",
+  "ruler_dates": "AD 14\u00e2\u20ac\u201c37",
   "ruler_rarity": null,
   "denomination": "AE Follis",
   "metal": "bronze",
-  "sale_count": 3,
-  "realized_count": 3,
+  "sale_count": 7,
+  "realized_count": 7,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 10.0,
-    "max": 100.0
+    "max": 504.0
   },
   "median_price_usd": 45.0,
   "last_sale_date": "2025-12-29",
   "grade_distribution": {
-    "F": 1,
+    "F": 5,
     "VF": 2
   },
-  "thumbnail_url": "https://media.coinarchives.com/47e25c159851bd8cda59c1787b552d2a/img/heritage/61557/image25021.jpg",
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-1-0-7-0-31070263&w=120&h=300&it=product",
   "median_weight_g": null,
   "top_strike_score": null,
   "top_surface_score": null,
@@ -32,6 +32,134 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "heritage-7590f5ecd0c0",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-constantine-iv-pogonatus-with-heraclius-and-tiberius-ad-668-681-ae-follis-20mm-5h-ngc-choice-fine/a/61430-24107.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Constantine IV Pogonatus with Heraclius, and\nTiberius (AD 668-681). AE follis (20mm, 5h). NGC Choice Fine.",
+      "description": "Auction 61430 | Lot 24107 \u00bb Ancient Coins \u00bb Byzantine",
+      "hammer_price_usd": 159.0,
+      "currency_original": "USD",
+      "price_original": 159.0,
+      "buyers_premium_included": false,
+      "sale_date": "2024-10-15",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-1-0-7-0-31070263&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-f3ebfa4a536b",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-maurice-tiberius-ad-582-602-ae-half-follis-or-20-nummi-25mm-12h-ngc-choice-fine/a/232205-61349.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Maurice Tiberius (AD 582-602). AE half follis\nor 20 nummi (25mm, 12h). NGC Choice Fine.",
+      "description": "Auction 232205 | Lot 61349 \u00bb Ancient Coins \u00bb Byzantine",
+      "hammer_price_usd": 31.0,
+      "currency_original": "USD",
+      "price_original": 31.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-02-03",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-5-3-3-8-25338608&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-925dfec91be5",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-maurice-tiberius-ad-582-602-ae-follis-or-40-nummi-32mm-1h-ngc-choice-fine-scratches/a/232143-64298.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Maurice Tiberius (AD 582-602). AE follis or 40\nnummi (32mm, 1h). NGC Choice Fine, scratches.",
+      "description": "Auction 232143 | Lot 64298 \u00bb Ancient Coins \u00bb Byzantine",
+      "hammer_price_usd": 43.0,
+      "currency_original": "USD",
+      "price_original": 43.0,
+      "buyers_premium_included": false,
+      "sale_date": "2021-10-27",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-4-7-9-1-24791949&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-a649d2d3c86b",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-maurice-tiberius-ad-582-602-ae-follis-or-40-nummi-25mm-12h-ngc-fine/a/61160-97569.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Maurice Tiberius (AD 582-602). AE follis or 40\nnummi (25mm, 12h). NGC Fine.",
+      "description": "Auction 61160 | Lot 97569 \u00bb Ancient Coins \u00bb Byzantine",
+      "hammer_price_usd": 504.0,
+      "currency_original": "USD",
+      "price_original": 504.0,
+      "buyers_premium_included": false,
+      "sale_date": "2020-05-10",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-2-0-3-4-22034066&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-9f25dd9cbce3",
       "source": "coinarchives",

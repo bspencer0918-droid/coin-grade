@@ -4,7 +4,7 @@
   "ruler": "Augustus",
   "ruler_normalized": "augustus",
   "dynasty": "Julio-Claudian",
-  "ruler_dates": "27 BC \u2013 AD 14",
+  "ruler_dates": "27 BC \u00e2\u20ac\u201c AD 14",
   "ruler_rarity": null,
   "denomination": "AR Siliqua",
   "metal": "silver",
@@ -19,20 +19,52 @@
   "median_price_usd": 480.0,
   "last_sale_date": "2026-03-15",
   "grade_distribution": {
+    "AU": 2,
     "MS": 1,
-    "XF": 2,
-    "AU": 2
+    "XF": 2
   },
-  "thumbnail_url": "https://media.coinarchives.com/1088e92d4f2f720c415a0ba953454e96/img/heritage/61605/image23234.jpg",
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-2-6-7-2-32672857&w=120&h=300&it=product",
   "median_weight_g": null,
-  "top_strike_score": 4,
-  "top_surface_score": 2,
-  "top_grade_numeric": 4,
+  "top_strike_score": 5,
+  "top_surface_score": 3,
+  "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "heritage-97306162f3cc",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-constantine-i-the-great-as-augustus-ad-307-337-ar-siliqua-21mm-322-gm-5h-ngc-au-5-5-3-5-light-marks/a/3125-34061.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Constantine I the Great, as Augustus (AD\n307-337). AR siliqua (21mm, 3.22 gm, 5h). NGC AU 5/5 - 3/5, light\nmarks.",
+      "description": "Auction 3125 | Lot 34061 \u00bb Ancient Coins \u00bb Roman \u00bb Roman Imperial",
+      "hammer_price_usd": 7500.0,
+      "currency_original": "USD",
+      "price_original": 7500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-08-29",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-2-6-7-2-32672857&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-5d11e1789764",
       "source": "coinarchives",
@@ -85,38 +117,6 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 4,
-        "details_grade": null,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "heritage-97306162f3cc",
-      "source": "heritage",
-      "listing_type": "auction_realized",
-      "lot_url": "https://coins.ha.com/itm/ancients/roman-imperial/ancients-constantine-i-the-great-as-augustus-ad-307-337-ar-siliqua-21mm-322-gm-5h-ngc-au-5-5-3-5-light-marks/a/3125-34061.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:Constantine I the Great, as Augustus (AD\n307-337). AR siliqua (21mm, 3.22 gm, 5h). NGC AU 5/5 - 3/5, light\nmarks.",
-      "description": "",
-      "hammer_price_usd": 7500.0,
-      "currency_original": "USD",
-      "price_original": 7500.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-08-29",
-      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-2-6-7-2-32672857&w=120&h=300&it=product",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 3,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

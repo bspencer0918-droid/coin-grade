@@ -1,0 +1,67 @@
+{
+  "slug": "other-ae-10",
+  "category": "other",
+  "ruler": null,
+  "ruler_normalized": null,
+  "dynasty": null,
+  "ruler_dates": null,
+  "ruler_rarity": null,
+  "denomination": "AE 10",
+  "metal": "bronze",
+  "sale_count": 1,
+  "realized_count": 1,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 408.0,
+    "max": 408.0
+  },
+  "median_price_usd": 408.0,
+  "last_sale_date": "2023-10-15",
+  "grade_distribution": {
+    "F": 1
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-8-5-9-2-28592989&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": null,
+  "top_surface_score": null,
+  "top_grade_numeric": null,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-14b362cb3c9b",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/judaea/ancients-judaea-herodian-dynasty-agrippa-ii-ad-49-95-ae-10-units-29mm-12h-ngc-fine/a/61336-24020.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: JUDAEA. Herodian Dynasty. Agrippa II (AD\n49-95). AE 10 units (29mm, 12h). NGC Fine.",
+      "description": "Auction 61336 | Lot 24020 \u00bb Ancient Coins \u00bb Judaea",
+      "hammer_price_usd": 408.0,
+      "currency_original": "USD",
+      "price_original": 408.0,
+      "buyers_premium_included": false,
+      "sale_date": "2023-10-15",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-8-5-9-2-28592989&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}
