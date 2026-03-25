@@ -41,12 +41,11 @@ class NumisBidsScraper(BaseScraper):
         "div[class*='browse']",
     ]
 
-    # Search templates: {pg} is substituted with the page number.
-    # We try both the general searchall (includes upcoming + past) and
-    # the results-only archive (past/realized auctions only).
+    # Use the realized-results endpoint only — searchall overlaps heavily with it
+    # and causes ~97% duplicate rate (same lots appear in both searches).
     _SEARCHES = [
-        (f"{SEARCH_URL}?searchall=NGC+ancient&pg={{pg}}", "searchall/NGC-ancient"),
         (f"{RESULTS_URL}?p=results&searchtext=NGC+ancient&pg={{pg}}", "results/NGC-ancient"),
+        (f"{RESULTS_URL}?p=results&searchtext=NGC+medieval&pg={{pg}}", "results/NGC-medieval"),
     ]
 
     def scrape(self, max_pages: int = MAX_PAGES["numisbids"]) -> Iterator[RawListing]:
@@ -167,11 +166,10 @@ class NumisBidsScraper(BaseScraper):
                         except (ValueError, TypeError):
                             pass
 
-            # 3. Scan for label patterns — both "currency amount" and "amount currency"
+            # 3a. Current bid takes priority over starting price / estimate
             if not price:
-                # "Result: €500" / "Starting price: 500 EUR" / "Hammer: CHF 200"
                 m = re.search(
-                    r'(?:Result|Realized|Hammer|Zuschlag|Résultat|Starting price|Estimate)\s*:?\s*'
+                    r'(?:Current bid|Current price|Aktuelles Gebot|Offre actuelle)\s*:?\s*'
                     r'(?:([€$£]|EUR|USD|GBP|CHF)\s*)?([\d.,]+)'
                     r'(?:\s*(EUR|USD|GBP|CHF))?',
                     item_text, re.IGNORECASE
@@ -180,6 +178,26 @@ class NumisBidsScraper(BaseScraper):
                     currency_raw = (m.group(1) or m.group(3) or "EUR").strip()
                     currency = {"€": "EUR", "$": "USD", "£": "GBP"}.get(currency_raw, currency_raw.upper() or "EUR")
                     price, _ = _parse_numisbids_price(m.group(2))
+
+            # 3b. Realized / hammer / estimate labels (starting price only as last resort)
+            if not price:
+                # Try realized/hammer first, then estimate, then starting price
+                for label_pat in [
+                    r'(?:Result|Realized|Hammer|Zuschlag|Résultat)',
+                    r'(?:Estimate)',
+                    r'(?:Starting price)',
+                ]:
+                    m = re.search(
+                        label_pat + r'\s*:?\s*'
+                        r'(?:([€$£]|EUR|USD|GBP|CHF)\s*)?([\d.,]+)'
+                        r'(?:\s*(EUR|USD|GBP|CHF))?',
+                        item_text, re.IGNORECASE
+                    )
+                    if m:
+                        currency_raw = (m.group(1) or m.group(3) or "EUR").strip()
+                        currency = {"€": "EUR", "$": "USD", "£": "GBP"}.get(currency_raw, currency_raw.upper() or "EUR")
+                        price, _ = _parse_numisbids_price(m.group(2))
+                        break
 
             # 4. Any "NNN EUR/GBP/CHF/USD" or "€/£ NNN" pattern
             if not price:
