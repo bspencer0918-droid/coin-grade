@@ -49,6 +49,9 @@ EXCHANGE_RATE_API_KEY = os.getenv("EXCHANGE_RATE_API_KEY", "")
 HERITAGE_USERNAME = os.getenv("HERITAGE_USERNAME", "")
 HERITAGE_EMAIL    = os.getenv("HERITAGE_EMAIL",    "")   # kept as fallback
 HERITAGE_PASSWORD = os.getenv("HERITAGE_PASSWORD", "")
+# Session cookie from a logged-in browser (alternative to username/password).
+# In Chrome: DevTools → Application → Cookies → ha.com → copy full Cookie header.
+HERITAGE_COOKIE   = os.getenv("HERITAGE_COOKIE",   "")
 
 # Rate limiting (seconds between requests per source)
 RATE_LIMITS = {
@@ -68,7 +71,7 @@ RATE_LIMITS = {
 # hard cap, so these are just safety limits.
 MAX_PAGES = {
     "cng":              120,  # ~120 auctions ≈ 4 years of archive
-    "heritage":         50,
+    "heritage":         100,  # 100 × 200 results/page = 20,000 max per civ+grade combo
     "numisbids":        100,  # date-cutoff stops this early
     "sixbid":           200,  # 50 results/page via API; date filter applied server-side
     "hjb":              20,

@@ -1,359 +1,363 @@
 """
 Heritage Auctions scraper.
 
-Heritage posts realized prices at coins.ha.com. Viewing prices requires
-a free account. We log in via Playwright before scraping, then search
-for NGC/PCGS-graded ancient and US coin lots.
+Heritage posts realized prices at coins.ha.com behind a login wall.
+Prices are loaded by Vue.js and are NOT present in static HTML.
 
-Credentials are read from HERITAGE_EMAIL / HERITAGE_PASSWORD env vars
-(set as GitHub Secrets; never hardcoded).
+Two modes:
+  1. CDP mode  — connects to an existing Chrome window via remote debugging
+                 (--remote-debugging-port=9222).  Prices are fully visible
+                 because we reuse the user's authenticated session.
+  2. HTTP mode — plain httpx/curl-cffi requests for titles, dates, URLs.
+                 Prices will be None (Heritage binds sessions to browser
+                 fingerprint, so cookie extraction cannot authenticate).
+
+To enable CDP mode:
+  Start Chrome with the flag:
+    chrome.exe --remote-debugging-port=9222
+  Log in to ha.com, then run the scraper normally.
+
+URL format for faceted search:
+  coin_category=1495           → Ancient Coins (parent)
+  coin_category_child={ID}     → Civilization sub-category
+  ancient_coin_grade={ID}      → Heritage's own grade taxonomy
+  page=200~{N}                 → 200 results/page, page N
 """
 from __future__ import annotations
 
 import asyncio
 import logging
 import re
+import time
 from datetime import date, datetime
 from typing import Iterator
 from urllib.parse import urljoin
 
 from bs4 import BeautifulSoup
 
+try:
+    from curl_cffi import requests as cf_requests
+    _USE_CURL_CFFI = True
+except ImportError:
+    import httpx as _httpx
+    _USE_CURL_CFFI = False
+
 from ..models import ListingType, RawListing, Source
-from ..config import MAX_PAGES, HERITAGE_USERNAME, HERITAGE_EMAIL, HERITAGE_PASSWORD
-from .base import BaseScraper
+from ..config import MAX_PAGES, HERITAGE_COOKIE
 
 logger = logging.getLogger(__name__)
 
 BASE_URL   = "https://coins.ha.com"
-LOGIN_URL  = "https://www.ha.com/c/login.zx"
+SEARCH_URL = f"{BASE_URL}/c/search/results.zx"
+CDP_URL    = "http://localhost:9222"
 
-# Search queries: (url_fragment, label)
-SEARCH_QUERIES = [
-    (
-        f"{BASE_URL}/c/search-results.zx"
-        "?N=790+231+4294967021+4294966556"
-        "&Ntk=SI_Titles-Desc&Ntt=NGC&Nty=1",
-        "ancient/NGC",
-    ),
-    (
-        f"{BASE_URL}/c/search-results.zx"
-        "?N=790+4294967021+4294966556"
-        "&Ntk=SI_Titles-Desc&Ntt=NGC&Nty=1",
-        "US/NGC",
-    ),
-    (
-        f"{BASE_URL}/c/search-results.zx"
-        "?N=790+4294967021+4294966556"
-        "&Ntk=SI_Titles-Desc&Ntt=PCGS&Nty=1",
-        "US/PCGS",
-    ),
+RPP = 200   # results per page (Heritage max = 200)
+
+# -----------------------------------------------------------------------
+# Civilization sub-categories (coin_category_child values)
+# Source: Heritage filter sidebar, coin_category parent = 1495 (Ancient)
+# -----------------------------------------------------------------------
+CIVILIZATIONS = [
+    ("greek",     4615),
+    ("roman",     4777),
+    ("byzantine", 4496),
+    ("celtic",    4505),
+    ("near-east", 4748),   # covers Persian, Parthian, etc.
+    ("judaea",    4656),
 ]
 
+# -----------------------------------------------------------------------
+# Ancient Coin Grade values (ancient_coin_grade parameter)
+# Ordered finest → lowest to match the images shown (images 7-19)
+# -----------------------------------------------------------------------
+GRADES = [
+    ("Gem",  2393),
+    ("Ch MS", 1843),
+    ("MS",   3044),
+    ("Ch AU", 1841),
+    ("AU",   1572),
+    ("Ch XF", 1845),
+    ("XF",   4347),
+    ("Ch VF", 1844),
+    ("VF",   4227),
+    ("Ch F",  1842),
+    ("Fine", 2280),
+    ("VG",   4232),
+    ("Good", 2460),
+    ("AG",   1428),
+]
 
-class HeritageScraper(BaseScraper):
+# Base params shared by all searches
+_BASE_PARAMS = {
+    "si":           "2",
+    "dept":         "1909",
+    "archive_state":"5327",
+    "sold_status":  "1526~1524",
+    "coin_category":"1495",
+    "mode":         "archive",
+    "layout":       "list",
+}
+
+_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/124.0.0.0 Safari/537.36"
+    ),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9",
+}
+
+_RATE = 3.0   # seconds between page requests
+
+
+def _cdp_available() -> bool:
+    """Return True if Chrome is running with --remote-debugging-port=9222."""
+    try:
+        import urllib.request
+        urllib.request.urlopen(f"{CDP_URL}/json", timeout=2)
+        return True
+    except Exception:
+        return False
+
+
+def _build_url(civ_id: int, grade_id: int, page_num: int) -> str:
+    params = dict(_BASE_PARAMS)
+    params["coin_category_child"] = str(civ_id)
+    params["ancient_coin_grade"]  = str(grade_id)
+    if page_num > 1:
+        params["page"] = f"{RPP}~{page_num}"
+    qs = "&".join(f"{k}={v}" for k, v in params.items())
+    return f"{SEARCH_URL}?{qs}"
+
+
+class HeritageScraper:
     source = Source.HERITAGE
 
     def scrape(self, max_pages: int = MAX_PAGES["heritage"]) -> Iterator[RawListing]:
-        # Accept either username or email for the login field
-        login_id = HERITAGE_USERNAME or HERITAGE_EMAIL
-        if not login_id or not HERITAGE_PASSWORD:
-            logger.warning("[Heritage] No credentials set — skipping (set HERITAGE_USERNAME + HERITAGE_PASSWORD)")
-            return
+        if _cdp_available():
+            logger.info("[Heritage] Chrome CDP detected — using browser session for prices")
+            yield from asyncio.run(self._scrape_cdp(max_pages))
+        else:
+            logger.info(
+                "[Heritage] No CDP connection — scraping without prices. "
+                "To get prices: start Chrome with --remote-debugging-port=9222 "
+                "and log in to ha.com."
+            )
+            yield from self._scrape_http(max_pages)
 
-        # Run entire scrape in a single async browser session (login once, reuse session)
-        results = asyncio.run(self._scrape_async(max_pages))
-        yield from results
+    # ------------------------------------------------------------------
+    # CDP path: use existing logged-in Chrome via Playwright
+    # ------------------------------------------------------------------
 
-    async def _scrape_async(self, max_pages: int) -> list[RawListing]:
+    async def _scrape_cdp(self, max_pages: int) -> list[RawListing]:
         from playwright.async_api import async_playwright
-        from ..config import BROWSER_ARGS, VIEWPORT, USER_AGENTS
-        import random
 
         results: list[RawListing] = []
-        pages_per_query = max(max_pages // len(SEARCH_QUERIES), 10)
+        seen_urls: set[str] = set()
 
         async with async_playwright() as p:
-            browser = await p.chromium.launch(headless=True, args=BROWSER_ARGS)
-            context = await browser.new_context(
-                viewport=VIEWPORT,
-                user_agent=random.choice(USER_AGENTS),
-                extra_http_headers={
-                    "Accept-Language": "en-US,en;q=0.9",
-                    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-                },
-            )
-            # Block images/fonts/media to speed up scraping
-            await context.route(
-                "**/*.{png,jpg,jpeg,gif,webp,svg,woff,woff2,ttf,mp4,mp3}",
-                lambda route: route.abort(),
-            )
+            browser = await p.chromium.connect_over_cdp(CDP_URL)
+            context = browser.contexts[0] if browser.contexts else await browser.new_context()
             page = await context.new_page()
 
-            # Apply stealth patches to evade Cloudflare bot detection
-            try:
-                from playwright_stealth import stealth_async
-                await stealth_async(page)
-                logger.info("[Heritage] Stealth mode applied")
-            except ImportError:
-                logger.warning("[Heritage] playwright-stealth not installed — Cloudflare may block us")
+            for civ_label, civ_id in CIVILIZATIONS:
+                for grade_label, grade_id in GRADES:
+                    label = f"{civ_label}/{grade_label}"
+                    combo_results = 0
 
-            # Login once for the entire session
-            logged_in = await self._login(page)
-            if not logged_in:
-                logger.warning("[Heritage] Login failed — will attempt to scrape anyway (may hit paywall)")
+                    for page_num in range(1, max_pages + 1):
+                        url = _build_url(civ_id, grade_id, page_num)
+                        logger.info(f"[Heritage:{label}] CDP page {page_num}: {url}")
+                        time.sleep(_RATE)
 
-            for search_url, label in SEARCH_QUERIES:
-                for page_num in range(1, pages_per_query + 1):
-                    url = f"{search_url}&ic__offerPage={page_num}"
-                    logger.info(f"[Heritage:{label}] Fetching page {page_num}")
-                    self._wait()
-
-                    try:
-                        await page.goto(url, wait_until="domcontentloaded", timeout=30000)
                         try:
-                            await page.wait_for_selector(
-                                ".result-item, .lot-item, article.item, main, #content",
-                                timeout=15000,
-                            )
-                        except Exception:
-                            pass  # proceed and let the parser decide
+                            await page.goto(url, wait_until="domcontentloaded", timeout=30000)
+                            # Wait for Vue.js to populate prices
+                            try:
+                                await page.wait_for_selector(
+                                    ".bot-price-data, li.item-block", timeout=15000
+                                )
+                                await page.wait_for_timeout(2000)
+                            except Exception:
+                                pass
+                            html = await page.content()
+                        except Exception as e:
+                            logger.error(f"[Heritage:{label}] CDP fetch failed: {e}")
+                            break
 
-                        html = await page.content()
-                    except Exception as e:
-                        logger.error(f"[Heritage:{label}] Fetch failed: {e}")
-                        break
+                        soup = BeautifulSoup(html, "lxml")
+                        items = soup.select("li.item-block, div.item-block")
+                        if not items:
+                            logger.info(f"[Heritage:{label}] No items on page {page_num} — stopping")
+                            break
 
-                    if "Access Denied" in html or "cf-browser-verification" in html:
-                        logger.warning(f"[Heritage:{label}] Cloudflare block — skipping")
-                        break
+                        page_new = 0
+                        for item in items:
+                            listing = _parse_item(item)
+                            if listing and listing.lot_url not in seen_urls:
+                                seen_urls.add(listing.lot_url)
+                                results.append(listing)
+                                page_new += 1
+                                combo_results += 1
 
-                    if "loginForm" in html or ("sign-in" in html.lower() and "logged" not in html.lower()):
-                        logger.warning(f"[Heritage:{label}] Session expired / login wall — stopping")
-                        break
+                        logger.info(
+                            f"[Heritage:{label}] page {page_num}: "
+                            f"{len(items)} items, {page_new} new (combo total: {combo_results})"
+                        )
 
-                    soup = BeautifulSoup(html, "lxml")
+                        # If fewer items than a full page, we've reached the end
+                        if len(items) < RPP:
+                            logger.info(f"[Heritage:{label}] Last page reached ({len(items)} < {RPP})")
+                            break
 
-                    # Log the page URL and title to help diagnose redirects
-                    title_el = soup.find("title")
-                    logger.info(f"[Heritage:{label}] Page title: {title_el.get_text()[:80] if title_el else '?'}")
+                        # If all items on this page were duplicates for 2+ pages, stop
+                        if page_new == 0:
+                            logger.info(f"[Heritage:{label}] All duplicates on page {page_num} — stopping")
+                            break
 
-                    items = soup.select(
-                        "li.result-item, div.lot-item, article.item, "
-                        "div[class*='result-item'], li[class*='lot'], "
-                        "div.lot-details, div[class*='lot-details']"
-                    )
-                    if not items:
-                        snippet = soup.get_text(separator=" ", strip=True)[:400]
-                        logger.info(f"[Heritage:{label}] No items on page {page_num}. Snippet: {snippet}")
-                        break
+                    logger.info(f"[Heritage:{label}] Finished — {combo_results} new listings")
 
-                    yielded = 0
-                    for item in items:
-                        listing = self._parse_item(item, label)
-                        if listing:
-                            results.append(listing)
-                            yielded += 1
+            await page.close()
 
-                    logger.info(f"[Heritage:{label}] Page {page_num}: {yielded} listings")
-                    if yielded < 3:
-                        break
-
-            await browser.close()
-
+        logger.info(f"[Heritage] CDP scrape complete — {len(results)} total unique listings")
         return results
 
-    async def _login(self, page) -> bool:
-        """
-        Navigate to Heritage login page and submit credentials.
-        The form uses "Heritage Auctions username" (not email) + password.
-        Returns True if login appears successful.
-        """
-        login_id = HERITAGE_USERNAME or HERITAGE_EMAIL
+    # ------------------------------------------------------------------
+    # HTTP fallback: titles + dates only, prices = None
+    # ------------------------------------------------------------------
 
-        logger.info("[Heritage] Navigating to login page...")
-        try:
-            await page.goto(LOGIN_URL, wait_until="networkidle", timeout=45000)
-        except Exception as e:
-            logger.warning(f"[Heritage] Login page load timeout (continuing): {e}")
+    def _scrape_http(self, max_pages: int) -> Iterator[RawListing]:
+        session_headers = dict(_HEADERS)
+        if HERITAGE_COOKIE:
+            session_headers["Cookie"] = HERITAGE_COOKIE
 
-        logger.info(f"[Heritage] Login page URL: {page.url}")
+        if _USE_CURL_CFFI:
+            client_ctx = cf_requests.Session(impersonate="chrome124")
+        else:
+            client_ctx = _httpx.Client(headers=session_headers, follow_redirects=True, timeout=30)
 
-        # Check for Cloudflare block
-        try:
-            html = await page.content()
-            if "cf-browser-verification" in html or "Access Denied" in html:
-                logger.warning("[Heritage] Cloudflare challenge on login page — stealth may not have worked")
-                return False
-        except Exception:
-            pass
+        seen_urls: set[str] = set()
 
-        # --- Fill username ---
-        # Heritage form label: "Heritage Auctions username:"
-        # The input is a plain text field (not type=email).
-        username_selectors = [
-            "input[name='username']",
-            "input[name='userName']",
-            "input[name='haUsername']",
-            "input[id='username']",
-            "input[id='userName']",
-            "input[autocomplete='username']",
-            "input[placeholder*='username' i]",
-            "input[type='text']",        # only text input visible before password
-        ]
-        username_filled = False
-        for sel in username_selectors:
-            try:
-                el = await page.wait_for_selector(sel, timeout=5000)
-                if el:
-                    await el.click()
-                    await el.fill(login_id)
-                    logger.info(f"[Heritage] Filled username '{login_id}' using: {sel}")
-                    username_filled = True
-                    break
-            except Exception:
-                continue
+        with client_ctx as client:
+            if _USE_CURL_CFFI:
+                client.headers.update(session_headers)
 
-        if not username_filled:
-            logger.warning("[Heritage] Could not find username input — logging visible inputs:")
-            try:
-                inputs = await page.query_selector_all("input")
-                for inp in inputs[:15]:
-                    attrs = await inp.evaluate(
-                        "el => ({type: el.type, name: el.name, id: el.id, "
-                        "placeholder: el.placeholder, autocomplete: el.autocomplete})"
+            for civ_label, civ_id in CIVILIZATIONS:
+                for grade_label, grade_id in GRADES:
+                    label = f"{civ_label}/{grade_label}"
+                    yield from self._scrape_combo_http(
+                        client, civ_id, grade_id, label, max_pages, seen_urls
                     )
-                    logger.info(f"[Heritage] Input found: {attrs}")
-            except Exception:
-                pass
-            return False
 
-        # --- Fill password ---
-        password_selectors = [
-            "input[type='password']",
-            "input[name='password']",
-            "input[name='haPassword']",
-            "input[id='password']",
-        ]
-        for sel in password_selectors:
+    def _scrape_combo_http(
+        self, client, civ_id, grade_id, label, max_pages, seen_urls
+    ) -> Iterator[RawListing]:
+        for page_num in range(1, max_pages + 1):
+            url = _build_url(civ_id, grade_id, page_num)
+            logger.info(f"[Heritage:{label}] HTTP page {page_num}")
+            time.sleep(_RATE)
+
             try:
-                el = await page.query_selector(sel)
-                if el:
-                    await el.fill(HERITAGE_PASSWORD)
-                    logger.info(f"[Heritage] Filled password using: {sel}")
-                    break
-            except Exception:
-                continue
-
-        # --- Click "Sign In" button ---
-        # The button text in the screenshot is exactly "Sign In"
-        submit_selectors = [
-            "button:has-text('Sign In')",
-            "input[value='Sign In']",
-            "button[type='submit']",
-            "input[type='submit']",
-            "button[class*='sign' i]",
-            "button[class*='login' i]",
-            "form button",
-        ]
-        submitted = False
-        for sel in submit_selectors:
-            try:
-                el = await page.query_selector(sel)
-                if el:
-                    await el.click()
-                    logger.info(f"[Heritage] Clicked submit: {sel}")
-                    submitted = True
-                    break
-            except Exception:
-                continue
-
-        if not submitted:
-            await page.keyboard.press("Enter")
-            submitted = True
-
-        if submitted:
-            try:
-                await page.wait_for_load_state("networkidle", timeout=20000)
-                logger.info(f"[Heritage] Post-login URL: {page.url}")
-                if "login" not in page.url.lower():
-                    logger.info("[Heritage] Login successful")
-                    return True
-                logger.warning("[Heritage] Still on login page after submit")
+                r = client.get(url)
             except Exception as e:
-                logger.warning(f"[Heritage] Post-login wait failed: {e}")
+                logger.error(f"[Heritage:{label}] Fetch error: {e}")
+                break
 
-        return False
+            status = r.status_code if hasattr(r, "status_code") else r.status
+            if status != 200:
+                logger.warning(f"[Heritage:{label}] HTTP {status} on page {page_num}")
+                break
 
-    def _parse_item(self, item, label: str) -> RawListing | None:
-        try:
-            title_el = item.select_one(
-                "h3, h4, .item-title, .lot-title, a.desc, a[class*='title']"
-            )
-            if not title_el:
-                return None
-            title = title_el.get_text(separator=" ", strip=True)
-            if not title:
-                return None
+            soup = BeautifulSoup(r.text, "lxml")
+            items = soup.select("li.item-block, div.item-block")
+            if not items:
+                break
 
-            link_el = item.select_one("a[href*='/itm/'], a[href*='/lot/'], a.title-link, a[href]")
-            lot_url = urljoin(BASE_URL, link_el["href"]) if link_el else BASE_URL
+            page_new = 0
+            for item in items:
+                listing = _parse_item(item)
+                if listing and listing.lot_url not in seen_urls:
+                    seen_urls.add(listing.lot_url)
+                    yield listing
+                    page_new += 1
 
-            price_el = item.select_one(
-                ".price, .hammer-price, .realized-price, span[class*='price'], "
-                "div[class*='price'], span[class*='realized']"
-            )
-            price_text = price_el.get_text(strip=True) if price_el else ""
-            price, currency = _parse_price(price_text)
+            logger.info(f"[Heritage:{label}] page {page_num}: {page_new} new")
+            if len(items) < RPP or page_new == 0:
+                break
 
-            date_el = item.select_one(
-                ".date, .sale-date, time, .auction-date, span[class*='date']"
-            )
-            sale_date_text = ""
-            if date_el:
-                sale_date_text = date_el.get("datetime") or date_el.get_text(strip=True)
-            sale_date = _parse_date(sale_date_text)
 
-            desc_el = item.select_one(".description, .details, p")
-            description = desc_el.get_text(separator=" ", strip=True) if desc_el else ""
-
-            img_el = item.select_one("img")
-            image_url: str | None = None
-            if img_el:
-                image_url = img_el.get("src") or img_el.get("data-src") or None
-
-            return RawListing(
-                title=title,
-                description=description,
-                price=price,
-                currency=currency,
-                sale_date=sale_date,
-                lot_url=lot_url,
-                image_url=image_url,
-                source=Source.HERITAGE,
-                raw_cert_text=f"{title} {description}",
-                listing_type=ListingType.AUCTION_REALIZED,
-            )
-        except Exception as e:
-            logger.debug(f"[Heritage] Parse error: {e}")
+def _parse_item(item) -> RawListing | None:
+    try:
+        # Title
+        title_el = item.select_one("a.item-title, .item-title")
+        if not title_el:
             return None
+        title = title_el.get_text(separator=" ", strip=True)
+        if not title:
+            return None
+
+        # Lot URL
+        lot_url = title_el.get("href") or ""
+        if lot_url.startswith("/"):
+            lot_url = BASE_URL + lot_url
+        if not lot_url:
+            link_el = item.select_one("a[href*='/itm/'], a.photo-holder")
+            lot_url = link_el.get("href", BASE_URL) if link_el else BASE_URL
+
+        # Price — .bot-price-data populated by Vue.js (CDP mode only)
+        price_el = item.select_one(".bot-price-data, .item-value strong, .realized")
+        price_text = price_el.get_text(strip=True) if price_el else ""
+        if any(w in price_text.lower() for w in ["sign", "join", "login", "register"]):
+            price_text = ""
+        price, currency = _parse_price(price_text)
+
+        # Date
+        date_el = item.select_one(".time-bidding-open .time-remaining, .time-remaining")
+        sale_date_text = date_el.get_text(strip=True) if date_el else ""
+        sale_date = _parse_date(sale_date_text)
+
+        # Description
+        desc_el = item.select_one(".item-info p")
+        description = desc_el.get_text(separator=" ", strip=True) if desc_el else ""
+
+        # Image
+        img_el = item.select_one("img.thumbnail, img")
+        image_url: str | None = None
+        if img_el:
+            image_url = img_el.get("src") or img_el.get("data-src") or None
+
+        return RawListing(
+            title=title,
+            description=description,
+            price=price,
+            currency=currency,
+            sale_date=sale_date,
+            lot_url=lot_url,
+            image_url=image_url,
+            source=Source.HERITAGE,
+            raw_cert_text=f"{title} {description}",
+            listing_type=ListingType.AUCTION_REALIZED,
+        )
+    except Exception as e:
+        logger.debug(f"[Heritage] Parse error: {e}")
+        return None
 
 
 def _parse_price(text: str) -> tuple[float | None, str]:
-    currency = "USD"
     if not text:
-        return None, currency
+        return None, "USD"
     m = re.search(r"[\d,]+(?:\.\d{2})?", text.replace(",", ""))
     if m:
         try:
-            return float(m.group().replace(",", "")), currency
+            return float(m.group().replace(",", "")), "USD"
         except ValueError:
             pass
-    return None, currency
+    return None, "USD"
 
 
 def _parse_date(text: str) -> date | None:
-    for fmt in ["%Y-%m-%d", "%B %d, %Y", "%b %d, %Y", "%m/%d/%Y"]:
+    for fmt in ["%Y-%m-%d", "%B %d, %Y", "%b %d, %Y", "%m/%d/%Y", "%b. %d, %Y"]:
         try:
             return datetime.strptime(text.strip(), fmt).date()
         except ValueError:
