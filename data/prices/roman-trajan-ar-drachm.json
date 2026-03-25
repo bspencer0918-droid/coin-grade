@@ -8,15 +8,15 @@
   "ruler_rarity": null,
   "denomination": "AR Drachm",
   "metal": "silver",
-  "sale_count": 36,
-  "realized_count": 36,
+  "sale_count": 37,
+  "realized_count": 37,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 65.0,
     "max": 5760.0
   },
-  "median_price_usd": 270.0,
+  "median_price_usd": 276.0,
   "last_sale_date": "2024-10-14",
   "grade_distribution": {
     "AU": 3,
@@ -25,13 +25,13 @@
     "F": 5,
     "VG": 1,
     "G": 3,
-    "MS": 1
+    "MS": 2
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=1-6-2-0-5-16205539&w=120&h=300&it=product",
   "median_weight_g": null,
-  "top_strike_score": 4,
-  "top_surface_score": 2,
-  "top_grade_numeric": 4,
+  "top_strike_score": 2,
+  "top_surface_score": 4,
+  "top_grade_numeric": 2,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
@@ -1145,6 +1145,38 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-fb05eda15195",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/judaea/ancients-judaea-bar-kokhba-revolt-ad-132-135-ar-zuz-18mm-336-gm-6h-ngc-ms-2-5-4-5-struck-over-trajan-drachm-from/a/231943-64135.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: JUDAEA. Bar Kokhba Revolt (AD 132-135). AR zuz\n(18mm, 3.36 gm, 6h). NGC MS 2/5 - 4/5, struck over Trajan drachm\nfrom Cappadocia.",
+      "description": "Auction 231943 | Lot 64135 \u00bb Ancient Coins \u00bb Judaea",
+      "hammer_price_usd": 810.0,
+      "currency_original": "USD",
+      "price_original": 810.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-10-27",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-1-3-9-2-21392511&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 2,
+        "strike_score": 2,
+        "surface_score": 4,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

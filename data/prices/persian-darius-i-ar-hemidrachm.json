@@ -1,0 +1,132 @@
+{
+  "slug": "persian-darius-i-ar-hemidrachm",
+  "category": "persian",
+  "ruler": "Darius I",
+  "ruler_normalized": "darius-i",
+  "dynasty": "Achaemenid",
+  "ruler_dates": null,
+  "ruler_rarity": null,
+  "denomination": "AR Hemidrachm",
+  "metal": "silver",
+  "sale_count": 3,
+  "realized_count": 3,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 99.0,
+    "max": 264.0
+  },
+  "median_price_usd": 180.0,
+  "last_sale_date": "2023-05-11",
+  "grade_distribution": {
+    "XF": 2,
+    "VF": 1
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-8-0-7-0-28070784&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": 4,
+  "top_surface_score": 3,
+  "top_grade_numeric": 4,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-eb4be5ad540a",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/near-east/ancients-persis-kingdom-darius-ii-ca-1st-century-bc-ar-hemidrachm-14mm-188-gm-9h-ngc-choice-xf-4-5-3-5/a/232319-62143.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: PERSIS KINGDOM. Darius II (ca. 1st century BC).\nAR hemidrachm (14mm, 1.88 gm, 9h). NGC Choice XF 4/5 - 3/5.",
+      "description": "Auction 232319 | Lot 62143 \u00bb Ancient Coins \u00bb Near East",
+      "hammer_price_usd": 180.0,
+      "currency_original": "USD",
+      "price_original": 180.0,
+      "buyers_premium_included": false,
+      "sale_date": "2023-05-11",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-8-0-7-0-28070784&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-9ee5a4845ce6",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/near-east/ancients-persis-kingdom-darius-ii-ca-1st-century-bc-ar-hemidrachm-13mm-7h-ngc-xf/a/231909-64068.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: PERSIS KINGDOM. Darius II (ca. 1st century BC).\nAR hemidrachm (13mm, 7h). NGC XF.",
+      "description": "Auction 231909 | Lot 64068 \u00bb Ancient Coins \u00bb Near East",
+      "hammer_price_usd": 264.0,
+      "currency_original": "USD",
+      "price_original": 264.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-02-28",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-0-4-4-7-20447077&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-909e3f3a33e4",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/near-east/ancients-persis-darius-ii-1st-century-bc-ar-hemidrachm-ngc-choice-vf/a/231728-62047.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: PERSIS. Darius II (1st century BC). AR\nhemidrachm. NGC Choice VF.",
+      "description": "Auction 231728 | Lot 62047 \u00bb Ancient Coins \u00bb Near East",
+      "hammer_price_usd": 99.0,
+      "currency_original": "USD",
+      "price_original": 99.0,
+      "buyers_premium_included": false,
+      "sale_date": "2017-07-13",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-5-5-6-6-15566419&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "slug": "roman-constantine-i-av-semissis",
+  "category": "roman",
+  "ruler": "Constantine I",
+  "ruler_normalized": "constantine-i",
+  "dynasty": "Constantinian",
+  "ruler_dates": "AD 307\u00e2\u20ac\u201c337",
+  "ruler_rarity": null,
+  "denomination": "AV Semissis",
+  "metal": "gold",
+  "sale_count": 3,
+  "realized_count": 3,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 408.0,
+    "max": 720.0
+  },
+  "median_price_usd": 600.0,
+  "last_sale_date": "2022-10-23",
+  "grade_distribution": {
+    "MS": 1,
+    "AU": 2
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-4-1-7-4-24174389&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 4,
+  "top_grade_numeric": 5,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-57902a574927",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-constantine-iv-pogonatus-ad-668-685-av-semissis-17mm-216-gm-5h-ngc-ms-5-5-4-5-clipped/a/232123-62304.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Constantine IV Pogonatus (AD 668-685). AV\nsemissis (17mm, 2.16 gm, 5h). NGC MS 5/5 - 4/5, clipped.",
+      "description": "Auction 232123 | Lot 62304 \u00bb Ancient Coins \u00bb Byzantine",
+      "hammer_price_usd": 720.0,
+      "currency_original": "USD",
+      "price_original": 720.0,
+      "buyers_premium_included": false,
+      "sale_date": "2021-06-09",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-4-1-7-4-24174389&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-d1409b6e3383",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-constantine-iv-pogonatus-ad-668-685-av-semissis-18mm-221-gm-7h-ngc-choice-au-5-5-2-5-edge-bend/a/61297-98319.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Constantine IV Pogonatus (AD 668-685). AV\nsemissis (18mm, 2.21 gm, 7h). NGC Choice AU 5/5 - 2/5, edge\nbend.",
+      "description": "Auction 61297 | Lot 98319 \u00bb Ancient Coins \u00bb Byzantine",
+      "hammer_price_usd": 600.0,
+      "currency_original": "USD",
+      "price_original": 600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-10-23",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-6-4-9-5-26495937&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-e4ad1b7d5e9a",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-constantine-iv-pogonatus-ad-668-685-av-semissis-16mm-208-gm-7h-ngc-choice-au-4-5-2-5-wrinkled-clipped-marks/a/232231-61240.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Constantine IV Pogonatus (AD 668-685). AV\nsemissis (16mm, 2.08 gm, 7h). NGC Choice AU 4/5 - 2/5, wrinkled,\nclipped, marks.",
+      "description": "Auction 232231 | Lot 61240 \u00bb Ancient Coins \u00bb Byzantine",
+      "hammer_price_usd": 408.0,
+      "currency_original": "USD",
+      "price_original": 408.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-08-03",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-6-3-0-9-26309637&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

@@ -8,29 +8,94 @@
   "ruler_rarity": null,
   "denomination": "AE 10",
   "metal": "bronze",
-  "sale_count": 1,
-  "realized_count": 1,
+  "sale_count": 3,
+  "realized_count": 3,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 408.0,
-    "max": 408.0
+    "min": 192.0,
+    "max": 576.0
   },
   "median_price_usd": 408.0,
   "last_sale_date": "2023-10-15",
   "grade_distribution": {
+    "VF": 2,
     "F": 1
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-8-5-9-2-28592989&w=120&h=300&it=product",
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-0-6-4-9-20649467&w=120&h=300&it=product",
   "median_weight_g": null,
-  "top_strike_score": null,
-  "top_surface_score": null,
-  "top_grade_numeric": null,
+  "top_strike_score": 3,
+  "top_surface_score": 3,
+  "top_grade_numeric": 3,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "heritage-cc4b6cbfcc76",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-ostrogoths-italy-municipal-coinage-of-ravenna-ca-ad-493-526-ae-10-nummi-14mm-267-gm-7h-ngc-choice-vf-3-5-3-5/a/231914-61137.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: OSTROGOTHS. Italy. Municipal Coinage of\nRavenna. Ca. AD 493-526. AE 10 nummi (14mm, 2.67 gm, 7h). NGC\nChoice VF 3/5 - 3/5.",
+      "description": "Auction 231914 | Lot 61137 \u00bb Ancient Coins \u00bb Byzantine",
+      "hammer_price_usd": 192.0,
+      "currency_original": "USD",
+      "price_original": 192.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-04-04",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-0-6-4-9-20649467&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 3,
+        "strike_score": 3,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-35231733e29e",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-ostrogoths-italy-municipal-coinage-of-ravenna-ca-ad-493-526-ae-10-nummi-17mm-297-gm-7h-ngc-choice-vf-4-5-4-5/a/231913-64141.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: OSTROGOTHS. Italy. Municipal Coinage of\nRavenna. Ca. AD 493-526. AE 10 nummi (17mm, 2.97 gm, 7h). NGC\nChoice VF 4/5 - 4/5.",
+      "description": "Auction 231913 | Lot 64141 \u00bb Ancient Coins \u00bb Byzantine",
+      "hammer_price_usd": 576.0,
+      "currency_original": "USD",
+      "price_original": 576.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-03-28",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-0-5-8-4-20584528&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-14b362cb3c9b",
       "source": "heritage",

@@ -8,20 +8,20 @@
   "ruler_rarity": null,
   "denomination": "AR Drachm",
   "metal": "silver",
-  "sale_count": 65,
-  "realized_count": 65,
+  "sale_count": 75,
+  "realized_count": 75,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 54.0,
-    "max": 900.0
+    "max": 960.0
   },
   "median_price_usd": 325.0,
   "last_sale_date": "2026-03-25",
   "grade_distribution": {
-    "AU": 30,
-    "XF": 6,
-    "VF": 2,
+    "AU": 34,
+    "XF": 10,
+    "VF": 4,
     "F": 1,
     "MS": 20,
     "G": 6
@@ -69,6 +69,134 @@
       }
     },
     {
+      "id": "heritage-e5c303fc5ee5",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/celtic/ancients-gaul-cisalpine-uncertain-mint-ca-200-bc-ar-drachm-14mm-326-gm-3h-ngc-choice-au-4-5-4-5/a/231913-64001.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: GAUL. Cisalpine. Uncertain mint. Ca. 200 BC. AR\ndrachm (14mm, 3.26 gm, 3h). NGC Choice AU 4/5 - 4/5.",
+      "description": "Auction 231913 | Lot 64001 \u00bb Ancient Coins \u00bb Celtic",
+      "hammer_price_usd": 660.0,
+      "currency_original": "USD",
+      "price_original": 660.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-03-28",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-0-6-2-5-20625962&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-7ff04c0abe90",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/celtic/ancients-gaul-cisalpine-uncertain-mint-2nd-1st-centuries-bc-ar-drachm-16mm-256-gm-3h-ngc-au-4-5-5-5/a/61519-25015.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: GAUL. Cisalpine. Uncertain mint. 2nd-1st\ncenturies BC. AR drachm (16mm, 2.56 gm, 3h). NGC AU 4/5 - 5/5.",
+      "description": "Auction 61519 | Lot 25015 \u00bb Ancient Coins \u00bb Celtic",
+      "hammer_price_usd": 528.0,
+      "currency_original": "USD",
+      "price_original": 528.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-09-21",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-2-6-7-6-32676150&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-dfd305fe5c8b",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/celtic/ancients-southern-gaul-elusates-or-sotiates-ar-drachm-or-pentobol-307-gm-ngc-au-5-5-5-5/a/3063-33023.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: SOUTHERN GAUL. Elusates (or Sotiates?). AR\ndrachm or pentobol (3.07 gm). NGC AU 5/5 - 5/5.",
+      "description": "Auction 3063 | Lot 33023 \u00bb Ancient Coins \u00bb Celtic",
+      "hammer_price_usd": 960.0,
+      "currency_original": "USD",
+      "price_original": 960.0,
+      "buyers_premium_included": false,
+      "sale_date": "2018-01-17",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-7-1-9-5-17195574&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-959b49396ebc",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/celtic/ancients-southern-gaul-reteni-ruteni-2nd-1st-centuries-bc-ar-square-drachm-14mm-223-gm-8h-ngc-au-5-5-5-5/a/232216-63017.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: SOUTHERN GAUL. Reteni (Ruteni). 2nd-1st\ncenturies BC. AR square drachm (14mm, 2.23 gm, 8h). NGC AU 5/5 -\n5/5.",
+      "description": "Auction 232216 | Lot 63017 \u00bb Ancient Coins \u00bb Celtic",
+      "hammer_price_usd": 159.0,
+      "currency_original": "USD",
+      "price_original": 159.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-04-20",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-5-9-2-4-25924792&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "heritage-cf0cee1a728b",
       "source": "heritage",
       "listing_type": "auction_realized",
@@ -88,6 +216,166 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-19740d15fa37",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/celtic/ancients-southern-gaul-volcae-tectosages-ca-200-118-bc-ar-drachm-351-gm-ngc-choice-xf-4-5-5-5/a/3063-33025.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: SOUTHERN GAUL. Volcae Tectosages. Ca. 200-118\nBC. AR drachm (3.51 gm). NGC Choice XF 4/5 - 5/5.",
+      "description": "Auction 3063 | Lot 33025 \u00bb Ancient Coins \u00bb Celtic",
+      "hammer_price_usd": 312.0,
+      "currency_original": "USD",
+      "price_original": 312.0,
+      "buyers_premium_included": false,
+      "sale_date": "2018-01-17",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-7-1-9-5-17195589&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-f767764de8b8",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/celtic/ancients-gaul-cisalpine-uncertain-mint-ca-2nd-1st-centuries-bc-ar-drachm-15mm-233-gm-11h-ngc-xf-4-5-3-5-brushed/a/232552-64010.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: GAUL. Cisalpine. Uncertain mint. Ca. 2nd-1st\ncenturies BC. AR drachm (15mm, 2.33 gm, 11h). NGC XF 4/5 - 3/5,\nbrushed.",
+      "description": "Auction 232552 | Lot 64010 \u00bb Ancient Coins \u00bb Celtic",
+      "hammer_price_usd": 104.0,
+      "currency_original": "USD",
+      "price_original": 104.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-25",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-3-6-4-4-33644452&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-823310949098",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/celtic/ancients-gaul-cisalpine-uncertain-mint-2nd-1st-centuries-bc-ar-drachm-16mm-3h-ngc-xf/a/232015-62001.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: GAUL. Cisalpine. Uncertain mint. 2nd-1st\ncenturies BC. AR drachm (16mm, 3h). NGC XF.",
+      "description": "Auction 232015 | Lot 62001 \u00bb Ancient Coins \u00bb Celtic",
+      "hammer_price_usd": 228.0,
+      "currency_original": "USD",
+      "price_original": 228.0,
+      "buyers_premium_included": false,
+      "sale_date": "2020-04-08",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-2-1-3-6-22136076&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-c95b1840d430",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/celtic/ancients-gaul-tolosates-ca-100-50-bc-ar-drachm-14mm-11h-ngc-xf-/a/231922-65001.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: GAUL. Tolosates. Ca. 100-50 BC. AR drachm\n(14mm, 11h). NGC XF \u2605 .",
+      "description": "Auction 231922 | Lot 65001 \u00bb Ancient Coins \u00bb Celtic",
+      "hammer_price_usd": 456.0,
+      "currency_original": "USD",
+      "price_original": 456.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-05-30",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-0-8-8-9-20889942&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-5cb999019a66",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/celtic/ancients-central-gaul-volcae-tectosages-ca-2nd-1st-centuries-bc-ar-drachm-15mm-11h-ngc-choice-vf/a/232239-65010.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: CENTRAL GAUL. Volcae Tectosages. Ca. 2nd-1st\ncenturies BC. AR drachm (15mm, 11h). NGC Choice VF.",
+      "description": "Auction 232239 | Lot 65010 \u00bb Ancient Coins \u00bb Celtic",
+      "hammer_price_usd": 99.0,
+      "currency_original": "USD",
+      "price_original": 99.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-09-28",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-6-7-0-3-26703324&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"
@@ -145,6 +433,38 @@
       "buyers_premium_included": false,
       "sale_date": "2025-11-06",
       "image_url": "https://dyn1.heritagestatic.com/ha?p=3-3-3-2-3-33323373&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-e2bcf9821443",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/celtic/ancients-central-gaul-volcae-tectosages-ca-2nd-1st-centuries-bc-ar-drachm-13mm-10h-ngc-vf/a/232237-63009.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: CENTRAL GAUL. Volcae Tectosages. Ca. 2nd-1st\ncenturies BC. AR drachm (13mm, 10h). NGC VF.",
+      "description": "Auction 232237 | Lot 63009 \u00bb Ancient Coins \u00bb Celtic",
+      "hammer_price_usd": 228.0,
+      "currency_original": "USD",
+      "price_original": 228.0,
+      "buyers_premium_included": false,
+      "sale_date": "2022-09-14",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-6-5-6-1-26561963&w=120&h=300&it=product",
       "ngc": {
         "verified": false,
         "cert_number": null,

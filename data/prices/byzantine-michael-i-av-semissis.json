@@ -8,21 +8,22 @@
   "ruler_rarity": "scarce",
   "denomination": "AV Semissis",
   "metal": "gold",
-  "sale_count": 2,
-  "realized_count": 2,
+  "sale_count": 10,
+  "realized_count": 10,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 603.6,
-    "max": 960.0
+    "min": 228.0,
+    "max": 4320.0
   },
   "median_price_usd": 781.8,
-  "last_sale_date": "2024-05-10",
+  "last_sale_date": "2024-07-02",
   "grade_distribution": {
-    "MS": 1,
-    "AU": 1
+    "MS": 4,
+    "AU": 5,
+    "XF": 1
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-9-9-6-1-29961109&w=120&h=300&it=product",
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=1-6-1-4-0-16140795&w=120&h=300&it=product",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -32,6 +33,38 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "heritage-f4c66f3a6737",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-michael-iii-the-drunkard-ad-842-867-av-semissis-13mm-152-gm-12h-ngc-choice-ms-5-5-5-5/a/3061-29431.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Michael III \"the Drunkard\" (AD 842-867). AV\nsemissis (13mm, 1.52 gm, 12h). NGC Choice MS 5/5 - 5/5.",
+      "description": "Auction 3061 | Lot 29431 \u00bb Ancient Coins \u00bb Byzantine",
+      "hammer_price_usd": 4320.0,
+      "currency_original": "USD",
+      "price_original": 4320.0,
+      "buyers_premium_included": false,
+      "sale_date": "2018-01-08",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-6-1-4-0-16140795&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-0b9620c43fd4",
       "source": "heritage",
@@ -65,12 +98,108 @@
       }
     },
     {
+      "id": "heritage-39ef186d692c",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-michael-iii-the-drunkard-ad-842-867-av-el-semissis-13mm-155-gm-6h-ngc-ms-5-5-5-5/a/3064-32398.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Michael III \"the Drunkard\" (AD 842-867). AV/EL\nsemissis (13mm, 1.55 gm, 6h). NGC MS 5/5 - 5/5.",
+      "description": "Auction 3064 | Lot 32398 \u00bb Ancient Coins \u00bb Byzantine",
+      "hammer_price_usd": 1441.2,
+      "currency_original": "USD",
+      "price_original": 1441.2,
+      "buyers_premium_included": false,
+      "sale_date": "2018-04-23",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-7-4-7-9-17479272&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-afc9fd7eece9",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-michael-iii-the-drunkard-ad-842-867-el-semissis-12mm-175-gm-6h-ngc-ms-5-5-4-5-scuff/a/61426-23147.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Michael III \"the Drunkard\" (AD 842-867). EL\nsemissis (12mm, 1.75 gm, 6h). NGC MS 5/5 - 4/5, scuff.",
+      "description": "Auction 61426 | Lot 23147 \u00bb Ancient Coins \u00bb Byzantine",
+      "hammer_price_usd": 960.0,
+      "currency_original": "USD",
+      "price_original": 960.0,
+      "buyers_premium_included": false,
+      "sale_date": "2024-07-02",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-0-0-1-4-30014894&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-72757c2bfbab",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-michael-iii-the-drunkard-ad-842-867-el-semissis-13mm-161-gm-5h-ngc-choice-au-5-5-4-5/a/61426-23146.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Michael III \"the Drunkard\" (AD 842-867). EL\nsemissis (13mm, 1.61 gm, 5h). NGC Choice AU 5/5 - 4/5.",
+      "description": "Auction 61426 | Lot 23146 \u00bb Ancient Coins \u00bb Byzantine",
+      "hammer_price_usd": 960.0,
+      "currency_original": "USD",
+      "price_original": 960.0,
+      "buyers_premium_included": false,
+      "sale_date": "2024-07-02",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-0-0-1-4-30014697&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "heritage-ff72819186ec",
       "source": "heritage",
       "listing_type": "auction_realized",
       "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-michael-iii-the-drunkard-ad-842-867-el-semissis-13mm-158-gm-5h-ngc-au-4-5-5-5/a/3076-33274.s?ic4=ListView-ShortDescription-071515",
-      "title": "Ancients:Michael III the Drunkard (AD 842-867). EL\nsemissis (13mm, 1.58 gm, 5h). NGC AU 4/5 - 5/5.",
-      "description": "",
+      "title": "Ancients: Michael III the Drunkard (AD 842-867). EL\nsemissis (13mm, 1.58 gm, 5h). NGC AU 4/5 - 5/5.",
+      "description": "Auction 3076 | Lot 33274 \u00bb Ancient Coins \u00bb Byzantine",
       "hammer_price_usd": 603.6,
       "currency_original": "USD",
       "price_original": 603.6,
@@ -84,6 +213,134 @@
         "grade_numeric": 4,
         "strike_score": 4,
         "surface_score": 5,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-a2bcb0c9974d",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-michael-iii-the-drunkard-ad-842-867-el-semissis-13mm-142-gm-6h-ngc-au-4-5-2-5/a/232118-61276.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Michael III \"the Drunkard\" (AD 842-867). EL\nsemissis (13mm, 1.42 gm, 6h). NGC AU 4/5 - 2/5.",
+      "description": "Auction 232118 | Lot 61276 \u00bb Ancient Coins \u00bb Byzantine",
+      "hammer_price_usd": 504.0,
+      "currency_original": "USD",
+      "price_original": 504.0,
+      "buyers_premium_included": false,
+      "sale_date": "2021-05-06",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-3-8-4-1-23841809&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-bd85d2583e86",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-michael-ii-the-amorian-ad-820-829-with-theophilus-av-semissis-10mm-190-gm-6h-ngc-au-5-5-4-5/a/231933-63131.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Michael II the Amorian (AD 820-829) with\nTheophilus. AV semissis (10mm, 1.90 gm, 6h). NGC AU 5/5 - 4/5.",
+      "description": "Auction 231933 | Lot 63131 \u00bb Ancient Coins \u00bb Byzantine",
+      "hammer_price_usd": 396.0,
+      "currency_original": "USD",
+      "price_original": 396.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-08-15",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-1-2-4-0-21240179&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-e410e7875359",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-michael-iii-the-drunkard-ad-842-867-av-el-semissis-12mm-157-gm-6h-ngc-au-5-5-3-5-edge-scuff/a/271848-36364.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Michael III the Drunkard (AD 842-867). AV/EL\nsemissis (12mm, 1.57 gm, 6h). NGC AU 5/5 - 3/5, edge scuff.",
+      "description": "Auction 271848 | Lot 36364 \u00bb Ancient Coins \u00bb Byzantine",
+      "hammer_price_usd": 288.0,
+      "currency_original": "USD",
+      "price_original": 288.0,
+      "buyers_premium_included": false,
+      "sale_date": "2018-12-02",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-2-0-4-19204738&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-1fc5da6108cf",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-michael-iii-the-drunkard-ad-842-867-with-basil-i-the-macedonian-el-semissis-13mm-147-gm-5h-ngc-xf-4-5-4-5/a/271848-36365.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Michael III the Drunkard (AD 842-867), with\nBasil I the Macedonian. EL semissis (13mm, 1.47 gm, 5h). NGC XF 4/5\n- 4/5.",
+      "description": "Auction 271848 | Lot 36365 \u00bb Ancient Coins \u00bb Byzantine",
+      "hammer_price_usd": 228.0,
+      "currency_original": "USD",
+      "price_original": 228.0,
+      "buyers_premium_included": false,
+      "sale_date": "2018-12-02",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-9-2-0-4-19204736&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

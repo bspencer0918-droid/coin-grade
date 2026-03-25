@@ -1,0 +1,133 @@
+{
+  "slug": "byzantine-leontius-av-tremissis",
+  "category": "byzantine",
+  "ruler": "Leontius",
+  "ruler_normalized": "leontius",
+  "dynasty": "Heraclian",
+  "ruler_dates": "AD 695\u00e2\u20ac\u201c698",
+  "ruler_rarity": "scarce",
+  "denomination": "AV Tremissis",
+  "metal": "gold",
+  "sale_count": 3,
+  "realized_count": 3,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 660.0,
+    "max": 1175.0
+  },
+  "median_price_usd": 900.0,
+  "last_sale_date": "2024-04-21",
+  "grade_distribution": {
+    "MS": 1,
+    "AU": 1,
+    "XF": 1
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=1-4-8-9-5-14895899&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": 4,
+  "top_surface_score": 4,
+  "top_grade_numeric": 4,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-40c2695966c4",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-leontius-ad-695-698-av-tremissis-15mm-140-gm-6h-ngc-ms-4-5-4-5-clipped/a/3051-30250.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Leontius (AD 695-698). AV tremissis (15mm, 1.40\ngm, 6h). NGC MS 4/5 - 4/5 clipped.",
+      "description": "Auction 3051 | Lot 30250 \u00bb Ancient Coins \u00bb Byzantine",
+      "hammer_price_usd": 1175.0,
+      "currency_original": "USD",
+      "price_original": 1175.0,
+      "buyers_premium_included": false,
+      "sale_date": "2017-01-09",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-4-8-9-5-14895899&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-2189f9b0288d",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-leontius-ad-695-698-av-tremissis-15mm-137-gm-6h-ngc-au-3-5-2-5-scratches-clipped/a/61386-24131.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Leontius (AD 695-698). AV tremissis (15mm, 1.37\ngm, 6h). NGC AU 3/5 - 2/5, scratches, clipped.",
+      "description": "Auction 61386 | Lot 24131 \u00bb Ancient Coins \u00bb Byzantine",
+      "hammer_price_usd": 900.0,
+      "currency_original": "USD",
+      "price_original": 900.0,
+      "buyers_premium_included": false,
+      "sale_date": "2024-04-21",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-9-6-5-2-29652544&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 3,
+        "strike_score": 3,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-71c336476370",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-leontius-ad-695-698-av-tremissis-15mm-131-gm-7h-ngc-choice-xf-4-5-2-5-wavy-flan-scratches-clipped/a/61335-23104.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Leontius (AD 695-698). AV tremissis (15mm, 1.31\ngm, 7h). NGC Choice XF 4/5 - 2/5, wavy flan, scratches,\nclipped.",
+      "description": "Auction 61335 | Lot 23104 \u00bb Ancient Coins \u00bb Byzantine",
+      "hammer_price_usd": 660.0,
+      "currency_original": "USD",
+      "price_original": 660.0,
+      "buyers_premium_included": false,
+      "sale_date": "2023-08-20",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-8-5-1-0-28510400&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

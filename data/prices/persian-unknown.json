@@ -8,21 +8,21 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "silver",
-  "sale_count": 4,
-  "realized_count": 4,
+  "sale_count": 8,
+  "realized_count": 8,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 169.0,
     "max": 3840.0
   },
-  "median_price_usd": 1620.0,
-  "last_sale_date": "2025-05-02",
+  "median_price_usd": 930.0,
+  "last_sale_date": "2025-09-21",
   "grade_distribution": {
-    "XF": 1,
-    "VF": 3
+    "XF": 2,
+    "VF": 6
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-1-0-8-4-31084884&w=120&h=300&it=product",
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-1-0-2-3-31023026&w=120&h=300&it=product",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 3,
@@ -32,6 +32,38 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "heritage-a4fde827f7eb",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/judaea/ancients-judaea-yehud-persian-rule-pre-333-bc-ar-half-gerah-6mm-028-gm-9h-ngc-choice-xf-4-5-3-5/a/61408-25017.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: JUDAEA. Yehud. Persian Rule (pre-333 BC). AR\nhalf-gerah (6mm, 0.28 gm, 9h). NGC Choice XF 4/5 - 3/5.",
+      "description": "Auction 61408 | Lot 25017 \u00bb Ancient Coins \u00bb Judaea",
+      "hammer_price_usd": 960.0,
+      "currency_original": "USD",
+      "price_original": 960.0,
+      "buyers_premium_included": false,
+      "sale_date": "2024-10-13",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-1-0-2-3-31023026&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-71365bfd7a6d",
       "source": "heritage",
@@ -148,6 +180,102 @@
         "grade_numeric": 4,
         "strike_score": 4,
         "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-4523123be300",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/judaea/ancients-judaea-yehud-persian-rule-pre-333-bc-ar-half-gerah-7mm-022-gm-10h-ngc-vf-5-5-2-5-edge-chips/a/61519-25137.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: JUDAEA. Yehud. Persian Rule (pre-333 BC). AR\nhalf-gerah (7mm, 0.22 gm, 10h). NGC VF 5/5 - 2/5, edge chips.",
+      "description": "Auction 61519 | Lot 25137 \u00bb Ancient Coins \u00bb Judaea",
+      "hammer_price_usd": 240.0,
+      "currency_original": "USD",
+      "price_original": 240.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-09-21",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=3-2-9-3-2-32932432&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-6a7fd8ded713",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/judaea/ancients-judaea-yehud-era-persian-rule-pre-333-bc-ar-gerah-7mm-023-gm-9h-ngc-vf-4-5-1-5/a/61336-24001.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: JUDAEA. Yehud Era. Persian Rule (pre-333 BC).\nAR gerah (7mm, 0.23 gm, 9h). NGC VF 4/5 - 1/5.",
+      "description": "Auction 61336 | Lot 24001 \u00bb Ancient Coins \u00bb Judaea",
+      "hammer_price_usd": 750.0,
+      "currency_original": "USD",
+      "price_original": 750.0,
+      "buyers_premium_included": false,
+      "sale_date": "2023-10-15",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-7-3-0-8-27308584&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 1,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-d4e6858aeb02",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/judaea/ancients-judaea-yehud-persian-rule-pre-333-bc-ar-gerah-7mm-023-gm-1h-ngc-vf-4-5-1-5-edge-chip/a/3106-33152.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: JUDAEA. Yehud. Persian Rule (pre-333 BC). AR\ngerah (7mm, 0.23 gm, 1h). NGC VF 4/5 - 1/5, edge chip.",
+      "description": "Auction 3106 | Lot 33152 \u00bb Ancient Coins \u00bb Judaea",
+      "hammer_price_usd": 900.0,
+      "currency_original": "USD",
+      "price_original": 900.0,
+      "buyers_premium_included": false,
+      "sale_date": "2023-01-18",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-7-3-0-8-27308584&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 1,
         "details_grade": null,
         "certification_url": null,
         "grading_service": "ngc"

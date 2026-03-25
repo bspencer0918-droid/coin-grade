@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "silver",
-  "sale_count": 689,
-  "realized_count": 688,
+  "sale_count": 690,
+  "realized_count": 689,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -21,7 +21,7 @@
   "grade_distribution": {
     "AU": 299,
     "XF": 85,
-    "VF": 33,
+    "VF": 34,
     "F": 6,
     "MS": 266
   },
@@ -13460,6 +13460,38 @@
         "verified": false,
         "cert_number": null,
         "grade": "F",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-e34f16bd38ec",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/celtic/ancients-macedonian-kingdom-imitating-philip-ii-iii-ca-mid-3rd-century-bc-ae-unit-ngc-choice-vf/a/231703-63005.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: MACEDONIAN KINGDOM. Imitating Philip II-III.\nCa. mid-3rd century BC. \u00c6 unit. NGC Choice VF.",
+      "description": "Auction 231703 | Lot 63005 \u00bb Ancient Coins \u00bb Celtic",
+      "hammer_price_usd": 55.0,
+      "currency_original": "USD",
+      "price_original": 55.0,
+      "buyers_premium_included": false,
+      "sale_date": "2017-01-19",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-4-9-6-8-14968752&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,

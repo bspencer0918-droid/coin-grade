@@ -1,0 +1,132 @@
+{
+  "slug": "byzantine-justin-ii-unknown",
+  "category": "byzantine",
+  "ruler": "Justin II",
+  "ruler_normalized": "justin-ii",
+  "dynasty": "Justinian",
+  "ruler_dates": "AD 565\u00e2\u20ac\u201c578",
+  "ruler_rarity": null,
+  "denomination": "Unknown",
+  "metal": "gold",
+  "sale_count": 3,
+  "realized_count": 3,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 65.0,
+    "max": 408.0
+  },
+  "median_price_usd": 132.0,
+  "last_sale_date": "2021-11-24",
+  "grade_distribution": {
+    "MS": 1,
+    "XF": 2
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=1-6-0-4-3-16043531&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 4,
+  "top_grade_numeric": 5,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-444b71ec5788",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-justin-ii-ad-565-578-av-soldius-448-gm-ngc-ms-5-5-4-5-clipped/a/231747-64140.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Justin II (AD 565-578). AV soldius (4.48 gm).\nNGC MS 5/5 - 4/5, clipped.",
+      "description": "Auction 231747 | Lot 64140 \u00bb Ancient Coins \u00bb Byzantine",
+      "hammer_price_usd": 408.0,
+      "currency_original": "USD",
+      "price_original": 408.0,
+      "buyers_premium_included": false,
+      "sale_date": "2017-11-23",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=1-6-0-4-3-16043531&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-2dacb49b56bf",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-justin-ii-ad-565-578-ae-pentanummium-15mm-238-gm-6h-ngc-xf-4-5-4-5/a/61160-97566.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Justin II (AD 565-578). AE pentanummium (15mm,\n2.38 gm, 6h). NGC XF\u2605 4/5 - 4/5.",
+      "description": "Auction 61160 | Lot 97566 \u00bb Ancient Coins \u00bb Byzantine",
+      "hammer_price_usd": 132.0,
+      "currency_original": "USD",
+      "price_original": 132.0,
+      "buyers_premium_included": false,
+      "sale_date": "2020-05-10",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-2-0-2-3-22023541&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-ad62607d0904",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-justin-ii-ad-565-578-ae-pentanummium-15mm-194-gm-11h-ngc-xf-5-5-3-5/a/232147-64312.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Justin II (AD 565-578). AE pentanummium (15mm,\n1.94 gm, 11h). NGC XF \u2605 5/5 - 3/5.",
+      "description": "Auction 232147 | Lot 64312 \u00bb Ancient Coins \u00bb Byzantine",
+      "hammer_price_usd": 65.0,
+      "currency_original": "USD",
+      "price_original": 65.0,
+      "buyers_premium_included": false,
+      "sale_date": "2021-11-24",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-5-0-2-7-25027628&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

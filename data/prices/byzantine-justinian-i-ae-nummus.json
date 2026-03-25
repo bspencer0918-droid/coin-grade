@@ -1,0 +1,99 @@
+{
+  "slug": "byzantine-justinian-i-ae-nummus",
+  "category": "byzantine",
+  "ruler": "Justinian I",
+  "ruler_normalized": "justinian-i",
+  "dynasty": "Justinian",
+  "ruler_dates": "AD 527\u00e2\u20ac\u201c565",
+  "ruler_rarity": "common",
+  "denomination": "AE Nummus",
+  "metal": "bronze",
+  "sale_count": 2,
+  "realized_count": 2,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 84.0,
+    "max": 180.0
+  },
+  "median_price_usd": 132.0,
+  "last_sale_date": "2020-01-26",
+  "grade_distribution": {
+    "VF": 2
+  },
+  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-1-7-6-9-21769079&w=120&h=300&it=product",
+  "median_weight_g": null,
+  "top_strike_score": null,
+  "top_surface_score": null,
+  "top_grade_numeric": null,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "heritage-6a40b99b6d74",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-justinian-i-the-great-ad-527-565-ae-nummus-9mm-3h-ngc-choice-vf/a/61151-97534.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Justinian I the Great (AD 527-565). AE nummus\n(9mm, 3h). NGC Choice VF.",
+      "description": "Auction 61151 | Lot 97534 \u00bb Ancient Coins \u00bb Byzantine",
+      "hammer_price_usd": 84.0,
+      "currency_original": "USD",
+      "price_original": 84.0,
+      "buyers_premium_included": false,
+      "sale_date": "2020-01-26",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-1-7-6-9-21769079&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "heritage-0646baf28dc2",
+      "source": "heritage",
+      "listing_type": "auction_realized",
+      "lot_url": "https://coins.ha.com/itm/ancients/byzantine/ancients-justinian-i-the-great-ad-527-565-ae-nummus-9mm-6h-ngc-choice-vf/a/231928-62131.s?ic4=ListView-ShortDescription-071515",
+      "title": "Ancients: Justinian I the Great (AD 527-565). AE nummus\n(9mm, 6h). NGC Choice VF.",
+      "description": "Auction 231928 | Lot 62131 \u00bb Ancient Coins \u00bb Byzantine",
+      "hammer_price_usd": 180.0,
+      "currency_original": "USD",
+      "price_original": 180.0,
+      "buyers_premium_included": false,
+      "sale_date": "2019-07-11",
+      "image_url": "https://dyn1.heritagestatic.com/ha?p=2-1-1-1-2-21112458&w=120&h=300&it=product",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}
