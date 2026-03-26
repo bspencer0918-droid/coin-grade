@@ -126,6 +126,58 @@ export function renderHome(meta: Meta | null, catalog: CatalogIndex | null): str
         </div>
       </section>
 
+      <!-- Key coin types (the most-searched, highest-value types) -->
+      ${(() => {
+        const KEY_TYPES = [
+          'greek-athens-ar-tetradrachm-classical-owl',
+          'greek-athens-ar-tetradrachm-archaic-owl',
+          'greek-athens-ar-tetradrachm-new-style-owl',
+          'greek-alexander-iii-ar-tetradrachm-lifetime-issue',
+          'roman-julius-caesar-ar-denarius-elephant-priestly',
+          'roman-julius-caesar-ar-denarius-portrait-denarius',
+          'roman-tiberius-ar-denarius-tribute-penny-type',
+          'greek-alexander-iii-ar-tetradrachm-posthumous-late',
+        ]
+        const keyCoins = KEY_TYPES
+          .map(slug => catalog?.coins.find(c => c.slug === slug))
+          .filter((c): c is NonNullable<typeof c> => c != null)
+        if (keyCoins.length === 0) return ''
+
+        const items = keyCoins.map(coin => {
+          const price = coin.median_price_usd
+            ? `$${coin.median_price_usd.toLocaleString('en-US', { minimumFractionDigits: 0 })}`
+            : '—'
+          const thumb = coin.thumbnail_url
+            ? `<img src="${coin.thumbnail_url}" alt="" class="w-10 h-10 object-cover rounded border border-stone-700" loading="lazy" />`
+            : `<div class="w-10 h-10 rounded border border-stone-800 bg-stone-900 flex items-center justify-center text-stone-700">🪙</div>`
+          return `
+            <a href="${href({ name: 'coin', slug: coin.slug })}"
+               class="card p-3 flex items-center gap-3 hover:border-gold-700/50 transition-colors group cursor-pointer">
+              ${thumb}
+              <div class="min-w-0 flex-1">
+                <div class="text-sm font-medium text-stone-200 group-hover:text-gold-300 transition-colors leading-tight truncate">
+                  ${coin.denomination}
+                </div>
+                <div class="text-xs text-stone-500 mt-0.5">${coin.sale_count} sales · ${price} median</div>
+              </div>
+            </a>
+          `
+        }).join('')
+
+        return `
+          <section>
+            <div class="divider"><span class="divider-text">Key Coin Types</span></div>
+            <p class="text-sm text-stone-500 mt-4 mb-6 text-center max-w-2xl mx-auto">
+              Prices that matter most to collectors — each type priced independently,
+              not mixed with cheaper varieties.
+            </p>
+            <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-3">
+              ${items}
+            </div>
+          </section>
+        `
+      })()}
+
       <!-- Recent sales -->
       <section>
         <div class="divider"><span class="divider-text">Recently Sold</span></div>

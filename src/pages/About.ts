@@ -33,8 +33,11 @@ export function renderAbout(): string {
           <li class="flex gap-3">
             <span class="text-gold-600 font-mono font-bold shrink-0">03</span>
             <span>Coins are classified by civilization (Roman, Greek, Byzantine, etc.),
-            ruler, metal (AV/AR/AE), and denomination. All prices are normalized to USD
-            using the exchange rate at the time of the scrape.</span>
+            ruler, metal (AV/AR/AE), denomination, and — critically — specific type.
+            An Athenian tetradrachm is classified as Archaic Owl, Classical Owl, or New Style Owl
+            because they are entirely different coins with different prices. A Trajan denarius
+            with DACIA CAPTA reverse is tracked separately from common SPQR types.
+            All prices are normalized to USD using the exchange rate at the time of the scrape.</span>
           </li>
           <li class="flex gap-3">
             <span class="text-gold-600 font-mono font-bold shrink-0">04</span>
