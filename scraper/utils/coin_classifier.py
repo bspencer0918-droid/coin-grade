@@ -282,14 +282,27 @@ def classify(title: str, description: str = "") -> dict:
     dynasty       = None
     category: Optional[Category] = None
 
+    # Extract "primary ruler zone" — text before co-rulers, denomination, or date.
+    # Heritage format: "Ancients: RULER (dates)[, with CO-RULER...]. AR denom SIZE..."
+    # We restrict ruler matching to the primary zone to avoid false positives from
+    # co-rulers listed after ", with" (e.g. "Constans II, with Heraclius and Tiberius").
+    _primary = re.split(
+        r'(?i),\s*with\s+|[\t\n]|\b(?:AR|AV|AE|EL|BIL)\s|\(AD\s|\(BC\s|\(ca\.',
+        title, maxsplit=1
+    )[0].lower()
+
+    def _ruler_matches(r: dict, text: str) -> bool:
+        kws: list[str] = r.get("keywords", [r["name"].lower()])
+        return any(kw in text for kw in kws)
+
+    # Pass 1: match only against the primary ruler zone (avoids co-ruler false positives)
     for cat_name, cat_rulers in rulers_data.items():
         try:
             cat_enum = Category(cat_name)
         except ValueError:
-            continue  # unknown category key — skip
+            continue
         for r in cat_rulers:
-            keywords: list[str] = r.get("keywords", [r["name"].lower()])
-            if any(kw in text_lower for kw in keywords):
+            if _ruler_matches(r, _primary):
                 ruler        = r["name"]
                 ruler_slug   = r.get("slug", r["name"].lower().replace(" ", "-"))
                 ruler_dates  = r.get("dates")
@@ -299,6 +312,25 @@ def classify(title: str, description: str = "") -> dict:
                 break
         if category is not None:
             break
+
+    # Pass 2: if no primary-zone match, fall back to full text (catches non-Heritage sources)
+    if category is None:
+        for cat_name, cat_rulers in rulers_data.items():
+            try:
+                cat_enum = Category(cat_name)
+            except ValueError:
+                continue
+            for r in cat_rulers:
+                if _ruler_matches(r, text_lower):
+                    ruler        = r["name"]
+                    ruler_slug   = r.get("slug", r["name"].lower().replace(" ", "-"))
+                    ruler_dates  = r.get("dates")
+                    ruler_rarity = r.get("rarity")
+                    dynasty      = r.get("dynasty")
+                    category     = cat_enum
+                    break
+            if category is not None:
+                break
 
     # Fall back to keyword-based category when no ruler matched
     if category is None:
