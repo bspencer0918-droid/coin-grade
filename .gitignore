@@ -9,5 +9,7 @@ __pycache__/
 .playwright/
 scraper/ngc_cache.json
 *.log
+research/numisforums/threads.json
+research/wildwinds/types.json
 .DS_Store
 Thumbs.db
