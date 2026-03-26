@@ -32,6 +32,7 @@ SPLIT_SLUGS = {
     "roman-julius-caesar-ar-denarius",     # Elephant vs portrait denarius
     "roman-tiberius-ar-denarius",          # All are Tribute Pennies — label for clarity
     "roman-mark-antony-ar-denarius",       # Legionary type vs other types
+    "roman-hadrian-ar-denarius",           # Travel series (AEGYPTOS, HISPANIA, etc.) 8-10x premium
 }
 
 # Type labels from taxonomy (keep in sync with coin_type_taxonomy.yaml)
@@ -55,6 +56,11 @@ TYPE_LABELS = {
     "constantine-i-solidus":   "Constantine I AV Solidus",
     "justinian-i-solidus":     "Justinian I AV Solidus",
     "legionary":               "Mark Antony AR Denarius — Legionary",
+    "aegyptos":                "Hadrian AR Denarius — AEGYPTOS",
+    "hispania":                "Hadrian AR Denarius — HISPANIA",
+    "africa":                  "Hadrian AR Denarius — AFRICA",
+    "italia":                  "Hadrian AR Denarius — ITALIA",
+    "nilus":                   "Hadrian AR Denarius — NILVS",
 }
 
 # Grade order for distribution / statistics

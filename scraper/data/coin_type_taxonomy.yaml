@@ -214,6 +214,7 @@ roman_trajan_denarius:
     parent_slug: roman-trajan-ar-denarius
     date_range: "AD 104–107"
     ric: [216, 217, 219, 220]
+    sear: [3168]
     match_title:
       - "dacia capta"
       - "dacia"
@@ -232,6 +233,7 @@ roman_trajan_denarius:
     parent_slug: roman-trajan-ar-denarius
     date_range: "AD 111–114"
     ric: [292, 294]
+    sear: [3118]
     match_title:
       - "arabia"
       - "adqvisita"
@@ -250,6 +252,7 @@ roman_trajan_denarius:
     parent_slug: roman-trajan-ar-denarius
     date_range: "AD 112–114"
     ric: [291, 293]
+    sear: [3166]
     match_title:
       - "column"
       - "trajan.*column"
@@ -280,6 +283,124 @@ roman_trajan_denarius:
       Fine Style on these is exceptional and adds premium.
     relative_value: 1.0
     rarity: very_common
+
+# ---------------------------------------------------------------------------
+# ROMAN — HADRIAN DENARIUS
+# Travel/Restitutor series: province-personification reverses struck c.130–138.
+# Very rare and desirable; trade at significant premiums over common types.
+# Detection relies on reverse legend (province name) which Heritage omits —
+# patterns here are for CNG-style sources that include full type descriptions.
+# ---------------------------------------------------------------------------
+roman_hadrian_denarius:
+
+  - id: aegyptos
+    label: "Hadrian AR Denarius — AEGYPTOS"
+    parent_slug: roman-hadrian-ar-denarius
+    date_range: "AD 130–138"
+    ric: [296, 297]
+    sear: [3382]
+    match_title:
+      - "aegyptos"
+      - "egypt.*reclining"
+      - "ibis.*feet"
+      - "travel.*egypt"
+    match_reverse:
+      - "aegyptos"
+      - "egypt reclining"
+      - "egypt.*ibis"
+    notes: >
+      AEGYPTOS reclining left, holding sistrum; ibis at feet. RIC 296 (var.),
+      RIC 297. Part of Hadrian's "Restitutor" province travel series. Among the
+      rarest and most desirable of all Hadrian denarii. Very few examples appear
+      at auction. Condition premium extreme — even VF specimens sell strongly.
+    relative_value: 10.0
+    rarity: very_rare
+
+  - id: hispania
+    label: "Hadrian AR Denarius — HISPANIA"
+    parent_slug: roman-hadrian-ar-denarius
+    date_range: "AD 134–138"
+    ric: [305, 306]
+    sear: [3396]
+    match_title:
+      - "hispania"
+      - "hispani.*reclining"
+      - "travel.*spain"
+    match_reverse:
+      - "hispania"
+      - "hispania reclining"
+      - "hispania.*rabbit"
+    notes: >
+      HISPANIA reclining left, holding olive branch; rabbit at feet. RIC 305–306,
+      Sear 3396. Hadrianʼs birth province (born in Italica, Hispania). The rabbit
+      at feet is a distinctively identifiable reverse element. Rare and actively
+      collected. 8-12x premium over common Hadrian denarii.
+    relative_value: 8.0
+    rarity: very_rare
+
+  - id: africa
+    label: "Hadrian AR Denarius — AFRICA"
+    parent_slug: roman-hadrian-ar-denarius
+    date_range: "AD 134–138"
+    ric: [299]
+    sear: [3459]
+    match_title:
+      - "africa.*reclining"
+      - "africa.*elephant"
+      - "travel.*africa"
+    match_reverse:
+      - "\\bafrica\\b"
+      - "africa reclining"
+      - "africa.*scorpion"
+    notes: >
+      AFRICA reclining left, holding scorpion; elephant head at her feet. RIC 299,
+      Sear 3459. Elephant head reverse element makes this immediately recognizable.
+      Scarce to rare. Strong collector demand from both Roman and African history
+      enthusiasts. 6-10x premium.
+    relative_value: 7.0
+    rarity: very_rare
+
+  - id: italia
+    label: "Hadrian AR Denarius — ITALIA"
+    parent_slug: roman-hadrian-ar-denarius
+    date_range: "AD 134–138"
+    ric: [307]
+    sear: [3499]
+    match_title:
+      - "\\bitalia\\b"
+      - "italia.*standing"
+      - "travel.*ital"
+    match_reverse:
+      - "\\bitalia\\b"
+      - "italia standing"
+    notes: >
+      ITALIA standing, holding sceptre and cornucopia. RIC 307, Sear 3499.
+      Represents Hadrianʼs restoration of Italy. Rarer than most travel series
+      pieces. Significant premium over standard Hadrian denarii.
+    relative_value: 6.0
+    rarity: very_rare
+
+  - id: nilus
+    label: "Hadrian AR Denarius — NILVS"
+    parent_slug: roman-hadrian-ar-denarius
+    date_range: "AD 134–138"
+    ric: [310]
+    sear: [3508]
+    match_title:
+      - "nilvs"
+      - "nilus"
+      - "nile.*reclining"
+    match_reverse:
+      - "nilvs"
+      - "nilus reclining"
+      - "nile.*hippopotamus"
+    notes: >
+      NILVS reclining right, holding reed and cornucopia; hippopotamus beneath.
+      RIC 310, Sear 3508. The Nile personification with hippo reverse is among
+      the most visually distinctive and desirable of all Hadrian types.
+      Strong collector demand; auction appearances relatively rare.
+    relative_value: 8.0
+    rarity: very_rare
 
 # ---------------------------------------------------------------------------
 # ROMAN — AUGUSTUS DENARIUS
