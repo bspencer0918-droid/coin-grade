@@ -4,22 +4,22 @@
   "ruler": "Geta",
   "ruler_normalized": "geta",
   "dynasty": "Severan",
-  "ruler_dates": "AD 209\u2013211",
+  "ruler_dates": "AD 209\u00e2\u20ac\u201c211",
   "ruler_rarity": "scarce",
   "denomination": "Unknown",
   "metal": "silver",
-  "sale_count": 20,
-  "realized_count": 20,
+  "sale_count": 21,
+  "realized_count": 21,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 39.0,
     "max": 1440.0
   },
-  "median_price_usd": 175.5,
+  "median_price_usd": 192.0,
   "last_sale_date": "2026-01-16",
   "grade_distribution": {
-    "VF": 12,
+    "VF": 13,
     "AU": 2,
     "XF": 3,
     "F": 3
@@ -34,6 +34,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-6e33d0b2f979",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13531/roman-republic/11954776/roman-republic-trio-of-ar",
+      "title": "ROMAN REPUBLIC. Trio of AR Denarii (3 Pieces), ca. 2nd-1st Centuries B.C. All NGC Certified. <br> 1) C. Hosidius C.f. Geta. Rome Mint, ca. 68 B.C. NGC VF.<p></p><p>2) Cn. Lentulus. Uncertain Spanish Mint, ca. 76-75 B.C. NGC VF.</p><p></p><p>3) M. Caecilius Metellus. Rome Mint, ca. 127 B.C. NGC VF. Edge Scuff.</p>",
+      "description": "Stack\u2019s Bowers and Ponterio | ['January 2026 NYINC Showcase Auction']",
+      "hammer_price_usd": 460.0,
+      "currency_original": "USD",
+      "price_original": 460.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-11f6ad83bcbd",
       "source": "coinarchives",

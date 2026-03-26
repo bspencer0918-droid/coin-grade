@@ -4,12 +4,12 @@
   "ruler": "Caligula",
   "ruler_normalized": "caligula",
   "dynasty": "Julio-Claudian",
-  "ruler_dates": "AD 37\u201341",
+  "ruler_dates": "AD 37\u00e2\u20ac\u201c41",
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 51,
-  "realized_count": 51,
+  "sale_count": 52,
+  "realized_count": 52,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -19,7 +19,7 @@
   "median_price_usd": 5040.0,
   "last_sale_date": "2026-01-23",
   "grade_distribution": {
-    "XF": 15,
+    "XF": 16,
     "AU": 7,
     "VF": 21,
     "F": 6,
@@ -36,6 +36,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-c887d1538d5e",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13525/ancients-roman-imperial/11946001/gaius-caligula-ad-37-41-with",
+      "title": "Gaius (Caligula) (AD 37-41), with Agrippina Senior. AR denarius (18mm, 3.85 gm, 8h). NGC Choice XF 4/5 - 2/5, brushed, scuffs. Lugdunum, ca. AD 37-38. C\u2022CAESAR\u2022AVG\u2022GERM\u2022P\u2022M\u2022TR\u2022POT, bare head of Caligula right / AGRIPPINA\u2022MAT\u2022C\u2022CAES\u2022AVG\u2022GERM, draped bust of Agrippina Senior right, seen from front, hair arranged in ringlets along brow line and gathered into looped plait at back. RIC I 8.   Most ancient historians agree Agrippina Senior, the granddaughter of Augustus, was a model of rectitude and matronly virtue. She also went beyond the traditional role of a Roman wife in accompanying her husband Germanicus on dangerous military campaigns and foreign postings. The Roman people admired her courage; however she also had an imperious nature that irritated her peers and relations, particularly the Emperor Tiberius. The mysterious death of Germanicus in AD 19 led to further clashes. Agrippina believed Tiberius and/or Livia had a hand in his demise and made no secret of her suspicions. In AD 29 she was charged with treason and banished to a remote island; repeatedly abused and starved, she died four years later. Upon the death of Tiberius, her son Gaius 'Caligula' became emperor and rehabilitated his mother's reputation, ostentatiously placing her ashes to the Mausoleum of Augustus and striking this attractive denarius pairing her portrait with his own.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature Auction #3130']",
+      "hammer_price_usd": 11500.0,
+      "currency_original": "USD",
+      "price_original": 11500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-22",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-8a790285fa6a",
       "source": "coinarchives",

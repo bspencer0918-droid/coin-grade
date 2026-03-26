@@ -4,22 +4,22 @@
   "ruler": "Caracalla",
   "ruler_normalized": "caracalla",
   "dynasty": "Severan",
-  "ruler_dates": "AD 198\u2013217",
+  "ruler_dates": "AD 198\u00e2\u20ac\u201c217",
   "ruler_rarity": null,
   "denomination": "AR Drachm",
   "metal": "silver",
-  "sale_count": 3,
-  "realized_count": 3,
+  "sale_count": 4,
+  "realized_count": 4,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 104.0,
-    "max": 220.0
+    "max": 264.0
   },
-  "median_price_usd": 139.0,
+  "median_price_usd": 179.5,
   "last_sale_date": "2025-11-16",
   "grade_distribution": {
-    "AU": 1,
+    "AU": 2,
     "VF": 1,
     "F": 1
   },
@@ -33,6 +33,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-b0e7311ba07f",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13395/ancients-greek/11827951/parthian-kingdom-vologases-vi-ad",
+      "title": "PARTHIAN KINGDOM. Vologases VI (AD 207-222). AR drachm (20mm, 1h). NGC Choice AU. Ecbatana. Diademed bust of Vologases VI left, wearing pointed beard and domed tiara; I) in right field / Corrupted Greek legend, archer in Parthian dress (Arsaces I) enthroned right, holding bow outward; AT monogram under bow. Sunrise 459. Shore 458. Sellwood 88.19.  The reign of Vologases VI heralded the twilight of the Parthian Empire. Frequent diplomatic disputes with the Roman emperor Caracalla, known for his merciless military campaigns, reached a fever pitch in 215 AD. This nearly led to a massive and bloody Roman invasion, but this potential catastrophe was narrowly avoided. Vologases VI's rule faced further destabilization with the rise of Ardashir I, the founder of the Sassanid dynasty. The rebels from the south expanded their control over the territories of the Parthian Empire, culminating in the overthrow of Vologases VI's brother, Artabanus IV, in 224 AD. This event signified the end of Parthian rule and marked the beginning of Sassanian dominion over Iran.  Despite these challenges, Vologases VI continued to mint coinage in Seleucia until 228 AD, although details about his time there or his eventual fate are lacking in any historical sources. The coinage from his era, notably the highly debased tetradrachms containing only 10 to 15 percent silver, featured a flat, linear style of portraiture nearly identical to those of his predecessors of the same name. Behind the king's crown are the Aramaic letters \"waw\" and \"lamadh,\" representing \"wlgsy,\" derived from his Parthian name Walagash, which was Latinized as Vologases.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61568']",
+      "hammer_price_usd": 264.0,
+      "currency_original": "USD",
+      "price_original": 264.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-ee188bb0d4f4",
       "source": "coinarchives",

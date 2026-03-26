@@ -8,19 +8,19 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "gold",
-  "sale_count": 13,
-  "realized_count": 13,
+  "sale_count": 15,
+  "realized_count": 15,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 84.0,
     "max": 240000.0
   },
-  "median_price_usd": 156.0,
+  "median_price_usd": 280.0,
   "last_sale_date": "2026-01-16",
   "grade_distribution": {
+    "VF": 8,
     "MS": 1,
-    "VF": 6,
     "AU": 3,
     "XF": 2,
     "F": 1
@@ -35,6 +35,72 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-0bc0d7ab23c3",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13395/ancients-greek/11827789/ionia-phocaea-ca-387-326-bc",
+      "title": "IONIA. Phocaea. Ca. 387-326 BC. EL hecte (10mm, 2.55 gm). NGC Choice VF 5/5 - 4/5. Head of Athena left, wearing beaded necklace and crested Corinthian helmet pushed back on head, bowl decorated with coiled serpent / Quadripartite incuse square. Bodenstedt 111.  Situated on the western coast of modern-day Turkey, Phocaea was an ancient Ionian city celebrated for its maritime prowess and commercial acumen. This mercantile dynamism was reflected in the city's distinct contribution to the history of coinage. Phocaea was among the earliest cities to produce electrum coinage, a naturally occurring alloy of gold and silver that was a precursor to the later, more standardized coinage in pure gold and silver. This Phocaean electrum coinage, minted around the sixth through fourth centuries BC, was characterized by a range of richly symbolic designs, including mystical creatures, prominent deities, and civic emblems, all indicative of their vibrant cultural life and marked by exceptional detail and high relief owing to the skill of Ionian die engravers.    HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61568']",
+      "hammer_price_usd": 1200.0,
+      "currency_original": "USD",
+      "price_original": 1200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-9d28e3244298",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13395/ancients-greek/11827790/ionia-phocaea-ca-387-326-bc",
+      "title": "IONIA. Phocaea. Ca. 387-326 BC. EL hecte (10mm, 2.46 gm). NGC Choice VF 4/5 - 3/5, marks. Head of Athena left, wearing beaded necklace and crested Corinthian helmet pushed back on head, bowl decorated with coiled serpent / Quadripartite incuse square. Bodenstedt 111.  Situated on the western coast of modern-day Turkey, Phocaea was an ancient Ionian city celebrated for its maritime prowess and commercial acumen. This mercantile dynamism was reflected in the city's distinct contribution to the history of coinage. Phocaea was among the earliest cities to produce electrum coinage, a naturally occurring alloy of gold and silver that was a precursor to the later, more standardized coinage in pure gold and silver. This Phocaean electrum coinage, minted around the sixth through fourth centuries BC, was characterized by a range of richly symbolic designs, including mystical creatures, prominent deities, and civic emblems, all indicative of their vibrant cultural life and marked by exceptional detail and high relief owing to the skill of Ionian die engravers. Phocaean coinage holds notable significance for its inclusion of the seal, a marine creature emblematic of the city's affiliation with the sea and its maritime economy.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61568']",
+      "hammer_price_usd": 1200.0,
+      "currency_original": "USD",
+      "price_original": 1200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-dfaf36805f6f",
       "source": "coinarchives",

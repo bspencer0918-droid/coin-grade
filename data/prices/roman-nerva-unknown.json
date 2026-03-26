@@ -4,12 +4,12 @@
   "ruler": "Nerva",
   "ruler_normalized": "nerva",
   "dynasty": "Nerva-Antonine",
-  "ruler_dates": "AD 96\u201398",
+  "ruler_dates": "AD 96\u00e2\u20ac\u201c98",
   "ruler_rarity": null,
   "denomination": "Unknown",
-  "metal": "bronze",
-  "sale_count": 40,
-  "realized_count": 40,
+  "metal": "silver",
+  "sale_count": 42,
+  "realized_count": 42,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -19,7 +19,8 @@
   "median_price_usd": 234.0,
   "last_sale_date": "2026-01-16",
   "grade_distribution": {
-    "VF": 26,
+    "MS": 1,
+    "VF": 27,
     "AU": 2,
     "XF": 6,
     "F": 6
@@ -34,6 +35,72 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-4492955c61ee",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13531/bolivia/11953066/bolivia-simon-bolivar-liberation-of-peru",
+      "title": "BOLIVIA. Simon Bolivar/Liberation of Peru and Gratitude of Chuquisaca Silver Medal, 1825. NGC MS-64. <br> cf. Fonrobert-9741. Obverse: Uniformed bust of Simon Bolivar right; Reverse: Athena/Minerva, holding spear and laurel wreath, and ancient warrior, holding laurel wreath, standing facing one another around globe. An alluring proclamation-style medal commemorating the Chuquisaca region's gratitude and honoring Independence brought on by the great liberator, Bolivar. This impressive near-Gem varies slightly in weight from other examples, weighing a few grams less than other specimens, while the surfaces are softly glimmering, with impressive surmounting tone.",
+      "description": "Stack\u2019s Bowers and Ponterio | ['January 2026 NYINC Showcase Auction']",
+      "hammer_price_usd": 1900.0,
+      "currency_original": "USD",
+      "price_original": 1900.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-54ee5006ac47",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13531/roman-republic/11954700/roman-republic-anonymous-ae-triens",
+      "title": "ROMAN REPUBLIC. Anonymous. AE Triens, Mint in Southeast Italy, 211-210 B.C. NGC Ch VF. <br> Cr-85/4; Syd-175B. Obverse: Helmeted head of Minerva right; Reverse: Prow of galley right; ROMA above; H to right. <br> From the Cookie Family Collection.<p>Ex: Baldwin's (private purchase 2014). <br> <strong>To view all items from the Cookie Family Collection, click <a href=\"https://auctions.stacksbowers.com/lots?sort=auction_date_lot_number_asc&search=From+the+Cookie+Family+Collection.&limit=96&lots_range=upcoming\" rel=\"noopener noreferrer nofollow\"> here.</a></strong></p>",
+      "description": "Stack\u2019s Bowers and Ponterio | ['January 2026 NYINC Showcase Auction']",
+      "hammer_price_usd": 200.0,
+      "currency_original": "USD",
+      "price_original": 200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-486db48d165e",
       "source": "coinarchives",

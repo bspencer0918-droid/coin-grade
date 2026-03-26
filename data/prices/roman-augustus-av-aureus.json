@@ -4,12 +4,12 @@
   "ruler": "Augustus",
   "ruler_normalized": "augustus",
   "dynasty": "Julio-Claudian",
-  "ruler_dates": "27 BC \u2013 AD 14",
+  "ruler_dates": "27 BC \u00e2\u20ac\u201c AD 14",
   "ruler_rarity": null,
   "denomination": "AV Aureus",
   "metal": "gold",
-  "sale_count": 105,
-  "realized_count": 105,
+  "sale_count": 107,
+  "realized_count": 107,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -19,9 +19,9 @@
   "median_price_usd": 13200.0,
   "last_sale_date": "2026-01-23",
   "grade_distribution": {
+    "AU": 19,
+    "XF": 42,
     "VF": 29,
-    "XF": 41,
-    "AU": 18,
     "F": 14,
     "VG": 3
   },
@@ -35,6 +35,72 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-7b7e21c59913",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13522/ancients-roman-imperial/11945145/augustus-27-bc-ad-14-av",
+      "title": "Augustus (27 BC-AD 14). AV aureus (19mm, 7.77 gm, 5h). NGC AU 4/5 - 3/5. Lugdunum, 15-13 BC. AVGVSTVS-DIVI\u2022F, bare head of Augustus right / IMP\u2022X, bull charging right, head lowered, left foreleg raised, thrashing tail. Calic\u00f3 212. RIC I 166a. Flashy, high reliefs.   Augustus' large \"bull coinage\" struck at the Gallic mint of Lugdunum came at a time of aggressive expansion for the regime. The bull is a visual reference to the city of Thurium in Lucania, to which Octavian's household had a strong connection. While serving as Praetor, the father of Octavian, Gaius Octavius, led Roman forces to victory over a band of rebel slaves near Thurium in 60 BC. Probably in commemoration of this Victory, Octavius bestowed on his then three-year-old son the cognomen Thurinus. Octavius died the following year and young Octavian soon dropped Thurinus from his name completely, but after his rise to power he recalled the familial connection by using a charging bull (the type used by Thurium in its Greek coinage of previous centuries) in its imagery.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction - New York #3129']",
+      "hammer_price_usd": 29000.0,
+      "currency_original": "USD",
+      "price_original": 29000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-12",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-87fa1c5dcc00",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13522/ancients-roman-imperial/11944606/augustus-27-bc-ad-14-av",
+      "title": "Augustus (27 BC-AD 14). AV aureus (18mm, 7.87 gm, 3h). NGC Choice XF 5/5 - 3/5, brushed. Lugdunum, 15-13 BC. AVGVSTVS-DIVI\u2022F, bare head of Augustus right / IMP\u2022X, bull charging right, head lowered, left foreleg raised, thrashing tail. Calic\u00f3 212. RIC I 166a. The engraver's artistic style is seen on the dynamic bull design and Augustus's hair, seeming to have just been mussed.  From The Peh Family Collection, Part IV. Ex Spink, Auction 1012 (2 December 2010), lot 1297.  Augustus' large \"bull coinage\" struck at the Gallic mint of Lugdunum came at a time of aggressive expansion for the regime. The bull is a visual reference to the city of Thurium in Lucania, to which Octavian's household had a strong connection. While serving as Praetor, the father of Octavian, Gaius Octavius, led Roman forces to victory over a band of rebel slaves near Thurium in 60 BC. Probably in commemoration of this Victory, Octavius bestowed on his then three-year-old son the cognomen Thurinus. Octavius died the following year and young Octavian soon dropped Thurinus from his name completely, but after his rise to power he recalled the familial connection by using a charging bull (the type used by Thurium in its Greek coinage of previous centuries) in its imagery.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction - New York #3129']",
+      "hammer_price_usd": 13500.0,
+      "currency_original": "USD",
+      "price_original": 13500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-12",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-2f09261e5a3c",
       "source": "coinarchives",

@@ -1,1 +1,68 @@
-{"slug": "other-ae-5", "category": "other", "ruler": null, "ruler_normalized": null, "dynasty": null, "ruler_dates": null, "denomination": "AE 5", "metal": "bronze", "sale_count": 2, "realized_count": 0, "fixed_price_count": 2, "ngc_verified_count": 0, "price_range_usd": {"min": 90.0, "max": 90.0}, "median_price_usd": 90.0, "last_sale_date": "2026-03-24", "grade_distribution": {"VG": 2}, "thumbnail_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid1656_combined.jpg", "sales": [{"id": "mashops-ff353da9cd34", "source": "mashops", "listing_type": "fixed_price", "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=1657", "title": "AE 5-Assaria Caracalla & Julia Domna NGC certified Caracalla and Julia Domna pentassarion, 211-217 (X38) NGC VG", "description": "AE 5-Assaria Caracalla & Julia Domna NGC certified Caracalla and Julia Domna pentassarion, 211-217 (X38) NGC VG", "hammer_price_usd": 90.0, "currency_original": "USD", "price_original": 90.0, "buyers_premium_included": false, "sale_date": "2026-03-24", "image_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid1656_combined.jpg", "ngc": {"verified": false, "cert_number": null, "grade": "VG", "grade_numeric": null, "strike_score": null, "surface_score": null, "details_grade": null, "certification_url": null}, "metadata": {"mint": null, "weight_g": null, "diameter_mm": null, "obverse_desc": null, "reverse_desc": null}, "image_hash": "ce64444bb3b1b14f"}, {"id": "mashops-a413043dc328", "source": "mashops", "listing_type": "fixed_price", "lot_url": "https://www.ma-shops.com/treewalk/item.php?id=1656", "title": "AE 5-Assaria Caracalla & Julia Domna NGC certified Caracalla and Julia Domna pentassarion, 211-217 (X38) NGC VG", "description": "AE 5-Assaria Caracalla & Julia Domna NGC certified Caracalla and Julia Domna pentassarion, 211-217 (X38) NGC VG", "hammer_price_usd": 90.0, "currency_original": "USD", "price_original": 90.0, "buyers_premium_included": false, "sale_date": "2026-03-24", "image_url": "https://img.ma-shops.com/treewalk/pic/thumb/artid1656_combined.jpg", "ngc": {"verified": false, "cert_number": null, "grade": "VG", "grade_numeric": null, "strike_score": null, "surface_score": null, "details_grade": null, "certification_url": null}, "metadata": {"mint": null, "weight_g": null, "diameter_mm": null, "obverse_desc": null, "reverse_desc": null}, "image_hash": "ce64444bb3b1b14f"}]}
+{
+  "slug": "other-ae-5",
+  "category": "other",
+  "ruler": null,
+  "ruler_normalized": null,
+  "dynasty": null,
+  "ruler_dates": null,
+  "ruler_rarity": null,
+  "denomination": "AE 5",
+  "metal": "bronze",
+  "sale_count": 1,
+  "realized_count": 1,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 650.0,
+    "max": 650.0
+  },
+  "median_price_usd": 650.0,
+  "last_sale_date": "2026-02-01",
+  "grade_distribution": {
+    "AU": 1
+  },
+  "thumbnail_url": null,
+  "median_weight_g": null,
+  "top_strike_score": 4,
+  "top_surface_score": 5,
+  "top_grade_numeric": 4,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "sixbid-065e119df752",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13556/ancients-roman-provincial/11984715/ancients-moesia-inferior-marcianopolis",
+      "title": "Ancients <br> MOESIA INFERIOR. Marcianopolis. Macrinus (AD 217-218) with Diadumenian. AE 5-assaria (28mm, 12.43 gm, 7h). NGC AU 4/5 - 5/5, Fine Style. Pontianus, consular legate. AVT K \u039f\u03a0E\u039b CEVH MAKPEINOC K M \u039f\u03a0E ANT\u03a9NEINOC, confronted heads of Macrinus right (on left), laureate, and Diadumenian left (on right), bareheaded / V\u03a0 \u03a0ONTIANOV MAP-KIANO\u03a0O\u039bEIT\u03a9N (AP ligate), Nemesis standing facing, head left, scales in outstretched right, scepter cradled in left arm; wheel at feet to left, E (mark of value) in right field. Varbanov 1207-1209. A particularly fine example of its type.    HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61593']",
+      "hammer_price_usd": 650.0,
+      "currency_original": "USD",
+      "price_original": 650.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-02-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

@@ -8,20 +8,20 @@
   "ruler_rarity": null,
   "denomination": "AR Stater",
   "metal": "electrum",
-  "sale_count": 42,
-  "realized_count": 42,
+  "sale_count": 45,
+  "realized_count": 45,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 460.0,
     "max": 9600.0
   },
-  "median_price_usd": 1830.0,
+  "median_price_usd": 1800.0,
   "last_sale_date": "2026-01-16",
   "grade_distribution": {
-    "XF": 13,
-    "AU": 25,
-    "VF": 1,
+    "AU": 26,
+    "VF": 2,
+    "XF": 14,
     "MS": 3
   },
   "thumbnail_url": "https://media.coinarchives.com/a42608a85d7e30d2fca2bca323950cb1/img/tcc/a28/image00043.jpg",
@@ -34,6 +34,105 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-a58fe0709391",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/nihon-coin-auction/13497/gu-dai-girishiya-ancient-greek/11929422/gu-dai-girishiya-ancient-greek-korinteia-korinto",
+      "title": "\u53e4\u4ee3\u30ae\u30ea\u30b7\u30e3 ANCIENT GREEK \u30b3\u30ea\u30f3\u30c6\u30a3\u30a2 \u30b3\u30ea\u30f3\u30c8 Corinthia Corinth  \u30b9\u30c6\u30fc\u30bf\u30fc\u9280\u8ca8 AR Stater 350-306BC. \u5de6\u5411\u304d\u30a2\u30c6\u30ca\u50cf\u306e\u524d\u306b\u25b3, \u5f8c\u90e8\u306b\u201d I \"\u3068\u5175\u58eb/ \u7fbd\u3070\u305f\u304f\u30da\u30ac\u30b5\u30b9\u306e\u4e0b\u306b\u30ae\u30ea\u30b7\u30e3\u6587\u5b57 \u30ed\u30fc \" \u03a1 \" 8.43gm Sear-2631var NGC AU Strike: 4/5 Surface: 4/5 (6656265-051)\u3000Toned VF",
+      "description": "Nihon Coin Auction | ['No.62 Nihon Coin Auction']",
+      "hammer_price_usd": 1282.15,
+      "currency_original": "USD",
+      "price_original": 1282.1466,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "6656265-051",
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/6656265051/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-014536acd63c",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13229/ancients-greek/11677316/lucania-metapontum-ca-340-330-bc",
+      "title": "LUCANIA. Metapontum. Ca. 340-330 BC. AR stater (19mm, 7.87 gm, 11h). NGC Choice VF 5/5 - 5/5, Fine Style. Ap- and Ami-, magistrates. Head of Leucippus right, wearing Corinthian helmet pushed back on head; lion head right behind, A\u03a0 monogram under chin / META, ear of barley with leaf to left; vertical club above leaf, AMI below leaf. HN Italy 1575. Johnston B2. Detailed Fine Style dies display a lush beard for Leucippus.    HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice <br> Ancients",
+      "description": "Heritage Auctions, Inc. | ['Auction #61555']",
+      "hammer_price_usd": 950.0,
+      "currency_original": "USD",
+      "price_original": 950.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-06",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-5c4df5794721",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13531/soloi/11954613/cilicia-soloi-ar-stater-10-85",
+      "title": "CILICIA. Soloi. AR Stater (10.85 gms), ca. 440-410 B.C. NGC Ch EF, Strike: 4/5 Surface: 4/5. Die Shift. <br> SNG Levante-37; SNG BN-124. Obverse: Amazon, wearing a pointed bonnet, with drapery around her waist and at least one breast bare, kneeling to left, holding her bow with both hands; at her waist, gorytos; in field to left and below, ivy leaf; behind her back to right, Corinthian helmet; Reverse: \u03a3\u039f\u039b\u0395\u03a9\u039d, large and plump bunch of grapes; to left, laurel branch; all within border of dots in an incuse square.<p></p><p> <br> From the Peter Jones M.D. Collection (Greek Coin Art pg. 189; #2965).</p><p></p><p></p><p></p><p>Ex: Davissons E-Auction 36 (8/2020), Lot # 30 (with ticket).</p><p> <br> <strong>To view all items from the Peter Jones M.D. Collection, click <a href=\"https://auctions.stacksbowers.com/lots?sort=auction_date_lot_number_asc&search=From+the+Peter+Jones+M.D.+Collection.&limit=96&lots_range=upcoming\" rel=\"noopener noreferrer nofollow\"> here.</a></strong></p>",
+      "description": "Stack\u2019s Bowers and Ponterio | ['January 2026 NYINC Showcase Auction']",
+      "hammer_price_usd": 460.0,
+      "currency_original": "USD",
+      "price_original": 460.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-090753e9a1a3",
       "source": "coinarchives",

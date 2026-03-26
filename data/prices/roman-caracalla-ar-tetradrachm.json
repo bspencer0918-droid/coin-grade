@@ -4,12 +4,12 @@
   "ruler": "Caracalla",
   "ruler_normalized": "caracalla",
   "dynasty": "Severan",
-  "ruler_dates": "AD 198\u2013217",
+  "ruler_dates": "AD 198\u00e2\u20ac\u201c217",
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 207,
-  "realized_count": 207,
+  "sale_count": 208,
+  "realized_count": 208,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -19,11 +19,11 @@
   "median_price_usd": 159.0,
   "last_sale_date": "2026-02-26",
   "grade_distribution": {
+    "MS": 14,
     "G": 1,
     "AU": 43,
     "XF": 100,
     "VF": 48,
-    "MS": 13,
     "F": 2
   },
   "thumbnail_url": "https://media.coinarchives.com/0300d9f02ac439aa26d357ed07ea0826/img/goldberg/150/image00604.jpg",
@@ -36,6 +36,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-62f19715ef37",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13229/ancients-roman-provincial/11677394/syria-antioch-caracalla-ad-198-217",
+      "title": "SYRIA. Antioch. Caracalla (AD 198-217). BI tetradrachm (27mm, 14.30 gm, 11h). NGC MS S 5/5 - 5/5. Ca. AD 205-207. A\u03a5\u03a4 \u039a\u0391\u0399-\u0391\u039d\u03a4\u03a9\u039d\u0395\u0399\u039d\u039f\u03f9, laureate head of Caracalla right / \u0394\u0397\u039c\u0391\u03a1\u03a7\u2022\u0395\u039e\u2022-\u03a5\u03a0\u0391\u03a4\u039f\u2022\u0392\u2022, eagle standing facing, head and tail right, wreath in beak, wings spread, standing on leg and thigh of animal. McAlee 667. Prieur 202. RPC V.3 Online unassigned 84443 corr. (reverse depiction). Defined, reflective dies with splashes of marigold patina.   Ex Prieur Collection.  Born in Lugdunum in AD 188, while his father was serving as governor of Gaul, Lucius Septimius Bassianus started out life as a cheerful, affable youth whose character deteriorated as he gained more prestige and power. His father, Septimius Severus, seized the throne and defended it against all rival claimants during the civil wars of AD 193-197. Bassianus was named Caesar in AD 195 and was further elevated to co-Augustus with his father three years later, when he was only 10. His name was changed to Marcus Aurelius Antoninus in honor of the revered Antonine dynasty, but the boy preferred barbarian manners and fashions, and he soon earned a nickname after a type of hooded Germanic cloak he liked to wear - Caracalla (or, in modern terms, \"hoodie\"). Caracalla also arranged for the assassination of his brother, Geta, months after they took power as co-emperors following the death of their father. He was later assassinated by a disgruntled soldier after Caracalla had denied him a promotion. This soldier acted at the behest of Macrinus, who declared himself emperor three days later.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice <br> Ancients",
+      "description": "Heritage Auctions, Inc. | ['Auction #61555']",
+      "hammer_price_usd": 2000.0,
+      "currency_original": "USD",
+      "price_original": 2000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-06",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-dd1936ed02ca",
       "source": "coinarchives",

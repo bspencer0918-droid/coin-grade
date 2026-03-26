@@ -8,18 +8,18 @@
   "ruler_rarity": null,
   "denomination": "AV Stater",
   "metal": "gold",
-  "sale_count": 17,
-  "realized_count": 17,
+  "sale_count": 18,
+  "realized_count": 18,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 1380.0,
     "max": 146400.0
   },
-  "median_price_usd": 8400.0,
+  "median_price_usd": 10200.0,
   "last_sale_date": "2026-01-12",
   "grade_distribution": {
-    "MS": 4,
+    "MS": 5,
     "XF": 3,
     "AU": 10
   },
@@ -33,6 +33,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-4b181e1e2d4c",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13522/ancients-greek/11945103/bactrian-kingdom-diodotus-i-soter",
+      "title": "BACTRIAN KINGDOM. Diodotus I Soter, as Satrap (ca. 255-235 BC). AV stater (18mm, 8.39 gm, 5h). NGC MS S 5/5 - 5/5, Fine Style. Mint A, probably Ai Khanoum (or nearby), in the name of Antiochus II, ca. 255-246 BC. Diademed head of Diodotus I right / \u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 / \u0391\u039d\u03a4\u0399\u039f\u03a7\u039f\u03a5, Zeus, nude, striding left, seen from behind, brandishing thunderbolt with right hand, aegis over outstretched left arm; wreath above eagle with raised wings standing left at feet before. Bopearachchi 1A. SC 629.2. Exceptional quality struck from artistic dies.  From The Cambridge Collection. Ex Heritage Auctions, Auction 3041 (13 August 2015), lot 32043.  The confusion around the reign of Diodotus I, including his coinage, mirrors a greater lack of understanding of the events of central Asia during the middle decades of the 3rd century BC. The Seleucid king Antiochus II, in whose name this coin was minted, was primarily concerned with his possessions in the Levant and Asia Minor, and he neglected the eastern satrapies - Parthia, Aria, Bactria, etc. His death in 246 BC triggered the Third Syrian War, in which the Seleucids suffered a massive defeat to Ptolemaic Egypt, losing Palestine and many thousands of men. The war meant that Seleucid armies were occupied with western affairs for five years, and ambitious Greek satraps in the East saw their chance to throw off Seleucid domination. The Parthian satrap Andragoras revolted against the Seleucids in 246 BC, minting his own coinage with his name and governing independently until he himself was killed and his territory conquered by the Parni, who later conquered all of Seleucid Persia as \"the Parthians.\" The chronology of Diodotus is more complicated and the facts are murkier. While Andragoras certainly intended his revolt to mean complete independence from the start, Diodotus likely fashioned himself early on as a kind of semi-independent governor that nevertheless was still in the Seleucid sphere. He was probably appointed satrap of Bactria in the mid-250s BC, and due to the far-flung nature of his province, was able to exert a certain level of independence, which included striking coins such as this piece with his own portrait but the name of Antiochus. It is likely, but not certain, that like Andragoras, Diodotus used the utter Seleucid defeat in Syria and Palestine to assert full independence, and perhaps the outbreak of the war with the Ptolemies was the moment that Diodotus' coinage abandoned the name of the now-dead Seleucid king Antiochus II in favor of his own. Thus, though the period provides uncertainty, this issue was likely struck while Diodotus was satrap but before the Third Syrian War, since it does not bear his name, placing this coin ca. 255-246 BC.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction - New York #3129']",
+      "hammer_price_usd": 28000.0,
+      "currency_original": "USD",
+      "price_original": 28000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-12",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-8bf3b080a7d7",
       "source": "coinarchives",

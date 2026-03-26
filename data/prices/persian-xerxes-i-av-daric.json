@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AV Daric",
   "metal": "gold",
-  "sale_count": 112,
-  "realized_count": 112,
+  "sale_count": 113,
+  "realized_count": 113,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,10 +17,10 @@
     "max": 26400.0
   },
   "median_price_usd": 3600.0,
-  "last_sale_date": "2026-01-12",
+  "last_sale_date": "2026-01-16",
   "grade_distribution": {
+    "XF": 15,
     "MS": 50,
-    "XF": 14,
     "AU": 47,
     "VF": 1
   },
@@ -34,6 +34,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-83c839f7cc4e",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13531/xerxes-ii-to-artaxerxes-ii/11952891/persia-achaemenidae-xerxes-ii-to",
+      "title": "PERSIA. Achaemenidae. Xerxes II to Artaxerxes II, ca. 420-375 B.C. AV Daric (8.29 gms), Sardes Mint. NGC EF, Strike: 5/5 Surface: 3/5. Marks, Brushed. <br> Carradice Type-IIIB; Sunrise-24. Obverse: Persian king or hero, wearing kidaris and kandys, quiver over shoulder, in kneeling-running stance right, holding spear and bow; Reverse: Incuse punch. Well-centered, with a muted deep golden glow. Minor marks, but an otherwise satisfying example of the type. <br> From the Peter Jones M.D. Collection (Greek Coin Art pg. 205; #2417). <br> <strong>To view all items from the Peter Jones M.D. Collection, click <a href=\"https://auctions.stacksbowers.com/lots?sort=auction_date_lot_number_asc&search=From+the+Peter+Jones+M.D.+Collection.&limit=96&lots_range=upcoming\" rel=\"noopener noreferrer nofollow\"> here.</a></strong>",
+      "description": "Stack\u2019s Bowers and Ponterio | ['January 2026 NYINC Showcase Auction']",
+      "hammer_price_usd": 3200.0,
+      "currency_original": "USD",
+      "price_original": 3200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-8a5053e61368",
       "source": "coinarchives",

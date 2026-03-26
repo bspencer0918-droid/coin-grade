@@ -4,23 +4,23 @@
   "ruler": "Claudius",
   "ruler_normalized": "claudius",
   "dynasty": "Julio-Claudian",
-  "ruler_dates": "AD 41\u201354",
+  "ruler_dates": "AD 41\u00e2\u20ac\u201c54",
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 155,
-  "realized_count": 155,
+  "sale_count": 156,
+  "realized_count": 156,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 77.0,
     "max": 32400.0
   },
-  "median_price_usd": 312.0,
+  "median_price_usd": 324.0,
   "last_sale_date": "2026-02-12",
   "grade_distribution": {
+    "AU": 29,
     "VF": 59,
-    "AU": 28,
     "XF": 44,
     "F": 17,
     "VG": 3,
@@ -36,6 +36,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-77d3885a48ea",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13522/ancients-roman-imperial/11945149/nero-claudius-drusus-38-9-bc",
+      "title": "Nero Claudius Drusus (38-9 BC). AR denarius (20mm, 3.82 gm, 1h). NGC AU S 5/5 - 4/5. Posthumous issue of Rome, AD 41-45. NERO CLAVDIVS DRVSVS GERMANICVS IMP, laureate head of Drusus left / DE GERMANIS on architrave of triumphal arch surmounted by equestrian statue to left between two trophies. RIC I (Claudius I) 72. Breathtakingly handsome portrait, complemented by fiery peripheral toning on a large flan. Very rare and among the finest specimens known.  From the Mirabilis Collection. Ex Numismatica Ars Classica, Auction 141 (7 November 2023), lot 205; Roma Numismatics, Auction XVIII (29 September 2019, lot 1078; Exceptional Roman Denarii Collection (Ira & Larry Goldberg, Auction 80, 3 June 2014), lot 3112; S.C. Markoff Collection of Roman Coins (Numismatica Ars Classica, Auction 62, 6 October 2011), lot 2018; Numismatica Ars Classica, Auction 29 (11 May 2005), lot 466; Tkalec sale 2000, 234.  Nero Drusus, formally known as Drusus the Elder, was a distinguished military commander and political figure of ancient Rome, born in 38 BC to Livia Drusilla and her first spouse, Tiberius Claudius Nero. Following Livia's subsequent marriage to Emperor Augustus, Drusus became his stepson. Drusus was united in matrimony with Antonia Minor, daughter of Marc Antony and Octavia Minor, producing several children, including the future Emperor Claudius I.  Drusus garnered acclaim through his military expeditions across the Rhine and into Germanic territories between 12 and 9 BC. His conquests were instrumental in extending Roman dominion over these regions, fortifying the Empire's northeastern frontier. Additionally, the construction of a fortification network, known as the Drusus Wall, is attributed to him, further underscoring his military achievements. While on the political front, Drusus ascended to notable positions, including the praetorship, reflecting his rising prominence within the Roman political sphere. His rapport with the soldiers under his command, coupled with his military successes, endeared him to the Roman populace. Tragically, his life was cut short at the age of 29 due to an injury sustained from a fall off of his horse on a campaign in Germania in 9 BC. His demise was a source of Roman lament, yet his legacy endured, particularly through his son, Emperor Claudius I, as shown through this denarius.  The Arch of Drusus that appears on the reverse of this coin and which commemorated his campaigns in Germania has not survived. Its precise location is not known, but it was on the Appian way.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction - New York #3129']",
+      "hammer_price_usd": 15500.0,
+      "currency_original": "USD",
+      "price_original": 15500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-12",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-c79505b1578e",
       "source": "coinarchives",

@@ -4,23 +4,23 @@
   "ruler": "Vespasian",
   "ruler_normalized": "vespasian",
   "dynasty": "Flavian",
-  "ruler_dates": "AD 69\u201379",
+  "ruler_dates": "AD 69\u00e2\u20ac\u201c79",
   "ruler_rarity": null,
   "denomination": "AV Aureus",
   "metal": "gold",
-  "sale_count": 93,
-  "realized_count": 93,
+  "sale_count": 94,
+  "realized_count": 94,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 1320.0,
     "max": 168000.0
   },
-  "median_price_usd": 5280.0,
+  "median_price_usd": 5400.0,
   "last_sale_date": "2026-02-23",
   "grade_distribution": {
+    "XF": 17,
     "MS": 5,
-    "XF": 16,
     "VF": 21,
     "AU": 13,
     "G": 1,
@@ -37,6 +37,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-b006e62fbcfa",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13208/empire-romain-roman/11661126/empire-romain-romanvespasien-69-79",
+      "title": "EMPIRE ROMAIN - ROMAN<br>Vespasien (69-79). Aureus ND (69-71), Rome. NGC Ch XF 5/5 4/5 (6639766-001).<br>Av. IMP CAESAR VESPASIANVS AVG. T\u00eate laur\u00e9e \u00e0 droite. <br>Rv. COS ITER - TR POT. L\u2019\u00c9quit\u00e9 \u00e0 gauche avec un sceptre et les balances.<br>Calic\u00f3 604 - RIC.5 ; Or - 7,23 g - 19 mm - 5 h<br>NGC Ch XF 5/5 4/5 (6639766-001). <br>Les champs sont brunis mais le brillant d\u2019origine reste visible autour des reliefs. Faible usure. Superbe.",
+      "description": "MDC Monaco | ['Auction 17']",
+      "hammer_price_usd": 9403.2,
+      "currency_original": "USD",
+      "price_original": 9403.2,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "6639766-001",
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/6639766001/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-a64c192aa3e6",
       "source": "coinarchives",

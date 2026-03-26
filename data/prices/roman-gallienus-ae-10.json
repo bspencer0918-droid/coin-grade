@@ -8,30 +8,63 @@
   "ruler_rarity": null,
   "denomination": "AE 10",
   "metal": "bronze",
-  "sale_count": 7,
-  "realized_count": 7,
+  "sale_count": 8,
+  "realized_count": 8,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 49.0,
     "max": 660.0
   },
-  "median_price_usd": 195.2,
+  "median_price_usd": 177.6,
   "last_sale_date": "2026-03-15",
   "grade_distribution": {
-    "XF": 1,
-    "VF": 6
+    "VF": 7,
+    "XF": 1
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-1-6-2-4-21624152&w=120&h=300&it=product",
   "median_weight_g": null,
-  "top_strike_score": null,
-  "top_surface_score": null,
-  "top_grade_numeric": null,
+  "top_strike_score": 5,
+  "top_surface_score": 3,
+  "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-42d8aa6b39dc",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13634/ancients-roman-provincial/12048947/pamphylia-perge-gallienus-ad-253-268",
+      "title": "PAMPHYLIA. Perge. Gallienus (AD 253-268). AE 10-assaria (30mm, 17.10 gm, 11h). NGC Choice VF 5/5 - 3/5. \u0391\u03a5 \u039a \u03a0 \u039b\u0399 \u0393-\u0391\u039b\u039b\u0399\u0397\u039d\u039f\u039d-\u0395\u03a5 \u03f9\u0395\u0392, radiate, draped, and cuirassed bust of Galienus right, seen from behind; I before / \u0391 / \u03a0\u0395\u03a1/\u0393\u0391\u0399\u03a9\u039d / \u039d\u0395\u03a9\u039a\u039f/\u03a1\u03a9\u039d, legend in five lines within wreath. RPC-, cf. X Online Unassigned 84350 for reverse, cf. X Online Unassigned 84351 for obverse. Type not yet found in sales archives.   Ex Ancient Byways, private sale with old dealer's tag included.  Publius Licinius Egnatius Gallienus proudly holds the title of longest ruling emperor during the Crisis of the Third Century. In a time of chaos and the potential collapse of the Empire as a whole, Gallienus stands out as an emperor who made significant reforms, including strengthening the cavalry and relying more on professional soldiers over senatorial generals. He also supported the arts and promoted a more centralized imperial authority. Though he managed to fend off several external threats, his rule was plagued by internal rebellion, and he was ultimately assassinated by his own officers. Gallienus' coinage is notable for its rapid debasement throughout his reign, Early reign issues being much finer and fully silvered, to his later coinage being little more than lightly silvered base metal pieces.    HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61605']",
+      "hammer_price_usd": 160.0,
+      "currency_original": "USD",
+      "price_original": 160.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-15",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-f36e68325edc",
       "source": "heritage",

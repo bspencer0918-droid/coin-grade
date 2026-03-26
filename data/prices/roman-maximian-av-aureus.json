@@ -4,22 +4,22 @@
   "ruler": "Maximian",
   "ruler_normalized": "maximian",
   "dynasty": "Tetrarchy",
-  "ruler_dates": "AD 286\u2013310",
+  "ruler_dates": "AD 286\u00e2\u20ac\u201c310",
   "ruler_rarity": null,
   "denomination": "AV Aureus",
   "metal": "gold",
-  "sale_count": 30,
-  "realized_count": 30,
+  "sale_count": 31,
+  "realized_count": 31,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 2640.0,
     "max": 78000.0
   },
-  "median_price_usd": 18300.0,
+  "median_price_usd": 18000.0,
   "last_sale_date": "2026-01-12",
   "grade_distribution": {
-    "MS": 15,
+    "MS": 16,
     "AU": 12,
     "XF": 1,
     "VF": 2
@@ -34,6 +34,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-fede30232d3c",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13522/ancients-roman-imperial/11945199/maximian-first-reign-ad-286-310",
+      "title": "Maximian, First Reign (AD 286-310). AV aureus (21mm, 5.33 gm, 6h). NGC MS 5/5 - 4/5. Rome. IMP C M AVR VAL MAXIMIANVS P F AVG, laureate, draped, and cuirassed bust of Maximian right, seen from front / IOVI CO-NSER-VAT AVGG, Jupiter standing facing, head left, thunderbolt in outstretched right hand, grounded scepter in left. Calic\u00f3 4688. RIC V.II. Brilliant, goldenrod surfaces with whispers of mint luster silhouetting the devices.  From the Mirabilis Collection. Ex Numismatica Ars Classica, Auction 125 (23 June 2021), lot 777.  Among the grand designs of Diocletian was an effort to restore the Roman religion to its former prominence. Toward this end, each of the ruling Tetrarchs was assigned to a \"house\" corresponding to the Roman deities Jupiter and Hercules, with Diocletian himself representing the former and his co-Augustus Maximian as the latter. Diocletian thus became the supreme ruler, while Maximian became his facilitator and \"man of action.\"    HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction - New York #3129']",
+      "hammer_price_usd": 12000.0,
+      "currency_original": "USD",
+      "price_original": 12000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-12",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-6ec1c4975502",
       "source": "coinarchives",

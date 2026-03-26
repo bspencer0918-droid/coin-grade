@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Drachm",
   "metal": "silver",
-  "sale_count": 14,
-  "realized_count": 14,
+  "sale_count": 15,
+  "realized_count": 15,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -19,8 +19,8 @@
   "median_price_usd": 780.0,
   "last_sale_date": "2026-02-23",
   "grade_distribution": {
+    "AU": 2,
     "MS": 11,
-    "AU": 1,
     "VF": 1,
     "XF": 1
   },
@@ -34,6 +34,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-adaa97405e17",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13396/ancients-greek/11828392/macedonian-kingdom-perseus-179-168-bc",
+      "title": "MACEDONIAN KINGDOM. Perseus (179-168 BC). AR drachm (15mm, 2.44 gm, 11h). NGC Choice AU 4/5 - 4/5. Pseudo-Rhodian, Greek mercenaries issue, ca. 175-170 BC, Ermias, magistrate. Head of Helios facing, turned slightly right, hair parted in center and swept to either side / EPMIA\u03a3, rose with single bud on tendril to right; \u039e-\u03a9 flanking stem. SNG Keckman 793-795 (Thessaly). Price, Kraay-M\u00f8rkholm Essays, pp. 241-242 (Northern Greece). SNG Copenhagen Supp. 358 (Rhodian Peraia).  The last independent king of Macedon, Perseus inherited the throne from his father Philip V after the latter had his pro-Roman son Demetrius executed. Thus the tone was set from the outset of his reign for an eventual clash, which proved fatal to the Antigonid monarchy and Macedonian independence. Perseus skillfully rebuilt the Macedonian army and a network of marriage alliances during the first years of his reign, which the Romans watched with rising alarm. The Third Macedonian War broke out in 171 BC, and for a time Perseus employed guerrilla tactics which gave him the initiative and kept the Romans on their heels. Like his father, though, he chose to risk all in a single pitched battle at Pydna and lost badly to the Roman general Lucius Aemilius Paullus. Perseus surrendered and was allowed to live out his life in comfortable captivity in Rome; the Macedonian Kingdom was divided into four theoretically autonomous Republics which were soon subsumed into direct Roman rule. The coinage of Perseus is one of the more attractive of the Hellenistic series.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61569']",
+      "hammer_price_usd": 720.0,
+      "currency_original": "USD",
+      "price_original": 720.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-23",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-ca8b06cd9000",
       "source": "coinarchives",

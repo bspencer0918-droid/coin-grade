@@ -4,12 +4,12 @@
   "ruler": "Septimius Severus",
   "ruler_normalized": "septimius-severus",
   "dynasty": "Severan",
-  "ruler_dates": "AD 193\u2013211",
+  "ruler_dates": "AD 193\u00e2\u20ac\u201c211",
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 426,
-  "realized_count": 426,
+  "sale_count": 428,
+  "realized_count": 428,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -19,7 +19,8 @@
   "median_price_usd": 149.0,
   "last_sale_date": "2026-03-19",
   "grade_distribution": {
-    "AU": 157,
+    "G": 1,
+    "AU": 158,
     "XF": 169,
     "VF": 53,
     "F": 8,
@@ -35,6 +36,72 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-72d37b22e09b",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stephen-album-rare-coins/13675/ancient-roman-amp-byzantine/12090144/roman-empire-septimius-severus-193-211",
+      "title": "ROMAN EMPIRE: Septimius Severus, 193-211 AD, AR denarius (3.51g), Laodicea ad Mare, 198-202 AD, RIC-505, laureate head right, L SEPT SEV AVG IMP XI PART MAX // Justitia seated left, holding patera in extended right hand and scepter in left hand, IVSTITIA, somewhat grainy surfaces, Strike 5/5, Surface 2/5, NGC graded AU.",
+      "description": "Stephen Album Rare Coins | ['Internet Auction 36']",
+      "hammer_price_usd": 126.26,
+      "currency_original": "USD",
+      "price_original": 126.258,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-567dec9fa024",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/tcc-group-companies/13419/roman-empire/11851142/julia-domna-wife-of-septimius",
+      "title": "Julia Domna (wife of Septimius Severus) AR Denarius <br> ROMAN EMPIRE. Julia Domna (wife of Septimius Severus). <br>Silver Denarius, AD 196-202. Laodicea ad Mare. <br>Obv: IVLIA AVGVSTA, draped bust right. Rev: PVDICITIA, Pudicitia, veiled, seated left, one hand on breast.<br><br><i>In secure plastic holder, graded NGC Ch AU Strike: 5/5 Surface: 4/5, certification number <a href=\"https://www.ngccoin.com/certlookup/4934087-005/Other/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">4934087-005</a> - well-centred and exhibiting a spectacular old cabinet tone with streaks of iridescence.</i><br><br>Reference: RIC IV-644 (Septimius Severus); RSC-168a.<br>Weight: 3.30 g.",
+      "description": "The Coin Cabinet | ['Kallista III']",
+      "hammer_price_usd": 244.85,
+      "currency_original": "USD",
+      "price_original": 244.84921,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-27",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "4934087-005",
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/4934087005/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-5d3ac6f1ce89",
       "source": "coinarchives",

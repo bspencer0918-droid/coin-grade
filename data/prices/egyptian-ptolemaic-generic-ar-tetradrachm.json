@@ -7,27 +7,27 @@
   "ruler_dates": null,
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
-  "metal": "silver",
-  "sale_count": 15,
-  "realized_count": 15,
+  "metal": "electrum",
+  "sale_count": 16,
+  "realized_count": 16,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 480.0,
     "max": 38400.0
   },
-  "median_price_usd": 2160.0,
+  "median_price_usd": 2180.0,
   "last_sale_date": "2026-02-23",
   "grade_distribution": {
+    "XF": 2,
     "G": 1,
     "MS": 4,
     "VF": 1,
-    "AU": 8,
-    "XF": 1
+    "AU": 8
   },
   "thumbnail_url": "https://media.coinarchives.com/b91b780f086c5767efb9215f6af59bf5/img/goldberg/150/image00560.jpg",
   "median_weight_g": null,
-  "top_strike_score": 4,
+  "top_strike_score": 5,
   "top_surface_score": 5,
   "top_grade_numeric": null,
   "dominant_service": "ngc",
@@ -35,6 +35,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-41566ef37927",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13556/ancients-greek/11984712/ancients-ptolemaic-egypt-ptolemy",
+      "title": "Ancients <br> PTOLEMAIC EGYPT. Ptolemy V Epiphanes (205/4-180 BC). AR stater or tetradrachm (27mm, 14.18 gm, 1h). NGC Choice XF S 5/5 - 5/5. Alexandria. Diademed head of Ptolemy I right, aegis tied around neck; dotted border / \u03a0TO\u039bEMAIOY-BA\u03a3I\u039bE\u03a9\u03a3, eagle standing left on thunderbolt, with closed wings; dotted border. Svoronos 1231 and 1489. SNG Copenhagen 244-245 and 262-268. Note, Ptolemy V and VI both have the same type and the two types are indistinguishable from one another. Bright flash of iridescent toning on reverse.   Ex Coin Galleries, private sale with old dealer's tag included (1962).    HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61593']",
+      "hammer_price_usd": 2200.0,
+      "currency_original": "USD",
+      "price_original": 2200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-02-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-5d7285293310",
       "source": "coinarchives",

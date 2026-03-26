@@ -4,12 +4,12 @@
   "ruler": "Severus Alexander",
   "ruler_normalized": "severus-alexander",
   "dynasty": "Severan",
-  "ruler_dates": "AD 222\u2013235",
+  "ruler_dates": "AD 222\u00e2\u20ac\u201c235",
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 575,
-  "realized_count": 575,
+  "sale_count": 578,
+  "realized_count": 578,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -19,8 +19,9 @@
   "median_price_usd": 139.0,
   "last_sale_date": "2026-03-19",
   "grade_distribution": {
+    "AU": 359,
+    "G": 1,
     "MS": 116,
-    "AU": 357,
     "XF": 96,
     "VF": 6
   },
@@ -34,6 +35,105 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-e229119e6913",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13556/ancients-roman-imperial/11984756/ancients-severus-alexander-as",
+      "title": "Ancients <br> Severus Alexander, as Augustus (AD 222-235). AR denarius (20mm, 3.07 gm, 5h). NGC Choice AU S 5/5 - 4/5. Antioch. IMP C M AVR SEV ALEXAND AVG, laureate, draped, and cuirassed bust of Severus Alexander right, seen from behind / LIBERALITAS AVG, Liberalitas standing facing, head left, tessera in outstretched right hand, cornucopia cradled in left arm. RIC IV.II 281. Icy luster.   Ex Heritage Auctions, Auction 61327 (14 November 2023), lot 22147; Heritage Auctions, Auction 232207 (16 February 2022), lot 63274.   The reign of Severus Alexander presents the last relatively tranquil interlude before the mid-third century storm swept away the Pax Romana. He was born Marcus Julius Gessius Bassianus Alexianus, in AD 208, into a clan of Syrian nobility from the caravan city of Emesa. His maternal grand-aunt, Julia Domna, was married to the Emperor Septimius Severus, making him part of an Imperial family that was largely dominated by a clique of strong-minded and clever women, all named Julia. His grandmother, Julia Maesa, engineered the Severan dynasty's return to power in AD 218, by fomenting the military coup that placed Alexander's cousin Varius Avitus, known to history as Elagabalus, on the throne. Once ensconced in Rome, however, Elagabalus' behavior grew ever more erratic and outrageous. In AD 222, fearing for the dynasty's future, Maesa engineered the murder of Elagabalus and his replacement by her other, more docile grandson, Alexander. Handsome and affable, the youth was really never more than a figurehead ruler, first for Maesa and then, after her death in AD 225/6, for his mother Julia Mamaea.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61593']",
+      "hammer_price_usd": 500.0,
+      "currency_original": "USD",
+      "price_original": 500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-02-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-7639af094680",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/istra/13429/ancient-coins/11860804/roman-coins-severus-alexander-denarius",
+      "title": "Roman Coins, Severus Alexander, Denarius, n.d., Rome, Ag. 2,86 g, NGC Ch AU <br> https://youtu.be/Tlbf49ATdLk",
+      "description": "Istra numizmatika d.o.o. | ['Auction 10']",
+      "hammer_price_usd": 197.49,
+      "currency_original": "USD",
+      "price_original": 197.489,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-27bc033408fb",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stephen-album-rare-coins/13559/ancient-roman-amp-byzantine/11986724/roman-empire-severus-alexander-222-235",
+      "title": "ROMAN EMPIRE: Severus Alexander, 222-235 AD, AR denarius (3.19g), Rome, 228-231 AD, RIC-208, laureate head right, IMP SEV ALEXAND AVG // Perpetuitas standing left, holding globe in right hand and transverse scepter in left hand, leaning on column with left arm, PERPETVITATI AVG, lightly lustrous, a few spots of deposit on reverse, Strike 5/5, Surface 4/5, NGC graded Choice AU.",
+      "description": "Stephen Album Rare Coins | ['Auction 54']",
+      "hammer_price_usd": 140.0,
+      "currency_original": "USD",
+      "price_original": 140.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-22",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-4d9368825bc9",
       "source": "coinarchives",

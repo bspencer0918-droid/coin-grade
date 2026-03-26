@@ -4,12 +4,12 @@
   "ruler": "Theodosius I",
   "ruler_normalized": "theodosius-i",
   "dynasty": "Theodosian",
-  "ruler_dates": "AD 379\u2013395",
+  "ruler_dates": "AD 379\u00e2\u20ac\u201c395",
   "ruler_rarity": null,
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 568,
-  "realized_count": 568,
+  "sale_count": 571,
+  "realized_count": 571,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -19,12 +19,12 @@
   "median_price_usd": 1140.0,
   "last_sale_date": "2026-02-23",
   "grade_distribution": {
+    "MS": 189,
+    "AU": 237,
     "G": 9,
-    "AU": 236,
     "XF": 104,
     "VF": 31,
-    "F": 1,
-    "MS": 187
+    "F": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/b4f7a28c31231401de5968aaa9bab59a/img/goldberg/150/image00615.jpg",
   "median_weight_g": null,
@@ -36,6 +36,105 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-a23985417610",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13440/ancients-roman-imperial/11874069/theodosius-ii-eastern-roman-empire",
+      "title": "Theodosius II, Eastern Roman Empire (AD 402-450). AV solidus (21mm, 4.46 gm, 6h). NGC MS 5/5 - 3/5, brushed. Constantinople, AD 441. D N THEODOSI-VS\u2022P\u2022F\u2022AVG, pearl-diademed, helmeted, and cuirassed facing bust of Theodosius II, head slightly right, spear in right hand over shoulder, shield decorated with horseman motif in left / IMP\u2022XXXXII\u2022COS\u2022-XVII\u2022P\u2022P\u2022, Constantinopolis enthroned facing, helmeted head left, left foot on prow, globus cruciger in outstretched right hand, scepter cradled in left arm, grounded shield behind; star in left field, COMOB in exergue. RIC X 293.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction - Hong Kong #3127']",
+      "hammer_price_usd": 1620.0,
+      "currency_original": "USD",
+      "price_original": 1620.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-06",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-2b7869e1801a",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13525/ancients-roman-imperial/11946026/gratian-western-roman-empire-ad",
+      "title": "Gratian, Western Roman Empire (AD 367-383). AV solidus (21mm, 4.40 gm, 5h). NGC MS 5/5 - 4/5. Constantinople, AD 378-383. D N GRATIA-NVS P F AVG, rosette-diademed, draped, and cuirassed bust of Gratian right, seen from front / CONCOR-DIA AVGGG, Constantinopolis seated facing on throne ornamented with lion heads, helmeted head right, scepter in right hand, globe in outstretched left hand, right foot on prow; CONOB in exergue. RIC IX 44a.   Gratian was elevated to the rank of co-Augustus at the age of eight and later became sole ruler of the Western Roman Empire upon his father\u2019s death in AD 375. Although young, Gratian showed early promise and was known for his piety and support of Nicene Christianity, famously removing the title of Pontifex Maximus from the imperial office and distancing the state from traditional Roman paganism. His reign saw significant military challenges, including invasions by Germanic tribes, but he secured key victories with the help of his generals, including the future emperor Theodosius I. However, his popularity waned due to court favoritism and perceived negligence in government, leading to a rebellion in AD 383 by the usurper Magnus Maximus. Gratian was defeated and assassinated at the age of 24 in Lyon, marking a turbulent end to a reign caught between the fading traditions of Rome and the rise of a Christian empire.    HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature Auction #3130']",
+      "hammer_price_usd": 2600.0,
+      "currency_original": "USD",
+      "price_original": 2600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-22",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-47c0278bbd5c",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13525/ancients-roman-imperial/11945724/theodosius-ii-eastern-roman-empire",
+      "title": "Theodosius II, Eastern Roman Empire (AD 402-450). AV solidus (21mm, 4.46 gm, 6h). NGC AU 5/5 - 4/5. Constantinople, ca. AD 441-450. THEODO-SIVS\u2022P\u2022F\u2022AVG, pearl-diademed, helmeted, and cuirassed bust of Theodosius II facing, head slightly right, spear in right hand over shoulder, shield decorated with horseman motif in left / IMP\u2022XXXXII\u2022COS\u2022-XVII\u2022P\u2022P\u2022, Constantinopolis enthroned left, left foot on prow, globus cruciger in outstretched right hand, grounded scepter in left; shield on ground to right, star in left field, COMOB in exergue. RIC X 293.  From The Peh Family Collection, Part IV. Ex Heritage Auctions, Auction 397 (9 January 2006), lot 12092.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature Auction #3130']",
+      "hammer_price_usd": 1400.0,
+      "currency_original": "USD",
+      "price_original": 1400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-22",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-e6d1e9aefad0",
       "source": "coinarchives",

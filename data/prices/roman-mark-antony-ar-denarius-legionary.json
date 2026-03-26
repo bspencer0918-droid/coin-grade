@@ -4,23 +4,23 @@
   "ruler": "Mark Antony",
   "ruler_normalized": "mark-antony",
   "dynasty": "Roman Republic",
-  "ruler_dates": "83\u201330 BC",
+  "ruler_dates": "83\u00e2\u20ac\u201c30 BC",
   "ruler_rarity": null,
   "denomination": "AR Denarius",
-  "metal": "silver",
-  "sale_count": 16,
-  "realized_count": 16,
+  "metal": "gold",
+  "sale_count": 17,
+  "realized_count": 17,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 192.0,
     "max": 2820.0
   },
-  "median_price_usd": 891.25,
+  "median_price_usd": 960.0,
   "last_sale_date": "2025-11-28",
   "grade_distribution": {
+    "AU": 7,
     "P": 1,
-    "AU": 6,
     "XF": 7,
     "MS": 2
   },
@@ -34,6 +34,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-c2e78733f278",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/numiscorner/13392/ancient-roman/11825476/marcus-antonius-legionary-denarius-32-31",
+      "title": "Marcus Antonius, Legionary Denarius, 32-31 BC, Patrae?, Legio II, Silver, NGC <br> <br>Marcus Antonius, Legionary Denarius, 32-31 BC, Patrae?, Legio II, Silver, NGC<br>Praetorian galley right., Aquila between two signa., Graded NGC Ch AU Strike 5/5 - Surface 3/5; Brushed. Struck during Autumn 32-spring 31 BC., ANT \u2022 AVG / III VIR \u2022 R \u2022 P \u2022 C, LEG II<br>DENOMINATION:Legionary Denarius                    <br>YEAR:32-31 BC                    <br>COIN CONDITION:Ch AU 5/5-3/5                    <br>MINT NAME:Patrae?                    <br>COMPOSITION:Silver                    <br>DIAMETER:18.4                    <br>CERTIFICATION:NGC                    <br>CERTIFICATION NUMBER:6639707-013                    <br>CRAWFORD:544/14                    <br>EMPIRE, KINGDOM, OR CIVILIZATION:Ancient Rome, Roman Republic (509 \u2013 27 BC)                    <br>WEIGHT (G):3.93<br><br>If this product is to be delivered outside of France, it is subject to export authorizations from the Ministry of Culture. This procedure requires a processing time of 2 to 5 months from the date of purchase.<br><br><br>Marc Antoine, Denier L\u00e9gionnaire, 32-31 BC, Patrae ?, Legio II, Argent, NGC, Ch<br>Trir\u00e8me voguant \u00e0 droite., Aquila entre deux signa., Grad\u00e9e NGC Ch AU Strike 5/5 - Surface 3/5 ; Brushed. Frapp\u00e9 au cours de l'automne 32-printemps 31 av. J.-C., ANT \u2022 AVG / III VIR \u2022 R \u2022 P \u2022 C, LEG II<br>VALEUR FACIALE:Denier L\u00e9gionnaire                    <br>ANN\u00c9E:32-31 BC                    <br>QUALIT\u00c9 DE LA MONNAIE:Ch AU 5/5-3/5                    <br>ATELIER:Patrae ?                    <br>M\u00c9TAL:Argent                    <br>DIAM\u00c8TRE:18.4                    <br>CERTIFICATION:NGC                    <br>NUM\u00c9RO DE CERTIFICATION:6639707-013                    <br>CRAWFORD:544/14                    <br>EMPIRE, ROYAUME OU CIVILISATION:Rome antique, r\u00e9publique romaine (509 -  27 av. J.-C)                    <br>POIDS (GR):3.93<br><br>En cas d'une livraison en dehors de France, ce produit est soumis \u00e0 des autorisations d'exportation par le minist\u00e8re de la culture. Cette proc\u00e9dure n\u00e9cessite un d\u00e9lai de traitement de 2 \u00e0 5 mois \u00e0 compter de la date d'achat.",
+      "description": "NumisCorner | ['Auction #6 \u2013 The Essential']",
+      "hammer_price_usd": 1628.2,
+      "currency_original": "USD",
+      "price_original": 1628.2,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-28",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "6639707-013",
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/6639707013/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-4b3a50c224c6",
       "source": "coinarchives",

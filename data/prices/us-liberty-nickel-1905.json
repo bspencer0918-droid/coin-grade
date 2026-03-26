@@ -1,0 +1,68 @@
+{
+  "slug": "us-liberty-nickel-1905",
+  "category": "us",
+  "ruler": null,
+  "ruler_normalized": null,
+  "dynasty": null,
+  "ruler_dates": null,
+  "ruler_rarity": null,
+  "denomination": "Liberty Nickel 1905",
+  "metal": "bronze",
+  "sale_count": 1,
+  "realized_count": 1,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 58.24,
+    "max": 58.24
+  },
+  "median_price_usd": 58.24,
+  "last_sale_date": "2025-11-14",
+  "grade_distribution": {
+    "MS": 1
+  },
+  "thumbnail_url": null,
+  "median_weight_g": null,
+  "top_strike_score": null,
+  "top_surface_score": null,
+  "top_grade_numeric": null,
+  "dominant_service": "ngc",
+  "series": "Liberty Nickel",
+  "date_struck": "1905",
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "sixbid-1a396cffc88c",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-europe/13410/world-coins-single-lots/11842874/usa-regular-coinage",
+      "title": "USA - Regular Coinage - 5 Cents 1905 - Liberty Nickel (KM112) - Obv: Liberty head left / Rev: Roman value within wreath - NGC MS62 (8582983-001)",
+      "description": "Heritage Auctions Europe | ['Auction November 2025 - Part V']",
+      "hammer_price_usd": 58.24,
+      "currency_original": "USD",
+      "price_original": 58.24,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-14",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8582983-001",
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8582983001/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

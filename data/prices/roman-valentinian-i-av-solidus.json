@@ -4,12 +4,12 @@
   "ruler": "Valentinian I",
   "ruler_normalized": "valentinian-i",
   "dynasty": "Valentinian",
-  "ruler_dates": "AD 364\u2013375",
+  "ruler_dates": "AD 364\u00e2\u20ac\u201c375",
   "ruler_rarity": null,
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 157,
-  "realized_count": 157,
+  "sale_count": 159,
+  "realized_count": 159,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -19,9 +19,9 @@
   "median_price_usd": 1320.0,
   "last_sale_date": "2026-02-23",
   "grade_distribution": {
-    "MS": 36,
+    "MS": 37,
+    "XF": 28,
     "AU": 74,
-    "XF": 27,
     "VF": 16,
     "F": 4
   },
@@ -35,6 +35,72 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-884aced0a772",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/tcc-group-companies/13419/roman-empire/11851218/valentinian-iii-av-solidus",
+      "title": "Valentinian III AV Solidus <br> ROMAN EMPIRE. Valentinian III. <br>Gold Solidus, AD 426-430. Ravenna. <br>Obv: D N PLA VALENTINIANVS P F AVG, rosette-diademed, draped and cuirassed bust right. Rev: VICTORIA AVGGG, Emperor standing facing, holding long cross and victory on globe, foot on head of human-headed coiled serpent; R-V across fields, COMOB in exergue.<br><br><i>In secure plastic holder, graded NGC MS Strike: 5/5 Surface: 4/5, certification number <a href=\"https://www.ngccoin.com/certlookup/6329094-017/Other/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">6329094-017</a> - a spectacular example.</i><br><br>Ex Roma Numismatics Ltd, Auction XXVII (22/3/2023), lot 791.<br><br>Reference: RIC X-2010; Depeyrot-17/1.<br>Weight: 4.45 g. <br> NGC MS",
+      "description": "The Coin Cabinet | ['Kallista III']",
+      "hammer_price_usd": 5294.04,
+      "currency_original": "USD",
+      "price_original": 5294.037,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-27",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "6329094-017",
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/6329094017/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-c5cbe0808ce7",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13348/ancients-roman-imperial/11784085/valentinian-iii-western-roman-empire",
+      "title": "Valentinian III, Western Roman Empire (AD 425-455). AV solidus (22mm, 4.41 gm, 5h). NGC Choice XF 4/5 - 3/5. Rome, October AD 435. D N PLA VALENTI-NIANVS P F AVG, rosette and pearl diademed half-length bust of Valentinian III left, wearing jeweled mantle, mappa upward in right hand, cruciform scepter in left over shoulder / VOT X-MVLT XX, Valentinian III in consular robes, wearing crown with pendilia, enthroned facing, mappa upward in right hand, cruciform scepter in left; R-M across fields, COMOB in exergue. RIC X 2034. Cohen 41. Depeyrot 42/1.  Ex Numismatica Ars Classica, private sale with old dealer' stag included.   Son of the brief-reigning Constantius III and the formidable Galla Placidia, daughter of Theodosius I, Valentinian III spent his early years under the protection of his cousin, the Eastern Roman Emperor Theodosius II. After the death of Honorius in AD 425, the Western throne was seized by a military cabal who placed a relative nonentity, the Chamberlain Johannes, on the throne. Theodosius II found this intolerable and sent a military task force to install the six-year-old Valentinian III as West Roman Emperor, with Galla Placidia acting as regent. After a number of misadventures, the Eastern army succeeded and Valentinian was formally crowned in Rome on 23 October, AD 425. Valentinian would go on to \"reign\" for 30 years, although he grew into an ineffectual and pleasure-loving ruler who left the actual governing to a succession of court eunuchs while a series of powerful generals strove mightily, but in vain, against the slow disintegration of the West Roman Empire. This remarkable gold solidus was struck to mark the 10th anniversary of his accession in AD 435, and depicts the now 16-year-old Valentinian in the stiffly formal robes of a Roman consul, an office that long before had lost all real power but retained immense prestige.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction #3126']",
+      "hammer_price_usd": 2100.0,
+      "currency_original": "USD",
+      "price_original": 2100.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-06",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-d8034dfa4f32",
       "source": "coinarchives",

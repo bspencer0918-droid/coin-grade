@@ -8,8 +8,8 @@
   "ruler_rarity": "common",
   "denomination": "EL/BI Trachy",
   "metal": "electrum",
-  "sale_count": 257,
-  "realized_count": 257,
+  "sale_count": 258,
+  "realized_count": 258,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -19,7 +19,7 @@
   "median_price_usd": 360.0,
   "last_sale_date": "2026-02-12",
   "grade_distribution": {
-    "MS": 198,
+    "MS": 199,
     "AU": 38,
     "XF": 10,
     "VF": 11
@@ -34,6 +34,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-8377c8feff78",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13505/ancients-byzantine/11937221/manuel-i-comnenus-ad-1143-1180",
+      "title": "Manuel I Comnenus (AD 1143-1180). EL aspron trachy (32mm, 4.21 gm, 5h). NGC MS 4/5 - 3/5, light graffiti. Constantinople, AD 1160-1164. IC-XC (barred), Christ standing facing on dais, bearded, wearing nimbus cruciger, pallium and colobium, raising right hand in benediction, book of Gospels in left; eight-pointed star to either side / M-AN-\u03a9H\u039b-O / \u0398\u0404/\u039f/\u0394/\u03a9/\u03a1/OC, Manuel I, bearded (on left) and St. Theodore, bearded and nimbate (on right) both standing facing, jointly holding patriarchal cross with small cross on shaft and large globus on base between them, emperor wearing crown, divitision and loros, right hand on pommel of sheathed sword on hip, saint wearing military attire with left hand on pommel of sheathed sword at hip. Sear 1959.   Ex Heritage Auctions, Auction 231735 (31 August 2017), lot 65117; Heritage Auctions, Auction 231723 (8 June 2017), lot 62108.   Struck during a period of tension between the Byzantine Empire and the Western European Crusader forces, this coin is symbolic of Manuel I's desire to preserve the power and independence of the Byzantine realm from the \"Latins,\" who the Byzantines always mistrusted and disliked. The patriarchal cross on the reverse of the coin, a major symbol of Orthodox Christianity, would have signaled Manuel's desire to protect his people, empire, and faith from the hostile Roman Catholic Crusaders, as would the depiction of St. Theodore, a popular saint in the Byzantine cultural sphere.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61557']",
+      "hammer_price_usd": 900.0,
+      "currency_original": "USD",
+      "price_original": 900.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-29",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-ca3a2ae4764f",
       "source": "heritage",

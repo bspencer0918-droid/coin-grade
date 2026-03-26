@@ -8,21 +8,21 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 75,
-  "realized_count": 75,
+  "sale_count": 76,
+  "realized_count": 76,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 156.0,
     "max": 7200.0
   },
-  "median_price_usd": 480.0,
+  "median_price_usd": 486.0,
   "last_sale_date": "2026-03-15",
   "grade_distribution": {
+    "VF": 28,
     "AU": 9,
-    "XF": 10,
-    "VF": 26,
-    "F": 24,
+    "XF": 11,
+    "F": 25,
     "VG": 3
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-2-7-2-3-32723488&w=120&h=300&it=product",
@@ -35,6 +35,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-9b04452572dc",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13229/ancients-roman-imperial/11677418/gaius-caligula-ad-37-41-ae",
+      "title": "Gaius (Caligula) (AD 37-41). AE as (31mm, 10.53 gm, 7h). NGC VF 5/5 - 3/5, Fine Style. Rome, AD 37-38. C\u2022CAESAR\u2022AVG\u2022GERMANICVS\u2022PON\u2022M\u2022TR\u2022POT, bare head of Caligula left / VESTA, Vesta enthroned left, veiled, patera in outstretched right hand, transverse scepter in left; S-C across fields. RIC I 38. Nicely defined for its type with a cherrywood patina.   From the Werner Collection.  Born as Gaius Julius Caesar Germanicus in AD 12, he soon became the mascot for the army of his father, the popular general Germanicus. During that time, he acquired the nickname \"Caligula,\" or \"Little Boots,\" for the miniature army boots (called caligae) he wore. When his predecessor, Tiberius, finally died in May AD 37, there was much speculation that, in the end, he did not die of natural causes. Suetonius, himself, believed rumors that Caligula had poisoned Tiberius, starved him, and smothered him with a pillow before he fell dead. But he was uniquely unsuited to the task at hand, having no experience in government, finance, or military affairs. He quickly squandered Tiberius' carefully hoarded wealth on frivolous projects, condemned or exiled the most capable men in government, and demanded to be worshipped as a god. After three years of misrule, he was assassinated by a cabal of senators and Praetorian guardsmen led by Cassius Chaerea on 24 January AD 41. Despite being perhaps one of the worst Roman emperors, Caligula's coinage is interesting and attractive.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice <br> Ancients",
+      "description": "Heritage Auctions, Inc. | ['Auction #61555']",
+      "hammer_price_usd": 1800.0,
+      "currency_original": "USD",
+      "price_original": 1800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-06",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-4a5443fefe23",
       "source": "heritage",

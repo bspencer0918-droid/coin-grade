@@ -8,19 +8,19 @@
   "ruler_rarity": null,
   "denomination": "AR Siliqua",
   "metal": "silver",
-  "sale_count": 18,
-  "realized_count": 18,
+  "sale_count": 21,
+  "realized_count": 21,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 71.0,
     "max": 732.0
   },
-  "median_price_usd": 240.0,
+  "median_price_usd": 264.0,
   "last_sale_date": "2026-03-15",
   "grade_distribution": {
-    "AU": 5,
-    "XF": 8,
+    "AU": 7,
+    "XF": 9,
     "VF": 4,
     "F": 1
   },
@@ -34,6 +34,105 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-e98172fbda48",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13634/ancients-roman-imperial/12049192/theodosius-i-eastern-roman-empire",
+      "title": "Theodosius I, Eastern Roman Empire (AD 379-395). AR siliqua (19mm, 1.95 gm, 7h). NGC AU 5/5 - 4/5. Trier. AD 388-392. D N THEODO-SIVS P F AVG, pearl-diademed, draped and cuirassed bust of Theodosius I right, seen from front / VIRTVS RO-MANORVM, Roma seated left on cuirass, Victory right on globe in outstretched right hand, grounded reversed spear in left hand; TRPS in exergue. RIC IX 94b. Vibrant cornflower backlight on reverse.   Ex Heritage Auctions, Auction 231703 (19 January 2017), lot 63165.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61605']",
+      "hammer_price_usd": 600.0,
+      "currency_original": "USD",
+      "price_original": 600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-15",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-f30154723b0e",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13634/ancients-roman-imperial/12049185/gratian-western-roman-empire-ad",
+      "title": "Gratian, Western Roman Empire (AD 367-383). AR siliqua (18mm, 1.95 gm, 1h). NGC AU 4/5 - 4/5. Trier, ca. AD 378-383. D N GRATIA-NVS P F AVG, pearl-diademed, draped, and cuirassed bust of Gratian right, seen from front / VIRTVS RO-MANORVM, Roma enthroned facing, head left, globe in outstretched right hand, grounded scepter in left; TRPS in exergue. RIC IX 58a.1.  Gratian was elevated to the rank of co-Augustus at the age of eight and later became sole ruler of the Western Roman Empire upon his father's death in AD 375. Although young, Gratian showed early promise and was known for his piety and support of Nicene Christianity, famously removing the title of Pontifex Maximus from the imperial office and distancing the state from traditional Roman paganism. His reign saw significant military challenges, including invasions by Germanic tribes, but he secured key victories with the help of his generals, including the future emperor Theodosius I. However, his popularity waned due to court favoritism and perceived negligence in government, leading to a rebellion in AD 383 by the usurper Magnus Maximus. Gratian was defeated and assassinated at the age of 24 in Lyon, marking a turbulent end to a reign caught between the fading traditions of Rome and the rise of a Christian empire.    HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61605']",
+      "hammer_price_usd": 600.0,
+      "currency_original": "USD",
+      "price_original": 600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-15",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-723c559f7b12",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13634/ancients-roman-imperial/12049187/magnus-maximus-western-roman-empire",
+      "title": "Magnus Maximus, Western Roman Empire (AD 383-388). AR siliqua (16mm, 1.58 gm, 7h). NGC Choice XF 5/5 - 4/5. Trier. D N MAG MAX-IMVS P F AVG, pearl-diademed, draped, and cuirassed bust of Magnus Maximus right, seen from front / VIRTVS RO-MANORVM, Roma enthroned facing, head left, globe in right hand, grounded spear in left; TRPS in exergue. RIC IX 84b1.  Magnus Maximus was a general and usurper who ruled parts of the Western Roman Empire from AD 383 to AD 388. Born in Hispania, he rose through the military ranks and was proclaimed emperor by his troops in Britain. He crossed into Gaul, where one of his officials murdered the young Emperor Gratian, and established control over Britain, Gaul, and Spain. Maximus stands out for his rule that encouraged Christian fundamentalism, personally intersecting secular power with that of spiritual. A competent administrator, Maximus was recognized by the Eastern court for a time but later clashed with Theodosius I over control of Italy. In AD 388, Theodosius defeated him in battle; Maximus was captured and executed shortly afterward, ending his bid for the throne   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61605']",
+      "hammer_price_usd": 460.0,
+      "currency_original": "USD",
+      "price_original": 460.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-15",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-d23cb194f73b",
       "source": "heritage",

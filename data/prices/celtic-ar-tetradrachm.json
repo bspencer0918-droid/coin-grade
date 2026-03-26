@@ -8,22 +8,23 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 2,
-  "realized_count": 2,
+  "sale_count": 4,
+  "realized_count": 4,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 1350.0,
-    "max": 3300.0
+    "max": 3600.0
   },
-  "median_price_usd": 2325.0,
+  "median_price_usd": 3300.0,
   "last_sale_date": "2026-01-16",
   "grade_distribution": {
-    "VF": 2
+    "XF": 1,
+    "VF": 3
   },
   "thumbnail_url": "https://media.coinarchives.com/ebaeab75f4e7a17f0a90f702c3e5061c/img/heritage/3126/image32004.jpg",
   "median_weight_g": null,
-  "top_strike_score": 5,
+  "top_strike_score": 4,
   "top_surface_score": 2,
   "top_grade_numeric": null,
   "dominant_service": "ngc",
@@ -31,6 +32,72 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-a5ce5c8927ae",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13531/messana/11952743/sicily-messana-ar-tetradrachm-17-29",
+      "title": "SICILY. Messana. AR Tetradrachm (17.29 gms), ca. 425-421 B.C. NGC Ch EF, Strike: 4/5 Surface: 2/5. Die Shift, Brushed, Scuff. <br> HGC-2, 787; Caltabiano-487. Obverse: Charioteer driving mule biga right; above, Nike flying left, crowning charioteer; below exergual line, laurel leaf; Reverse: Hare springing right; below, dolphin to right. Very well-centered, with an excellent sharp strike appearing on each side. Even dove-gray tone with persistent luster flashing throughout the fields. <br> From the Peter Jones M.D. Collection (Greek Coin Art pg. 37; #941).<p></p><p>Ex: Freeman & Sear 10 (2/2004) Lot # 63 (with ticket). <br> <strong>To view all items from the Peter Jones M.D. Collection, click <a href=\"https://auctions.stacksbowers.com/lots?sort=auction_date_lot_number_asc&search=From+the+Peter+Jones+M.D.+Collection.&limit=96&lots_range=upcoming\" rel=\"noopener noreferrer nofollow\"> here.</a></strong></p>",
+      "description": "Stack\u2019s Bowers and Ponterio | ['January 2026 NYINC Showcase Auction']",
+      "hammer_price_usd": 3600.0,
+      "currency_original": "USD",
+      "price_original": 3600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-23a26ce063ca",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13348/ancients-greek/11783978/sicily-messana-ca-425-413-bc",
+      "title": "SICILY. Messana. Ca. 425-413 BC. AR tetradrachm (25mm, 17.23 gm, 8h). NGC Choice VF 5/5 - 3/5, Fine Style, brushed. Nymph Messana driving biga of mules walking right; Nike walking right on reigns to crown mules with wreath, olive leaf and berry in exergue / \u039c\u0395\u03a3-\u03a3-\u0391-\u039d-\u0399\u039f-\u039d, hare springing right; dolphin leaping right below. SNG ANS 358-359. SNG Lloyd 1095. Smoothly defined animal portraiture.   Ex David P. Herman, private sale with old dealer's tag included.   The coins of Greek Sicily abound with symbolism, the meaning of which is not always obvious to the modern observer. Messana, located on the northwest corner of Sicily and the third most populous city on the island, chose as its civic badges a chariot pulled by a pair of mules (biga) and a leaping hare. On this pleasing tetradrachm, the mule biga is driven by a woman, most likely the nymph Messana, while the hare springs over a similarly leaping dolphin. As to what it all means, we can surmise as follows: In 484 or 480 BC, a mule team from Messana won the Olympic Games in the event known as the anape (mule biga race); naturally, civic pride prompted the Messenians to advertise the victory on their coinage. The hare is an animal sacred to the god Pan, who had a temple in Messana and was widely worshipped there. The dolphin below the hare harks back to the original name of Messana, Zankle (\"sickle\"), so named for it's crescent-shaped harbor, of which the leaping dolphin's arched shape became a visual allegory.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction #3126']",
+      "hammer_price_usd": 3300.0,
+      "currency_original": "USD",
+      "price_original": 3300.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-06",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-38f87b49da4a",
       "source": "coinarchives",

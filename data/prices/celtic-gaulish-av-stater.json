@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AV Stater",
   "metal": "gold",
-  "sale_count": 90,
-  "realized_count": 90,
+  "sale_count": 91,
+  "realized_count": 91,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -19,8 +19,8 @@
   "median_price_usd": 960.0,
   "last_sale_date": "2026-02-05",
   "grade_distribution": {
+    "AU": 29,
     "MS": 4,
-    "AU": 28,
     "XF": 23,
     "VF": 25,
     "F": 10
@@ -35,6 +35,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-0bcc88a853a1",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13480/ancients-celtic/11906144/eastern-gaul-ambiani-ca-59-50",
+      "title": "EASTERN GAUL. Ambiani. Ca. 59-50 BC. AV stater (18mm, 5.85 gm). NGC AU 4/5 - 4/5. Sills Class 3b, Gallic War issue, ca. 56-55 BC. Blank convex surface / M-shaped disjointed horse right; crescent and pellets above and around, exergual corded line with open crescents and pellets. ABC 16. De La Tour 8710. Van Arsdell 54. Spink 11.  The Ambiani, a historically significant Celtic tribe of ancient Gaul, populated the region near the modern-day city of Amiens in northern France. Renowned during the classical period, their territorial extent and influence were notable, marking them as a formidable tribe within the broader spectrum of the Gallic community. Insight into their socio-economic structure can be gleaned from their coinage; the Ambiani were prolific minters in their time. The Ambiani's place in history was marked by their involvement in the Gallic Wars, wherein they allied with Julius Caesar. Despite the eventual Roman dominance, their tribal narrative still reverberates in the retention of their name in today's Amiens, providing a tangible link to their enduring legacy.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61579']",
+      "hammer_price_usd": 1500.0,
+      "currency_original": "USD",
+      "price_original": 1500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-22",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-ca2ae0fda3eb",
       "source": "heritage",

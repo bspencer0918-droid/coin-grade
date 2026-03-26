@@ -4,12 +4,12 @@
   "ruler": "Justinian I",
   "ruler_normalized": "justinian-i",
   "dynasty": "Justinian",
-  "ruler_dates": "AD 527\u2013565",
+  "ruler_dates": "AD 527\u00e2\u20ac\u201c565",
   "ruler_rarity": "common",
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 672,
-  "realized_count": 672,
+  "sale_count": 675,
+  "realized_count": 675,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -19,9 +19,9 @@
   "median_price_usd": 780.0,
   "last_sale_date": "2026-02-12",
   "grade_distribution": {
-    "MS": 407,
+    "MS": 409,
+    "AU": 226,
     "VF": 9,
-    "AU": 225,
     "XF": 28,
     "G": 3
   },
@@ -35,6 +35,105 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-348d54432301",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13522/ancients-byzantine/11945209/justin-i-with-justinian-i",
+      "title": "Justin I with Justinian I (4 April-1 August AD 527). AV solidus (22mm, 4.46 gm, 7h). NGC MS 3/5 - 4/5, die shift. Constantinople, 6th officina. D N IVSTIN \u0404T IVSTINIAN PP AVG, Justin I (on left) and Justinian I (on right) seated facing on throne represented by uprights and no cross bar, both with left knee advanced, nimbate and wearing chlamys, right hands clasped to breasts, globe in left; cross above between, CONOB in exergue / VICTORI-A AVGGG S, angel standing facing, grounded cross in right hand, globus cruciger in left; star in right field, CONOB in exergue. Sear 117. Flashy dies with a well-centered strike.   Ex Freeman & Sear, Manhattan Sale II (4 January 2011), lot 321; the Malcolm W. Heckman Collection (Classical Numismatic Group, Triton VIII, 11 January 2005), lot 1300.  Late in his reign, Justin I felt his health failing and adopted his nephew as co-Augustus to solidify the succession. The young man ascended the throne as Flavius Justinianus, thus launching the reign of the greatest of the early Byzantine rulers. The joint reign lasted barely four months and produced only a handful of coins depicting both rulers.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction - New York #3129']",
+      "hammer_price_usd": 4000.0,
+      "currency_original": "USD",
+      "price_original": 4000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-12",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 3,
+        "strike_score": 3,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-34d1701dcb9a",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13505/ancients-byzantine/11937191/justinian-ii-first-reign-ad",
+      "title": "Justinian II, First Reign (AD 685-695). AV tremissis (15mm, 1.45 gm, 7h). NGC AU 4/5 - 2/5, wrinkled, marks. Constantinople, AD 692-695. IhS CRIStDS R\u0404X-R\u0404\u03daNANtI\u0427M, half-length bust of Christ facing, with long hair and full beard, wearing pallium and colobium, cross behind head, right hand raised in benediction, book of Gospels cradled in left / D I\u0427StINI-AN-\u0427S SER\u0427 CHRIStI, full-length figure of Justinian II standing facing, wearing loros and crown surmounted by cross, long cross potent with two pellets on shaft in right hand, akakia in left. Sear 1256.  The portrait of Christ on the obverse of this solidus is the first numismatic representation of Jesus and immediately followed the ruling of the Trullan Synod of AD 692 that Christ could be depicted in human form. Justinian II was ostentatiously devout and placing the divine image on his coinage was a reflection of this. The image is remarkably naturalistic and lifelike and was likely based on the mosaic image of Christ in the apse of the Great Palace of Constantinople, which was itself influenced by Hellenistic depictions of Zeus. Some scholars have argued that Justinian's choice to produce this new type came in response to the Umayyad caliph 'Abd al-Malik's minting of Byzantine-style solidi bearing the Islamic statement of faith (the shahada) in AD 692, which he used in payment of tribute to the Emperor prior to the decisive Umayyad victory at the Battle of Sebastopolis later that year.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61557']",
+      "hammer_price_usd": 3360.0,
+      "currency_original": "USD",
+      "price_original": 3360.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-29",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-ca866dd4cb95",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13525/ancients-byzantine/11946032/justinian-ii-first-reign-ad",
+      "title": "Justinian II, First Reign (AD 685-695). AV solidus (19mm, 4.41 gm, 6h). NGC MS 4/5 - 4/5. Constantinople, 7th officina, AD 692-695. IhS CRIS\u03a4DS R\u0404X-R\u0404\u03a3NAN\u03a4I\u0427M, half-length bust of Christ facing, with long hair and full beard, wearing pallium and colobium, cross behind head, right hand raised in benediction, book of Gospels cradled in left arm / D I\u0427STINI-AN-\u0427S SER\u0427 CHRIS\u03a4I Z, full-length figure of Justinian II standing facing, wearing crown and loros, cross potent on two steps in right hand, akakia in left; CON-OP below. Sear 1248.  The portrait of Christ on the obverse of this solidus is the first numismatic representation of Jesus and immediately followed the ruling of the Trullan Synod of AD 692 that Christ could be depicted in human form. Justinian II was ostentatiously devout and placing the divine image on his coinage was a reflection of this. The image is remarkably naturalistic and lifelike and was likely based on the mosaic image of Christ in the apse of the Great Palace of Constantinople, which was itself influenced by Hellenistic depictions of Zeus. Some scholars have argued that Justinian's choice to produce this new type came in response to the Umayyad caliph 'Abd al-Malik's minting of Byzantine-style solidi bearing the Islamic statement of faith (the shahada) in AD 692, which he used in payment of tribute to the Emperor prior to the decisive Umayyad victory at the Battle of Sebastopolis later that year.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature Auction #3130']",
+      "hammer_price_usd": 7500.0,
+      "currency_original": "USD",
+      "price_original": 7500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-22",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-ab7d5b4aa4c9",
       "source": "coinarchives",

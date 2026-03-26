@@ -4,12 +4,12 @@
   "ruler": "Caracalla",
   "ruler_normalized": "caracalla",
   "dynasty": "Severan",
-  "ruler_dates": "AD 198\u2013217",
+  "ruler_dates": "AD 198\u00e2\u20ac\u201c217",
   "ruler_rarity": null,
   "denomination": "AV Aureus",
   "metal": "gold",
-  "sale_count": 26,
-  "realized_count": 26,
+  "sale_count": 28,
+  "realized_count": 28,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -19,10 +19,10 @@
   "median_price_usd": 18600.0,
   "last_sale_date": "2026-01-12",
   "grade_distribution": {
+    "VF": 6,
+    "AU": 8,
     "MS": 6,
-    "AU": 7,
     "XF": 5,
-    "VF": 5,
     "F": 2,
     "G": 1
   },
@@ -36,6 +36,72 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-a185712531ad",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13208/empire-romain-roman/11661148/empire-romain-romanelagabale-218-222",
+      "title": "EMPIRE ROMAIN - ROMAN<br>\u00c9lagabale (218-222). Aureus ND (218-219), Rome. NGC Ch VF 5/5 4/5 (8360796-002).<br>Av. IMP CAES M AVR ANTONINVS AVG. Buste laur\u00e9, drap\u00e9 et cuirass\u00e9, \u00e0 droite. <br>Rv. VICTOR. ANTONINI. AVG. Victoire \u00e0 droite avec une couronne et une palme.<br>Calic\u00f3 3038 - RIC.154 ; Or - 6,33 g - 21 mm - 12 h<br>Provient d\u2019une vente M\u00fcnzen & Medaillen AG 12, 11 juin 1953, n\u00b0 841.<br>NGC Ch VF 5/5 4/5 (8360796-002). <br>De flan large avec le gr\u00e8netis complet. D\u2019usure r\u00e9guli\u00e8re. Avec une patine dor\u00e9e. TTB \u00e0 Superbe.",
+      "description": "MDC Monaco | ['Auction 17']",
+      "hammer_price_usd": 9990.9,
+      "currency_original": "USD",
+      "price_original": 9990.9,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8360796-002",
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8360796002/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-91550072f4c9",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13208/empire-romain-roman/11661149/empire-romain-romanelagabale-218-222",
+      "title": "EMPIRE ROMAIN - ROMAN<br>\u00c9lagabale (218-222). Aureus ND (219-220), Rome. NGC AU 5/5 4/5 (8237651-001).<br>Av. IMP CAES M AVR ANTONINVS AVG. Buste laur\u00e9, drap\u00e9 et cuirass\u00e9, \u00e0 droite. <br>Rv. ADVENTVS AVGVSTI. L\u2019Empereur \u00e0 cheval \u00e0 gauche, tenant une lance de la main gauche et saluant de la main droite.<br>Calic\u00f3 2986 - RIC.57d ; Or - 6,39 g - 21 mm - 6 h<br>Provient d\u2019un achat chez Spink en 1998.<br>NGC AU 5/5 4/5 (8237651-001). <br>De flan large, \u00e0 la frappe nette de haut relief. De minimes crans sur les listels. Avec une patine dor\u00e9e. Tr\u00e8s rare. Superbe \u00e0 Fleur de coin.<br> <br> <br><b>Here you can find the <a href=\"https://d10dakqizeg4uw.cloudfront.net/VAE17/200.MP4\" rel=\"noopener noreferrer nofollow\"> Video-Tour</a></b>",
+      "description": "MDC Monaco | ['Auction 17']",
+      "hammer_price_usd": 22332.6,
+      "currency_original": "USD",
+      "price_original": 22332.6,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8237651-001",
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8237651001/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-4c0705bf36d0",
       "source": "coinarchives",

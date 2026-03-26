@@ -8,17 +8,18 @@
   "ruler_rarity": null,
   "denomination": "AR Drachm",
   "metal": "silver",
-  "sale_count": 3,
-  "realized_count": 3,
+  "sale_count": 5,
+  "realized_count": 5,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 650.0,
+    "min": 416.7,
     "max": 2200.0
   },
-  "median_price_usd": 1800.0,
-  "last_sale_date": "2026-01-16",
+  "median_price_usd": 650.0,
+  "last_sale_date": "2026-02-09",
   "grade_distribution": {
+    "XF": 2,
     "MS": 1,
     "VF": 2
   },
@@ -32,6 +33,72 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-23cf7345d2ca",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/nihon-coin-auction/13497/gu-dai-girishiya-ancient-greek/11929426/gu-dai-girishiya-ancient-greek-karaburia-tarasu-calabria",
+      "title": "\u53e4\u4ee3\u30ae\u30ea\u30b7\u30e3 ANCIENT GREEK \u30ab\u30e9\u30d6\u30ea\u30a2\u30fb\u30bf\u30e9\u30b9 Calabria Taras  \u30c9\u30e9\u30af\u30de\u9280\u8ca8 AR Drachm Circa 3rd Century \u30a2\u30c6\u30cd/\u30d5\u30af\u30ed\u30a6 Athena/Owl Stg. Sear-373var. 3.26gm NGC XF Strike:4/5 Surface:3/5 Fine Style (3759990-008)\u3000F+",
+      "description": "Nihon Coin Auction | ['No.62 Nihon Coin Auction']",
+      "hammer_price_usd": 416.7,
+      "currency_original": "USD",
+      "price_original": 416.69763,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "3759990-008",
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": "https://www.ngccoin.com/certlookup/3759990008/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-8395f236ed28",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13566/ancients-greek/11997780/thracian-kingdom-lysimachus-305-281-bc",
+      "title": "THRACIAN KINGDOM. Lysimachus (305-281 BC). AR drachm (18mm, 4.18 gm, 7h). NGC XF 4/5 - 5/5. In the types of Alexander III the Great of Macedon, Lampsacus, ca. 301-296 BC. Head of Heracles right, wearing lion skin headdress, paws tied before neck / \u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 / \u039b\u03a5\u03a3\u0399\u039c\u0391\u03a7\u039f\u03a5, Zeus seated left on backless throne, right leg drawn back, feet on stool, eagle in outstretched right hand, grounded scepter in left; dolphin left above lion forepart left in left field, upwards hook below throne. Price L12.  Alexander the Great's meteoric 13-year career of conquest left the classical world profoundly transformed by the time of his premature death in 323 BC. In the immediate aftermath, Alexander's generals carved up his immense new empire into spheres of influence, although maintaining the fiction of a unified leadership. Territorial disputes soon led to civil wars, with the rival warlords contending for supreme power. Chief among these was Lysimachus, who at various times controlled Thrace, Macedon, and much of Asia Minor. For the obverse of his silver his coinage, Lysimachus claimed the mantle of Alexander by choosing the image of the conqueror himself, now shown as a god wearing the ram's horn of the Greco-Egyptian deity Ammon. The image is one of the earliest true portraits to appear on a coin, and one of the finest. The reverse, depicting Athena enthroned, likewise proved extremely influential throughout history, forming the archetype for the figure of Britannia on modern English coins.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice <br> Ancients",
+      "description": "Heritage Auctions, Inc. | ['Auction #61596']",
+      "hammer_price_usd": 440.0,
+      "currency_original": "USD",
+      "price_original": 440.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-02-09",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-88b48220e577",
       "source": "coinarchives",

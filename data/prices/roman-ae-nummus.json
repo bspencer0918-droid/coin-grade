@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AE Nummus",
   "metal": "bronze",
-  "sale_count": 472,
-  "realized_count": 472,
+  "sale_count": 475,
+  "realized_count": 475,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,8 +17,9 @@
     "max": 6000.0
   },
   "median_price_usd": 149.0,
-  "last_sale_date": "2026-03-15",
+  "last_sale_date": "2026-03-16",
   "grade_distribution": {
+    "G": 3,
     "XF": 53,
     "VG": 4,
     "AU": 161,
@@ -36,6 +37,105 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-4667af576ef8",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stephen-album-rare-coins/13675/ancient-roman-amp-byzantine/12090166/roman-empire-constantius-i-chlorus",
+      "title": "ROMAN EMPIRE: Constantius I Chlorus, 305-306 AD, BI nummus (10.38g), Heraclea, RIC-24b, laureate head right, IMP C FL VAL CONSTANTIVS P F AVG // Genius standing left, pouring liquid from patera in right hand and holding cornucopia in left hand, GENIO POPVLI ROMANI, HTE in exergue, light surface fissures on reverse, Strike 3/5, Surface 4/5, NGC graded Choice VF.",
+      "description": "Stephen Album Rare Coins | ['Internet Auction 36']",
+      "hammer_price_usd": 40.17,
+      "currency_original": "USD",
+      "price_original": 40.173,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 3,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-ac71340b0865",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stephen-album-rare-coins/13675/ancient-roman-amp-byzantine/12090177/roman-empire-licinius-i-308-324",
+      "title": "ROMAN EMPIRE: Licinius I, 308-324 AD, silvered BI nummus (5.67g), Heraclea, 312 AD, RIC-56, laureate head right, IMP C VAL LIC LICINIVS P F AVG // Jupiter standing left, holding globe in right hand and long scepter with left hand, wreath to lower left, IOVI CONSERVATORI, HTG in exergue, silvering intact and lightly lustrous, Strike 5/5, Surface 5/5, NGC graded AU.",
+      "description": "Stephen Album Rare Coins | ['Internet Auction 36']",
+      "hammer_price_usd": 160.69,
+      "currency_original": "USD",
+      "price_original": 160.692,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-e947d7af034d",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stephen-album-rare-coins/13675/ancient-roman-amp-byzantine/12090173/roman-empire-constantine-i-the",
+      "title": "ROMAN EMPIRE: Constantine I 'the Great', 307-337 AD, AE nummus (3.51g), Thessalonica, 321-324 AD, RIC-61b, laureate, draped, and cuirassed bust right, IMP C CONSTANTINVS P F AVG // Jupiter standing left, holding Victory on globe in right hand and scepter in left hand, eagle with wreath to left, IOVI CONSERVATORI AVGG NN, TS in exergue, glossy dark green patina, Strike 5/5, Surface 4/5, NGC graded AU.",
+      "description": "Stephen Album Rare Coins | ['Internet Auction 36']",
+      "hammer_price_usd": 126.26,
+      "currency_original": "USD",
+      "price_original": 126.258,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-84ea33f76d17",
       "source": "coinarchives",

@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 273,
-  "realized_count": 273,
+  "sale_count": 275,
+  "realized_count": 275,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -19,21 +19,87 @@
   "median_price_usd": 216.0,
   "last_sale_date": "2026-04-11",
   "grade_distribution": {
-    "AU": 42,
+    "AU": 44,
     "XF": 52,
     "VF": 103,
-    "F": 75
+    "F": 76
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-0-3-4-2-30342139&w=120&h=300&it=product",
   "median_weight_g": null,
-  "top_strike_score": 5,
-  "top_surface_score": 4,
-  "top_grade_numeric": null,
+  "top_strike_score": 3,
+  "top_surface_score": 5,
+  "top_grade_numeric": 3,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-5c00e0f24fc7",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13229/ancients-roman-provincial/11677391/syria-antioch-nero-ad-54-68",
+      "title": "SYRIA. Antioch. Nero (AD 54-68). AR tetradrachm (25mm, 15.32 gm, 1h). NGC AU S 5/5 - 4/5. Dated Regnal Year 10 and Year 112 of the Caesarean Era (AD 63/4). NEP\u03a9N KAI\u03a3AP-\u03a3EBA\u03a3TO\u03a3, laureate bust of Nero right, seen from behind, wearing aegis / ETOY\u03a3-BIP\u2022I (dates), eagle standing facing on thunderbolt, head right, tail left, wings spread; palm branch in right field. Prieur 89. RPC I 4189. Champagne toning with iridescent highlights.   From the LII Collection of Historical Coins and Medals. Ex Heritage Auctions, Auction 3082 (21 January 2020), lot 33182; Numismatic Fine Arts XVIII (March 1987), lot 444.  Nero, born Lucius Domitius Ahenobarbus in 37 AD, ascended to the Roman imperial throne in 54 AD, initiating a tumultuous reign that both captivated and horrified contemporaries. Initially perceived as a youthful and promising ruler, Nero's early years were marked by relative stability. However, his later years were characterized by a series of erratic and tyrannical acts. Nero's infatuation with the arts and his lavish spending on grandiose construction projects, such as the Domus Aurea, strained the Roman treasury. His ruthless suppression of the Pisonian conspiracy and persecution of Christians tarnished his legacy further. The Great Fire of Rome in 64 AD, though often attributed to Nero, remains a subject of historical debate. Ultimately, Nero's reign culminated in a revolt by the Roman Senate, leading to his suicide in 68 AD, marking the end of the Julio-Claudian dynasty and leaving a complex legacy as both a patron of the arts and a symbol of tyranny in Roman history. From the LII Collection of Historical Coins and Medals   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice <br> Ancients",
+      "description": "Heritage Auctions, Inc. | ['Auction #61555']",
+      "hammer_price_usd": 1900.0,
+      "currency_original": "USD",
+      "price_original": 1900.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-06",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-6f95f212612b",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13445/ancients-judaea/11878395/judaea-bar-kokhba-revolt-ad",
+      "title": "JUDAEA. Bar Kokhba Revolt (AD 132-135). AR sela (26mm, 13.36 gm, 1h). NGC AU 3/5 - 5/5. Undated issue of Year 3 (AD 134/135). Simon (Paleo-Hebrew) across fields, star above fa\u00e7ade of the Jerusalem Temple, the Ark of the Covenant seen from end in center of entrance / For the Freedom of Jerusalem (Paleo-Hebrew), lulav; etrog in left field. GBC 6, 6439.   Overstruck on a Nero tetradrachm (BIP\u2022I / NEP\u03a9N).  Unlike coins of the first Jewish War against Rome (AD 66-70), all coins of the Bar Kokhba Revolt were overstruck on Roman Provincial issues already in circulation, mainly silver tetradrachms and drachms of Antioch, Tyre, and Caesarea in Cappadocia, as well as Roman silver denarii. The government of Simon Bar Kokhba mainly controlled the Judaean hinterlands, hiding men and equipment in an elaborate network of underground caves and tunnels, and did not have the time or resources to set up a full-fledged mint with smelting, refining and casting capabilities. All the same, it must have given the rebel mintmasters a certain thrill to hammer flat the images of the Roman emperors and Pagan deities who they hoped to banish from Israel altogether. The imagery of Bar Kokhba coins focuses upon the symbols related to the original Temple of Jerusalem - the fa\u00e7ade of which appears on the obverse of the large silver tetradrachm-sized selas, and the Feast of Tabernacles, with the lulav and etrog occupying the reverse. Coins struck during the first and second years of the revolt carry a date (\"Year One / Two of the Redemption of Israel\"), while coins struck during the third year (AD 134-135) are undated.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61558']",
+      "hammer_price_usd": 4800.0,
+      "currency_original": "USD",
+      "price_original": 4800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-30",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 3,
+        "strike_score": 3,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-f208a446824b",
       "source": "heritage",

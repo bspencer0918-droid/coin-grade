@@ -4,22 +4,22 @@
   "ruler": "Constantine V",
   "ruler_normalized": "constantine-v",
   "dynasty": "Isaurian",
-  "ruler_dates": "AD 741\u2013775",
+  "ruler_dates": "AD 741\u00e2\u20ac\u201c775",
   "ruler_rarity": "common",
   "denomination": "AE Follis",
   "metal": "bronze",
-  "sale_count": 113,
-  "realized_count": 113,
+  "sale_count": 114,
+  "realized_count": 114,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 46.0,
     "max": 960.0
   },
-  "median_price_usd": 154.0,
+  "median_price_usd": 155.0,
   "last_sale_date": "2026-02-26",
   "grade_distribution": {
-    "MS": 8,
+    "MS": 9,
     "AU": 38,
     "XF": 38,
     "VF": 26,
@@ -35,6 +35,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-4f248017a35e",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13531/basil-ii-976-1025/11953025/anonymous-issues-time-of-basil",
+      "title": "ANONYMOUS ISSUES. Time of Basil II & Constantine VIII, 976-1025. AE Follis (11.82 gms), Constantinople Mint. NGC MS, Strike: 5/5 Surface: 4/5. <br> S-1813. Obverse: Facing bust of Christ Pantokrator; Reverse: Legend in four lines. Conditionally about as impressive as one could ever hope for, this stunning Mint State example offers bold and powerful strike quality, rich unblighted surfaces, and a deep color, with a few green hints. Lovely in a way that distinguishes it from nearly every other Byzantine bronze. <br> From the Peter Jones M.D. Collection. <p>Ex: Numismatica Ars Classica 106 (5/2018) Lot # 1134. <br> <strong>To view all items from the Peter Jones M.D. Collection, click <a href=\"https://auctions.stacksbowers.com/lots?sort=auction_date_lot_number_asc&search=From+the+Peter+Jones+M.D.+Collection.&limit=96&lots_range=upcoming\" rel=\"noopener noreferrer nofollow\"> here.</a></strong></p>",
+      "description": "Stack\u2019s Bowers and Ponterio | ['January 2026 NYINC Showcase Auction']",
+      "hammer_price_usd": 600.0,
+      "currency_original": "USD",
+      "price_original": 600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-fea5b3c0dcb7",
       "source": "coinarchives",

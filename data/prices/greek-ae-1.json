@@ -1,0 +1,68 @@
+{
+  "slug": "greek-ae-1",
+  "category": "greek",
+  "ruler": null,
+  "ruler_normalized": null,
+  "dynasty": null,
+  "ruler_dates": null,
+  "ruler_rarity": null,
+  "denomination": "AE 1",
+  "metal": "bronze",
+  "sale_count": 1,
+  "realized_count": 1,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 40.0,
+    "max": 40.0
+  },
+  "median_price_usd": 40.0,
+  "last_sale_date": "2026-01-16",
+  "grade_distribution": {
+    "F": 1
+  },
+  "thumbnail_url": null,
+  "median_weight_g": null,
+  "top_strike_score": null,
+  "top_surface_score": null,
+  "top_grade_numeric": null,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "sixbid-f0047444dea2",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13531/judaea/11954157/judaea-herod-i-the-great",
+      "title": "JUDAEA. Herod I (the Great), 40-4 B.C.E. AE 1/2 Prutah, Jerusalem Mint. NGC FINE. Scratches. <br> Meshorer-66; Hendin-6221. Obverse: Greek legend flanking cornucopia; Reverse: Eagle standing right. Thick earthen deposits. <br> From the Rabbi Victor H. Weissberg and Tamar Weissberg Collection. <br> <strong>To view all items from the Rabbi Victor H. Weissberg and Tamar Weissberg Collection, click <a href=\"https://auctions.stacksbowers.com/lots?sort=auction_date_lot_number_asc&search=From+the+Rabbi+Victor+H.+Weissberg+and+Tamar+Weissberg+Collection&limit=96&lots_range=upcoming\" rel=\"noopener noreferrer nofollow\"> here.</a></strong>",
+      "description": "Stack\u2019s Bowers and Ponterio | ['January 2026 NYINC Showcase Auction']",
+      "hammer_price_usd": 40.0,
+      "currency_original": "USD",
+      "price_original": 40.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

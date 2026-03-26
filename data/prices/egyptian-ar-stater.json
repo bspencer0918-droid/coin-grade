@@ -1,0 +1,68 @@
+{
+  "slug": "egyptian-ar-stater",
+  "category": "egyptian",
+  "ruler": null,
+  "ruler_normalized": null,
+  "dynasty": null,
+  "ruler_dates": null,
+  "ruler_rarity": null,
+  "denomination": "AR Stater",
+  "metal": "electrum",
+  "sale_count": 1,
+  "realized_count": 1,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 8000.0,
+    "max": 8000.0
+  },
+  "median_price_usd": 8000.0,
+  "last_sale_date": "2026-01-12",
+  "grade_distribution": {
+    "XF": 1
+  },
+  "thumbnail_url": null,
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 3,
+  "top_grade_numeric": 5,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "sixbid-012717637238",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13522/ancients-greek/11945049/mysia-cyzicus-ca-550-450-bc",
+      "title": "MYSIA. Cyzicus. Ca. 550-450 BC. EL stater (19mm, weight not listed). NGC XF 5/5 - 3/5. Sphinx crouching left, right forepaw raised; tunny fish left below / Quadripartite incuse square punch. Greenwell 100. Von Fritze 72. SNG France 5, 200. Sunny surfaces with full devices visible from the central strike.  From The Cambridge Collection. Ex The Lexington Collection of Jonathan K. Kern (Heritage Auctions, Auction 3033, 8 August 2014), lot 23028.  The sphinx, which appears frequently on the early electrum coinage of Cyzicus, had its origins in ancient Egypt (and is here perhaps symbolic of the lucrative trade between Egypt and mainland Greece), but the Greeks quickly developed their own version of the creature, which in their variant had the body of a lion, the wings of a bird and forepart of a woman. The most famous of these was Sphinx of Thebes (the Greek city, though interestingly there is also an Egyptian Thebes), who queried travelers with a riddle, then devoured them when they could not answer. This went on until she encountered Oedipus, who successfully answered the riddle, whereupon the Sphinx flung herself from a cliff.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction - New York #3129']",
+      "hammer_price_usd": 8000.0,
+      "currency_original": "USD",
+      "price_original": 8000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-12",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

@@ -8,18 +8,18 @@
   "ruler_rarity": null,
   "denomination": "AR Siliqua",
   "metal": "silver",
-  "sale_count": 47,
-  "realized_count": 47,
+  "sale_count": 48,
+  "realized_count": 48,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 89.0,
     "max": 564.0
   },
-  "median_price_usd": 252.0,
+  "median_price_usd": 256.0,
   "last_sale_date": "2026-03-15",
   "grade_distribution": {
-    "AU": 17,
+    "AU": 18,
     "XF": 17,
     "VF": 7,
     "MS": 6
@@ -34,6 +34,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-5d1d327393d0",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13634/ancients-roman-imperial/12049191/valens-eastern-roman-empire-ad",
+      "title": "Valens, Eastern Roman Empire (AD 364-378). AR siliqua (17mm, 1.96 gm, 7h). NGC AU 5/5 - 4/5. Trier, ca. AD 375-378. D N VALEN-S P F AVG, pearl-diademed, draped, and cuirassed bust of Valens right, seen from front / VRBS-ROMA, Roma enthroned facing, head left, Victory standing right on globe in outstretched right hand, grounded scepter in left; TRPS\u2022 in exergue. RIC IX 46a2.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61605']",
+      "hammer_price_usd": 260.0,
+      "currency_original": "USD",
+      "price_original": 260.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-15",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-ef9e65bca162",
       "source": "heritage",

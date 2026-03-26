@@ -8,18 +8,18 @@
   "ruler_rarity": null,
   "denomination": "AR Siliqua",
   "metal": "silver",
-  "sale_count": 16,
-  "realized_count": 16,
+  "sale_count": 17,
+  "realized_count": 17,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 129.0,
     "max": 1320.0
   },
-  "median_price_usd": 444.0,
+  "median_price_usd": 432.0,
   "last_sale_date": "2026-03-15",
   "grade_distribution": {
-    "AU": 7,
+    "AU": 8,
     "XF": 7,
     "VF": 2
   },
@@ -33,6 +33,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-ec88d76c47ed",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13634/ancients-roman-imperial/12049189/honorius-western-roman-empire-ad",
+      "title": "Honorius, Western Roman Empire (AD 393-423). AR siliqua (16mm, 1.47 gm, 1h). NGC AU 4/5 - 2/5, brushed. Milan, AD 395-402. D N HONORI-VS P F AVG, pearl-diademed, draped, and cuirassed bust of Honorius right, seen from front / VIRTVS RO-MANORVM, Roma seated left on cuirass, Victory right on globe in outstretched right hand, inverted spear in left; MDPS in exergue. RIC X 1228.  Honorius was Western Roman emperor from AD 395 to 423, coming to the throne at the age of ten after the death of his father, Theodosius I. His long reign was marked by severe instability and the gradual decline of the Western Empire. Under his rule, the Visigoths famously sacked Rome in AD 410-a shocking event that symbolized the Empire's vulnerability. Much of the real power early in his reign was held by his general Stilicho, whose execution in AD 408 left the empire weakened. Though Honorius remained emperor for nearly 30 years, his rule was largely ineffective, and he struggled to maintain control over the fracturing Western territories.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61605']",
+      "hammer_price_usd": 400.0,
+      "currency_original": "USD",
+      "price_original": 400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-15",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-f6e0467162ba",
       "source": "heritage",

@@ -1,0 +1,68 @@
+{
+  "slug": "roman-honorius-unknown",
+  "category": "roman",
+  "ruler": "Honorius",
+  "ruler_normalized": "honorius",
+  "dynasty": "Theodosian",
+  "ruler_dates": "AD 393\u00e2\u20ac\u201c423",
+  "ruler_rarity": null,
+  "denomination": "Unknown",
+  "metal": "unknown",
+  "sale_count": 1,
+  "realized_count": 1,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 1800.0,
+    "max": 1800.0
+  },
+  "median_price_usd": 1800.0,
+  "last_sale_date": "2026-02-23",
+  "grade_distribution": {
+    "MS": 1
+  },
+  "thumbnail_url": null,
+  "median_weight_g": null,
+  "top_strike_score": null,
+  "top_surface_score": null,
+  "top_grade_numeric": null,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "sixbid-a774d2d741e8",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13627/cook-islands/12043041/cook-islands-group-of-5",
+      "title": "COOK ISLANDS. Group of 5 Dollars (12 Pieces), 2021. All NGC MS-70 Antiqued. <br> ASW: 12.00 oz. A group of twelve seemingly eclectic types honoring the Roman Empire and Republic, offering an antique flair for those interested in modern issues.",
+      "description": "Stack\u2019s Bowers and Ponterio | ['The February 2026 World Collectors Choice Online Auction (SBG)']",
+      "hammer_price_usd": 1800.0,
+      "currency_original": "USD",
+      "price_original": 1800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-02-23",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

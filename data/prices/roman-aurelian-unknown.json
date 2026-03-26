@@ -4,12 +4,12 @@
   "ruler": "Aurelian",
   "ruler_normalized": "aurelian",
   "dynasty": "Crisis of the Third Century",
-  "ruler_dates": "AD 270\u2013275",
+  "ruler_dates": "AD 270\u00e2\u20ac\u201c275",
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "unknown",
-  "sale_count": 166,
-  "realized_count": 166,
+  "sale_count": 168,
+  "realized_count": 168,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,14 +17,14 @@
     "max": 2074.0
   },
   "median_price_usd": 159.0,
-  "last_sale_date": "2026-03-15",
+  "last_sale_date": "2026-03-16",
   "grade_distribution": {
-    "MS": 77,
+    "MS": 78,
+    "G": 2,
     "AU": 63,
     "XF": 18,
     "VF": 6,
-    "F": 1,
-    "G": 1
+    "F": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/79beff33fa17142d36299d596251d15c/img/heritage/61605/image23199.jpg",
   "median_weight_g": null,
@@ -36,6 +36,72 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-121692dd7cdc",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13229/ancients-roman-imperial/11677432/aurelian-ad-270-275-bi-antoninianus",
+      "title": "Aurelian (AD 270-275). BI antoninianus (22mm, 5h). NGC MS, Silvering. Siscia, 2nd officina. IMP C AVRELIANVS AVG, radiate, cuirassed bust of Aurelianus right, seen from the front / CONCORDIA MILITVM, Aurelian standing right (on left), clasping hands with Concordia standing left (on right); S in center field, XXIS in exergue. RIC V.I 244. Reflective, hematite toning on well-centered and crisp dies.    HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice <br> Ancients",
+      "description": "Heritage Auctions, Inc. | ['Auction #61555']",
+      "hammer_price_usd": 420.0,
+      "currency_original": "USD",
+      "price_original": 420.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-06",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-7a0163a8622e",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stephen-album-rare-coins/13675/ancient-roman-amp-byzantine/12090152/roman-empire-aurelian-270-275-ad",
+      "title": "ROMAN EMPIRE: Aurelian, 270-275 AD, silvered BI antoninianus (4.36g), Mediolanum (Milan), RIC-135, radiate, draped, and cuirassed bust right, AVRELIANVS AVG // Sol standing left, raising right hand and holding globe in left hand, captive with eastern headdress seated at his feet to left, ORIENS AVG, light porosity on obverse, Strike 3/5, Surface 3/5, NGC graded Choice AU.",
+      "description": "Stephen Album Rare Coins | ['Internet Auction 36']",
+      "hammer_price_usd": 51.65,
+      "currency_original": "USD",
+      "price_original": 51.651,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 3,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-c1d78ba9afe6",
       "source": "coinarchives",

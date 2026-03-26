@@ -7,21 +7,21 @@
   "ruler_dates": null,
   "ruler_rarity": null,
   "denomination": "Unknown",
-  "metal": "unknown",
-  "sale_count": 10,
-  "realized_count": 10,
+  "metal": "silver",
+  "sale_count": 12,
+  "realized_count": 12,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 79.0,
     "max": 11000.0
   },
-  "median_price_usd": 172.5,
+  "median_price_usd": 219.0,
   "last_sale_date": "2026-01-16",
   "grade_distribution": {
+    "VF": 3,
     "XF": 6,
     "AU": 2,
-    "VF": 1,
     "MS": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/019261041a2faf980b01117c4f700162/img/ngsa/022/image00171.jpg",
@@ -34,6 +34,72 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-cb5e42fff953",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13230/ancients-byzantine/11677480/john-viii-palaeologus-ad-1421-1425-1448",
+      "title": "John VIII Palaeologus (AD 1421/1425-1448). AR stavraton (23mm, 1h). NGC VF. Constantinople. Bust of Christ facing, wearing nimbus cruciger, book of Gospels in left hand; IC-XC across fields, pellet in right field, pellets within double border around / + I\u03a9ANHC \u0394EC\u03a0OTIC O \u03a0\u0391\u039b\u0404\u039f\u039b\u039f\u0393OC / \u0398V XAPITI AVTOKPATOP, nimbate bust of John VIII facing, crowned and wearing loros; pellet in left field. Sear 2563 (AR half-hyperpyron).   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice <br> Ancients",
+      "description": "Heritage Auctions, Inc. | ['Auction #61554']",
+      "hammer_price_usd": 252.0,
+      "currency_original": "USD",
+      "price_original": 252.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-05",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-82d25795115d",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13505/ancients-byzantine/11937224/john-viii-palaeologus-ad-1421-5-1448",
+      "title": "John VIII Palaeologus (AD 1421/5-1448). AR stavraton (23mm, 6.60 gm, 1h). NGC Choice VF 3/5 - 4/5. Constantinople. Bust of Christ facing, wearing nimbus cruciger, book of Gospels in left hand; IC-XC across fields, pellets within double border around / I\u03a9ANHC \u0394EC\u03a0OTIC O \u03a0\u0391\u039b\u0404\u039f\u039b\u039f\u0393OC / \u0398V XAPITI AVTOKPATOP, nimbate bust of John VIII facing, crowned and wearing loros; pellet in left and right fields. Sear 2563-2564 (AR half-hyperpyron).  From the Werner Collection. Ex Ephesus Numismatics, private sale with old dealer's tag included.   The long reign of the penultimate Byzantine emperor was spent desperately pleading with Western leaders to help Byzantium from the Turkish threat. John sent messengers to the Council of Florence in 1439 in hopes of reuniting the Orthodox Church with Rome, but this move towards conciliation was adamantly rejected by the population, who refused to forgive the Latins for the Sack of Constantinople in 1204. The major western powers of England, France, Castille, and the Holy Roman Empire refused to act, leaving Constantinople to the mercy of the Ottomans. The only material aid came from Europe's eastern nations - in 1444, the armies of Poland, Lithuania, Hungary, Bohemia, and Croatia marched towards Constantinople in the last crusade of the Middle Ages. The two armies met at Varna in Bulgaria on November 10; it was a decisive victory for the Turks, who inflicted heavy losses on the Europeans and killed the brave 20-year old king of Poland Wladyslaw III, who died leading his men in a charge directly towards the Sultan. With the defeat of the final crusade at Varna, Byzantium's fate was all but sealed. John VIII died four years later in 1448, and the capital finally fell in 1453.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61557']",
+      "hammer_price_usd": 990.0,
+      "currency_original": "USD",
+      "price_original": 990.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-29",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 3,
+        "strike_score": 3,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-9c92fb792607",
       "source": "coinarchives",

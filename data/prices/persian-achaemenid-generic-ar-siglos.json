@@ -8,31 +8,64 @@
   "ruler_rarity": null,
   "denomination": "AR Siglos",
   "metal": "silver",
-  "sale_count": 3,
-  "realized_count": 3,
+  "sale_count": 4,
+  "realized_count": 4,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 480.0,
+    "min": 290.0,
     "max": 84000.0
   },
-  "median_price_usd": 3360.0,
-  "last_sale_date": "2025-01-13",
+  "median_price_usd": 1920.0,
+  "last_sale_date": "2025-10-06",
   "grade_distribution": {
+    "XF": 2,
     "VF": 1,
-    "AU": 1,
-    "XF": 1
+    "AU": 1
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-1-5-1-7-31517964&w=120&h=300&it=product",
   "median_weight_g": null,
-  "top_strike_score": 4,
+  "top_strike_score": 5,
   "top_surface_score": 3,
-  "top_grade_numeric": 4,
+  "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-cd0f478749d6",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13229/ancients-greek/11677362/bithynia-calchedon-ca-4th-century",
+      "title": "BITHYNIA. Calchedon. Ca. 4th century BC. AR siglos (17mm, 5.33 gm). NGC Choice XF 5/5 - 3/5, brushed. Persic standard. KA\u039bX, bull standing left on grain ear right / Quadripartite incuse mill sail pattern with stippled surfaces. SNG Black Sea 112-117. HGC 7, 517. Finely struck with a vivid magenta and cerulean toning.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice <br> Ancients",
+      "description": "Heritage Auctions, Inc. | ['Auction #61555']",
+      "hammer_price_usd": 290.0,
+      "currency_original": "USD",
+      "price_original": 290.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-06",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-5f14ea0b84ff",
       "source": "heritage",

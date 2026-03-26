@@ -8,18 +8,18 @@
   "ruler_rarity": null,
   "denomination": "AE Follis",
   "metal": "bronze",
-  "sale_count": 67,
-  "realized_count": 67,
+  "sale_count": 68,
+  "realized_count": 68,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 25.0,
     "max": 6600.0
   },
-  "median_price_usd": 204.0,
-  "last_sale_date": "2026-01-16",
+  "median_price_usd": 201.0,
+  "last_sale_date": "2026-03-18",
   "grade_distribution": {
-    "MS": 1,
+    "MS": 2,
     "AU": 19,
     "XF": 11,
     "VF": 26,
@@ -36,6 +36,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-645ede62e2ca",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/roxburys/13657/ancient-coins/12070604/byzantine-empire-anonymous-issue-ae",
+      "title": "Byzantine Empire, Anonymous Issue, AE Follis, AD 1020-1028, NGC MS <br> Bronze follis (10.9g), featuring bust of Christ. NGC Cert Number: 4877819-005.",
+      "description": "Roxbury\u2019s Auction House | ['Auction 154']",
+      "hammer_price_usd": 106.0,
+      "currency_original": "USD",
+      "price_original": 106.00269,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-18",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "4877819-005",
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/4877819005/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-9d58aeb01e81",
       "source": "coinarchives",

@@ -8,30 +8,63 @@
   "ruler_rarity": null,
   "denomination": "AV Stater",
   "metal": "gold",
-  "sale_count": 6,
-  "realized_count": 6,
+  "sale_count": 7,
+  "realized_count": 7,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 3840.0,
     "max": 50400.0
   },
-  "median_price_usd": 12300.0,
-  "last_sale_date": "2024-11-02",
+  "median_price_usd": 13200.0,
+  "last_sale_date": "2026-01-12",
   "grade_distribution": {
-    "XF": 2,
-    "AU": 4
+    "AU": 5,
+    "XF": 2
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-1-0-9-9-31099068&w=120&h=300&it=product",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 2,
+  "top_surface_score": 4,
   "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-2b52469b41bd",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13522/ancients-greek/11945127/bactrian-kingdom-diodotus-i-as",
+      "title": "BACTRIAN KINGDOM. Diodotus I, as Satrap (ca. 255-235 BC). AV stater (18mm, 8.40 gm, 7h). NGC AU 5/5 - 4/5, Fine Style. First Diodotid Mint (Holt and Kritt's \"Mint A\"), probably Ai Khanoum (or nearby), in the name of Antiochus II, ca. 255-246 BC. Diademed head of Diodotus I right / \u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 / \u0391\u039d\u03a4\u0399\u039f\u03a7\u039f\u03a5, Zeus, nude, seen from behind, advancing left, brandishing thunderbolt in raised right hand, aegis draped over outstretched left arm; N above eagle standing left in inner left field. SC 629.1. ESM 713. Kovalenko Series VIII, 55. Rare, particularly so without test cut. A magnificent piece, surely among the finest known specimens of this intriguing type.  From the Mirabilis Collection. Ex Numismatica Ars Classica, Auction 140 (7 November 2023), lot 178; Maison Palombo, Auction 5 (7 June 2008), lot 47; Palombo Sale 3.  Until about 2001, only one indisputably genuine satrapal gold stater of Diodotus I was known to exist. Recently, more have come to light, most of them marred by test cuts. The present specimen is free of test cuts or any other defects, making it both rare and highly desirable. As these pieces demonstrate, the tradition of excellence in Bactrian coin portraiture started with the very first reign.  The confusion around the reign of Diodotus I, including his coinage, mirrors a greater lack of understanding of the events of central Asia during the middle decades of the 3rd century BC. The Seleucid king Antiochus II, in whose name this coin was minted, was primarily concerned with his possessions in the Levant and Asia Minor, and he neglected the eastern satrapies - Parthia, Aria, Bactria, etc. His death in 246 BC triggered the Third Syrian War, in which the Seleucids suffered a massive defeat to Ptolemaic Egypt, losing Palestine and many thousands of men. The war meant that Seleucid armies were occupied with western affairs for five years, and ambitious Greek satraps in the East saw their chance to throw off Seleucid domination. The Parthian satrap Andragoras revolted against the Seleucids in 246 BC, minting his own coinage with his name and governing independently until he himself was killed and his territory conquered by the Parni, who later conquered all of Seleucid Persia as \"the Parthians.\" The chronology of Diodotus is more complicated and the facts are murkier. While Andragoras certainly intended his revolt to mean complete independence from the start, Diodotus likely fashioned himself early on as a kind of semi-independent governor that nevertheless was still in the Seleucid sphere. He was probably appointed satrap of Bactria in the mid-250s BC, and due to the far-flung nature of his province, was able to exert a certain level of independence, which included striking coins such as this piece with his own portrait but the name of Antiochus. It is likely, but not certain, that like Andragoras, Diodotus used the utter Seleucid defeat in Syria and Palestine to assert full independence, and perhaps the outbreak of the war with the Ptolemies was the moment that Diodotus' coinage abandoned the name of the now-dead Seleucid king Antiochus II in favor of his own. Thus, though the period provides uncertainty, this issue was likely struck while Diodotus was satrap but before the Third Syrian War, since it does not bear his name, placing this coin ca. 255-246 BC.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction - New York #3129']",
+      "hammer_price_usd": 22000.0,
+      "currency_original": "USD",
+      "price_original": 22000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-12",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-78eb698b0ae6",
       "source": "heritage",

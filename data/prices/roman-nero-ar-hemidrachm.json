@@ -4,22 +4,22 @@
   "ruler": "Nero",
   "ruler_normalized": "nero",
   "dynasty": "Julio-Claudian",
-  "ruler_dates": "AD 54\u201368",
+  "ruler_dates": "AD 54\u00e2\u20ac\u201c68",
   "ruler_rarity": null,
   "denomination": "AR Hemidrachm",
   "metal": "silver",
-  "sale_count": 3,
-  "realized_count": 3,
+  "sale_count": 4,
+  "realized_count": 4,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 220.0,
     "max": 840.0
   },
-  "median_price_usd": 336.0,
+  "median_price_usd": 278.0,
   "last_sale_date": "2026-03-15",
   "grade_distribution": {
-    "VF": 1,
+    "VF": 2,
     "XF": 2
   },
   "thumbnail_url": "https://media.coinarchives.com/5a8a08b4a24880653a5a9a2fbac193fb/img/heritage/61605/image23008.jpg",
@@ -32,6 +32,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-1d26ec479f1a",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13634/ancients-roman-provincial/12048951/cappadocia-caesarea-nero-as-augustus",
+      "title": "CAPPADOCIA. Caesarea. Nero, as Augustus (AD 54-68). AR hemidrachm (15mm, 1.78 gm, 1h). NGC Choice VF 5/5 - 2/5, brushed. NERO CLAVD DIVI CLAV-D F CAESAR AVG GERMANI, laureate head of Nero right / Nike seated right on globe, wreath in both hands. RPC I 3645.  Nero, born Lucius Domitius Ahenobarbus in 37 AD, ascended to the Roman imperial throne in 54 AD, initiating a tumultuous reign that both captivated and horrified contemporaries. Initially perceived as a youthful and promising ruler, Nero's early years were marked by relative stability. However, his later years were characterized by a series of erratic and tyrannical acts. Nero's infatuation with the arts and his lavish spending on grandiose construction projects, such as the Domus Aurea, strained the Roman treasury. His ruthless suppression of the Pisonian conspiracy and persecution of Christians tarnished his legacy further. The Great Fire of Rome in 64 AD, though often attributed to Nero, remains a subject of historical debate. Ultimately, Nero's reign culminated in a revolt by the Roman Senate, leading to his suicide in 68 AD, marking the end of the Julio-Claudian dynasty and leaving a complex legacy as both a patron of the arts and a symbol of tyranny in Roman history.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61605']",
+      "hammer_price_usd": 220.0,
+      "currency_original": "USD",
+      "price_original": 220.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-15",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-542f3c00ae09",
       "source": "coinarchives",

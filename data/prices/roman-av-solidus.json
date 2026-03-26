@@ -8,21 +8,21 @@
   "ruler_rarity": null,
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 419,
-  "realized_count": 419,
+  "sale_count": 422,
+  "realized_count": 422,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 312.0,
     "max": 75000.0
   },
-  "median_price_usd": 1320.0,
+  "median_price_usd": 1350.0,
   "last_sale_date": "2026-03-15",
   "grade_distribution": {
+    "MS": 147,
+    "VF": 29,
     "XF": 83,
-    "MS": 146,
     "AU": 147,
-    "VF": 27,
     "F": 1,
     "G": 15
   },
@@ -36,6 +36,105 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-21b820a2b3aa",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13229/ancients-roman-imperial/11677453/ostrogoths-theoderic-ad-493-526-in",
+      "title": "OSTROGOTHS. Theoderic (AD 493-526) in the name of Zeno (AD 474-491). AV solidus (20mm, 4.46 gm, 5h). NGC MS S 5/5 - 4/5. Pseudo-Imperial coinage, in the name of Zeno, uncertain Italian mint, 5th officina. D N ZENO-PERP AVG, pearl-diademed, helmeted, and cuirassed bust of Zeno facing, head slightly right, spear in right hand over shoulder, shield decorated with horseman motif in left / VICTOR-I-A AVGGG \u0404, Victory standing facing, head left, long jeweled cross in right hand; star in right field, CONOR in exergue. Cf. Numismatica Ars Classica, Auction 92 Part 1 (23 May 2016), lot 898. Cf. RIC X 929 for possible prototype. A rare type with a reflective, buttery flan.   Ex Numismatic Fine Arts, Auction XVIII Part II (1 April 1987), lot 635.    HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice <br> Ancients",
+      "description": "Heritage Auctions, Inc. | ['Auction #61555']",
+      "hammer_price_usd": 4500.0,
+      "currency_original": "USD",
+      "price_original": 4500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-06",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-6ba5d8cd8608",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13208/empire-romain-roman/11661167/empire-romain-romangratien-367-383",
+      "title": "EMPIRE ROMAIN - ROMAN<br>Gratien (367-383). Solidus ND (367-375), Antioche, 1\u00e8re officine. NGC Ch VF 5/5 2/5 graffiti (8583610-023).<br>Av. D N GRATIA - NVS P F AVG. Buste diad\u00e9m\u00e9, drap\u00e9 et cuirass\u00e9 \u00e0 droite. <br>Rv. SPE - S RP / ANTA +. Les deux Empereurs nimb\u00e9s, en habits militaires, assis de face sur des tr\u00f4nes, tenant un sceptre et un globe. Entre eux, petite figure en toge et au-dessus un bouclier inscrit VOT V MVL X.<br>RIC.20c v. ; Or - 3,64 g - 19,5 mm - 12 h<br>NGC Ch VF 5/5 2/5 graffiti (8583610-023). <br>Cette officine ne semble pas r\u00e9pertori\u00e9e, pour ce type rare. Graffitis au droit et d\u2019usure r\u00e9guli\u00e8re. TB \u00e0 TTB.",
+      "description": "MDC Monaco | ['Auction 17']",
+      "hammer_price_usd": 999.09,
+      "currency_original": "USD",
+      "price_original": 999.09,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8583610-023",
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8583610023/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-a909301c4d93",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13208/empire-romain-roman/11661178/empire-romain-romanmajorien-457-461",
+      "title": "EMPIRE ROMAIN - ROMAN<br>Majorien (457-461). Solidus ND, Arles. NGC Ch VF 5/5 3/5 clipped (8524343-001).<br>Av. D N IVLIVS MAIORI - ANVS P F AVG. Buste casqu\u00e9 et diad\u00e9m\u00e9 \u00e0 droite, drap\u00e9 et cuirass\u00e9, tenant une lance et un bouclier orn\u00e9 du christogramme. <br>Rv. VICTORI - A AVGGG / COMOB / A - R. L\u2019Empereur debout de face, tenant une Victoire avec une couronne, sur un globe, de la main gauche et une longue croix de la main droite, le pied droit sur un captif.<br>RIC.X.2632 ; Or - 4,3 g - 20,5 mm - 5 h<br>NGC Ch VF 5/5 3/5 clipped (8524343-001). <br>De style particulier (\u201dLate court style\u201d), avec un fer de lance ferm\u00e9. Frappe avec un coin granuleux au droit. Quelques griffures dans les champs et le flan \u00e0 peine \u00e9br\u00e9ch\u00e9. Avec une patine dor\u00e9e. Presque Superbe.",
+      "description": "MDC Monaco | ['Auction 17']",
+      "hammer_price_usd": 7640.1,
+      "currency_original": "USD",
+      "price_original": 7640.1,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8524343-001",
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8524343001/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-6e4e0e7c57ce",
       "source": "coinarchives",

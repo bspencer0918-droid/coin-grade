@@ -4,12 +4,12 @@
   "ruler": "Vespasian",
   "ruler_normalized": "vespasian",
   "dynasty": "Flavian",
-  "ruler_dates": "AD 69\u201379",
+  "ruler_dates": "AD 69\u00e2\u20ac\u201c79",
   "ruler_rarity": null,
   "denomination": "AE Sestertius",
-  "metal": "bronze",
-  "sale_count": 72,
-  "realized_count": 72,
+  "metal": "gold",
+  "sale_count": 74,
+  "realized_count": 74,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -19,10 +19,10 @@
   "median_price_usd": 945.0,
   "last_sale_date": "2026-03-15",
   "grade_distribution": {
-    "VF": 29,
+    "VF": 30,
+    "F": 19,
     "AU": 6,
     "XF": 11,
-    "F": 18,
     "VG": 6,
     "G": 1,
     "AG": 1
@@ -37,6 +37,72 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-46a28c09f915",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13525/ancients-roman-imperial/11946009/vespasian-ad-69-79-ae-sestertius",
+      "title": "Vespasian (AD 69-79). AE sestertius (33mm, 24.96 gm, 6h). NGC VF 5/5 - 2/5, Fine Style. Rome, AD 71. IMP CAES VESPASIAN AVG P M TR P P P COS III, laureate head of Vespasian right / IVDAEA-CAPTA, palm tree in center with two bunches of dates, Vespasian (on left), standing right in military dress, grounded spear in right hand, parazonium cradled in left, left foot on helmet, and Jewess (on right), seated right on cuirass, right arm on knee, left hand propping head in attitude of mourning; SC in exergue. RIC II.1, 167. GBC 6, 6534. A sharp example of this type.  Ex Spink, Auction 330 (15 January 2017), lot 209.  The famous reverse legend IVDAEA CAPTA refers to the triumph of Vespasian's son Titus over the Jewish rebels and the destruction of the Second Temple in Jerusalem the prior year. Six hundred years earlier, the Babylonian king Nebuchadnezzar II and his conquering army had destroyed the Temple of Jerusalem, carrying away the Jewish people as slaves back to Babylon. The Romans chose to leave the subjugated Jewish population in place, a mistake that would come back to haunt them in the Bar Kokhba Revolt 60 years later. But if not steal the Jewish population as the Babylonians had done, what did the Romans loot from Judaea as spoils of war?  Though the Romans had been enraged by the insubordination of the Jews, they held a certain respect for the ancient nature of the Jewish religion and its institutions, part of the reason that Roman authorities permitted Judaism while persecuting newer \"cults\" like Christianity. When the triumphant army of Titus descended upon the city in August AD 70, they fixated on the Temple, the center of the Jewish faith and therefore of the revolt against Rome. Before destroying the structure, the Roman legionaries looted the sacred relics of the Temple, including the Table of the Sacred Bread, a table of solid gold that held various food and drink that was a type of permanent offering to God. But the greatest prize of all was the gold menorah, which was paraded through the streets of Rome along with the aforementioned Table and the sacred trumpets during Titus' triumph. The whole scene, including the menorah, is featured prominently on the Arch of Titus, which still stands today in Rome.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature Auction #3130']",
+      "hammer_price_usd": 2800.0,
+      "currency_original": "USD",
+      "price_original": 2800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-22",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-ed35ad731682",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13531/vespasian-a-d-69-79/11954352/vespasian-69-79-c-e-ae-sestertius",
+      "title": "VESPASIAN, 69-79 C.E. AE Sestertius (22.93 gms), Rome Mint, 71 C.E. NGC Ch F, Strike: 5/5 Surface: 2/5. Scuff. <br> RIC-159; Hendin-6530. \"Judaea Capta\" commemorative. Obverse: Laureate bust right; Reverse: Palm tree; to left, bound male captive standing right; to right, Judaea seated right on cuirass in attitude of mourning; both figures surrounded by arms. Despite some roughness, an unfortunately common feature of many Roman bronzes, this appealing example retains good presentability and a bold strike. <br> From the Rabbi Victor H. Weissberg and Tamar Weissberg Collection.<p></p><p> <br> <strong>To view all items from the Rabbi Victor H. Weissberg and Tamar Weissberg Collection, click <a href=\"https://auctions.stacksbowers.com/lots?sort=auction_date_lot_number_asc&search=From+the+Rabbi+Victor+H.+Weissberg+and+Tamar+Weissberg+Collection&limit=96&lots_range=upcoming\" rel=\"noopener noreferrer nofollow\"> here.</a></strong></p>",
+      "description": "Stack\u2019s Bowers and Ponterio | ['January 2026 NYINC Showcase Auction']",
+      "hammer_price_usd": 925.0,
+      "currency_original": "USD",
+      "price_original": 925.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-6171c7fb9833",
       "source": "coinarchives",

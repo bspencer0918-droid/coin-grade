@@ -1,1 +1,68 @@
-{"slug": "greek-ae-28", "category": "greek", "ruler": null, "ruler_normalized": null, "dynasty": null, "ruler_dates": null, "ruler_rarity": null, "denomination": "AE 28", "metal": "bronze", "sale_count": 1, "realized_count": 0, "fixed_price_count": 1, "ngc_verified_count": 0, "price_range_usd": {"min": 1950.0, "max": 1950.0}, "median_price_usd": 1950.0, "last_sale_date": "2026-03-26", "grade_distribution": {"P": 1}, "thumbnail_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc114043a.jpg", "median_weight_g": null, "top_strike_score": null, "top_surface_score": null, "top_grade_numeric": null, "dominant_service": "ngc", "series": null, "date_struck": null, "mint_mark": null, "sales": [{"id": "hjb-036222c32e64", "source": "hjb", "listing_type": "fixed_price", "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/114043", "title": "Sicily, Hieron II, c. 275-215 BC. AE 28", "description": "", "hammer_price_usd": 1950.0, "currency_original": "USD", "price_original": 1950.0, "buyers_premium_included": false, "sale_date": "2026-03-26", "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc114043a.jpg", "ngc": {"verified": false, "cert_number": null, "grade": "P", "grade_numeric": null, "strike_score": null, "surface_score": null, "details_grade": null, "fine_style": false, "certification_url": null, "grading_service": "ngc"}, "metadata": {"mint": "", "weight_g": null, "diameter_mm": null, "obverse_desc": null, "reverse_desc": null}, "image_hash": "ebd2beb0ea1caa80"}]}
+{
+  "slug": "greek-ae-28",
+  "category": "greek",
+  "ruler": null,
+  "ruler_normalized": null,
+  "dynasty": null,
+  "ruler_dates": null,
+  "ruler_rarity": null,
+  "denomination": "AE 28",
+  "metal": "bronze",
+  "sale_count": 1,
+  "realized_count": 0,
+  "fixed_price_count": 1,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 1950.0,
+    "max": 1950.0
+  },
+  "median_price_usd": 1950.0,
+  "last_sale_date": "2026-03-26",
+  "grade_distribution": {
+    "P": 1
+  },
+  "thumbnail_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc114043a.jpg",
+  "median_weight_g": null,
+  "top_strike_score": null,
+  "top_surface_score": null,
+  "top_grade_numeric": null,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "hjb-036222c32e64",
+      "source": "hjb",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/114043",
+      "title": "Sicily, Hieron II, c. 275-215 BC. AE 28",
+      "description": "",
+      "hammer_price_usd": 1950.0,
+      "currency_original": "USD",
+      "price_original": 1950.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-26",
+      "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc114043a.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "P",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

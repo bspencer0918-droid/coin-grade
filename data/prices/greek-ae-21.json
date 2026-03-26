@@ -1,0 +1,68 @@
+{
+  "slug": "greek-ae-21",
+  "category": "greek",
+  "ruler": null,
+  "ruler_normalized": null,
+  "dynasty": null,
+  "ruler_dates": null,
+  "ruler_rarity": null,
+  "denomination": "AE 21",
+  "metal": "gold",
+  "sale_count": 1,
+  "realized_count": 1,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 564.19,
+    "max": 564.19
+  },
+  "median_price_usd": 564.19,
+  "last_sale_date": "2025-10-01",
+  "grade_distribution": {
+    "AU": 1
+  },
+  "thumbnail_url": null,
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 5,
+  "top_grade_numeric": 5,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "sixbid-e2a054e2aa36",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13208/grece-antique-greek/11661006/grece-antique-greekchersonese-panticapee",
+      "title": "GR\u00c8CE ANTIQUE - GREEK<br>Cherson\u00e8se, Panticap\u00e9e. Bronze AE21 ND (310-303 av. J.-C.), Panticap\u00e9e. NGC Ch AU 5/5 5/5 (8524352-003).<br>Av. T\u00eate de Pan \u00e0 droite. <br>Rv. \u03a0-\u0391-\u039d. Griffon \u00e0 gauche. Au-dessous, un esturgeon.<br>HGC.7, 113 - MacDonald 69 - Anokhin 1023 - SNG BM (Black Sea) 869-871 ; Bronze - 6,54 g - 20,5 mm - 12 h<br>NGC Ch AU 5/5 5/5 (8524352-003). <br>De belle frappe et faible circulation, avec une patine marron brillante. Superbe \u00e0 Fleur de coin.",
+      "description": "MDC Monaco | ['Auction 17']",
+      "hammer_price_usd": 564.19,
+      "currency_original": "USD",
+      "price_original": 564.192,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8524352-003",
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8524352003/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

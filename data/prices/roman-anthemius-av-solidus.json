@@ -4,23 +4,23 @@
   "ruler": "Anthemius",
   "ruler_normalized": "anthemius",
   "dynasty": "Late West Roman",
-  "ruler_dates": "AD 467\u2013472",
+  "ruler_dates": "AD 467\u00e2\u20ac\u201c472",
   "ruler_rarity": "scarce",
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 11,
-  "realized_count": 11,
+  "sale_count": 13,
+  "realized_count": 13,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 3120.0,
+    "min": 2800.0,
     "max": 15600.0
   },
-  "median_price_usd": 6600.0,
+  "median_price_usd": 5500.0,
   "last_sale_date": "2025-11-07",
   "grade_distribution": {
-    "AU": 7,
-    "XF": 3,
+    "AU": 8,
+    "XF": 4,
     "MS": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/b847ff9626413297738350d8b62bad0c/img/heritage/3126/image31048.jpg",
@@ -33,6 +33,72 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-cc707fd5bedd",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13348/ancients-roman-imperial/11783897/anthemius-western-roman-empire-ad",
+      "title": "Anthemius, Western Roman Empire (AD 467-472). AV solidus (22mm, 4.48 gm, 5h). NGC Choice AU 5/5 - 4/5. \"Court Style\", Rome, AD 468. D N ANTHE-MIVS P F AVG, pearl-diademed, helmeted, and cuirassed bust of Anthemius facing, spear in right hand over shoulder, shield decorated with horseman motif in left / SALVS R-EIP-VBLICAE, Anthemius and Leo I standing facing, in military dress, both with spear in outer hand and jointly holding a globus cruciger between them; Christogram in central field, CORMOB in exergue. RIC X 2823. Crisp details on centered flans.    HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction #3126']",
+      "hammer_price_usd": 5500.0,
+      "currency_original": "USD",
+      "price_original": 5500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-06",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-7f33bee53fea",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13348/ancients-roman-imperial/11784086/anthemius-western-roman-empire-ad",
+      "title": "Anthemius, Western Roman Empire (AD 467-472). AV solidus (21mm, 4.42 gm, 1h). NGC XF 4/5 - 4/5. Milan. D N ANTHEMI-VS P F AVG, pearl-diademed, helmeted, and cuirassed bust of Anthemius facing, head slightly right, spear in right hand over shoulder, shield decorated with horseman motif in left / SALVS-REI-P-V-BLICAE, the emperors Anthemius and Leo standing facing in military dress, emperor on right holding Victory on globe in outstretched right hand, both holding between them a globus cruciger inscribed BAS; M-D across fields, COMOB in exergue. RIC X 2884. A nicely centered and reflective example of this rare type.    HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction #3126']",
+      "hammer_price_usd": 2800.0,
+      "currency_original": "USD",
+      "price_original": 2800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-06",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-e8a8757515bf",
       "source": "coinarchives",

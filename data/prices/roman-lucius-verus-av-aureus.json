@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AV Aureus",
   "metal": "gold",
-  "sale_count": 40,
-  "realized_count": 40,
+  "sale_count": 42,
+  "realized_count": 42,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,24 +17,90 @@
     "max": 56400.0
   },
   "median_price_usd": 13500.0,
-  "last_sale_date": "2025-05-02",
+  "last_sale_date": "2026-01-12",
   "grade_distribution": {
-    "AU": 4,
-    "XF": 9,
+    "XF": 12,
+    "MS": 15,
+    "AU": 6,
     "VF": 3,
-    "G": 4,
-    "MS": 7
+    "G": 6
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-5-1-2-7-25127581&w=120&h=300&it=product",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 5,
+  "top_surface_score": 3,
   "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-81fd6d9b9bba",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13208/empire-romain-roman/11661142/empire-romain-romanlucille-femme",
+      "title": "EMPIRE ROMAIN - ROMAN<br>Lucille, femme de Lucius Verus (161-169). Aureus ND (164-169), Rome. NGC Ch XF 4/5 2/5 (8583610-021).<br>Av. LVCILLAE AVG ANTONINI AVG F. Buste drap\u00e9 \u00e0 droite. <br>Rv. VOTA / PVBLI / CA dans une couronne.<br>Calic\u00f3 2219 - RIC.790 ; Or - 7,27 g - 19 mm - 6 h<br>NGC Ch XF 4/5 2/5 (8583610-021). <br>Minime marque sur la joue au droit et seul un faible plat sur la chevelure. Le revers est l\u00e9g\u00e8rement d\u00e9centr\u00e9. Quelques traces sur la tranche. \u00c0 peine nettoy\u00e9 avec une patine dor\u00e9e. Superbe.",
+      "description": "MDC Monaco | ['Auction 17']",
+      "hammer_price_usd": 4701.6,
+      "currency_original": "USD",
+      "price_original": 4701.6,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8583610-021",
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8583610021/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-9363c8d00c69",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13208/empire-romain-roman/11661141/empire-romain-romanlucius-verus",
+      "title": "EMPIRE ROMAIN - ROMAN<br>Lucius Verus (161-169). Aureus ND (163-164), Rome. NGC MS 5/5 3/5 (4681737-001).<br>Av. L VERVS AVG - ARMENIACVS. Buste \u00e0 droite. <br>Rv. TR P IIII - IMP II COS II. Victoire debout \u00e0 droite, tenant un \u00e9cu inscrit VIC AVG sur un palmier.<br>Calic\u00f3 2174 - RIC.522 ; Or - 7,34 g - 19 mm - 6 h<br>NGC MS 5/5 3/5 (4681737-001). <br>Dans son \u00e9tat de frappe avec ses surfaces d\u2019origine \u00e0 peine touch\u00e9es et une superbe patine dor\u00e9e sur le brillant d\u2019origine. Presque Fleur de coin.<br> <br> <br><b>Here you can find the <a href=\"https://d10dakqizeg4uw.cloudfront.net/VAE17/192.MP4\" rel=\"noopener noreferrer nofollow\"> Video-Tour</a></b>",
+      "description": "MDC Monaco | ['Auction 17']",
+      "hammer_price_usd": 17631.0,
+      "currency_original": "USD",
+      "price_original": 17631.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "4681737-001",
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/4681737001/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-b78c4bd88950",
       "source": "heritage",

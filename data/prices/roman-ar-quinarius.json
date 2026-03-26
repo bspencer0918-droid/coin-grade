@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Quinarius",
   "metal": "silver",
-  "sale_count": 69,
-  "realized_count": 69,
+  "sale_count": 71,
+  "realized_count": 71,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -19,8 +19,8 @@
   "median_price_usd": 159.0,
   "last_sale_date": "2026-02-12",
   "grade_distribution": {
-    "AU": 7,
-    "XF": 16,
+    "XF": 17,
+    "AU": 8,
     "VF": 32,
     "F": 9,
     "VG": 2,
@@ -36,6 +36,72 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-81f64daf7b96",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13229/ancients-roman-republic/11677407/m-porcius-cato-ca-89",
+      "title": "M. Porcius Cato (ca. 89 BC). AR quinarius (14mm, 2.01 gm, 9h). NGC XF 5/5 - 4/5. Rome. M\u2022CATO (AT ligate), laureate head of Liber right / VICTRIX (TR ligate), Victory enthroned right, patera in right hand, palm over left over shoulder. Crawford 343/2a. Iridescent toning.   Ex Classical Numismatic Group, Auction 127 (17 September2024), lot 426; 1930's Robert W. Hubel Collection.    HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice <br> Ancients",
+      "description": "Heritage Auctions, Inc. | ['Auction #61555']",
+      "hammer_price_usd": 650.0,
+      "currency_original": "USD",
+      "price_original": 650.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-06",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-93273fd79dd3",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13531/roman-republic/11952915/roman-republic-anonymous-ar-quinarius",
+      "title": "ROMAN REPUBLIC. Anonymous. AR Quinarius (2.30 gms), Rome Mint, ca. 211-208 B.C. NGC Ch AU\u2605, Strike: 5/5 Surface: 5/5. <br> Cr-44/6; Syd-141. Obverse: Helmeted head of Roma right; V (mark of value) behind; Reverse: The Dioscuri, each holding spear, on horses rearing right; ROMA in relief within tablet in exergue. A stunning Quinarius, delivering impressive strike quality that is well centered on the flan of good metal. Charmingly toned, and fully deserved of the \"star\" designation NGC has applied. <br> From the John P. Burnham Collection.<p> <br> <strong>To view all items from the John P. Burnham Collection, click <a href=\"https://auctions.stacksbowers.com/lots?sort=auction_date_lot_number_asc&search=From+the+John+P.+Burnham+Collection&limit=96&lots_range=upcoming\" rel=\"noopener noreferrer nofollow\"> here.</a></strong></p>",
+      "description": "Stack\u2019s Bowers and Ponterio | ['January 2026 NYINC Showcase Auction']",
+      "hammer_price_usd": 2600.0,
+      "currency_original": "USD",
+      "price_original": 2600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-f18acf26e7cb",
       "source": "coinarchives",

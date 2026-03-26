@@ -4,12 +4,12 @@
   "ruler": "Augustus",
   "ruler_normalized": "augustus",
   "dynasty": "Julio-Claudian",
-  "ruler_dates": "27 BC \u2013 AD 14",
+  "ruler_dates": "27 BC \u00e2\u20ac\u201c AD 14",
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 147,
-  "realized_count": 147,
+  "sale_count": 148,
+  "realized_count": 148,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -19,7 +19,7 @@
   "median_price_usd": 336.0,
   "last_sale_date": "2026-02-01",
   "grade_distribution": {
-    "MS": 1,
+    "MS": 2,
     "AU": 13,
     "XF": 21,
     "VF": 46,
@@ -36,6 +36,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-20ccfd0adf24",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13525/ancients-roman-provincial/11945983/egypt-alexandria-tiberius-ad-14-37",
+      "title": "EGYPT. Alexandria. Tiberius (AD 14-37). BI tetradrachm (24mm, 13.92 gm, 12h). NGC MS 5/5 - 3/5. Dated Regnal Year 7 (AD 20/21). \u03a4\u0399\u0392\u0395\u03a1\u0399\u039f\u03a3 \u039a\u0391\u0399\u03a3\u0391\u03a1 \u03a3\u0395\u0392\u0391\u03a3\u03a4\u039f\u03a3, laureate head of Tiberius right; L \u0396 (date) below chin / \u0398\u0395\u039f\u03a3-\u03a3\u0395\u0392\u0391\u03a3\u03a4\u039f\u03a3, radiate head of Divus Augustus right. RPC I 5089. Emmett 60. Dattari 78.  Ex Heritage Auctions, Auction 3098 (18 January 2022), lot 33245; Heritage Auctions, Auction 3051 (8 January 2017), lot 30151.  This splendid tetradrachm displays Tiberius's obsession with preserving the memory and cult of his predecessor and father-in-law, Augustus Caesar. Now deified, Augustus is shown on the reverse with the radiate crown of the sun god Helios. Augustus had annexed Egypt to the Roman Empire following his defeat of Antony and Cleopatra, and Tiberius took great care to keep maintain the operation of Egypt as the special preserve of the Princeps governed by a prefect of equestrian status appointed directly by the Emperor. As a special enclave, Egypt maintained its own currency system, including silver tetradrachms such as this one. Visitors from elsewhere in the Empire were required to turn in their Roman coinage for Egyptian issues, the transaction netting a tidy profit for the provincial government.    HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature Auction #3130']",
+      "hammer_price_usd": 4200.0,
+      "currency_original": "USD",
+      "price_original": 4200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-22",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-1385a469a4bb",
       "source": "coinarchives",
