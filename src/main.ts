@@ -77,7 +77,7 @@ async function renderRoute(route: Route) {
         const coin = await loadCoinDetail(route.slug)
         setContent(
           renderHeader('browse'),
-          renderCoinPage(coin) + renderFooter()
+          renderCoinPage(coin, catalog?.coins ?? []) + renderFooter()
         )
       } catch {
         setContent(

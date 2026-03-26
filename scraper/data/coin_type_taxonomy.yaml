@@ -36,6 +36,9 @@ greek_athens_tetradrachm:
       - "510.*480"
       - "pi.?style"
       - "500.*449"
+      - "485.*480"
+      - "490.*480"
+      - "ca\\. 5[0-1][0-9].*bc"
     notes: >
       Earliest owl style. Athena with archaic frontal eye, stiff neck.
       Owl with spread/rigid wings. Dramatically more valuable than classical owls.
@@ -53,6 +56,12 @@ greek_athens_tetradrachm:
       - "transitional"
       - "480.*449"
       - "449.*480"
+      - "ca\\. 45[0-9].*44[0-9]"
+      - "465.*455"
+      - "465.*440"
+      - "455.*440"
+      - "475.*465"
+      - "475.*455"
     notes: >
       Eye becoming profile, helmet more refined. Bridge between archaic and
       classical. Scarce and underappreciated — often lumped with classical.
@@ -68,8 +77,11 @@ greek_athens_tetradrachm:
     match_title:
       - "449.*404"
       - "440.*404"
+      - "454.*404"
+      - "450.*404"
       - "classical"
       - "ca\\. 44[0-9]"
+      - "ca\\. 45[0-9].*404"
       - "circa 44[0-9]"
     notes: >
       THE standard Athenian owl. Athena with profile eye, full helmet crest,
@@ -114,6 +126,8 @@ greek_athens_tetradrachm:
       - "thompson"
       - "amphora"
       - "186.*86"
+      - "2nd.*1st.*cent"
+      - "1st.*cent.*bc"
     notes: >
       Completely different coin from the classical owl despite same city.
       Reverse: owl standing on amphora, magistrate names, subsidiary symbols.
@@ -133,7 +147,7 @@ greek_alexander_tetradrachm:
 
   - id: lifetime-issue
     label: "Alexander III AR Tetradrachm — Lifetime Issue"
-    parent_slug: greek-alexander-ar-tetradrachm
+    parent_slug: greek-alexander-iii-ar-tetradrachm
     date_range: "336–323 BC"
     sear: [6713]
     match_title:
@@ -151,7 +165,7 @@ greek_alexander_tetradrachm:
 
   - id: posthumous-early
     label: "Alexander III AR Tetradrachm — Early Posthumous"
-    parent_slug: greek-alexander-ar-tetradrachm
+    parent_slug: greek-alexander-iii-ar-tetradrachm
     date_range: "c. 323–275 BC"
     sear: [6717]
     match_title:
@@ -169,7 +183,7 @@ greek_alexander_tetradrachm:
 
   - id: posthumous-late
     label: "Alexander III AR Tetradrachm — Late Posthumous/Imitative"
-    parent_slug: greek-alexander-ar-tetradrachm
+    parent_slug: greek-alexander-iii-ar-tetradrachm
     date_range: "c. 275–150 BC"
     sear: [6717, 6749]
     match_title:
@@ -268,8 +282,8 @@ roman_trajan_denarius:
 roman_augustus_denarius:
 
   - id: tribute-penny-type
-    label: "Augustus AR Denarius — Tribute Penny Type (TI CAESAR)"
-    parent_slug: roman-augustus-ar-denarius
+    label: "Tiberius AR Denarius — Tribute Penny"
+    parent_slug: roman-tiberius-ar-denarius
     date_range: "AD 14–37"
     sear: [1763]
     match_title:
@@ -323,6 +337,9 @@ roman_caesar_denarius:
       - "elephant"
       - "priestly.*instruments"
       - "serpent"
+      - "dictator.*49"
+      - "49.*44.*bc"
+      - "as dictator"
     notes: >
       CAESAR in exergue; elephant right trampling serpent / priestly implements.
       THE most popular Julius Caesar type. The elephant reverse is immediately
@@ -343,6 +360,9 @@ roman_caesar_denarius:
       - "lifetime.*portrait"
       - "caesar.*lifetime"
       - "caesar.*laur"
+      - "as imperator"
+      - "imperator.*44"
+      - "44.*bc.*caesar"
     notes: >
       Struck in the final months of Caesar's life — first Roman to put his
       own portrait on a coin. Historically important. Premium over elephant
@@ -355,9 +375,9 @@ roman_caesar_denarius:
 # ---------------------------------------------------------------------------
 byzantine_solidus:
 
-  - id: constantine-i
+  - id: constantine-i-solidus
     label: "Constantine I AV Solidus"
-    parent_slug: byzantine-constantine-i-av-solidus
+    parent_slug: roman-constantine-i-av-solidus
     date_range: "AD 307–337"
     sear: [16236]
     match_title:
@@ -371,7 +391,7 @@ byzantine_solidus:
     relative_value: 1.5
     rarity: common
 
-  - id: justinian-i
+  - id: justinian-i-solidus
     label: "Justinian I AV Solidus"
     parent_slug: byzantine-justinian-i-av-solidus
     date_range: "AD 527–565"

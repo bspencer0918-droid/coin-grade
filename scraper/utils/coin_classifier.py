@@ -25,6 +25,63 @@ def _load_rulers() -> dict:
     return {}
 
 
+@lru_cache(maxsize=1)
+def _load_taxonomy() -> list[dict]:
+    """
+    Load coin_type_taxonomy.yaml and flatten all type entries into a list.
+    Each entry includes its parent_slug and compiled match patterns.
+    """
+    path = _DATA_DIR / "coin_type_taxonomy.yaml"
+    if not path.exists():
+        return []
+    raw = yaml.safe_load(path.read_text()) or {}
+    flat: list[dict] = []
+    for _group_key, entries in raw.items():
+        if not isinstance(entries, list):
+            continue
+        for entry in entries:
+            title_pats = [
+                re.compile(p, re.I) for p in entry.get("match_title", [])
+            ]
+            rev_pats = [
+                re.compile(p, re.I) for p in entry.get("match_reverse", [])
+            ]
+            flat.append({
+                "id":           entry["id"],
+                "label":        entry.get("label", ""),
+                "parent_slug":  entry["parent_slug"],
+                "title_pats":   title_pats,
+                "rev_pats":     rev_pats,
+                "date_range":   entry.get("date_range", ""),
+                "relative_value": entry.get("relative_value", 1.0),
+                "rarity":       entry.get("rarity", ""),
+            })
+    return flat
+
+
+def detect_coin_type(base_slug: str, title: str, description: str = "") -> Optional[str]:
+    """
+    Returns a type suffix (e.g. 'classical-owl', 'dacia-capta') if the coin
+    matches one of the types in coin_type_taxonomy.yaml, else None.
+
+    The full slug would be:  base_slug + '-' + type_id
+    e.g.  greek-athens-ar-tetradrachm-classical-owl
+    """
+    full_text = f"{title} {description}"
+    for entry in _load_taxonomy():
+        if entry["parent_slug"] != base_slug:
+            continue
+        # Check title patterns
+        for pat in entry["title_pats"]:
+            if pat.search(title):
+                return entry["id"]
+        # Check reverse description patterns (only in description, not title)
+        for pat in entry["rev_pats"]:
+            if pat.search(description):
+                return entry["id"]
+    return None
+
+
 # ---------------------------------------------------------------------------
 # Metal detection
 # ---------------------------------------------------------------------------
@@ -237,6 +294,11 @@ def classify(title: str, description: str = "") -> dict:
 
     slug = make_slug(category, ruler_slug, denomination, metal)
 
+    # Refine slug with specific coin type (e.g. dacia-capta, classical-owl)
+    coin_type = detect_coin_type(slug, title, description)
+    if coin_type:
+        slug = f"{slug}-{coin_type}"
+
     return {
         "category":         category,
         "ruler":            ruler,
@@ -247,4 +309,5 @@ def classify(title: str, description: str = "") -> dict:
         "denomination":     denomination,
         "metal":            metal,
         "slug":             slug,
+        "coin_type":        coin_type,
     }

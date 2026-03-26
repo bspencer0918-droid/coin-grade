@@ -1,7 +1,7 @@
 // ============================================================
 // Individual coin detail page
 // ============================================================
-import type { CoinDetail, GradePriceData, ListingType, Sale, NGCGrade } from '../types/coin.ts'
+import type { CoinDetail, CoinSummary, GradePriceData, ListingType, Sale, NGCGrade } from '../types/coin.ts'
 import { NGC_GRADE_ORDER } from '../types/coin.ts'
 import { renderSourceBadge } from '../components/SourceBadge.ts'
 import { renderGradeBreakdown } from '../components/GradeBreakdown.ts'
@@ -185,7 +185,67 @@ function saleRow(sale: Sale): string {
   `
 }
 
-export function renderCoinPage(coin: CoinDetail): string {
+function renderRelatedTypes(coin: CoinDetail, allCoins: CoinSummary[]): string {
+  // Find sibling types: coins whose slug is a variant of the same parent
+  // e.g. for "greek-athens-ar-tetradrachm-classical-owl", parent is "greek-athens-ar-tetradrachm"
+  const slug = coin.slug
+  // Check if this slug has a type suffix (contains a known type separator pattern)
+  // We find siblings by looking for coins with the same prefix but different suffix
+  const parts = slug.split('-')
+
+  // Find the base parent slug (the longest prefix that matches other siblings)
+  // Strategy: look for other coins that share a long common prefix
+  const siblings = allCoins.filter(c => {
+    if (c.slug === slug) return false
+    // Same ruler + denomination root = same parent group
+    // We check if one slug is a prefix of the other, or they share a common base
+    const minLen = Math.min(slug.length, c.slug.length)
+    // Find longest common prefix
+    let prefixLen = 0
+    for (let i = 0; i < minLen; i++) {
+      if (slug[i] === c.slug[i]) prefixLen++
+      else break
+    }
+    // Require sharing at least 25 chars and that the common prefix ends at a word boundary
+    if (prefixLen < 25) return false
+    const commonPrefix = slug.slice(0, prefixLen)
+    // Make sure it ends at a dash (word boundary), not mid-word
+    if (!commonPrefix.endsWith('-') && slug[prefixLen] !== '-' && c.slug[prefixLen] !== '-') return false
+    return true
+  })
+
+  if (siblings.length === 0) return ''
+
+  const items = siblings.map(c => {
+    const price = c.median_price_usd
+      ? `$${c.median_price_usd.toLocaleString('en-US', { minimumFractionDigits: 0, maximumFractionDigits: 0 })}`
+      : '—'
+    const isCurrent = c.slug === slug
+    return `
+      <a href="${href({ name: 'coin', slug: c.slug })}"
+         class="flex items-center justify-between gap-3 p-2.5 rounded-lg
+                ${isCurrent ? 'bg-stone-800 ring-1 ring-gold-700' : 'hover:bg-stone-800/60'} transition-colors">
+        <div class="text-sm ${isCurrent ? 'text-gold-300' : 'text-stone-300'} leading-tight">
+          ${c.denomination}
+        </div>
+        <div class="text-xs font-mono text-stone-500 shrink-0">
+          ${price} · ${c.sale_count} sale${c.sale_count !== 1 ? 's' : ''}
+        </div>
+      </a>
+    `
+  })
+
+  return `
+    <section class="card p-5">
+      <div class="card-header mb-3">Related Types</div>
+      <div class="space-y-1">
+        ${items.join('')}
+      </div>
+    </section>
+  `
+}
+
+export function renderCoinPage(coin: CoinDetail, allCoins: CoinSummary[] = []): string {
   const medianPrice = coin.median_price_usd ? formatUSD(coin.median_price_usd) : '—'
   const minPrice    = coin.price_range_usd ? formatUSD(coin.price_range_usd.min) : '—'
   const maxPrice    = coin.price_range_usd ? formatUSD(coin.price_range_usd.max) : '—'
@@ -198,8 +258,9 @@ export function renderCoinPage(coin: CoinDetail): string {
   </span>`
 
   // Grade-by-price stats (computed from auction realized sales)
-  const gradePrices    = computeGradePrices(coin.sales)
-  const gradePriceHTML = renderGradeByPrice(gradePrices)
+  const gradePrices     = computeGradePrices(coin.sales)
+  const gradePriceHTML  = renderGradeByPrice(gradePrices)
+  const relatedTypesHTML = renderRelatedTypes(coin, allCoins)
 
   // Sort sales by date desc
   const sortedSales = [...coin.sales].sort((a, b) => b.sale_date.localeCompare(a.sale_date))
@@ -272,6 +333,9 @@ export function renderCoinPage(coin: CoinDetail): string {
           </div>
         </div>
       </section>
+
+      <!-- Related types (other varieties/periods of same coin family) -->
+      ${relatedTypesHTML}
 
       <!-- Price by grade (KBB-style value guide) -->
       ${gradePriceHTML}
