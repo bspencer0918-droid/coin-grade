@@ -89,6 +89,10 @@ export function renderCoinTable(
       : ''
 
     const topGrade = NGC_GRADE_ORDER.find(g => coin.grade_distribution[g])
+    const rowGlow  = topGrade === 'MS' ? 'grade-row-ms'
+                   : topGrade === 'AU' ? 'grade-row-au'
+                   : topGrade === 'VF' ? 'grade-row-vf'
+                   : ''
 
     // White line:
     //   Ancient: "AV Aureus | Commodus (AD 177–192)"
@@ -126,7 +130,7 @@ export function renderCoinTable(
       : coin.category
 
     return `
-      <tr class="table-row cursor-pointer" data-slug="${coin.slug}">
+      <tr class="table-row cursor-pointer ${rowGlow}" data-slug="${coin.slug}">
         <td class="table-cell w-12">${thumb}</td>
         <td class="table-cell">
           <div class="font-medium text-stone-100">${coin.denomination}${rulerPart}${rarityBadge}</div>

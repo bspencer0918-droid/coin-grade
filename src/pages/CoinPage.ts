@@ -163,8 +163,13 @@ function saleRow(sale: Sale): string {
                    : sale.listing_type === 'auction_estimate'  ? 'text-stone-400'
                    : 'text-gold-300'
 
+  const rowGlow = ngc.grade === 'MS' ? 'grade-row-ms'
+                : ngc.grade === 'AU' ? 'grade-row-au'
+                : ngc.grade === 'VF' ? 'grade-row-vf'
+                : ''
+
   return `
-    <tr class="table-row">
+    <tr class="table-row ${rowGlow}">
       <td class="table-cell w-14">${img}</td>
       <td class="table-cell">
         <a href="${sale.lot_url}" target="_blank" rel="noopener noreferrer"
