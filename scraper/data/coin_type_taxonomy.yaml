@@ -1,0 +1,389 @@
+# =============================================================================
+# Coin Type Taxonomy — Classification reference for the scraper pipeline
+#
+# Each entry defines a specific coin TYPE (not just ruler/denomination).
+# Types are the primary organizing unit: what a collector has when they say
+# "I have an Athenian Classical Owl" vs "I have a New Style Owl".
+#
+# Fields per type:
+#   id:          Unique slug, will extend the catalog slug
+#   label:       Human-readable display name
+#   parent_slug: The catalog slug this type refines (e.g. greek-athens-ar-tetradrachm)
+#   date_range:  Approximate production dates
+#   sear:        Sear Greek/Roman Coins reference number(s)
+#   ric:         RIC number(s) if applicable
+#   match_title: Regex patterns that identify this type in auction title text
+#   match_reverse: Regex patterns for reverse description
+#   relative_value: Multiplier vs. "common" type (1.0 = average, 3.0 = 3x premium)
+#   rarity:      'very_common' | 'common' | 'scarce' | 'rare' | 'very_rare'
+#   notes:       Key collector considerations affecting value
+# =============================================================================
+
+# ---------------------------------------------------------------------------
+# GREEK — ATHENIAN TETRADRACHM
+# Most important Greek coin for volume and collector recognition.
+# Three DISTINCT types that should NEVER be aggregated together.
+# ---------------------------------------------------------------------------
+greek_athens_tetradrachm:
+
+  - id: archaic-owl
+    label: "Athens AR Tetradrachm — Archaic Owl"
+    parent_slug: greek-athens-ar-tetradrachm
+    date_range: "c. 510–480 BC"
+    sear: [2526, 2520]
+    match_title:
+      - "archaic"
+      - "510.*480"
+      - "pi.?style"
+      - "500.*449"
+    notes: >
+      Earliest owl style. Athena with archaic frontal eye, stiff neck.
+      Owl with spread/rigid wings. Dramatically more valuable than classical owls.
+      Very rare in NGC MS; most appear VF–XF. 2–10x premium over classical owl
+      at same grade. Frequently confused with transitional types by non-specialists.
+    relative_value: 5.0
+    rarity: rare
+
+  - id: transitional-owl
+    label: "Athens AR Tetradrachm — Transitional Owl"
+    parent_slug: greek-athens-ar-tetradrachm
+    date_range: "c. 480–449 BC"
+    sear: [2526]
+    match_title:
+      - "transitional"
+      - "480.*449"
+      - "449.*480"
+    notes: >
+      Eye becoming profile, helmet more refined. Bridge between archaic and
+      classical. Scarce and underappreciated — often lumped with classical.
+      Almond-shaped eye not yet fully profile.
+    relative_value: 2.5
+    rarity: scarce
+
+  - id: classical-owl
+    label: "Athens AR Tetradrachm — Classical Owl"
+    parent_slug: greek-athens-ar-tetradrachm
+    date_range: "c. 449–404 BC"
+    sear: [2526]
+    match_title:
+      - "449.*404"
+      - "440.*404"
+      - "classical"
+      - "ca\\. 44[0-9]"
+      - "circa 44[0-9]"
+    notes: >
+      THE standard Athenian owl. Athena with profile eye, full helmet crest,
+      olive leaves. Owl right, AOE, olive sprig and crescent. The most
+      frequently traded ancient coin by volume. Key value drivers beyond grade:
+      (1) full helmet crest visible — adds 20-40%;
+      (2) full crescent — adds 10-15%;
+      (3) deep, sharp AOE letters;
+      (4) no banker's marks/test cuts — these are very common and reduce value 25-40%;
+      (5) die axis — 12h preferred;
+      (6) Fine Style designation — adds 50-150%.
+      NGC MS examples extremely desirable; most trade in XF–AU range.
+    relative_value: 1.0
+    rarity: very_common
+
+  - id: late-classical-owl
+    label: "Athens AR Tetradrachm — Late Classical/Intermediate"
+    parent_slug: greek-athens-ar-tetradrachm
+    date_range: "c. 393–294 BC"
+    sear: [2537, 2547]
+    match_title:
+      - "393.*294"
+      - "intermediate"
+      - "350.*294"
+      - "ivy.?crest"
+    notes: >
+      Post-Peloponnesian War revival coinage. Slight style differences —
+      ivy-crested helmet variant (Sear 2537) from c.350 BC. Fewer than
+      classical owls; often undervalued by non-specialists.
+    relative_value: 1.3
+    rarity: scarce
+
+  - id: new-style-owl
+    label: "Athens AR Tetradrachm — New Style"
+    parent_slug: greek-athens-ar-tetradrachm
+    date_range: "c. 165–42 BC"
+    sear: [2555]
+    match_title:
+      - "new.?style"
+      - "165.*42"
+      - "magistrate"
+      - "thompson"
+      - "amphora"
+      - "186.*86"
+    notes: >
+      Completely different coin from the classical owl despite same city.
+      Reverse: owl standing on amphora, magistrate names, subsidiary symbols.
+      Much more common, much less valuable than classical owls. Enormous number
+      of magistrate name varieties — Thompson catalogue is the standard reference.
+      Condition: usually well-struck, crisp letters. NGC MS examples common.
+      Imitative/Eastern issues exist and are worth far less.
+    relative_value: 0.35
+    rarity: very_common
+
+# ---------------------------------------------------------------------------
+# GREEK — ALEXANDER THE GREAT TETRADRACHM
+# Struck during his lifetime and for 200+ years after by successors.
+# Lifetime issues are dramatically more valuable.
+# ---------------------------------------------------------------------------
+greek_alexander_tetradrachm:
+
+  - id: lifetime-issue
+    label: "Alexander III AR Tetradrachm — Lifetime Issue"
+    parent_slug: greek-alexander-ar-tetradrachm
+    date_range: "336–323 BC"
+    sear: [6713]
+    match_title:
+      - "lifetime"
+      - "336.*323"
+      - "during.*reign"
+    notes: >
+      Struck during Alexander's actual reign. Obv: young Heracles in lion-skin
+      right. Rev: Zeus enthroned left, eagle on scepter, bow lower left.
+      Mint matters enormously. Premium mints: Amphipolis, Pella, Tarsus,
+      Babylon. Full lifetime issues are 2-5x posthumous value at same grade.
+      NGC holders typically note mint when known.
+    relative_value: 4.0
+    rarity: scarce
+
+  - id: posthumous-early
+    label: "Alexander III AR Tetradrachm — Early Posthumous"
+    parent_slug: greek-alexander-ar-tetradrachm
+    date_range: "c. 323–275 BC"
+    sear: [6717]
+    match_title:
+      - "posthumous"
+      - "323.*275"
+      - "diadoch"
+      - "successor"
+    notes: >
+      Struck by successors (Diadochi) closely following Alexander's death.
+      Style is crisp, portrait still youthful and idealized. Better mints
+      (Amphipolis, Babylon) command significant premium. Much more available
+      than lifetime issues.
+    relative_value: 1.5
+    rarity: common
+
+  - id: posthumous-late
+    label: "Alexander III AR Tetradrachm — Late Posthumous/Imitative"
+    parent_slug: greek-alexander-ar-tetradrachm
+    date_range: "c. 275–150 BC"
+    sear: [6717, 6749]
+    match_title:
+      - "imitative"
+      - "barbarous"
+      - "275.*150"
+      - "bactria"
+    notes: >
+      Later issues, often provincial or imitative. Style frequently degraded.
+      Much lower value. Eastern imitative issues (Bactria, etc.) have own
+      collector market but generally less valuable than Macedonian issues.
+    relative_value: 0.6
+    rarity: common
+
+# ---------------------------------------------------------------------------
+# ROMAN — TRAJAN DENARIUS
+# High-volume, affordable, many reverse types with different values.
+# ---------------------------------------------------------------------------
+roman_trajan_denarius:
+
+  - id: dacia-capta
+    label: "Trajan AR Denarius — DACIA CAPTA"
+    parent_slug: roman-trajan-ar-denarius
+    date_range: "AD 104–107"
+    ric: [216, 217, 219, 220]
+    match_title:
+      - "dacia capta"
+      - "dacia"
+      - "dacian"
+      - "captive.*seated"
+    notes: >
+      Commemorates Trajan's Dacian conquest. Reverse: Dacia seated/mourning
+      on rocks, trophy behind. Among the most desirable Trajan denarii.
+      Strong collector demand drives 3-5x premium over common types.
+      Fine Style examples especially sought.
+    relative_value: 4.0
+    rarity: scarce
+
+  - id: arabia-adquisita
+    label: "Trajan AR Denarius — ARABIA ADQVISITA"
+    parent_slug: roman-trajan-ar-denarius
+    date_range: "AD 111–114"
+    ric: [292, 294]
+    match_title:
+      - "arabia"
+      - "adqvisita"
+      - "adquisita"
+      - "camel"
+    notes: >
+      Commemorates annexation of Arabia Petraea. Reverse: Arabia standing with
+      branch and bundle of cinnamon, camel at feet. Rarer than Dacia types.
+      The camel reverse makes this immediately recognizable and collectible.
+      2-4x premium over common SPQR types.
+    relative_value: 3.5
+    rarity: scarce
+
+  - id: column-types
+    label: "Trajan AR Denarius — Column/Triumph Types"
+    parent_slug: roman-trajan-ar-denarius
+    date_range: "AD 112–114"
+    ric: [291, 293]
+    match_title:
+      - "column"
+      - "trajan.*column"
+    notes: >
+      References Trajan's Column (still standing in Rome). Relatively scarce
+      and desirable for their historical significance.
+    relative_value: 2.0
+    rarity: scarce
+
+  - id: spqr-optimo-principi
+    label: "Trajan AR Denarius — SPQR OPTIMO PRINCIPI"
+    parent_slug: roman-trajan-ar-denarius
+    date_range: "AD 98–117"
+    ric: [4, 6, 8, 16, 17, 26, 29, 30]
+    match_title:
+      - "spqr optimo"
+      - "optimo principi"
+    match_reverse:
+      - "pax"
+      - "abundantia"
+      - "fortuna"
+      - "felicitas"
+      - "victoria"
+    notes: >
+      The most common Trajan denarius family. Many standard reverse personifications
+      (Pax, Abundantia, Felicitas, Victoria) under the SPQR OPTIMO PRINCIPI legend.
+      High-quality examples in XF–AU with 5/5 strike are still very desirable.
+      Fine Style on these is exceptional and adds premium.
+    relative_value: 1.0
+    rarity: very_common
+
+# ---------------------------------------------------------------------------
+# ROMAN — AUGUSTUS DENARIUS
+# ---------------------------------------------------------------------------
+roman_augustus_denarius:
+
+  - id: tribute-penny-type
+    label: "Augustus AR Denarius — Tribute Penny Type (TI CAESAR)"
+    parent_slug: roman-augustus-ar-denarius
+    date_range: "AD 14–37"
+    sear: [1763]
+    match_title:
+      - "tribute penny"
+      - "ti caesar"
+      - "tiberius"
+      - "pontif maxim"
+      - "livia seated"
+    notes: >
+      Actually Tiberius, not Augustus — but known universally as the "Tribute
+      Penny" from the New Testament (Matthew 22:21). Obv: Tiberius right.
+      Rev: Livia (as Pax) seated right. The most collected Roman coin by
+      Christians worldwide. Enormous demand drives premium regardless of
+      condition. Even Fine examples sell well. Grade matters less than
+      for other types due to sentimental collector base.
+    relative_value: 2.5
+    rarity: common
+
+  - id: caius-lucius
+    label: "Augustus AR Denarius — CAIVS LVCIVS"
+    parent_slug: roman-augustus-ar-denarius
+    date_range: "2 BC – AD 4"
+    sear: [1597]
+    ric: [207, 208, 209, 210]
+    match_title:
+      - "caius"
+      - "lucius"
+      - "gaivs"
+      - "lvcivs"
+      - "principes iuventutis"
+      - "iuvent"
+    notes: >
+      Reverse: Gaius and Lucius Caesar standing, shields and spears between.
+      The most common Augustus denarius. Still very popular. Quality varies
+      widely — many are weakly struck on the reverse.
+    relative_value: 1.0
+    rarity: very_common
+
+# ---------------------------------------------------------------------------
+# ROMAN — JULIUS CAESAR DENARIUS
+# ---------------------------------------------------------------------------
+roman_caesar_denarius:
+
+  - id: elephant-priestly
+    label: "Julius Caesar AR Denarius — Elephant/Priestly"
+    parent_slug: roman-julius-caesar-ar-denarius
+    date_range: "49–48 BC"
+    sear: [1399]
+    ric: []
+    match_title:
+      - "elephant"
+      - "priestly.*instruments"
+      - "serpent"
+    notes: >
+      CAESAR in exergue; elephant right trampling serpent / priestly implements.
+      THE most popular Julius Caesar type. The elephant reverse is immediately
+      recognizable. Struck during Caesar's march on Rome. No portrait —
+      Rome did not yet put living persons on coins. Condition drives price
+      more than any other factor. Very common in VF, scarce in MS.
+    relative_value: 3.0
+    rarity: common
+
+  - id: portrait-denarius
+    label: "Julius Caesar AR Denarius — Portrait Type"
+    parent_slug: roman-julius-caesar-ar-denarius
+    date_range: "44 BC"
+    sear: [1414, 1415]
+    match_title:
+      - "caesar.*portrait"
+      - "laureate.*caesar"
+      - "lifetime.*portrait"
+      - "caesar.*lifetime"
+      - "caesar.*laur"
+    notes: >
+      Struck in the final months of Caesar's life — first Roman to put his
+      own portrait on a coin. Historically important. Premium over elephant
+      type. High-grade examples very desirable. Many imitations exist.
+    relative_value: 5.0
+    rarity: scarce
+
+# ---------------------------------------------------------------------------
+# BYZANTINE — SOLIDUS
+# ---------------------------------------------------------------------------
+byzantine_solidus:
+
+  - id: constantine-i
+    label: "Constantine I AV Solidus"
+    parent_slug: byzantine-constantine-i-av-solidus
+    date_range: "AD 307–337"
+    sear: [16236]
+    match_title:
+      - "constantine i"
+      - "constantinus"
+      - "307.*337"
+    notes: >
+      First Christian emperor. Popular with collectors for historical and
+      religious significance. Many mint varieties — Constantinople, Trier,
+      Nicomedia, Antioch, etc. Mint matters for price.
+    relative_value: 1.5
+    rarity: common
+
+  - id: justinian-i
+    label: "Justinian I AV Solidus"
+    parent_slug: byzantine-justinian-i-av-solidus
+    date_range: "AD 527–565"
+    sear: [137]
+    match_title:
+      - "justinian i"
+      - "iustinianvs"
+      - "527.*565"
+    notes: >
+      Most common Byzantine solidus. Helmeted bust on obverse, Victory on
+      reverse. High mintage, many survive. Good condition examples common.
+      Officina letters affect rarity marginally. Still desirable due to
+      historical importance of Justinian's reign.
+    relative_value: 1.0
+    rarity: very_common
