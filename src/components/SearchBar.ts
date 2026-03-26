@@ -12,6 +12,7 @@ export function initSearch(coins: CoinSummary[]) {
       { name: 'denomination', weight: 2   },
       { name: 'ruler',        weight: 1.5 },
       { name: 'dynasty',      weight: 1   },
+      { name: 'slug',         weight: 0.8 },
       { name: 'category',     weight: 0.5 },
     ],
     threshold: 0.35,

@@ -31,6 +31,7 @@ SPLIT_SLUGS = {
     "greek-alexander-iii-ar-tetradrachm",  # Lifetime 4x vs posthumous
     "roman-julius-caesar-ar-denarius",     # Elephant vs portrait denarius
     "roman-tiberius-ar-denarius",          # All are Tribute Pennies — label for clarity
+    "roman-mark-antony-ar-denarius",       # Legionary type vs other types
 }
 
 # Type labels from taxonomy (keep in sync with coin_type_taxonomy.yaml)
@@ -53,6 +54,7 @@ TYPE_LABELS = {
     "caius-lucius":            "Augustus AR Denarius — CAIVS LVCIVS",
     "constantine-i-solidus":   "Constantine I AV Solidus",
     "justinian-i-solidus":     "Justinian I AV Solidus",
+    "legionary":               "Mark Antony AR Denarius — Legionary",
 }
 
 # Grade order for distribution / statistics

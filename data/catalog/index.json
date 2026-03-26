@@ -19062,24 +19062,23 @@
       "ruler_rarity": null,
       "denomination": "AR Denarius",
       "metal": "silver",
-      "sale_count": 90,
-      "realized_count": 90,
+      "sale_count": 74,
+      "realized_count": 74,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 84.0,
         "max": 9987.5
       },
-      "median_price_usd": 420.0,
+      "median_price_usd": 384.0,
       "last_sale_date": "2026-02-23",
       "grade_distribution": {
-        "AU": 21,
-        "XF": 32,
+        "AU": 15,
+        "XF": 25,
         "VF": 23,
         "F": 8,
         "VG": 1,
-        "MS": 4,
-        "P": 1
+        "MS": 2
       },
       "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=1-7-4-4-2-17442506&w=120&h=300&it=product",
       "median_weight_g": null,
@@ -26100,6 +26099,42 @@
         "VG": 6
       },
       "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-4-5-0-5-24505250&w=120&h=300&it=product",
+      "median_weight_g": null,
+      "top_strike_score": 5,
+      "top_surface_score": 5,
+      "top_grade_numeric": null,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
+      "slug": "roman-mark-antony-ar-denarius-legionary",
+      "category": "roman",
+      "ruler": "Mark Antony",
+      "ruler_normalized": "mark-antony",
+      "dynasty": "Roman Republic",
+      "ruler_dates": "83â€“30 BC",
+      "ruler_rarity": null,
+      "denomination": "Mark Antony AR Denarius — Legionary",
+      "metal": "silver",
+      "sale_count": 16,
+      "realized_count": 16,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 192.0,
+        "max": 2820.0
+      },
+      "median_price_usd": 891.25,
+      "last_sale_date": "2025-11-28",
+      "grade_distribution": {
+        "AU": 6,
+        "XF": 7,
+        "MS": 2,
+        "P": 1
+      },
+      "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=1-4-8-8-0-14880606&w=120&h=300&it=product",
       "median_weight_g": null,
       "top_strike_score": 5,
       "top_surface_score": 5,

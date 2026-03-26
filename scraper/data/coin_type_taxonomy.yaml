@@ -412,3 +412,27 @@ byzantine_solidus:
       historical importance of Justinian's reign.
     relative_value: 1.0
     rarity: very_common
+
+# ---------------------------------------------------------------------------
+# ROMAN — MARK ANTONY DENARIUS
+# Legionary denarii are the most common and recognizable type
+# ---------------------------------------------------------------------------
+roman_mark_antony_denarius:
+
+  - id: legionary
+    label: "Mark Antony AR Denarius — Legionary"
+    parent_slug: roman-mark-antony-ar-denarius
+    date_range: "32–31 BC"
+    sear: [1479]
+    match_title:
+      - "legionary"
+      - "galley"
+    notes: >
+      Struck by Mark Antony to pay his legions before Actium.
+      Obv: galley right, ANT AVG legend. Rev: eagle between standards,
+      legion number (LEG I through LEG XXIII, etc.). The most common
+      Antony denarius type. Specific legion number affects rarity and value.
+      Silver quality is notably poor (debased), often rough surfaces.
+      Still extremely popular with collectors for historical significance.
+    relative_value: 1.0
+    rarity: very_common
