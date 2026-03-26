@@ -23,7 +23,7 @@
     "XF": 3,
     "AU": 10
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-7-2-7-7-27277592&w=120&h=300&it=product",
+  "thumbnail_url": "https://media.coinarchives.com/38fc2a98bd3ded03e02727e48bdd8e5a/img/heritage/3129/image33064.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 5,
@@ -33,6 +33,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-8bf3b080a7d7",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687330&AucID=6920&Lot=33064&Val=87ad1dbd952d2d80817eb54f0ecf8b1d",
+      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3129, Lot 33064 \u2014 Ancients\nBACTRIAN KINGDOM. Diodotus I Soter, as Satrap (ca. 255-235 BC). AV stater (18mm, 8.39 gm, 5h). NGC MS\u2605 5/5 - 5/5, Fine Style. Mint A, probably Ai Khanoum (or nearby), in the name of Antiochus",
+      "description": "Ancients\nBACTRIAN KINGDOM. Diodotus I Soter, as Satrap (ca. 255-235 BC). AV stater (18mm, 8.39 gm, 5h). NGC MS\u2605 5/5 - 5/5, Fine Style. Mint A, probably Ai Khanoum (or nearby), in the name of Antiochus II, ca. 255-246 BC. Diademed head of Diodotus I right / \u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 / \u0391\u039d\u03a4\u0399\u039f\u03a7\u039f\u03a5, Zeus, nude, striding left, seen from behind, brandishing thunderbolt with right hand, aegis over outstretched left arm; wreath above eagle with raised wings standing left at feet before. Bopearachchi 1A. SC 629.2. Except...",
+      "hammer_price_usd": 28000.0,
+      "currency_original": "USD",
+      "price_original": 28000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-12",
+      "image_url": "https://media.coinarchives.com/38fc2a98bd3ded03e02727e48bdd8e5a/img/heritage/3129/image33064.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-85f329fa629f",
       "source": "heritage",
@@ -185,39 +218,6 @@
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-8bf3b080a7d7",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687330&AucID=6920&Lot=33064&Val=87ad1dbd952d2d80817eb54f0ecf8b1d",
-      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3129, Lot 33064 \u2014 Ancients\nBACTRIAN KINGDOM. Diodotus I Soter, as Satrap (ca. 255-235 BC). AV stater (18mm, 8.39 gm, 5h). NGC MS\u2605 5/5 - 5/5, Fine Style. Mint A, probably Ai Khanoum (or nearby), in the name of Antiochus",
-      "description": "Ancients\nBACTRIAN KINGDOM. Diodotus I Soter, as Satrap (ca. 255-235 BC). AV stater (18mm, 8.39 gm, 5h). NGC MS\u2605 5/5 - 5/5, Fine Style. Mint A, probably Ai Khanoum (or nearby), in the name of Antiochus II, ca. 255-246 BC. Diademed head of Diodotus I right / \u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 / \u0391\u039d\u03a4\u0399\u039f\u03a7\u039f\u03a5, Zeus, nude, striding left, seen from behind, brandishing thunderbolt with right hand, aegis over outstretched left arm; wreath above eagle with raised wings standing left at feet before. Bopearachchi 1A. SC 629.2. Except...",
-      "hammer_price_usd": 28000.0,
-      "currency_original": "USD",
-      "price_original": 28000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-12",
-      "image_url": "https://media.coinarchives.com/38fc2a98bd3ded03e02727e48bdd8e5a/img/heritage/3129/image33064.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

@@ -8,31 +8,64 @@
   "ruler_rarity": null,
   "denomination": "AR Stater",
   "metal": "electrum",
-  "sale_count": 9,
-  "realized_count": 9,
+  "sale_count": 10,
+  "realized_count": 10,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 1140.0,
     "max": 5520.0
   },
-  "median_price_usd": 1680.0,
-  "last_sale_date": "2024-11-02",
+  "median_price_usd": 1740.0,
+  "last_sale_date": "2026-01-16",
   "grade_distribution": {
+    "VF": 4,
     "XF": 4,
-    "AU": 2,
-    "VF": 3
+    "AU": 2
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-1-0-5-0-31050107&w=120&h=300&it=product",
+  "thumbnail_url": "https://media.coinarchives.com/ce03feb98057cb3d65acd96e31ea70df/img/ponterio/236/image40024.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 3,
-  "top_grade_numeric": 5,
+  "top_surface_score": 4,
+  "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-76a19d47888b",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2694480&AucID=6923&Lot=40024&Val=e17d74a193a35e86a7fe2b233a8a5dd8",
+      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 40024 \u2014 SICILY. Syracuse. Agathokles, 317-289 B.C. AR Stater (6.83 gms), ca. 305-295 B.C. NGC Ch VF, Strike: 5/5 Surface: 4/5. Fine Style.\nTo view all items from the John P. Burnham Collection, click  here.\nH",
+      "description": "SICILY. Syracuse. Agathokles, 317-289 B.C. AR Stater (6.83 gms), ca. 305-295 B.C. NGC Ch VF, Strike: 5/5 Surface: 4/5. Fine Style.\nTo view all items from the John P. Burnham Collection, click  here.\nHGC-2, 1408; Pegasi-19. Obverse: Helmeted head of Athena right; Reverse: Pegasos flying left; triskeles below. Well-struck and with great surface quality. Deep cabinet tone with subtle iridescent accents and a persistent underlying luster. A lovely coin.\n\nFrom the John P. Burnham Collection.\n\n\nEsti...",
+      "hammer_price_usd": 1800.0,
+      "currency_original": "USD",
+      "price_original": 1800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": "https://media.coinarchives.com/ce03feb98057cb3d65acd96e31ea70df/img/ponterio/236/image40024.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-18ec82bb28e3",
       "source": "heritage",

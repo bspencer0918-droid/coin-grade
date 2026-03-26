@@ -4,7 +4,7 @@
   "ruler": "Galba",
   "ruler_normalized": "galba",
   "dynasty": "Year of Four Emperors",
-  "ruler_dates": "AD 68\u00e2\u20ac\u201c69",
+  "ruler_dates": "AD 68\u201369",
   "ruler_rarity": "scarce",
   "denomination": "AR Denarius",
   "metal": "silver",
@@ -17,27 +17,60 @@
     "max": 5040.0
   },
   "median_price_usd": 528.0,
-  "last_sale_date": "2026-03-25",
+  "last_sale_date": "2026-03-26",
   "grade_distribution": {
+    "P": 1,
     "AU": 7,
     "XF": 18,
     "VF": 49,
     "F": 28,
     "VG": 14,
     "G": 1,
-    "MS": 1,
-    "P": 1
+    "MS": 1
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-9-5-4-0-29540635&w=120&h=300&it=product",
   "median_weight_g": null,
-  "top_strike_score": 4,
-  "top_surface_score": 3,
-  "top_grade_numeric": 4,
+  "top_strike_score": null,
+  "top_surface_score": null,
+  "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "hjb-a0cd5d0e312b",
+      "source": "hjb",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/108499",
+      "title": "Galba. Denarius",
+      "description": "",
+      "hammer_price_usd": 1250.0,
+      "currency_original": "USD",
+      "price_original": 1250.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-26",
+      "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc108499a.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "1057578788",
+        "grade": "P",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/1057578788/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-3dcc9d6de26b",
       "source": "heritage",
@@ -3922,39 +3955,6 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "hjb-a0cd5d0e312b",
-      "source": "hjb",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/108499",
-      "title": "Galba. Denarius",
-      "description": "",
-      "hammer_price_usd": 1250.0,
-      "currency_original": "USD",
-      "price_original": 1250.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-25",
-      "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc108499a.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": "1057578788",
-        "grade": "P",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/1057578788/",
         "grading_service": "ngc"
       },
       "metadata": {

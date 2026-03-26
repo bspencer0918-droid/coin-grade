@@ -1,1 +1,68 @@
-{"slug": "roman-marcus-aurelius-ae-follis", "sale_count": 1, "realized_count": 1, "fixed_price_count": 0, "median_price_usd": 4400.0, "price_range_usd": {"min": 4400.0, "max": 4400.0}, "sales": [{"id": "coinarchives-03e7337e24ee", "source": "coinarchives", "listing_type": "auction_realized", "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2722538&AucID=7012&Lot=23224&Val=a72fe975ad084627148ef23e97de5d11", "title": "Heritage World Coin Auctions - Showcase Auction 61605, Lot 23224 — Ancients\nMaximian, First Reign (AD 286-310), as Senior Augustus. AE follis or BI nummus (27mm, 11.68 gm, 5h). NGC Choice AU 5/5 - 5/5, Silvering. Heraclea, 1st officina, AD 296-297. IMP C MA MAXIMIANV", "description": "Ancients\nMaximian, First Reign (AD 286-310), as Senior Augustus. AE follis or BI nummus (27mm, 11.68 gm, 5h). NGC Choice AU 5/5 - 5/5, Silvering. Heraclea, 1st officina, AD 296-297. IMP C MA MAXIMIANVS P F AVG, laureate head of Maximian right / GENIO POPV-L-I ROMANI, Genius standing facing, modius on head left, nude save for chlamys over left shoulder, liquors flowing from patera in outstretched right hand, cornucopia cradled in left arm; HTA in exergue. RIC VI 17b.\n\nMarcus Aurelius Valerius M...", "hammer_price_usd": 4400.0, "currency_original": "USD", "price_original": 4400.0, "buyers_premium_included": false, "sale_date": "2026-03-15", "image_url": "https://media.coinarchives.com/cb298ce3dfa9cfa566edf554520f3686/img/heritage/61605/image23224.jpg", "ngc": {"verified": false, "cert_number": null, "grade": "AU", "grade_numeric": 5, "strike_score": 5, "surface_score": 5, "details_grade": null, "fine_style": false, "certification_url": null, "grading_service": "ngc"}, "metadata": {"mint": "", "weight_g": null, "diameter_mm": null, "obverse_desc": null, "reverse_desc": null}}]}
+{
+  "slug": "roman-marcus-aurelius-ae-follis",
+  "category": "roman",
+  "ruler": "Marcus Aurelius",
+  "ruler_normalized": "marcus-aurelius",
+  "dynasty": "Nerva-Antonine",
+  "ruler_dates": "AD 161\u2013180",
+  "ruler_rarity": null,
+  "denomination": "AE Follis",
+  "metal": "bronze",
+  "sale_count": 1,
+  "realized_count": 1,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 4400.0,
+    "max": 4400.0
+  },
+  "median_price_usd": 4400.0,
+  "last_sale_date": "2026-03-15",
+  "grade_distribution": {
+    "AU": 1
+  },
+  "thumbnail_url": "https://media.coinarchives.com/cb298ce3dfa9cfa566edf554520f3686/img/heritage/61605/image23224.jpg",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 5,
+  "top_grade_numeric": 5,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "coinarchives-03e7337e24ee",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2722538&AucID=7012&Lot=23224&Val=a72fe975ad084627148ef23e97de5d11",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61605, Lot 23224 \u2014 Ancients\nMaximian, First Reign (AD 286-310), as Senior Augustus. AE follis or BI nummus (27mm, 11.68 gm, 5h). NGC Choice AU 5/5 - 5/5, Silvering. Heraclea, 1st officina, AD 296-297. IMP C MA MAXIMIANV",
+      "description": "Ancients\nMaximian, First Reign (AD 286-310), as Senior Augustus. AE follis or BI nummus (27mm, 11.68 gm, 5h). NGC Choice AU 5/5 - 5/5, Silvering. Heraclea, 1st officina, AD 296-297. IMP C MA MAXIMIANVS P F AVG, laureate head of Maximian right / GENIO POPV-L-I ROMANI, Genius standing facing, modius on head left, nude save for chlamys over left shoulder, liquors flowing from patera in outstretched right hand, cornucopia cradled in left arm; HTA in exergue. RIC VI 17b.\n\nMarcus Aurelius Valerius M...",
+      "hammer_price_usd": 4400.0,
+      "currency_original": "USD",
+      "price_original": 4400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-15",
+      "image_url": "https://media.coinarchives.com/cb298ce3dfa9cfa566edf554520f3686/img/heritage/61605/image23224.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}
