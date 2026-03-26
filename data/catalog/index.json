@@ -244,8 +244,8 @@
       "ruler_rarity": null,
       "denomination": "AR Tetradrachm",
       "metal": "silver",
-      "sale_count": 475,
-      "realized_count": 475,
+      "sale_count": 508,
+      "realized_count": 508,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -358,8 +358,8 @@
       "ruler_rarity": null,
       "denomination": "AR Tetradrachm",
       "metal": "silver",
-      "sale_count": 1198,
-      "realized_count": 1195,
+      "sale_count": 1199,
+      "realized_count": 1196,
       "fixed_price_count": 1,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -916,15 +916,15 @@
       "ruler_rarity": null,
       "denomination": "AR Tetradrachm",
       "metal": "silver",
-      "sale_count": 295,
-      "realized_count": 294,
+      "sale_count": 337,
+      "realized_count": 336,
       "fixed_price_count": 1,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 54.0,
         "max": 5280.0
       },
-      "median_price_usd": 130.625,
+      "median_price_usd": 132.0,
       "last_sale_date": "2026-03-25",
       "grade_distribution": {
         "MS": 41,
@@ -1172,15 +1172,15 @@
       "ruler_rarity": null,
       "denomination": "AR Denarius",
       "metal": "silver",
-      "sale_count": 5501,
-      "realized_count": 5497,
-      "fixed_price_count": 4,
+      "sale_count": 5537,
+      "realized_count": 5530,
+      "fixed_price_count": 7,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 31.0,
-        "max": 99000.0
+        "max": 720000.0
       },
-      "median_price_usd": 254.4,
+      "median_price_usd": 264.0,
       "last_sale_date": "2026-03-25",
       "grade_distribution": {
         "MS": 315,
@@ -1456,8 +1456,8 @@
       "ruler_rarity": null,
       "denomination": "Unknown",
       "metal": "silver",
-      "sale_count": 2789,
-      "realized_count": 2789,
+      "sale_count": 3026,
+      "realized_count": 3026,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -1741,15 +1741,15 @@
       "ruler_rarity": null,
       "denomination": "AE Follis",
       "metal": "bronze",
-      "sale_count": 1,
-      "realized_count": 1,
+      "sale_count": 2,
+      "realized_count": 2,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 600.0,
+        "min": 170.0,
         "max": 600.0
       },
-      "median_price_usd": 600.0,
+      "median_price_usd": 385.0,
       "last_sale_date": "2026-01-16",
       "grade_distribution": {
         "XF": 1
@@ -2057,15 +2057,15 @@
       "ruler_rarity": null,
       "denomination": "AV Solidus",
       "metal": "gold",
-      "sale_count": 9,
-      "realized_count": 9,
+      "sale_count": 15,
+      "realized_count": 15,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 950.0,
+        "min": 750.0,
         "max": 3200.0
       },
-      "median_price_usd": 1700.0,
+      "median_price_usd": 1600.0,
       "last_sale_date": "2026-02-23",
       "grade_distribution": {
         "AU": 5,
@@ -2366,15 +2366,15 @@
       "ruler_rarity": "common",
       "denomination": "AV Solidus",
       "metal": "gold",
-      "sale_count": 554,
-      "realized_count": 554,
+      "sale_count": 839,
+      "realized_count": 839,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 324.0,
         "max": 6600.0
       },
-      "median_price_usd": 741.6,
+      "median_price_usd": 750.0,
       "last_sale_date": "2026-01-15",
       "grade_distribution": {
         "MS": 276,
@@ -2899,8 +2899,8 @@
       "ruler_rarity": "common",
       "denomination": "AV Solidus",
       "metal": "gold",
-      "sale_count": 1163,
-      "realized_count": 1162,
+      "sale_count": 1210,
+      "realized_count": 1209,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -3362,8 +3362,8 @@
       "ruler_rarity": null,
       "denomination": "AV Solidus",
       "metal": "gold",
-      "sale_count": 246,
-      "realized_count": 246,
+      "sale_count": 248,
+      "realized_count": 248,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -3501,15 +3501,15 @@
       "ruler_rarity": "common",
       "denomination": "AE Follis",
       "metal": "bronze",
-      "sale_count": 89,
-      "realized_count": 89,
+      "sale_count": 90,
+      "realized_count": 90,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 43.0,
         "max": 1080.0
       },
-      "median_price_usd": 164.0,
+      "median_price_usd": 166.5,
       "last_sale_date": "2025-12-29",
       "grade_distribution": {
         "AU": 13,
@@ -3632,43 +3632,6 @@
       "mint_mark": null
     },
     {
-      "slug": "byzantine-justinian-i-av-solidus",
-      "category": "byzantine",
-      "ruler": "Justinian I",
-      "ruler_normalized": "justinian-i",
-      "dynasty": "Justinian",
-      "ruler_dates": "AD 527â€“565",
-      "ruler_rarity": "common",
-      "denomination": "AV Solidus",
-      "metal": "gold",
-      "sale_count": 663,
-      "realized_count": 663,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 317.25,
-        "max": 28200.0
-      },
-      "median_price_usd": 750.0,
-      "last_sale_date": "2026-02-12",
-      "grade_distribution": {
-        "G": 3,
-        "MS": 402,
-        "AU": 223,
-        "XF": 27,
-        "VF": 8
-      },
-      "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-5-1-4-2-25142313&w=120&h=300&it=product",
-      "median_weight_g": null,
-      "top_strike_score": 4,
-      "top_surface_score": 4,
-      "top_grade_numeric": 4,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
       "slug": "byzantine-justinian-i-av-tremissis",
       "category": "byzantine",
       "ruler": "Justinian I",
@@ -3678,8 +3641,8 @@
       "ruler_rarity": "common",
       "denomination": "AV Tremissis",
       "metal": "gold",
-      "sale_count": 62,
-      "realized_count": 62,
+      "sale_count": 63,
+      "realized_count": 63,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -4340,8 +4303,8 @@
       "ruler_rarity": "common",
       "denomination": "AV Solidus",
       "metal": "gold",
-      "sale_count": 490,
-      "realized_count": 490,
+      "sale_count": 491,
+      "realized_count": 491,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -4908,8 +4871,8 @@
       "ruler_rarity": "scarce",
       "denomination": "AV Solidus",
       "metal": "gold",
-      "sale_count": 530,
-      "realized_count": 530,
+      "sale_count": 539,
+      "realized_count": 539,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -6323,15 +6286,15 @@
       "ruler_rarity": null,
       "denomination": "Unknown",
       "metal": "bronze",
-      "sale_count": 9,
-      "realized_count": 9,
+      "sale_count": 10,
+      "realized_count": 10,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 159.0,
-        "max": 3120.0
+        "max": 7800.0
       },
-      "median_price_usd": 1680.0,
+      "median_price_usd": 1770.0,
       "last_sale_date": "2025-12-25",
       "grade_distribution": {
         "AU": 1,
@@ -7892,15 +7855,15 @@
       "ruler_rarity": null,
       "denomination": "AE Follis",
       "metal": "bronze",
-      "sale_count": 66,
-      "realized_count": 66,
+      "sale_count": 67,
+      "realized_count": 67,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 25.0,
         "max": 6600.0
       },
-      "median_price_usd": 201.0,
+      "median_price_usd": 204.0,
       "last_sale_date": "2026-01-16",
       "grade_distribution": {
         "AU": 18,
@@ -7930,15 +7893,15 @@
       "ruler_rarity": null,
       "denomination": "AE Nummus",
       "metal": "bronze",
-      "sale_count": 13,
-      "realized_count": 13,
+      "sale_count": 15,
+      "realized_count": 15,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 22.0,
         "max": 1920.0
       },
-      "median_price_usd": 216.0,
+      "median_price_usd": 168.0,
       "last_sale_date": "2026-01-16",
       "grade_distribution": {
         "XF": 3,
@@ -8428,8 +8391,8 @@
       "ruler_rarity": null,
       "denomination": "Unknown",
       "metal": "gold",
-      "sale_count": 1236,
-      "realized_count": 1196,
+      "sale_count": 1239,
+      "realized_count": 1199,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -9686,15 +9649,15 @@
       "ruler_rarity": null,
       "denomination": "AE Follis",
       "metal": "bronze",
-      "sale_count": 186,
-      "realized_count": 186,
+      "sale_count": 348,
+      "realized_count": 348,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 35.0,
         "max": 6600.0
       },
-      "median_price_usd": 130.0,
+      "median_price_usd": 132.0,
       "last_sale_date": "2026-03-15",
       "grade_distribution": {
         "AU": 68,
@@ -9724,15 +9687,15 @@
       "ruler_rarity": null,
       "denomination": "AE Nummus",
       "metal": "bronze",
-      "sale_count": 339,
-      "realized_count": 339,
+      "sale_count": 472,
+      "realized_count": 472,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 38.0,
+        "min": 37.0,
         "max": 6000.0
       },
-      "median_price_usd": 159.0,
+      "median_price_usd": 149.0,
       "last_sale_date": "2026-03-15",
       "grade_distribution": {
         "AU": 121,
@@ -9762,8 +9725,8 @@
       "ruler_rarity": null,
       "denomination": "AE Sestertius",
       "metal": "bronze",
-      "sale_count": 252,
-      "realized_count": 252,
+      "sale_count": 291,
+      "realized_count": 291,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -9834,8 +9797,8 @@
       "ruler_rarity": "scarce",
       "denomination": "AV Solidus",
       "metal": "gold",
-      "sale_count": 10,
-      "realized_count": 10,
+      "sale_count": 11,
+      "realized_count": 11,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -9936,15 +9899,15 @@
       "ruler_rarity": null,
       "denomination": "AE Dupondius",
       "metal": "bronze",
-      "sale_count": 9,
-      "realized_count": 9,
+      "sale_count": 11,
+      "realized_count": 11,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 94.0,
+        "min": 54.0,
         "max": 228.0
       },
-      "median_price_usd": 109.0,
+      "median_price_usd": 104.0,
       "last_sale_date": "2024-03-21",
       "grade_distribution": {
         "XF": 4,
@@ -9970,15 +9933,15 @@
       "ruler_rarity": null,
       "denomination": "AE Sestertius",
       "metal": "bronze",
-      "sale_count": 74,
-      "realized_count": 74,
+      "sale_count": 96,
+      "realized_count": 96,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 55.0,
-        "max": 8100.0
+        "max": 21600.0
       },
-      "median_price_usd": 312.0,
+      "median_price_usd": 300.0,
       "last_sale_date": "2025-11-20",
       "grade_distribution": {
         "AU": 10,
@@ -10149,8 +10112,8 @@
       "ruler_rarity": null,
       "denomination": "AR Tetradrachm",
       "metal": "silver",
-      "sale_count": 31,
-      "realized_count": 31,
+      "sale_count": 33,
+      "realized_count": 33,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -10185,15 +10148,15 @@
       "ruler_rarity": null,
       "denomination": "AV Aureus",
       "metal": "gold",
-      "sale_count": 120,
-      "realized_count": 120,
+      "sale_count": 179,
+      "realized_count": 179,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 1920.0,
         "max": 26400.0
       },
-      "median_price_usd": 5460.0,
+      "median_price_usd": 5400.0,
       "last_sale_date": "2026-01-12",
       "grade_distribution": {
         "AU": 46,
@@ -10222,8 +10185,8 @@
       "ruler_rarity": null,
       "denomination": "Unknown",
       "metal": "bronze",
-      "sale_count": 59,
-      "realized_count": 59,
+      "sale_count": 63,
+      "realized_count": 63,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -10297,15 +10260,15 @@
       "ruler_rarity": null,
       "denomination": "AR Drachm",
       "metal": "silver",
-      "sale_count": 11,
-      "realized_count": 11,
+      "sale_count": 24,
+      "realized_count": 24,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 67.0,
         "max": 4080.0
       },
-      "median_price_usd": 432.0,
+      "median_price_usd": 444.0,
       "last_sale_date": "2025-08-18",
       "grade_distribution": {
         "XF": 1,
@@ -10507,8 +10470,8 @@
       "ruler_rarity": null,
       "denomination": "AR Siliqua",
       "metal": "silver",
-      "sale_count": 98,
-      "realized_count": 98,
+      "sale_count": 101,
+      "realized_count": 101,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -10577,15 +10540,15 @@
       "ruler_rarity": null,
       "denomination": "AE Nummus",
       "metal": "bronze",
-      "sale_count": 4,
-      "realized_count": 4,
+      "sale_count": 5,
+      "realized_count": 5,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 69.0,
         "max": 204.0
       },
-      "median_price_usd": 182.25,
+      "median_price_usd": 165.0,
       "last_sale_date": "2026-03-15",
       "grade_distribution": {
         "AU": 2,
@@ -10681,15 +10644,15 @@
       "ruler_rarity": null,
       "denomination": "AV Solidus",
       "metal": "gold",
-      "sale_count": 145,
-      "realized_count": 145,
+      "sale_count": 146,
+      "realized_count": 146,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 492.0,
         "max": 12000.0
       },
-      "median_price_usd": 1110.0,
+      "median_price_usd": 1125.0,
       "last_sale_date": "2026-01-23",
       "grade_distribution": {
         "AU": 76,
@@ -10921,15 +10884,15 @@
       "ruler_rarity": null,
       "denomination": "AE Dupondius",
       "metal": "bronze",
-      "sale_count": 114,
-      "realized_count": 114,
+      "sale_count": 75,
+      "realized_count": 75,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 54.0,
-        "max": 14400.0
+        "min": 75.0,
+        "max": 6600.0
       },
-      "median_price_usd": 408.0,
+      "median_price_usd": 528.0,
       "last_sale_date": "2026-03-15",
       "grade_distribution": {
         "AU": 10,
@@ -10949,81 +10912,6 @@
       "mint_mark": null
     },
     {
-      "slug": "roman-augustus-ae-follis",
-      "category": "roman",
-      "ruler": "Augustus",
-      "ruler_normalized": "augustus",
-      "dynasty": "Julio-Claudian",
-      "ruler_dates": "27 BC â€“ AD 14",
-      "ruler_rarity": null,
-      "denomination": "AE Follis",
-      "metal": "bronze",
-      "sale_count": 101,
-      "realized_count": 101,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 43.0,
-        "max": 5368.0
-      },
-      "median_price_usd": 149.0,
-      "last_sale_date": "2026-03-15",
-      "grade_distribution": {
-        "AU": 51,
-        "XF": 16,
-        "VF": 6,
-        "MS": 26,
-        "G": 1,
-        "F": 1
-      },
-      "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-3-8-3-9-33839711&w=120&h=300&it=product",
-      "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 5,
-      "top_grade_numeric": 5,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
-      "slug": "roman-augustus-ae-nummus",
-      "category": "roman",
-      "ruler": "Augustus",
-      "ruler_normalized": "augustus",
-      "dynasty": "Julio-Claudian",
-      "ruler_dates": "27 BC â€“ AD 14",
-      "ruler_rarity": null,
-      "denomination": "AE Nummus",
-      "metal": "bronze",
-      "sale_count": 109,
-      "realized_count": 109,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 53.0,
-        "max": 1952.0
-      },
-      "median_price_usd": 139.0,
-      "last_sale_date": "2026-03-15",
-      "grade_distribution": {
-        "AU": 26,
-        "XF": 11,
-        "VF": 7,
-        "F": 1,
-        "MS": 64
-      },
-      "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-2-6-7-6-32676445&w=120&h=300&it=product",
-      "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 2,
-      "top_grade_numeric": 5,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
       "slug": "roman-augustus-ae-sestertius",
       "category": "roman",
       "ruler": "Augustus",
@@ -11033,13 +10921,13 @@
       "ruler_rarity": null,
       "denomination": "AE Sestertius",
       "metal": "bronze",
-      "sale_count": 216,
-      "realized_count": 216,
+      "sale_count": 35,
+      "realized_count": 35,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 57.0,
-        "max": 50400.0
+        "min": 89.0,
+        "max": 24000.0
       },
       "median_price_usd": 384.0,
       "last_sale_date": "2026-03-15",
@@ -11072,8 +10960,8 @@
       "ruler_rarity": null,
       "denomination": "AR Denarius",
       "metal": "silver",
-      "sale_count": 1252,
-      "realized_count": 1252,
+      "sale_count": 1255,
+      "realized_count": 1255,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -11146,15 +11034,15 @@
       "ruler_rarity": null,
       "denomination": "AR Drachm",
       "metal": "silver",
-      "sale_count": 8,
-      "realized_count": 8,
+      "sale_count": 10,
+      "realized_count": 10,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 124.0,
         "max": 5040.0
       },
-      "median_price_usd": 528.0,
+      "median_price_usd": 486.0,
       "last_sale_date": "2026-03-12",
       "grade_distribution": {
         "AU": 1,
@@ -11210,42 +11098,6 @@
       "mint_mark": null
     },
     {
-      "slug": "roman-augustus-ar-siliqua",
-      "category": "roman",
-      "ruler": "Augustus",
-      "ruler_normalized": "augustus",
-      "dynasty": "Julio-Claudian",
-      "ruler_dates": "27 BC â€“ AD 14",
-      "ruler_rarity": null,
-      "denomination": "AR Siliqua",
-      "metal": "silver",
-      "sale_count": 67,
-      "realized_count": 67,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 84.0,
-        "max": 7500.0
-      },
-      "median_price_usd": 264.0,
-      "last_sale_date": "2026-03-15",
-      "grade_distribution": {
-        "AU": 21,
-        "XF": 26,
-        "VF": 14,
-        "MS": 6
-      },
-      "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-0-6-3-9-20639913&w=120&h=300&it=product",
-      "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 4,
-      "top_grade_numeric": 5,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
       "slug": "roman-augustus-ar-tetradrachm",
       "category": "roman",
       "ruler": "Augustus",
@@ -11255,15 +11107,15 @@
       "ruler_rarity": null,
       "denomination": "AR Tetradrachm",
       "metal": "silver",
-      "sale_count": 214,
-      "realized_count": 214,
+      "sale_count": 147,
+      "realized_count": 147,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 51.0,
+        "min": 104.0,
         "max": 6600.0
       },
-      "median_price_usd": 288.0,
+      "median_price_usd": 336.0,
       "last_sale_date": "2026-03-19",
       "grade_distribution": {
         "AU": 31,
@@ -11294,15 +11146,15 @@
       "ruler_rarity": null,
       "denomination": "AV Aureus",
       "metal": "gold",
-      "sale_count": 355,
-      "realized_count": 355,
+      "sale_count": 105,
+      "realized_count": 105,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 1680.0,
-        "max": 600000.0
+        "min": 2280.0,
+        "max": 288000.0
       },
-      "median_price_usd": 10200.0,
+      "median_price_usd": 13200.0,
       "last_sale_date": "2026-03-15",
       "grade_distribution": {
         "AU": 82,
@@ -11357,44 +11209,6 @@
       "mint_mark": null
     },
     {
-      "slug": "roman-augustus-av-solidus",
-      "category": "roman",
-      "ruler": "Augustus",
-      "ruler_normalized": "augustus",
-      "dynasty": "Julio-Claudian",
-      "ruler_dates": "27 BC â€“ AD 14",
-      "ruler_rarity": null,
-      "denomination": "AV Solidus",
-      "metal": "gold",
-      "sale_count": 175,
-      "realized_count": 175,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 576.0,
-        "max": 60000.0
-      },
-      "median_price_usd": 2640.0,
-      "last_sale_date": "2026-03-15",
-      "grade_distribution": {
-        "AU": 69,
-        "XF": 23,
-        "VF": 16,
-        "F": 5,
-        "MS": 60,
-        "G": 2
-      },
-      "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-3-6-1-0-33610303&w=120&h=300&it=product",
-      "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 3,
-      "top_grade_numeric": 5,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
       "slug": "roman-augustus-av-tremissis",
       "category": "roman",
       "ruler": "Augustus",
@@ -11438,15 +11252,15 @@
       "ruler_rarity": null,
       "denomination": "Unknown",
       "metal": "bronze",
-      "sale_count": 246,
-      "realized_count": 246,
+      "sale_count": 250,
+      "realized_count": 250,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 30.0,
         "max": 78000.0
       },
-      "median_price_usd": 378.0,
+      "median_price_usd": 384.0,
       "last_sale_date": "2026-03-24",
       "grade_distribution": {
         "AU": 154,
@@ -11654,15 +11468,15 @@
       "ruler_rarity": null,
       "denomination": "AV Aureus",
       "metal": "gold",
-      "sale_count": 166,
-      "realized_count": 166,
+      "sale_count": 267,
+      "realized_count": 267,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 1140.0,
-        "max": 292800.0
+        "max": 312000.0
       },
-      "median_price_usd": 9600.0,
+      "median_price_usd": 11400.0,
       "last_sale_date": "2026-02-01",
       "grade_distribution": {
         "AU": 71,
@@ -11728,15 +11542,15 @@
       "ruler_rarity": null,
       "denomination": "AV Solidus",
       "metal": "gold",
-      "sale_count": 387,
-      "realized_count": 387,
+      "sale_count": 419,
+      "realized_count": 419,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 312.0,
         "max": 75000.0
       },
-      "median_price_usd": 1260.0,
+      "median_price_usd": 1320.0,
       "last_sale_date": "2026-03-15",
       "grade_distribution": {
         "AU": 139,
@@ -11878,8 +11692,8 @@
       "ruler_rarity": null,
       "denomination": "AR Denarius",
       "metal": "silver",
-      "sale_count": 50,
-      "realized_count": 50,
+      "sale_count": 51,
+      "realized_count": 51,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -11916,15 +11730,15 @@
       "ruler_rarity": null,
       "denomination": "AR Drachm",
       "metal": "silver",
-      "sale_count": 3,
-      "realized_count": 3,
+      "sale_count": 6,
+      "realized_count": 6,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 1200.0,
+        "min": 456.0,
         "max": 2400.0
       },
-      "median_price_usd": 1560.0,
+      "median_price_usd": 1380.0,
       "last_sale_date": "2022-09-18",
       "grade_distribution": {
         "XF": 3
@@ -11985,15 +11799,15 @@
       "ruler_rarity": null,
       "denomination": "AV Aureus",
       "metal": "gold",
-      "sale_count": 7,
-      "realized_count": 7,
+      "sale_count": 12,
+      "realized_count": 12,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 33600.0,
-        "max": 216000.0
+        "max": 600000.0
       },
-      "median_price_usd": 78000.0,
+      "median_price_usd": 75000.0,
       "last_sale_date": "2026-01-12",
       "grade_distribution": {
         "AU": 1,
@@ -12021,15 +11835,15 @@
       "ruler_rarity": null,
       "denomination": "Unknown",
       "metal": "bronze",
-      "sale_count": 72,
-      "realized_count": 72,
+      "sale_count": 75,
+      "realized_count": 75,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 156.0,
         "max": 7200.0
       },
-      "median_price_usd": 486.0,
+      "median_price_usd": 480.0,
       "last_sale_date": "2026-03-15",
       "grade_distribution": {
         "AU": 9,
@@ -12225,15 +12039,15 @@
       "ruler_rarity": null,
       "denomination": "AE Sestertius",
       "metal": "bronze",
-      "sale_count": 8,
-      "realized_count": 8,
+      "sale_count": 11,
+      "realized_count": 11,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 288.0,
-        "max": 2880.0
+        "max": 5040.0
       },
-      "median_price_usd": 648.0,
+      "median_price_usd": 576.0,
       "last_sale_date": "2025-05-15",
       "grade_distribution": {
         "XF": 5,
@@ -12330,15 +12144,15 @@
       "ruler_rarity": null,
       "denomination": "AR Drachm",
       "metal": "silver",
-      "sale_count": 1,
-      "realized_count": 1,
+      "sale_count": 3,
+      "realized_count": 3,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 220.0,
+        "min": 104.0,
         "max": 220.0
       },
-      "median_price_usd": 220.0,
+      "median_price_usd": 139.0,
       "last_sale_date": "2025-11-16",
       "grade_distribution": {
         "AU": 1
@@ -12397,15 +12211,15 @@
       "ruler_rarity": null,
       "denomination": "AR Tetradrachm",
       "metal": "silver",
-      "sale_count": 184,
-      "realized_count": 184,
+      "sale_count": 207,
+      "realized_count": 207,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 59.0,
         "max": 10500.0
       },
-      "median_price_usd": 151.375,
+      "median_price_usd": 159.0,
       "last_sale_date": "2026-02-26",
       "grade_distribution": {
         "AU": 42,
@@ -12434,15 +12248,15 @@
       "ruler_rarity": null,
       "denomination": "AV Aureus",
       "metal": "gold",
-      "sale_count": 7,
-      "realized_count": 7,
+      "sale_count": 26,
+      "realized_count": 26,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 5880.0,
-        "max": 33600.0
+        "min": 2640.0,
+        "max": 72000.0
       },
-      "median_price_usd": 8700.0,
+      "median_price_usd": 18600.0,
       "last_sale_date": "2024-05-10",
       "grade_distribution": {
         "AU": 2,
@@ -12469,8 +12283,8 @@
       "ruler_rarity": null,
       "denomination": "Unknown",
       "metal": "silver",
-      "sale_count": 120,
-      "realized_count": 120,
+      "sale_count": 121,
+      "realized_count": 121,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -12721,15 +12535,15 @@
       "ruler_rarity": null,
       "denomination": "AR Drachm",
       "metal": "silver",
-      "sale_count": 3,
-      "realized_count": 3,
+      "sale_count": 4,
+      "realized_count": 4,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 89.0,
-        "max": 264.0
+        "max": 384.0
       },
-      "median_price_usd": 124.0,
+      "median_price_usd": 194.0,
       "last_sale_date": "2025-11-06",
       "grade_distribution": {
         "VF": 2,
@@ -12791,8 +12605,8 @@
       "ruler_rarity": null,
       "denomination": "AV Aureus",
       "metal": "gold",
-      "sale_count": 54,
-      "realized_count": 54,
+      "sale_count": 56,
+      "realized_count": 56,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -12862,15 +12676,15 @@
       "ruler_rarity": null,
       "denomination": "Unknown",
       "metal": "bronze",
-      "sale_count": 334,
-      "realized_count": 334,
+      "sale_count": 336,
+      "realized_count": 336,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 51.0,
         "max": 93000.0
       },
-      "median_price_usd": 157.5,
+      "median_price_usd": 159.0,
       "last_sale_date": "2026-03-15",
       "grade_distribution": {
         "AU": 47,
@@ -13000,8 +12814,8 @@
       "ruler_rarity": null,
       "denomination": "AE Sestertius",
       "metal": "bronze",
-      "sale_count": 25,
-      "realized_count": 25,
+      "sale_count": 38,
+      "realized_count": 38,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -13173,15 +12987,15 @@
       "ruler_rarity": null,
       "denomination": "AV Aureus",
       "metal": "gold",
-      "sale_count": 14,
-      "realized_count": 14,
+      "sale_count": 27,
+      "realized_count": 27,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 5760.0,
-        "max": 72000.0
+        "max": 97600.0
       },
-      "median_price_usd": 30000.0,
+      "median_price_usd": 16800.0,
       "last_sale_date": "2025-01-22",
       "grade_distribution": {
         "AU": 5,
@@ -13210,15 +13024,15 @@
       "ruler_rarity": null,
       "denomination": "Unknown",
       "metal": "bronze",
-      "sale_count": 33,
-      "realized_count": 33,
+      "sale_count": 37,
+      "realized_count": 37,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 44.0,
         "max": 109800.0
       },
-      "median_price_usd": 159.0,
+      "median_price_usd": 156.0,
       "last_sale_date": "2025-11-30",
       "grade_distribution": {
         "AU": 2,
@@ -13282,15 +13096,15 @@
       "ruler_rarity": null,
       "denomination": "AE Follis",
       "metal": "bronze",
-      "sale_count": 78,
-      "realized_count": 78,
+      "sale_count": 101,
+      "realized_count": 101,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 39.0,
         "max": 1020.0
       },
-      "median_price_usd": 111.5,
+      "median_price_usd": 126.0,
       "last_sale_date": "2025-12-29",
       "grade_distribution": {
         "AU": 31,
@@ -13320,15 +13134,15 @@
       "ruler_rarity": null,
       "denomination": "AE Nummus",
       "metal": "bronze",
-      "sale_count": 549,
-      "realized_count": 548,
+      "sale_count": 626,
+      "realized_count": 625,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 34.0,
         "max": 26400.0
       },
-      "median_price_usd": 134.0,
+      "median_price_usd": 138.0,
       "last_sale_date": "2026-03-24",
       "grade_distribution": {
         "AU": 136,
@@ -13357,13 +13171,13 @@
       "ruler_rarity": null,
       "denomination": "AR Siliqua",
       "metal": "silver",
-      "sale_count": 13,
-      "realized_count": 13,
+      "sale_count": 15,
+      "realized_count": 15,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 109.0,
-        "max": 4200.0
+        "max": 7500.0
       },
       "median_price_usd": 1920.0,
       "last_sale_date": "2026-03-15",
@@ -13394,15 +13208,15 @@
       "ruler_rarity": null,
       "denomination": "AV Aureus",
       "metal": "gold",
-      "sale_count": 5,
-      "realized_count": 5,
+      "sale_count": 8,
+      "realized_count": 8,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 6000.0,
-        "max": 15600.0
+        "min": 3000.0,
+        "max": 33600.0
       },
-      "median_price_usd": 12600.0,
+      "median_price_usd": 12900.0,
       "last_sale_date": "2025-01-13",
       "grade_distribution": {
         "XF": 1,
@@ -13413,42 +13227,6 @@
       "median_weight_g": null,
       "top_strike_score": 5,
       "top_surface_score": 3,
-      "top_grade_numeric": 5,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
-      "slug": "roman-constantine-i-av-nomisma",
-      "category": "roman",
-      "ruler": "Constantine I",
-      "ruler_normalized": "constantine-i",
-      "dynasty": "Constantinian",
-      "ruler_dates": "AD 307â€“337",
-      "ruler_rarity": null,
-      "denomination": "AV Nomisma",
-      "metal": "gold",
-      "sale_count": 171,
-      "realized_count": 171,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 432.0,
-        "max": 10200.0
-      },
-      "median_price_usd": 1020.0,
-      "last_sale_date": "2026-01-16",
-      "grade_distribution": {
-        "MS": 56,
-        "AU": 81,
-        "XF": 29,
-        "VF": 5
-      },
-      "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-3-9-19539977&w=120&h=300&it=product",
-      "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 4,
       "top_grade_numeric": 5,
       "dominant_service": "ngc",
       "series": null,
@@ -13484,43 +13262,6 @@
       "top_strike_score": 5,
       "top_surface_score": 4,
       "top_grade_numeric": 5,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
-      "slug": "roman-constantine-i-av-solidus",
-      "category": "roman",
-      "ruler": "Constantine I",
-      "ruler_normalized": "constantine-i",
-      "dynasty": "Constantinian",
-      "ruler_dates": "AD 307â€“337",
-      "ruler_rarity": null,
-      "denomination": "AV Solidus",
-      "metal": "gold",
-      "sale_count": 503,
-      "realized_count": 503,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 324.0,
-        "max": 204000.0
-      },
-      "median_price_usd": 780.0,
-      "last_sale_date": "2026-01-16",
-      "grade_distribution": {
-        "AU": 152,
-        "XF": 39,
-        "VF": 6,
-        "G": 2,
-        "MS": 304
-      },
-      "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-2-7-0-3-32703505&w=120&h=300&it=product",
-      "median_weight_g": null,
-      "top_strike_score": 4,
-      "top_surface_score": 3,
-      "top_grade_numeric": 4,
       "dominant_service": "ngc",
       "series": null,
       "date_struck": null,
@@ -13572,15 +13313,15 @@
       "ruler_rarity": null,
       "denomination": "Unknown",
       "metal": "gold",
-      "sale_count": 37,
-      "realized_count": 37,
+      "sale_count": 38,
+      "realized_count": 38,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 49.0,
         "max": 156000.0
       },
-      "median_price_usd": 114.0,
+      "median_price_usd": 126.0,
       "last_sale_date": "2024-05-10",
       "grade_distribution": {
         "AU": 25,
@@ -13609,15 +13350,15 @@
       "ruler_rarity": null,
       "denomination": "AE Nummus",
       "metal": "bronze",
-      "sale_count": 3,
-      "realized_count": 3,
+      "sale_count": 115,
+      "realized_count": 115,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 69.0,
-        "max": 1560.0
+        "min": 35.0,
+        "max": 3120.0
       },
-      "median_price_usd": 222.0,
+      "median_price_usd": 114.0,
       "last_sale_date": "2025-09-04",
       "grade_distribution": {
         "AU": 1,
@@ -13644,15 +13385,15 @@
       "ruler_rarity": null,
       "denomination": "AR Siliqua",
       "metal": "silver",
-      "sale_count": 23,
-      "realized_count": 23,
+      "sale_count": 69,
+      "realized_count": 69,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 124.0,
-        "max": 2160.0
+        "min": 84.0,
+        "max": 3120.0
       },
-      "median_price_usd": 312.0,
+      "median_price_usd": 288.0,
       "last_sale_date": "2026-03-15",
       "grade_distribution": {
         "AU": 10,
@@ -13680,15 +13421,15 @@
       "ruler_rarity": null,
       "denomination": "AV Solidus",
       "metal": "gold",
-      "sale_count": 8,
-      "realized_count": 8,
+      "sale_count": 86,
+      "realized_count": 86,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 747.6,
-        "max": 9000.0
+        "min": 576.0,
+        "max": 21600.0
       },
-      "median_price_usd": 3720.0,
+      "median_price_usd": 2400.0,
       "last_sale_date": "2020-06-03",
       "grade_distribution": {
         "AU": 3,
@@ -13749,8 +13490,8 @@
       "ruler_rarity": null,
       "denomination": "Unknown",
       "metal": "unknown",
-      "sale_count": 57,
-      "realized_count": 57,
+      "sale_count": 61,
+      "realized_count": 61,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -13782,15 +13523,15 @@
       "ruler_rarity": null,
       "denomination": "AE Follis",
       "metal": "bronze",
-      "sale_count": 96,
-      "realized_count": 96,
+      "sale_count": 97,
+      "realized_count": 97,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 49.0,
         "max": 1440.0
       },
-      "median_price_usd": 150.875,
+      "median_price_usd": 152.75,
       "last_sale_date": "2025-10-06",
       "grade_distribution": {
         "AU": 40,
@@ -13818,15 +13559,15 @@
       "ruler_rarity": null,
       "denomination": "AE Nummus",
       "metal": "bronze",
-      "sale_count": 3,
-      "realized_count": 2,
+      "sale_count": 4,
+      "realized_count": 3,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 79.0,
-        "max": 204.0
+        "max": 425.0
       },
-      "median_price_usd": 141.5,
+      "median_price_usd": 204.0,
       "last_sale_date": "2026-03-24",
       "grade_distribution": {
         "AU": 2,
@@ -13953,15 +13694,15 @@
       "ruler_rarity": null,
       "denomination": "AV Aureus",
       "metal": "gold",
-      "sale_count": 37,
-      "realized_count": 37,
+      "sale_count": 38,
+      "realized_count": 38,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 1560.0,
         "max": 40800.0
       },
-      "median_price_usd": 14400.0,
+      "median_price_usd": 14100.0,
       "last_sale_date": "2025-11-07",
       "grade_distribution": {
         "AU": 12,
@@ -14127,15 +13868,15 @@
       "ruler_rarity": null,
       "denomination": "AE Dupondius",
       "metal": "bronze",
-      "sale_count": 5,
-      "realized_count": 5,
+      "sale_count": 18,
+      "realized_count": 18,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 89.0,
         "max": 1920.0
       },
-      "median_price_usd": 204.0,
+      "median_price_usd": 198.0,
       "last_sale_date": "2025-10-06",
       "grade_distribution": {
         "AU": 1,
@@ -14199,15 +13940,15 @@
       "ruler_rarity": null,
       "denomination": "AE Sestertius",
       "metal": "bronze",
-      "sale_count": 4,
-      "realized_count": 4,
+      "sale_count": 24,
+      "realized_count": 24,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 138.0,
-        "max": 480.0
+        "min": 99.0,
+        "max": 6300.0
       },
-      "median_price_usd": 228.125,
+      "median_price_usd": 600.0,
       "last_sale_date": "2022-06-01",
       "grade_distribution": {
         "VF": 1,
@@ -14437,15 +14178,15 @@
       "ruler_rarity": null,
       "denomination": "AV Aureus",
       "metal": "gold",
-      "sale_count": 4,
-      "realized_count": 4,
+      "sale_count": 58,
+      "realized_count": 58,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 7637.5,
-        "max": 23500.0
+        "min": 1320.0,
+        "max": 114000.0
       },
-      "median_price_usd": 7800.0,
+      "median_price_usd": 7718.75,
       "last_sale_date": "2021-01-22",
       "grade_distribution": {
         "AU": 1,
@@ -14471,15 +14212,15 @@
       "ruler_rarity": null,
       "denomination": "Unknown",
       "metal": "bronze",
-      "sale_count": 88,
-      "realized_count": 88,
+      "sale_count": 109,
+      "realized_count": 109,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 34.0,
         "max": 2640.0
       },
-      "median_price_usd": 184.8,
+      "median_price_usd": 189.6,
       "last_sale_date": "2025-12-25",
       "grade_distribution": {
         "AU": 4,
@@ -14956,15 +14697,15 @@
       "ruler_rarity": "scarce",
       "denomination": "AE Sestertius",
       "metal": "bronze",
-      "sale_count": 25,
-      "realized_count": 25,
+      "sale_count": 26,
+      "realized_count": 26,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 336.0,
         "max": 24400.0
       },
-      "median_price_usd": 1020.0,
+      "median_price_usd": 1230.0,
       "last_sale_date": "2026-01-12",
       "grade_distribution": {
         "AU": 1,
@@ -15102,15 +14843,15 @@
       "ruler_rarity": "scarce",
       "denomination": "AV Aureus",
       "metal": "gold",
-      "sale_count": 23,
-      "realized_count": 23,
+      "sale_count": 24,
+      "realized_count": 24,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 3840.0,
         "max": 66000.0
       },
-      "median_price_usd": 13200.0,
+      "median_price_usd": 13600.0,
       "last_sale_date": "2026-01-23",
       "grade_distribution": {
         "AU": 1,
@@ -15447,8 +15188,8 @@
       "ruler_rarity": null,
       "denomination": "Unknown",
       "metal": "unknown",
-      "sale_count": 238,
-      "realized_count": 238,
+      "sale_count": 240,
+      "realized_count": 240,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -15556,15 +15297,15 @@
       "ruler_rarity": "scarce",
       "denomination": "Unknown",
       "metal": "bronze",
-      "sale_count": 11,
-      "realized_count": 11,
+      "sale_count": 20,
+      "realized_count": 20,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 44.0,
-        "max": 460.0
+        "min": 39.0,
+        "max": 1440.0
       },
-      "median_price_usd": 159.0,
+      "median_price_usd": 175.5,
       "last_sale_date": "2026-01-16",
       "grade_distribution": {
         "AU": 1,
@@ -15724,15 +15465,15 @@
       "ruler_rarity": null,
       "denomination": "AE Sestertius",
       "metal": "bronze",
-      "sale_count": 40,
-      "realized_count": 40,
+      "sale_count": 52,
+      "realized_count": 52,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 69.0,
-        "max": 1170.0
+        "min": 57.0,
+        "max": 1920.0
       },
-      "median_price_usd": 216.0,
+      "median_price_usd": 210.0,
       "last_sale_date": "2025-09-21",
       "grade_distribution": {
         "AU": 5,
@@ -15829,8 +15570,8 @@
       "ruler_rarity": null,
       "denomination": "AR Tetradrachm",
       "metal": "silver",
-      "sale_count": 142,
-      "realized_count": 142,
+      "sale_count": 159,
+      "realized_count": 159,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -15865,15 +15606,15 @@
       "ruler_rarity": null,
       "denomination": "AV Aureus",
       "metal": "gold",
-      "sale_count": 26,
-      "realized_count": 26,
+      "sale_count": 36,
+      "realized_count": 36,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 1440.0,
         "max": 24000.0
       },
-      "median_price_usd": 8400.0,
+      "median_price_usd": 7650.0,
       "last_sale_date": "2026-01-12",
       "grade_distribution": {
         "AU": 4,
@@ -15900,15 +15641,15 @@
       "ruler_rarity": null,
       "denomination": "Unknown",
       "metal": "silver",
-      "sale_count": 335,
-      "realized_count": 335,
+      "sale_count": 337,
+      "realized_count": 337,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 34.0,
         "max": 57600.0
       },
-      "median_price_usd": 114.0,
+      "median_price_usd": 119.0,
       "last_sale_date": "2025-12-25",
       "grade_distribution": {
         "AU": 101,
@@ -15974,15 +15715,15 @@
       "ruler_rarity": null,
       "denomination": "AE Sestertius",
       "metal": "bronze",
-      "sale_count": 84,
-      "realized_count": 84,
+      "sale_count": 86,
+      "realized_count": 86,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 64.0,
         "max": 56120.0
       },
-      "median_price_usd": 396.0,
+      "median_price_usd": 408.0,
       "last_sale_date": "2026-01-12",
       "grade_distribution": {
         "AU": 9,
@@ -16295,15 +16036,15 @@
       "ruler_rarity": null,
       "denomination": "AV Aureus",
       "metal": "gold",
-      "sale_count": 122,
-      "realized_count": 122,
+      "sale_count": 125,
+      "realized_count": 125,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 1950.0,
         "max": 126000.0
       },
-      "median_price_usd": 4927.5,
+      "median_price_usd": 5040.0,
       "last_sale_date": "2026-03-15",
       "grade_distribution": {
         "AU": 18,
@@ -16332,8 +16073,8 @@
       "ruler_rarity": null,
       "denomination": "Unknown",
       "metal": "bronze",
-      "sale_count": 256,
-      "realized_count": 256,
+      "sale_count": 258,
+      "realized_count": 258,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -16440,8 +16181,8 @@
       "ruler_rarity": null,
       "denomination": "AV Solidus",
       "metal": "gold",
-      "sale_count": 208,
-      "realized_count": 208,
+      "sale_count": 209,
+      "realized_count": 209,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -16823,13 +16564,13 @@
       "ruler_rarity": null,
       "denomination": "Unknown",
       "metal": "silver",
-      "sale_count": 41,
-      "realized_count": 41,
+      "sale_count": 42,
+      "realized_count": 42,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 35.0,
-        "max": 750.0
+        "max": 1920.0
       },
       "median_price_usd": 159.0,
       "last_sale_date": "2025-11-30",
@@ -16963,15 +16704,15 @@
       "ruler_rarity": null,
       "denomination": "Unknown",
       "metal": "bronze",
-      "sale_count": 6,
-      "realized_count": 6,
+      "sale_count": 8,
+      "realized_count": 8,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 39.0,
         "max": 264.0
       },
-      "median_price_usd": 154.0,
+      "median_price_usd": 124.0,
       "last_sale_date": "2025-11-30",
       "grade_distribution": {
         "AU": 2,
@@ -17067,15 +16808,15 @@
       "ruler_rarity": "scarce",
       "denomination": "AE Nummus",
       "metal": "bronze",
-      "sale_count": 15,
-      "realized_count": 15,
+      "sale_count": 19,
+      "realized_count": 19,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 47.0,
         "max": 1260.0
       },
-      "median_price_usd": 264.0,
+      "median_price_usd": 180.0,
       "last_sale_date": "2026-03-15",
       "grade_distribution": {
         "AU": 7,
@@ -17103,15 +16844,15 @@
       "ruler_rarity": "scarce",
       "denomination": "AR Siliqua",
       "metal": "silver",
-      "sale_count": 20,
-      "realized_count": 20,
+      "sale_count": 33,
+      "realized_count": 33,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 79.0,
         "max": 564.0
       },
-      "median_price_usd": 192.0,
+      "median_price_usd": 216.0,
       "last_sale_date": "2026-03-15",
       "grade_distribution": {
         "AU": 1,
@@ -17139,15 +16880,15 @@
       "ruler_rarity": "scarce",
       "denomination": "AV Solidus",
       "metal": "gold",
-      "sale_count": 1,
-      "realized_count": 1,
+      "sale_count": 23,
+      "realized_count": 23,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 9600.0,
-        "max": 9600.0
+        "min": 1170.0,
+        "max": 48000.0
       },
-      "median_price_usd": 9600.0,
+      "median_price_usd": 9000.0,
       "last_sale_date": "2018-08-17",
       "grade_distribution": {
         "AU": 1
@@ -17668,119 +17409,6 @@
       "mint_mark": null
     },
     {
-      "slug": "roman-julius-caesar-ae-follis",
-      "category": "roman",
-      "ruler": "Julius Caesar",
-      "ruler_normalized": "julius-caesar",
-      "dynasty": "Roman Republic",
-      "ruler_dates": "44 BC",
-      "ruler_rarity": null,
-      "denomination": "AE Follis",
-      "metal": "bronze",
-      "sale_count": 157,
-      "realized_count": 157,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 40.0,
-        "max": 1800.0
-      },
-      "median_price_usd": 138.0,
-      "last_sale_date": "2026-03-15",
-      "grade_distribution": {
-        "AU": 69,
-        "XF": 33,
-        "VF": 12,
-        "F": 1,
-        "MS": 42
-      },
-      "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-3-7-6-8-33768869&w=120&h=300&it=product",
-      "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 5,
-      "top_grade_numeric": null,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
-      "slug": "roman-julius-caesar-ae-nummus",
-      "category": "roman",
-      "ruler": "Julius Caesar",
-      "ruler_normalized": "julius-caesar",
-      "dynasty": "Roman Republic",
-      "ruler_dates": "44 BC",
-      "ruler_rarity": null,
-      "denomination": "AE Nummus",
-      "metal": "bronze",
-      "sale_count": 504,
-      "realized_count": 504,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 35.0,
-        "max": 3120.0
-      },
-      "median_price_usd": 114.0,
-      "last_sale_date": "2026-03-15",
-      "grade_distribution": {
-        "AU": 109,
-        "XF": 30,
-        "VF": 6,
-        "G": 2,
-        "MS": 357
-      },
-      "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-2-1-9-7-32197277&w=120&h=300&it=product",
-      "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 5,
-      "top_grade_numeric": 5,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
-      "slug": "roman-julius-caesar-ae-sestertius",
-      "category": "roman",
-      "ruler": "Julius Caesar",
-      "ruler_normalized": "julius-caesar",
-      "dynasty": "Roman Republic",
-      "ruler_dates": "44 BC",
-      "ruler_rarity": null,
-      "denomination": "AE Sestertius",
-      "metal": "bronze",
-      "sale_count": 86,
-      "realized_count": 86,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 73.0,
-        "max": 24000.0
-      },
-      "median_price_usd": 384.0,
-      "last_sale_date": "2026-02-01",
-      "grade_distribution": {
-        "AU": 7,
-        "XF": 17,
-        "VF": 39,
-        "F": 16,
-        "VG": 5,
-        "G": 1,
-        "MS": 1
-      },
-      "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=1-6-2-0-5-16205508&w=120&h=300&it=product",
-      "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 4,
-      "top_grade_numeric": 5,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
       "slug": "roman-julius-caesar-ar-denarius",
       "category": "roman",
       "ruler": "Julius Caesar",
@@ -17790,15 +17418,15 @@
       "ruler_rarity": null,
       "denomination": "AR Denarius",
       "metal": "silver",
-      "sale_count": 27,
-      "realized_count": 24,
-      "fixed_price_count": 3,
+      "sale_count": 17,
+      "realized_count": 17,
+      "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 164.5,
         "max": 5520.0
       },
-      "median_price_usd": 1560.0,
+      "median_price_usd": 2160.0,
       "last_sale_date": "2026-03-25",
       "grade_distribution": {
         "AU": 187,
@@ -17851,42 +17479,6 @@
       "top_strike_score": 5,
       "top_surface_score": 2,
       "top_grade_numeric": 5,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
-      "slug": "roman-julius-caesar-ar-drachm",
-      "category": "roman",
-      "ruler": "Julius Caesar",
-      "ruler_normalized": "julius-caesar",
-      "dynasty": "Roman Republic",
-      "ruler_dates": "44 BC",
-      "ruler_rarity": null,
-      "denomination": "AR Drachm",
-      "metal": "silver",
-      "sale_count": 57,
-      "realized_count": 57,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 64.0,
-        "max": 1800.0
-      },
-      "median_price_usd": 210.0,
-      "last_sale_date": "2026-03-15",
-      "grade_distribution": {
-        "AU": 15,
-        "XF": 14,
-        "VF": 17,
-        "F": 11
-      },
-      "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-0-7-3-4-20734599&w=120&h=300&it=product",
-      "median_weight_g": null,
-      "top_strike_score": 4,
-      "top_surface_score": 2,
-      "top_grade_numeric": 4,
       "dominant_service": "ngc",
       "series": null,
       "date_struck": null,
@@ -17997,43 +17589,6 @@
       "mint_mark": null
     },
     {
-      "slug": "roman-julius-caesar-ar-tetradrachm",
-      "category": "roman",
-      "ruler": "Julius Caesar",
-      "ruler_normalized": "julius-caesar",
-      "dynasty": "Roman Republic",
-      "ruler_dates": "44 BC",
-      "ruler_rarity": null,
-      "denomination": "AR Tetradrachm",
-      "metal": "silver",
-      "sale_count": 69,
-      "realized_count": 69,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 55.0,
-        "max": 2640.0
-      },
-      "median_price_usd": 169.0,
-      "last_sale_date": "2026-01-16",
-      "grade_distribution": {
-        "AU": 17,
-        "XF": 21,
-        "VF": 22,
-        "F": 5,
-        "MS": 4
-      },
-      "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-6-4-9-6-26496407&w=120&h=300&it=product",
-      "median_weight_g": null,
-      "top_strike_score": 4,
-      "top_surface_score": 3,
-      "top_grade_numeric": 4,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
       "slug": "roman-julius-caesar-av-aureus",
       "category": "roman",
       "ruler": "Julius Caesar",
@@ -18043,15 +17598,15 @@
       "ruler_rarity": null,
       "denomination": "AV Aureus",
       "metal": "gold",
-      "sale_count": 291,
-      "realized_count": 291,
+      "sale_count": 39,
+      "realized_count": 39,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 1320.0,
-        "max": 312000.0
+        "min": 3840.0,
+        "max": 96000.0
       },
-      "median_price_usd": 9900.0,
+      "median_price_usd": 9600.0,
       "last_sale_date": "2026-03-15",
       "grade_distribution": {
         "AU": 71,
@@ -18073,43 +17628,6 @@
       "mint_mark": null
     },
     {
-      "slug": "roman-julius-caesar-av-solidus",
-      "category": "roman",
-      "ruler": "Julius Caesar",
-      "ruler_normalized": "julius-caesar",
-      "dynasty": "Roman Republic",
-      "ruler_dates": "44 BC",
-      "ruler_rarity": null,
-      "denomination": "AV Solidus",
-      "metal": "gold",
-      "sale_count": 65,
-      "realized_count": 65,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 360.0,
-        "max": 39040.0
-      },
-      "median_price_usd": 930.0,
-      "last_sale_date": "2026-01-12",
-      "grade_distribution": {
-        "AU": 24,
-        "XF": 10,
-        "VF": 2,
-        "VG": 1,
-        "MS": 28
-      },
-      "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-2-7-0-3-32703520&w=120&h=300&it=product",
-      "median_weight_g": null,
-      "top_strike_score": 3,
-      "top_surface_score": 2,
-      "top_grade_numeric": 3,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
       "slug": "roman-julius-caesar-unknown",
       "category": "roman",
       "ruler": "Julius Caesar",
@@ -18119,15 +17637,15 @@
       "ruler_rarity": null,
       "denomination": "Unknown",
       "metal": "silver",
-      "sale_count": 492,
-      "realized_count": 492,
+      "sale_count": 3,
+      "realized_count": 3,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 30.0,
-        "max": 26000.0
+        "min": 900.0,
+        "max": 1560.0
       },
-      "median_price_usd": 192.0,
+      "median_price_usd": 1320.0,
       "last_sale_date": "2026-03-19",
       "grade_distribution": {
         "AU": 140,
@@ -18260,15 +17778,15 @@
       "ruler_rarity": "scarce",
       "denomination": "AV Solidus",
       "metal": "gold",
-      "sale_count": 3,
-      "realized_count": 3,
+      "sale_count": 4,
+      "realized_count": 4,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 120.0,
-        "max": 7200.0
+        "max": 14000.0
       },
-      "median_price_usd": 3360.0,
+      "median_price_usd": 5280.0,
       "last_sale_date": "2026-03-14",
       "grade_distribution": {
         "AU": 2,
@@ -18394,8 +17912,8 @@
       "ruler_rarity": null,
       "denomination": "AE Sestertius",
       "metal": "bronze",
-      "sale_count": 12,
-      "realized_count": 11,
+      "sale_count": 13,
+      "realized_count": 12,
       "fixed_price_count": 1,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -18537,15 +18055,15 @@
       "ruler_rarity": null,
       "denomination": "AV Aureus",
       "metal": "gold",
-      "sale_count": 27,
-      "realized_count": 27,
+      "sale_count": 40,
+      "realized_count": 40,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 4560.0,
         "max": 56400.0
       },
-      "median_price_usd": 9600.0,
+      "median_price_usd": 13500.0,
       "last_sale_date": "2025-05-02",
       "grade_distribution": {
         "AU": 4,
@@ -18781,13 +18299,13 @@
       "ruler_rarity": null,
       "denomination": "AE Dupondius",
       "metal": "bronze",
-      "sale_count": 3,
-      "realized_count": 3,
+      "sale_count": 9,
+      "realized_count": 9,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 93.0,
-        "max": 288.0
+        "max": 528.0
       },
       "median_price_usd": 204.0,
       "last_sale_date": "2022-07-27",
@@ -18816,13 +18334,13 @@
       "ruler_rarity": null,
       "denomination": "AE Sestertius",
       "metal": "bronze",
-      "sale_count": 18,
-      "realized_count": 18,
+      "sale_count": 73,
+      "realized_count": 73,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 152.75,
-        "max": 2880.0
+        "min": 84.0,
+        "max": 4440.0
       },
       "median_price_usd": 312.0,
       "last_sale_date": "2024-05-10",
@@ -18890,15 +18408,15 @@
       "ruler_rarity": null,
       "denomination": "AR Drachm",
       "metal": "silver",
-      "sale_count": 1,
-      "realized_count": 1,
+      "sale_count": 3,
+      "realized_count": 3,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 312.0,
+        "min": 159.0,
         "max": 312.0
       },
-      "median_price_usd": 312.0,
+      "median_price_usd": 210.0,
       "last_sale_date": "2020-05-10",
       "grade_distribution": {
         "VF": 1
@@ -18957,15 +18475,15 @@
       "ruler_rarity": null,
       "denomination": "AR Tetradrachm",
       "metal": "silver",
-      "sale_count": 10,
-      "realized_count": 10,
+      "sale_count": 11,
+      "realized_count": 11,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 84.0,
         "max": 1586.0
       },
-      "median_price_usd": 124.0,
+      "median_price_usd": 104.0,
       "last_sale_date": "2026-02-01",
       "grade_distribution": {
         "XF": 1,
@@ -18992,15 +18510,15 @@
       "ruler_rarity": null,
       "denomination": "AV Aureus",
       "metal": "gold",
-      "sale_count": 8,
-      "realized_count": 8,
+      "sale_count": 71,
+      "realized_count": 71,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 3840.0,
-        "max": 18800.0
+        "min": 1645.0,
+        "max": 78000.0
       },
-      "median_price_usd": 8906.25,
+      "median_price_usd": 9987.5,
       "last_sale_date": "2026-01-16",
       "grade_distribution": {
         "AU": 4,
@@ -19027,15 +18545,15 @@
       "ruler_rarity": null,
       "denomination": "Unknown",
       "metal": "bronze",
-      "sale_count": 28,
-      "realized_count": 28,
+      "sale_count": 45,
+      "realized_count": 45,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 89.0,
-        "max": 8400.0
+        "min": 73.0,
+        "max": 18000.0
       },
-      "median_price_usd": 276.0,
+      "median_price_usd": 228.0,
       "last_sale_date": "2025-09-21",
       "grade_distribution": {
         "XF": 2,
@@ -19062,15 +18580,15 @@
       "ruler_rarity": null,
       "denomination": "AR Denarius",
       "metal": "silver",
-      "sale_count": 498,
-      "realized_count": 498,
+      "sale_count": 511,
+      "realized_count": 511,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 103.0,
         "max": 20400.0
       },
-      "median_price_usd": 567.0,
+      "median_price_usd": 576.0,
       "last_sale_date": "2026-02-23",
       "grade_distribution": {
         "AU": 15,
@@ -19135,15 +18653,15 @@
       "ruler_rarity": null,
       "denomination": "AV Aureus",
       "metal": "gold",
-      "sale_count": 1,
-      "realized_count": 1,
+      "sale_count": 6,
+      "realized_count": 6,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 114000.0,
+        "min": 9000.0,
         "max": 114000.0
       },
-      "median_price_usd": 114000.0,
+      "median_price_usd": 39600.0,
       "last_sale_date": "2024-01-08",
       "grade_distribution": {
         "XF": 1
@@ -19204,15 +18722,15 @@
       "ruler_rarity": null,
       "denomination": "AE Follis",
       "metal": "bronze",
-      "sale_count": 41,
-      "realized_count": 41,
+      "sale_count": 89,
+      "realized_count": 89,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 29.0,
-        "max": 1000.0
+        "max": 5368.0
       },
-      "median_price_usd": 99.0,
+      "median_price_usd": 126.0,
       "last_sale_date": "2026-03-15",
       "grade_distribution": {
         "AU": 23,
@@ -19308,8 +18826,8 @@
       "ruler_rarity": null,
       "denomination": "AR Tetradrachm",
       "metal": "silver",
-      "sale_count": 16,
-      "realized_count": 16,
+      "sale_count": 17,
+      "realized_count": 17,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -19343,8 +18861,8 @@
       "ruler_rarity": null,
       "denomination": "AV Aureus",
       "metal": "gold",
-      "sale_count": 28,
-      "realized_count": 28,
+      "sale_count": 30,
+      "realized_count": 30,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -19449,15 +18967,15 @@
       "ruler_rarity": "scarce",
       "denomination": "AE Follis",
       "metal": "bronze",
-      "sale_count": 34,
-      "realized_count": 34,
+      "sale_count": 49,
+      "realized_count": 49,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 57.0,
+        "min": 47.0,
         "max": 14400.0
       },
-      "median_price_usd": 123.0,
+      "median_price_usd": 120.0,
       "last_sale_date": "2025-10-06",
       "grade_distribution": {
         "AU": 16,
@@ -19485,15 +19003,15 @@
       "ruler_rarity": "scarce",
       "denomination": "AE Nummus",
       "metal": "bronze",
-      "sale_count": 16,
-      "realized_count": 16,
+      "sale_count": 20,
+      "realized_count": 20,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 39.0,
         "max": 2040.0
       },
-      "median_price_usd": 122.0,
+      "median_price_usd": 134.0,
       "last_sale_date": "2025-09-21",
       "grade_distribution": {
         "AU": 1,
@@ -19662,15 +19180,15 @@
       "ruler_rarity": "scarce",
       "denomination": "AV Aureus",
       "metal": "gold",
-      "sale_count": 1,
-      "realized_count": 1,
+      "sale_count": 9,
+      "realized_count": 9,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 408000.0,
+        "min": 5040.0,
         "max": 408000.0
       },
-      "median_price_usd": 408000.0,
+      "median_price_usd": 16800.0,
       "last_sale_date": "2024-08-17",
       "grade_distribution": {
         "XF": 1
@@ -19695,15 +19213,15 @@
       "ruler_rarity": "scarce",
       "denomination": "Unknown",
       "metal": "bronze",
-      "sale_count": 12,
-      "realized_count": 12,
+      "sale_count": 13,
+      "realized_count": 13,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 41.0,
         "max": 4320.0
       },
-      "median_price_usd": 140.0,
+      "median_price_usd": 156.0,
       "last_sale_date": "2026-03-15",
       "grade_distribution": {
         "AU": 1,
@@ -19765,15 +19283,15 @@
       "ruler_rarity": null,
       "denomination": "AE Dupondius",
       "metal": "bronze",
-      "sale_count": 15,
-      "realized_count": 15,
+      "sale_count": 27,
+      "realized_count": 27,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 139.0,
-        "max": 6300.0
+        "max": 14400.0
       },
-      "median_price_usd": 352.5,
+      "median_price_usd": 360.0,
       "last_sale_date": "2023-03-30",
       "grade_distribution": {
         "AU": 4,
@@ -19801,15 +19319,15 @@
       "ruler_rarity": null,
       "denomination": "AE Sestertius",
       "metal": "bronze",
-      "sale_count": 46,
-      "realized_count": 46,
+      "sale_count": 82,
+      "realized_count": 82,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 288.0,
-        "max": 6600.0
+        "min": 240.0,
+        "max": 19200.0
       },
-      "median_price_usd": 1005.0,
+      "median_price_usd": 1170.0,
       "last_sale_date": "2025-03-15",
       "grade_distribution": {
         "AU": 9,
@@ -19837,15 +19355,15 @@
       "ruler_rarity": null,
       "denomination": "AR Denarius",
       "metal": "silver",
-      "sale_count": 154,
-      "realized_count": 153,
+      "sale_count": 155,
+      "realized_count": 154,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 77.0,
         "max": 15600.0
       },
-      "median_price_usd": 456.0,
+      "median_price_usd": 465.0,
       "last_sale_date": "2026-02-26",
       "grade_distribution": {
         "AU": 9,
@@ -19874,13 +19392,13 @@
       "ruler_rarity": null,
       "denomination": "AR Drachm",
       "metal": "silver",
-      "sale_count": 1,
-      "realized_count": 1,
+      "sale_count": 5,
+      "realized_count": 5,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 264.0,
-        "max": 264.0
+        "min": 114.0,
+        "max": 312.0
       },
       "median_price_usd": 264.0,
       "last_sale_date": "2024-05-27",
@@ -19940,8 +19458,8 @@
       "ruler_rarity": null,
       "denomination": "AR Tetradrachm",
       "metal": "silver",
-      "sale_count": 272,
-      "realized_count": 272,
+      "sale_count": 273,
+      "realized_count": 273,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -19976,15 +19494,15 @@
       "ruler_rarity": null,
       "denomination": "AV Aureus",
       "metal": "gold",
-      "sale_count": 74,
-      "realized_count": 74,
+      "sale_count": 137,
+      "realized_count": 137,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 990.0,
-        "max": 45600.0
+        "max": 50400.0
       },
-      "median_price_usd": 3562.5,
+      "median_price_usd": 3960.0,
       "last_sale_date": "2025-06-26",
       "grade_distribution": {
         "AU": 6,
@@ -20015,8 +19533,8 @@
       "ruler_rarity": null,
       "denomination": "Unknown",
       "metal": "bronze",
-      "sale_count": 135,
-      "realized_count": 134,
+      "sale_count": 147,
+      "realized_count": 146,
       "fixed_price_count": 1,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -20263,15 +19781,15 @@
       "ruler_rarity": null,
       "denomination": "AV Aureus",
       "metal": "gold",
-      "sale_count": 11,
-      "realized_count": 11,
+      "sale_count": 13,
+      "realized_count": 13,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 4200.0,
         "max": 72000.0
       },
-      "median_price_usd": 8400.0,
+      "median_price_usd": 9000.0,
       "last_sale_date": "2025-01-13",
       "grade_distribution": {
         "XF": 4,
@@ -20442,8 +19960,8 @@
       "ruler_rarity": "scarce",
       "denomination": "AV Aureus",
       "metal": "gold",
-      "sale_count": 11,
-      "realized_count": 11,
+      "sale_count": 13,
+      "realized_count": 13,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -20579,15 +20097,15 @@
       "ruler_rarity": null,
       "denomination": "AE Sestertius",
       "metal": "bronze",
-      "sale_count": 68,
-      "realized_count": 68,
+      "sale_count": 84,
+      "realized_count": 84,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 69.0,
         "max": 1680.0
       },
-      "median_price_usd": 195.0,
+      "median_price_usd": 180.5,
       "last_sale_date": "2026-03-05",
       "grade_distribution": {
         "AU": 17,
@@ -20682,15 +20200,15 @@
       "ruler_rarity": null,
       "denomination": "AV Aureus",
       "metal": "gold",
-      "sale_count": 3,
-      "realized_count": 3,
+      "sale_count": 6,
+      "realized_count": 6,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 19200.0,
-        "max": 26400.0
+        "min": 7800.0,
+        "max": 96000.0
       },
-      "median_price_usd": 20400.0,
+      "median_price_usd": 23400.0,
       "last_sale_date": "2025-05-02",
       "grade_distribution": {
         "XF": 2,
@@ -20716,8 +20234,8 @@
       "ruler_rarity": null,
       "denomination": "Unknown",
       "metal": "silver",
-      "sale_count": 733,
-      "realized_count": 732,
+      "sale_count": 853,
+      "realized_count": 852,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -21065,15 +20583,15 @@
       "ruler_rarity": null,
       "denomination": "AV Aureus",
       "metal": "gold",
-      "sale_count": 50,
-      "realized_count": 50,
+      "sale_count": 53,
+      "realized_count": 53,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 1680.0,
         "max": 84000.0
       },
-      "median_price_usd": 17700.0,
+      "median_price_usd": 18000.0,
       "last_sale_date": "2026-01-23",
       "grade_distribution": {
         "AU": 17,
@@ -21104,15 +20622,15 @@
       "ruler_rarity": null,
       "denomination": "Unknown",
       "metal": "bronze",
-      "sale_count": 48,
-      "realized_count": 48,
+      "sale_count": 51,
+      "realized_count": 51,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 39.0,
         "max": 1560.0
       },
-      "median_price_usd": 156.5,
+      "median_price_usd": 154.0,
       "last_sale_date": "2026-02-23",
       "grade_distribution": {
         "AU": 4,
@@ -21175,15 +20693,15 @@
       "ruler_rarity": null,
       "denomination": "AE Dupondius",
       "metal": "bronze",
-      "sale_count": 1,
-      "realized_count": 1,
+      "sale_count": 2,
+      "realized_count": 2,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 104.0,
-        "max": 104.0
+        "max": 139.0
       },
-      "median_price_usd": 104.0,
+      "median_price_usd": 121.5,
       "last_sale_date": "2021-12-19",
       "grade_distribution": {
         "AU": 1
@@ -21208,15 +20726,15 @@
       "ruler_rarity": null,
       "denomination": "AE Sestertius",
       "metal": "bronze",
-      "sale_count": 20,
-      "realized_count": 20,
+      "sale_count": 35,
+      "realized_count": 35,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 51.0,
-        "max": 504.0
+        "max": 2160.0
       },
-      "median_price_usd": 169.5,
+      "median_price_usd": 159.0,
       "last_sale_date": "2024-07-18",
       "grade_distribution": {
         "AU": 3,
@@ -21347,15 +20865,15 @@
       "ruler_rarity": null,
       "denomination": "AR Tetradrachm",
       "metal": "silver",
-      "sale_count": 13,
-      "realized_count": 13,
+      "sale_count": 22,
+      "realized_count": 22,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 57.0,
+        "min": 55.0,
         "max": 192.0
       },
-      "median_price_usd": 79.0,
+      "median_price_usd": 104.0,
       "last_sale_date": "2019-07-04",
       "grade_distribution": {
         "XF": 9,
@@ -21381,15 +20899,15 @@
       "ruler_rarity": null,
       "denomination": "AV Aureus",
       "metal": "gold",
-      "sale_count": 27,
-      "realized_count": 27,
+      "sale_count": 31,
+      "realized_count": 31,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 2640.0,
         "max": 38400.0
       },
-      "median_price_usd": 12000.0,
+      "median_price_usd": 13200.0,
       "last_sale_date": "2026-01-12",
       "grade_distribution": {
         "AU": 5,
@@ -21417,8 +20935,8 @@
       "ruler_rarity": null,
       "denomination": "Unknown",
       "metal": "bronze",
-      "sale_count": 35,
-      "realized_count": 35,
+      "sale_count": 40,
+      "realized_count": 40,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -21630,8 +21148,8 @@
       "ruler_rarity": null,
       "denomination": "AV Solidus",
       "metal": "gold",
-      "sale_count": 567,
-      "realized_count": 567,
+      "sale_count": 568,
+      "realized_count": 568,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -21980,8 +21498,8 @@
       "ruler_rarity": null,
       "denomination": "AR Tetradrachm",
       "metal": "silver",
-      "sale_count": 11,
-      "realized_count": 11,
+      "sale_count": 13,
+      "realized_count": 13,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -22015,8 +21533,8 @@
       "ruler_rarity": null,
       "denomination": "AV Aureus",
       "metal": "gold",
-      "sale_count": 122,
-      "realized_count": 122,
+      "sale_count": 126,
+      "realized_count": 126,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -22079,42 +21597,6 @@
       "mint_mark": null
     },
     {
-      "slug": "roman-tiberius-av-tremissis",
-      "category": "roman",
-      "ruler": "Tiberius",
-      "ruler_normalized": "tiberius",
-      "dynasty": "Julio-Claudian",
-      "ruler_dates": "AD 14â€“37",
-      "ruler_rarity": null,
-      "denomination": "AV Tremissis",
-      "metal": "gold",
-      "sale_count": 87,
-      "realized_count": 87,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 168.0,
-        "max": 1700.0
-      },
-      "median_price_usd": 456.0,
-      "last_sale_date": "2026-01-16",
-      "grade_distribution": {
-        "MS": 49,
-        "AU": 25,
-        "XF": 8,
-        "VF": 5
-      },
-      "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=1-9-1-4-5-19145105&w=120&h=300&it=product",
-      "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 3,
-      "top_grade_numeric": 5,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
       "slug": "roman-tiberius-unknown",
       "category": "roman",
       "ruler": "Tiberius",
@@ -22124,8 +21606,8 @@
       "ruler_rarity": null,
       "denomination": "Unknown",
       "metal": "bronze",
-      "sale_count": 52,
-      "realized_count": 52,
+      "sale_count": 53,
+      "realized_count": 53,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -22162,15 +21644,15 @@
       "ruler_rarity": null,
       "denomination": "AE Dupondius",
       "metal": "bronze",
-      "sale_count": 1,
-      "realized_count": 1,
+      "sale_count": 2,
+      "realized_count": 2,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 1140.0,
+        "min": 149.0,
         "max": 1140.0
       },
-      "median_price_usd": 1140.0,
+      "median_price_usd": 644.5,
       "last_sale_date": "2021-09-01",
       "grade_distribution": {
         "XF": 1
@@ -22195,15 +21677,15 @@
       "ruler_rarity": null,
       "denomination": "AE Sestertius",
       "metal": "bronze",
-      "sale_count": 4,
-      "realized_count": 4,
+      "sale_count": 31,
+      "realized_count": 31,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 660.0,
+        "min": 149.0,
         "max": 84000.0
       },
-      "median_price_usd": 1410.0,
+      "median_price_usd": 900.0,
       "last_sale_date": "2019-04-29",
       "grade_distribution": {
         "VF": 2,
@@ -22300,13 +21782,13 @@
       "ruler_rarity": null,
       "denomination": "Unknown",
       "metal": "bronze",
-      "sale_count": 23,
-      "realized_count": 23,
+      "sale_count": 46,
+      "realized_count": 46,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 31.0,
-        "max": 1098.0
+        "max": 9600.0
       },
       "median_price_usd": 228.0,
       "last_sale_date": "2025-08-29",
@@ -22517,15 +21999,15 @@
       "ruler_rarity": null,
       "denomination": "AR Drachm",
       "metal": "silver",
-      "sale_count": 37,
-      "realized_count": 37,
+      "sale_count": 38,
+      "realized_count": 38,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 65.0,
         "max": 5760.0
       },
-      "median_price_usd": 276.0,
+      "median_price_usd": 270.0,
       "last_sale_date": "2024-10-14",
       "grade_distribution": {
         "AU": 3,
@@ -22663,15 +22145,15 @@
       "ruler_rarity": null,
       "denomination": "AV Aureus",
       "metal": "gold",
-      "sale_count": 112,
-      "realized_count": 112,
+      "sale_count": 114,
+      "realized_count": 114,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 1680.0,
         "max": 47000.0
       },
-      "median_price_usd": 4680.0,
+      "median_price_usd": 4740.0,
       "last_sale_date": "2026-03-15",
       "grade_distribution": {
         "AU": 9,
@@ -22700,8 +22182,8 @@
       "ruler_rarity": null,
       "denomination": "Unknown",
       "metal": "bronze",
-      "sale_count": 314,
-      "realized_count": 313,
+      "sale_count": 317,
+      "realized_count": 316,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -22873,15 +22355,15 @@
       "ruler_rarity": null,
       "denomination": "AV Solidus",
       "metal": "gold",
-      "sale_count": 49,
-      "realized_count": 49,
+      "sale_count": 50,
+      "realized_count": 50,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 420.0,
         "max": 16800.0
       },
-      "median_price_usd": 1260.0,
+      "median_price_usd": 1280.0,
       "last_sale_date": "2026-02-23",
       "grade_distribution": {
         "AU": 18,
@@ -23079,8 +22561,8 @@
       "ruler_rarity": null,
       "denomination": "AR Siliqua",
       "metal": "silver",
-      "sale_count": 35,
-      "realized_count": 35,
+      "sale_count": 36,
+      "realized_count": 36,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -23115,8 +22597,8 @@
       "ruler_rarity": null,
       "denomination": "AV Solidus",
       "metal": "gold",
-      "sale_count": 155,
-      "realized_count": 155,
+      "sale_count": 157,
+      "realized_count": 157,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -23220,8 +22702,8 @@
       "ruler_rarity": null,
       "denomination": "AE Dupondius",
       "metal": "bronze",
-      "sale_count": 28,
-      "realized_count": 28,
+      "sale_count": 29,
+      "realized_count": 29,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -23256,15 +22738,15 @@
       "ruler_rarity": null,
       "denomination": "AE Sestertius",
       "metal": "bronze",
-      "sale_count": 70,
-      "realized_count": 70,
+      "sale_count": 72,
+      "realized_count": 72,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 94.0,
         "max": 20400.0
       },
-      "median_price_usd": 915.0,
+      "median_price_usd": 945.0,
       "last_sale_date": "2026-03-15",
       "grade_distribution": {
         "AU": 6,
@@ -23295,8 +22777,8 @@
       "ruler_rarity": null,
       "denomination": "AR Denarius",
       "metal": "silver",
-      "sale_count": 533,
-      "realized_count": 533,
+      "sale_count": 536,
+      "realized_count": 536,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -23334,15 +22816,15 @@
       "ruler_rarity": null,
       "denomination": "AR Drachm",
       "metal": "silver",
-      "sale_count": 1,
-      "realized_count": 1,
+      "sale_count": 3,
+      "realized_count": 3,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 89.0,
-        "max": 89.0
+        "max": 169.0
       },
-      "median_price_usd": 89.0,
+      "median_price_usd": 139.0,
       "last_sale_date": "2024-11-25",
       "grade_distribution": {
         "G": 1
@@ -23434,15 +22916,15 @@
       "ruler_rarity": null,
       "denomination": "AR Tetradrachm",
       "metal": "silver",
-      "sale_count": 31,
-      "realized_count": 30,
+      "sale_count": 35,
+      "realized_count": 34,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 44.0,
         "max": 750.0
       },
-      "median_price_usd": 154.0,
+      "median_price_usd": 171.5,
       "last_sale_date": "2026-04-11",
       "grade_distribution": {
         "AU": 2,
@@ -23471,15 +22953,15 @@
       "ruler_rarity": null,
       "denomination": "AV Aureus",
       "metal": "gold",
-      "sale_count": 89,
-      "realized_count": 89,
+      "sale_count": 93,
+      "realized_count": 93,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 1320.0,
         "max": 168000.0
       },
-      "median_price_usd": 4800.0,
+      "median_price_usd": 5280.0,
       "last_sale_date": "2026-02-23",
       "grade_distribution": {
         "AU": 12,
@@ -23654,15 +23136,15 @@
       "ruler_rarity": "scarce",
       "denomination": "AV Aureus",
       "metal": "gold",
-      "sale_count": 16,
-      "realized_count": 16,
+      "sale_count": 17,
+      "realized_count": 17,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 4320.0,
         "max": 120000.0
       },
-      "median_price_usd": 19980.0,
+      "median_price_usd": 19800.0,
       "last_sale_date": "2026-01-12",
       "grade_distribution": {
         "AU": 1,
@@ -25966,15 +25448,15 @@
       "ruler_rarity": null,
       "denomination": "Julius Caesar AR Denarius — Portrait Type",
       "metal": "silver",
-      "sale_count": 93,
-      "realized_count": 93,
+      "sale_count": 30,
+      "realized_count": 30,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 132.0,
-        "max": 720000.0
+        "min": 840.0,
+        "max": 16800.0
       },
-      "median_price_usd": 1680.0,
+      "median_price_usd": 4260.0,
       "last_sale_date": "2026-03-15",
       "grade_distribution": {
         "AU": 12,
@@ -26006,8 +25488,8 @@
       "ruler_rarity": null,
       "denomination": "Tiberius AR Denarius — Tribute Penny",
       "metal": "silver",
-      "sale_count": 643,
-      "realized_count": 643,
+      "sale_count": 659,
+      "realized_count": 659,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -26108,24 +25590,24 @@
     },
     {
       "slug": "byzantine-constantine-iv-av-solidus",
-      "sale_count": 15,
-      "realized_count": 15,
+      "sale_count": 201,
+      "realized_count": 201,
       "fixed_price_count": 0,
-      "median_price_usd": 750.0,
+      "median_price_usd": 780.0,
       "price_range_usd": {
-        "min": 408.0,
-        "max": 7500.0
+        "min": 384.0,
+        "max": 9000.0
       }
     },
     {
       "slug": "byzantine-justinian-i-av-solidus-justinian-i-solidus",
-      "sale_count": 3,
-      "realized_count": 3,
+      "sale_count": 672,
+      "realized_count": 672,
       "fixed_price_count": 0,
-      "median_price_usd": 3760.0,
+      "median_price_usd": 780.0,
       "price_range_usd": {
-        "min": 2880.0,
-        "max": 4560.0
+        "min": 317.25,
+        "max": 28200.0
       }
     },
     {
@@ -26138,6 +25620,263 @@
         "min": 220.0,
         "max": 220.0
       }
+    },
+    {
+      "slug": "roman-constantine-ii-av-solidus",
+      "sale_count": 18,
+      "realized_count": 18,
+      "fixed_price_count": 0,
+      "median_price_usd": 6655.0,
+      "price_range_usd": {
+        "min": 660.0,
+        "max": 39040.0
+      }
+    },
+    {
+      "slug": "roman-constantine-i-av-solidus-constantine-i-solidus",
+      "sale_count": 36,
+      "realized_count": 36,
+      "fixed_price_count": 0,
+      "median_price_usd": 17245.0,
+      "price_range_usd": {
+        "min": 3600.0,
+        "max": 204000.0
+      }
+    },
+    {
+      "slug": "roman-constantine-ii-ae-nummus",
+      "sale_count": 278,
+      "realized_count": 278,
+      "fixed_price_count": 0,
+      "median_price_usd": 109.0,
+      "price_range_usd": {
+        "min": 47.0,
+        "max": 1220.0
+      }
+    },
+    {
+      "slug": "roman-constantine-ii-unknown",
+      "sale_count": 1,
+      "realized_count": 1,
+      "fixed_price_count": 0,
+      "median_price_usd": 129.25,
+      "price_range_usd": {
+        "min": 129.25,
+        "max": 129.25
+      }
+    },
+    {
+      "slug": "roman-titus-av-aureus",
+      "sale_count": 50,
+      "realized_count": 50,
+      "fixed_price_count": 0,
+      "median_price_usd": 6800.0,
+      "price_range_usd": {
+        "min": 1920.0,
+        "max": 57600.0
+      }
+    },
+    {
+      "slug": "roman-geta-av-aureus",
+      "sale_count": 2,
+      "realized_count": 2,
+      "fixed_price_count": 0,
+      "median_price_usd": 29400.0,
+      "price_range_usd": {
+        "min": 18000.0,
+        "max": 40800.0
+      }
+    },
+    {
+      "slug": "roman-constantine-ii-ae-follis",
+      "sale_count": 3,
+      "realized_count": 3,
+      "fixed_price_count": 0,
+      "median_price_usd": 84.0,
+      "price_range_usd": {
+        "min": 74.0,
+        "max": 336.0
+      }
+    },
+    {
+      "slug": "roman-constantius-ii-ae-follis",
+      "sale_count": 1,
+      "realized_count": 1,
+      "fixed_price_count": 0,
+      "median_price_usd": 40.0,
+      "price_range_usd": {
+        "min": 40.0,
+        "max": 40.0
+      }
+    },
+    {
+      "slug": "roman-geta-ae-sestertius",
+      "sale_count": 3,
+      "realized_count": 3,
+      "fixed_price_count": 0,
+      "median_price_usd": 1800.0,
+      "price_range_usd": {
+        "min": 960.0,
+        "max": 4800.0
+      }
+    },
+    {
+      "slug": "roman-tiberius-ar-drachm",
+      "sale_count": 7,
+      "realized_count": 7,
+      "fixed_price_count": 0,
+      "median_price_usd": 870.0,
+      "price_range_usd": {
+        "min": 216.0,
+        "max": 1800.0
+      }
+    },
+    {
+      "slug": "roman-gordian-iii-ar-drachm",
+      "sale_count": 11,
+      "realized_count": 11,
+      "fixed_price_count": 0,
+      "median_price_usd": 119.0,
+      "price_range_usd": {
+        "min": 89.0,
+        "max": 493.5
+      }
+    },
+    {
+      "slug": "roman-septimius-severus-ar-drachm",
+      "sale_count": 4,
+      "realized_count": 4,
+      "fixed_price_count": 0,
+      "median_price_usd": 101.5,
+      "price_range_usd": {
+        "min": 71.0,
+        "max": 126.0
+      }
+    },
+    {
+      "slug": "roman-julia-domna-ar-drachm",
+      "sale_count": 4,
+      "realized_count": 4,
+      "fixed_price_count": 0,
+      "median_price_usd": 131.5,
+      "price_range_usd": {
+        "min": 64.0,
+        "max": 312.0
+      }
+    },
+    {
+      "slug": "roman-geta-ar-drachm",
+      "sale_count": 1,
+      "realized_count": 1,
+      "fixed_price_count": 0,
+      "median_price_usd": 134.0,
+      "price_range_usd": {
+        "min": 134.0,
+        "max": 134.0
+      }
+    },
+    {
+      "slug": "roman-geta-ae-dupondius",
+      "sale_count": 1,
+      "realized_count": 1,
+      "fixed_price_count": 0,
+      "median_price_usd": 540.0,
+      "price_range_usd": {
+        "min": 540.0,
+        "max": 540.0
+      }
+    },
+    {
+      "slug": "roman-gordian-iii-ae-dupondius",
+      "sale_count": 1,
+      "realized_count": 1,
+      "fixed_price_count": 0,
+      "median_price_usd": 504.0,
+      "price_range_usd": {
+        "min": 504.0,
+        "max": 504.0
+      }
+    },
+    {
+      "slug": "roman-caracalla-ae-dupondius",
+      "sale_count": 1,
+      "realized_count": 1,
+      "fixed_price_count": 0,
+      "median_price_usd": 552.0,
+      "price_range_usd": {
+        "min": 552.0,
+        "max": 552.0
+      }
+    },
+    {
+      "slug": "roman-marcus-aurelius-ae-follis",
+      "sale_count": 1,
+      "realized_count": 1,
+      "fixed_price_count": 0,
+      "median_price_usd": 4400.0,
+      "price_range_usd": {
+        "min": 4400.0,
+        "max": 4400.0
+      }
+    },
+    {
+      "slug": "roman-constantine-ii-ar-siliqua",
+      "sale_count": 2,
+      "realized_count": 2,
+      "fixed_price_count": 0,
+      "median_price_usd": 984.0,
+      "price_range_usd": {
+        "min": 288.0,
+        "max": 1680.0
+      }
+    },
+    {
+      "slug": "byzantine-tiberius-ii-av-tremissis",
+      "sale_count": 22,
+      "realized_count": 22,
+      "fixed_price_count": 0,
+      "median_price_usd": 438.6,
+      "price_range_usd": {
+        "min": 228.0,
+        "max": 1620.0
+      }
+    },
+    {
+      "slug": "byzantine-maurice-tiberius-av-tremissis",
+      "sale_count": 64,
+      "realized_count": 64,
+      "fixed_price_count": 0,
+      "median_price_usd": 456.0,
+      "price_range_usd": {
+        "min": 168.0,
+        "max": 900.0
+      }
+    },
+    {
+      "slug": "byzantine-constantine-ix-av-nomisma",
+      "category": "byzantine",
+      "ruler": "Constantine IX",
+      "ruler_normalized": "constantine-ix",
+      "dynasty": "Post-Macedonian",
+      "ruler_dates": "AD 1042–1055",
+      "ruler_rarity": null,
+      "denomination": "AV Nomisma",
+      "metal": "gold",
+      "sale_count": 172,
+      "realized_count": 171,
+      "fixed_price_count": 1,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 432.0,
+        "max": 10200.0
+      },
+      "median_price_usd": 1020.0,
+      "last_sale_date": "2026-03-24",
+      "grade_distribution": {
+        "MS": 2,
+        "AU": 3
+      },
+      "thumbnail_url": "https://media.coinarchives.com/178fafdf08bc73d50a35a66a1e60cc37/img/ponterio/236/image45607.jpg"
     }
   ]
 }

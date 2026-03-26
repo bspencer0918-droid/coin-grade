@@ -21,12 +21,36 @@ DRY_RUN     = "--dry-run" in sys.argv
 
 # Files to reclassify (slug -> file path)
 TARGETS = [
+    # Already cleaned up — re-run to apply new keyword fixes
     "roman-julius-caesar-ar-denarius",
     "roman-mark-antony-ar-denarius",
     "roman-augustus-ar-denarius",
     "roman-tiberius-av-solidus",
     "roman-augustus-unknown",
     "roman-ar-denarius",
+    # New: type-split parent files (all coins move to type-specific child files)
+    "byzantine-justinian-i-av-solidus",
+    # New: legacy files with pre-fix misclassification
+    "roman-constantine-i-av-solidus",
+    "roman-julius-caesar-ae-nummus",
+    "roman-julius-caesar-unknown",
+    "roman-julius-caesar-av-aureus",
+    "roman-julius-caesar-ae-follis",
+    "roman-julius-caesar-ae-sestertius",
+    "roman-julius-caesar-av-solidus",
+    "roman-julius-caesar-ar-tetradrachm",
+    "roman-julius-caesar-ar-drachm",
+    "roman-julius-caesar-ar-denarius-portrait-denarius",
+    "roman-augustus-av-aureus",
+    "roman-augustus-ae-sestertius",
+    "roman-augustus-ae-dupondius",
+    "roman-augustus-av-solidus",
+    "roman-augustus-ae-nummus",
+    "roman-augustus-ae-follis",
+    "roman-augustus-ar-tetradrachm",
+    "roman-augustus-ar-siliqua",
+    "roman-tiberius-av-tremissis",
+    "roman-constantine-i-av-nomisma",
 ]
 
 

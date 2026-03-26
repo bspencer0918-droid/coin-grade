@@ -9,7 +9,7 @@ roman:
     slug: "julius-caesar"
     dynasty: "Roman Republic"
     dates: "44 BC"
-    keywords: ["julius caesar", "c. julius caesar", "divus julius", "as dictator (49-44", "as dictator (49", "dictator perpetuo"]
+    keywords: ["c. julius caesar", "divus julius", "as dictator (49-44", "as dictator (49", "dictator perpetuo", "julius caesar (49", "julius caesar (ca. 49", "julius caesar (100", "julius caesar, as imperator", "julius caesar, as dictator", "julius caesar, dictator"]
   - name: "Mark Antony"
     slug: "mark-antony"
     dynasty: "Roman Republic"
@@ -210,7 +210,7 @@ roman:
     slug: "constantine-i"
     dynasty: "Constantinian"
     dates: "AD 307–337"
-    keywords: ["constantine i (ad", "constantine i (ca", "constantine the great", "constantine i,", "imp constantinvs", "d n fl constantinvs"]
+    keywords: ["constantine i the great", "constantine i (ad", "constantine i (ca", "constantine the great", "constantine i,", "imp constantinvs", "d n fl constantinvs", "fl val constantinus", "fl. val. constantinus"]
   - name: "Constantine II"
     slug: "constantine-ii"
     dynasty: "Constantinian"
