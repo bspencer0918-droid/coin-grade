@@ -8103,9 +8103,9 @@
     {
       "slug": "other-ar-siglos",
       "category": "other",
-      "ruler": null,
+      "ruler": "Sigloi / Daric (generic)",
       "ruler_normalized": null,
-      "dynasty": null,
+      "dynasty": "Achaemenid",
       "ruler_dates": null,
       "ruler_rarity": null,
       "denomination": "AR Siglos",
@@ -25597,7 +25597,12 @@
       "price_range_usd": {
         "min": 384.0,
         "max": 9000.0
-      }
+      },
+      "denomination": "AV Solidus",
+      "ruler": "Constantine IV",
+      "category": "byzantine",
+      "dynasty": "Heraclian",
+      "ruler_dates": "AD 668â€“685"
     },
     {
       "slug": "byzantine-justinian-i-av-solidus-justinian-i-solidus",
@@ -25608,7 +25613,12 @@
       "price_range_usd": {
         "min": 317.25,
         "max": 28200.0
-      }
+      },
+      "denomination": "AV Solidus",
+      "ruler": "Justinian I",
+      "category": "byzantine",
+      "dynasty": "Justinian",
+      "ruler_dates": "AD 527â€“565"
     },
     {
       "slug": "roman-decius-unknown",
@@ -25630,7 +25640,12 @@
       "price_range_usd": {
         "min": 660.0,
         "max": 39040.0
-      }
+      },
+      "denomination": "AV Solidus",
+      "ruler": "Constantine II",
+      "category": "roman",
+      "dynasty": "Constantinian",
+      "ruler_dates": "AD 337â€“340"
     },
     {
       "slug": "roman-constantine-i-av-solidus-constantine-i-solidus",
@@ -25641,7 +25656,12 @@
       "price_range_usd": {
         "min": 3600.0,
         "max": 204000.0
-      }
+      },
+      "denomination": "AV Solidus",
+      "ruler": "Constantine I",
+      "category": "roman",
+      "dynasty": "Constantinian",
+      "ruler_dates": "AD 307â€“337"
     },
     {
       "slug": "roman-constantine-ii-ae-nummus",
@@ -25652,7 +25672,12 @@
       "price_range_usd": {
         "min": 47.0,
         "max": 1220.0
-      }
+      },
+      "denomination": "AE Nummus",
+      "ruler": "Constantine II",
+      "category": "roman",
+      "dynasty": "Constantinian",
+      "ruler_dates": "AD 337â€“340"
     },
     {
       "slug": "roman-constantine-ii-unknown",
@@ -25674,7 +25699,12 @@
       "price_range_usd": {
         "min": 1920.0,
         "max": 57600.0
-      }
+      },
+      "denomination": "AV Aureus",
+      "ruler": "Titus",
+      "category": "roman",
+      "dynasty": "Flavian",
+      "ruler_dates": "AD 79â€“81"
     },
     {
       "slug": "roman-geta-av-aureus",
@@ -25696,7 +25726,12 @@
       "price_range_usd": {
         "min": 74.0,
         "max": 336.0
-      }
+      },
+      "denomination": "AE Follis",
+      "ruler": "Constantine II",
+      "category": "roman",
+      "dynasty": "Constantinian",
+      "ruler_dates": "AD 337â€“340"
     },
     {
       "slug": "roman-constantius-ii-ae-follis",
@@ -25718,7 +25753,12 @@
       "price_range_usd": {
         "min": 960.0,
         "max": 4800.0
-      }
+      },
+      "denomination": "AE Sestertius",
+      "ruler": "Geta",
+      "category": "roman",
+      "dynasty": "Severan",
+      "ruler_dates": "AD 209â€“211"
     },
     {
       "slug": "roman-tiberius-ar-drachm",
@@ -25729,7 +25769,12 @@
       "price_range_usd": {
         "min": 216.0,
         "max": 1800.0
-      }
+      },
+      "denomination": "AR Drachm",
+      "ruler": "Tiberius",
+      "category": "roman",
+      "dynasty": "Julio-Claudian",
+      "ruler_dates": "AD 14â€“37"
     },
     {
       "slug": "roman-gordian-iii-ar-drachm",
@@ -25740,7 +25785,12 @@
       "price_range_usd": {
         "min": 89.0,
         "max": 493.5
-      }
+      },
+      "denomination": "AR Drachm",
+      "ruler": "Gordian III",
+      "category": "roman",
+      "dynasty": "Crisis of the Third Century",
+      "ruler_dates": "AD 238â€“244"
     },
     {
       "slug": "roman-septimius-severus-ar-drachm",
@@ -25751,7 +25801,12 @@
       "price_range_usd": {
         "min": 71.0,
         "max": 126.0
-      }
+      },
+      "denomination": "AR Drachm",
+      "ruler": "Septimius Severus",
+      "category": "roman",
+      "dynasty": "Severan",
+      "ruler_dates": "AD 193â€“211"
     },
     {
       "slug": "roman-julia-domna-ar-drachm",
@@ -25762,7 +25817,12 @@
       "price_range_usd": {
         "min": 64.0,
         "max": 312.0
-      }
+      },
+      "denomination": "AR Drachm",
+      "ruler": "Julia Domna",
+      "category": "roman",
+      "dynasty": "Severan",
+      "ruler_dates": "AD 193â€“217"
     },
     {
       "slug": "roman-geta-ar-drachm",
@@ -25839,7 +25899,12 @@
       "price_range_usd": {
         "min": 228.0,
         "max": 1620.0
-      }
+      },
+      "denomination": "AV Tremissis",
+      "ruler": "Tiberius II",
+      "category": "byzantine",
+      "dynasty": "Justinian",
+      "ruler_dates": "AD 578â€“582"
     },
     {
       "slug": "byzantine-maurice-tiberius-av-tremissis",
@@ -25850,7 +25915,12 @@
       "price_range_usd": {
         "min": 168.0,
         "max": 900.0
-      }
+      },
+      "denomination": "AV Tremissis",
+      "ruler": "Maurice Tiberius",
+      "category": "byzantine",
+      "dynasty": "Justinian",
+      "ruler_dates": "AD 582â€“602"
     },
     {
       "slug": "byzantine-constantine-ix-av-nomisma",
