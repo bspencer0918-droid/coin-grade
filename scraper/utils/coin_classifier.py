@@ -67,7 +67,6 @@ def detect_coin_type(base_slug: str, title: str, description: str = "") -> Optio
     The full slug would be:  base_slug + '-' + type_id
     e.g.  greek-athens-ar-tetradrachm-classical-owl
     """
-    full_text = f"{title} {description}"
     for entry in _load_taxonomy():
         if entry["parent_slug"] != base_slug:
             continue
@@ -79,6 +78,19 @@ def detect_coin_type(base_slug: str, title: str, description: str = "") -> Optio
         for pat in entry["rev_pats"]:
             if pat.search(description):
                 return entry["id"]
+    return None
+
+
+def get_coin_type_info(slug: str) -> Optional[dict]:
+    """
+    For a full type slug (e.g. 'greek-athens-ar-tetradrachm-classical-owl'),
+    return the taxonomy entry dict (label, date_range, relative_value, etc.)
+    or None if not found.
+    """
+    for entry in _load_taxonomy():
+        expected = f"{entry['parent_slug']}-{entry['id']}"
+        if slug == expected:
+            return entry
     return None
 
 

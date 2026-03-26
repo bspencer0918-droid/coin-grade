@@ -88,9 +88,21 @@ export interface CoinSummary {
   mint_mark:           string | null   // e.g. "D", "S", "CC", "" = Philadelphia
 }
 
+// Type metadata from coin_type_taxonomy.yaml (present on type-specific pages)
+export interface CoinTypeInfo {
+  label:          string
+  date_range:     string
+  notes:          string
+  relative_value: number
+  rarity:         string
+  sear:           number[]
+  ric:            number[]
+}
+
 // Full coin type with complete price history (lazy-loaded per coin)
 export interface CoinDetail extends CoinSummary {
-  sales: Sale[]
+  sales:     Sale[]
+  type_info?: CoinTypeInfo
 }
 
 // data/meta.json

@@ -334,6 +334,41 @@ export function renderCoinPage(coin: CoinDetail, allCoins: CoinSummary[] = []): 
         </div>
       </section>
 
+      <!-- Collector notes (taxonomy knowledge for this specific type) -->
+      ${coin.type_info?.notes ? `
+        <section class="card p-5">
+          <div class="flex items-start gap-4">
+            <div class="text-2xl mt-0.5 shrink-0">📚</div>
+            <div class="flex-1">
+              <div class="flex flex-wrap items-center gap-2 mb-2">
+                <div class="card-header">Collector Notes</div>
+                ${coin.type_info.date_range ? `<span class="text-xs text-stone-500">${coin.type_info.date_range}</span>` : ''}
+                ${coin.type_info.relative_value && coin.type_info.relative_value !== 1.0
+                  ? `<span class="px-2 py-0.5 rounded text-xs border ${
+                      coin.type_info.relative_value >= 3 ? 'bg-amber-900/40 text-amber-300 border-amber-700' :
+                      coin.type_info.relative_value >= 1.5 ? 'bg-teal-900/40 text-teal-300 border-teal-700' :
+                      'bg-stone-800 text-stone-400 border-stone-600'
+                    }">${coin.type_info.relative_value}× relative value</span>`
+                  : ''}
+                ${coin.type_info.rarity && coin.type_info.rarity !== 'common' && coin.type_info.rarity !== 'very_common'
+                  ? `<span class="px-2 py-0.5 rounded text-xs border bg-stone-800 text-stone-400 border-stone-600 capitalize">${coin.type_info.rarity.replace('_', ' ')}</span>`
+                  : ''}
+              </div>
+              <p class="text-sm text-stone-400 leading-relaxed">${coin.type_info.notes}</p>
+              ${(coin.type_info.sear?.length || coin.type_info.ric?.length) ? `
+                <div class="mt-3 flex flex-wrap gap-2">
+                  ${coin.type_info.sear?.length ? coin.type_info.sear.map(n =>
+                    `<span class="px-2 py-0.5 rounded text-xs border bg-stone-900 text-stone-400 border-stone-700 font-mono">Sear ${n}</span>`
+                  ).join('') : ''}
+                  ${coin.type_info.ric?.length ? coin.type_info.ric.map(n =>
+                    `<span class="px-2 py-0.5 rounded text-xs border bg-stone-900 text-stone-400 border-stone-700 font-mono">RIC ${n}</span>`
+                  ).join('') : ''}
+                </div>` : ''}
+            </div>
+          </div>
+        </section>
+      ` : ''}
+
       <!-- Related types (other varieties/periods of same coin family) -->
       ${relatedTypesHTML}
 
