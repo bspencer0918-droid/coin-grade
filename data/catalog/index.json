@@ -25586,7 +25586,18 @@
       "dominant_service": "ngc",
       "series": null,
       "date_struck": null,
-      "mint_mark": null
+      "mint_mark": null,
+      "type_info": {
+        "label": "Mark Antony AR Denarius â€” Legionary",
+        "date_range": "32â€“31 BC",
+        "notes": "Struck by Mark Antony to pay his legions before Actium. Obv: galley right, ANT AVG legend. Rev: eagle between standards, legion number (LEG I through LEG XXIII, etc.). The most common Antony denarius type. Specific legion number affects rarity and value. Silver quality is notably poor (debased), often rough surfaces. Still extremely popular with collectors for historical significance.",
+        "relative_value": 1.0,
+        "rarity": "very_common",
+        "sear": [
+          1479
+        ],
+        "ric": []
+      }
     },
     {
       "slug": "byzantine-constantine-iv-av-solidus",
@@ -25618,7 +25629,18 @@
       "ruler": "Justinian I",
       "category": "byzantine",
       "dynasty": "Justinian",
-      "ruler_dates": "AD 527â€“565"
+      "ruler_dates": "AD 527â€“565",
+      "type_info": {
+        "label": "Justinian I AV Solidus",
+        "date_range": "AD 527â€“565",
+        "notes": "Most common Byzantine solidus. Helmeted bust on obverse, Victory on reverse. High mintage, many survive. Good condition examples common. Officina letters affect rarity marginally. Still desirable due to historical importance of Justinian's reign.",
+        "relative_value": 1.0,
+        "rarity": "very_common",
+        "sear": [
+          137
+        ],
+        "ric": []
+      }
     },
     {
       "slug": "roman-decius-unknown",
@@ -25661,7 +25683,18 @@
       "ruler": "Constantine I",
       "category": "roman",
       "dynasty": "Constantinian",
-      "ruler_dates": "AD 307â€“337"
+      "ruler_dates": "AD 307â€“337",
+      "type_info": {
+        "label": "Constantine I AV Solidus",
+        "date_range": "AD 307â€“337",
+        "notes": "First Christian emperor. Popular with collectors for historical and religious significance. Many mint varieties â€” Constantinople, Trier, Nicomedia, Antioch, etc. Mint matters for price.",
+        "relative_value": 1.5,
+        "rarity": "common",
+        "sear": [
+          16236
+        ],
+        "ric": []
+      }
     },
     {
       "slug": "roman-constantine-ii-ae-nummus",
