@@ -18,9 +18,18 @@ export interface NGCInfo {
   grade_numeric:       number | null     // e.g. 62 in "MS 62", 65 in "MS-65"
   strike_score:        number | null     // 1–5 (NGC ancients only)
   surface_score:       number | null     // 1–5 (NGC ancients only)
-  details_grade:       string | null     // e.g. "Cleaning" — means coin has issues
+  details_grade:       string | null     // e.g. "Cleaning", "Light Graffito" — coin has issues
+  fine_style?:         boolean           // NGC "Fine Style" designation — exceptional artistry, adds significant premium
   certification_url:   string | null
   grading_service:     string            // "ngc" | "pcgs"
+}
+
+// Per-grade price statistics (computed from realized auction sales)
+export interface GradePriceData {
+  median: number
+  min:    number
+  max:    number
+  count:  number
 }
 
 export interface Sale {

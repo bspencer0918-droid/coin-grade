@@ -70,7 +70,8 @@ class NGCInfo(BaseModel):
     grade_numeric:     Optional[int]  = None   # e.g. 62 in "MS 62", 65 in "MS-65"
     strike_score:      Optional[int]  = None   # 1–5 (NGC ancients only)
     surface_score:     Optional[int]  = None   # 1–5 (NGC ancients only)
-    details_grade:     Optional[str]  = None   # e.g. "Cleaning"
+    details_grade:     Optional[str]  = None   # e.g. "Cleaning", "Light Graffito" — coin has issues
+    fine_style:        bool           = False  # NGC "Fine Style" designation (exceptional artistry)
     certification_url: Optional[str]  = None
     grading_service:   str            = "ngc"  # "ngc" | "pcgs"
 

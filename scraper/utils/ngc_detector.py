@@ -65,6 +65,42 @@ _GENERIC_PAT = re.compile(
     re.IGNORECASE,
 )
 
+# Fine Style: NGC "Fine Style" designation — exceptional artistic quality
+_FINE_STYLE_PAT = re.compile(r'\bFine\s+Style\b', re.IGNORECASE)
+
+# Issue keywords recognised as NGC details conditions
+_ISSUE_KW = (
+    r'light\s+graffito|graffito|graffiti'
+    r'|banker\'?s?\s+mark'
+    r'|smoothed'
+    r'|tooled'
+    r'|lightly?\s+scratched?|scratched?|light\s+scratch'
+    r'|test\s+cut'
+    r'|clipped'
+    r'|mount\s+removed|ex[-\s]mount'
+    r'|edge\s+fil[ei]ng'
+    r'|harshly?\s+cleaned?|lightly?\s+cleaned?|cleaning|cleaned'
+    r'|porous|porosity'
+    r'|corrosion|corroded'
+    r'|holed|plugged'
+    r'|countermarked?'
+    r'|overstruck'
+    r'|environmental\s+damage'
+    r'|rim\s+nick|rim\s+filing'
+)
+
+# Heritage/CNG comma-issue format: "NGC Grade[?] 5/5 - 4/5, light graffito"
+_COMMA_ISSUE_PAT = re.compile(
+    r'\bNGC\b.{0,60},\s*(' + _ISSUE_KW + r')',
+    re.IGNORECASE,
+)
+
+# "NGC [Grade]?" — trailing question mark = details/questionable grade
+_DETAILS_Q_PAT = re.compile(
+    r'\bNGC\b[^.\n]{0,40}\b(?:MS|AU|XF|EF|VF|F|VG|G|AG)\b\s*\?',
+    re.IGNORECASE,
+)
+
 # Grade normalization map
 _GRADE_MAP: dict[str, NGCGrade] = {
     "MS": NGCGrade.MS, "AU": NGCGrade.AU,
@@ -122,11 +158,24 @@ def detect_ngc(title: str, description: str = "", raw_cert_text: str = "") -> NG
         if m_standalone:
             cert_number = m_standalone.group(1)
 
-    # Details grade (e.g. "NGC VF Details - Cleaning")
+    # Fine Style designation
+    fine_style = bool(_FINE_STYLE_PAT.search(full_text))
+
+    # Details grade — try three formats in order:
+    #   1. Standard NGC label: "NGC VF Details - Cleaning"
+    #   2. Heritage/CNG comma format: "NGC Choice AU, light graffito"
+    #   3. Questionable grade marker: "NGC XF?"
     details_grade = None
-    details_match = re.search(r'Details?\s*[-–]\s*([A-Za-z\s]+)', full_text)
-    if details_match and grade:
-        details_grade = details_match.group(1).strip()
+    m_details = re.search(r'\bDetails?\s*[-–]\s*([A-Za-z][A-Za-z\s]{2,35})', full_text)
+    if m_details:
+        details_grade = m_details.group(1).strip().rstrip('.,;')
+    else:
+        m_issue = _COMMA_ISSUE_PAT.search(full_text)
+        if m_issue:
+            # Normalise to title-case, e.g. "light graffito" → "Light Graffito"
+            details_grade = m_issue.group(1).strip().title()
+        elif _DETAILS_Q_PAT.search(full_text):
+            details_grade = "Details (unspecified)"
 
     has_ngc = bool(grade or _GENERIC_PAT.search(full_text))
 
@@ -138,6 +187,7 @@ def detect_ngc(title: str, description: str = "", raw_cert_text: str = "") -> NG
         strike_score=strike_score,
         surface_score=surface_score,
         details_grade=details_grade,
+        fine_style=fine_style,
         certification_url=f"https://www.ngccoin.com/certlookup/{cert_number.replace('-', '')}/" if cert_number else None,
     ) if has_ngc else NGCInfo(verified=False)
 

@@ -1,7 +1,7 @@
 // ============================================================
 // Individual coin detail page
 // ============================================================
-import type { CoinDetail, ListingType, Sale, NGCGrade } from '../types/coin.ts'
+import type { CoinDetail, GradePriceData, ListingType, Sale, NGCGrade } from '../types/coin.ts'
 import { NGC_GRADE_ORDER } from '../types/coin.ts'
 import { renderSourceBadge } from '../components/SourceBadge.ts'
 import { renderGradeBreakdown } from '../components/GradeBreakdown.ts'
@@ -11,6 +11,90 @@ import { href } from '../router.ts'
 const GRADE_BADGE: Record<NGCGrade, string> = {
   MS:'badge-ms', AU:'badge-au', XF:'badge-xf', VF:'badge-vf',
   F:'badge-f', VG:'badge-vg', G:'badge-g', AG:'badge-ag', P:'badge-g',
+}
+
+// ---------------------------------------------------------------------------
+// Grade-by-price helpers
+// ---------------------------------------------------------------------------
+
+function computeGradePrices(sales: Sale[]): Partial<Record<NGCGrade, GradePriceData>> {
+  const groups: Partial<Record<NGCGrade, number[]>> = {}
+  for (const sale of sales) {
+    if (sale.listing_type !== 'auction_realized') continue
+    if (!sale.ngc.grade) continue
+    if (!groups[sale.ngc.grade]) groups[sale.ngc.grade] = []
+    groups[sale.ngc.grade]!.push(sale.hammer_price_usd)
+  }
+  const result: Partial<Record<NGCGrade, GradePriceData>> = {}
+  for (const [grade, prices] of Object.entries(groups) as [NGCGrade, number[]][]) {
+    if (prices.length < 3) continue   // too few sales for meaningful stats
+    const sorted = [...prices].sort((a, b) => a - b)
+    const mid    = Math.floor(sorted.length / 2)
+    const median = sorted.length % 2 === 0
+      ? (sorted[mid - 1] + sorted[mid]) / 2
+      : sorted[mid]
+    result[grade] = { median, min: sorted[0], max: sorted[sorted.length - 1], count: prices.length }
+  }
+  return result
+}
+
+function renderGradeByPrice(gradePrices: Partial<Record<NGCGrade, GradePriceData>>): string {
+  const grades = NGC_GRADE_ORDER.filter(g => gradePrices[g])
+  if (grades.length === 0) return ''
+
+  const maxMedian = Math.max(...grades.map(g => gradePrices[g]!.median))
+
+  const rows = grades.map(grade => {
+    const d      = gradePrices[grade]!
+    const pct    = maxMedian > 0 ? Math.round((d.median / maxMedian) * 100) : 0
+    const badge  = GRADE_BADGE[grade] ?? 'badge-grade bg-stone-800 text-stone-300'
+    return `
+      <tr class="border-b border-stone-900 last:border-0 hover:bg-stone-900/30 transition-colors">
+        <td class="py-2.5 pr-4 w-14">
+          <span class="${badge} text-xs px-2 py-0.5 rounded font-mono">${grade}</span>
+        </td>
+        <td class="py-2.5 pr-6 text-stone-500 font-mono text-xs text-right whitespace-nowrap">
+          ${d.count.toLocaleString()} sale${d.count !== 1 ? 's' : ''}
+        </td>
+        <td class="py-2.5 pr-4 min-w-[8rem]">
+          <div class="flex items-center gap-2">
+            <div class="flex-1 bg-stone-900 rounded-full h-1.5 min-w-[60px]">
+              <div class="h-1.5 rounded-full bg-gold-500 opacity-70" style="width:${pct}%"></div>
+            </div>
+          </div>
+        </td>
+        <td class="py-2.5 pr-6 text-gold-400 font-mono font-semibold text-sm text-right whitespace-nowrap">
+          ${formatUSD(d.median)}
+        </td>
+        <td class="py-2.5 text-stone-500 font-mono text-xs text-right whitespace-nowrap hidden sm:table-cell">
+          ${formatUSD(d.min)} – ${formatUSD(d.max)}
+        </td>
+      </tr>
+    `
+  }).join('')
+
+  return `
+    <section class="card p-5">
+      <div class="flex items-baseline gap-3 mb-1">
+        <div class="card-header">Price by Grade</div>
+        <div class="text-xs text-stone-600">auction realized · median of ${grades.reduce((n, g) => n + gradePrices[g]!.count, 0).toLocaleString()} sales</div>
+      </div>
+      <div class="overflow-x-auto mt-4">
+        <table class="w-full">
+          <thead>
+            <tr class="border-b border-stone-800">
+              <th class="text-left pb-2 text-stone-600 font-display text-xs uppercase tracking-wider">Grade</th>
+              <th class="text-right pb-2 text-stone-600 font-display text-xs uppercase tracking-wider pr-6">Count</th>
+              <th class="pb-2"></th>
+              <th class="text-right pb-2 text-stone-600 font-display text-xs uppercase tracking-wider pr-6">Median</th>
+              <th class="text-right pb-2 text-stone-600 font-display text-xs uppercase tracking-wider hidden sm:table-cell">Range</th>
+            </tr>
+          </thead>
+          <tbody>${rows}</tbody>
+        </table>
+      </div>
+    </section>
+  `
 }
 
 function formatUSD(n: number): string {
@@ -27,9 +111,40 @@ function saleRow(sale: Sale): string {
   const ngc = sale.ngc
   const lt  = LISTING_TYPE_CONFIG[sale.listing_type ?? 'auction_realized']
 
-  const grade = ngc.grade
+  // Grade badge
+  const gradeBadge = ngc.grade
     ? `<span class="${GRADE_BADGE[ngc.grade] ?? 'badge-grade bg-stone-800 text-stone-300'}">${ngc.grade}${ngc.grade_numeric ? ` ${ngc.grade_numeric}` : ''}</span>`
     : '—'
+
+  // Strike / surface scores
+  const scores = (ngc.strike_score != null && ngc.surface_score != null)
+    ? `<div class="text-xs text-stone-500 mt-0.5 font-mono">
+         Strike ${ngc.strike_score}/5 &middot; Surface ${ngc.surface_score}/5
+       </div>`
+    : ''
+
+  // Issue badge (details grade — blemish warning)
+  const issueBadge = ngc.details_grade
+    ? `<div class="mt-1">
+         <span class="inline-flex items-center gap-1 px-1.5 py-0.5 rounded border
+                      bg-amber-900/40 text-amber-300 border-amber-700 text-xs">
+           ⚠ ${ngc.details_grade}
+         </span>
+       </div>`
+    : ''
+
+  // Fine Style badge (positive designation — exceptional artistry)
+  const fineStyleBadge = ngc.fine_style
+    ? `<div class="mt-1">
+         <span class="inline-flex items-center gap-1 px-1.5 py-0.5 rounded border
+                      bg-teal-900/40 text-teal-300 border-teal-700 text-xs">
+           ★ Fine Style
+         </span>
+       </div>`
+    : ''
+
+  const gradeCell = `<div>${gradeBadge}${scores}${issueBadge}${fineStyleBadge}</div>`
+
   const certLink = ngc.certification_url
     ? `<a href="${ngc.certification_url}" target="_blank" rel="noopener noreferrer"
           class="text-gold-500 hover:text-gold-300 font-mono text-xs">${ngc.cert_number}</a>`
@@ -56,7 +171,7 @@ function saleRow(sale: Sale): string {
           ${sale.title}
         </a>
       </td>
-      <td class="table-cell">${grade}</td>
+      <td class="table-cell">${gradeCell}</td>
       <td class="table-cell">
         <div class="${priceColor} font-mono">${formatUSD(sale.hammer_price_usd)}</div>
         <div class="text-xs mt-0.5">
@@ -81,6 +196,10 @@ export function renderCoinPage(coin: CoinDetail): string {
                                 'bg-amber-900/40  text-amber-400  border-amber-800'}">
     ${coin.metal}
   </span>`
+
+  // Grade-by-price stats (computed from auction realized sales)
+  const gradePrices    = computeGradePrices(coin.sales)
+  const gradePriceHTML = renderGradeByPrice(gradePrices)
 
   // Sort sales by date desc
   const sortedSales = [...coin.sales].sort((a, b) => b.sale_date.localeCompare(a.sale_date))
@@ -153,6 +272,9 @@ export function renderCoinPage(coin: CoinDetail): string {
           </div>
         </div>
       </section>
+
+      <!-- Price by grade (KBB-style value guide) -->
+      ${gradePriceHTML}
 
       <!-- Grade breakdown -->
       <section class="card p-5">
