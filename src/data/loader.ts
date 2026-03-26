@@ -37,3 +37,18 @@ export async function loadRulerIndex(category: string): Promise<{ rulers: Array<
 export async function loadHistory(civ: string): Promise<HistoryCivilization> {
   return fetchJSON<HistoryCivilization>(`history/${civ}.json`)
 }
+
+export interface WildwindsEntry {
+  ric: number[]
+  sear: number[]
+  desc: string
+  img: string | null
+}
+
+export async function loadWildwindsRef(slug: string): Promise<WildwindsEntry[]> {
+  try {
+    return await fetchJSON<WildwindsEntry[]>(`wildwinds/${slug}.json`)
+  } catch {
+    return []
+  }
+}

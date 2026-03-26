@@ -7,6 +7,7 @@ import { renderSourceBadge } from '../components/SourceBadge.ts'
 import { renderGradeBreakdown } from '../components/GradeBreakdown.ts'
 import { renderPriceChartContainer, mountPriceChart } from '../components/PriceChart.ts'
 import { href } from '../router.ts'
+import type { WildwindsEntry } from '../data/loader.ts'
 
 const GRADE_BADGE: Record<NGCGrade, string> = {
   MS:'badge-ms', AU:'badge-au', XF:'badge-xf', VF:'badge-vf',
@@ -245,7 +246,49 @@ function renderRelatedTypes(coin: CoinDetail, allCoins: CoinSummary[]): string {
   `
 }
 
-export function renderCoinPage(coin: CoinDetail, allCoins: CoinSummary[] = []): string {
+function renderWildwindsRef(entries: WildwindsEntry[], slug: string): string {
+  if (entries.length === 0) return ''
+  const shown = entries.slice(0, 15)
+  const ruler = slug.split('-').slice(1, -2).join('-')  // e.g. 'hadrian'
+  const wwUrl = `https://www.wildwinds.com/coins/ric/${ruler.replace('-', '_')}/t.html`
+
+  const rows = shown.map(e => {
+    const refs = [
+      ...e.ric.map(n  => `<span class="font-mono text-xs text-stone-500 border border-stone-800 px-1.5 py-0.5 rounded bg-stone-900/60">RIC ${n}</span>`),
+      ...e.sear.map(n => `<span class="font-mono text-xs text-stone-500 border border-stone-800 px-1.5 py-0.5 rounded bg-stone-900/60">Sear ${n}</span>`),
+    ].join('')
+    return `
+      <div class="py-2.5 border-b border-stone-900/70 last:border-0">
+        <div class="text-xs text-stone-400 leading-relaxed mb-1">${e.desc}</div>
+        <div class="flex flex-wrap gap-1">${refs}</div>
+      </div>
+    `
+  }).join('')
+
+  const more = entries.length > 15
+    ? `<div class="mt-3 text-xs text-stone-600">
+         Showing 15 of ${entries.length} known varieties.
+         <a href="${wwUrl}" target="_blank" rel="noopener noreferrer"
+            class="text-gold-600 hover:text-gold-400 ml-1">Browse all on Wildwinds →</a>
+       </div>`
+    : `<div class="mt-3 text-xs text-stone-600">
+         <a href="${wwUrl}" target="_blank" rel="noopener noreferrer"
+            class="text-gold-600 hover:text-gold-400">View on Wildwinds →</a>
+       </div>`
+
+  return `
+    <section class="card p-5">
+      <div class="flex items-baseline gap-3 mb-1">
+        <div class="card-header">RIC Type Reference</div>
+        <div class="text-xs text-stone-600">${entries.length} known varieties · via Wildwinds.com</div>
+      </div>
+      <div class="mt-3">${rows}</div>
+      ${more}
+    </section>
+  `
+}
+
+export function renderCoinPage(coin: CoinDetail, allCoins: CoinSummary[] = [], wildwinds: WildwindsEntry[] = []): string {
   const medianPrice = coin.median_price_usd ? formatUSD(coin.median_price_usd) : '—'
   const minPrice    = coin.price_range_usd ? formatUSD(coin.price_range_usd.min) : '—'
   const maxPrice    = coin.price_range_usd ? formatUSD(coin.price_range_usd.max) : '—'
@@ -258,9 +301,10 @@ export function renderCoinPage(coin: CoinDetail, allCoins: CoinSummary[] = []): 
   </span>`
 
   // Grade-by-price stats (computed from auction realized sales)
-  const gradePrices     = computeGradePrices(coin.sales)
-  const gradePriceHTML  = renderGradeByPrice(gradePrices)
+  const gradePrices      = computeGradePrices(coin.sales)
+  const gradePriceHTML   = renderGradeByPrice(gradePrices)
   const relatedTypesHTML = renderRelatedTypes(coin, allCoins)
+  const wildwindsHTML    = renderWildwindsRef(wildwinds, coin.slug)
 
   // Sort sales by date desc
   const sortedSales = [...coin.sales].sort((a, b) => b.sale_date.localeCompare(a.sale_date))
@@ -368,6 +412,9 @@ export function renderCoinPage(coin: CoinDetail, allCoins: CoinSummary[] = []): 
           </div>
         </section>
       ` : ''}
+
+      <!-- Wildwinds RIC type reference -->
+      ${wildwindsHTML}
 
       <!-- Related types (other varieties/periods of same coin family) -->
       ${relatedTypesHTML}

@@ -12,7 +12,7 @@ import { renderHistoryPage } from './pages/HistoryPage.ts'
 import { renderHistoryCivPage, renderHistoryCivPageLoading } from './pages/HistoryCivPage.ts'
 import { renderHistoryGroupPage, renderHistoryGroupPageLoading } from './pages/HistoryGroupPage.ts'
 import { renderHistoryRulerPage, renderHistoryRulerPageLoading } from './pages/HistoryRulerPage.ts'
-import { loadMeta, loadCatalog, loadCoinDetail, loadHistory } from './data/loader.ts'
+import { loadMeta, loadCatalog, loadCoinDetail, loadHistory, loadWildwindsRef } from './data/loader.ts'
 import type { Meta, CatalogIndex, FilterState } from './types/coin.ts'
 import { DEFAULT_FILTER } from './types/coin.ts'
 
@@ -74,10 +74,13 @@ async function renderRoute(route: Route) {
         renderCoinPageLoading() + renderFooter()
       )
       try {
-        const coin = await loadCoinDetail(route.slug)
+        const [coin, wildwinds] = await Promise.all([
+          loadCoinDetail(route.slug),
+          loadWildwindsRef(route.slug),
+        ])
         setContent(
           renderHeader('browse'),
-          renderCoinPage(coin, catalog?.coins ?? []) + renderFooter()
+          renderCoinPage(coin, catalog?.coins ?? [], wildwinds) + renderFooter()
         )
       } catch {
         setContent(
