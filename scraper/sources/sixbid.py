@@ -21,7 +21,7 @@ from .base import BaseScraper
 logger = logging.getLogger(__name__)
 
 API_URL      = "https://www.sixbid-coin-archive.com/backend/ca-search"
-RESULTS_PER_PAGE = 50
+RESULTS_PER_PAGE = 15   # Sixbid's default page size
 BASE_LOT_URL = "https://www.sixbid-coin-archive.com"
 
 
@@ -52,15 +52,21 @@ class SixbidScraper(BaseScraper):
                     logger.info(f"[Sixbid] query='{query}' offset={start}")
                     self._wait()
                     try:
-                        # Sixbid uses Solr's JSON Query DSL: "offset"/"limit" not "start"/"rows"
+                        # Sixbid Solr API: uses start/rows (not offset/limit),
+                        # requires currency field with value "original"|"usd"|"eur"|"chf"
                         resp = client.post(API_URL, json={
-                            "query":  query,
-                            "offset": start,
-                            "limit":  RESULTS_PER_PAGE,
+                            "query":       query,
+                            "start":       start,
+                            "rows":        RESULTS_PER_PAGE,
+                            "currency":    "usd",
+                            "language":    "en",
+                            "thesaurus":   False,
+                            "translations": False,
+                            "highlight":   False,
                         })
                         if resp.status_code == 400:
                             logger.error(
-                                f"[Sixbid] 400 Bad Request at offset {start}. "
+                                f"[Sixbid] 400 Bad Request at start {start}. "
                                 f"Response: {resp.text[:400]}"
                             )
                             break
@@ -88,7 +94,7 @@ class SixbidScraper(BaseScraper):
                             yield listing
                             yielded += 1
 
-                    logger.info(f"[Sixbid] query='{query}' offset={start}: {yielded} listings")
+                    logger.info(f"[Sixbid] query='{query}' start={start}: {yielded} listings")
                     if len(docs) < RESULTS_PER_PAGE:
                         break  # last page for this query
         finally:
@@ -120,8 +126,10 @@ class SixbidScraper(BaseScraper):
             # Date
             sale_date = _parse_sixbid_date(doc.get("auction_start", ""))
 
-            # Image
-            image_url = doc.get("image_url") or doc.get("thumbnail") or None
+            # Image — Sixbid API returns image_path (relative); images are
+            # served at /images/landscape/{image_path} but are 403 for bots.
+            # Store None until a publicly-accessible CDN URL is identified.
+            image_url = None
 
             # Auction house for description context
             house = ""

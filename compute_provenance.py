@@ -41,8 +41,12 @@ PRICES_DIR   = Path("data/prices")
 CATALOG_DIR  = Path("data/catalog")
 CHAINS_FILE  = CATALOG_DIR / "provenance_chains.json"
 
-# Hamming distance threshold: 0-3 = identical photo, 4-8 = same coin/slightly different crop
-MATCH_THRESHOLD = 8
+# Hamming distance threshold for same physical coin:
+#   0-2 = identical photo (same image re-used)
+#   3-4 = same coin, slightly different crop/lighting
+#   5-8 = same die type but likely different physical coins (false positives for ancients)
+# Using ≤4 avoids grouping same-type coins that happen to look similar
+MATCH_THRESHOLD = 4
 
 DRY_RUN    = "--dry-run"    in sys.argv
 SLUG_FILTER = next((sys.argv[sys.argv.index("--slug") + 1] for i, a in enumerate(sys.argv) if a == "--slug"), None) if "--slug" in sys.argv else None
@@ -97,9 +101,10 @@ def compute_hashes(all_sales: dict[str, list[dict]]) -> dict[str, list[dict]]:
     Returns updated {slug: [sales]} dict.
     Writes updated price files immediately for checkpoint safety.
     """
-    total_downloaded = 0
-    total_already    = 0
-    total_no_image   = 0
+    total_hashed   = 0   # successful hashes (counts toward MAX_IMAGES)
+    total_failed   = 0   # download errors / blocked images
+    total_already  = 0
+    total_no_image = 0
 
     for slug, sales in all_sales.items():
         needs_hash = [s for s in sales if s.get("image_url") and not s.get("image_hash")]
@@ -108,7 +113,7 @@ def compute_hashes(all_sales: dict[str, list[dict]]) -> dict[str, list[dict]]:
 
         if not needs_hash:
             continue
-        if total_downloaded >= MAX_IMAGES:
+        if total_hashed >= MAX_IMAGES:
             break
 
         prices_file = PRICES_DIR / f"{slug}.json"
@@ -116,8 +121,15 @@ def compute_hashes(all_sales: dict[str, list[dict]]) -> dict[str, list[dict]]:
         sale_index = {s.get("id", s.get("lot_url", "")): i for i, s in enumerate(data["sales"])}
 
         changed = False
+        slug_hashed = 0
+        slug_failed = 0
         for sale in needs_hash:
-            if total_downloaded >= MAX_IMAGES:
+            if total_hashed >= MAX_IMAGES:
+                break
+            # If the first 3 images in a slug all fail, skip the rest —
+            # the CDN is likely blocked for this source/slug combination.
+            if slug_failed >= 3 and slug_hashed == 0:
+                total_failed += len(needs_hash) - slug_hashed - slug_failed
                 break
             url = sale.get("image_url", "")
             if not url:
@@ -125,15 +137,19 @@ def compute_hashes(all_sales: dict[str, list[dict]]) -> dict[str, list[dict]]:
                 continue
 
             h = phash_from_url(url)
-            total_downloaded += 1
             sale_key = sale.get("id", sale.get("lot_url", ""))
             if h and sale_key in sale_index:
                 data["sales"][sale_index[sale_key]]["image_hash"] = h
                 sale["image_hash"] = h
                 changed = True
+                total_hashed += 1
+                slug_hashed += 1
+            else:
+                total_failed += 1
+                slug_failed += 1
 
-            if total_downloaded % 50 == 0:
-                print(f"  {total_downloaded} hashed ({total_already} already had hashes)…")
+            if (total_hashed + total_failed) % 50 == 0:
+                print(f"  {total_hashed} hashed, {total_failed} failed ({total_already} pre-existing)…")
 
             # Polite rate limiting: ~3 requests/second
             time.sleep(0.33)
@@ -141,7 +157,7 @@ def compute_hashes(all_sales: dict[str, list[dict]]) -> dict[str, list[dict]]:
         if changed and not DRY_RUN:
             prices_file.write_text(json.dumps(data, ensure_ascii=False, default=str), encoding="utf-8")
 
-    print(f"\nHashing complete: {total_downloaded} new, {total_already} pre-existing, {total_no_image} no-image")
+    print(f"\nHashing complete: {total_hashed} new, {total_already} pre-existing, {total_failed} blocked/failed, {total_no_image} no-image")
     return all_sales
 
 
