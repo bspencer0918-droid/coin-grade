@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 672,
-  "realized_count": 651,
+  "sale_count": 673,
+  "realized_count": 652,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -19,7 +19,7 @@
   "median_price_usd": 1920.0,
   "last_sale_date": "2026-04-11",
   "grade_distribution": {
-    "AU": 138,
+    "AU": 139,
     "MS": 505,
     "XF": 21,
     "VF": 5,
@@ -36,6 +36,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-af34ec8729a3",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13648/athens/12063251/attica-athens-ar-tetradrachm-17-13",
+      "title": "ATTICA. Athens. AR Tetradrachm (17.13 gms), ca. 454-404 B.C. NGC Ch AU, Strike: 5/5 Surface: 5/5. <br> HGC-4, 1597; Kroll-8. Obverse: Helmeted head of Athena right; Reverse: Owl standing right, head facing; olive sprig and crescent to left; all within incuse square. A charming and exceptionally tactile representative of one of the ancient world's most famous types.",
+      "description": "Stack\u2019s Bowers and Ponterio | ['Manhattan Sale']",
+      "hammer_price_usd": 1000.0,
+      "currency_original": "USD",
+      "price_original": 1000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-26",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-188640a75f74",
       "source": "sixbid",

@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "unknown",
-  "sale_count": 63,
-  "realized_count": 60,
+  "sale_count": 64,
+  "realized_count": 61,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -19,7 +19,7 @@
   "median_price_usd": 264.0,
   "last_sale_date": "2026-04-11",
   "grade_distribution": {
-    "MS": 12,
+    "MS": 13,
     "P": 2,
     "AU": 18,
     "XF": 10,
@@ -115,6 +115,39 @@
       "price_original": 3600.0,
       "buyers_premium_included": false,
       "sale_date": "2026-01-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-09052eb2cf40",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13648/victoria-1837-1901/12063592/great-britain-brass-6-pence",
+      "title": "GREAT BRITAIN. Brass 6 Pence Pattern, 1887. Victoria. NGC MS-62. <br> Esc-1784a. By J. Rochelle Thomas for Spink & Sons. Obverse: Ornate bust of Queen Victoria facing left; Reverse: Crowned Royal Arms. Denomination above, date in Roman numerals below. <strong>EXTREMELY RARE, only 5-10 examples were struck in brass. </strong>Richly toned and quite attractive for the assigned grade. <br> Ex: Ira & Larry Goldberg Auction #41 (5/2007), Lot # 3465.",
+      "description": "Stack\u2019s Bowers and Ponterio | ['Manhattan Sale']",
+      "hammer_price_usd": 700.0,
+      "currency_original": "USD",
+      "price_original": 700.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-26",
       "image_url": null,
       "ngc": {
         "verified": false,

@@ -4,7 +4,7 @@
   "ruler": "Hadrian",
   "ruler_normalized": "hadrian",
   "dynasty": "Nerva-Antonine",
-  "ruler_dates": "AD 117\u00e2\u20ac\u201c138",
+  "ruler_dates": "AD 117\u2013138",
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
@@ -235,6 +235,39 @@
       }
     },
     {
+      "id": "coinarchives-094e9d77bb60",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2727169&AucID=7025&Lot=11020&Val=89a130f8f5f21a6d7a62f6dabf3be8dc",
+      "title": "Wojcicki Polish Auction House - Premium Auction 17, Lot 11020 \u2014 Roman Imperial, Hadrian, Denarius - NGC Ch XF\n\nCoin in NGC grading with a rating of 4/5 for strike and 5/5 for surface.\n\nRoman Imperial\n\n\n Hadrian (117-138), Denarius 119-123, Rome mint\n\n Obverse: lau",
+      "description": "Roman Imperial, Hadrian, Denarius - NGC Ch XF\n\nCoin in NGC grading with a rating of 4/5 for strike and 5/5 for surface.\n\nRoman Imperial\n\n\n Hadrian (117-138), Denarius 119-123, Rome mint\n\n Obverse: laureate bust right, slight drapery on left shoulder\n\nHADRIANVS AVGVSTVS\n\n Reverse: Fortuna sitting on the left, holding the helm on the globe and the cornucopia, FORT RED in exerque \n\nCOS III P P\n\nDiameter 18 mm, weight 3.30 g\n\n\n\n\n\n\n\nMoneta w gradingu NGC z ocen\u0105 za jako\u015b\u0107 bicia 4/5 oraz za powier...",
+      "hammer_price_usd": 195.48,
+      "currency_original": "EUR",
+      "price_original": 181.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-02-21",
+      "image_url": "https://media.coinarchives.com/b0186c8028ddd29f388f2f87a9340b57/img/snmw/17/image11020.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "sixbid-c29254d26c86",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -327,39 +360,6 @@
       },
       "metadata": {
         "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-094e9d77bb60",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2727169&AucID=7025&Lot=11020&Val=89a130f8f5f21a6d7a62f6dabf3be8dc",
-      "title": "Wojcicki Polish Auction House - Premium Auction 17, Lot 11020 \u2014 Roman Imperial, Hadrian, Denarius - NGC Ch XF\n\nCoin in NGC grading with a rating of 4/5 for strike and 5/5 for surface.\n\nRoman Imperial\n\n\n Hadrian (117-138), Denarius 119-123, Rome mint\n\n Obverse: lau",
-      "description": "Roman Imperial, Hadrian, Denarius - NGC Ch XF\n\nCoin in NGC grading with a rating of 4/5 for strike and 5/5 for surface.\n\nRoman Imperial\n\n\n Hadrian (117-138), Denarius 119-123, Rome mint\n\n Obverse: laureate bust right, slight drapery on left shoulder\n\nHADRIANVS AVGVSTVS\n\n Reverse: Fortuna sitting on the left, holding the helm on the globe and the cornucopia, FORT RED in exerque \n\nCOS III P P\n\nDiameter 18 mm, weight 3.30 g\n\n\n\n\n\n\n\nMoneta w gradingu NGC z ocen\u0105 za jako\u015b\u0107 bicia 4/5 oraz za powier...",
-      "hammer_price_usd": 195.48,
-      "currency_original": "EUR",
-      "price_original": 181.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-02-21",
-      "image_url": "https://media.coinarchives.com/b0186c8028ddd29f388f2f87a9340b57/img/snmw/17/image11020.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 5,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

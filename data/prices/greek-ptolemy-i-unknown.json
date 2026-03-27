@@ -17,7 +17,7 @@
     "max": 114000.0
   },
   "median_price_usd": 19200.0,
-  "last_sale_date": "2026-03-26",
+  "last_sale_date": "2026-03-27",
   "grade_distribution": {
     "XF": 15,
     "VF": 11,
@@ -129,6 +129,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "hjb-27b03af57c10",
+      "source": "hjb",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/107707",
+      "title": "Ptolemaic, Ptolemy II.",
+      "description": "",
+      "hammer_price_usd": 18500.0,
+      "currency_original": "USD",
+      "price_original": 18500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-27",
+      "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc107707a.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "1023052559",
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/1023052559/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -356,39 +389,6 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/8235289002/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "hjb-27b03af57c10",
-      "source": "hjb",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/107707",
-      "title": "Ptolemaic, Ptolemy II.",
-      "description": "",
-      "hammer_price_usd": 18500.0,
-      "currency_original": "USD",
-      "price_original": 18500.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-26",
-      "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc107707a.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": "1023052559",
-        "grade": "F",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/1023052559/",
         "grading_service": "ngc"
       },
       "metadata": {

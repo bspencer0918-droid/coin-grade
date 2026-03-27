@@ -8,24 +8,24 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 1257,
-  "realized_count": 1254,
+  "sale_count": 1258,
+  "realized_count": 1255,
   "fixed_price_count": 1,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 79.0,
     "max": 292800.0
   },
-  "median_price_usd": 2019.4,
+  "median_price_usd": 2000.0,
   "last_sale_date": "2026-04-11",
   "grade_distribution": {
-    "VF": 233,
+    "VF": 234,
     "AU": 461,
     "XF": 341,
     "G": 11,
     "F": 28,
-    "MS": 176,
     "AG": 1,
+    "MS": 176,
     "VG": 6
   },
   "thumbnail_url": "https://media.coinarchives.com/5fb4c105bee29a5c7700c328f06fbf20/img/ponterio/236/image40032.jpg",
@@ -49,7 +49,7 @@
       "currency_original": "USD",
       "price_original": 1300.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-03-26",
+      "sale_date": "2026-03-27",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1656,6 +1656,39 @@
       }
     },
     {
+      "id": "sixbid-361e5182dd56",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13648/troas/12063255/islands-of-troas-tenedos-ar",
+      "title": "ISLANDS OF TROAS. Tenedos. AR Tetradrachm (16.50 gms), ca. 100-70 B.C. NGC VF, Strike: 5/5 Surface: 2/5. Bent, Brushed. <br> HGC-6, 390. Obverse: Janiform head of bearded male left, and female right, wearing stephanos; Reverse: Labrys, monogram and grape bunch to left; trident to right; all within wreath. Quite <strong>RARE </strong>and always demanded, this striking Tetradrachm offers pleasing bold strike, and the noted bend and brushing are not so significant as to demerit the coin much. Certain to be much sought given the difficulty of finding a presentable example of the type. <br> From the Peter Jones M.D. Collection (<em>Greek Coin Art </em>pg.153; #3213). <p>Ex: Roma XXVII (3/2023) Lot # 259. <br> Impressive Tenedos Tetradrachm with Janiform Head</p>",
+      "description": "Stack\u2019s Bowers and Ponterio | ['Manhattan Sale']",
+      "hammer_price_usd": 2000.0,
+      "currency_original": "USD",
+      "price_original": 2000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-26",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "sixbid-ee319f7b347b",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -1979,6 +2012,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "hjb-be0a579a44ce",
+      "source": "hjb",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/101757",
+      "title": "Macedonia, Antigonus Gonatas. Tetradrachm",
+      "description": "",
+      "hammer_price_usd": 2750.0,
+      "currency_original": "USD",
+      "price_original": 2750.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-27",
+      "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc101757a.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "788072846",
+        "grade": "AG",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/788072846/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -3460,39 +3526,6 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "hjb-be0a579a44ce",
-      "source": "hjb",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/101757",
-      "title": "Macedonia, Antigonus Gonatas. Tetradrachm",
-      "description": "",
-      "hammer_price_usd": 2750.0,
-      "currency_original": "USD",
-      "price_original": 2750.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-26",
-      "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc101757a.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": "788072846",
-        "grade": "AG",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/788072846/",
         "grading_service": "ngc"
       },
       "metadata": {
