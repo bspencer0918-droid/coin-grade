@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "silver",
-  "sale_count": 64,
-  "realized_count": 63,
+  "sale_count": 65,
+  "realized_count": 64,
   "fixed_price_count": 1,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,16 +17,16 @@
     "max": 114000.0
   },
   "median_price_usd": 19200.0,
-  "last_sale_date": "2026-03-27",
+  "last_sale_date": "2026-03-28",
   "grade_distribution": {
-    "XF": 15,
+    "XF": 16,
     "VF": 11,
     "AU": 31,
     "F": 2,
     "MS": 4,
     "VG": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/f694f8985726cfeb047a81852828d9a6/img/heritage/3126/image31015.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/a27c8e2a2433b1bad1c615f2f79b5757/img/ponterio/stacksbowers_mar26/image19040.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 3,
@@ -146,7 +146,7 @@
       "currency_original": "USD",
       "price_original": 18500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-03-27",
+      "sale_date": "2026-03-28",
       "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc107707a.jpg",
       "ngc": {
         "verified": false,
@@ -158,6 +158,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/1023052559/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-d84bd1916c04",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2722633&AucID=7017&Lot=19040&Val=ca09ddd867317b0013b0e8686c993fde",
+      "title": "Stack's Bowers Galleries (& Ponterio) - March 2026 Manhattan Sale, Lot 19040 \u2014 - Pedigreed Oktadrachm for the Deified Arsinoe II\nPTOLEMAIC EGYPT. Arsinoe II Philadelphos, Died 270/68 B.C. AV Mnaieion (Oktadrachm/Octodrachm) (27.76 gms), Alexandreia Mint, struck under Ptolemy II,",
+      "description": "- Pedigreed Oktadrachm for the Deified Arsinoe II\nPTOLEMAIC EGYPT. Arsinoe II Philadelphos, Died 270/68 B.C. AV Mnaieion (Oktadrachm/Octodrachm) (27.76 gms), Alexandreia Mint, struck under Ptolemy II, ca. 263/2 or 261/0-255/4 B.C. NGC Ch EF, Strike: 5/5 Surface: 3/5. Marks.\nCPE-385 (this coin illustrated); Svor-454; SNG Copenhagen-Unlisted. Obverse: Veiled head right, with ram's horn and stephane; lotus-tipped scepter in background, Z to left; Reverse: Filleted double cornucopia, with grape bu...",
+      "hammer_price_usd": 22000.0,
+      "currency_original": "USD",
+      "price_original": 22000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-26",
+      "image_url": "https://media.coinarchives.com/a27c8e2a2433b1bad1c615f2f79b5757/img/ponterio/stacksbowers_mar26/image19040.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
         "grading_service": "ngc"
       },
       "metadata": {
