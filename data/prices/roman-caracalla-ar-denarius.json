@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 502,
-  "realized_count": 502,
+  "sale_count": 503,
+  "realized_count": 503,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,10 +17,10 @@
     "max": 3840.0
   },
   "median_price_usd": 169.0,
-  "last_sale_date": "2026-03-15",
+  "last_sale_date": "2026-03-28",
   "grade_distribution": {
     "MS": 50,
-    "AU": 234,
+    "AU": 235,
     "XF": 181,
     "VF": 36,
     "F": 1
@@ -124,6 +124,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-b1adcc7df9c8",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/galleriaauctionstokyo/13680/gu-dai-ro-madi-guo-ancient-roman-empire/12091734/198-217nian-gu-dai-ro-madi-guo-karakara-denariusuyin-huo",
+      "title": "198-217\u5e74 \u53e4\u4ee3 \u30ed\u30fc\u30de\u5e1d\u56fd \u30ab\u30e9\u30ab\u30e9 \u30c7\u30ca\u30ea\u30a6\u30b9\u9280\u8ca8 NGC AU Strike: 5/5 Surface: 5/5 (8243529-008) \u53e4\u4ee3\u30ed\u30fc\u30de\u5e1d\u56fd\u3001\u7b2c21\u4ee3\u7687\u5e1d\u30ab\u30e9\u30ab\u30e9\u306e\u6cbb\u4e16\u306b\u767a\u884c\u3055\u308c\u305f\u30c7\u30ca\u30ea\u30a6\u30b9\u9280\u8ca8\u3067\u3059\u3002\u8868\u9762\u306b\u306f\u82e5\u304d\u7687\u5e1d\u306e\u8096\u50cf\u304c\u3001\u88cf\u9762\u306b\u306f\u5065\u5eb7\u3092\u53f8\u308b\u5973\u795e\u30b5\u30eb\u30fc\u30b9\u304c\u796d\u58c7\u306e\u86c7\u306b\u990c\u3092\u4e0e\u3048\u308b\u59ff\u304c\u63cf\u304b\u308c\u3066\u3044\u307e\u3059\u3002\u3053\u308c\u306f\u5e1d\u56fd\u306e\u5b89\u5be7\u3068\u30ed\u30fc\u30de\u5e02\u6c11\u306e\u5065\u5eb7\u3092\u9858\u3046\u30d7\u30ed\u30d1\u30ac\u30f3\u30c0\u3067\u3042\u3063\u305f\u3068\u8003\u3048\u3089\u308c\u307e\u3059\u3002NGC\u793e\u306b\u3088\u308a\u6e96\u672a\u4f7f\u7528\u54c1\u30af\u30e9\u30b9\u3067\u3042\u308bAU\u3068\u8a55\u4fa1\u3055\u308c\u3001\u6253\u523b\u3068\u8868\u9762\u306e\u72b6\u614b\u306f\u5171\u306b5\u6bb5\u968e\u4e2d\u306e5\u3068\u3001\u975e\u5e38\u306b\u826f\u597d\u306a\u72b6\u614b\u3092\u4fdd\u3063\u3066\u3044\u307e\u3059\u3002<br><br>\u57fa\u672c\u30c7\u30fc\u30bf<br>\u30fb\u30ab\u30bf\u30ed\u30b0\u756a\u53f7\uff1a-<br>\u30fb \u6750\u8cea\uff1a\u9280<br>\u30fb \u54c1\u4f4d\uff1a-<br>\u30fb \u91cd\u91cf\uff1a3.31g<br>\u30fb \u76f4\u5f84\uff1a\u7d0418-20mm<br>\u30fb \u767a\u884c\u679a\u6570\uff1a\u4e0d\u660e 198-217 Roman Empire Caracalla Denarius Silver NGC AU 5/5 5/5 (8243529-008)",
+      "description": "Galleria Auctions Tokyo | ['Online Auction 4']",
+      "hammer_price_usd": 476.07,
+      "currency_original": "USD",
+      "price_original": 476.0695,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-28",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8243529-008",
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8243529008/",
         "grading_service": "ngc"
       },
       "metadata": {

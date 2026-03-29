@@ -8,18 +8,18 @@
   "ruler_rarity": null,
   "denomination": "AR Hemidrachm",
   "metal": "silver",
-  "sale_count": 5,
-  "realized_count": 5,
+  "sale_count": 6,
+  "realized_count": 6,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 264.0,
     "max": 3240.0
   },
-  "median_price_usd": 950.0,
-  "last_sale_date": "2025-10-06",
+  "median_price_usd": 855.855,
+  "last_sale_date": "2026-03-28",
   "grade_distribution": {
-    "VF": 2,
+    "VF": 3,
     "MS": 1,
     "F": 1,
     "VG": 1
@@ -57,6 +57,39 @@
         "details_grade": null,
         "fine_style": true,
         "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-6ab4a9ab7562",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/galleriaauctionstokyo/13680/gu-dai-girishia-ancient-greek/12091728/ji-yuan-qian-2shi-ji-gu-dai-girishia-akaiatong-meng-korintosu",
+      "title": "\u7d00\u5143\u524d2\u4e16\u7d00 \u53e4\u4ee3 \u30ae\u30ea\u30b7\u30a2 \u30a2\u30ab\u30a4\u30a2\u540c\u76df \u30b3\u30ea\u30f3\u30c8\u30b9 \u30d8\u30df\u30c9\u30e9\u30af\u30de\u9280\u8ca8 NGC Ch VF Strike: 5/5 Surface: 5/5 (8242232-011) \u7d00\u5143\u524d2\u4e16\u7d00\u3001\u53e4\u4ee3\u30ae\u30ea\u30b7\u30a2\u306e\u30a2\u30ab\u30a4\u30a2\u540c\u76df\u3067\u767a\u884c\u3055\u308c\u305f\u30d8\u30df\u30c9\u30e9\u30af\u30de\u9280\u8ca8\u3067\u3059\u3002\u8868\u9762\u306b\u306f\u6700\u9ad8\u795e\u30bc\u30a6\u30b9\u3001\u88cf\u9762\u306b\u306f\u52a0\u76df\u90fd\u5e02\u30b3\u30ea\u30f3\u30c8\u30b9\u3092\u8c61\u5fb4\u3059\u308b\u6709\u7ffc\u306e\u99ac\u30da\u30ac\u30b5\u30b9\u304c\u523b\u307e\u308c\u3066\u3044\u307e\u3059\u3002\u90fd\u5e02\u56fd\u5bb6\u9593\u306e\u7d50\u675f\u3092\u7269\u8a9e\u308b\u4e00\u679a\u3067\u3042\u308a\u3001NGC\u793e\u304b\u3089\u6253\u523b\u30fb\u8868\u9762\u3068\u3082\u306b\u6e80\u70b9\u306e5\u8a55\u4fa1\u3092\u5f97\u3066\u3044\u308b\u70b9\u3082\u9b45\u529b\u7684\u3067\u3059\u3002<br><br>\u57fa\u672c\u30c7\u30fc\u30bf<br>\u30fb\u30ab\u30bf\u30ed\u30b0\u756a\u53f7: -<br>\u30fb\u6750\u8cea: \u9280<br>\u30fb\u54c1\u4f4d: -<br>\u30fb\u91cd\u91cf: 2.38 g<br>\u30fb\u76f4\u5f84: 16.0 mm<br>\u30fb\u767a\u884c\u679a\u6570: \u4e0d\u660e 2nd Century BC Greek Achaea Hemidrachm Silver NGC Ch VF Strike: 5/5 Surface: 5/5 (8242232-011)",
+      "description": "Galleria Auctions Tokyo | ['Online Auction 4']",
+      "hammer_price_usd": 761.71,
+      "currency_original": "USD",
+      "price_original": 761.7112,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-28",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8242232-011",
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8242232011/",
         "grading_service": "ngc"
       },
       "metadata": {

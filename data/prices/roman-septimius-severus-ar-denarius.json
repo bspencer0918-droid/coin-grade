@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 428,
-  "realized_count": 428,
+  "sale_count": 429,
+  "realized_count": 429,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,11 +17,11 @@
     "max": 14400.0
   },
   "median_price_usd": 149.0,
-  "last_sale_date": "2026-03-19",
+  "last_sale_date": "2026-03-28",
   "grade_distribution": {
     "G": 1,
     "AU": 158,
-    "XF": 169,
+    "XF": 170,
     "VF": 53,
     "F": 8,
     "MS": 39
@@ -92,6 +92,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/4934087005/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-53cb358d042a",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/galleriaauctionstokyo/13680/gu-dai-ro-madi-guo-ancient-roman-empire/12091733/193-211nian-gu-dai-ro-madi-guo-seputeimiusu-seuerusu-denariusuyin-huo",
+      "title": "193-211\u5e74 \u53e4\u4ee3 \u30ed\u30fc\u30de\u5e1d\u56fd \u30bb\u30d7\u30c6\u30a3\u30df\u30a6\u30b9\u30fb\u30bb\u30a6\u30a7\u30eb\u30b9 \u30c7\u30ca\u30ea\u30a6\u30b9\u9280\u8ca8 NGC Ch XF Strike: 5/5 Surface: 5/5 (6291550-004) \u30ed\u30fc\u30de\u5e1d\u56fd\u30bb\u30a6\u30a7\u30eb\u30b9\u671d\u306e\u5275\u59cb\u8005\u3001\u30bb\u30d7\u30c6\u30a3\u30df\u30a6\u30b9\u30fb\u30bb\u30a6\u30a7\u30eb\u30b9\u5e1d\u306e\u30c7\u30ca\u30ea\u30a6\u30b9\u9280\u8ca8\u3067\u3059\u3002\u7d00\u5143\u5f8c193\u5e74\u304b\u3089211\u5e74\u306b\u304b\u3051\u3066\u5728\u4f4d\u3057\u305f\u7687\u5e1d\u306e\u6cbb\u4e16\u306b\u767a\u884c\u3055\u308c\u307e\u3057\u305f\u3002\u88cf\u9762\u306b\u306f\u8ecd\u4e8b\u7684\u52dd\u5229\u3092\u8c61\u5fb4\u3059\u308b\u52dd\u5229\u306e\u5973\u795e\u30f4\u30a3\u30af\u30c8\u30ea\u30a2\u304c\u63cf\u304b\u308c\u3066\u3044\u307e\u3059\u3002NGC\u793e\u304b\u3089Ch XF\u3001\u6253\u523b\u30fb\u8868\u9762\u3068\u3082\u306b5\u70b9\u6e80\u70b9\u3068\u3044\u3046\u9ad8\u3044\u8a55\u4fa1\u3092\u53d7\u3051\u3066\u3044\u307e\u3059\u3002<br><br>\u57fa\u672c\u30c7\u30fc\u30bf<br>\u30fb\u30ab\u30bf\u30ed\u30b0\u756a\u53f7: -<br>\u30fb\u6750\u8cea: \u9280<br>\u30fb\u54c1\u4f4d: -<br>\u30fb\u91cd\u91cf: 3.58 g<br>\u30fb\u76f4\u5f84: 19.0 mm<br>\u30fb\u767a\u884c\u679a\u6570: \u4e0d\u660e 193-211 AD Roman Empire Septimius Severus Denarius Silver NGC Ch XF 5/5 5/5 (6291550-004)",
+      "description": "Galleria Auctions Tokyo | ['Online Auction 4']",
+      "hammer_price_usd": 476.07,
+      "currency_original": "USD",
+      "price_original": 476.0695,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-28",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "6291550-004",
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/6291550004/",
         "grading_service": "ngc"
       },
       "metadata": {
