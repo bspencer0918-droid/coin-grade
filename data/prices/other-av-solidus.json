@@ -102,39 +102,6 @@
       }
     },
     {
-      "id": "hjb-6828655cfc0e",
-      "source": "hjb",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/107709",
-      "title": "Revolt of the Heraclii. Solidus",
-      "description": "",
-      "hammer_price_usd": 15000.0,
-      "currency_original": "USD",
-      "price_original": 15000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-29",
-      "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc107709a.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": "1023052616",
-        "grade": "MS",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/1023052616/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-93645c62e316",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -223,6 +190,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "hjb-6828655cfc0e",
+      "source": "hjb",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/107709",
+      "title": "Revolt of the Heraclii. Solidus",
+      "description": "",
+      "hammer_price_usd": 15000.0,
+      "currency_original": "USD",
+      "price_original": 15000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-29",
+      "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc107709a.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "1023052616",
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/1023052616/",
         "grading_service": "ngc"
       },
       "metadata": {
