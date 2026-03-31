@@ -17,7 +17,7 @@
     "max": 3720.0
   },
   "median_price_usd": 258.0,
-  "last_sale_date": "2026-03-29",
+  "last_sale_date": "2026-03-31",
   "grade_distribution": {
     "VF": 76,
     "XF": 40,
@@ -300,6 +300,39 @@
       }
     },
     {
+      "id": "hjb-6b97f164a29d",
+      "source": "hjb",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/110107",
+      "title": "Nero Contorniate.",
+      "description": "",
+      "hammer_price_usd": 950.0,
+      "currency_original": "USD",
+      "price_original": 950.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-31",
+      "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc110107a.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "1108119353",
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/1108119353/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-c8a4c0b3a586",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -421,39 +454,6 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "hjb-6b97f164a29d",
-      "source": "hjb",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/110107",
-      "title": "Nero Contorniate.",
-      "description": "",
-      "hammer_price_usd": 950.0,
-      "currency_original": "USD",
-      "price_original": 950.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-29",
-      "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc110107a.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": "1108119353",
-        "grade": "F",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/1108119353/",
         "grading_service": "ngc"
       },
       "metadata": {

@@ -17,11 +17,11 @@
     "max": 50400.0
   },
   "median_price_usd": 1680.0,
-  "last_sale_date": "2026-03-29",
+  "last_sale_date": "2026-03-31",
   "grade_distribution": {
     "XF": 14,
-    "VF": 10,
     "G": 2,
+    "VF": 10,
     "AU": 36,
     "MS": 6
   },
@@ -62,6 +62,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "hjb-296b97d9a1e5",
+      "source": "hjb",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/102921",
+      "title": "Calabria, Tarentum. Didrachm",
+      "description": "",
+      "hammer_price_usd": 975.0,
+      "currency_original": "USD",
+      "price_original": 975.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-31",
+      "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc102921a.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "843240819",
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/843240819/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -157,39 +190,6 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "hjb-296b97d9a1e5",
-      "source": "hjb",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/102921",
-      "title": "Calabria, Tarentum. Didrachm",
-      "description": "",
-      "hammer_price_usd": 975.0,
-      "currency_original": "USD",
-      "price_original": 975.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-29",
-      "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc102921a.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": "843240819",
-        "grade": "G",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/843240819/",
         "grading_service": "ngc"
       },
       "metadata": {
