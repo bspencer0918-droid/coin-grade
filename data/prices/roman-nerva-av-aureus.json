@@ -19,9 +19,9 @@
   "median_price_usd": 8700.0,
   "last_sale_date": "2026-01-12",
   "grade_distribution": {
-    "VF": 4,
     "MS": 2,
     "XF": 5,
+    "VF": 4,
     "F": 3
   },
   "thumbnail_url": "https://media.coinarchives.com/958ef515928d7d08a7fcede5dc90772a/img/heritage/3129/image34072.jpg",
@@ -34,39 +34,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-c88f92bfc7bd",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13208/empire-romain-roman/11661129/empire-romain-romantrajan-98-117",
-      "title": "EMPIRE ROMAIN - ROMAN<br>Trajan (98-117). Aureus ND (98), Rome. NGC VF 5/5 2/5 scuffs (8583610-018).<br>Av. IMP CAES NERVA TRAIAN AVG GERM. Buste laur\u00e9 \u00e0 droite. <br>Rv. PONT MAX TR POT COS II. La Germanie assise \u00e0 gauche, sur un tr\u00f4ne avec des boucliers germains, tenant une branche d\u2019olivier de la main droite.<br>Calic\u00f3 1070 - RIC.15 - Woytek 23a ; Or - 7,47 g - 18 mm - 6 h<br>NGC VF 5/5 2/5 scuffs (8583610-018). <br>La frappe est l\u00e9g\u00e8rement d\u00e9centr\u00e9e, notamment au droit. Plusieurs coups dans le champ au droit. Avec une patine dor\u00e9e et restes du brillant d\u2019origine autour des reliefs. TTB \u00e0 Superbe.",
-      "description": "MDC Monaco | ['Auction 17']",
-      "hammer_price_usd": 3761.28,
-      "currency_original": "USD",
-      "price_original": 3761.28,
-      "buyers_premium_included": false,
-      "sale_date": "2025-10-01",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "8583610-018",
-        "grade": "VF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/8583610018/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-50d8d1d7ef95",
       "source": "coinarchives",
@@ -127,6 +94,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-c88f92bfc7bd",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13208/empire-romain-roman/11661129/empire-romain-romantrajan-98-117",
+      "title": "EMPIRE ROMAIN - ROMAN<br>Trajan (98-117). Aureus ND (98), Rome. NGC VF 5/5 2/5 scuffs (8583610-018).<br>Av. IMP CAES NERVA TRAIAN AVG GERM. Buste laur\u00e9 \u00e0 droite. <br>Rv. PONT MAX TR POT COS II. La Germanie assise \u00e0 gauche, sur un tr\u00f4ne avec des boucliers germains, tenant une branche d\u2019olivier de la main droite.<br>Calic\u00f3 1070 - RIC.15 - Woytek 23a ; Or - 7,47 g - 18 mm - 6 h<br>NGC VF 5/5 2/5 scuffs (8583610-018). <br>La frappe est l\u00e9g\u00e8rement d\u00e9centr\u00e9e, notamment au droit. Plusieurs coups dans le champ au droit. Avec une patine dor\u00e9e et restes du brillant d\u2019origine autour des reliefs. TTB \u00e0 Superbe.",
+      "description": "MDC Monaco | ['Auction 17']",
+      "hammer_price_usd": 3761.28,
+      "currency_original": "USD",
+      "price_original": 3761.28,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8583610-018",
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8583610018/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "unknown",
-  "sale_count": 64,
-  "realized_count": 61,
+  "sale_count": 65,
+  "realized_count": 62,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -21,8 +21,8 @@
   "grade_distribution": {
     "MS": 13,
     "P": 2,
+    "XF": 11,
     "AU": 18,
-    "XF": 10,
     "VF": 18,
     "F": 2,
     "G": 1
@@ -153,6 +153,39 @@
         "verified": false,
         "cert_number": null,
         "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-8ac3814cb89a",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/daniel-frank-sedwick/13334/shipwreck-coins/11758625/india-british-bombay-set-of",
+      "title": "INDIA (British), Bombay, set of three rupees in wood display case: Victoria, 1885-B, NGC XF details / saltwater damage; Edward VII, 1906-B, NGC XF details / saltwater damage; George V, 1918-(B), NGC AU details / saltwater damage, NGC. KM-492, 508, 524. Fascinating three-monarchs set of coins from this wreck, a casualty of World War II with a romantic backstory in that the captain of the German submarine U-68 that torpedoed her reportedly surfaced next to the survivors in lifeboats and said \"Goodnight, sorry for sinking you.\" Among various other goods, the City of Cairo was carrying 2000 boxes of British India silver rupee coins. When they were salvaged in 2013, in fact the deepest marine salvage in history at 5181m (17,000 feet), the vast majority of these coins were melted down by the British government. These three examples are all generally matched in grade and bear light saltwater corrosion but run the gamut of toning from vibrant blue and golden hues on the Victoria piece to steely matte surfaces on the George V piece. Presented in a nice wooden display case with slipcover and certificate of authenticity.  Recovered from: S.S. City of Cairo, sunk in 1942 west of Africa",
+      "description": "Daniel Frank Sedwick | ['Auction 38']",
+      "hammer_price_usd": 1500.0,
+      "currency_original": "USD",
+      "price_original": 1500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,

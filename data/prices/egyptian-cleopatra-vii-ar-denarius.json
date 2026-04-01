@@ -8,18 +8,18 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 59,
-  "realized_count": 59,
+  "sale_count": 60,
+  "realized_count": 60,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 900.0,
     "max": 21600.0
   },
-  "median_price_usd": 5520.0,
+  "median_price_usd": 5220.0,
   "last_sale_date": "2026-01-23",
   "grade_distribution": {
-    "AU": 3,
+    "AU": 4,
     "XF": 15,
     "VF": 19,
     "F": 16,
@@ -36,6 +36,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-b789dc1c00a0",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13525/ancients-greek/11945973/mauretanian-kingdom-juba-ii-25",
+      "title": "MAURETANIAN KINGDOM. Juba II (25 BC-AD 23/24), with Cleopatra Selene. AR denarius (19mm, 2.97 gm, 5h). NGC AU 5/5 - 3/5, brushed. Caesarea in Mauretania, ca. AD 16-17. REX IVBA, diademed head of Juba II right / BACI\u039bICCA / K\u039b\u0404O\u03a0ATPA, crocodile advancing left; dotted border. SNG Copenhagen 8, 568-569. Mazard 344. Attractive cabinet toning with crisp devices.  Ex Heritage Auctions, Auction 3114 (16 January 2024), lot 33180.  The crocodile on the reverse is an allusion to Queen Cleopatra of Mauretania's maternal heritage. She was the daughter of Antony and Cleopatra, the last queen of the Ptolemaic dynasty that had ruled Egypt, a land fertile with crocodiles, for three centuries. In the same period, Augustus also struck denarii with a crocodile on the reverse, which celebrated the Roman conquest of Egypt.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature Auction #3130']",
+      "hammer_price_usd": 2300.0,
+      "currency_original": "USD",
+      "price_original": 2300.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-22",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-58f31a256528",
       "source": "coinarchives",

@@ -19,9 +19,9 @@
   "median_price_usd": 10033.75,
   "last_sale_date": "2026-01-16",
   "grade_distribution": {
-    "XF": 20,
     "VF": 9,
     "MS": 19,
+    "XF": 20,
     "AU": 24,
     "G": 2
   },
@@ -35,39 +35,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-afd1b23fad52",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13208/empire-romain-roman/11661145/empire-romain-romancaracalla-198-217",
-      "title": "EMPIRE ROMAIN - ROMAN<br>Caracalla (198-217). Aureus avec Geta ND (198), Rome. NGC Ch XF* 5/5 5/5 (8583608-003).<br>Av. M AVRELIVS - ANTON  AVG. Buste laur\u00e9, drap\u00e9 et cuirass\u00e9 \u00e0 droite, de Caracalla. <br>Rv. P SEPT GETA - CAES PONT. Buste drap\u00e9 et cuirass\u00e9 \u00e0 droite, la t\u00eate nue, de Geta.<br>Calic\u00f3 2863 - RIC.17 ; Or - 7,23 g - 19 mm - 6 h<br>NGC Ch XF* 5/5 5/5 (8583608-003). <br>Sur un flan assez r\u00e9gulier, \u00e0 la frappe soign\u00e9e, avec des portraits de beaux styles des Empereurs \u00e2g\u00e9s de 13 et 12 ans. Cet exemplaire n\u2019a quasiment pas circul\u00e9 et poss\u00e8de une d\u00e9licate patine sur le brillant d\u2019origine. Superbe \u00e0 Fleur de coin.<br>Sur cet aureus, la propagande imp\u00e9riale dissimule la haine que les deux fr\u00e8res, Caracalla et Geta, fils de Septime S\u00e9v\u00e8re, se vouaient. En d\u00e9cembre 211, \u00e0 la mort de leur p\u00e8re, Caracalla fait assassiner Geta par ses tueurs \u00e0 gage",
-      "description": "MDC Monaco | ['Auction 17']",
-      "hammer_price_usd": 42314.4,
-      "currency_original": "USD",
-      "price_original": 42314.4,
-      "buyers_premium_included": false,
-      "sale_date": "2025-10-01",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "8583608-003",
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/8583608003/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "sixbid-1bb4b5d5eb2e",
       "source": "sixbid",
@@ -260,6 +227,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-afd1b23fad52",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13208/empire-romain-roman/11661145/empire-romain-romancaracalla-198-217",
+      "title": "EMPIRE ROMAIN - ROMAN<br>Caracalla (198-217). Aureus avec Geta ND (198), Rome. NGC Ch XF* 5/5 5/5 (8583608-003).<br>Av. M AVRELIVS - ANTON  AVG. Buste laur\u00e9, drap\u00e9 et cuirass\u00e9 \u00e0 droite, de Caracalla. <br>Rv. P SEPT GETA - CAES PONT. Buste drap\u00e9 et cuirass\u00e9 \u00e0 droite, la t\u00eate nue, de Geta.<br>Calic\u00f3 2863 - RIC.17 ; Or - 7,23 g - 19 mm - 6 h<br>NGC Ch XF* 5/5 5/5 (8583608-003). <br>Sur un flan assez r\u00e9gulier, \u00e0 la frappe soign\u00e9e, avec des portraits de beaux styles des Empereurs \u00e2g\u00e9s de 13 et 12 ans. Cet exemplaire n\u2019a quasiment pas circul\u00e9 et poss\u00e8de une d\u00e9licate patine sur le brillant d\u2019origine. Superbe \u00e0 Fleur de coin.<br>Sur cet aureus, la propagande imp\u00e9riale dissimule la haine que les deux fr\u00e8res, Caracalla et Geta, fils de Septime S\u00e9v\u00e8re, se vouaient. En d\u00e9cembre 211, \u00e0 la mort de leur p\u00e8re, Caracalla fait assassiner Geta par ses tueurs \u00e0 gage",
+      "description": "MDC Monaco | ['Auction 17']",
+      "hammer_price_usd": 42314.4,
+      "currency_original": "USD",
+      "price_original": 42314.4,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8583608-003",
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8583608003/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

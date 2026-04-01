@@ -7,18 +7,19 @@
   "ruler_dates": "AD 249\u2013251",
   "ruler_rarity": "scarce",
   "denomination": "Unknown",
-  "metal": "silver",
-  "sale_count": 1,
-  "realized_count": 1,
+  "metal": "bronze",
+  "sale_count": 2,
+  "realized_count": 2,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 220.0,
+    "min": 130.0,
     "max": 220.0
   },
-  "median_price_usd": 220.0,
+  "median_price_usd": 175.0,
   "last_sale_date": "2026-03-15",
   "grade_distribution": {
+    "F": 1,
     "XF": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/6f101a68848bb0fdbdba63ad839baba6/img/heritage/61605/image23188.jpg",
@@ -31,6 +32,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-03aff96ec068",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13445/ancients-roman-provincial/11878416/samaria-caesarea-maritima-herennia-etruscilla",
+      "title": "SAMARIA. Caesarea Maritima. Herennia Etruscilla (AD 249-253). AE (28mm, 7h). NGC Fine. ERENNIA ETRVSCILLA AVG, diademed, draped bust of Etruscilla right / COL PR F AVG F-C CAES METR, eagle standing facing, head right, wings spread, supporting plain circle enclosing turreted, draped bust of Fortuna right. RPC IX 2079. Pear patina.   Wife of Emperor Decius and mother of Emperors Herennius Etruscus and Hostilian; Herennia Cupressenia Etruscilla was deeply involved in the Roman imperial realm. After the deaths of her husband and Herennius, she was raised to Augusta in AD 249, and Hostilian to Augustus in AD 251, by Emperor Trebonianus Gallus to gain popular support. Hostilian would die that same year and despite having no familial ties to the reigning family, she would retain her title until her death two years later.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61558']",
+      "hammer_price_usd": 130.0,
+      "currency_original": "USD",
+      "price_original": 130.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-30",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-96c21f541acd",
       "source": "coinarchives",

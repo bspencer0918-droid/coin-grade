@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 1263,
-  "realized_count": 1263,
+  "sale_count": 1264,
+  "realized_count": 1264,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -20,7 +20,7 @@
   "last_sale_date": "2026-03-19",
   "grade_distribution": {
     "XF": 375,
-    "VF": 466,
+    "VF": 467,
     "VG": 38,
     "G": 3,
     "AU": 184,
@@ -289,6 +289,39 @@
         "strike_score": 4,
         "surface_score": 3,
         "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-9d25fddc7515",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13634/ancients-roman-republic/12048965/octavian-as-imperator-and-triumvir",
+      "title": "Octavian, as Imperator and Triumvir (43-33 BC). AR denarius (20mm, 3.51 gm, 4h). NGC Choice VF 5/5 - 1/5, scratches, brushed, smoothing. Commemorating the capture of Egypt, uncertain Eastern mint, ca. 28 BC. CAESAR\u2022DIVI\u2022F-COS\u2022VI, bare head of Augustus right; capricorn right below truncation / AEGVPTO / CAPTA, crocodile advancing right. RIC I 545.   This coin is of the utmost historical importance, because it refers to the consolidation of the Roman power and reach, under the control of Augustus. Augustus accomplished this with his victory over Marc Antony and Cleopatra at Actium and their subsequent suicides. The crocodile, a recognizable symbol of Egypt, combined with this simple two-word legend, AEGYPTO CAPTA, refers to the subjugation of Ptolemaic Egypt and its incorporation as an Imperial province under Rome, and thus the Empire was born.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61605']",
+      "hammer_price_usd": 850.0,
+      "currency_original": "USD",
+      "price_original": 850.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-15",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 1,
+        "details_grade": "Scratche",
         "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"

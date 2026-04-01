@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 268,
-  "realized_count": 268,
+  "sale_count": 269,
+  "realized_count": 269,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,12 +17,12 @@
     "max": 10800.0
   },
   "median_price_usd": 360.0,
-  "last_sale_date": "2026-03-19",
+  "last_sale_date": "2026-03-28",
   "grade_distribution": {
+    "F": 81,
     "XF": 65,
     "AU": 28,
     "VF": 80,
-    "F": 80,
     "VG": 13,
     "MS": 2
   },
@@ -36,6 +36,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-5b19573806e6",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/galleriaauctionstokyo/13680/gu-dai-ro-ma-gong-he-zheng-ancient-rome/12091730/ji-yuan-qian-126nian-qing-gu-dai-gong-he-zheng-ro-ma-teitousu-kuinkuteiusu-huramininusu-denariusuyin-huo",
+      "title": "\u7d00\u5143\u524d126\u5e74\u9803 \u53e4\u4ee3 \u5171\u548c\u653f\u30ed\u30fc\u30de \u30c6\u30a3\u30c8\u30a5\u30b9\u30fb\u30af\u30a3\u30f3\u30af\u30c6\u30a3\u30a6\u30b9\u30fb\u30d5\u30e9\u30df\u30cb\u30cc\u30b9 \u30c7\u30ca\u30ea\u30a6\u30b9\u9280\u8ca8 NGC Ch F Strike: 4/5 Surface: 4/5 (6062713-001) \u7d00\u5143\u524d126\u5e74\u9803\u3001\u5171\u548c\u653f\u30ed\u30fc\u30de\u3067\u767a\u884c\u3055\u308c\u305f\u30c7\u30ca\u30ea\u30a6\u30b9\u9280\u8ca8\u3067\u3059\u3002\u767a\u884c\u3092\u76e3\u7763\u3057\u305f\u9020\u5e63\u5b98\u306f\u30c6\u30a3\u30c8\u30a5\u30b9\u30fb\u30af\u30a3\u30f3\u30af\u30c6\u30a3\u30a6\u30b9\u30fb\u30d5\u30e9\u30df\u30cb\u30cc\u30b9\u3067\u3059\u3002\u88cf\u9762\u306b\u306f\u30ed\u30fc\u30de\u306e\u5b88\u8b77\u795e\u30c7\u30a3\u30aa\u30b9\u30af\u30fc\u30ed\u30a4\u304c\u63cf\u304b\u308c\u3001\u5f53\u6642\u306e\u6a19\u6e96\u7684\u306a\u30c7\u30b6\u30a4\u30f3\u304c\u63a1\u7528\u3055\u308c\u3066\u3044\u307e\u3059\u3002NGC\u793e\u306b\u3088\u308aCh F\u3068\u9451\u5b9a\u3055\u308c\u3001\u6253\u523b\u3001\u8868\u9762\u3068\u3082\u306b5\u6bb5\u968e\u4e2d4\u306e\u826f\u597d\u306a\u72b6\u614b\u3068\u8a55\u4fa1\u3055\u308c\u3066\u3044\u307e\u3059\u3002<br><br>\u57fa\u672c\u30c7\u30fc\u30bf<br>\u30fb \u30ab\u30bf\u30ed\u30b0\u756a\u53f7: -<br>\u30fb \u6750\u8cea: \u9280<br>\u30fb \u54c1\u4f4d: \u4e0d\u660e<br>\u30fb \u91cd\u91cf: 3.81 g<br>\u30fb \u76f4\u5f84: 19.0 mm<br>\u30fb \u767a\u884c\u679a\u6570: \u4e0d\u660e c. 126 AD Roman Republic Titus Quinctius Flamininus Denarius Silver NGC Ch F Strike: 4/5 Surface: 4/5 (6062713-001)",
+      "description": "Galleria Auctions Tokyo | ['Online Auction 4']",
+      "hammer_price_usd": 175.11,
+      "currency_original": "USD",
+      "price_original": 175.10643,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-28",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "6062713-001",
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/6062713001/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-3d0dae90c2df",
       "source": "coinarchives",

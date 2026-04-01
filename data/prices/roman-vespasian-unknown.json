@@ -20,15 +20,15 @@
   "last_sale_date": "2026-03-15",
   "grade_distribution": {
     "VF": 21,
-    "XF": 7,
     "F": 10,
+    "XF": 7,
     "AU": 4
   },
   "thumbnail_url": "https://media.coinarchives.com/1a39c0a5c07732416aa8910494d69374/img/ponterio/236/image44267.jpg",
   "median_weight_g": null,
-  "top_strike_score": 5,
+  "top_strike_score": 4,
   "top_surface_score": 3,
-  "top_grade_numeric": 5,
+  "top_grade_numeric": 4,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
@@ -68,39 +68,6 @@
       }
     },
     {
-      "id": "sixbid-48127a146503",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13208/empire-romain-roman/11661127/empire-romain-romanvespasien-69-79",
-      "title": "EMPIRE ROMAIN - ROMAN<br>Vespasien (69-79). Denier ND (77-78), Rome. NGC Ch XF 5/5 3/5 (8360797-003).<br>Av. IMP CAESAR VESPASIANVS AVG. Buste laur\u00e9 \u00e0 gauche. <br>Rv. COS - VIII. Mars debout \u00e0 gauche tenant une lance et un troph\u00e9e d\u2019armes.<br>RIC 938 ; Argent - 3,26 g - 18 mm - 6 h<br>Proviendrait d\u2019une vente M\u00fcnzen und Medaillen 52, des 19 et 20 juin 1975.<br>NGC Ch XF 5/5 3/5 (8360797-003). <br>La frappe est \u00e0 peine d\u00e9centr\u00e9e au droit et montre un portrait massif de l\u2019Empereur. Une fine rayure au revers. Avec une patine sombre. Presque Superbe.",
-      "description": "MDC Monaco | ['Auction 17']",
-      "hammer_price_usd": 540.68,
-      "currency_original": "USD",
-      "price_original": 540.684,
-      "buyers_premium_included": false,
-      "sale_date": "2025-10-01",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "8360797-003",
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/8360797003/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-d7dc15b80d09",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -127,6 +94,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-48127a146503",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13208/empire-romain-roman/11661127/empire-romain-romanvespasien-69-79",
+      "title": "EMPIRE ROMAIN - ROMAN<br>Vespasien (69-79). Denier ND (77-78), Rome. NGC Ch XF 5/5 3/5 (8360797-003).<br>Av. IMP CAESAR VESPASIANVS AVG. Buste laur\u00e9 \u00e0 gauche. <br>Rv. COS - VIII. Mars debout \u00e0 gauche tenant une lance et un troph\u00e9e d\u2019armes.<br>RIC 938 ; Argent - 3,26 g - 18 mm - 6 h<br>Proviendrait d\u2019une vente M\u00fcnzen und Medaillen 52, des 19 et 20 juin 1975.<br>NGC Ch XF 5/5 3/5 (8360797-003). <br>La frappe est \u00e0 peine d\u00e9centr\u00e9e au droit et montre un portrait massif de l\u2019Empereur. Une fine rayure au revers. Avec une patine sombre. Presque Superbe.",
+      "description": "MDC Monaco | ['Auction 17']",
+      "hammer_price_usd": 540.68,
+      "currency_original": "USD",
+      "price_original": 540.684,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8360797-003",
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8360797003/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

@@ -8,20 +8,20 @@
   "ruler_rarity": null,
   "denomination": "Seated Liberty Half Dollar 2025",
   "metal": "silver",
-  "sale_count": 7,
-  "realized_count": 7,
+  "sale_count": 8,
+  "realized_count": 8,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 420.0,
     "max": 10000.0
   },
-  "median_price_usd": 500.0,
+  "median_price_usd": 625.0,
   "last_sale_date": "2026-02-09",
   "grade_distribution": {
     "AU": 5,
     "XF": 1,
-    "MS": 1
+    "MS": 2
   },
   "thumbnail_url": null,
   "median_weight_g": null,
@@ -248,6 +248,39 @@
         "verified": false,
         "cert_number": null,
         "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-8ecb017b1f89",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13522/ancients-roman-imperial/11945206/magnus-maximus-western-roman-empire",
+      "title": "Magnus Maximus, Western Roman Empire (AD 383-388). AV solidus (22mm, 4.42 gm, 1h). NGC MS 5/5 - 3/5. Trier, ca. AD 383-384. D N MAG MA-XIMVS P F AVG, rosette-diademed, draped, and cuirassed bust of Magnus Maximus right, seen from front / VICTOR-IA AVGG, Magnus Maximus and Theodosius I seated facing on double throne, jointly holding globe between them; half length figure of Victory above facing between, vertical palm branch between their feet, TROB in exergue. RIC IX 77b. A handsome portrait on a large flan.   A capable general of Spanish birth, Flavius Magnus Clemens Maximus was appointed military commander of Britain in AD 380. Three years later, Maximus made a bid for the throne of the Western Roman Empire, then ruled by the ineffectual Gratian and his young brother Valentinian II. To secure the loyalty of the British legions, Maximus reopened the old mint of Londinium, which had been closed for more than fifty years, and began striking gold solidi acclaiming himself as Augustus. After disposing of Gratian, Maximus proposed a three-way division of the Empire, with himself ruling Britain, Gaul, Germany and Spain, Valentinian II ruling Italy and Africa, and Theodosius I, another Spaniard, holding the East. This uneasy equilibrium lasted about three years but, thereafter, Maximus began encroaching upon Valentinian II's territory. The mintmark TR is augmented by the letters OB (standing for Obryzium, or \"pure gold\"), and the reverse type and legend (VICTORIA AVGG) explicitly acknowledge only two Roman emperors, surely Maximus and Theodosius I. In AD 387, Maximus raised his son Flavius Victor to the rank of Augustus and launched an invasion of Italy, provoking a final showdown with Theodosius. But in a lightning campaign, Theodosius struck eastward and defeated Maximus before he could fully martial his forces. Both Maximus and Victor were summarily executed by Theodosius, who restored Valentinian II to the Western throne.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction - New York #3129']",
+      "hammer_price_usd": 7500.0,
+      "currency_original": "USD",
+      "price_original": 7500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-12",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 3,

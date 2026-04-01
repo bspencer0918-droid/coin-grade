@@ -19,8 +19,8 @@
   "median_price_usd": 600.0,
   "last_sale_date": "2026-03-28",
   "grade_distribution": {
-    "MS": 154,
     "AU": 80,
+    "MS": 154,
     "XF": 14,
     "G": 1,
     "VF": 1
@@ -35,39 +35,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-1889ba1ae5db",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13208/empire-byzantin-byzantine/11661182/empire-byzantin-byzantinejustin-ii",
-      "title": "EMPIRE BYZANTIN - BYZANTINE<br>Justin II (565-578). Solidus ND, Constantinople, 2e officine. NGC MS 5/5 5/5 (3990670-008).<br>Av. D N I - VSTI - NVS P P AVI. Buste de Justin II, casqu\u00e9, diad\u00e9m\u00e9 et cuirass\u00e9 de face, tenant de la main droite un globe nic\u00e9phore et de la main gauche un bouclier orn\u00e9 d'un cavalier galopant \u00e0 droite. <br>Rv. VICTORI - A AVGGG (officine) / CONOB. Constantinople assise de face, la t\u00eate tourn\u00e9e \u00e0 droite, tenant un sceptre long de la main droite et un globe crucig\u00e8re de la main gauche.<br>BC.345 - Sommer 5.2 ; Or - 4,47 g - 21 mm - 6 h<br>NGC MS 5/5 5/5 (3990670-008). <br>De frappe un peu faible. Quasiment dans son \u00e9tat de frappe. Superbe \u00e0 Fleur de coin.",
-      "description": "MDC Monaco | ['Auction 17']",
-      "hammer_price_usd": 1528.02,
-      "currency_original": "USD",
-      "price_original": 1528.02,
-      "buyers_premium_included": false,
-      "sale_date": "2025-10-01",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "3990670-008",
-        "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/3990670008/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "sixbid-ff21ff6d43d2",
       "source": "sixbid",
@@ -194,6 +161,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-1889ba1ae5db",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13208/empire-byzantin-byzantine/11661182/empire-byzantin-byzantinejustin-ii",
+      "title": "EMPIRE BYZANTIN - BYZANTINE<br>Justin II (565-578). Solidus ND, Constantinople, 2e officine. NGC MS 5/5 5/5 (3990670-008).<br>Av. D N I - VSTI - NVS P P AVI. Buste de Justin II, casqu\u00e9, diad\u00e9m\u00e9 et cuirass\u00e9 de face, tenant de la main droite un globe nic\u00e9phore et de la main gauche un bouclier orn\u00e9 d'un cavalier galopant \u00e0 droite. <br>Rv. VICTORI - A AVGGG (officine) / CONOB. Constantinople assise de face, la t\u00eate tourn\u00e9e \u00e0 droite, tenant un sceptre long de la main droite et un globe crucig\u00e8re de la main gauche.<br>BC.345 - Sommer 5.2 ; Or - 4,47 g - 21 mm - 6 h<br>NGC MS 5/5 5/5 (3990670-008). <br>De frappe un peu faible. Quasiment dans son \u00e9tat de frappe. Superbe \u00e0 Fleur de coin.",
+      "description": "MDC Monaco | ['Auction 17']",
+      "hammer_price_usd": 1528.02,
+      "currency_original": "USD",
+      "price_original": 1528.02,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "3990670-008",
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/3990670008/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
