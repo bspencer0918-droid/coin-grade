@@ -19,14 +19,14 @@
   "median_price_usd": 126.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "XF": 18,
     "G": 3,
+    "XF": 18,
     "VF": 13,
     "MS": 1,
     "AU": 12,
     "F": 4
   },
-  "thumbnail_url": "https://media.coinarchives.com/87ef6741504f11c0f74b140fd582bb78/img/ponterio/236/image45103.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/b532292da2c013cf2c0845db9e05c3ec/img/nac/autumn2025/image02579.jpg",
   "median_weight_g": null,
   "top_strike_score": null,
   "top_surface_score": null,
@@ -36,39 +36,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "coinarchives-8671082eb0a5",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2695206&AucID=6923&Lot=45103&Val=89e4a50491fb8ebbfa9c20e617595c80",
-      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 45103 \u2014 THESSALY. Larissa. AR Obol, ca. 479-460 B.C. NGC EF.\nTo view all items from the Cookie Family Collection, click  here.\nHGC-4, 405; BCD Thessaly-139. Head of the nymph Larissa right / Sandal of Jason r",
-      "description": "THESSALY. Larissa. AR Obol, ca. 479-460 B.C. NGC EF.\nTo view all items from the Cookie Family Collection, click  here.\nHGC-4, 405; BCD Thessaly-139. Head of the nymph Larissa right / Sandal of Jason right within incuse square.\n\nFrom the Cookie Family Collection.\n\nEx: Classical Numismatic Group 96 (5/2014), Lot # 137 (with ticket).\n\nEstimate: 100 - 200...",
-      "hammer_price_usd": 100.0,
-      "currency_original": "USD",
-      "price_original": 100.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-16",
-      "image_url": "https://media.coinarchives.com/87ef6741504f11c0f74b140fd582bb78/img/ponterio/236/image45103.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-9b7b7a567d1b",
       "source": "coinarchives",
@@ -89,6 +56,39 @@
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-8671082eb0a5",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2695206&AucID=6923&Lot=45103&Val=89e4a50491fb8ebbfa9c20e617595c80",
+      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 45103 \u2014 THESSALY. Larissa. AR Obol, ca. 479-460 B.C. NGC EF.\nTo view all items from the Cookie Family Collection, click  here.\nHGC-4, 405; BCD Thessaly-139. Head of the nymph Larissa right / Sandal of Jason r",
+      "description": "THESSALY. Larissa. AR Obol, ca. 479-460 B.C. NGC EF.\nTo view all items from the Cookie Family Collection, click  here.\nHGC-4, 405; BCD Thessaly-139. Head of the nymph Larissa right / Sandal of Jason right within incuse square.\n\nFrom the Cookie Family Collection.\n\nEx: Classical Numismatic Group 96 (5/2014), Lot # 137 (with ticket).\n\nEstimate: 100 - 200...",
+      "hammer_price_usd": 100.0,
+      "currency_original": "USD",
+      "price_original": 100.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": "https://media.coinarchives.com/87ef6741504f11c0f74b140fd582bb78/img/ponterio/236/image45103.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
