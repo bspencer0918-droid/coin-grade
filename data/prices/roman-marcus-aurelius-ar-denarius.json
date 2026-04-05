@@ -37,39 +37,6 @@
   "mint_mark": null,
   "sales": [
     {
-      "id": "sixbid-5839f34af237",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13230/ancients-roman-imperial/11677478/marcus-aurelius-as-caesar-ad",
-      "title": "Marcus Aurelius, as Caesar (AD 161-180). AR denarius (18mm, 1h). NGC Choice XF. Rome, August-December AD 165. M ANTONINVS AVG-ARMENIACVS, laureate head of Marcus Aurelius right / P M TR P X-IX-IMP III COS III, Roma seated left on backless throne, feet on ground, Victory in outstretched right hand, spear in left, shield at side behind. RIC III 141.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice <br> Ancients",
-      "description": "Heritage Auctions, Inc. | ['Auction #61554']",
-      "hammer_price_usd": 564.0,
-      "currency_original": "USD",
-      "price_original": 564.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-10-05",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "sixbid-e9672738bc06",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -426,6 +393,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-5839f34af237",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13230/ancients-roman-imperial/11677478/marcus-aurelius-as-caesar-ad",
+      "title": "Marcus Aurelius, as Caesar (AD 161-180). AR denarius (18mm, 1h). NGC Choice XF. Rome, August-December AD 165. M ANTONINVS AVG-ARMENIACVS, laureate head of Marcus Aurelius right / P M TR P X-IX-IMP III COS III, Roma seated left on backless throne, feet on ground, Victory in outstretched right hand, spear in left, shield at side behind. RIC III 141.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice <br> Ancients",
+      "description": "Heritage Auctions, Inc. | ['Auction #61554']",
+      "hammer_price_usd": 564.0,
+      "currency_original": "USD",
+      "price_original": 564.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-05",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

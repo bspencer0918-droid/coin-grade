@@ -35,39 +35,6 @@
   "mint_mark": null,
   "sales": [
     {
-      "id": "sixbid-cb5e42fff953",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13230/ancients-byzantine/11677480/john-viii-palaeologus-ad-1421-1425-1448",
-      "title": "John VIII Palaeologus (AD 1421/1425-1448). AR stavraton (23mm, 1h). NGC VF. Constantinople. Bust of Christ facing, wearing nimbus cruciger, book of Gospels in left hand; IC-XC across fields, pellet in right field, pellets within double border around / + I\u03a9ANHC \u0394EC\u03a0OTIC O \u03a0\u0391\u039b\u0404\u039f\u039b\u039f\u0393OC / \u0398V XAPITI AVTOKPATOP, nimbate bust of John VIII facing, crowned and wearing loros; pellet in left field. Sear 2563 (AR half-hyperpyron).   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice <br> Ancients",
-      "description": "Heritage Auctions, Inc. | ['Auction #61554']",
-      "hammer_price_usd": 252.0,
-      "currency_original": "USD",
-      "price_original": 252.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-10-05",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "sixbid-82d25795115d",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -127,6 +94,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-cb5e42fff953",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13230/ancients-byzantine/11677480/john-viii-palaeologus-ad-1421-1425-1448",
+      "title": "John VIII Palaeologus (AD 1421/1425-1448). AR stavraton (23mm, 1h). NGC VF. Constantinople. Bust of Christ facing, wearing nimbus cruciger, book of Gospels in left hand; IC-XC across fields, pellet in right field, pellets within double border around / + I\u03a9ANHC \u0394EC\u03a0OTIC O \u03a0\u0391\u039b\u0404\u039f\u039b\u039f\u0393OC / \u0398V XAPITI AVTOKPATOP, nimbate bust of John VIII facing, crowned and wearing loros; pellet in left field. Sear 2563 (AR half-hyperpyron).   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice <br> Ancients",
+      "description": "Heritage Auctions, Inc. | ['Auction #61554']",
+      "hammer_price_usd": 252.0,
+      "currency_original": "USD",
+      "price_original": 252.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-05",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

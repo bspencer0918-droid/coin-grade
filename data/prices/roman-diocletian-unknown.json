@@ -7,7 +7,7 @@
   "ruler_dates": "AD 284\u2013305",
   "ruler_rarity": null,
   "denomination": "Unknown",
-  "metal": "silver",
+  "metal": "bronze",
   "sale_count": 118,
   "realized_count": 118,
   "fixed_price_count": 0,
@@ -19,9 +19,9 @@
   "median_price_usd": 204.0,
   "last_sale_date": "2026-03-15",
   "grade_distribution": {
-    "XF": 17,
     "AU": 46,
     "MS": 50,
+    "XF": 17,
     "VF": 4,
     "G": 1
   },
@@ -35,39 +35,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-d3d510c57102",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13230/ancients-roman-imperial/11677479/diocletian-ad-284-305-ar-argenteus",
-      "title": "Diocletian (AD 284-305). AR argenteus (20mm, 3.28 gm, 12h). NGC Choice XF 5/5 - 4/5, light marks. Nicomedia, 3rd officina, ca. AD 295-296. DIOCLETI-ANVS AVG, laureate head of Diocletian right / VICTORIAE SARMATICAE, campgate of small masonry stones, four turrets, the doors thrown open; SMN\u0393 below. RIC VI 25a. Superb detail with amber and indigo toning.    HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice <br> Ancients",
-      "description": "Heritage Auctions, Inc. | ['Auction #61554']",
-      "hammer_price_usd": 990.0,
-      "currency_original": "USD",
-      "price_original": 990.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-10-05",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "sixbid-729344b5d63d",
       "source": "sixbid",
@@ -161,6 +128,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-d3d510c57102",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13230/ancients-roman-imperial/11677479/diocletian-ad-284-305-ar-argenteus",
+      "title": "Diocletian (AD 284-305). AR argenteus (20mm, 3.28 gm, 12h). NGC Choice XF 5/5 - 4/5, light marks. Nicomedia, 3rd officina, ca. AD 295-296. DIOCLETI-ANVS AVG, laureate head of Diocletian right / VICTORIAE SARMATICAE, campgate of small masonry stones, four turrets, the doors thrown open; SMN\u0393 below. RIC VI 25a. Superb detail with amber and indigo toning.    HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice <br> Ancients",
+      "description": "Heritage Auctions, Inc. | ['Auction #61554']",
+      "hammer_price_usd": 990.0,
+      "currency_original": "USD",
+      "price_original": 990.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-05",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
