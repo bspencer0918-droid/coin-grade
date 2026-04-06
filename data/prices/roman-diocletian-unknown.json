@@ -7,7 +7,7 @@
   "ruler_dates": "AD 284\u2013305",
   "ruler_rarity": null,
   "denomination": "Unknown",
-  "metal": "bronze",
+  "metal": "unknown",
   "sale_count": 118,
   "realized_count": 118,
   "fixed_price_count": 0,
@@ -19,8 +19,8 @@
   "median_price_usd": 204.0,
   "last_sale_date": "2026-03-15",
   "grade_distribution": {
-    "AU": 46,
     "MS": 50,
+    "AU": 46,
     "XF": 17,
     "VF": 4,
     "G": 1
@@ -35,39 +35,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-729344b5d63d",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13229/ancients-roman-imperial/11677435/diocletian-ad-284-305-bi-antoninianus",
-      "title": "Diocletian (AD 284-305). BI antoninianus (22mm, 5h). NGC AU, Silvering. Antioch, 4th officina, ca. AD 285. IMP C C VAL DIOCLETIANVS P F AVG, radiate, draped, and cuirassed bust of Diocletian right, seen from front / IOV ET HERCV CONSER AVGG, Jupiter standing right (on left), grounded scepter in left hand, globe in outstretched right, facing Hercules standing facing (on right), head left, Victory left in outstretched right hand, club and lion skin cradled in left arm; pellet above \u0394 in central field, XXI in exergue. RIC V.II 323. Superbly sharp details and reflective surfaces.   When Diocletian came into power, he realized that the empire was too large to be run by one person. To solve this problem, he divided the Roman Empire into four parts to be ruled by four men, the Tetrachy, with himself and Maximian as Augusti and Galerius and Constantius I as Caesares. The art of this short-lived period emphasized the equality of these emperors and stripped away their individuality. Unfortunately, after Diocletian's death, the tetrarchy quickly fell apart with infighting for control, resulting in Constantine the Great, the son of Constantius I, coming out on top.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice <br> Ancients",
-      "description": "Heritage Auctions, Inc. | ['Auction #61555']",
-      "hammer_price_usd": 120.0,
-      "currency_original": "USD",
-      "price_original": 120.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-10-06",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-d4f24943fd06",
       "source": "coinarchives",
@@ -128,6 +95,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-729344b5d63d",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13229/ancients-roman-imperial/11677435/diocletian-ad-284-305-bi-antoninianus",
+      "title": "Diocletian (AD 284-305). BI antoninianus (22mm, 5h). NGC AU, Silvering. Antioch, 4th officina, ca. AD 285. IMP C C VAL DIOCLETIANVS P F AVG, radiate, draped, and cuirassed bust of Diocletian right, seen from front / IOV ET HERCV CONSER AVGG, Jupiter standing right (on left), grounded scepter in left hand, globe in outstretched right, facing Hercules standing facing (on right), head left, Victory left in outstretched right hand, club and lion skin cradled in left arm; pellet above \u0394 in central field, XXI in exergue. RIC V.II 323. Superbly sharp details and reflective surfaces.   When Diocletian came into power, he realized that the empire was too large to be run by one person. To solve this problem, he divided the Roman Empire into four parts to be ruled by four men, the Tetrachy, with himself and Maximian as Augusti and Galerius and Constantius I as Caesares. The art of this short-lived period emphasized the equality of these emperors and stripped away their individuality. Unfortunately, after Diocletian's death, the tetrarchy quickly fell apart with infighting for control, resulting in Constantine the Great, the son of Constantius I, coming out on top.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice <br> Ancients",
+      "description": "Heritage Auctions, Inc. | ['Auction #61555']",
+      "hammer_price_usd": 120.0,
+      "currency_original": "USD",
+      "price_original": 120.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-06",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

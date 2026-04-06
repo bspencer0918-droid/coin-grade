@@ -19,8 +19,8 @@
   "median_price_usd": 159.0,
   "last_sale_date": "2026-03-16",
   "grade_distribution": {
-    "MS": 78,
     "G": 2,
+    "MS": 78,
     "AU": 63,
     "XF": 18,
     "VF": 6,
@@ -36,39 +36,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-121692dd7cdc",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13229/ancients-roman-imperial/11677432/aurelian-ad-270-275-bi-antoninianus",
-      "title": "Aurelian (AD 270-275). BI antoninianus (22mm, 5h). NGC MS, Silvering. Siscia, 2nd officina. IMP C AVRELIANVS AVG, radiate, cuirassed bust of Aurelianus right, seen from the front / CONCORDIA MILITVM, Aurelian standing right (on left), clasping hands with Concordia standing left (on right); S in center field, XXIS in exergue. RIC V.I 244. Reflective, hematite toning on well-centered and crisp dies.    HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice <br> Ancients",
-      "description": "Heritage Auctions, Inc. | ['Auction #61555']",
-      "hammer_price_usd": 420.0,
-      "currency_original": "USD",
-      "price_original": 420.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-10-06",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "sixbid-7a0163a8622e",
       "source": "sixbid",
@@ -162,6 +129,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-121692dd7cdc",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13229/ancients-roman-imperial/11677432/aurelian-ad-270-275-bi-antoninianus",
+      "title": "Aurelian (AD 270-275). BI antoninianus (22mm, 5h). NGC MS, Silvering. Siscia, 2nd officina. IMP C AVRELIANVS AVG, radiate, cuirassed bust of Aurelianus right, seen from the front / CONCORDIA MILITVM, Aurelian standing right (on left), clasping hands with Concordia standing left (on right); S in center field, XXIS in exergue. RIC V.I 244. Reflective, hematite toning on well-centered and crisp dies.    HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice <br> Ancients",
+      "description": "Heritage Auctions, Inc. | ['Auction #61555']",
+      "hammer_price_usd": 420.0,
+      "currency_original": "USD",
+      "price_original": 420.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-06",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

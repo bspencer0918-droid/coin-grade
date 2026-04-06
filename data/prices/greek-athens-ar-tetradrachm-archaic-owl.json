@@ -26,9 +26,9 @@
   },
   "thumbnail_url": "https://media.coinarchives.com/db785e84d883155cb9e66b086305b00f/img/numiscorner/006/image00003.jpg",
   "median_weight_g": null,
-  "top_strike_score": 5,
-  "top_surface_score": 2,
-  "top_grade_numeric": 5,
+  "top_strike_score": 4,
+  "top_surface_score": 5,
+  "top_grade_numeric": 4,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
@@ -57,39 +57,6 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/6639697001/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-ea12e3340dec",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13229/ancients-greek/11677344/thracian-kingdom-lysimachus-305-281-bc",
-      "title": "THRACIAN KINGDOM. Lysimachus (305-281 BC). AR tetradrachm (30mm, 16.96 gm, 11h). NGC Choice XF 5/5 - 2/5, Fine Style, brushed. Lifetime issue, Pergamum, ca. 287/6-282 BC. Diademed head of deified Alexander III right, with horn of Ammon; K below, dotted border / BA\u03a3I\u039bE\u03a9\u03a3 / \u039bY\u03a3IMAXOY, Athena seated left, Nike standing left in outstretched right hand, resting left arm on grounded shield decorated with gorgoneion head boss, transverse spear in background; star in outer left field, archaic xoanon (cult image) facing in inner left field. Thompson 227. Muller-. Mirror-like luster on reverse with blond highlights.   Alexander the Great's meteoric 13-year career of conquest left the classical world profoundly transformed by the time of his premature death in 323 BC. In the immediate aftermath, Alexander's generals carved up his immense new empire into spheres of influence, although maintaining the fiction of a unified leadership. Territorial disputes soon led to civil wars, with the rival warlords contending for supreme power. Chief among these was Lysimachus, who at various times controlled Thrace, Macedon and much of Asia Minor. For the obverse of his silver his coinage, Lysimachus claimed the mantle of Alexander by choosing the image of the conqueror himself, now shown as a god wearing the ram's horn of the Greco-Egyptian deity Ammon. The image is one of the earliest true portraits to appear on a coin, and one of the finest. The reverse, depicting Athena enthroned, likewise proved extremely influential throughout history, forming the archetype for the figure of Britannia on modern English coins.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice <br> Ancients",
-      "description": "Heritage Auctions, Inc. | ['Auction #61555']",
-      "hammer_price_usd": 1350.0,
-      "currency_original": "USD",
-      "price_original": 1350.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-10-06",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "fine_style": true,
-        "certification_url": null,
         "grading_service": "ngc"
       },
       "metadata": {
@@ -160,6 +127,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-ea12e3340dec",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13229/ancients-greek/11677344/thracian-kingdom-lysimachus-305-281-bc",
+      "title": "THRACIAN KINGDOM. Lysimachus (305-281 BC). AR tetradrachm (30mm, 16.96 gm, 11h). NGC Choice XF 5/5 - 2/5, Fine Style, brushed. Lifetime issue, Pergamum, ca. 287/6-282 BC. Diademed head of deified Alexander III right, with horn of Ammon; K below, dotted border / BA\u03a3I\u039bE\u03a9\u03a3 / \u039bY\u03a3IMAXOY, Athena seated left, Nike standing left in outstretched right hand, resting left arm on grounded shield decorated with gorgoneion head boss, transverse spear in background; star in outer left field, archaic xoanon (cult image) facing in inner left field. Thompson 227. Muller-. Mirror-like luster on reverse with blond highlights.   Alexander the Great's meteoric 13-year career of conquest left the classical world profoundly transformed by the time of his premature death in 323 BC. In the immediate aftermath, Alexander's generals carved up his immense new empire into spheres of influence, although maintaining the fiction of a unified leadership. Territorial disputes soon led to civil wars, with the rival warlords contending for supreme power. Chief among these was Lysimachus, who at various times controlled Thrace, Macedon and much of Asia Minor. For the obverse of his silver his coinage, Lysimachus claimed the mantle of Alexander by choosing the image of the conqueror himself, now shown as a god wearing the ram's horn of the Greco-Egyptian deity Ammon. The image is one of the earliest true portraits to appear on a coin, and one of the finest. The reverse, depicting Athena enthroned, likewise proved extremely influential throughout history, forming the archetype for the figure of Britannia on modern English coins.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice <br> Ancients",
+      "description": "Heritage Auctions, Inc. | ['Auction #61555']",
+      "hammer_price_usd": 1350.0,
+      "currency_original": "USD",
+      "price_original": 1350.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-06",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

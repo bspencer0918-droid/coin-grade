@@ -19,10 +19,10 @@
   "median_price_usd": 2562.0,
   "last_sale_date": "2026-01-23",
   "grade_distribution": {
-    "G": 6,
     "XF": 4,
     "MS": 42,
-    "AU": 15
+    "AU": 15,
+    "G": 6
   },
   "thumbnail_url": "https://media.coinarchives.com/b55c5c560ad1446c32c4384a865d6c55/img/heritage/3130/image35006.jpg",
   "median_weight_g": null,
@@ -34,39 +34,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-7828f3ea9fd7",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13229/ancients-roman-provincial/11677386/scythia-geto-dacians-coson-ca-after",
-      "title": "SCYTHIA. Geto-Dacians. Coson (ca. after 54 BC). AV stater (21mm, 8.37 gm, 12h). NGC Gem MS 5/5 - 5/5. Sarmatia, Olbia. KO\u03a3\u03a9N, Roman consul (L. Junius Brutus) walking left, accompanied by two lictors fore and aft, \u039f\u039b\u0392 monogram in left field / Eagle standing left on scepter, with spread wings, clutching laurel wreath in right talons; pellet below raised foot. RPC I 1701a. Stunning, buttery toning on well struck dies worthy of its grade.   Ex Freeman & Sear, Mail Bid Sale 12 (28 October 2005), lot 96.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice <br> Ancients",
-      "description": "Heritage Auctions, Inc. | ['Auction #61555']",
-      "hammer_price_usd": 6500.0,
-      "currency_original": "USD",
-      "price_original": 6500.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-10-06",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "G",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "sixbid-2c0485e07ff6",
       "source": "sixbid",
@@ -424,6 +391,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-7828f3ea9fd7",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13229/ancients-roman-provincial/11677386/scythia-geto-dacians-coson-ca-after",
+      "title": "SCYTHIA. Geto-Dacians. Coson (ca. after 54 BC). AV stater (21mm, 8.37 gm, 12h). NGC Gem MS 5/5 - 5/5. Sarmatia, Olbia. KO\u03a3\u03a9N, Roman consul (L. Junius Brutus) walking left, accompanied by two lictors fore and aft, \u039f\u039b\u0392 monogram in left field / Eagle standing left on scepter, with spread wings, clutching laurel wreath in right talons; pellet below raised foot. RPC I 1701a. Stunning, buttery toning on well struck dies worthy of its grade.   Ex Freeman & Sear, Mail Bid Sale 12 (28 October 2005), lot 96.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice <br> Ancients",
+      "description": "Heritage Auctions, Inc. | ['Auction #61555']",
+      "hammer_price_usd": 6500.0,
+      "currency_original": "USD",
+      "price_original": 6500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-06",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

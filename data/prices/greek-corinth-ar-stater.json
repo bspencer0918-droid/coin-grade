@@ -20,8 +20,8 @@
   "last_sale_date": "2026-03-26",
   "grade_distribution": {
     "AU": 26,
-    "VF": 2,
     "XF": 15,
+    "VF": 2,
     "MS": 3
   },
   "thumbnail_url": "https://media.coinarchives.com/a42608a85d7e30d2fca2bca323950cb1/img/tcc/a28/image00043.jpg",
@@ -57,39 +57,6 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/6656265051/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-014536acd63c",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13229/ancients-greek/11677316/lucania-metapontum-ca-340-330-bc",
-      "title": "LUCANIA. Metapontum. Ca. 340-330 BC. AR stater (19mm, 7.87 gm, 11h). NGC Choice VF 5/5 - 5/5, Fine Style. Ap- and Ami-, magistrates. Head of Leucippus right, wearing Corinthian helmet pushed back on head; lion head right behind, A\u03a0 monogram under chin / META, ear of barley with leaf to left; vertical club above leaf, AMI below leaf. HN Italy 1575. Johnston B2. Detailed Fine Style dies display a lush beard for Leucippus.    HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice <br> Ancients",
-      "description": "Heritage Auctions, Inc. | ['Auction #61555']",
-      "hammer_price_usd": 950.0,
-      "currency_original": "USD",
-      "price_original": 950.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-10-06",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "fine_style": true,
-        "certification_url": null,
         "grading_service": "ngc"
       },
       "metadata": {
@@ -358,6 +325,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-014536acd63c",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13229/ancients-greek/11677316/lucania-metapontum-ca-340-330-bc",
+      "title": "LUCANIA. Metapontum. Ca. 340-330 BC. AR stater (19mm, 7.87 gm, 11h). NGC Choice VF 5/5 - 5/5, Fine Style. Ap- and Ami-, magistrates. Head of Leucippus right, wearing Corinthian helmet pushed back on head; lion head right behind, A\u03a0 monogram under chin / META, ear of barley with leaf to left; vertical club above leaf, AMI below leaf. HN Italy 1575. Johnston B2. Detailed Fine Style dies display a lush beard for Leucippus.    HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice <br> Ancients",
+      "description": "Heritage Auctions, Inc. | ['Auction #61555']",
+      "hammer_price_usd": 950.0,
+      "currency_original": "USD",
+      "price_original": 950.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-06",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

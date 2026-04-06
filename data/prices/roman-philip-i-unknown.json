@@ -8,19 +8,19 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "silver",
-  "sale_count": 856,
-  "realized_count": 855,
+  "sale_count": 857,
+  "realized_count": 856,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 30.0,
-    "max": 9900.0
+    "max": 136190.47
   },
   "median_price_usd": 139.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "MS": 329,
     "G": 2,
+    "MS": 330,
     "AU": 376,
     "XF": 103,
     "VF": 38,
@@ -36,39 +36,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-59e00467c491",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13229/ancients-roman-imperial/11677430/philip-i-ad-244-249-ar",
-      "title": "Philip I (AD 244-249). AR antoninianus (22mm, 4.65 gm, 1h). NGC MS S 5/5 - 4/5. Antioch, AD 247. IMP M IVL PHILIPPVS AVG, radiate, draped, and cuirassed bust of Philip I right, seen from behind / P M TR P IIII COS II P P, Felicitas standing facing, head left, tall grounded caduceus in right hand, cornucopia cradled in left arm. RIC IV.III 76. Mirror-like luster on well centered and nicely defined dies.   From the Werner Collection.   The elder Philip was a nobleman of Arab descent who had risen to the post of Praetorian Prefect in the reign of Gordian III (AD 238-244) before staging a successful coup against the young emperor while they were on campaign in Persia. Although the empire was beset with many troubles, the reign started off with some promise. Philip was a conscientious ruler that showed tolerance toward Christians and other persecuted groups. In AD 247, the younger Philip was elevated to the rank of co-Augustus, and together father and son presided over the Saecular Games that marked Rome's 1,000th anniversary in AD 248. However, in the following months turmoil on the frontiers led to a rash of attempted usurpations, prompting the elder Philip to send the general Trajan Decius to put them down. Instead, Decius was proclaimed emperor by his soldiers, who then marched against Rome. The two Philips gathered a legionary force and marched out to meet the usurper at Verona but were defeated and slain in battle. An alternative account states that the younger Philip remained at Rome but was murdered by the Praetorians once the outcome became known.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice <br> Ancients",
-      "description": "Heritage Auctions, Inc. | ['Auction #61555']",
-      "hammer_price_usd": 1300.0,
-      "currency_original": "USD",
-      "price_original": 1300.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-10-06",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "sixbid-3145f1f10113",
       "source": "sixbid",
@@ -136,6 +103,39 @@
       }
     },
     {
+      "id": "sixbid-cc7493d03f95",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/numismatica-genevensis-sa/13350/spain/11784944/philip-iv-1621-1665-8",
+      "title": "Philip IV, 1621-1665. <br> 8 Escudos 1637 (on 1636), Segovia. PHILIPPVS \u00b7 IIII \u00b7 D \u00b7 G Crowned shield. Aqueduct mint mark on the left. Value on the right /  HISPANIARVM \u00b7 REX \u00b7 1637 Spanish cross within quadrilobe. 26,67g. Calic\u00f3 40; Calic\u00f3 (Onza) 50; Cayon & Cast\u00e1n 6777. <br> NGC MS64 (Highest grade). <br> (8706984-002). <br> Splendid. <br> NAC 65 (19 May 2012), 3022. <br> This extremely rare coin was struck with the obverse die of 1636. The mintage was so low that the same dies were used several years. The mint mark of Segovia is the famous aqueduct still visible in the city. Built around the first century AD to channel water from springs in the mountains 17 kilometers to Segovia's fountains, public baths and private houses, in use until 1973, it is one of the greatest Roman aqueducts in the world. The 20,400 granite blocks are bonded solely by their weight, without any binder or mortar.",
+      "description": "Numismatica Genevensis SA | ['Auction 22']",
+      "hammer_price_usd": 136190.47,
+      "currency_original": "USD",
+      "price_original": 136190.47,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-24",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8706984-002",
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8706984002/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-65053f7e35bb",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -162,6 +162,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-59e00467c491",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13229/ancients-roman-imperial/11677430/philip-i-ad-244-249-ar",
+      "title": "Philip I (AD 244-249). AR antoninianus (22mm, 4.65 gm, 1h). NGC MS S 5/5 - 4/5. Antioch, AD 247. IMP M IVL PHILIPPVS AVG, radiate, draped, and cuirassed bust of Philip I right, seen from behind / P M TR P IIII COS II P P, Felicitas standing facing, head left, tall grounded caduceus in right hand, cornucopia cradled in left arm. RIC IV.III 76. Mirror-like luster on well centered and nicely defined dies.   From the Werner Collection.   The elder Philip was a nobleman of Arab descent who had risen to the post of Praetorian Prefect in the reign of Gordian III (AD 238-244) before staging a successful coup against the young emperor while they were on campaign in Persia. Although the empire was beset with many troubles, the reign started off with some promise. Philip was a conscientious ruler that showed tolerance toward Christians and other persecuted groups. In AD 247, the younger Philip was elevated to the rank of co-Augustus, and together father and son presided over the Saecular Games that marked Rome's 1,000th anniversary in AD 248. However, in the following months turmoil on the frontiers led to a rash of attempted usurpations, prompting the elder Philip to send the general Trajan Decius to put them down. Instead, Decius was proclaimed emperor by his soldiers, who then marched against Rome. The two Philips gathered a legionary force and marched out to meet the usurper at Verona but were defeated and slain in battle. An alternative account states that the younger Philip remained at Rome but was murdered by the Praetorians once the outcome became known.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice <br> Ancients",
+      "description": "Heritage Auctions, Inc. | ['Auction #61555']",
+      "hammer_price_usd": 1300.0,
+      "currency_original": "USD",
+      "price_original": 1300.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-06",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
