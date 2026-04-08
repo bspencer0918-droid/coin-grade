@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 1377,
-  "realized_count": 1337,
+  "sale_count": 1379,
+  "realized_count": 1339,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -20,19 +20,19 @@
   "last_sale_date": "2026-04-11",
   "grade_distribution": {
     "VF": 334,
-    "XF": 218,
+    "XF": 219,
     "P": 11,
-    "MS": 381,
+    "MS": 382,
     "AU": 283,
     "F": 105,
     "G": 34,
     "VG": 11
   },
-  "thumbnail_url": "https://media.coinarchives.com/e7ab7d972d4c867f231b1b7d6a2782e1/img/heritage/61605/image23193.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/30ed7def03e20601d7a128bc8165717d/img/heritage/61611/image21025.jpg",
   "median_weight_g": null,
-  "top_strike_score": 4,
-  "top_surface_score": 5,
-  "top_grade_numeric": 4,
+  "top_strike_score": 5,
+  "top_surface_score": 4,
+  "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
@@ -49,7 +49,7 @@
       "currency_original": "USD",
       "price_original": 6000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-07",
+      "sale_date": "2026-04-08",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -82,7 +82,7 @@
       "currency_original": "USD",
       "price_original": 550.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-07",
+      "sale_date": "2026-04-08",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -115,7 +115,7 @@
       "currency_original": "USD",
       "price_original": 13000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-07",
+      "sale_date": "2026-04-08",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -148,7 +148,7 @@
       "currency_original": "USD",
       "price_original": 14000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-07",
+      "sale_date": "2026-04-08",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -181,7 +181,7 @@
       "currency_original": "USD",
       "price_original": 1600.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-07",
+      "sale_date": "2026-04-08",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -214,7 +214,7 @@
       "currency_original": "USD",
       "price_original": 1500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-07",
+      "sale_date": "2026-04-08",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -4428,6 +4428,39 @@
       }
     },
     {
+      "id": "coinarchives-bf74e4d7491e",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2730423&AucID=7035&Lot=21025&Val=8718959cad50fe1a806e81dff5fb36e8",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61611, Lot 21025 \u2014 Ancients\nIONIA. Ephesus. Ca. 180/167-133 BC. AR cistophorus (28mm, 12.71 gm, 1h). NGC MS 5/5 - 4/5. Dated Regnal Year 2 of Attalus III of Pergamum (138/137 BC). Cista mystica with serpent; all within ",
+      "description": "Ancients\nIONIA. Ephesus. Ca. 180/167-133 BC. AR cistophorus (28mm, 12.71 gm, 1h). NGC MS 5/5 - 4/5. Dated Regnal Year 2 of Attalus III of Pergamum (138/137 BC). Cista mystica with serpent; all within ivy wreath / E\u03a6E, bow in bowcase decorated with aphlaston, flanked by two serpents; B (date) and bust of Artemis Ephesia facing in right field. Kleiner-Noe Series 36. \n\nEx Heritage Auctions, Auction 3057 (11 September 2017), lot 32096.  www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.ha.com...",
+      "hammer_price_usd": 1300.0,
+      "currency_original": "USD",
+      "price_original": 1300.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-06",
+      "image_url": "https://media.coinarchives.com/30ed7def03e20601d7a128bc8165717d/img/heritage/61611/image21025.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-8b0bc6f79af2",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -5209,6 +5242,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/8585056002/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-668b380e4cfb",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2730576&AucID=7035&Lot=21178&Val=471166cf4e41e5fe88b9fbfe03401021",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61611, Lot 21178 \u2014 Ancients\nARTUQIDS OF KHARTPERT. 'Imad al-Din Abu Bakr (AH 581-600 / AD 1185-1203). NGC XF 5/5 - 2/5. Diademed male head left; within pelleted border / Malik al-umara / Abu Bakr din / Qara Arslan / bin",
+      "description": "Ancients\nARTUQIDS OF KHARTPERT. 'Imad al-Din Abu Bakr (AH 581-600 / AD 1185-1203). NGC XF 5/5 - 2/5. Diademed male head left; within pelleted border / Malik al-umara / Abu Bakr din / Qara Arslan / bin ARtuq al- Na/sir li-din Allah / sanah / thalath wa thamanin (Arabic). Spengler & Sayles Type 22. Album 1825.2.  www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.ha.com/itm/ancients/islamic/artuqids-of-khartpert-imad-al-din-abu-bakr-ah-581-600-ad-1185-1203-ngc-xf-5-5-2-5/p/61611-38005.s?type...",
+      "hammer_price_usd": 75.0,
+      "currency_original": "USD",
+      "price_original": 75.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-06",
+      "image_url": "https://media.coinarchives.com/9f4d5960af0c480a0603465514dbe6c4/img/heritage/61611/image21178.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
         "grading_service": "ngc"
       },
       "metadata": {

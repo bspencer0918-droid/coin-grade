@@ -17,7 +17,7 @@
     "max": 4320.0
   },
   "median_price_usd": 264.0,
-  "last_sale_date": "2026-04-07",
+  "last_sale_date": "2026-04-08",
   "grade_distribution": {
     "XF": 17,
     "VF": 20,
@@ -48,7 +48,7 @@
       "currency_original": "USD",
       "price_original": 900.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-07",
+      "sale_date": "2026-04-08",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -81,7 +81,7 @@
       "currency_original": "USD",
       "price_original": 1500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-07",
+      "sale_date": "2026-04-08",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -114,7 +114,7 @@
       "currency_original": "USD",
       "price_original": 1000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-07",
+      "sale_date": "2026-04-08",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -147,7 +147,7 @@
       "currency_original": "USD",
       "price_original": 325.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-07",
+      "sale_date": "2026-04-08",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -156,39 +156,6 @@
         "grade_numeric": null,
         "strike_score": 3,
         "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "cng-d6d4ce6eec3c",
-      "source": "cng",
-      "listing_type": "auction_realized",
-      "lot_url": "https://auctions.cngcoins.com/lots/view/4-85Z8U2",
-      "title": "Triton XXVI Lot: 9. GAUL, Northwest. Veneti. 3rd century BC. AV Quarter Stater (11mm, 1.75 g, 7h). NGC graded AU, 3/5, 5/5.",
-      "description": "Celtic, Gold Estimated:\u00a0$  2 000 Sold\u00a0Price:\u00a0$  1 200",
-      "hammer_price_usd": 1200.0,
-      "currency_original": "USD",
-      "price_original": 1200.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-04-07",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "G",
-        "grade_numeric": null,
-        "strike_score": 3,
-        "surface_score": 5,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
@@ -229,6 +196,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "cng-d6d4ce6eec3c",
+      "source": "cng",
+      "listing_type": "auction_realized",
+      "lot_url": "https://auctions.cngcoins.com/lots/view/4-85Z8U2",
+      "title": "Triton XXVI Lot: 9. GAUL, Northwest. Veneti. 3rd century BC. AV Quarter Stater (11mm, 1.75 g, 7h). NGC graded AU, 3/5, 5/5.",
+      "description": "Celtic, Gold Estimated:\u00a0$  2 000 Sold\u00a0Price:\u00a0$  1 200",
+      "hammer_price_usd": 1200.0,
+      "currency_original": "USD",
+      "price_original": 1200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-07",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 3,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
