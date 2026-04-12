@@ -19,9 +19,9 @@
   "median_price_usd": 1350.0,
   "last_sale_date": "2026-04-06",
   "grade_distribution": {
-    "F": 1,
     "XF": 10,
     "VF": 7,
+    "F": 1,
     "AU": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/610671a2defc4a96fad2c1266ff82afa/img/ponterio/236/image40064.jpg",
@@ -34,39 +34,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-6ced26eb2c52",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13256/ancients-celtic/11699728/central-europe-the-boii-2nd-1st",
-      "title": "CENTRAL EUROPE. The Boii. 2nd-1st century BC. AV 1/24 stater or myshemihecte (5mm, 0.33 gm). NGC Fine 3/5 - 3/5, light marks. Athena-Alkis series. Round bulge with slightly concave area in center / Athena-Alkis advancing right, shield in right hand, preparing to hurl spear with left; two triangles of three pellets in left field. Lanz 36-37.  The Boii, an ancient Celtic tribe, held a prominent role within the larger Iron Age La T\u00e8ne culture. Their influence stretched across diverse territories, including modern-day Bohemia (a name derived from the tribe itself), western Slovakia, and various parts of Northern Italy. Historical records from ancient Rome speak of the Boii in detail, due to their frequent interaction and conflict, particularly during the Roman Republican period. Known for their warrior culture, the Boii frequently clashed with neighboring tribes and the burgeoning power of Rome. Their eventual decline was a result of these continuous wars and the growing hegemony of Rome.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice <br> Ancients",
-      "description": "Heritage Auctions, Inc. | ['Auction #61556']",
-      "hammer_price_usd": 660.0,
-      "currency_original": "USD",
-      "price_original": 660.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-10-12",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "F",
-        "grade_numeric": null,
-        "strike_score": 3,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "sixbid-1b12eaddd736",
       "source": "sixbid",
@@ -424,6 +391,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-6ced26eb2c52",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13256/ancients-celtic/11699728/central-europe-the-boii-2nd-1st",
+      "title": "CENTRAL EUROPE. The Boii. 2nd-1st century BC. AV 1/24 stater or myshemihecte (5mm, 0.33 gm). NGC Fine 3/5 - 3/5, light marks. Athena-Alkis series. Round bulge with slightly concave area in center / Athena-Alkis advancing right, shield in right hand, preparing to hurl spear with left; two triangles of three pellets in left field. Lanz 36-37.  The Boii, an ancient Celtic tribe, held a prominent role within the larger Iron Age La T\u00e8ne culture. Their influence stretched across diverse territories, including modern-day Bohemia (a name derived from the tribe itself), western Slovakia, and various parts of Northern Italy. Historical records from ancient Rome speak of the Boii in detail, due to their frequent interaction and conflict, particularly during the Roman Republican period. Known for their warrior culture, the Boii frequently clashed with neighboring tribes and the burgeoning power of Rome. Their eventual decline was a result of these continuous wars and the growing hegemony of Rome.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice <br> Ancients",
+      "description": "Heritage Auctions, Inc. | ['Auction #61556']",
+      "hammer_price_usd": 660.0,
+      "currency_original": "USD",
+      "price_original": 660.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-12",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 3,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
