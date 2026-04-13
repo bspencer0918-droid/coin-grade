@@ -17,7 +17,7 @@
     "max": 312000.0
   },
   "median_price_usd": 900.0,
-  "last_sale_date": "2026-04-12",
+  "last_sale_date": "2026-04-13",
   "grade_distribution": {
     "VF": 334,
     "XF": 219,
@@ -49,7 +49,7 @@
       "currency_original": "USD",
       "price_original": 6000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-12",
+      "sale_date": "2026-04-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -82,7 +82,7 @@
       "currency_original": "USD",
       "price_original": 550.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-12",
+      "sale_date": "2026-04-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -115,7 +115,7 @@
       "currency_original": "USD",
       "price_original": 13000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-12",
+      "sale_date": "2026-04-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -148,7 +148,7 @@
       "currency_original": "USD",
       "price_original": 14000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-12",
+      "sale_date": "2026-04-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -181,7 +181,7 @@
       "currency_original": "USD",
       "price_original": 1600.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-12",
+      "sale_date": "2026-04-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -214,7 +214,7 @@
       "currency_original": "USD",
       "price_original": 1500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-12",
+      "sale_date": "2026-04-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -4131,39 +4131,6 @@
       }
     },
     {
-      "id": "sixbid-1769e4fb693d",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13266/worldcoin-other-medals/11713439/t-china-trio-of-silver",
-      "title": "(t) CHINA. Trio of Silver 10 Yuan (3 Pieces), 1995. All NGC PROOF-70 Ultra Cameo. <br> Romance of the 3 Kingdoms Series.<p>1) KM-849. General Guan Yu issue.</p><p>2) KM-847. Liu Bei issue.</p><p>3) KM-850. Zhang Fei issue.</p>",
-      "description": "Stack\u2019s Bowers and Ponterio | ['The October 2025 Hong Kong (SAR)']",
-      "hammer_price_usd": 660.0,
-      "currency_original": "USD",
-      "price_original": 660.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-10-13",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "P",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "sixbid-92e161aa5d6b",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -5609,6 +5576,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-1769e4fb693d",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13266/worldcoin-other-medals/11713439/t-china-trio-of-silver",
+      "title": "(t) CHINA. Trio of Silver 10 Yuan (3 Pieces), 1995. All NGC PROOF-70 Ultra Cameo. <br> Romance of the 3 Kingdoms Series.<p>1) KM-849. General Guan Yu issue.</p><p>2) KM-847. Liu Bei issue.</p><p>3) KM-850. Zhang Fei issue.</p>",
+      "description": "Stack\u2019s Bowers and Ponterio | ['The October 2025 Hong Kong (SAR)']",
+      "hammer_price_usd": 660.0,
+      "currency_original": "USD",
+      "price_original": 660.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "P",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
