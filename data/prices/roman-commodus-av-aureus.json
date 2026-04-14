@@ -29,7 +29,7 @@
   "thumbnail_url": "https://media.coinarchives.com/14ea6dbfb3bb19f43d1034aebc973952/img/heritage/3129/image34080.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
-  "top_surface_score": 4,
+  "top_surface_score": 2,
   "top_grade_numeric": 4,
   "dominant_service": "ngc",
   "series": null,
@@ -136,39 +136,6 @@
       }
     },
     {
-      "id": "sixbid-489cc4bd19a7",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13634/ancients-roman-imperial/12049043/commodus-as-augustus-ad-177-192",
-      "title": "Commodus, as Augustus (AD 177-192). AR denarius (17mm, 2.63 gm, 11h). NGC Choice XF 4/5 - 4/5. Rome, AD 183-184. M COMMODVS-ANTON AVG PIVS, laureate head of Commodus right / P M TR P VIIII-IMP VI COS IIII P P, Felicitas standing facing, head left, caduceus in outstretched right hand, cornucopia cradled in left arm; modius at feet before. RIC III 74.  Ex Heritage Auctions, Auction 231436 (4 September 2014), lot 61054.  The sole reign of Commodus, AD 180-192, is often viewed as the tipping point where the Roman Empire's long decline began. Commodus has thus been featured in novels, plays, and feature films as a villain, most recently in the cinema epics \"Fall of the Roman Empire\" (1964) and \"Gladiator\" (2001). Son of the greatly revered \"Philosopher Emperor\" Marcus Aurelius (AD 161-180), Commodus was the first emperor born \"in the purple\" in AD 161. Marcus made him co-Augustus in AD 177. He accompanied Marcus on a military campaign against the Germans in AD 178; worn out by his exertions, Marcus died on 17 March AD 180. Freed of his dutiful father's control, Commodus immediately cut a deal with the Germans and abandoned all further plans of military conquest. Returning to Rome, he plunged into sensual pursuits and left governing to a succession of favorites who plundered the public purse and aggrandized themselves. While Commodus continued and worsened the debasement of Roman silver coinage begun by his father, the gold coinage remained of high purity, weight, and artistry. This beautiful aureus, struck early in his sole reign, depicts him as a young man very much in the image of his father. The historians Dio and Herodian both describe him as exceptionally handsome, a picture borne out by his coin portraits and sculpture. The reverse evokes the \"Security of the Public\" in an uncertain age.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
-      "description": "Heritage Auctions, Inc. | ['Auction #61605']",
-      "hammer_price_usd": 340.0,
-      "currency_original": "USD",
-      "price_original": 340.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-15",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-63e7e3b3986d",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -195,6 +162,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-489cc4bd19a7",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13634/ancients-roman-imperial/12049043/commodus-as-augustus-ad-177-192",
+      "title": "Commodus, as Augustus (AD 177-192). AR denarius (17mm, 2.63 gm, 11h). NGC Choice XF 4/5 - 4/5. Rome, AD 183-184. M COMMODVS-ANTON AVG PIVS, laureate head of Commodus right / P M TR P VIIII-IMP VI COS IIII P P, Felicitas standing facing, head left, caduceus in outstretched right hand, cornucopia cradled in left arm; modius at feet before. RIC III 74.  Ex Heritage Auctions, Auction 231436 (4 September 2014), lot 61054.  The sole reign of Commodus, AD 180-192, is often viewed as the tipping point where the Roman Empire's long decline began. Commodus has thus been featured in novels, plays, and feature films as a villain, most recently in the cinema epics \"Fall of the Roman Empire\" (1964) and \"Gladiator\" (2001). Son of the greatly revered \"Philosopher Emperor\" Marcus Aurelius (AD 161-180), Commodus was the first emperor born \"in the purple\" in AD 161. Marcus made him co-Augustus in AD 177. He accompanied Marcus on a military campaign against the Germans in AD 178; worn out by his exertions, Marcus died on 17 March AD 180. Freed of his dutiful father's control, Commodus immediately cut a deal with the Germans and abandoned all further plans of military conquest. Returning to Rome, he plunged into sensual pursuits and left governing to a succession of favorites who plundered the public purse and aggrandized themselves. While Commodus continued and worsened the debasement of Roman silver coinage begun by his father, the gold coinage remained of high purity, weight, and artistry. This beautiful aureus, struck early in his sole reign, depicts him as a young man very much in the image of his father. The historians Dio and Herodian both describe him as exceptionally handsome, a picture borne out by his coin portraits and sculpture. The reverse evokes the \"Security of the Public\" in an uncertain age.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61605']",
+      "hammer_price_usd": 340.0,
+      "currency_original": "USD",
+      "price_original": 340.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-15",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
