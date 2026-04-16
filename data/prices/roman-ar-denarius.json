@@ -17,7 +17,7 @@
     "max": 720000.0
   },
   "median_price_usd": 264.0,
-  "last_sale_date": "2026-04-15",
+  "last_sale_date": "2026-04-16",
   "grade_distribution": {
     "XF": 1679,
     "VF": 1998,
@@ -28,7 +28,7 @@
     "VG": 36,
     "AG": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/0634cd20fbd3a2ec7d325153653d2951/img/goldberg/150/image00575.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/5e780b2dd3424cbe415d5e5fcb905445/img/heritage/61578/image23018.jpg",
   "median_weight_g": null,
   "top_strike_score": 3,
   "top_surface_score": 5,
@@ -49,7 +49,7 @@
       "currency_original": "USD",
       "price_original": 1100.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-15",
+      "sale_date": "2026-04-16",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -82,7 +82,7 @@
       "currency_original": "USD",
       "price_original": 950.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-15",
+      "sale_date": "2026-04-16",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -115,7 +115,7 @@
       "currency_original": "USD",
       "price_original": 650.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-15",
+      "sale_date": "2026-04-16",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1699,7 +1699,7 @@
       "currency_original": "USD",
       "price_original": 2250.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-15",
+      "sale_date": "2026-04-16",
       "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc108783a.jpg",
       "ngc": {
         "verified": false,
@@ -1732,7 +1732,7 @@
       "currency_original": "USD",
       "price_original": 1800.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-15",
+      "sale_date": "2026-04-16",
       "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc107402a.jpg",
       "ngc": {
         "verified": false,
@@ -1765,7 +1765,7 @@
       "currency_original": "USD",
       "price_original": 500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-15",
+      "sale_date": "2026-04-16",
       "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc95621a.jpg",
       "ngc": {
         "verified": false,
@@ -1798,12 +1798,45 @@
       "currency_original": "USD",
       "price_original": 750.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-15",
+      "sale_date": "2026-04-16",
       "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc95576a.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
         "grade": "F",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-44929897bae8",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2676330&AucID=6862&Lot=23018&Val=1798d2d771b345650908cf402dfda025",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61578, Lot 23018 \u2014 Ancients\nC. Gargilius, Ogulnius, and M. Vergilius (ca. 86 BC). AR denarius (18mm, 7h). NGC Choice VF. Rome. Laureate head of Apollo right; thunderbolt below truncation / Jupiter driving quadriga gallo",
+      "description": "Ancients\nC. Gargilius, Ogulnius, and M. Vergilius (ca. 86 BC). AR denarius (18mm, 7h). NGC Choice VF. Rome. Laureate head of Apollo right; thunderbolt below truncation / Jupiter driving quadriga galloping right, brandishing thunderbolt in right hand, reins in left. Crawford 350A/2. RRSC 2, D145.2. Nicely reflective details. Note, although NGC calls this issue anonymous, Crawford and Moretti list the above moneyers. \n\nEx Perseus Coins, private sale with old dealer's tag included; Pars Coins, pr...",
+      "hammer_price_usd": 450.0,
+      "currency_original": "USD",
+      "price_original": 450.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-21",
+      "image_url": "https://media.coinarchives.com/5e780b2dd3424cbe415d5e5fcb905445/img/heritage/61578/image23018.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
@@ -2204,39 +2237,6 @@
         "strike_score": 5,
         "surface_score": 2,
         "details_grade": "Banker'S Mark",
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-44929897bae8",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2676330&AucID=6862&Lot=23018&Val=1798d2d771b345650908cf402dfda025",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61578, Lot 23018 \u2014 Ancients\nC. Gargilius, Ogulnius, and M. Vergilius (ca. 86 BC). AR denarius (18mm, 7h). NGC Choice VF. Rome. Laureate head of Apollo right; thunderbolt below truncation / Jupiter driving quadriga gallo",
-      "description": "Ancients\nC. Gargilius, Ogulnius, and M. Vergilius (ca. 86 BC). AR denarius (18mm, 7h). NGC Choice VF. Rome. Laureate head of Apollo right; thunderbolt below truncation / Jupiter driving quadriga galloping right, brandishing thunderbolt in right hand, reins in left. Crawford 350A/2. RRSC 2, D145.2. Nicely reflective details. Note, although NGC calls this issue anonymous, Crawford and Moretti list the above moneyers. \n\nEx Perseus Coins, private sale with old dealer's tag included; Pars Coins, pr...",
-      "hammer_price_usd": 450.0,
-      "currency_original": "USD",
-      "price_original": 450.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-21",
-      "image_url": "https://media.coinarchives.com/5e780b2dd3424cbe415d5e5fcb905445/img/heritage/61578/image23018.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
         "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"

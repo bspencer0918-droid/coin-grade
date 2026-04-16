@@ -17,20 +17,20 @@
     "max": 180000.0
   },
   "median_price_usd": 8607.75,
-  "last_sale_date": "2026-04-15",
+  "last_sale_date": "2026-04-16",
   "grade_distribution": {
     "VF": 10,
     "XF": 36,
     "AU": 48,
-    "MS": 12,
     "F": 1,
+    "MS": 12,
     "VG": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/ae96208ac5e39adc6a47ce61a90291ff/img/heritage/3129/image33001.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/b2d6e519632c0cdb613f049c6d1b6268/img/heritage/3129/image31001.jpg",
   "median_weight_g": null,
-  "top_strike_score": 5,
-  "top_surface_score": 5,
-  "top_grade_numeric": null,
+  "top_strike_score": 4,
+  "top_surface_score": 4,
+  "top_grade_numeric": 4,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
@@ -47,7 +47,7 @@
       "currency_original": "USD",
       "price_original": 110.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-15",
+      "sale_date": "2026-04-16",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -169,39 +169,6 @@
       }
     },
     {
-      "id": "coinarchives-1cf94c3f722c",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687267&AucID=6920&Lot=33001&Val=878ca4cba082ab526cd626c9ee8f9d8e",
-      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3129, Lot 33001 \u2014 Ancients\nSICILY. Syracuse. Dionysius I (405-367 BC). AV 100-litrai or decadrachm (14mm, 5.78 gm, 2h). NGC MS\u2605 5/5 - 5/5, Fine Style. Attic standard. Ca. 400-370 BC. \u03a3\u03a5\u03a1\u0391\u039a\u039f\u03a3\u0399\u03a9\u039d, head of Arethusa left i",
-      "description": "Ancients\nSICILY. Syracuse. Dionysius I (405-367 BC). AV 100-litrai or decadrachm (14mm, 5.78 gm, 2h). NGC MS\u2605 5/5 - 5/5, Fine Style. Attic standard. Ca. 400-370 BC. \u03a3\u03a5\u03a1\u0391\u039a\u039f\u03a3\u0399\u03a9\u039d, head of Arethusa left in high classical style, hair pulled back into parallel waves along brow line, back held in sphendone decorated with two eight-pointed stars; pellet before, eight-pointed star behind head / Nude youthful Heracles kneeling to right, arms wrapped around neck of Nemean lion crouching left, his head pr...",
-      "hammer_price_usd": 92500.0,
-      "currency_original": "USD",
-      "price_original": 92500.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-12",
-      "image_url": "https://media.coinarchives.com/ae96208ac5e39adc6a47ce61a90291ff/img/heritage/3129/image33001.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "fine_style": true,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-6df81105e772",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -289,6 +256,39 @@
         "surface_score": 5,
         "details_grade": null,
         "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-1cf94c3f722c",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687267&AucID=6920&Lot=33001&Val=878ca4cba082ab526cd626c9ee8f9d8e",
+      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3129, Lot 33001 \u2014 Ancients\nSICILY. Syracuse. Dionysius I (405-367 BC). AV 100-litrai or decadrachm (14mm, 5.78 gm, 2h). NGC MS\u2605 5/5 - 5/5, Fine Style. Attic standard. Ca. 400-370 BC. \u03a3\u03a5\u03a1\u0391\u039a\u039f\u03a3\u0399\u03a9\u039d, head of Arethusa left i",
+      "description": "Ancients\nSICILY. Syracuse. Dionysius I (405-367 BC). AV 100-litrai or decadrachm (14mm, 5.78 gm, 2h). NGC MS\u2605 5/5 - 5/5, Fine Style. Attic standard. Ca. 400-370 BC. \u03a3\u03a5\u03a1\u0391\u039a\u039f\u03a3\u0399\u03a9\u039d, head of Arethusa left in high classical style, hair pulled back into parallel waves along brow line, back held in sphendone decorated with two eight-pointed stars; pellet before, eight-pointed star behind head / Nude youthful Heracles kneeling to right, arms wrapped around neck of Nemean lion crouching left, his head pr...",
+      "hammer_price_usd": 92500.0,
+      "currency_original": "USD",
+      "price_original": 92500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-12",
+      "image_url": "https://media.coinarchives.com/ae96208ac5e39adc6a47ce61a90291ff/img/heritage/3129/image33001.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": true,
         "certification_url": null,
         "grading_service": "ngc"
       },

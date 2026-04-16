@@ -20,8 +20,8 @@
   "last_sale_date": "2026-02-23",
   "grade_distribution": {
     "VF": 21,
-    "MS": 5,
     "XF": 17,
+    "MS": 5,
     "AU": 13,
     "G": 1,
     "F": 32,
@@ -71,39 +71,6 @@
       }
     },
     {
-      "id": "coinarchives-a64c192aa3e6",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687384&AucID=6920&Lot=34054&Val=e3f50bc903118a5618ced509fc3151f3",
-      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3129, Lot 34054 \u2014 Ancients\nVespasian (AD 69-79). AV aureus (19mm, 7.30 gm, 7h). NGC MS 5/5 - 4/5. Rome, January-June AD 70. IMP CAESAR VESPASIANVS AVG, laureate head of Vespasian right / COS ITER-T-R POT, Pax seated le",
-      "description": "Ancients\nVespasian (AD 69-79). AV aureus (19mm, 7.30 gm, 7h). NGC MS 5/5 - 4/5. Rome, January-June AD 70. IMP CAESAR VESPASIANVS AVG, laureate head of Vespasian right / COS ITER-T-R POT, Pax seated left, branch in raised right hand, caduceus cradled in left arm. Calic\u00f3 607. RIC II.1, 28. This exceptional specimen features captivating auburn toning delicately dispersed across its surface, a characteristic frequently associated with the renowned Boscoreale Hoard.\n\nEx Heritage Auctions, Auction 3...",
-      "hammer_price_usd": 72500.0,
-      "currency_original": "USD",
-      "price_original": 72500.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-12",
-      "image_url": "https://media.coinarchives.com/2b0573989c2d1f2965e4e040b5b0fb7a/img/heritage/3129/image34054.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-ffb8169ffa55",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -123,6 +90,39 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-a64c192aa3e6",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687384&AucID=6920&Lot=34054&Val=e3f50bc903118a5618ced509fc3151f3",
+      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3129, Lot 34054 \u2014 Ancients\nVespasian (AD 69-79). AV aureus (19mm, 7.30 gm, 7h). NGC MS 5/5 - 4/5. Rome, January-June AD 70. IMP CAESAR VESPASIANVS AVG, laureate head of Vespasian right / COS ITER-T-R POT, Pax seated le",
+      "description": "Ancients\nVespasian (AD 69-79). AV aureus (19mm, 7.30 gm, 7h). NGC MS 5/5 - 4/5. Rome, January-June AD 70. IMP CAESAR VESPASIANVS AVG, laureate head of Vespasian right / COS ITER-T-R POT, Pax seated left, branch in raised right hand, caduceus cradled in left arm. Calic\u00f3 607. RIC II.1, 28. This exceptional specimen features captivating auburn toning delicately dispersed across its surface, a characteristic frequently associated with the renowned Boscoreale Hoard.\n\nEx Heritage Auctions, Auction 3...",
+      "hammer_price_usd": 72500.0,
+      "currency_original": "USD",
+      "price_original": 72500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-12",
+      "image_url": "https://media.coinarchives.com/2b0573989c2d1f2965e4e040b5b0fb7a/img/heritage/3129/image34054.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

@@ -27,16 +27,49 @@
     "F": 3,
     "VG": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/c98bacea5d473016857ea6bbcb1a78ac/img/heritage/3129/image33054.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/1cb4b2da06c3ba5a398ad0f5d64c54a1/img/ngsa/022/image00126.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 3,
-  "top_grade_numeric": null,
+  "top_surface_score": 5,
+  "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-4acc2385257a",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2679434&AucID=6875&Lot=126&Val=bdc8d41ad495c59c6052ff6244b9cdfa",
+      "title": "Numismatica Genevensis SA - Auction 22, Lot 126 \u2014 GREEK WORLD\nAchaemenid Empire\nDarius I or Xerxes II, 485-420 BC.\nGold daric, Sardes. Persian king or hero, wearing cidaris and candys, quiver over shoulder, in kneeling-running stance right, transvers",
+      "description": "GREEK WORLD\nAchaemenid Empire\nDarius I or Xerxes II, 485-420 BC.\nGold daric, Sardes. Persian king or hero, wearing cidaris and candys, quiver over shoulder, in kneeling-running stance right, transverse spear in right hand, bow forward in left / Rectangular irregular incuse punch. 8,34g. 17mm.  BMC Arabia pl. XXIV, 26; Carradice Type IIIb Group A/B.\n\nSplendid specimen.\n\nProvenance: Heritage 3073 (25 April 2019), 30149.\n\nWas slabbed NGC Choice MS 5/5 5/5 in Heritage auction.\n\nStarting price: 400...",
+      "hammer_price_usd": 5060.0,
+      "currency_original": "CHF",
+      "price_original": 4600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-24",
+      "image_url": "https://media.coinarchives.com/1cb4b2da06c3ba5a398ad0f5d64c54a1/img/ngsa/022/image00126.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-758f8cb1ae94",
       "source": "coinarchives",
@@ -83,39 +116,6 @@
       "buyers_premium_included": false,
       "sale_date": "2026-01-12",
       "image_url": "https://media.coinarchives.com/521b7332d3a9b2a7a5d168f8d62d7e18/img/heritage/3129/image33055.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-4acc2385257a",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2679434&AucID=6875&Lot=126&Val=bdc8d41ad495c59c6052ff6244b9cdfa",
-      "title": "Numismatica Genevensis SA - Auction 22, Lot 126 \u2014 GREEK WORLD\nAchaemenid Empire\nDarius I or Xerxes II, 485-420 BC.\nGold daric, Sardes. Persian king or hero, wearing cidaris and candys, quiver over shoulder, in kneeling-running stance right, transvers",
-      "description": "GREEK WORLD\nAchaemenid Empire\nDarius I or Xerxes II, 485-420 BC.\nGold daric, Sardes. Persian king or hero, wearing cidaris and candys, quiver over shoulder, in kneeling-running stance right, transverse spear in right hand, bow forward in left / Rectangular irregular incuse punch. 8,34g. 17mm.  BMC Arabia pl. XXIV, 26; Carradice Type IIIb Group A/B.\n\nSplendid specimen.\n\nProvenance: Heritage 3073 (25 April 2019), 30149.\n\nWas slabbed NGC Choice MS 5/5 5/5 in Heritage auction.\n\nStarting price: 400...",
-      "hammer_price_usd": 5060.0,
-      "currency_original": "CHF",
-      "price_original": 4600.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-11-24",
-      "image_url": "https://media.coinarchives.com/1cb4b2da06c3ba5a398ad0f5d64c54a1/img/ngsa/022/image00126.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,

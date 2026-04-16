@@ -662,39 +662,6 @@
       }
     },
     {
-      "id": "coinarchives-4b8a068371a8",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2703254&AucID=6961&Lot=76&Val=e72c074e451e8bb851022a1fdfa70691",
-      "title": "Stephen Album Rare Coins - Auction 54, Lot 76 \u2014 ROMAN EMPIRE: Marcian, 450-457, AV solidus (4.46g), Constantinople, RIC-511, 9th officina, helmeted, pearl-diademed, and cuirassed bust facing slightly right, holding spear in right hand behind head a",
-      "description": "ROMAN EMPIRE: Marcian, 450-457, AV solidus (4.46g), Constantinople, RIC-511, 9th officina, helmeted, pearl-diademed, and cuirassed bust facing slightly right, holding spear in right hand behind head and shield decorated with horseman on left arm, D N MARCIANVS P F AVG // Victory standing left, holding long jeweled cross, VICTORIA AVGGG Th, CONOB in exergue, light marks, Strike 4/5, Surface 4/5, NGC graded AU.\n\nEstimate: 600 - 800 USD...",
-      "hammer_price_usd": 1100.0,
-      "currency_original": "USD",
-      "price_original": 1100.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-22",
-      "image_url": "https://media.coinarchives.com/b41b6b4b1ff43159383d4f5a81eec620/img/album/054/image00076.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "G",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-aa8ca9b5ed16",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -714,6 +681,39 @@
         "grade_numeric": null,
         "strike_score": 4,
         "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-4b8a068371a8",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2703254&AucID=6961&Lot=76&Val=e72c074e451e8bb851022a1fdfa70691",
+      "title": "Stephen Album Rare Coins - Auction 54, Lot 76 \u2014 ROMAN EMPIRE: Marcian, 450-457, AV solidus (4.46g), Constantinople, RIC-511, 9th officina, helmeted, pearl-diademed, and cuirassed bust facing slightly right, holding spear in right hand behind head a",
+      "description": "ROMAN EMPIRE: Marcian, 450-457, AV solidus (4.46g), Constantinople, RIC-511, 9th officina, helmeted, pearl-diademed, and cuirassed bust facing slightly right, holding spear in right hand behind head and shield decorated with horseman on left arm, D N MARCIANVS P F AVG // Victory standing left, holding long jeweled cross, VICTORIA AVGGG Th, CONOB in exergue, light marks, Strike 4/5, Surface 4/5, NGC graded AU.\n\nEstimate: 600 - 800 USD...",
+      "hammer_price_usd": 1100.0,
+      "currency_original": "USD",
+      "price_original": 1100.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-22",
+      "image_url": "https://media.coinarchives.com/b41b6b4b1ff43159383d4f5a81eec620/img/album/054/image00076.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

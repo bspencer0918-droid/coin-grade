@@ -17,7 +17,7 @@
     "max": 536800.0
   },
   "median_price_usd": 5040.0,
-  "last_sale_date": "2026-04-15",
+  "last_sale_date": "2026-04-16",
   "grade_distribution": {
     "AU": 181,
     "MS": 268,
@@ -47,7 +47,7 @@
       "currency_original": "USD",
       "price_original": 55000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-15",
+      "sale_date": "2026-04-16",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -80,7 +80,7 @@
       "currency_original": "USD",
       "price_original": 1600.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-15",
+      "sale_date": "2026-04-16",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -301,72 +301,6 @@
       }
     },
     {
-      "id": "coinarchives-227ca3085877",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687293&AucID=6920&Lot=33027&Val=fbc5f00263a10be2cb899a0668600c4c",
-      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3129, Lot 33027 \u2014 Ancients\nLYDIAN KINGDOM. Croesus (561-546 BC). AV stater (16mm, 10.77 gm). NGC Gem MS\u2605 5/5 - 5/5, Fine Style. Croeseid \"heavy\" standard, Sardes, ca. 561-550 BC. Confronted foreparts of lion right (on ",
-      "description": "Ancients\nLYDIAN KINGDOM. Croesus (561-546 BC). AV stater (16mm, 10.77 gm). NGC Gem MS\u2605 5/5 - 5/5, Fine Style. Croeseid \"heavy\" standard, Sardes, ca. 561-550 BC. Confronted foreparts of lion right (on left) and bull left (on right), each with outstretched foreleg / Two square punches of unequal size, side by side, with irregular interior surfaces. Rosen 660. BMC Lydia 30. Boston MFA 2068. Gulbenkian 756 (same dies). Berk \"100 Greatest Ancient Coins,\" 9.1 (one same reverse die). Glistening in th...",
-      "hammer_price_usd": 440000.0,
-      "currency_original": "USD",
-      "price_original": 440000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-12",
-      "image_url": "https://media.coinarchives.com/528ab5ec255a71c12fec7cba53be0a3e/img/heritage/3129/image33027.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "G",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "fine_style": true,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-8aa79b203c39",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687300&AucID=6920&Lot=33034&Val=77cc7f6a211cd4632d522888d16c1411",
-      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3129, Lot 33034 \u2014 Ancients\nLYDIAN KINGDOM. Croesus (561-546 BC). AV stater (15mm, 8.09 gm). NGC Choice MS 5/5 - 5/5. Croeseid \"light\" standard, Sardes, ca. 546-521 BC. Confronted foreparts of lion right (on left) and b",
-      "description": "Ancients\nLYDIAN KINGDOM. Croesus (561-546 BC). AV stater (15mm, 8.09 gm). NGC Choice MS 5/5 - 5/5. Croeseid \"light\" standard, Sardes, ca. 546-521 BC. Confronted foreparts of lion right (on left) and bull left (on right), each with outstretched foreleg / Two square punches of unequal size, side by side, with irregular interior surfaces. Boston MFA 2077. Carradice 8-9. Gulbenkian 757-758. The firm strike on this later issue of Croesus displays a more abstract style than its earlier heavy standar...",
-      "hammer_price_usd": 75000.0,
-      "currency_original": "USD",
-      "price_original": 75000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-12",
-      "image_url": "https://media.coinarchives.com/8706e15a1586c2979cba68fd89f8f5cf/img/heritage/3129/image33034.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-af33f89d1e21",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -454,6 +388,72 @@
         "surface_score": 4,
         "details_grade": null,
         "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-227ca3085877",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687293&AucID=6920&Lot=33027&Val=fbc5f00263a10be2cb899a0668600c4c",
+      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3129, Lot 33027 \u2014 Ancients\nLYDIAN KINGDOM. Croesus (561-546 BC). AV stater (16mm, 10.77 gm). NGC Gem MS\u2605 5/5 - 5/5, Fine Style. Croeseid \"heavy\" standard, Sardes, ca. 561-550 BC. Confronted foreparts of lion right (on ",
+      "description": "Ancients\nLYDIAN KINGDOM. Croesus (561-546 BC). AV stater (16mm, 10.77 gm). NGC Gem MS\u2605 5/5 - 5/5, Fine Style. Croeseid \"heavy\" standard, Sardes, ca. 561-550 BC. Confronted foreparts of lion right (on left) and bull left (on right), each with outstretched foreleg / Two square punches of unequal size, side by side, with irregular interior surfaces. Rosen 660. BMC Lydia 30. Boston MFA 2068. Gulbenkian 756 (same dies). Berk \"100 Greatest Ancient Coins,\" 9.1 (one same reverse die). Glistening in th...",
+      "hammer_price_usd": 440000.0,
+      "currency_original": "USD",
+      "price_original": 440000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-12",
+      "image_url": "https://media.coinarchives.com/528ab5ec255a71c12fec7cba53be0a3e/img/heritage/3129/image33027.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-8aa79b203c39",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687300&AucID=6920&Lot=33034&Val=77cc7f6a211cd4632d522888d16c1411",
+      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3129, Lot 33034 \u2014 Ancients\nLYDIAN KINGDOM. Croesus (561-546 BC). AV stater (15mm, 8.09 gm). NGC Choice MS 5/5 - 5/5. Croeseid \"light\" standard, Sardes, ca. 546-521 BC. Confronted foreparts of lion right (on left) and b",
+      "description": "Ancients\nLYDIAN KINGDOM. Croesus (561-546 BC). AV stater (15mm, 8.09 gm). NGC Choice MS 5/5 - 5/5. Croeseid \"light\" standard, Sardes, ca. 546-521 BC. Confronted foreparts of lion right (on left) and bull left (on right), each with outstretched foreleg / Two square punches of unequal size, side by side, with irregular interior surfaces. Boston MFA 2077. Carradice 8-9. Gulbenkian 757-758. The firm strike on this later issue of Croesus displays a more abstract style than its earlier heavy standar...",
+      "hammer_price_usd": 75000.0,
+      "currency_original": "USD",
+      "price_original": 75000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-12",
+      "image_url": "https://media.coinarchives.com/8706e15a1586c2979cba68fd89f8f5cf/img/heritage/3129/image33034.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
       },
