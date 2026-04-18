@@ -17,7 +17,7 @@
     "max": 42000.0
   },
   "median_price_usd": 1800.0,
-  "last_sale_date": "2026-04-17",
+  "last_sale_date": "2026-04-18",
   "grade_distribution": {
     "G": 1,
     "F": 1,
@@ -26,7 +26,7 @@
     "MS": 23,
     "VF": 9
   },
-  "thumbnail_url": "https://media.coinarchives.com/5454790ff0ef00146eabe1bdc960928f/img/heritage/3126/image32002.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/a8d170c56e2f2bf2df67134fc4f84c2a/img/ponterio/236/image40020.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 5,
@@ -47,7 +47,7 @@
       "currency_original": "USD",
       "price_original": 500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-17",
+      "sale_date": "2026-04-18",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -268,39 +268,6 @@
       }
     },
     {
-      "id": "coinarchives-0e5a1e6581a9",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2649193&AucID=6756&Lot=32002&Val=3730fcafdd70116e7ffdf0e628a72be4",
-      "title": "Heritage World Coin Auctions - Dallas Signature Sale 3126, Lot 32002 \u2014 Ancients\nSICILY. Acragas. Ca. 500-470 BC. AR didrachm (21mm, 8.86 gm, 5h). NGC Choice VF 4/5 - 4/5, flan flaw. AKPAC-ANTO\u03a3, eagle with closed wings standing left / Crab seen from above. HGC 2, 87. SNG",
-      "description": "Ancients\nSICILY. Acragas. Ca. 500-470 BC. AR didrachm (21mm, 8.86 gm, 5h). NGC Choice VF 4/5 - 4/5, flan flaw. AKPAC-ANTO\u03a3, eagle with closed wings standing left / Crab seen from above. HGC 2, 87. SNG ANS 915 (same dies).\n\nEx Harlan J. Berk, Fixed Price List (January 2008), lot 49925.  www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.ha.com/itm/ancients/greek/greek-sicily-acragas-ca-500-470-bc-ar-didrachm-21mm-886-gm-5h-ngc-choice-vf-4-5-4-5-flan-flaw/a/3126-32002.s?type=DA-DMC-CoinArchi...",
-      "hammer_price_usd": 1100.0,
-      "currency_original": "USD",
-      "price_original": 1100.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-11-06",
-      "image_url": "https://media.coinarchives.com/5454790ff0ef00146eabe1bdc960928f/img/heritage/3126/image32002.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-927129f80bab",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -484,6 +451,39 @@
         "grade": "VF",
         "grade_numeric": null,
         "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-0e5a1e6581a9",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2649193&AucID=6756&Lot=32002&Val=3730fcafdd70116e7ffdf0e628a72be4",
+      "title": "Heritage World Coin Auctions - Dallas Signature Sale 3126, Lot 32002 \u2014 Ancients\nSICILY. Acragas. Ca. 500-470 BC. AR didrachm (21mm, 8.86 gm, 5h). NGC Choice VF 4/5 - 4/5, flan flaw. AKPAC-ANTO\u03a3, eagle with closed wings standing left / Crab seen from above. HGC 2, 87. SNG",
+      "description": "Ancients\nSICILY. Acragas. Ca. 500-470 BC. AR didrachm (21mm, 8.86 gm, 5h). NGC Choice VF 4/5 - 4/5, flan flaw. AKPAC-ANTO\u03a3, eagle with closed wings standing left / Crab seen from above. HGC 2, 87. SNG ANS 915 (same dies).\n\nEx Harlan J. Berk, Fixed Price List (January 2008), lot 49925.  www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.ha.com/itm/ancients/greek/greek-sicily-acragas-ca-500-470-bc-ar-didrachm-21mm-886-gm-5h-ngc-choice-vf-4-5-4-5-flan-flaw/a/3126-32002.s?type=DA-DMC-CoinArchi...",
+      "hammer_price_usd": 1100.0,
+      "currency_original": "USD",
+      "price_original": 1100.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-06",
+      "image_url": "https://media.coinarchives.com/5454790ff0ef00146eabe1bdc960928f/img/heritage/3126/image32002.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 4,
+        "strike_score": 4,
         "surface_score": 4,
         "details_grade": null,
         "fine_style": false,

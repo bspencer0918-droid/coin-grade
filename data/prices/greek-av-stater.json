@@ -17,7 +17,7 @@
     "max": 536800.0
   },
   "median_price_usd": 5040.0,
-  "last_sale_date": "2026-04-17",
+  "last_sale_date": "2026-04-18",
   "grade_distribution": {
     "AU": 181,
     "MS": 268,
@@ -47,7 +47,7 @@
       "currency_original": "USD",
       "price_original": 55000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-17",
+      "sale_date": "2026-04-18",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -80,7 +80,7 @@
       "currency_original": "USD",
       "price_original": 1600.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-17",
+      "sale_date": "2026-04-18",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -301,6 +301,39 @@
       }
     },
     {
+      "id": "coinarchives-53ca1e9cc3df",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687354&AucID=6920&Lot=34024&Val=fb2d60692e9578076078153f8561b608",
+      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3129, Lot 34024 \u2014 Ancients\nBACTRIAN KINGDOM. Diodotus I, as Satrap (ca. 255-235 BC). AV stater (18mm, 8.40 gm, 7h). NGC AU 5/5 - 4/5, Fine Style. First Diodotid Mint (Holt and Kritt's \"Mint A\"), probably Ai Khanoum (or",
+      "description": "Ancients\nBACTRIAN KINGDOM. Diodotus I, as Satrap (ca. 255-235 BC). AV stater (18mm, 8.40 gm, 7h). NGC AU 5/5 - 4/5, Fine Style. First Diodotid Mint (Holt and Kritt's \"Mint A\"), probably Ai Khanoum (or nearby), in the name of Antiochus II, ca. 255-246 BC. Diademed head of Diodotus I right / \u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 / \u0391\u039d\u03a4\u0399\u039f\u03a7\u039f\u03a5, Zeus, nude, seen from behind, advancing left, brandishing thunderbolt in raised right hand, aegis draped over outstretched left arm; N above eagle standing left in inner left field. SC 6...",
+      "hammer_price_usd": 22000.0,
+      "currency_original": "USD",
+      "price_original": 22000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-12",
+      "image_url": "https://media.coinarchives.com/d4705a100e9d6f36314c616c370b8a5e/img/heritage/3129/image34024.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-af33f89d1e21",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -355,39 +388,6 @@
         "surface_score": 3,
         "details_grade": null,
         "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-53ca1e9cc3df",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687354&AucID=6920&Lot=34024&Val=fb2d60692e9578076078153f8561b608",
-      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3129, Lot 34024 \u2014 Ancients\nBACTRIAN KINGDOM. Diodotus I, as Satrap (ca. 255-235 BC). AV stater (18mm, 8.40 gm, 7h). NGC AU 5/5 - 4/5, Fine Style. First Diodotid Mint (Holt and Kritt's \"Mint A\"), probably Ai Khanoum (or",
-      "description": "Ancients\nBACTRIAN KINGDOM. Diodotus I, as Satrap (ca. 255-235 BC). AV stater (18mm, 8.40 gm, 7h). NGC AU 5/5 - 4/5, Fine Style. First Diodotid Mint (Holt and Kritt's \"Mint A\"), probably Ai Khanoum (or nearby), in the name of Antiochus II, ca. 255-246 BC. Diademed head of Diodotus I right / \u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 / \u0391\u039d\u03a4\u0399\u039f\u03a7\u039f\u03a5, Zeus, nude, seen from behind, advancing left, brandishing thunderbolt in raised right hand, aegis draped over outstretched left arm; N above eagle standing left in inner left field. SC 6...",
-      "hammer_price_usd": 22000.0,
-      "currency_original": "USD",
-      "price_original": 22000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-12",
-      "image_url": "https://media.coinarchives.com/d4705a100e9d6f36314c616c370b8a5e/img/heritage/3129/image34024.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": true,
         "certification_url": null,
         "grading_service": "ngc"
       },

@@ -8,21 +8,22 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 3,
-  "realized_count": 3,
+  "sale_count": 6,
+  "realized_count": 6,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 552.0,
-    "max": 1140.0
+    "min": 300.0,
+    "max": 1700.0
   },
-  "median_price_usd": 625.0,
+  "median_price_usd": 588.5,
   "last_sale_date": "2026-02-23",
   "grade_distribution": {
-    "MS": 1,
-    "AU": 2
+    "VF": 2,
+    "AU": 3,
+    "MS": 1
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-2-0-7-5-22075978&w=120&h=300&it=product",
+  "thumbnail_url": "https://media.coinarchives.com/96d8cc60ae6e2a8540b0aa80161d0de5/img/heritage/61569/image22039.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 3,
@@ -32,6 +33,105 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-19d6c079011b",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2663302&AucID=6800&Lot=22039&Val=424d7e68563ad4fe4a32646d2a735aea",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61569, Lot 22039 \u2014 Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AR tetradrachm (28mm, 17.00 gm, 10h). NGC Choice VF 4/5 - 3/5, brushed. Posthumous issue, Corinth, ca. 310-290 BC. Head of Heracles r",
+      "description": "Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AR tetradrachm (28mm, 17.00 gm, 10h). NGC Choice VF 4/5 - 3/5, brushed. Posthumous issue, Corinth, ca. 310-290 BC. Head of Heracles right, wearing lion skin headdress, paws tied before neck / A\u039bE\u039eAN\u0394POY / BA\u03a3I\u039bE\u03a9\u03a3, Zeus enthroned left, with throne back surmounted by two Nikai, right leg drawn back, feet on stool, eagle in outstretched right hand, grounded scepter in left; cornucopia in left field, NO below strut. Price 691.\n\nAl...",
+      "hammer_price_usd": 440.0,
+      "currency_original": "USD",
+      "price_original": 440.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-23",
+      "image_url": "https://media.coinarchives.com/96d8cc60ae6e2a8540b0aa80161d0de5/img/heritage/61569/image22039.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-9ab89b307694",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2663309&AucID=6800&Lot=22046&Val=edcbf47fa8b211d376b5945f15da160e",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61569, Lot 22046 \u2014 Ancients\nTHRACE. Mesambria. Ca. 280-225 BC. AR tetradrachm (29mm, 16.86 gm, 1h). NGC Choice AU 4/5 - 3/5, brushed. Late posthumous issue in the name and types of Alexander III the Great. Head of Herac",
+      "description": "Ancients\nTHRACE. Mesambria. Ca. 280-225 BC. AR tetradrachm (29mm, 16.86 gm, 1h). NGC Choice AU 4/5 - 3/5, brushed. Late posthumous issue in the name and types of Alexander III the Great. Head of Heracles right, wearing lion skin headdress, paws tied before neck / BA\u03a3I\u039bE\u03a9\u03a3 / A\u039bE\u039eAN\u0394POY, Zeus seated left on backless throne, right leg drawn back, feet on ground line, eagle in outstretched right hand, grounded scepter in left; crested Corinthian helmet right above \u03a0O monogram in left field. Price ...",
+      "hammer_price_usd": 1700.0,
+      "currency_original": "USD",
+      "price_original": 1700.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-23",
+      "image_url": "https://media.coinarchives.com/0d7c808f0828854da2b3f8730ad67b16/img/heritage/61569/image22046.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-dd0085b47a82",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2663311&AucID=6800&Lot=22048&Val=9a79bcb936cc2939443ef770548e1e7f",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61569, Lot 22048 \u2014 Ancients\nTHRACE. Mesambria. Ca. 125-65 BC. AR tetradrachm (31mm, 16.36 gm, 11h). NGC VF 5/5 - 3/5, marks. Late posthumous issue in the name and types of Alexander III of Macedon, ca. 125-65 BC. Head o",
+      "description": "Ancients\nTHRACE. Mesambria. Ca. 125-65 BC. AR tetradrachm (31mm, 16.36 gm, 11h). NGC VF 5/5 - 3/5, marks. Late posthumous issue in the name and types of Alexander III of Macedon, ca. 125-65 BC. Head of Heracles right, wearing lion skin headdress, paws tied before neck / BA\u03a3I\u039bE\u03a9\u03a3 / A\u039bE\u039eAN\u0394POY, Zeus enthroned left, right leg drawn back, feet on ground line, eagle in outstretched right hand, grounded scepter in left; complex HAP monogram above crested Corinthian helmet right in left field, APTY m...",
+      "hammer_price_usd": 300.0,
+      "currency_original": "USD",
+      "price_original": 300.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-23",
+      "image_url": "https://media.coinarchives.com/36c09560754aa7bcfde20a556bd5ec03/img/heritage/61569/image22048.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-2f7f73284922",
       "source": "heritage",

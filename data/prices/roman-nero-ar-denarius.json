@@ -202,39 +202,6 @@
       }
     },
     {
-      "id": "coinarchives-9a95701b5900",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2649593&AucID=6754&Lot=174&Val=fe55e6ea4ad5a6188ec93b0a01617bb0",
-      "title": "Savoca Numismatik GmbH & Co. KG - Online Auction 291 | Silver, Lot 174 \u2014 Nero AD 54-68. Rome\nDenarius AR\n\n mm, 3,40 g\n\nIMP NERO CAESAR AVGVSTVS, laureate head to right / SALVS, Salus seated to left on throne, holding patera in right hand, left resting at her side. \n\nNGC gr",
-      "description": "Nero AD 54-68. Rome\nDenarius AR\n\n mm, 3,40 g\n\nIMP NERO CAESAR AVGVSTVS, laureate head to right / SALVS, Salus seated to left on throne, holding patera in right hand, left resting at her side. \n\nNGC graded; Strike 5/5; Surface 4/5; Ch XF\n\nBMC 90; Cohen 314; RIC I 60.\n\nEx Savoca Herakles 3, Lot 122; sold and unpaid.\n\n\n\nStarting price: 500 EUR...",
-      "hammer_price_usd": 972.0,
-      "currency_original": "EUR",
-      "price_original": 900.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-10-26",
-      "image_url": "https://media.coinarchives.com/fd66f0995769eaf9d737644b78c9475f/img/savoca/291/image00174.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "G",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-2bdff82d054d",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -287,6 +254,39 @@
         "grade_numeric": 3,
         "strike_score": 3,
         "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-9a95701b5900",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2649593&AucID=6754&Lot=174&Val=fe55e6ea4ad5a6188ec93b0a01617bb0",
+      "title": "Savoca Numismatik GmbH & Co. KG - Online Auction 291 | Silver, Lot 174 \u2014 Nero AD 54-68. Rome\nDenarius AR\n\n mm, 3,40 g\n\nIMP NERO CAESAR AVGVSTVS, laureate head to right / SALVS, Salus seated to left on throne, holding patera in right hand, left resting at her side. \n\nNGC gr",
+      "description": "Nero AD 54-68. Rome\nDenarius AR\n\n mm, 3,40 g\n\nIMP NERO CAESAR AVGVSTVS, laureate head to right / SALVS, Salus seated to left on throne, holding patera in right hand, left resting at her side. \n\nNGC graded; Strike 5/5; Surface 4/5; Ch XF\n\nBMC 90; Cohen 314; RIC I 60.\n\nEx Savoca Herakles 3, Lot 122; sold and unpaid.\n\n\n\nStarting price: 500 EUR...",
+      "hammer_price_usd": 972.0,
+      "currency_original": "EUR",
+      "price_original": 900.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-26",
+      "image_url": "https://media.coinarchives.com/fd66f0995769eaf9d737644b78c9475f/img/savoca/291/image00174.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

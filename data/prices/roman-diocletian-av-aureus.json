@@ -19,13 +19,13 @@
   "median_price_usd": 14400.0,
   "last_sale_date": "2026-03-26",
   "grade_distribution": {
-    "XF": 6,
     "MS": 19,
+    "XF": 6,
     "AU": 12,
     "VF": 1,
     "F": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/03391e4817fb15a5b1c5f10969a6da9b/img/heritage/3126/image31045.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/4025fb224f72aff37416f2502c6f026d/img/ponterio/stacksbowers_mar26/image19057.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -35,39 +35,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "coinarchives-a3d5b60f9ab1",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2649186&AucID=6756&Lot=31045&Val=359405a90b6ee98e8d4a56c07b3d69b8",
-      "title": "Heritage World Coin Auctions - Dallas Signature Sale 3126, Lot 31045 \u2014 Ancients\nDiocletian (AD 284-305). AV aureus (18mm, 5.52 gm, 6h). NGC Choice XF 5/5 - 4/5, light marks. Rome. DIOCLETI-ANVS PF AVG, laureate head of Diocletian right / IOVI CO-NSER-VAT AVGG, Jupiter st",
-      "description": "Ancients\nDiocletian (AD 284-305). AV aureus (18mm, 5.52 gm, 6h). NGC Choice XF 5/5 - 4/5, light marks. Rome. DIOCLETI-ANVS PF AVG, laureate head of Diocletian right / IOVI CO-NSER-VAT AVGG, Jupiter standing facing, head left, thunderbolt in outstretched right hand, grounded scepter in left; PROM in exergue. Calic\u00f3 4473. RIC-. Bold, reflective reliefs on centered dies. \n\nEx Harlan J. Berk, private sale with old dealer's tag included. \n\nWhen Diocletian came into power, he realized that the empir...",
-      "hammer_price_usd": 5000.0,
-      "currency_original": "USD",
-      "price_original": 5000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-11-06",
-      "image_url": "https://media.coinarchives.com/03391e4817fb15a5b1c5f10969a6da9b/img/heritage/3126/image31045.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-713d6099dea0",
       "source": "coinarchives",
@@ -86,6 +53,39 @@
         "cert_number": null,
         "grade": "MS",
         "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-a3d5b60f9ab1",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2649186&AucID=6756&Lot=31045&Val=359405a90b6ee98e8d4a56c07b3d69b8",
+      "title": "Heritage World Coin Auctions - Dallas Signature Sale 3126, Lot 31045 \u2014 Ancients\nDiocletian (AD 284-305). AV aureus (18mm, 5.52 gm, 6h). NGC Choice XF 5/5 - 4/5, light marks. Rome. DIOCLETI-ANVS PF AVG, laureate head of Diocletian right / IOVI CO-NSER-VAT AVGG, Jupiter st",
+      "description": "Ancients\nDiocletian (AD 284-305). AV aureus (18mm, 5.52 gm, 6h). NGC Choice XF 5/5 - 4/5, light marks. Rome. DIOCLETI-ANVS PF AVG, laureate head of Diocletian right / IOVI CO-NSER-VAT AVGG, Jupiter standing facing, head left, thunderbolt in outstretched right hand, grounded scepter in left; PROM in exergue. Calic\u00f3 4473. RIC-. Bold, reflective reliefs on centered dies. \n\nEx Harlan J. Berk, private sale with old dealer's tag included. \n\nWhen Diocletian came into power, he realized that the empir...",
+      "hammer_price_usd": 5000.0,
+      "currency_original": "USD",
+      "price_original": 5000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-06",
+      "image_url": "https://media.coinarchives.com/03391e4817fb15a5b1c5f10969a6da9b/img/heritage/3126/image31045.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
