@@ -17,15 +17,15 @@
     "max": 292800.0
   },
   "median_price_usd": 1920.0,
-  "last_sale_date": "2026-04-18",
+  "last_sale_date": "2026-04-19",
   "grade_distribution": {
     "VF": 255,
     "AU": 464,
     "XF": 353,
     "G": 11,
     "F": 28,
-    "AG": 1,
     "MS": 176,
+    "AG": 1,
     "VG": 6
   },
   "thumbnail_url": "https://media.coinarchives.com/a8b4dbf993411f64fb58bf7d4ecabb0f/img/heritage/61609/image23033.jpg",
@@ -49,7 +49,7 @@
       "currency_original": "USD",
       "price_original": 1300.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-18",
+      "sale_date": "2026-04-19",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1880,39 +1880,6 @@
       },
       "metadata": {
         "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "hjb-be0a579a44ce",
-      "source": "hjb",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/101757",
-      "title": "Macedonia, Antigonus Gonatas. Tetradrachm",
-      "description": "",
-      "hammer_price_usd": 2750.0,
-      "currency_original": "USD",
-      "price_original": 2750.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-04-18",
-      "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc101757a.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": "788072846",
-        "grade": "AG",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/788072846/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -3823,6 +3790,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "hjb-be0a579a44ce",
+      "source": "hjb",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/101757",
+      "title": "Macedonia, Antigonus Gonatas. Tetradrachm",
+      "description": "",
+      "hammer_price_usd": 2750.0,
+      "currency_original": "USD",
+      "price_original": 2750.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-18",
+      "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc101757a.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "788072846",
+        "grade": "AG",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/788072846/",
         "grading_service": "ngc"
       },
       "metadata": {
