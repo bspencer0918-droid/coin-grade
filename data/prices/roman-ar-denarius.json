@@ -17,14 +17,14 @@
     "max": 720000.0
   },
   "median_price_usd": 264.0,
-  "last_sale_date": "2026-04-19",
+  "last_sale_date": "2026-04-20",
   "grade_distribution": {
     "XF": 1679,
     "VF": 1998,
     "AU": 1140,
-    "G": 18,
     "MS": 346,
     "F": 372,
+    "G": 18,
     "VG": 36,
     "AG": 1
   },
@@ -49,7 +49,7 @@
       "currency_original": "USD",
       "price_original": 1100.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-19",
+      "sale_date": "2026-04-20",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -82,7 +82,7 @@
       "currency_original": "USD",
       "price_original": 950.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-19",
+      "sale_date": "2026-04-20",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -115,7 +115,7 @@
       "currency_original": "USD",
       "price_original": 650.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-19",
+      "sale_date": "2026-04-20",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1689,6 +1689,138 @@
       }
     },
     {
+      "id": "hjb-800b36a4bfe9",
+      "source": "hjb",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/108783",
+      "title": "Julius Caesar. Denarius",
+      "description": "",
+      "hammer_price_usd": 2250.0,
+      "currency_original": "USD",
+      "price_original": 2250.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-20",
+      "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc108783a.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "1089842506",
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/1089842506/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "hjb-134b001b8ec3",
+      "source": "hjb",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/107402",
+      "title": "Julius Caesar. Denarius",
+      "description": "",
+      "hammer_price_usd": 1800.0,
+      "currency_original": "USD",
+      "price_original": 1800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-20",
+      "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc107402a.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "991764301",
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/991764301/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "hjb-49950eb12cbc",
+      "source": "hjb",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/95621",
+      "title": "L. Procilius. Denarius",
+      "description": "",
+      "hammer_price_usd": 500.0,
+      "currency_original": "USD",
+      "price_original": 500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-20",
+      "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc95621a.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "hjb-05b7be235f98",
+      "source": "hjb",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/95576",
+      "title": "Celtic Pannonia, the Eravisci. Denarius",
+      "description": "",
+      "hammer_price_usd": 750.0,
+      "currency_original": "USD",
+      "price_original": 750.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-20",
+      "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc95576a.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-44929897bae8",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -2965,138 +3097,6 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/8220524004/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "hjb-800b36a4bfe9",
-      "source": "hjb",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/108783",
-      "title": "Julius Caesar. Denarius",
-      "description": "",
-      "hammer_price_usd": 2250.0,
-      "currency_original": "USD",
-      "price_original": 2250.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-04-18",
-      "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc108783a.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": "1089842506",
-        "grade": "MS",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/1089842506/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "hjb-134b001b8ec3",
-      "source": "hjb",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/107402",
-      "title": "Julius Caesar. Denarius",
-      "description": "",
-      "hammer_price_usd": 1800.0,
-      "currency_original": "USD",
-      "price_original": 1800.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-04-18",
-      "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc107402a.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": "991764301",
-        "grade": "F",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/991764301/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "hjb-49950eb12cbc",
-      "source": "hjb",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/95621",
-      "title": "L. Procilius. Denarius",
-      "description": "",
-      "hammer_price_usd": 500.0,
-      "currency_original": "USD",
-      "price_original": 500.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-04-18",
-      "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc95621a.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "F",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "hjb-05b7be235f98",
-      "source": "hjb",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/95576",
-      "title": "Celtic Pannonia, the Eravisci. Denarius",
-      "description": "",
-      "hammer_price_usd": 750.0,
-      "currency_original": "USD",
-      "price_original": 750.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-04-18",
-      "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc95576a.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "F",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
         "grading_service": "ngc"
       },
       "metadata": {
