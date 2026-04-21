@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 1379,
-  "realized_count": 1339,
+  "sale_count": 1380,
+  "realized_count": 1340,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,11 +17,11 @@
     "max": 312000.0
   },
   "median_price_usd": 900.0,
-  "last_sale_date": "2026-04-20",
+  "last_sale_date": "2026-04-21",
   "grade_distribution": {
     "VF": 334,
     "XF": 219,
-    "P": 11,
+    "P": 12,
     "MS": 382,
     "AU": 283,
     "F": 105,
@@ -49,7 +49,7 @@
       "currency_original": "USD",
       "price_original": 6000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-20",
+      "sale_date": "2026-04-21",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -82,7 +82,7 @@
       "currency_original": "USD",
       "price_original": 550.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-20",
+      "sale_date": "2026-04-21",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -115,7 +115,7 @@
       "currency_original": "USD",
       "price_original": 13000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-20",
+      "sale_date": "2026-04-21",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -148,7 +148,7 @@
       "currency_original": "USD",
       "price_original": 14000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-20",
+      "sale_date": "2026-04-21",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -181,7 +181,7 @@
       "currency_original": "USD",
       "price_original": 1600.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-20",
+      "sale_date": "2026-04-21",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -214,7 +214,7 @@
       "currency_original": "USD",
       "price_original": 1500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-20",
+      "sale_date": "2026-04-21",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -4114,6 +4114,39 @@
         "verified": false,
         "cert_number": null,
         "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-03a7062896f5",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13709/circulating-issues-proof/12135295/t-china-silver-10-yuan",
+      "title": "(t) CHINA. Silver 10 Yuan Proof Set (4 Pieces), 1995. Shanghai Mint. Romance of the Three Kingdoms. All NGC PROOF-70 Ultra Cameo. <br> 1) KM-847. Liu Bei.<p>2) KM-848. Zhuge Liang.</p><p>3) KM-849. Guan Yu.</p><p>4) KM-850. Zhang Fei.</p>",
+      "description": "Stack\u2019s Bowers and Ponterio | ['The April 2026 Hong Kong (SAR) Auction']",
+      "hammer_price_usd": 500.0,
+      "currency_original": "USD",
+      "price_original": 500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "P",
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,

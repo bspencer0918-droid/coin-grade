@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 107,
-  "realized_count": 106,
+  "sale_count": 108,
+  "realized_count": 107,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,12 +17,12 @@
     "max": 12000.0
   },
   "median_price_usd": 1020.0,
-  "last_sale_date": "2026-04-11",
+  "last_sale_date": "2026-04-13",
   "grade_distribution": {
     "AU": 34,
+    "VF": 5,
     "XF": 21,
-    "MS": 48,
-    "VF": 4
+    "MS": 48
   },
   "thumbnail_url": "https://media.coinarchives.com/56d0b9312bd9076415989a2054e48c50/img/ponterio/236/image40284.jpg",
   "median_weight_g": null,
@@ -54,6 +54,39 @@
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-e21e00b95937",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2734659&AucID=7059&Lot=44020&Val=632c53a6c687a0d10951e1d8f54638c6",
+      "title": "Stack's Bowers Galleries (& Ponterio) - April 2026 Hong Kong Auction, Lot 44020 \u2014 LEO III & CONSTANTINE V, 717-741. AV Solidus (4.44 gms), Constantinople Mint, 725-732. NGC Ch VF, Strike: 5/5 Surface: 3/5.\nS-1504. Obverse: Crowned bust of Leo III facing, holding globus cruciger; Re",
+      "description": "LEO III & CONSTANTINE V, 717-741. AV Solidus (4.44 gms), Constantinople Mint, 725-732. NGC Ch VF, Strike: 5/5 Surface: 3/5.\nS-1504. Obverse: Crowned bust of Leo III facing, holding globus cruciger; Reverse: Crowned bust of Constantine V facing, holding globus cruciger. A well-presented example of the type, with full strikes, plenty of golden luster, and two sharp imperial portraits.\n\nEstimate: 1500 - 2000...",
+      "hammer_price_usd": 1500.0,
+      "currency_original": "USD",
+      "price_original": 1500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-13",
+      "image_url": "https://media.coinarchives.com/eeb7beafb1924800c5ddfacf5efb21f7/img/ponterio/237/image44020.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

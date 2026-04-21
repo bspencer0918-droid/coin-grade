@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 1294,
-  "realized_count": 1291,
+  "sale_count": 1295,
+  "realized_count": 1292,
   "fixed_price_count": 1,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,10 +17,10 @@
     "max": 292800.0
   },
   "median_price_usd": 1920.0,
-  "last_sale_date": "2026-04-20",
+  "last_sale_date": "2026-04-21",
   "grade_distribution": {
     "VF": 255,
-    "AU": 464,
+    "AU": 465,
     "XF": 353,
     "G": 11,
     "F": 28,
@@ -49,7 +49,7 @@
       "currency_original": "USD",
       "price_original": 1300.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-20",
+      "sale_date": "2026-04-21",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1897,7 +1897,7 @@
       "currency_original": "USD",
       "price_original": 2750.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-20",
+      "sale_date": "2026-04-21",
       "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc101757a.jpg",
       "ngc": {
         "verified": false,
@@ -2401,6 +2401,39 @@
         "grade_numeric": 4,
         "strike_score": 4,
         "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-9dcbd6ca3511",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2734655&AucID=7059&Lot=44016&Val=9462a9ff18c157a147a0aaef5ef304ea",
+      "title": "Stack's Bowers Galleries (& Ponterio) - April 2026 Hong Kong Auction, Lot 44016 \u2014 AEOLIS. Kyme. AR Tetradrachm (16.78 gms), Metrophanes, magistrate, ca. 155-143 B.C. NGC AU, Strike: 5/5 Surface: 4/5.\nSNG Cop-104. Stephanophoric type. Obverse: Head of the Amazon Kyme right, wearing ",
+      "description": "AEOLIS. Kyme. AR Tetradrachm (16.78 gms), Metrophanes, magistrate, ca. 155-143 B.C. NGC AU, Strike: 5/5 Surface: 4/5.\nSNG Cop-104. Stephanophoric type. Obverse: Head of the Amazon Kyme right, wearing tainia; Reverse: Horse prancing right; one-handled cup below raised foreleg; MHTPO\u03a6ANH\u03a3 below; all within wreath. Well-struck on a broad flan and displaying a lovely cabinet tone. Slightly worn obverse die, but a powerful reverse.\n\nEstimate: 800 - 1200...",
+      "hammer_price_usd": 1500.0,
+      "currency_original": "USD",
+      "price_original": 1500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-13",
+      "image_url": "https://media.coinarchives.com/ae4de71fc78b6da3a9c75ad89e1fae05/img/ponterio/237/image44016.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
