@@ -367,39 +367,6 @@
       }
     },
     {
-      "id": "coinarchives-dad50515e7cf",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2650512&AucID=6793&Lot=76009&Val=2dc8a01b847b83c713b29a83dbee4bc6",
-      "title": "Stack's Bowers Galleries (& Ponterio) - November 2025 World CCO Auction, Lot 76009 \u2014 ATTICA. Athens. AR Tetradrachm (17.16 gms), ca. 454-404 B.C. NGC Ch AU, Strike: 3/5 Surface: 5/5.\nNGC Ch AU, Strike: 3/5 Surface: 5/5.\nHGC-4, 1597; Kroll-8. Obverse: Helmeted head of Athena right; Rev",
-      "description": "ATTICA. Athens. AR Tetradrachm (17.16 gms), ca. 454-404 B.C. NGC Ch AU, Strike: 3/5 Surface: 5/5.\nNGC Ch AU, Strike: 3/5 Surface: 5/5.\nHGC-4, 1597; Kroll-8. Obverse: Helmeted head of Athena right; Reverse: Owl standing right, head facing; olive sprig and crescent to left; all within incuse square. A nicely centered example that features a pleasant light cabinet tone while retaining a strongly lustrous quality. Some die rust below Athena's chin, but otherwise a fresh and sharp example.\n\nEstimat...",
-      "hammer_price_usd": 950.0,
-      "currency_original": "USD",
-      "price_original": 950.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-11-03",
-      "image_url": "https://media.coinarchives.com/a54d85eca54de8e4b355fe77b42ad344/img/ponterio/cco_nov25/image76009.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 3,
-        "surface_score": 5,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-754109fd7e4b",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -418,6 +385,39 @@
         "grade": "G",
         "grade_numeric": null,
         "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-dad50515e7cf",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2650512&AucID=6793&Lot=76009&Val=2dc8a01b847b83c713b29a83dbee4bc6",
+      "title": "Stack's Bowers Galleries (& Ponterio) - November 2025 World CCO Auction, Lot 76009 \u2014 ATTICA. Athens. AR Tetradrachm (17.16 gms), ca. 454-404 B.C. NGC Ch AU, Strike: 3/5 Surface: 5/5.\nNGC Ch AU, Strike: 3/5 Surface: 5/5.\nHGC-4, 1597; Kroll-8. Obverse: Helmeted head of Athena right; Rev",
+      "description": "ATTICA. Athens. AR Tetradrachm (17.16 gms), ca. 454-404 B.C. NGC Ch AU, Strike: 3/5 Surface: 5/5.\nNGC Ch AU, Strike: 3/5 Surface: 5/5.\nHGC-4, 1597; Kroll-8. Obverse: Helmeted head of Athena right; Reverse: Owl standing right, head facing; olive sprig and crescent to left; all within incuse square. A nicely centered example that features a pleasant light cabinet tone while retaining a strongly lustrous quality. Some die rust below Athena's chin, but otherwise a fresh and sharp example.\n\nEstimat...",
+      "hammer_price_usd": 950.0,
+      "currency_original": "USD",
+      "price_original": 950.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-03",
+      "image_url": "https://media.coinarchives.com/a54d85eca54de8e4b355fe77b42ad344/img/ponterio/cco_nov25/image76009.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 3,
         "surface_score": 5,
         "details_grade": null,
         "fine_style": false,

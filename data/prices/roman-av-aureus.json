@@ -21,8 +21,8 @@
   "grade_distribution": {
     "VF": 48,
     "MS": 53,
-    "XF": 52,
     "AU": 98,
+    "XF": 52,
     "F": 18,
     "G": 2,
     "VG": 5
@@ -92,6 +92,39 @@
         "surface_score": 3,
         "details_grade": null,
         "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-1d4e5ca5d8b6",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687415&AucID=6920&Lot=34085&Val=a84b0b17ad776dfb3c606a8e4936d3be",
+      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3129, Lot 34085 \u2014 Ancients\nManlia Scantilla (AD 193). AV aureus (19mm, 6.82 gm, 5h). NGC Choice AU 5/5 - 4/5. Rome, March-June AD 193. MANL SCAN-TILLA\u2022AVG, draped bust of Manlia Scantilla right, seen from front, hair w",
+      "description": "Ancients\nManlia Scantilla (AD 193). AV aureus (19mm, 6.82 gm, 5h). NGC Choice AU 5/5 - 4/5. Rome, March-June AD 193. MANL SCAN-TILLA\u2022AVG, draped bust of Manlia Scantilla right, seen from front, hair waved, braided, and bound in large chignon at back of head / IVNO\u2022R-EGINA, Juno standing facing, veiled head left, patera in outstretched right hand, grounded scepter in left; peacock standing left at feet before, head reverted. Calic\u00f3 2400. RIC IV.I (Didius Julianus) 7a. An impressively well-prese...",
+      "hammer_price_usd": 240000.0,
+      "currency_original": "USD",
+      "price_original": 240000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-12",
+      "image_url": "https://media.coinarchives.com/3f35460419771a6d6d58b4d9f10ff431/img/heritage/3129/image34085.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
       },
@@ -191,39 +224,6 @@
         "surface_score": 4,
         "details_grade": null,
         "fine_style": true,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-1d4e5ca5d8b6",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687415&AucID=6920&Lot=34085&Val=a84b0b17ad776dfb3c606a8e4936d3be",
-      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3129, Lot 34085 \u2014 Ancients\nManlia Scantilla (AD 193). AV aureus (19mm, 6.82 gm, 5h). NGC Choice AU 5/5 - 4/5. Rome, March-June AD 193. MANL SCAN-TILLA\u2022AVG, draped bust of Manlia Scantilla right, seen from front, hair w",
-      "description": "Ancients\nManlia Scantilla (AD 193). AV aureus (19mm, 6.82 gm, 5h). NGC Choice AU 5/5 - 4/5. Rome, March-June AD 193. MANL SCAN-TILLA\u2022AVG, draped bust of Manlia Scantilla right, seen from front, hair waved, braided, and bound in large chignon at back of head / IVNO\u2022R-EGINA, Juno standing facing, veiled head left, patera in outstretched right hand, grounded scepter in left; peacock standing left at feet before, head reverted. Calic\u00f3 2400. RIC IV.I (Didius Julianus) 7a. An impressively well-prese...",
-      "hammer_price_usd": 240000.0,
-      "currency_original": "USD",
-      "price_original": 240000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-12",
-      "image_url": "https://media.coinarchives.com/3f35460419771a6d6d58b4d9f10ff431/img/heritage/3129/image34085.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
       },
