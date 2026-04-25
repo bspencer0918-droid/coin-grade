@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 1295,
-  "realized_count": 1292,
+  "sale_count": 1296,
+  "realized_count": 1293,
   "fixed_price_count": 1,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,9 +17,9 @@
     "max": 292800.0
   },
   "median_price_usd": 1920.0,
-  "last_sale_date": "2026-04-24",
+  "last_sale_date": "2026-04-25",
   "grade_distribution": {
-    "VF": 255,
+    "VF": 256,
     "AU": 465,
     "XF": 353,
     "G": 11,
@@ -49,7 +49,7 @@
       "currency_original": "USD",
       "price_original": 1300.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-24",
+      "sale_date": "2026-04-25",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1897,7 +1897,7 @@
       "currency_original": "USD",
       "price_original": 2750.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-24",
+      "sale_date": "2026-04-25",
       "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc101757a.jpg",
       "ngc": {
         "verified": false,
@@ -1942,6 +1942,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-171ef77c5f1d",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2736219&AucID=7071&Lot=72&Val=29c8239a4ecea9743a51befee34d1a3f",
+      "title": "The Coin Cabinet - Ancients Auction 34, Lot 72 \u2014 ANCIENT GREECE. PAPHLAGONIA, SINOPE. \nSilver Tetradrachm, 3rd century BC. \nObv: head of female (Sinope-Tyche?) right, wearing turreted crown. Rev: Apollo seated right on omphalos, holding kithara supp",
+      "description": "ANCIENT GREECE. PAPHLAGONIA, SINOPE. \nSilver Tetradrachm, 3rd century BC. \nObv: head of female (Sinope-Tyche?) right, wearing turreted crown. Rev: Apollo seated right on omphalos, holding kithara supported on leg; \u03a3IN\u03a9\u03a0E\u03a9N to left, A M T to right.\n\nIn secure plastic holder, graded NGC VF Strike: 5/5 Surface: 2/5, marks, certification number 2177417-001.\n\nRare.\n\nSituated on the southern coast of the Black Sea, Sinope was one of the most prominent and strategically located Greek colonies in Anat...",
+      "hammer_price_usd": 2540.0,
+      "currency_original": "GBP",
+      "price_original": 2000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-23",
+      "image_url": "https://media.coinarchives.com/3f7b4d886850ce6972d5b8fa9e057f92/img/tcc/a34/image00072.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "2177417-001",
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/2177417001/",
         "grading_service": "ngc"
       },
       "metadata": {

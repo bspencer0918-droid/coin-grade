@@ -8,22 +8,22 @@
   "ruler_rarity": null,
   "denomination": "AR Didrachm",
   "metal": "silver",
-  "sale_count": 3,
-  "realized_count": 3,
+  "sale_count": 4,
+  "realized_count": 4,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 800.0,
     "max": 1300.0
   },
-  "median_price_usd": 1250.0,
-  "last_sale_date": "2026-03-26",
+  "median_price_usd": 1133.0,
+  "last_sale_date": "2026-04-23",
   "grade_distribution": {
     "AU": 1,
-    "G": 1,
-    "VF": 1
+    "VF": 2,
+    "G": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/130ef782e0e9258e321d6f938b075274/img/ponterio/stacksbowers_mar26/image19005.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/a83f9510d2f93cf0ea01071a6f60efd5/img/tcc/a34/image00098.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 2,
@@ -60,6 +60,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-dca5af389b1d",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2736245&AucID=7071&Lot=98&Val=1947f719475cf9d67a71bc16a61e3a3c",
+      "title": "The Coin Cabinet - Ancients Auction 34, Lot 98 \u2014 THE PERSIAN EMPIRES & THE EAST. NORTHWESTERN ARABIA, LIHYAN(?). \nSilver 'Didrachm', circa 2nd-1st Centuries BC. \nAthenian imitation. Obv: head of Athena right, wearing crested Attic helmet; traces of ",
+      "description": "THE PERSIAN EMPIRES & THE EAST. NORTHWESTERN ARABIA, LIHYAN(?). \nSilver 'Didrachm', circa 2nd-1st Centuries BC. \nAthenian imitation. Obv: head of Athena right, wearing crested Attic helmet; traces of symbol (mark of value?) on cheek. Rev: owl standing right(?), head facing; olive sprig and crescent moon before, \u0391\u0398\u0395 behind.\n\nIn secure plastic holder, graded NGC Ch VF Strike: 4/5 Surface: 3/5, certification number 2177417-002.\n\nPossibly Unique; seemingly unpublished in the standard references an...",
+      "hammer_price_usd": 1016.0,
+      "currency_original": "GBP",
+      "price_original": 800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-23",
+      "image_url": "https://media.coinarchives.com/a83f9510d2f93cf0ea01071a6f60efd5/img/tcc/a34/image00098.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "2177417-002",
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/2177417002/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
