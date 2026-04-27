@@ -7,7 +7,7 @@
   "ruler_dates": null,
   "ruler_rarity": null,
   "denomination": "Unknown",
-  "metal": "silver",
+  "metal": "bronze",
   "sale_count": 299,
   "realized_count": 298,
   "fixed_price_count": 0,
@@ -19,9 +19,9 @@
   "median_price_usd": 114.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
-    "MS": 5,
     "XF": 78,
     "VF": 180,
+    "MS": 5,
     "AU": 16,
     "F": 20
   },
@@ -35,39 +35,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-12bc5921ca59",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/sincona-ag/13262/alexander-iii-1881-1894/11702996/russia-empire-and-federation",
-      "title": "<b>RUSSIA.  Empire and Federation.  Alexander III. 1881-1894.&nbsp;&nbsp;</b> <br> Silver medal 1885. Warsaw Society of Horticulture. Prize Medal for Exhibitors. By L. Steinman. Two females in ancient clothes, one seated holding a cornucopia, the other standing behind her, holding a wreath and bouquet of roses. Rv. Inscription within wreath made of fruit, berries and flowers. Engraved: Feyderkowi Bardetowi 1885. 42.3 mm. Diakov 1113.2 (R3) [erroneously attributed to 1894]. NGC MS62.<br>(~\u20ac 535/USD 625)",
-      "description": "SINCONA AG | ['Auction 99']",
-      "hammer_price_usd": 635.24,
-      "currency_original": "USD",
-      "price_original": 635.2367,
-      "buyers_premium_included": false,
-      "sale_date": "2025-10-27",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "sixbid-c741927b2d33",
       "source": "sixbid",
@@ -524,6 +491,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-12bc5921ca59",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/sincona-ag/13262/alexander-iii-1881-1894/11702996/russia-empire-and-federation",
+      "title": "<b>RUSSIA.  Empire and Federation.  Alexander III. 1881-1894.&nbsp;&nbsp;</b> <br> Silver medal 1885. Warsaw Society of Horticulture. Prize Medal for Exhibitors. By L. Steinman. Two females in ancient clothes, one seated holding a cornucopia, the other standing behind her, holding a wreath and bouquet of roses. Rv. Inscription within wreath made of fruit, berries and flowers. Engraved: Feyderkowi Bardetowi 1885. 42.3 mm. Diakov 1113.2 (R3) [erroneously attributed to 1894]. NGC MS62.<br>(~\u20ac 535/USD 625)",
+      "description": "SINCONA AG | ['Auction 99']",
+      "hammer_price_usd": 635.24,
+      "currency_original": "USD",
+      "price_original": 635.2367,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-27",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

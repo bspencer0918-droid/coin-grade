@@ -1,6 +1,6 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-04-26T07:57:31.257981+00:00",
+  "generated_at": "2026-04-27T08:48:56.777337+00:00",
   "coins": [
     {
       "slug": "other-av-dinar",
@@ -21,7 +21,7 @@
         "max": 19200.0
       },
       "median_price_usd": 4320.0,
-      "last_sale_date": "2026-04-26",
+      "last_sale_date": "2026-04-27",
       "grade_distribution": {
         "MS": 62,
         "AU": 113,
@@ -59,7 +59,7 @@
         "max": 300.0
       },
       "median_price_usd": 230.0,
-      "last_sale_date": "2026-04-26",
+      "last_sale_date": "2026-04-27",
       "grade_distribution": {
         "XF": 2
       },
@@ -92,7 +92,7 @@
         "max": 195000.0
       },
       "median_price_usd": 550.0,
-      "last_sale_date": "2026-04-26",
+      "last_sale_date": "2026-04-27",
       "grade_distribution": {
         "F": 11,
         "AU": 21,
@@ -131,7 +131,7 @@
         "max": 536800.0
       },
       "median_price_usd": 5040.0,
-      "last_sale_date": "2026-04-26",
+      "last_sale_date": "2026-04-27",
       "grade_distribution": {
         "AU": 181,
         "MS": 268,
@@ -169,7 +169,7 @@
         "max": 960.0
       },
       "median_price_usd": 325.0,
-      "last_sale_date": "2026-04-26",
+      "last_sale_date": "2026-04-27",
       "grade_distribution": {
         "XF": 10,
         "MS": 20,
@@ -207,7 +207,7 @@
         "max": 4936.68
       },
       "median_price_usd": 790.0,
-      "last_sale_date": "2026-04-26",
+      "last_sale_date": "2026-04-27",
       "grade_distribution": {
         "VF": 30,
         "XF": 29,
@@ -244,7 +244,7 @@
         "max": 4320.0
       },
       "median_price_usd": 264.0,
-      "last_sale_date": "2026-04-26",
+      "last_sale_date": "2026-04-27",
       "grade_distribution": {
         "XF": 17,
         "VF": 20,
@@ -283,7 +283,7 @@
         "max": 1700.0
       },
       "median_price_usd": 1450.0,
-      "last_sale_date": "2026-04-26",
+      "last_sale_date": "2026-04-27",
       "grade_distribution": {
         "XF": 2,
         "VF": 1
@@ -317,7 +317,7 @@
         "max": 8400.0
       },
       "median_price_usd": 159.0,
-      "last_sale_date": "2026-04-26",
+      "last_sale_date": "2026-04-27",
       "grade_distribution": {
         "VF": 42,
         "MS": 99,
@@ -357,7 +357,7 @@
         "max": 720000.0
       },
       "median_price_usd": 264.0,
-      "last_sale_date": "2026-04-26",
+      "last_sale_date": "2026-04-27",
       "grade_distribution": {
         "XF": 1679,
         "VF": 1998,
@@ -397,7 +397,7 @@
         "max": 350.0
       },
       "median_price_usd": 350.0,
-      "last_sale_date": "2026-04-26",
+      "last_sale_date": "2026-04-27",
       "grade_distribution": {
         "XF": 1
       },
@@ -430,7 +430,7 @@
         "max": 82278.0
       },
       "median_price_usd": 1751.4,
-      "last_sale_date": "2026-04-26",
+      "last_sale_date": "2026-04-27",
       "grade_distribution": {
         "XF": 35,
         "VF": 22,
@@ -471,7 +471,7 @@
         "max": 292800.0
       },
       "median_price_usd": 1920.0,
-      "last_sale_date": "2026-04-26",
+      "last_sale_date": "2026-04-27",
       "grade_distribution": {
         "VF": 256,
         "AU": 465,
@@ -511,7 +511,7 @@
         "max": 312000.0
       },
       "median_price_usd": 900.0,
-      "last_sale_date": "2026-04-26",
+      "last_sale_date": "2026-04-27",
       "grade_distribution": {
         "VF": 334,
         "XF": 219,
@@ -551,7 +551,7 @@
         "max": 180000.0
       },
       "median_price_usd": 8607.75,
-      "last_sale_date": "2026-04-26",
+      "last_sale_date": "2026-04-27",
       "grade_distribution": {
         "VF": 10,
         "XF": 36,
@@ -589,7 +589,7 @@
         "max": 42000.0
       },
       "median_price_usd": 1800.0,
-      "last_sale_date": "2026-04-26",
+      "last_sale_date": "2026-04-27",
       "grade_distribution": {
         "G": 1,
         "F": 1,
@@ -899,43 +899,6 @@
       "top_strike_score": 5,
       "top_surface_score": 5,
       "top_grade_numeric": 5,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
-      "slug": "greek-alexander-iii-unknown",
-      "category": "greek",
-      "ruler": "Alexander III",
-      "ruler_normalized": "alexander-iii",
-      "dynasty": "Macedonian",
-      "ruler_dates": null,
-      "ruler_rarity": null,
-      "denomination": "Unknown",
-      "metal": "silver",
-      "sale_count": 299,
-      "realized_count": 298,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 30.0,
-        "max": 292800.0
-      },
-      "median_price_usd": 114.0,
-      "last_sale_date": "2026-03-24",
-      "grade_distribution": {
-        "MS": 5,
-        "XF": 78,
-        "VF": 180,
-        "AU": 16,
-        "F": 20
-      },
-      "thumbnail_url": "https://media.coinarchives.com/a574119fb28e3421c236a2978306a924/img/marciniak/028/image06267.jpg",
-      "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 4,
-      "top_grade_numeric": null,
       "dominant_service": "ngc",
       "series": null,
       "date_struck": null,
@@ -1514,7 +1477,7 @@
         "max": 114000.0
       },
       "median_price_usd": 19200.0,
-      "last_sale_date": "2026-04-26",
+      "last_sale_date": "2026-04-27",
       "grade_distribution": {
         "XF": 16,
         "VF": 11,
@@ -2077,7 +2040,7 @@
         "max": 3360.0
       },
       "median_price_usd": 1020.0,
-      "last_sale_date": "2026-04-26",
+      "last_sale_date": "2026-04-27",
       "grade_distribution": {
         "AU": 7,
         "P": 1,
@@ -2090,6 +2053,43 @@
       "top_strike_score": 4,
       "top_surface_score": 5,
       "top_grade_numeric": 4,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
+      "slug": "greek-alexander-iii-unknown",
+      "category": "greek",
+      "ruler": "Alexander III",
+      "ruler_normalized": "alexander-iii",
+      "dynasty": "Macedonian",
+      "ruler_dates": null,
+      "ruler_rarity": null,
+      "denomination": "Unknown",
+      "metal": "bronze",
+      "sale_count": 299,
+      "realized_count": 298,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 30.0,
+        "max": 292800.0
+      },
+      "median_price_usd": 114.0,
+      "last_sale_date": "2026-03-24",
+      "grade_distribution": {
+        "XF": 78,
+        "VF": 180,
+        "MS": 5,
+        "AU": 16,
+        "F": 20
+      },
+      "thumbnail_url": "https://media.coinarchives.com/a574119fb28e3421c236a2978306a924/img/marciniak/028/image06267.jpg",
+      "median_weight_g": null,
+      "top_strike_score": 5,
+      "top_surface_score": 4,
+      "top_grade_numeric": null,
       "dominant_service": "ngc",
       "series": null,
       "date_struck": null,
@@ -3396,7 +3396,7 @@
         "max": 10000.0
       },
       "median_price_usd": 144.0,
-      "last_sale_date": "2026-04-26",
+      "last_sale_date": "2026-04-27",
       "grade_distribution": {
         "F": 11,
         "VF": 84,
@@ -3558,7 +3558,7 @@
       "thumbnail_url": "https://media.coinarchives.com/14ea6dbfb3bb19f43d1034aebc973952/img/heritage/3129/image34080.jpg",
       "median_weight_g": null,
       "top_strike_score": 4,
-      "top_surface_score": 2,
+      "top_surface_score": 4,
       "top_grade_numeric": 4,
       "dominant_service": "ngc",
       "series": null,
@@ -3880,7 +3880,7 @@
         "max": 3720.0
       },
       "median_price_usd": 258.0,
-      "last_sale_date": "2026-04-26",
+      "last_sale_date": "2026-04-27",
       "grade_distribution": {
         "VF": 76,
         "AU": 11,
@@ -6936,8 +6936,8 @@
       "grade_distribution": {
         "VF": 9,
         "MS": 19,
-        "XF": 20,
         "AU": 25,
+        "XF": 20,
         "G": 2
       },
       "thumbnail_url": "https://media.coinarchives.com/a2002eff5b31a8f06616ef48c2955f45/img/ponterio/236/image40244.jpg",
@@ -7168,9 +7168,9 @@
       },
       "thumbnail_url": "https://media.coinarchives.com/b0186c8028ddd29f388f2f87a9340b57/img/snmw/17/image11020.jpg",
       "median_weight_g": null,
-      "top_strike_score": 4,
+      "top_strike_score": 5,
       "top_surface_score": 5,
-      "top_grade_numeric": null,
+      "top_grade_numeric": 5,
       "dominant_service": "ngc",
       "series": null,
       "date_struck": null,
@@ -7599,6 +7599,79 @@
       "top_strike_score": 5,
       "top_surface_score": 3,
       "top_grade_numeric": null,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
+      "slug": "roman-constantius-ii-av-dinar",
+      "category": "roman",
+      "ruler": "Constantius II",
+      "ruler_normalized": "constantius-ii",
+      "dynasty": "Constantinian",
+      "ruler_dates": "AD 337\u2013361",
+      "ruler_rarity": null,
+      "denomination": "AV Dinar",
+      "metal": "gold",
+      "sale_count": 2,
+      "realized_count": 2,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 3120.0,
+        "max": 3600.0
+      },
+      "median_price_usd": 3360.0,
+      "last_sale_date": "2025-11-16",
+      "grade_distribution": {
+        "AU": 1,
+        "XF": 1
+      },
+      "thumbnail_url": null,
+      "median_weight_g": null,
+      "top_strike_score": 3,
+      "top_surface_score": 4,
+      "top_grade_numeric": 3,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
+      "slug": "roman-vitellius-ar-denarius",
+      "category": "roman",
+      "ruler": "Vitellius",
+      "ruler_normalized": "vitellius",
+      "dynasty": "Year of Four Emperors",
+      "ruler_dates": "AD 69",
+      "ruler_rarity": "scarce",
+      "denomination": "AR Denarius",
+      "metal": "silver",
+      "sale_count": 164,
+      "realized_count": 164,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 99.0,
+        "max": 5280.0
+      },
+      "median_price_usd": 384.0,
+      "last_sale_date": "2026-03-12",
+      "grade_distribution": {
+        "XF": 20,
+        "VF": 41,
+        "AU": 11,
+        "F": 64,
+        "VG": 25,
+        "G": 1,
+        "MS": 2
+      },
+      "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-5-6-6-8-25668980&w=120&h=300&it=product",
+      "median_weight_g": null,
+      "top_strike_score": 4,
+      "top_surface_score": 4,
+      "top_grade_numeric": 4,
       "dominant_service": "ngc",
       "series": null,
       "date_struck": null,
@@ -8733,7 +8806,7 @@
         "max": 216000.0
       },
       "median_price_usd": 960.0,
-      "last_sale_date": "2026-04-26",
+      "last_sale_date": "2026-04-27",
       "grade_distribution": {
         "AU": 84,
         "MS": 162,
@@ -8916,7 +8989,7 @@
         "max": 1950.0
       },
       "median_price_usd": 1950.0,
-      "last_sale_date": "2026-04-26",
+      "last_sale_date": "2026-04-27",
       "grade_distribution": {
         "P": 1
       },
@@ -8949,7 +9022,7 @@
         "max": 5040.0
       },
       "median_price_usd": 528.0,
-      "last_sale_date": "2026-04-26",
+      "last_sale_date": "2026-04-27",
       "grade_distribution": {
         "P": 1,
         "AU": 7,
@@ -8989,7 +9062,7 @@
         "max": 3240.0
       },
       "median_price_usd": 504.0,
-      "last_sale_date": "2026-04-26",
+      "last_sale_date": "2026-04-27",
       "grade_distribution": {
         "F": 1,
         "AU": 1,
@@ -9026,7 +9099,7 @@
         "max": 50400.0
       },
       "median_price_usd": 1680.0,
-      "last_sale_date": "2026-04-26",
+      "last_sale_date": "2026-04-27",
       "grade_distribution": {
         "G": 2,
         "VF": 10,
@@ -17787,40 +17860,6 @@
       "mint_mark": null
     },
     {
-      "slug": "roman-constantius-ii-av-dinar",
-      "category": "roman",
-      "ruler": "Constantius II",
-      "ruler_normalized": "constantius-ii",
-      "dynasty": "Constantinian",
-      "ruler_dates": "AD 337\u2013361",
-      "ruler_rarity": null,
-      "denomination": "AV Dinar",
-      "metal": "gold",
-      "sale_count": 2,
-      "realized_count": 2,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 3120.0,
-        "max": 3600.0
-      },
-      "median_price_usd": 3360.0,
-      "last_sale_date": "2025-11-16",
-      "grade_distribution": {
-        "AU": 1,
-        "XF": 1
-      },
-      "thumbnail_url": null,
-      "median_weight_g": null,
-      "top_strike_score": 3,
-      "top_surface_score": 4,
-      "top_grade_numeric": 3,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
       "slug": "us-walking-liberty-half-1943-d",
       "category": "us",
       "ruler": null,
@@ -24144,45 +24183,6 @@
       "median_weight_g": null,
       "top_strike_score": 4,
       "top_surface_score": 3,
-      "top_grade_numeric": 4,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
-      "slug": "roman-vitellius-ar-denarius",
-      "category": "roman",
-      "ruler": "Vitellius",
-      "ruler_normalized": "vitellius",
-      "dynasty": "Year of Four Emperors",
-      "ruler_dates": "AD 69",
-      "ruler_rarity": "scarce",
-      "denomination": "AR Denarius",
-      "metal": "silver",
-      "sale_count": 164,
-      "realized_count": 164,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 99.0,
-        "max": 5280.0
-      },
-      "median_price_usd": 384.0,
-      "last_sale_date": "2026-03-12",
-      "grade_distribution": {
-        "XF": 20,
-        "VF": 41,
-        "AU": 11,
-        "F": 64,
-        "VG": 25,
-        "G": 1,
-        "MS": 2
-      },
-      "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-5-6-6-8-25668980&w=120&h=300&it=product",
-      "median_weight_g": null,
-      "top_strike_score": 4,
-      "top_surface_score": 4,
       "top_grade_numeric": 4,
       "dominant_service": "ngc",
       "series": null,
