@@ -7,9 +7,9 @@
   "ruler_dates": null,
   "ruler_rarity": null,
   "denomination": "Unknown",
-  "metal": "unknown",
-  "sale_count": 65,
-  "realized_count": 62,
+  "metal": "gold",
+  "sale_count": 66,
+  "realized_count": 63,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,10 +17,10 @@
     "max": 371428.56
   },
   "median_price_usd": 264.0,
-  "last_sale_date": "2026-04-11",
+  "last_sale_date": "2026-04-13",
   "grade_distribution": {
+    "P": 3,
     "MS": 13,
-    "P": 2,
     "XF": 11,
     "AU": 18,
     "VF": 18,
@@ -37,39 +37,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-4e1ab50e0d4d",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13255/worldcoin-great-britain/11699235/great-britain-penny-nd-1024-30",
-      "title": "GREAT BRITAIN. Penny, ND (1024-30). Lincoln Mint. Cnut. NGC MS-64. <br> Pointed Helmet (BMC xiv) type; S-1158; North-787; Hild-1749; SCBI Cop-1846 (plate coin); Bruun-432. Weight: 1.14 gms. Moneyer: Swartebrand. Enchanting toning reminiscing of ancient Roman glass. <br> From the L. E. Bruun Collection.<p>Ex: Countship of Brahesminde Collection (Private Sale - 1922).</p>",
-      "description": "Stack\u2019s Bowers and Ponterio | ['October 2025 L.E. Bruun Collection']",
-      "hammer_price_usd": 800.0,
-      "currency_original": "USD",
-      "price_original": 800.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-10-28",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "sixbid-0505dbf9c324",
       "source": "sixbid",
@@ -203,6 +170,39 @@
       }
     },
     {
+      "id": "sixbid-77d633a8529c",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13709/edward-vii-to-current-since/12132980/great-britain-centenary-of-the",
+      "title": "GREAT BRITAIN. Centenary of the Royal Numismatic Society Gold Medal, ND (ca. 1936). London (Pinches) Mint. NGC PROOF-68 Ultra Cameo. <br> Unlisted. Weight: 170.75 gms; Diameter: 57mm. Obverse: Three female allegorical figures standing, holding scales and cornucopias; \"MON.AVG.\" flanked by tongs and elephant head; Reverse: \"VOT/C/MVLT/CC\" within wreath; \"SOCIETAS REGIA NVMISMATICA\" around; \"P LON\" below wreath. An <strong>EXTREMELY RARE</strong> or even <strong>UNIQUE</strong> issue to commemorate this milestone in the history of the Royal Numismatic Society, complete with a reverse design harkening back to late Roman Imperial types. Looked after with all the care of a dedicated numismatist, this massive gold medal remains a Superb Gem with nearly impeccable preservation. Stunning hard mirrorlike fields serve as the backdrop to the masterfully engraved intricate detail. A most impressive numismatic treasure. Accompanied with case of issue labeled \"John Pinches London\".<p> <br> Magnificent and Possibly Unique Royal Numismatic Society Medal</p>",
+      "description": "Stack\u2019s Bowers and Ponterio | ['The April 2026 Hong Kong (SAR) Auction']",
+      "hammer_price_usd": 35000.0,
+      "currency_original": "USD",
+      "price_original": 35000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "P",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "sixbid-a568f9fb995f",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -247,6 +247,39 @@
       "price_original": 150.0,
       "buyers_premium_included": false,
       "sale_date": "2025-11-03",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-4e1ab50e0d4d",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13255/worldcoin-great-britain/11699235/great-britain-penny-nd-1024-30",
+      "title": "GREAT BRITAIN. Penny, ND (1024-30). Lincoln Mint. Cnut. NGC MS-64. <br> Pointed Helmet (BMC xiv) type; S-1158; North-787; Hild-1749; SCBI Cop-1846 (plate coin); Bruun-432. Weight: 1.14 gms. Moneyer: Swartebrand. Enchanting toning reminiscing of ancient Roman glass. <br> From the L. E. Bruun Collection.<p>Ex: Countship of Brahesminde Collection (Private Sale - 1922).</p>",
+      "description": "Stack\u2019s Bowers and Ponterio | ['October 2025 L.E. Bruun Collection']",
+      "hammer_price_usd": 800.0,
+      "currency_original": "USD",
+      "price_original": 800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-10-28",
       "image_url": null,
       "ngc": {
         "verified": false,

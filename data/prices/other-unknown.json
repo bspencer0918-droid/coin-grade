@@ -17,7 +17,7 @@
     "max": 312000.0
   },
   "median_price_usd": 900.0,
-  "last_sale_date": "2026-04-27",
+  "last_sale_date": "2026-04-28",
   "grade_distribution": {
     "VF": 334,
     "XF": 219,
@@ -49,7 +49,7 @@
       "currency_original": "USD",
       "price_original": 6000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-27",
+      "sale_date": "2026-04-28",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -82,7 +82,7 @@
       "currency_original": "USD",
       "price_original": 550.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-27",
+      "sale_date": "2026-04-28",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -115,7 +115,7 @@
       "currency_original": "USD",
       "price_original": 13000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-27",
+      "sale_date": "2026-04-28",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -148,7 +148,7 @@
       "currency_original": "USD",
       "price_original": 14000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-27",
+      "sale_date": "2026-04-28",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -181,7 +181,7 @@
       "currency_original": "USD",
       "price_original": 1600.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-27",
+      "sale_date": "2026-04-28",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -214,7 +214,7 @@
       "currency_original": "USD",
       "price_original": 1500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-27",
+      "sale_date": "2026-04-28",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -4230,6 +4230,72 @@
       }
     },
     {
+      "id": "sixbid-941bd6beef28",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/bolaffi/13439/collezione-novara-di-monete-di/11872560/vittorio-emanuele-ii-1849-1861",
+      "title": "Vittorio Emanuele II (1849-1861) <br> 20 Lire Littore 1927 Anno VI NGC MS 66 - Zecca: Roma - Diritto: effigie del Re a destra - Rovescio: littore con fascio nella mano destra, saluta romanamente l'Italia seduta con fiaccola e scudo sabaudo - gr. 14,99 - Cert. #8586307-006 (Bol. n. R68) (Gig. n. 36) (Mont. n. 65) (Pag. n. 672)",
+      "description": "Bolaffi S.p.A. | ['Coin Auction 48']",
+      "hammer_price_usd": 1106.28,
+      "currency_original": "USD",
+      "price_original": 1106.275,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-04",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8586307-006",
+        "grade": "MS",
+        "grade_numeric": 66,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8586307006/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-8b5551ac4113",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/bolaffi/13439/collezione-novara-di-monete-di/11872561/vittorio-emanuele-ii-1849-1861",
+      "title": "Vittorio Emanuele II (1849-1861) <br> 20 Lire Littore 1928 Anno VI NGC MS 66 - Zecca: Roma - Diritto: effigie del Re a destra - Rovescio: littore con fascio nella mano destra, saluta romanamente l'Italia seduta con fiaccola e scudo sabaudo - gr. 14,99 - Cert. #8586307-007 (Bol. n. R68) (Gig. n. 37) (Mont. n. 67) (Pag. n. 673)",
+      "description": "Bolaffi S.p.A. | ['Coin Auction 48']",
+      "hammer_price_usd": 1513.85,
+      "currency_original": "USD",
+      "price_original": 1513.85,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-04",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8586307-007",
+        "grade": "MS",
+        "grade_numeric": 66,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8586307007/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "sixbid-1283be567648",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -4989,72 +5055,6 @@
       }
     },
     {
-      "id": "coinarchives-543a6a6baee3",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2661954&AucID=6798&Lot=2335&Val=cd3af1735eb354e2cb9cd26ef77b76c3",
-      "title": "Numismatica Ars Classica - Autumn Sale 2025, Lot 2335 \u2014 Bithynia, Heracleia Pontica\nHecte circa 550-500, EL, 11 mm, 2.56 g. Head of Heracles l., wearing lion skin. Rev. Quadripartite incuse square; two quadrants partially to mostly filled Fischer-Bossert, ",
-      "description": "Bithynia, Heracleia Pontica\nHecte circa 550-500, EL, 11 mm, 2.56 g. Head of Heracles l., wearing lion skin. Rev. Quadripartite incuse square; two quadrants partially to mostly filled Fischer-Bossert, Die Elektronhekten mit dem Herakleskopf: Herakleai Pontike, nicht Erythrai, NZ 126, 2020, 103a (this coin). SNG Kayhan 737-738 (Erythrai). SNG on Aulock, 11947 1942 (Erythrai). \nExtremely fine\n\nEx Heritage Auctions sale 3081, 2020, 30086 (sold as Erythrai).\n\nNGC graded Choice AU\u2605 5/5 - 5/5\n\nEstima...",
-      "hammer_price_usd": 1870.0,
-      "currency_original": "CHF",
-      "price_original": 1700.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-11-09",
-      "image_url": "https://media.coinarchives.com/965621a8176ef1bcc14eb669a723d1fc/img/nac/autumn2025/image02335.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "G",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-58f0f2fca59f",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2662096&AucID=6798&Lot=2477&Val=9b34492b5526b6a74bb7c16fa8ca3b7b",
-      "title": "Numismatica Ars Classica - Autumn Sale 2025, Lot 2477 \u2014 Caria, Uncertain mint\nHemihecte circa 625-600, EL, 8 mm, 1.17 g. Stylised head of creature r., mouth open. Rev. Rough incuse square. Fischer-Bossert,Ein Karisches Monster\", in M. Baer, W. Fischer-Boss",
-      "description": "Caria, Uncertain mint\nHemihecte circa 625-600, EL, 8 mm, 1.17 g. Stylised head of creature r., mouth open. Rev. Rough incuse square. Fischer-Bossert,Ein Karisches Monster\", in M. Baer, W. Fischer-Bossert and N. Schindel (eds), Cista Mystica. Festschrift f\u00fcr Wolfgang Szaivert 60a (this coin). Linzalone 1109 (seal). \nRare. Very fine\n\nEx Heritage Auctions sale 3076, 2019, 30137.\n\nNGC graded XF 4/5 - 4/5\n\nEstimate: 400 CHF...",
-      "hammer_price_usd": 2750.0,
-      "currency_original": "CHF",
-      "price_original": 2500.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-11-09",
-      "image_url": "https://media.coinarchives.com/903b7f061a4c03587a0a2883ab193827/img/nac/autumn2025/image02477.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "G",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-297f7f132dd1",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -5517,6 +5517,72 @@
       }
     },
     {
+      "id": "coinarchives-543a6a6baee3",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2661954&AucID=6798&Lot=2335&Val=cd3af1735eb354e2cb9cd26ef77b76c3",
+      "title": "Numismatica Ars Classica - Autumn Sale 2025, Lot 2335 \u2014 Bithynia, Heracleia Pontica\nHecte circa 550-500, EL, 11 mm, 2.56 g. Head of Heracles l., wearing lion skin. Rev. Quadripartite incuse square; two quadrants partially to mostly filled Fischer-Bossert, ",
+      "description": "Bithynia, Heracleia Pontica\nHecte circa 550-500, EL, 11 mm, 2.56 g. Head of Heracles l., wearing lion skin. Rev. Quadripartite incuse square; two quadrants partially to mostly filled Fischer-Bossert, Die Elektronhekten mit dem Herakleskopf: Herakleai Pontike, nicht Erythrai, NZ 126, 2020, 103a (this coin). SNG Kayhan 737-738 (Erythrai). SNG on Aulock, 11947 1942 (Erythrai). \nExtremely fine\n\nEx Heritage Auctions sale 3081, 2020, 30086 (sold as Erythrai).\n\nNGC graded Choice AU\u2605 5/5 - 5/5\n\nEstima...",
+      "hammer_price_usd": 1870.0,
+      "currency_original": "CHF",
+      "price_original": 1700.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-09",
+      "image_url": "https://media.coinarchives.com/965621a8176ef1bcc14eb669a723d1fc/img/nac/autumn2025/image02335.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-58f0f2fca59f",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2662096&AucID=6798&Lot=2477&Val=9b34492b5526b6a74bb7c16fa8ca3b7b",
+      "title": "Numismatica Ars Classica - Autumn Sale 2025, Lot 2477 \u2014 Caria, Uncertain mint\nHemihecte circa 625-600, EL, 8 mm, 1.17 g. Stylised head of creature r., mouth open. Rev. Rough incuse square. Fischer-Bossert,Ein Karisches Monster\", in M. Baer, W. Fischer-Boss",
+      "description": "Caria, Uncertain mint\nHemihecte circa 625-600, EL, 8 mm, 1.17 g. Stylised head of creature r., mouth open. Rev. Rough incuse square. Fischer-Bossert,Ein Karisches Monster\", in M. Baer, W. Fischer-Bossert and N. Schindel (eds), Cista Mystica. Festschrift f\u00fcr Wolfgang Szaivert 60a (this coin). Linzalone 1109 (seal). \nRare. Very fine\n\nEx Heritage Auctions sale 3076, 2019, 30137.\n\nNGC graded XF 4/5 - 4/5\n\nEstimate: 400 CHF...",
+      "hammer_price_usd": 2750.0,
+      "currency_original": "CHF",
+      "price_original": 2500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-09",
+      "image_url": "https://media.coinarchives.com/903b7f061a4c03587a0a2883ab193827/img/nac/autumn2025/image02477.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "sixbid-10a649b5d356",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -5638,72 +5704,6 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-941bd6beef28",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/bolaffi/13439/collezione-novara-di-monete-di/11872560/vittorio-emanuele-ii-1849-1861",
-      "title": "Vittorio Emanuele II (1849-1861) <br> 20 Lire Littore 1927 Anno VI NGC MS 66 - Zecca: Roma - Diritto: effigie del Re a destra - Rovescio: littore con fascio nella mano destra, saluta romanamente l'Italia seduta con fiaccola e scudo sabaudo - gr. 14,99 - Cert. #8586307-006 (Bol. n. R68) (Gig. n. 36) (Mont. n. 65) (Pag. n. 672)",
-      "description": "Bolaffi S.p.A. | ['Coin Auction 48']",
-      "hammer_price_usd": 1106.28,
-      "currency_original": "USD",
-      "price_original": 1106.275,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-04",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "8586307-006",
-        "grade": "MS",
-        "grade_numeric": 66,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/8586307006/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-8b5551ac4113",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/bolaffi/13439/collezione-novara-di-monete-di/11872561/vittorio-emanuele-ii-1849-1861",
-      "title": "Vittorio Emanuele II (1849-1861) <br> 20 Lire Littore 1928 Anno VI NGC MS 66 - Zecca: Roma - Diritto: effigie del Re a destra - Rovescio: littore con fascio nella mano destra, saluta romanamente l'Italia seduta con fiaccola e scudo sabaudo - gr. 14,99 - Cert. #8586307-007 (Bol. n. R68) (Gig. n. 37) (Mont. n. 67) (Pag. n. 673)",
-      "description": "Bolaffi S.p.A. | ['Coin Auction 48']",
-      "hammer_price_usd": 1513.85,
-      "currency_original": "USD",
-      "price_original": 1513.85,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-04",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "8586307-007",
-        "grade": "MS",
-        "grade_numeric": 66,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/8586307007/",
         "grading_service": "ngc"
       },
       "metadata": {
