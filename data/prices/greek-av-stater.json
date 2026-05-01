@@ -17,7 +17,7 @@
     "max": 536800.0
   },
   "median_price_usd": 5040.0,
-  "last_sale_date": "2026-04-30",
+  "last_sale_date": "2026-05-01",
   "grade_distribution": {
     "AU": 181,
     "MS": 268,
@@ -26,7 +26,7 @@
     "VF": 31,
     "F": 2
   },
-  "thumbnail_url": "https://media.coinarchives.com/cf309aa8fb8ab0994882dc83bf96f28e/img/heritage/3129/image33026.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/d4705a100e9d6f36314c616c370b8a5e/img/heritage/3129/image34024.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 4,
@@ -47,7 +47,7 @@
       "currency_original": "USD",
       "price_original": 55000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-30",
+      "sale_date": "2026-05-01",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -80,7 +80,7 @@
       "currency_original": "USD",
       "price_original": 1600.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-04-30",
+      "sale_date": "2026-05-01",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -268,39 +268,6 @@
       }
     },
     {
-      "id": "coinarchives-5f4251798c37",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687292&AucID=6920&Lot=33026&Val=b99b0bca79f8cc691e9f2f019b403ab1",
-      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3129, Lot 33026 \u2014 Ancients\nLYDIAN KINGDOM. Croesus (561-546 BC). AV stater (18mm, 10.80 gm). NGC Choice MS 5/5 - 5/5. Croeseid \"heavy\" standard, Sardes, prototype issue, ca. 561-550 BC. Confronted archaic style forepar",
-      "description": "Ancients\nLYDIAN KINGDOM. Croesus (561-546 BC). AV stater (18mm, 10.80 gm). NGC Choice MS 5/5 - 5/5. Croeseid \"heavy\" standard, Sardes, prototype issue, ca. 561-550 BC. Confronted archaic style foreparts of lion right (on left) with radiate sun above eye, and bull left (on right), each with outstretched foreleg / Two incuse squares, side-by-side, with irregular interior surfaces. Berk \"100 Greatest Ancient Coins,\" 9.1 (one same reverse die). McClean 8635. In impeccable quality, this prototype i...",
-      "hammer_price_usd": 320000.0,
-      "currency_original": "USD",
-      "price_original": 320000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-12",
-      "image_url": "https://media.coinarchives.com/cf309aa8fb8ab0994882dc83bf96f28e/img/heritage/3129/image33026.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-53ca1e9cc3df",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -322,6 +289,39 @@
         "surface_score": 4,
         "details_grade": null,
         "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-5f4251798c37",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687292&AucID=6920&Lot=33026&Val=b99b0bca79f8cc691e9f2f019b403ab1",
+      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3129, Lot 33026 \u2014 Ancients\nLYDIAN KINGDOM. Croesus (561-546 BC). AV stater (18mm, 10.80 gm). NGC Choice MS 5/5 - 5/5. Croeseid \"heavy\" standard, Sardes, prototype issue, ca. 561-550 BC. Confronted archaic style forepar",
+      "description": "Ancients\nLYDIAN KINGDOM. Croesus (561-546 BC). AV stater (18mm, 10.80 gm). NGC Choice MS 5/5 - 5/5. Croeseid \"heavy\" standard, Sardes, prototype issue, ca. 561-550 BC. Confronted archaic style foreparts of lion right (on left) with radiate sun above eye, and bull left (on right), each with outstretched foreleg / Two incuse squares, side-by-side, with irregular interior surfaces. Berk \"100 Greatest Ancient Coins,\" 9.1 (one same reverse die). McClean 8635. In impeccable quality, this prototype i...",
+      "hammer_price_usd": 320000.0,
+      "currency_original": "USD",
+      "price_original": 320000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-12",
+      "image_url": "https://media.coinarchives.com/cf309aa8fb8ab0994882dc83bf96f28e/img/heritage/3129/image33026.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
       },
