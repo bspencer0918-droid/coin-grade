@@ -8,8 +8,8 @@
   "ruler_rarity": "common",
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 1316,
-  "realized_count": 1315,
+  "sale_count": 1317,
+  "realized_count": 1316,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,16 +17,16 @@
     "max": 26400.0
   },
   "median_price_usd": 720.0,
-  "last_sale_date": "2026-04-07",
+  "last_sale_date": "2026-04-29",
   "grade_distribution": {
-    "G": 8,
+    "G": 9,
     "MS": 581,
     "XF": 197,
     "VF": 102,
     "AU": 424,
     "F": 4
   },
-  "thumbnail_url": "https://media.coinarchives.com/5e1f4b295a74afeff8c72f941d5f443f/img/ponterio/236/image45581.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/68184588fb8d4acc6caddc199a123b33/img/heritage/3132/image32130.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 4,
@@ -3528,6 +3528,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-f91338c046fc",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739840&AucID=7076&Lot=32130&Val=b87886810bdc4fa110be4188f2c20351",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 32130 \u2014 Ancients\nConstantine IV Pogonatus (AD 668-685). AV solidus (20mm, 4.47 gm, 7h). NGC Gem MS 5/5 - 5/5. Constantinople, 2nd officina, AD 669-674. d N CON-T-N\u0427S P, cuirassed bust of Constantine IV facing",
+      "description": "Ancients\nConstantine IV Pogonatus (AD 668-685). AV solidus (20mm, 4.47 gm, 7h). NGC Gem MS 5/5 - 5/5. Constantinople, 2nd officina, AD 669-674. d N CON-T-N\u0427S P, cuirassed bust of Constantine IV facing with short beard, turned slightly right, wearing crested helmet with frontal plume, spear over shoulder in right hand, shield decorated with horseman motif in left / VICTOA-A-V\u03da\u0427 B, standing figures of Heraclius (on left) and Tiberius (on right), both beardless and wearing chlamys, globus crucige...",
+      "hammer_price_usd": 22000.0,
+      "currency_original": "USD",
+      "price_original": 22000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/68184588fb8d4acc6caddc199a123b33/img/heritage/3132/image32130.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "gold",
-  "sale_count": 112,
-  "realized_count": 112,
+  "sale_count": 113,
+  "realized_count": 113,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,15 +17,15 @@
     "max": 120000.0
   },
   "median_price_usd": 20400.0,
-  "last_sale_date": "2026-01-12",
+  "last_sale_date": "2026-04-29",
   "grade_distribution": {
+    "AU": 41,
     "MS": 23,
     "XF": 35,
     "VF": 12,
-    "AU": 40,
     "F": 2
   },
-  "thumbnail_url": "https://media.coinarchives.com/7bbe67df10276bcd105766ba62edffb7/img/heritage/3129/image31002.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/cb8f6901f05cb71378f4c45c1da3e967/img/heritage/3132/image31022.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -35,6 +35,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-e3799b4251ad",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739682&AucID=7076&Lot=31022&Val=c943c5600cd25c1bde897c16004f7cfb",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 31022 \u2014 Ancients\nPTOLEMAIC EGYPT. Arsin\u00f6e II Philadelphus (277-270/268 BC). AV mnaieion or octodrachm (28mm, 27.34 gm, 12h). NGC Choice AU 5/5 - 4/5. Posthumous issue under Ptolemy VI-VIII, Alexandria, after ",
+      "description": "Ancients\nPTOLEMAIC EGYPT. Arsin\u00f6e II Philadelphus (277-270/268 BC). AV mnaieion or octodrachm (28mm, 27.34 gm, 12h). NGC Choice AU 5/5 - 4/5. Posthumous issue under Ptolemy VI-VIII, Alexandria, after ca. 193/192 BC. Veiled head of deified Arsin\u00f6e II right, wearing diademed stephane and horn of Ammon, scepter surmounted by lotus over left shoulder; K in left field, dotted border / AP\u03a3INOH\u03a3-\u03a6I\u039bA\u0394E\u039b\u03a6OY, double cornucopia bound with royal diadem, containing pyramidal cakes, pomegranates, and other...",
+      "hammer_price_usd": 28000.0,
+      "currency_original": "USD",
+      "price_original": 28000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/cb8f6901f05cb71378f4c45c1da3e967/img/heritage/3132/image31022.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-24ba1811491f",
       "source": "coinarchives",

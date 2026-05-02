@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 104,
-  "realized_count": 103,
+  "sale_count": 105,
+  "realized_count": 104,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,14 +17,14 @@
     "max": 90000.0
   },
   "median_price_usd": 4320.0,
-  "last_sale_date": "2026-03-24",
+  "last_sale_date": "2026-04-29",
   "grade_distribution": {
-    "XF": 45,
+    "XF": 46,
     "AU": 29,
     "VF": 23,
     "MS": 7
   },
-  "thumbnail_url": "https://media.coinarchives.com/ee75d111a89b2a71095ff2f65ca0e390/img/ponterio/236/image40022.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/ee5939e4fe0e7fc1c8f1562beb5528ee/img/heritage/3132/image32004.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 4,
@@ -94,6 +94,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-b107fb001f54",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739715&AucID=7076&Lot=32004&Val=e439cbf02f69ea6e232fb05430f378e1",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 32004 \u2014 Ancients\nSICILY. Syracuse. Deinomenid Tyranny, Hieron I (ca. 475-470 BC). AR tetradrachm (23mm, 17.13 gm, 8h). NGC XF 4/5 - 2/5, brushed. Charioteer driving quadriga walking right, kentron in right ha",
+      "description": "Ancients\nSICILY. Syracuse. Deinomenid Tyranny, Hieron I (ca. 475-470 BC). AR tetradrachm (23mm, 17.13 gm, 8h). NGC XF 4/5 - 2/5, brushed. Charioteer driving quadriga walking right, kentron in right hand, reins in left; Nike flying right above, crowning horses, dotted border / \u03a3V-RAK-\u039f\u03a3\u0399-\u039fN (R upside down, N retrograde), head of Arethusa right, wearing beaded taenia and necklace, hair looped up under band; four dolphins swimming clockwise around. Boehringer (ca. 467-460 BC) 306. HGC 2, 1307.  w...",
+      "hammer_price_usd": 1900.0,
+      "currency_original": "USD",
+      "price_original": 1900.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/ee5939e4fe0e7fc1c8f1562beb5528ee/img/heritage/3132/image32004.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

@@ -8,22 +8,22 @@
   "ruler_rarity": "scarce",
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 9,
-  "realized_count": 9,
+  "sale_count": 11,
+  "realized_count": 11,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 1.0,
-    "max": 7800.0
+    "max": 12000.0
   },
-  "median_price_usd": 2880.0,
+  "median_price_usd": 4200.0,
   "last_sale_date": "2026-04-29",
   "grade_distribution": {
-    "MS": 2,
-    "AU": 4,
+    "MS": 3,
+    "AU": 5,
     "VF": 3
   },
-  "thumbnail_url": "https://media.coinarchives.com/1ed2b049bd3f921a30a8afc13e5541c4/img/ponterio/cco_feb26_2/image77603.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/f5c6be0b09bd399fe7e693d5c3652d02/img/heritage/3132/image31047.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -93,6 +93,72 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-b7561f8e18b9",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739707&AucID=7076&Lot=31047&Val=ab9c96e7abe8c8ada95f02b3893ca0b2",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 31047 \u2014 Ancients\nJovian (AD 363-364). AV solidus (21mm, 4.42 gm, 6h). NGC Choice MS\u2605 5/5 - 4/5. Sirmium. D N IOVIA-NVS P F AVG, pearl-diademed, draped, and cuirassed bust of Jovian right, seen from front / SE",
+      "description": "Ancients\nJovian (AD 363-364). AV solidus (21mm, 4.42 gm, 6h). NGC Choice MS\u2605 5/5 - 4/5. Sirmium. D N IOVIA-NVS P F AVG, pearl-diademed, draped, and cuirassed bust of Jovian right, seen from front / SECVRITAS-REIPVBLICE, Jovian standing facing in military attire, pearl-diademed head left, grounded labarum with Christogram on banner in outstretched right hand, globe in left hand under cloak, bound captive left before, head reverted; star SIRM\u2022 in exergue. RIC VIII 110. Finest certified, this exa...",
+      "hammer_price_usd": 12000.0,
+      "currency_original": "USD",
+      "price_original": 12000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/f5c6be0b09bd399fe7e693d5c3652d02/img/heritage/3132/image31047.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-2725027f0b89",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739835&AucID=7076&Lot=32125&Val=a6352bd6cb75bc64396e0c580a03474b",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 32125 \u2014 Ancients\nJovian (AD 363-364). AV solidus (21mm, 4.44 gm, 7h). NGC Choice AU 5/5 - 3/5, brushed. Nicomedia, 10th officina. DN IOVIAN-VS PEP AVG, rosette-and-laurel diademed, draped, and cuirassed bust ",
+      "description": "Ancients\nJovian (AD 363-364). AV solidus (21mm, 4.44 gm, 7h). NGC Choice AU 5/5 - 3/5, brushed. Nicomedia, 10th officina. DN IOVIAN-VS PEP AVG, rosette-and-laurel diademed, draped, and cuirassed bust of Jovian right, seen from front / SECVRITA-S REI-PVBLICAE, Roma enthroned facing (on left), spear in left hand, and Constantinopolis enthroned left (on right), scepter in left hand, right foot on prow, both supporting shield between them inscribed VOT / V / MVL / X; SMNI in exergue. RIC VIII 126....",
+      "hammer_price_usd": 4200.0,
+      "currency_original": "USD",
+      "price_original": 4200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/7e1fe4043d4315eb3d9e169b30df5bc6/img/heritage/3132/image32125.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

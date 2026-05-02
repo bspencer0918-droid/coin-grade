@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 1380,
-  "realized_count": 1340,
+  "sale_count": 1381,
+  "realized_count": 1341,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,22 +17,22 @@
     "max": 312000.0
   },
   "median_price_usd": 900.0,
-  "last_sale_date": "2026-05-01",
+  "last_sale_date": "2026-05-02",
   "grade_distribution": {
     "VF": 334,
     "XF": 219,
     "P": 12,
-    "MS": 382,
+    "MS": 383,
     "AU": 283,
     "F": 105,
     "G": 34,
     "VG": 11
   },
-  "thumbnail_url": "https://media.coinarchives.com/30ed7def03e20601d7a128bc8165717d/img/heritage/61611/image21025.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/059f63e45995e5a60ba5f5a6f56e98bb/img/heritage/3132/image31023.jpg",
   "median_weight_g": null,
-  "top_strike_score": 5,
+  "top_strike_score": 3,
   "top_surface_score": 4,
-  "top_grade_numeric": 5,
+  "top_grade_numeric": 3,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
@@ -49,7 +49,7 @@
       "currency_original": "USD",
       "price_original": 6000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-01",
+      "sale_date": "2026-05-02",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -82,7 +82,7 @@
       "currency_original": "USD",
       "price_original": 550.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-01",
+      "sale_date": "2026-05-02",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -115,7 +115,7 @@
       "currency_original": "USD",
       "price_original": 13000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-01",
+      "sale_date": "2026-05-02",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -148,7 +148,7 @@
       "currency_original": "USD",
       "price_original": 14000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-01",
+      "sale_date": "2026-05-02",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -181,7 +181,7 @@
       "currency_original": "USD",
       "price_original": 1600.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-01",
+      "sale_date": "2026-05-02",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -214,7 +214,7 @@
       "currency_original": "USD",
       "price_original": 1500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-01",
+      "sale_date": "2026-05-02",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -4190,6 +4190,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-131a886a55b8",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739683&AucID=7076&Lot=31023&Val=2271aa5301f6065212167ede59bcda06",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 31023 \u2014 Ancients\nJUDAEA. Bar Kokhba Revolt (AD 132-135). AR sela (27mm, 14.50 gm, 1h). NGC MS 3/5 - 4/5, overstruck, die shift. Undated issue of Year 3 (AD 134/135). Simon (Paleo-Hebrew) across fields, star a",
+      "description": "Ancients\nJUDAEA. Bar Kokhba Revolt (AD 132-135). AR sela (27mm, 14.50 gm, 1h). NGC MS 3/5 - 4/5, overstruck, die shift. Undated issue of Year 3 (AD 134/135). Simon (Paleo-Hebrew) across fields, star above fa\u00e7ade of the Jerusalem Temple, the Ark of the Covenant seen from end in center of entrance / For the Freedom of Jerusalem (Paleo-Hebrew), lulav. GBC 6, 6440. Bright, pearlescent surfaces.\n\nEx Rabbi Victor H. Weissberg and Tamar Weissberg Collection (Stack's Bowers & Ponterio, NYINC Auction, ...",
+      "hammer_price_usd": 8000.0,
+      "currency_original": "USD",
+      "price_original": 8000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/059f63e45995e5a60ba5f5a6f56e98bb/img/heritage/3132/image31023.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 3,
+        "strike_score": 3,
+        "surface_score": 4,
+        "details_grade": "Overstruck",
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

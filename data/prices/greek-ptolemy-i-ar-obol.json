@@ -1,0 +1,101 @@
+{
+  "slug": "greek-ptolemy-i-ar-obol",
+  "category": "greek",
+  "ruler": "Ptolemy I",
+  "ruler_normalized": "ptolemy-i",
+  "dynasty": "Ptolemaic",
+  "ruler_dates": null,
+  "ruler_rarity": null,
+  "denomination": "AR Obol",
+  "metal": "silver",
+  "sale_count": 2,
+  "realized_count": 2,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 330.0,
+    "max": 2000.0
+  },
+  "median_price_usd": 1165.0,
+  "last_sale_date": "2026-04-29",
+  "grade_distribution": {
+    "VF": 2
+  },
+  "thumbnail_url": "https://media.coinarchives.com/abc30f4bce93204ddd5d02d290889f36/img/heritage/3132/image32069.jpg",
+  "median_weight_g": null,
+  "top_strike_score": 3,
+  "top_surface_score": 2,
+  "top_grade_numeric": 3,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "coinarchives-9f04e8deb6f5",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739779&AucID=7076&Lot=32069&Val=bde4bd8cc0fc65a5e0284f0dc53c895b",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 32069 \u2014 Ancients\nJUDAEA. Yehud. Ptolemaic Period (after ca. 294 BC). AR quarter-gerah or quarter-obol (6mm, 0.22 gm, 11h). NGC Choice VF 3/5 - 2/5, edge chips. Diademed head of Ptolemy I left / YHD (Paleo-Heb",
+      "description": "Ancients\nJUDAEA. Yehud. Ptolemaic Period (after ca. 294 BC). AR quarter-gerah or quarter-obol (6mm, 0.22 gm, 11h). NGC Choice VF 3/5 - 2/5, edge chips. Diademed head of Ptolemy I left / YHD (Paleo-Hebrew), eagle standing facing on thunderbolt, head left, wings spread. GBC 6 (294 BC), 6080. CPE (from 294 BC) 253. Extremely rare with saffron toning.   www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.ha.com/itm/ancients/judaea/judaea-judaea-yehud-ptolemaic-period-after-ca-294-bc-ar-quarter-...",
+      "hammer_price_usd": 2000.0,
+      "currency_original": "USD",
+      "price_original": 2000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/abc30f4bce93204ddd5d02d290889f36/img/heritage/3132/image32069.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 3,
+        "strike_score": 3,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-7a4c3d9710cb",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739780&AucID=7076&Lot=32070&Val=132b9d2ce01435e60dbe2616dc4bf5db",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 32070 \u2014 Ancients\nJUDAEA. Yehud. Ptolemaic Period (302-260 BC). AR quarter-gerah or quarter-obol (7mm, 0.19 gm, 1h). NGC VF 3/5 - 2/5. Struck under Ptolemy II, ca. 282-272 BC. Diademed head of Ptolemy I right ",
+      "description": "Ancients\nJUDAEA. Yehud. Ptolemaic Period (302-260 BC). AR quarter-gerah or quarter-obol (7mm, 0.19 gm, 1h). NGC VF 3/5 - 2/5. Struck under Ptolemy II, ca. 282-272 BC. Diademed head of Ptolemy I right / YHD (Paleo-Hebrew), head of Berenice I right. GBC 6, 6083.   www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.ha.com/itm/ancients/judaea/judaea-judaea-yehud-ptolemaic-period-302-260-bc-ar-quarter-gerah-or-quarter-obol-7mm-019-gm-1h-ngc-vf-3-5/a/3132-32070.s?type=DA-DMC-CoinArchives-WorldCo...",
+      "hammer_price_usd": 330.0,
+      "currency_original": "USD",
+      "price_original": 330.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/69ef6335aa9fab9c5dd5da0272d0b042/img/heritage/3132/image32070.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 3,
+        "strike_score": 3,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

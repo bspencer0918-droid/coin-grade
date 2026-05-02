@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AV Nomisma",
   "metal": "unknown",
-  "sale_count": 91,
-  "realized_count": 91,
+  "sale_count": 92,
+  "realized_count": 92,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,14 +17,14 @@
     "max": 33600.0
   },
   "median_price_usd": 1680.0,
-  "last_sale_date": "2026-04-20",
+  "last_sale_date": "2026-04-29",
   "grade_distribution": {
     "VF": 6,
     "MS": 13,
     "XF": 21,
-    "AU": 51
+    "AU": 52
   },
-  "thumbnail_url": "https://media.coinarchives.com/e7664df23b833f8129e9422268ee6a95/img/ponterio/236/image40305.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/02385a490caad6388127ca6f539118a5/img/heritage/3132/image32141.jpg",
   "median_weight_g": null,
   "top_strike_score": null,
   "top_surface_score": null,
@@ -424,6 +424,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-50c1526a1861",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739851&AucID=7076&Lot=32141&Val=b5e84a70b6b984d72bdfffd96050dfd6",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 32141 \u2014 Ancients\nTheodora, Sole Reign (AD 1055-1056). AV tetarteron nomisma (19mm, 3.97 gm, 6h). NGC Choice AU 5/5 - 4/5, brushed. Constantinople. IC-XC barred, bust of Christ facing, wearing nimbus cruciger ",
+      "description": "Ancients\nTheodora, Sole Reign (AD 1055-1056). AV tetarteron nomisma (19mm, 3.97 gm, 6h). NGC Choice AU 5/5 - 4/5, brushed. Constantinople. IC-XC barred, bust of Christ facing, wearing nimbus cruciger with two pellets in each limb, pallium and colobium, right hand raised in benediction, book of Gospels cradled in left / + \u0398\u0404O\u0394WI-AV\u0393OV, half-length bust of Theodora facing, wearing saccos, loros, and jeweled crown surmounted by cross and four pinnacles, with pendilia, jeweled scepter in right, gl...",
+      "hammer_price_usd": 5500.0,
+      "currency_original": "USD",
+      "price_original": 5500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/02385a490caad6388127ca6f539118a5/img/heritage/3132/image32141.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

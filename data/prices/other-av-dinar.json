@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AV Dinar",
   "metal": "gold",
-  "sale_count": 211,
-  "realized_count": 211,
+  "sale_count": 213,
+  "realized_count": 213,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,12 +17,12 @@
     "max": 19200.0
   },
   "median_price_usd": 4320.0,
-  "last_sale_date": "2026-05-01",
+  "last_sale_date": "2026-05-02",
   "grade_distribution": {
     "MS": 62,
     "AU": 113,
     "G": 1,
-    "XF": 29,
+    "XF": 31,
     "VF": 5,
     "F": 1
   },
@@ -47,7 +47,7 @@
       "currency_original": "USD",
       "price_original": 1800.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-01",
+      "sale_date": "2026-05-02",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -80,7 +80,7 @@
       "currency_original": "USD",
       "price_original": 3750.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-01",
+      "sale_date": "2026-05-02",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -113,7 +113,7 @@
       "currency_original": "USD",
       "price_original": 1900.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-01",
+      "sale_date": "2026-05-02",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -146,7 +146,7 @@
       "currency_original": "USD",
       "price_original": 1300.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-01",
+      "sale_date": "2026-05-02",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -179,7 +179,7 @@
       "currency_original": "USD",
       "price_original": 1200.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-01",
+      "sale_date": "2026-05-02",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -212,7 +212,7 @@
       "currency_original": "USD",
       "price_original": 1400.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-01",
+      "sale_date": "2026-05-02",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -245,7 +245,7 @@
       "currency_original": "USD",
       "price_original": 1250.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-01",
+      "sale_date": "2026-05-02",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -278,7 +278,7 @@
       "currency_original": "USD",
       "price_original": 2000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-01",
+      "sale_date": "2026-05-02",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -311,7 +311,7 @@
       "currency_original": "USD",
       "price_original": 1300.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-01",
+      "sale_date": "2026-05-02",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -344,7 +344,7 @@
       "currency_original": "USD",
       "price_original": 1400.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-01",
+      "sale_date": "2026-05-02",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -377,7 +377,7 @@
       "currency_original": "USD",
       "price_original": 1300.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-01",
+      "sale_date": "2026-05-02",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -410,7 +410,7 @@
       "currency_original": "USD",
       "price_original": 2250.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-01",
+      "sale_date": "2026-05-02",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -443,7 +443,7 @@
       "currency_original": "USD",
       "price_original": 5500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-01",
+      "sale_date": "2026-05-02",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -548,6 +548,72 @@
         "verified": false,
         "cert_number": null,
         "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-8a2d26bc10b8",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739684&AucID=7076&Lot=31024&Val=b8eecd174f4d3d51cd2975348eb72f86",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 31024 \u2014 Ancients\nSASANIAN EMPIRE. Bahram (Vahram) I (AD 273-276). AV dinar (22mm, 7.30 gm, 3h). NGC Choice XF\u2605 4/5 - 3/5, brushed, die shift. ZR (Zarang) Mint. Draped bust of Bahram I right, wearing diadem, r",
+      "description": "Ancients\nSASANIAN EMPIRE. Bahram (Vahram) I (AD 273-276). AV dinar (22mm, 7.30 gm, 3h). NGC Choice XF\u2605 4/5 - 3/5, brushed, die shift. ZR (Zarang) Mint. Draped bust of Bahram I right, wearing diadem, radiate crown with ear flap, and korymbos; sun with eight rays in right field / NURA ZI (Pahlavi) to right, Varahran to left, ADAShTNI above; Fire altar flanked by two attendants standing facing, turned outwards, attendant on left wearing radiate crown with korymbos, attendant on right wearing mura...",
+      "hammer_price_usd": 17000.0,
+      "currency_original": "USD",
+      "price_original": 17000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/a6becbd167e9f1df078023caf69ef580/img/heritage/3132/image31024.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-6664795a2b5e",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739784&AucID=7076&Lot=32074&Val=dda89fee2d2b53bbd5eaf03b99eb4dc1",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 32074 \u2014 Ancients\nSASANIAN KINGDOM. Bahram (Vahram) II (AD 276-293). AV dinar (21mm, 7.32 gm, 4h). NGC Choice XF 5/5 - 4/5. Draped bust of Bahram II right, wearing curved winged tiara with korymbos decorated w",
+      "description": "Ancients\nSASANIAN KINGDOM. Bahram (Vahram) II (AD 276-293). AV dinar (21mm, 7.32 gm, 4h). NGC Choice XF 5/5 - 4/5. Draped bust of Bahram II right, wearing curved winged tiara with korymbos decorated with floral pattern made of pellets; pellet above wing / Fire altar flanked by two attendants standing facing, turned outwards, attendant on left wearing winged tiara and korymbos, attendant on right wearing mural crown, each with grounded scepter in outer hand; pellet on altar, pellets flanking al...",
+      "hammer_price_usd": 6500.0,
+      "currency_original": "USD",
+      "price_original": 6500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/b5887897267223640c2c3b18c86b331b/img/heritage/3132/image32074.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 4,

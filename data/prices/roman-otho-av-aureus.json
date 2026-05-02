@@ -8,21 +8,22 @@
   "ruler_rarity": "scarce",
   "denomination": "AV Aureus",
   "metal": "gold",
-  "sale_count": 13,
-  "realized_count": 13,
+  "sale_count": 14,
+  "realized_count": 14,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 22325.0,
+    "min": 8500.0,
     "max": 144000.0
   },
-  "median_price_usd": 60600.0,
-  "last_sale_date": "2026-01-12",
+  "median_price_usd": 53480.0,
+  "last_sale_date": "2026-04-29",
   "grade_distribution": {
+    "XF": 1,
     "VF": 8,
     "F": 5
   },
-  "thumbnail_url": "https://media.coinarchives.com/0d43bcbd14b12237f34a1a154762e7b8/img/heritage/3129/image34050.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/845adf50aa7584155902bcb102ac6609/img/heritage/3132/image32105.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -32,6 +33,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-0161545071a2",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739815&AucID=7076&Lot=32105&Val=9b83dc0de5b6cc9d8cd9ad0a5fd83cf6",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 32105 \u2014 Ancients\nOtho (January-April AD 69). AR denarius (21mm, 3.47 gm, 6h). NGC Choice XF 5/5 - 4/5. Rome. IMP OTHO CAESAR AVG TR P, bare, bewigged head of Otho right / PONT-MAX, Ceres standing facing, head",
+      "description": "Ancients\nOtho (January-April AD 69). AR denarius (21mm, 3.47 gm, 6h). NGC Choice XF 5/5 - 4/5. Rome. IMP OTHO CAESAR AVG TR P, bare, bewigged head of Otho right / PONT-MAX, Ceres standing facing, head left, two grain ears raised in right hand, cornucopia cradled in left arm. Cf. RIC I 20 (aureus).\n\nEx Heritage Auctions, Auction 3109 (18 August 2023), lot 32217; Heritage Auctions, Auction 3091 (7 May 2021), lot 32184. \n\nBorn in AD 32 to a nouveau riche family, Marcus Salvius Otho grew up as a p...",
+      "hammer_price_usd": 8500.0,
+      "currency_original": "USD",
+      "price_original": 8500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/845adf50aa7584155902bcb102ac6609/img/heritage/3132/image32105.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-0b84da59af5a",
       "source": "coinarchives",

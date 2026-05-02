@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 86,
-  "realized_count": 86,
+  "sale_count": 87,
+  "realized_count": 87,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,10 +17,10 @@
     "max": 21600.0
   },
   "median_price_usd": 2400.0,
-  "last_sale_date": "2026-01-23",
+  "last_sale_date": "2026-04-29",
   "grade_distribution": {
     "MS": 28,
-    "AU": 35,
+    "AU": 36,
     "XF": 15,
     "VF": 7,
     "F": 1
@@ -55,6 +55,39 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-55494d2e27a4",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739833&AucID=7076&Lot=32123&Val=38242ecb6b84e2c3661121cdff38fce2",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 32123 \u2014 Ancients\nConstantius II, as Augustus (AD 337-361). AV solidus (21mm, 4.52 gm, 11h). NGC Choice AU 5/5 - 2/5, marks. Antioch, 3rd officina, AD 347-355. FL IVL CONSTAN-TIVS PERP AVG, pearl-diademed, dra",
+      "description": "Ancients\nConstantius II, as Augustus (AD 337-361). AV solidus (21mm, 4.52 gm, 11h). NGC Choice AU 5/5 - 2/5, marks. Antioch, 3rd officina, AD 347-355. FL IVL CONSTAN-TIVS PERP AVG, pearl-diademed, draped, and cuirassed bust of Constantius II right, seen from front / GLORIA-REI-PVBLICAE, Roma seated facing (on left), spear in left hand, and Constantinopolis seated left (on right), scepter in left hand, right foot on prow, jointly holding with their right hands between them shield inscribed with...",
+      "hammer_price_usd": 2400.0,
+      "currency_original": "USD",
+      "price_original": 2400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/0de6125102e87c47009b2a70acb5d0f7/img/heritage/3132/image32123.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

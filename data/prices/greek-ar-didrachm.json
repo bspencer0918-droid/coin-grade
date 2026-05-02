@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Didrachm",
   "metal": "silver",
-  "sale_count": 107,
-  "realized_count": 106,
+  "sale_count": 108,
+  "realized_count": 107,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -20,13 +20,13 @@
   "last_sale_date": "2026-04-29",
   "grade_distribution": {
     "F": 1,
-    "XF": 36,
+    "XF": 37,
     "AU": 37,
     "MS": 23,
     "VF": 9,
     "G": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/b2d1e7868ccc105211ed462cca452eea/img/ponterio/236/image40047.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/fafe0c0be9c85bfd0784a40d067f7ef6/img/heritage/3132/image32002.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 5,
@@ -228,6 +228,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-526876a833aa",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739713&AucID=7076&Lot=32002&Val=b666dd4ba94dea56c866804fd15554e8",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 32002 \u2014 Ancients\nSICILY. Gela. Ca. 490-475 BC. AR didrachm (21mm, 8.70 gm, 9h). NGC Choice XF 4/5 - 5/5. Horseman galloping right, nude save for pileus, brandishing spear in raised right hand; dotted border /",
+      "description": "Ancients\nSICILY. Gela. Ca. 490-475 BC. AR didrachm (21mm, 8.70 gm, 9h). NGC Choice XF 4/5 - 5/5. Horseman galloping right, nude save for pileus, brandishing spear in raised right hand; dotted border / C\u0395\u039b\u0391\u03a3 (\u039b upside down), forepart of man-faced bull running right; all within in circular incuse. SNG ANS 17.   www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.ha.com/itm/ancients/greek/greek-sicily-gela-ca-490-475-bc-ar-didrachm-21mm-870-gm-9h-ngc-choice-xf-4-5-5-5/a/3132-32002.s?type=DA-DM...",
+      "hammer_price_usd": 2200.0,
+      "currency_original": "USD",
+      "price_original": 2200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/fafe0c0be9c85bfd0784a40d067f7ef6/img/heritage/3132/image32002.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

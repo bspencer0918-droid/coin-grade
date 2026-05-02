@@ -8,8 +8,8 @@
   "ruler_rarity": "scarce",
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 40,
-  "realized_count": 40,
+  "sale_count": 41,
+  "realized_count": 41,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -19,12 +19,12 @@
   "median_price_usd": 3360.0,
   "last_sale_date": "2026-04-29",
   "grade_distribution": {
-    "AU": 19,
+    "AU": 20,
     "MS": 7,
     "XF": 11,
     "VF": 3
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-1-0-7-1-31071394&w=120&h=300&it=product",
+  "thumbnail_url": "https://media.coinarchives.com/9b0e746f6fd995df07c1a0f3d502e20e/img/heritage/3132/image31051.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -61,6 +61,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-c803b7297ae1",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739711&AucID=7076&Lot=31051&Val=c706b7556b6eaeedf494521abd309b33",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 31051 \u2014 Ancients\nMichael I Rhangabe (AD 811-813), with Theophylactus. AV solidus (21mm, 4.41 gm, 2h). NGC Choice AU 5/5 - 4/5. Constantinople. \u2022-MIXA-HL bASIL\u0404', crowned bust of Michael I facing, wearing chla",
+      "description": "Ancients\nMichael I Rhangabe (AD 811-813), with Theophylactus. AV solidus (21mm, 4.41 gm, 2h). NGC Choice AU 5/5 - 4/5. Constantinople. \u2022-MIXA-HL bASIL\u0404', crowned bust of Michael I facing, wearing chlamys pinned at right shoulder, cross potent with base in right hand, acacia in left / \u0398\u0404OFVLA-CtOS d\u0404SP' X, crowned bust of Theophylactus facing, wearing loros, globus cruciger in right hand, transverse cruciform scepter in left. Sear 1615. Solidly struck on a shimmering flan.\n\nThe reverse die orig...",
+      "hammer_price_usd": 11000.0,
+      "currency_original": "USD",
+      "price_original": 11000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/9b0e746f6fd995df07c1a0f3d502e20e/img/heritage/3132/image31051.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

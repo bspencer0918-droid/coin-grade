@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 108,
-  "realized_count": 107,
+  "sale_count": 110,
+  "realized_count": 109,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,23 +17,89 @@
     "max": 12000.0
   },
   "median_price_usd": 1020.0,
-  "last_sale_date": "2026-04-13",
+  "last_sale_date": "2026-04-29",
   "grade_distribution": {
-    "AU": 34,
+    "AU": 35,
+    "MS": 49,
     "VF": 5,
-    "XF": 21,
-    "MS": 48
+    "XF": 21
   },
-  "thumbnail_url": "https://media.coinarchives.com/56d0b9312bd9076415989a2054e48c50/img/ponterio/236/image40284.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/e3808ac7967d47980789a9d29d3006b0/img/heritage/3132/image32133.jpg",
   "median_weight_g": null,
-  "top_strike_score": 5,
+  "top_strike_score": 3,
   "top_surface_score": 4,
-  "top_grade_numeric": null,
+  "top_grade_numeric": 3,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-6976089488ec",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739843&AucID=7076&Lot=32133&Val=4d8c2c1b6234d1391a0908c900488ec7",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 32133 \u2014 Ancients\nConstantine VI and Irene (AD 780-797). AV solidus (19mm 4.46 gm, 7h). NGC AU 5/5 - 4/5. Constantinople. COnS-tAntInOS CA'-b' \u0394', crowned facing busts of Constantine VI (on left), wearing chla",
+      "description": "Ancients\nConstantine VI and Irene (AD 780-797). AV solidus (19mm 4.46 gm, 7h). NGC AU 5/5 - 4/5. Constantinople. COnS-tAntInOS CA'-b' \u0394', crowned facing busts of Constantine VI (on left), wearing chlamys pinned at right shoulder, globus cruciger in right hand, and Irene (on right), wearing loros and crown with four pinnacles and cross, transverse cruciform scepter in left hand; pellet between, cross above / SVn IRIn-I AV\u0393' mItRI AV', Leo III, Constantine V, and Leo IV seated facing, each weari...",
+      "hammer_price_usd": 3600.0,
+      "currency_original": "USD",
+      "price_original": 3600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/e3808ac7967d47980789a9d29d3006b0/img/heritage/3132/image32133.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-92ee4518277a",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739844&AucID=7076&Lot=32134&Val=6a3d6b74c73c7c9c009ef04d4740ae53",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 32134 \u2014 Ancients\nConstantine VI and Irene (AD 780-797). AV solidus (20mm, 4.46 gm, 5h). NGC MS 3/5 - 4/5. Constantinople. S IRIn-I AV\u0393' m-ltRA, crowned facing busts of Constantine VI (on left), wearing chlamy",
+      "description": "Ancients\nConstantine VI and Irene (AD 780-797). AV solidus (20mm, 4.46 gm, 5h). NGC MS 3/5 - 4/5. Constantinople. S IRIn-I AV\u0393' m-ltRA, crowned facing busts of Constantine VI (on left), wearing chlamys pinned at right shoulder, globus cruciger in right hand, and Irene (on right), wearing loros and crown with four pinnacles and cross, globus cruciger in right hand, transverse cruciform scepter in left; pellet between, cross above / COnS-tAntInO-S-C'b'b', Leo III, Constantine V, and Leo IV seate...",
+      "hammer_price_usd": 2200.0,
+      "currency_original": "USD",
+      "price_original": 2200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/c16b48da1deab626c525444e97a568ea/img/heritage/3132/image32134.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 3,
+        "strike_score": 3,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-e355af7d11c1",
       "source": "coinarchives",

@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AV Stater",
   "metal": "gold",
-  "sale_count": 72,
-  "realized_count": 72,
+  "sale_count": 74,
+  "realized_count": 74,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -20,11 +20,11 @@
   "last_sale_date": "2026-04-29",
   "grade_distribution": {
     "XF": 4,
-    "MS": 45,
+    "MS": 47,
     "AU": 17,
     "G": 6
   },
-  "thumbnail_url": "https://media.coinarchives.com/e4db5bf4090ddcbbdc73cce90d95e9f6/img/heritage/61610/image25004.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/9a923f2a0e6aef5b874f4161b0495402/img/heritage/3132/image32079.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -391,6 +391,72 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-53b2e7b6638f",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739789&AucID=7076&Lot=32079&Val=9d1f80ad9334f9388b09ec9f45899492",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 32079 \u2014 Ancients\nSCYTHIA. Geto-Dacians. Coson (ca. after 54 BC). AV stater (21mm, 8.35 gm, 12h). NGC MS 5/5 - 4/5. Sarmatia, Olbia. KO\u03a3\u03a9N, Roman consul (L. Junius Brutus) walking left, accompanied by two lict",
+      "description": "Ancients\nSCYTHIA. Geto-Dacians. Coson (ca. after 54 BC). AV stater (21mm, 8.35 gm, 12h). NGC MS 5/5 - 4/5. Sarmatia, Olbia. KO\u03a3\u03a9N, Roman consul (L. Junius Brutus) walking left, accompanied by two lictors fore and aft, \u039f\u039b\u0392 monogram in left field / Eagle standing left on scepter, with spread wings, clutching laurel wreath in right talons; two pellets below raised foot. RPC I 1701a.\n\nEx Art of Money, private sale with old dealer ticket included; Property Sold on the Instructions of the Agent: Num...",
+      "hammer_price_usd": 2600.0,
+      "currency_original": "USD",
+      "price_original": 2600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/9a923f2a0e6aef5b874f4161b0495402/img/heritage/3132/image32079.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-b2d814d15b45",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739790&AucID=7076&Lot=32080&Val=6d259171e5e34bb6db5acb8bcb7570b1",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 32080 \u2014 Ancients\nSCYTHIA. Geto-Dacians. Coson (ca. after 54 BC). AV stater (18mm, 8.44 gm, 11h). NGC MS 5/5 - 4/5. Sarmatia, Olbia. KO\u03a3\u03a9N, Roman consul (L. Junius Brutus) walking left, accompanied by two lict",
+      "description": "Ancients\nSCYTHIA. Geto-Dacians. Coson (ca. after 54 BC). AV stater (18mm, 8.44 gm, 11h). NGC MS 5/5 - 4/5. Sarmatia, Olbia. KO\u03a3\u03a9N, Roman consul (L. Junius Brutus) walking left, accompanied by two lictors before and after / Eagle with spread wings standing left on scepter, clutching laurel wreath in right talon. RPC I 1701b.  www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.ha.com/itm/ancients/roman-provincial/roman-provincial-scythia-geto-dacians-coson-ca-after-54-bc-av-stater-18mm-844-g...",
+      "hammer_price_usd": 2400.0,
+      "currency_original": "USD",
+      "price_original": 2400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/79aceb4f56d251d17c9a831327c56683/img/heritage/3132/image32080.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

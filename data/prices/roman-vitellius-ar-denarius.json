@@ -8,8 +8,8 @@
   "ruler_rarity": "scarce",
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 165,
-  "realized_count": 165,
+  "sale_count": 166,
+  "realized_count": 166,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -19,7 +19,7 @@
   "median_price_usd": 384.0,
   "last_sale_date": "2026-04-29",
   "grade_distribution": {
-    "XF": 21,
+    "XF": 22,
     "VF": 41,
     "AU": 11,
     "F": 64,
@@ -27,7 +27,7 @@
     "G": 1,
     "MS": 2
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-5-6-6-8-25668980&w=120&h=300&it=product",
+  "thumbnail_url": "https://media.coinarchives.com/11046a6139291af98db53a234e627100/img/heritage/3132/image32106.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 5,
@@ -130,6 +130,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-09edc09ec66b",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739816&AucID=7076&Lot=32106&Val=bc5327737e04d2b1158127f31e764d62",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 32106 \u2014 Ancients\nVitellius (late April-20 December AD 69). AR denarius (21mm, 3.29 gm, 5h). NGC Choice XF 4/5 - 5/5. Rome. A VITELLIVS GERM IMP AVG TR P, laureate head of Vitellius right / CONCOR-DIA P R, Con",
+      "description": "Ancients\nVitellius (late April-20 December AD 69). AR denarius (21mm, 3.29 gm, 5h). NGC Choice XF 4/5 - 5/5. Rome. A VITELLIVS GERM IMP AVG TR P, laureate head of Vitellius right / CONCOR-DIA P R, Concordia seated left, patera in outstretched right hand, cornucopia cradled in left arm. RIC I 90.\n\nAulus Vitellius, the ninth emperor of Rome and the third in the chaotic Year of the Four Emperors, ruled briefly in a period marked by turbulence and instability. His ascent to power was propelled by ...",
+      "hammer_price_usd": 4600.0,
+      "currency_original": "USD",
+      "price_original": 4600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/11046a6139291af98db53a234e627100/img/heritage/3132/image32106.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
