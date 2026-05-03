@@ -4,26 +4,26 @@
   "ruler": "Diocletian",
   "ruler_normalized": "diocletian",
   "dynasty": "Tetrarchy",
-  "ruler_dates": "AD 284\u00e2\u20ac\u201c305",
+  "ruler_dates": "AD 284\u2013305",
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 22,
-  "realized_count": 22,
+  "sale_count": 23,
+  "realized_count": 23,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 41.0,
     "max": 576.0
   },
-  "median_price_usd": 101.5,
+  "median_price_usd": 109.0,
   "last_sale_date": "2025-12-07",
   "grade_distribution": {
+    "XF": 16,
     "AU": 5,
-    "XF": 15,
     "VF": 2
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-2-3-9-6-22396478&w=120&h=300&it=product",
+  "thumbnail_url": "https://media.coinarchives.com/0344acbe902b02cbdde50f603edb5c9d/img/heritage/61574/image24006.jpg",
   "median_weight_g": null,
   "top_strike_score": null,
   "top_surface_score": null,
@@ -33,6 +33,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-809193541d86",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2670468&AucID=6841&Lot=24006&Val=8078d6d63486019906c2fb8673d0f166",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61574, Lot 24006 \u2014 Ancients\nEGYPT. Alexandria. Diocletian (AD 284-305). BI tetradrachm (20mm, 11h). NGC Choice XF. Dated Regnal Year 3 (AD 286/287). \u0391 \u039a \u0393 \u039f\u03a5\u0391 \u0394\u0399\u039f\u039a\u039b\u0397\u03a4\u0399\u0391\u039d\u039f\u03f9 \u03f9\u0395\u0392, laureate, draped, and cuirassed bust of Di",
+      "description": "Ancients\nEGYPT. Alexandria. Diocletian (AD 284-305). BI tetradrachm (20mm, 11h). NGC Choice XF. Dated Regnal Year 3 (AD 286/287). \u0391 \u039a \u0393 \u039f\u03a5\u0391 \u0394\u0399\u039f\u039a\u039b\u0397\u03a4\u0399\u0391\u039d\u039f\u03f9 \u03f9\u0395\u0392, laureate, draped, and cuirassed bust of Diocletian right, seen from behind / \u0395\u03a4\u039f\u03a5\u03f9, Nike advancing right, wreath in outstretched right hand, palm in left over shoulder; star above \u0393 (date) before. RPC X Online Unassigned 75967.\n\nWhen Diocletian came into power, he realized that the empire was too large to be run by one person. To solve th...",
+      "hammer_price_usd": 130.0,
+      "currency_original": "USD",
+      "price_original": 130.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-07",
+      "image_url": "https://media.coinarchives.com/0344acbe902b02cbdde50f603edb5c9d/img/heritage/61574/image24006.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-ccd58b14a75f",
       "source": "heritage",

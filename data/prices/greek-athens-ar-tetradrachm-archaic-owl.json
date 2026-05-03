@@ -8,18 +8,18 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 60,
-  "realized_count": 60,
+  "sale_count": 61,
+  "realized_count": 61,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 1080.0,
+    "min": 950.0,
     "max": 19200.0
   },
   "median_price_usd": 3120.0,
   "last_sale_date": "2026-01-22",
   "grade_distribution": {
-    "VF": 27,
+    "VF": 28,
     "XF": 19,
     "F": 3,
     "AU": 11
@@ -54,6 +54,39 @@
         "grade_numeric": null,
         "strike_score": 4,
         "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-96487ad53e67",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2668119&AucID=6826&Lot=37008&Val=477e500fbd54b2f5eab65ffec38faea0",
+      "title": "Heritage World Coin Auctions - Hong Kong Signature Sale 3127, Lot 37008 \u2014 Ancients\nATTICA. Athens. Ca. 475-465 BC. AR tetradrachm (24mm, 17.15 gm, 5h). NGC Choice VF 4/5 - 4/5. Early transitional issue. Head of Athena right with frontal eye and \"archaic smile\", hair in wavy",
+      "description": "Ancients\nATTICA. Athens. Ca. 475-465 BC. AR tetradrachm (24mm, 17.15 gm, 5h). NGC Choice VF 4/5 - 4/5. Early transitional issue. Head of Athena right with frontal eye and \"archaic smile\", hair in wavy line across brow, wearing earring and crested Attic helmet ornamented with three laurel leaves and vine scroll with two sprays, the end pointing at the final laurel leaf / A\u0398E, owl standing right, head facing, stubby tail; olive sprig with two leaves and one berry, and crescent moon behind, all w...",
+      "hammer_price_usd": 950.0,
+      "currency_original": "USD",
+      "price_original": 950.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-06",
+      "image_url": "https://media.coinarchives.com/17ddb0823f5a78b71d2cba26cbe5afca/img/heritage/3127/image37008.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
