@@ -19,10 +19,10 @@
   "median_price_usd": 1300.0,
   "last_sale_date": "2026-04-29",
   "grade_distribution": {
-    "XF": 49,
     "VF": 16,
     "AU": 97,
     "MS": 40,
+    "XF": 49,
     "F": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/be987583c288964cc65aab162f2dcc7e/img/heritage/3132/image32135.jpg",
@@ -35,39 +35,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-a16afeee07fc",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13348/ancients-byzantine/11783898/constantine-vii-porphyrogenitus-ad-913-959",
-      "title": "Constantine VII Porphyrogenitus (AD 913-959), with Romanus I Lecapenus (AD 920-944) and Christopher (AD 921-931). AV solidus (20mm, 4.40 gm, 7h). NGC Choice XF 5/5 - 2/5, wavy flan, scuffs. Constantinople. +IhS XPS R\u0404X-R\u0404\u03danAnTI\u0427M, Christ enthroned facing, wearing nimbus cruciger, pallium and colobium, right hand raised in benediction, book of Gospels in left / ROmAn' COnST'-\u0404T XPISTOF' b' R', Romanus I standing facing, bearded, wearing crown and loros decorated with cross, labarum-tipped scepter in right hand, akakia in left, between half-length Constantine VII (on left) standing facing, beardless, and Christopher (on right) standing facing, with short beard, each wearing crown and chlamys. Sear 1742. A magnificent example of a rare type.    HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
-      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction #3126']",
-      "hammer_price_usd": 5500.0,
-      "currency_original": "USD",
-      "price_original": 5500.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-11-06",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "sixbid-0a1068d16834",
       "source": "sixbid",
@@ -293,6 +260,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-a16afeee07fc",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13348/ancients-byzantine/11783898/constantine-vii-porphyrogenitus-ad-913-959",
+      "title": "Constantine VII Porphyrogenitus (AD 913-959), with Romanus I Lecapenus (AD 920-944) and Christopher (AD 921-931). AV solidus (20mm, 4.40 gm, 7h). NGC Choice XF 5/5 - 2/5, wavy flan, scuffs. Constantinople. +IhS XPS R\u0404X-R\u0404\u03danAnTI\u0427M, Christ enthroned facing, wearing nimbus cruciger, pallium and colobium, right hand raised in benediction, book of Gospels in left / ROmAn' COnST'-\u0404T XPISTOF' b' R', Romanus I standing facing, bearded, wearing crown and loros decorated with cross, labarum-tipped scepter in right hand, akakia in left, between half-length Constantine VII (on left) standing facing, beardless, and Christopher (on right) standing facing, with short beard, each wearing crown and chlamys. Sear 1742. A magnificent example of a rare type.    HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction #3126']",
+      "hammer_price_usd": 5500.0,
+      "currency_original": "USD",
+      "price_original": 5500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-06",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

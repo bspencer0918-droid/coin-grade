@@ -8,20 +8,20 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "silver",
-  "sale_count": 857,
-  "realized_count": 856,
+  "sale_count": 858,
+  "realized_count": 857,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 30.0,
-    "max": 136190.47
+    "max": 470476.2
   },
   "median_price_usd": 139.0,
   "last_sale_date": "2026-03-24",
   "grade_distribution": {
     "G": 2,
     "MS": 330,
-    "AU": 376,
+    "AU": 377,
     "XF": 103,
     "VF": 38,
     "F": 8
@@ -125,6 +125,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/8706984002/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-eb9c062c0300",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/numismatica-genevensis-sa/13350/spain/11784942/philip-iii-1598-1621-8",
+      "title": "Philip III, 1598-1621. <br> 8 Escudos 1611, Segovia. PHILIPPVS \u00b7 III \u00b7 D \u00b7 G Crowned shield. Aqueduct mint mark on the left. Value on the right / HISPANIARVM \u00b7 REX \u00b7 1611 Spanish cross within quadrilobe. 26,78g. Calic\u00f3 3 (this coin); Calic\u00f3 (Onza) 1 (this coin); Cayon & Cast\u00e1n 1543. <br> NGC AU 58 (Top pop). <br> (8706984-001). <br> Extremely rare. About uncirculated. With a beautiful reddish patina. <br> Aureo & Calic\u00f3 218 (8 April 2009), 1861. <br> This is the first 8 escudos piece \u2013 or \u201conza\u201d \u2013 ever struck and the only known specimen. The assayer, Melchor Rodriguez del Castillo, had been an assayer at the Granada mint and became the first assayer to struck onzas at the Royal mint of Segovia. At the time of the death of king Philip III in 1621, the Spanish Empire \u2013 reinforced with new territories in Alsace, at peace with France, dominant in the Holy Roman Empire, and about to begin a successful campaign against the Dutch \u2013 was in a much stronger position than in 1598.",
+      "description": "Numismatica Genevensis SA | ['Auction 22']",
+      "hammer_price_usd": 470476.2,
+      "currency_original": "USD",
+      "price_original": 470476.2,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-24",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8706984-001",
+        "grade": "AU",
+        "grade_numeric": 58,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8706984001/",
         "grading_service": "ngc"
       },
       "metadata": {

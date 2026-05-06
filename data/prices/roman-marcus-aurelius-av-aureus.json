@@ -19,9 +19,9 @@
   "median_price_usd": 10080.0,
   "last_sale_date": "2026-04-29",
   "grade_distribution": {
-    "VF": 10,
     "MS": 20,
     "AU": 25,
+    "VF": 10,
     "XF": 20,
     "G": 2
   },
@@ -35,39 +35,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-1bb4b5d5eb2e",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13348/ancients-roman-imperial/11784076/marcus-aurelius-as-caesar-ad",
-      "title": "Marcus Aurelius, as Caesar (AD 161-180). AV aureus (20mm, 7.28 gm, 5h). NGC Choice VF 5/5 - 3/5, brushed. Rome, AD 140-144. AVRELIVS CAE-SAR AVG P II F COS, bare head of Marcus Aurelius right / PIET-AS AVG, knife, aspergillum, ewer, lituus, simpulum. Calic\u00f3 1883. RIC III (Antoninus Pius) 424. A handsome portrait of the future emperor.  Originally given the name Marcus Annius Verus, the future Marcus Aurelius was born in AD 121 into a patrician family of Spanish origin. Gaining the favor of Emperor Hadrian early on, he was educated at the Imperial court and adopted by Antoninus Pius at 17, alongside Lucius Verus, as part of Hadrian's succession plan. Upon Antoninus Pius's ascension to the throne in AD 138, Marcus was elevated to Caesar, marking the start of his prominent role in governance.  As emperor, Marcus Aurelius navigated the Roman Empire through numerous military conflicts, including the Marcomannic Wars, and faced a devastating plague that significantly impacted the Roman population. His tenure is notably marked by his Stoic philosophy, as captured in his work \"Meditations,\" which remains influential. Despite the lack of military training, his leadership during these tumultuous times reflected a deep commitment to his duties and philosophical principles. Marcus Aurelius died in AD 180, leaving a legacy as a philosopher-king, revered for his wisdom and the stoic fortitude with which he governed the Roman Empire.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
-      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction #3126']",
-      "hammer_price_usd": 7200.0,
-      "currency_original": "USD",
-      "price_original": 7200.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-11-06",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "sixbid-7bbd7d2ca276",
       "source": "sixbid",
@@ -260,6 +227,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-1bb4b5d5eb2e",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13348/ancients-roman-imperial/11784076/marcus-aurelius-as-caesar-ad",
+      "title": "Marcus Aurelius, as Caesar (AD 161-180). AV aureus (20mm, 7.28 gm, 5h). NGC Choice VF 5/5 - 3/5, brushed. Rome, AD 140-144. AVRELIVS CAE-SAR AVG P II F COS, bare head of Marcus Aurelius right / PIET-AS AVG, knife, aspergillum, ewer, lituus, simpulum. Calic\u00f3 1883. RIC III (Antoninus Pius) 424. A handsome portrait of the future emperor.  Originally given the name Marcus Annius Verus, the future Marcus Aurelius was born in AD 121 into a patrician family of Spanish origin. Gaining the favor of Emperor Hadrian early on, he was educated at the Imperial court and adopted by Antoninus Pius at 17, alongside Lucius Verus, as part of Hadrian's succession plan. Upon Antoninus Pius's ascension to the throne in AD 138, Marcus was elevated to Caesar, marking the start of his prominent role in governance.  As emperor, Marcus Aurelius navigated the Roman Empire through numerous military conflicts, including the Marcomannic Wars, and faced a devastating plague that significantly impacted the Roman population. His tenure is notably marked by his Stoic philosophy, as captured in his work \"Meditations,\" which remains influential. Despite the lack of military training, his leadership during these tumultuous times reflected a deep commitment to his duties and philosophical principles. Marcus Aurelius died in AD 180, leaving a legacy as a philosopher-king, revered for his wisdom and the stoic fortitude with which he governed the Roman Empire.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction #3126']",
+      "hammer_price_usd": 7200.0,
+      "currency_original": "USD",
+      "price_original": 7200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-06",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
