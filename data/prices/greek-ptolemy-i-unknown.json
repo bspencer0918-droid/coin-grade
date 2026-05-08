@@ -17,7 +17,7 @@
     "max": 114000.0
   },
   "median_price_usd": 18000.0,
-  "last_sale_date": "2026-05-07",
+  "last_sale_date": "2026-05-08",
   "grade_distribution": {
     "XF": 16,
     "VF": 13,
@@ -179,7 +179,7 @@
       "currency_original": "USD",
       "price_original": 18500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-07",
+      "sale_date": "2026-05-08",
       "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc107707a.jpg",
       "ngc": {
         "verified": false,
@@ -224,6 +224,39 @@
         "details_grade": "Graffito",
         "fine_style": false,
         "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-ae5daecc0ebd",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2679439&AucID=6875&Lot=131&Val=4cae019ed379db6b7fd1b1b7f282fd49",
+      "title": "Numismatica Genevensis SA - Auction 22, Lot 131 \u2014 GREEK WORLD\nEgypt\nPtolemy II Philadelphos, 285 \u2013 246 BC.\nTrichryson or Pentadrachm circa 274 BC, Tyre. Diademed head of Ptolemy I right, wearing aegis around neck, dotted border / Eagle with closed wi",
+      "description": "GREEK WORLD\nEgypt\nPtolemy II Philadelphos, 285 \u2013 246 BC.\nTrichryson or Pentadrachm circa 274 BC, Tyre. Diademed head of Ptolemy I right, wearing aegis around neck, dotted border / Eagle with closed wings, standing left on thunderbolt, H in left field, above club, dotted border. 17,80g. 21mm. BMC 74; CPE 555; Svoronos 636; Weber 8256.\nNGC Ch AU 5/5 3/5 Light mark.\n(6645988-001).\nGood extremely fine.\n\nProvenance: Leu 2 (25 April 1972), 304.\n\n\n\nStarting price: 20000 CHF...",
+      "hammer_price_usd": 22000.0,
+      "currency_original": "CHF",
+      "price_original": 20000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-24",
+      "image_url": "https://media.coinarchives.com/4ef3f2838ac1e2395dce918657a70cab/img/ngsa/022/image00131.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "6645988-001",
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/6645988001/",
         "grading_service": "ngc"
       },
       "metadata": {
@@ -323,39 +356,6 @@
         "details_grade": null,
         "fine_style": true,
         "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-ae5daecc0ebd",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2679439&AucID=6875&Lot=131&Val=4cae019ed379db6b7fd1b1b7f282fd49",
-      "title": "Numismatica Genevensis SA - Auction 22, Lot 131 \u2014 GREEK WORLD\nEgypt\nPtolemy II Philadelphos, 285 \u2013 246 BC.\nTrichryson or Pentadrachm circa 274 BC, Tyre. Diademed head of Ptolemy I right, wearing aegis around neck, dotted border / Eagle with closed wi",
-      "description": "GREEK WORLD\nEgypt\nPtolemy II Philadelphos, 285 \u2013 246 BC.\nTrichryson or Pentadrachm circa 274 BC, Tyre. Diademed head of Ptolemy I right, wearing aegis around neck, dotted border / Eagle with closed wings, standing left on thunderbolt, H in left field, above club, dotted border. 17,80g. 21mm. BMC 74; CPE 555; Svoronos 636; Weber 8256.\nNGC Ch AU 5/5 3/5 Light mark.\n(6645988-001).\nGood extremely fine.\n\nProvenance: Leu 2 (25 April 1972), 304.\n\n\n\nStarting price: 20000 CHF...",
-      "hammer_price_usd": 22000.0,
-      "currency_original": "CHF",
-      "price_original": 20000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-11-24",
-      "image_url": "https://media.coinarchives.com/4ef3f2838ac1e2395dce918657a70cab/img/ngsa/022/image00131.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": "6645988-001",
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/6645988001/",
         "grading_service": "ngc"
       },
       "metadata": {

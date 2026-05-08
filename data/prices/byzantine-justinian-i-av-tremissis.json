@@ -19,12 +19,12 @@
   "median_price_usd": 456.0,
   "last_sale_date": "2026-01-16",
   "grade_distribution": {
-    "MS": 20,
     "AU": 22,
+    "MS": 20,
     "XF": 19,
     "VF": 6
   },
-  "thumbnail_url": "https://media.coinarchives.com/0a5e19d05790403287293601d77b2102/img/ponterio/236/image40282.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/8d222375d79cd08bbc99eecaced96a38/img/heritage/61557/image25277.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 2,
@@ -34,39 +34,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "coinarchives-434c586f0f5d",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2694738&AucID=6923&Lot=40282&Val=aaa570b8db0ba121a8cc068d5769c7d6",
-      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 40282 \u2014 JUSTINIAN II with TIBERIUS. Second Reign, 705-711. AV Tremissis (1.37 gms), Constantinople Mint. NGC MS, Strike: 4/5 Surface: 2/5. Wavy Flan, Clipped, Glue Residue.\nTo view all items from the John P. ",
-      "description": "JUSTINIAN II with TIBERIUS. Second Reign, 705-711. AV Tremissis (1.37 gms), Constantinople Mint. NGC MS, Strike: 4/5 Surface: 2/5. Wavy Flan, Clipped, Glue Residue.\nTo view all items from the John P. Burnham Collection, click  here.\nS-1420. Obverse: Facing bust of Christ Pantokrator; Reverse: Crowned and facing busts of Justinian and Tiberius, wearing chlamys and holding cross potent without steps between them. Uncommon as a type, with bold details, a bright luster, and good appeal, despite so...",
-      "hammer_price_usd": 1700.0,
-      "currency_original": "USD",
-      "price_original": 1700.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-16",
-      "image_url": "https://media.coinarchives.com/0a5e19d05790403287293601d77b2102/img/ponterio/236/image40282.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 2,
-        "details_grade": "Clipped",
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-5f1faddbb4ce",
       "source": "coinarchives",
@@ -88,6 +55,39 @@
         "strike_score": 4,
         "surface_score": 2,
         "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-434c586f0f5d",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2694738&AucID=6923&Lot=40282&Val=aaa570b8db0ba121a8cc068d5769c7d6",
+      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 40282 \u2014 JUSTINIAN II with TIBERIUS. Second Reign, 705-711. AV Tremissis (1.37 gms), Constantinople Mint. NGC MS, Strike: 4/5 Surface: 2/5. Wavy Flan, Clipped, Glue Residue.\nTo view all items from the John P. ",
+      "description": "JUSTINIAN II with TIBERIUS. Second Reign, 705-711. AV Tremissis (1.37 gms), Constantinople Mint. NGC MS, Strike: 4/5 Surface: 2/5. Wavy Flan, Clipped, Glue Residue.\nTo view all items from the John P. Burnham Collection, click  here.\nS-1420. Obverse: Facing bust of Christ Pantokrator; Reverse: Crowned and facing busts of Justinian and Tiberius, wearing chlamys and holding cross potent without steps between them. Uncommon as a type, with bold details, a bright luster, and good appeal, despite so...",
+      "hammer_price_usd": 1700.0,
+      "currency_original": "USD",
+      "price_original": 1700.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": "https://media.coinarchives.com/0a5e19d05790403287293601d77b2102/img/ponterio/236/image40282.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": "Clipped",
         "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
