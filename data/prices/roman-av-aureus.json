@@ -19,10 +19,10 @@
   "median_price_usd": 11400.0,
   "last_sale_date": "2026-04-29",
   "grade_distribution": {
-    "VF": 48,
     "MS": 54,
     "XF": 53,
     "AU": 98,
+    "VF": 48,
     "F": 18,
     "G": 2,
     "VG": 5
@@ -37,39 +37,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-de6979588b50",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13332/empire-romain-roman/11755981/empire-romain-romantibere-14-37",
-      "title": "EMPIRE ROMAIN - ROMAN<br>Tib\u00e8re (14-37). Aureus ND (14-17), Lyon.<br>Calic\u00f3 305 - RIC.25 - Fr.65 ; Or - 7,68 g - 18 mm - 10 h<br>NGC Ch VF 5/5 1/5 (6771255-001). <br>Plusieurs petits coups et griffures \u00e0 l\u2019avers, le revers l\u00e9g\u00e8rement \u00e9cras\u00e9 au centre. TTB.",
-      "description": "MDC Monaco | ['E-AUCTION 15']",
-      "hammer_price_usd": 4083.1,
-      "currency_original": "USD",
-      "price_original": 4083.1,
-      "buyers_premium_included": false,
-      "sale_date": "2025-11-09",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "6771255-001",
-        "grade": "VF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 1,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/6771255001/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-ab94f1d5dc85",
       "source": "coinarchives",
@@ -295,6 +262,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-de6979588b50",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13332/empire-romain-roman/11755981/empire-romain-romantibere-14-37",
+      "title": "EMPIRE ROMAIN - ROMAN<br>Tib\u00e8re (14-37). Aureus ND (14-17), Lyon.<br>Calic\u00f3 305 - RIC.25 - Fr.65 ; Or - 7,68 g - 18 mm - 10 h<br>NGC Ch VF 5/5 1/5 (6771255-001). <br>Plusieurs petits coups et griffures \u00e0 l\u2019avers, le revers l\u00e9g\u00e8rement \u00e9cras\u00e9 au centre. TTB.",
+      "description": "MDC Monaco | ['E-AUCTION 15']",
+      "hammer_price_usd": 4083.1,
+      "currency_original": "USD",
+      "price_original": 4083.1,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-09",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "6771255-001",
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 1,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/6771255001/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

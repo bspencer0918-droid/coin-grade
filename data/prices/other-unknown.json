@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 1385,
-  "realized_count": 1345,
+  "sale_count": 1386,
+  "realized_count": 1346,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,13 +17,13 @@
     "max": 312000.0
   },
   "median_price_usd": 900.0,
-  "last_sale_date": "2026-05-08",
+  "last_sale_date": "2026-05-09",
   "grade_distribution": {
     "VF": 334,
     "XF": 219,
     "P": 12,
     "MS": 385,
-    "AU": 285,
+    "AU": 286,
     "F": 105,
     "G": 34,
     "VG": 11
@@ -49,7 +49,7 @@
       "currency_original": "USD",
       "price_original": 6000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-08",
+      "sale_date": "2026-05-09",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -82,7 +82,7 @@
       "currency_original": "USD",
       "price_original": 550.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-08",
+      "sale_date": "2026-05-09",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -115,7 +115,7 @@
       "currency_original": "USD",
       "price_original": 13000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-08",
+      "sale_date": "2026-05-09",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -148,7 +148,7 @@
       "currency_original": "USD",
       "price_original": 14000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-08",
+      "sale_date": "2026-05-09",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -181,7 +181,7 @@
       "currency_original": "USD",
       "price_original": 1600.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-08",
+      "sale_date": "2026-05-09",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -214,7 +214,7 @@
       "currency_original": "USD",
       "price_original": 1500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-08",
+      "sale_date": "2026-05-09",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -4120,6 +4120,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/3997941012/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-bea1c2e5541f",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13634/ancients-roman-imperial/12049162/tetricus-i-romano-gallic-empire-ad",
+      "title": "Tetricus I, Romano-Gallic Empire (AD 271-274). BI antoninianus (18mm, 1.20 gm, 12h). NGC AU 4/5 - 4/5. Cologne, AD 272-273. IMP TETRICVS P F AVG, radiate, cuirassed bust of Tetricus I right, seen from front / LAETIT-IA AVGG, Laetitia standing facing, head left, wreath downward in outstretched right hand, grounded anchor in left. RIC V.II 88.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61605']",
+      "hammer_price_usd": 140.0,
+      "currency_original": "USD",
+      "price_original": 140.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-15",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
         "grading_service": "ngc"
       },
       "metadata": {
