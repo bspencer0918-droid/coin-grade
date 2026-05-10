@@ -8,17 +8,18 @@
   "ruler_rarity": null,
   "denomination": "AR Didrachm",
   "metal": "silver",
-  "sale_count": 4,
-  "realized_count": 4,
+  "sale_count": 5,
+  "realized_count": 5,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 800.0,
-    "max": 1300.0
+    "max": 7500.0
   },
-  "median_price_usd": 1133.0,
-  "last_sale_date": "2026-04-23",
+  "median_price_usd": 1250.0,
+  "last_sale_date": "2026-05-07",
   "grade_distribution": {
+    "XF": 1,
     "AU": 1,
     "VF": 2,
     "G": 1
@@ -33,6 +34,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-d8919d9326e7",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/daniel-frank-sedwick/13763/ancient-and-medieval/12188496/ancient-greek-lucania-velia-ar",
+      "title": "ANCIENT GREEK, Lucania, Velia, AR didrachm, Philistion group (ca. 300-280 BC), NGC Ch XF-star, strike 5/5, surface 5/5. HN Italy 1309. 7.49 grams. Helmeted head of Athena, bowl decorated with griffin; \u0391\u0398\u0397 behind neck; \u03a6 below chin / Lion prowling to right; ear of wheat above between \u03a6 and I; YE\u039bHT\u03a9N in exergue. Beautifully toned (the helmet of Athena shimmers blue), meriting a rare star designation by NGC for exceptional eye appeal. Pedigreed to the Peus auction of October 1997 (lot 29) and to the Peus auction of October 2003 (lot 111), both stated on label.",
+      "description": "Daniel Frank Sedwick | ['Auction 39']",
+      "hammer_price_usd": 7500.0,
+      "currency_original": "USD",
+      "price_original": 7500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-07",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-ed52f0b7a471",
       "source": "sixbid",

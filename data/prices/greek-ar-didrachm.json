@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Didrachm",
   "metal": "silver",
-  "sale_count": 108,
-  "realized_count": 107,
+  "sale_count": 109,
+  "realized_count": 108,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,13 +17,13 @@
     "max": 42000.0
   },
   "median_price_usd": 1800.0,
-  "last_sale_date": "2026-04-29",
+  "last_sale_date": "2026-05-07",
   "grade_distribution": {
     "F": 1,
+    "VF": 10,
     "XF": 37,
     "AU": 37,
     "MS": 23,
-    "VF": 9,
     "G": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/fafe0c0be9c85bfd0784a40d067f7ef6/img/heritage/3132/image32002.jpg",
@@ -59,6 +59,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/6656265052/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-6b09d3a7b0d0",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/daniel-frank-sedwick/13763/ancient-and-medieval/12188491/ancient-greek-calabria-taras-ar",
+      "title": "ANCIENT GREEK, Calabria, Taras, AR didrachm, ca. 332-302 BC, NGC Ch VF. Vlasto 605; HN Italy 937; SNG ANS 995 var. Nude, helmeted warrior on horseback right, holding spear in right hand and shield in left hand; \u03a3\u0391 below / Taras astride dolphin left, holding kantharos and trident; dolphin below. Medallic alignment, well centered with full, clear details, lightly toned.",
+      "description": "Daniel Frank Sedwick | ['Auction 39']",
+      "hammer_price_usd": 750.0,
+      "currency_original": "USD",
+      "price_original": 750.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-07",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
         "grading_service": "ngc"
       },
       "metadata": {

@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AV Aureus",
   "metal": "gold",
-  "sale_count": 131,
-  "realized_count": 131,
+  "sale_count": 132,
+  "realized_count": 132,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,11 +17,11 @@
     "max": 126000.0
   },
   "median_price_usd": 5040.0,
-  "last_sale_date": "2026-04-29",
+  "last_sale_date": "2026-05-07",
   "grade_distribution": {
+    "XF": 29,
     "AU": 21,
     "VF": 62,
-    "XF": 28,
     "F": 17,
     "MS": 3
   },
@@ -35,6 +35,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-60e2c1dc7a25",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/daniel-frank-sedwick/13763/ancient-and-medieval/12188505/ancient-roman-roman-empire-rome",
+      "title": "ANCIENT ROMAN, Roman Empire, Rome mint, AV aureus, Hadrian, 117-138 AD, NGC Ch XF, strike 5/5, surface 4/5, fine style. BMC-273; RIC-123; Calic\u00f3-1267. 7.41 grams. Bust of Hadrian, laureate and cuirassed, right / GEN PR in field, P M TR P COS III, Genius Populi Romani standing left, holding patera and cornucopia.<br><br>As noted on the slab, a Fine Style example, well centered and sharply struck, with strong detail and largely complete legends. The portrait is particularly appealing, with refined engraving in the facial features, hair, and laurel wreath, along with clear cuirass detail. The reverse is well balanced, showing the Genius in full form, extending a patera in sacrifice and holding a cornucopia as a symbol of abundance. Rich golden surfaces enhance the overall presentation.<br><br>The legend GEN PR expands to Genius Populi Romani, the divine spirit of the Roman people, not a specific god but a personification of the state itself, embodying its protection, continuity, and collective strength. The paired imagery of sacrifice and plenty underscores the message of a stable and prosperous empire.<br><br>This type aligns with Hadrian\u2019s focus on consolidation and internal strength, emphasizing order and continuity over expansion. A classic and historically significant aureus issue, valued for both its artistic quality and its clear imperial message.",
+      "description": "Daniel Frank Sedwick | ['Auction 39']",
+      "hammer_price_usd": 22500.0,
+      "currency_original": "USD",
+      "price_original": 22500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-07",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-a12ad90c07b1",
       "source": "sixbid",

@@ -8,20 +8,20 @@
   "ruler_rarity": null,
   "denomination": "AV Stater",
   "metal": "gold",
-  "sale_count": 39,
-  "realized_count": 39,
+  "sale_count": 40,
+  "realized_count": 40,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 2000.0,
     "max": 46000.0
   },
-  "median_price_usd": 9750.0,
-  "last_sale_date": "2026-04-29",
+  "median_price_usd": 9875.0,
+  "last_sale_date": "2026-05-07",
   "grade_distribution": {
+    "AU": 18,
     "XF": 4,
     "VF": 6,
-    "AU": 17,
     "MS": 12
   },
   "thumbnail_url": "https://media.coinarchives.com/54638897778bd2ff2338d21f6978731d/img/heritage/3132/image31006.jpg",
@@ -34,6 +34,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-769cc0235403",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/daniel-frank-sedwick/13763/ancient-and-medieval/12188493/ancient-greek-kings-of-macedon",
+      "title": "ANCIENT GREEK, Kings of Macedon, Miletos mint, AV stater, Alexander III (\"the Great\"), 336-323 BC, NGC Ch AU, strike 5/5, surface 4/5. Price 2077. 8.61 grams. Helmeted head of Athena right  / Nike standing left, holding wreath in right hand, stylis in left; HD monogram in left field; \u0391\u039b\u0395\u039e\u0391\u039d\u0394\u03a1\u039f\u03a5 in right. Well centered and crisply struck with beautiful details, choice grade.",
+      "description": "Daniel Frank Sedwick | ['Auction 39']",
+      "hammer_price_usd": 13500.0,
+      "currency_original": "USD",
+      "price_original": 13500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-07",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-82a1339ec6ab",
       "source": "sixbid",

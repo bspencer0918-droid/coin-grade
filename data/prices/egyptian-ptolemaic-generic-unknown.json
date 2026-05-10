@@ -8,19 +8,19 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "gold",
-  "sale_count": 113,
-  "realized_count": 113,
+  "sale_count": 114,
+  "realized_count": 114,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 156.0,
     "max": 120000.0
   },
-  "median_price_usd": 20400.0,
-  "last_sale_date": "2026-04-29",
+  "median_price_usd": 20570.0,
+  "last_sale_date": "2026-05-07",
   "grade_distribution": {
+    "MS": 24,
     "AU": 41,
-    "MS": 23,
     "XF": 35,
     "VF": 12,
     "F": 2
@@ -28,13 +28,46 @@
   "thumbnail_url": "https://media.coinarchives.com/cb8f6901f05cb71378f4c45c1da3e967/img/heritage/3132/image31022.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 4,
-  "top_grade_numeric": 5,
+  "top_surface_score": 2,
+  "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-ed07149b6a44",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/daniel-frank-sedwick/13763/ancient-and-medieval/12188498/ancient-greek-ptolemaic-kingdom-alexandria",
+      "title": "ANCIENT GREEK, Ptolemaic Kingdom, Alexandria mint, AV mnaieion (octodrachm), Arsin\u00f6e II Philadelphus (wife of Ptolemy II, 277-270/268 BC), posthumous issue, Class III, ca. 164/163-140 BC, NGC MS, strike 5/5, surface 2/5. CPE II K-43; Svoronos 1498-1499. 27.74 grams. Veiled head of deified Arsino\u00eb II right, wearing diademed stephane and horn of Ammon, scepter surmounted by lotus over left shoulder; K in left field, dotted border / AP\u03a3INOH\u03a3 \u03a6I\u039bA\u0394E\u039b\u03a6OY, double cornucopia bound with royal diadem, containing pyramidal cakes, pomegranates and other fruits, grape cluster hanging from the rim of each horn; dotted border.<br><br>Highly lustrous and deeply struck, from artistic Fine Style dies, very attractive for the assigned grade, with strong relief and excellent definition on both sides. The portrait is especially refined, with delicate facial features and well-rendered attributes of divinity, while the reverse displays a full and detailed cornucopia composition, symbolizing abundance and royal prosperity.<br><br>Arsino\u00eb II, both sister and wife of Ptolemy II Philadelphos, was elevated to divine status after her death, becoming one of the most important figures of the Ptolemaic dynastic cult. The horn of Ammon associates her with divine authority, while the veiled portrait emphasizes her role as a deified queen. The reverse legend \u03a6I\u039bA\u0394E\u039b\u03a6OY, meaning \u201csibling-loving,\u201d reflects the dynastic ideology central to the Ptolemies.<br><br>The double cornucopia type is emblematic of fertility, wealth, and the prosperity of Egypt under Ptolemaic rule, often linked to Arsino\u00eb\u2019s posthumous cult. These large gold octodrachms were struck in significant quantities following her death, serving both as prestige issues and as a means of reinforcing dynastic legitimacy and divine favor.<br><br>A classic and highly desirable issue, combining historical importance, strong iconography, and elegant Hellenistic style, with this example presenting particularly well for the grade.",
+      "description": "Daniel Frank Sedwick | ['Auction 39']",
+      "hammer_price_usd": 45000.0,
+      "currency_original": "USD",
+      "price_original": 45000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-07",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-e3799b4251ad",
       "source": "coinarchives",
