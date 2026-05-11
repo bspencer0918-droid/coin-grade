@@ -17,7 +17,7 @@
     "max": 720000.0
   },
   "median_price_usd": 264.0,
-  "last_sale_date": "2026-05-10",
+  "last_sale_date": "2026-05-11",
   "grade_distribution": {
     "XF": 1681,
     "VF": 1998,
@@ -49,7 +49,7 @@
       "currency_original": "USD",
       "price_original": 1100.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-10",
+      "sale_date": "2026-05-11",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -82,7 +82,7 @@
       "currency_original": "USD",
       "price_original": 950.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-10",
+      "sale_date": "2026-05-11",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -115,7 +115,7 @@
       "currency_original": "USD",
       "price_original": 650.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-10",
+      "sale_date": "2026-05-11",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -754,39 +754,6 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-bab84daa4f8a",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-europe/13407/roman-imperial-coinage/11838525/roman-imperial-coinage-lucilla",
-      "title": "Roman Imperial Coinage - Lucilla (+182) - AR Denarius (Rome AD 166-6) - LVCILLA AVGVSTA Draped bust right / PVDICITIA Pudicitia veiled and seated left with right hand on breast (RIC 781 / C. 62) - NGC Ch VF (Cert. Nr. 2119637-044) - minor residue on reverse",
-      "description": "Heritage Auctions Europe | ['Auction November 2025 - Part II']",
-      "hammer_price_usd": 92.6,
-      "currency_original": "USD",
-      "price_original": 92.6,
-      "buyers_premium_included": false,
-      "sale_date": "2025-11-11",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "2119637-044",
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/2119637044/",
         "grading_service": "ngc"
       },
       "metadata": {
@@ -1831,7 +1798,7 @@
       "currency_original": "USD",
       "price_original": 2250.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-10",
+      "sale_date": "2026-05-11",
       "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc108783a.jpg",
       "ngc": {
         "verified": false,
@@ -1864,7 +1831,7 @@
       "currency_original": "USD",
       "price_original": 1800.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-10",
+      "sale_date": "2026-05-11",
       "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc107402a.jpg",
       "ngc": {
         "verified": false,
@@ -1897,7 +1864,7 @@
       "currency_original": "USD",
       "price_original": 500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-10",
+      "sale_date": "2026-05-11",
       "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc95621a.jpg",
       "ngc": {
         "verified": false,
@@ -1930,7 +1897,7 @@
       "currency_original": "USD",
       "price_original": 750.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-10",
+      "sale_date": "2026-05-11",
       "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc95576a.jpg",
       "ngc": {
         "verified": false,
@@ -3167,6 +3134,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-bab84daa4f8a",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-europe/13407/roman-imperial-coinage/11838525/roman-imperial-coinage-lucilla",
+      "title": "Roman Imperial Coinage - Lucilla (+182) - AR Denarius (Rome AD 166-6) - LVCILLA AVGVSTA Draped bust right / PVDICITIA Pudicitia veiled and seated left with right hand on breast (RIC 781 / C. 62) - NGC Ch VF (Cert. Nr. 2119637-044) - minor residue on reverse",
+      "description": "Heritage Auctions Europe | ['Auction November 2025 - Part II']",
+      "hammer_price_usd": 92.6,
+      "currency_original": "USD",
+      "price_original": 92.6,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-11",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "2119637-044",
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/2119637044/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
