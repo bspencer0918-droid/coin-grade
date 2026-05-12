@@ -17,7 +17,7 @@
     "max": 50400.0
   },
   "median_price_usd": 1680.0,
-  "last_sale_date": "2026-05-11",
+  "last_sale_date": "2026-05-12",
   "grade_distribution": {
     "G": 2,
     "VF": 10,
@@ -25,7 +25,7 @@
     "AU": 36,
     "MS": 6
   },
-  "thumbnail_url": "https://media.coinarchives.com/555732db9fa1f53189ea501114bc3680/img/ponterio/236/image45162.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/ce317d1607049d039b1b3de39ae7d022/img/goldberg/150/image00430.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -46,8 +46,8 @@
       "currency_original": "USD",
       "price_original": 975.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-11",
-      "image_url": "https://images.hjbltd.com/ancientcoins/images/600x600/cc102921a.jpg",
+      "sale_date": "2026-05-12",
+      "image_url": "https://hjbimgstore.blob.core.windows.net/$web/ancient-coins/cc102921a.jpg",
       "ngc": {
         "verified": false,
         "cert_number": "843240819",
@@ -58,39 +58,6 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/843240819/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-0ad94f233431",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2695265&AucID=6923&Lot=45162&Val=5abc79e83a51d1519f1febbf1b8f170a",
-      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 45162 \u2014 CARIA. Satrap Pixodaros. AR Didrachm (6.96 gms), Halikarnassos Mint, ca. 341/0-336/5 B.C. NGC Ch VF, Strike: 5/5 Surface: 3/5. Brushed.\nTo view all items from the Peter Jones M.D. Collection, click  h",
-      "description": "CARIA. Satrap Pixodaros. AR Didrachm (6.96 gms), Halikarnassos Mint, ca. 341/0-336/5 B.C. NGC Ch VF, Strike: 5/5 Surface: 3/5. Brushed.\nTo view all items from the Peter Jones M.D. Collection, click  here.\nHN Online-241; Konuk-30. Obverse: Laureate head of Apollo facing slightly right, drapery around neck; Reverse: Zeus Labraundos standing right.\n\nFrom the Peter Jones M.D. Collection.\n\nEx: Classical Numismatic Group Auction 127 (9/2024), Lot # 235 (with ticket).\n\nEstimate: 300 - 500...",
-      "hammer_price_usd": 400.0,
-      "currency_original": "USD",
-      "price_original": 400.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-16",
-      "image_url": "https://media.coinarchives.com/555732db9fa1f53189ea501114bc3680/img/ponterio/236/image45162.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
         "grading_service": "ngc"
       },
       "metadata": {
@@ -154,6 +121,39 @@
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-0ad94f233431",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2695265&AucID=6923&Lot=45162&Val=5abc79e83a51d1519f1febbf1b8f170a",
+      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 45162 \u2014 CARIA. Satrap Pixodaros. AR Didrachm (6.96 gms), Halikarnassos Mint, ca. 341/0-336/5 B.C. NGC Ch VF, Strike: 5/5 Surface: 3/5. Brushed.\nTo view all items from the Peter Jones M.D. Collection, click  h",
+      "description": "CARIA. Satrap Pixodaros. AR Didrachm (6.96 gms), Halikarnassos Mint, ca. 341/0-336/5 B.C. NGC Ch VF, Strike: 5/5 Surface: 3/5. Brushed.\nTo view all items from the Peter Jones M.D. Collection, click  here.\nHN Online-241; Konuk-30. Obverse: Laureate head of Apollo facing slightly right, drapery around neck; Reverse: Zeus Labraundos standing right.\n\nFrom the Peter Jones M.D. Collection.\n\nEx: Classical Numismatic Group Auction 127 (9/2024), Lot # 235 (with ticket).\n\nEstimate: 300 - 500...",
+      "hammer_price_usd": 400.0,
+      "currency_original": "USD",
+      "price_original": 400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": "https://media.coinarchives.com/555732db9fa1f53189ea501114bc3680/img/ponterio/236/image45162.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

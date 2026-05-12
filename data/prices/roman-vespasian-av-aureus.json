@@ -20,9 +20,9 @@
   "last_sale_date": "2026-04-29",
   "grade_distribution": {
     "VF": 24,
-    "XF": 18,
     "AU": 13,
     "MS": 5,
+    "XF": 18,
     "G": 1,
     "F": 32,
     "VG": 5
@@ -59,39 +59,6 @@
         "surface_score": 2,
         "details_grade": null,
         "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-c86eb3db6c31",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739817&AucID=7076&Lot=32107&Val=7b0bd492a26e2383048e29c8462932db",
-      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 32107 \u2014 Ancients\nVespasian (AD 69-79). AV aureus (19mm, 7.25 gm, 8h). NGC XF 4/5 - 3/5, Fine Style. Lugdunum, AD 71. IMP CAESAR VESPASIANVS AVG TR P, laureate head of Vespasian right / COS III-FORT RED, Fortu",
-      "description": "Ancients\nVespasian (AD 69-79). AV aureus (19mm, 7.25 gm, 8h). NGC XF 4/5 - 3/5, Fine Style. Lugdunum, AD 71. IMP CAESAR VESPASIANVS AVG TR P, laureate head of Vespasian right / COS III-FORT RED, Fortuna standing facing, head left, globe outstretched in right hand, caduceus cradled in left arm. Calic\u00f3 613a. RIC II.1, 1111. Handsome devices with imposing portraiture.\n\nDescended from a family of small-time entrepreneurs and tax farmers in the Sabine hill country north of Rome, Flavius Vespasianus...",
-      "hammer_price_usd": 8500.0,
-      "currency_original": "USD",
-      "price_original": 8500.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-04-29",
-      "image_url": "https://media.coinarchives.com/ae25cfc54aa80f2c962a1d3c9bd394b3/img/heritage/3132/image32107.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": true,
         "certification_url": null,
         "grading_service": "ngc"
       },
@@ -257,6 +224,39 @@
         "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-c86eb3db6c31",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739817&AucID=7076&Lot=32107&Val=7b0bd492a26e2383048e29c8462932db",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 32107 \u2014 Ancients\nVespasian (AD 69-79). AV aureus (19mm, 7.25 gm, 8h). NGC XF 4/5 - 3/5, Fine Style. Lugdunum, AD 71. IMP CAESAR VESPASIANVS AVG TR P, laureate head of Vespasian right / COS III-FORT RED, Fortu",
+      "description": "Ancients\nVespasian (AD 69-79). AV aureus (19mm, 7.25 gm, 8h). NGC XF 4/5 - 3/5, Fine Style. Lugdunum, AD 71. IMP CAESAR VESPASIANVS AVG TR P, laureate head of Vespasian right / COS III-FORT RED, Fortuna standing facing, head left, globe outstretched in right hand, caduceus cradled in left arm. Calic\u00f3 613a. RIC II.1, 1111. Handsome devices with imposing portraiture.\n\nDescended from a family of small-time entrepreneurs and tax farmers in the Sabine hill country north of Rome, Flavius Vespasianus...",
+      "hammer_price_usd": 8500.0,
+      "currency_original": "USD",
+      "price_original": 8500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/ae25cfc54aa80f2c962a1d3c9bd394b3/img/heritage/3132/image32107.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": true,
         "certification_url": null,
         "grading_service": "ngc"
       },

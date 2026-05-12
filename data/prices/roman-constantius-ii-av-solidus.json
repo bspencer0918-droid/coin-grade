@@ -19,55 +19,22 @@
   "median_price_usd": 2400.0,
   "last_sale_date": "2026-04-29",
   "grade_distribution": {
-    "MS": 28,
     "AU": 37,
+    "MS": 28,
     "XF": 15,
     "VF": 7,
     "F": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/433978be9d67300847f47a151841dcc1/img/heritage/3130/image36096.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/0de6125102e87c47009b2a70acb5d0f7/img/heritage/3132/image32123.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 4,
+  "top_surface_score": 2,
   "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "coinarchives-733d4467c177",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687247&AucID=6921&Lot=36096&Val=b1bf183f6551273141c5771ce6b143b9",
-      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3130, Lot 36096 \u2014 Ancients\nConstantius II, as Augustus (AD 337-361). AV solidus (21mm, 4.49 gm, 5h). NGC MS 5/5 - 4/5. Antioch, 3rd officina, AD 347-355. FL IVL CONSTAN-TIVS PERP AVG, pearl-diademed, draped, and cuiras",
-      "description": "Ancients\nConstantius II, as Augustus (AD 337-361). AV solidus (21mm, 4.49 gm, 5h). NGC MS 5/5 - 4/5. Antioch, 3rd officina, AD 347-355. FL IVL CONSTAN-TIVS PERP AVG, pearl-diademed, draped, and cuirassed bust of Constantius II right, seen from front / GLORIA-REI-PVBLICAE, Roma seated facing (on left), spear in left hand, and Constantinopolis seated left (on right), scepter in left hand, right foot on prow, jointly holding with their right hands between them shield inscribed with VOT / XX / MVL...",
-      "hammer_price_usd": 3200.0,
-      "currency_original": "USD",
-      "price_original": 3200.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-22",
-      "image_url": "https://media.coinarchives.com/433978be9d67300847f47a151841dcc1/img/heritage/3130/image36096.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-55494d2e27a4",
       "source": "coinarchives",
@@ -124,6 +91,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/8237990001/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-733d4467c177",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687247&AucID=6921&Lot=36096&Val=b1bf183f6551273141c5771ce6b143b9",
+      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3130, Lot 36096 \u2014 Ancients\nConstantius II, as Augustus (AD 337-361). AV solidus (21mm, 4.49 gm, 5h). NGC MS 5/5 - 4/5. Antioch, 3rd officina, AD 347-355. FL IVL CONSTAN-TIVS PERP AVG, pearl-diademed, draped, and cuiras",
+      "description": "Ancients\nConstantius II, as Augustus (AD 337-361). AV solidus (21mm, 4.49 gm, 5h). NGC MS 5/5 - 4/5. Antioch, 3rd officina, AD 347-355. FL IVL CONSTAN-TIVS PERP AVG, pearl-diademed, draped, and cuirassed bust of Constantius II right, seen from front / GLORIA-REI-PVBLICAE, Roma seated facing (on left), spear in left hand, and Constantinopolis seated left (on right), scepter in left hand, right foot on prow, jointly holding with their right hands between them shield inscribed with VOT / XX / MVL...",
+      "hammer_price_usd": 3200.0,
+      "currency_original": "USD",
+      "price_original": 3200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-22",
+      "image_url": "https://media.coinarchives.com/433978be9d67300847f47a151841dcc1/img/heritage/3130/image36096.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
         "grading_service": "ngc"
       },
       "metadata": {

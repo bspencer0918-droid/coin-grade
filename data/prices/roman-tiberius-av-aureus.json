@@ -20,13 +20,13 @@
   "last_sale_date": "2026-04-29",
   "grade_distribution": {
     "AU": 44,
-    "XF": 23,
     "VF": 32,
     "F": 24,
     "MS": 9,
-    "VG": 2
+    "VG": 2,
+    "XF": 23
   },
-  "thumbnail_url": "https://media.coinarchives.com/aebee8ed8913d6f88f14342940d61264/img/heritage/3132/image32099.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/c1e286b97a1c4e70ad63be7370b0a7fa/img/heritage/3132/image32100.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -63,39 +63,6 @@
       },
       "metadata": {
         "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-c8bafb989e56",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739809&AucID=7076&Lot=32099&Val=4aa46fc0ef082c61a9b535b84cee05d7",
-      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 32099 \u2014 Ancients\nTiberius (AD 14-37). AV aureus (19mm, 7.51 gm, 11h). NGC XF 5/5 - 3/5. Lugdunum, ca. AD 14-17. TI CAESAR DIVI-AVG F AVGVSTVS, laureate head of Tiberius right / PONTIF-MAXIM, Livia, as Pax, se",
-      "description": "Ancients\nTiberius (AD 14-37). AV aureus (19mm, 7.51 gm, 11h). NGC XF 5/5 - 3/5. Lugdunum, ca. AD 14-17. TI CAESAR DIVI-AVG F AVGVSTVS, laureate head of Tiberius right / PONTIF-MAXIM, Livia, as Pax, seated right, olive branch in left hand, grounded scepter in right, feet on stool; chair with ornate legs, single line below. Calic\u00f3 305b. RIC I 29 corr. (as 27). Flashy, buttery dies.   www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.ha.com/itm/ancients/roman-imperial/roman-imperial-tiberius...",
-      "hammer_price_usd": 8250.0,
-      "currency_original": "USD",
-      "price_original": 8250.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-04-29",
-      "image_url": "https://media.coinarchives.com/aebee8ed8913d6f88f14342940d61264/img/heritage/3132/image32099.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -287,6 +254,39 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-c8bafb989e56",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739809&AucID=7076&Lot=32099&Val=4aa46fc0ef082c61a9b535b84cee05d7",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 32099 \u2014 Ancients\nTiberius (AD 14-37). AV aureus (19mm, 7.51 gm, 11h). NGC XF 5/5 - 3/5. Lugdunum, ca. AD 14-17. TI CAESAR DIVI-AVG F AVGVSTVS, laureate head of Tiberius right / PONTIF-MAXIM, Livia, as Pax, se",
+      "description": "Ancients\nTiberius (AD 14-37). AV aureus (19mm, 7.51 gm, 11h). NGC XF 5/5 - 3/5. Lugdunum, ca. AD 14-17. TI CAESAR DIVI-AVG F AVGVSTVS, laureate head of Tiberius right / PONTIF-MAXIM, Livia, as Pax, seated right, olive branch in left hand, grounded scepter in right, feet on stool; chair with ornate legs, single line below. Calic\u00f3 305b. RIC I 29 corr. (as 27). Flashy, buttery dies.   www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.ha.com/itm/ancients/roman-imperial/roman-imperial-tiberius...",
+      "hammer_price_usd": 8250.0,
+      "currency_original": "USD",
+      "price_original": 8250.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/aebee8ed8913d6f88f14342940d61264/img/heritage/3132/image32099.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

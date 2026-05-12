@@ -20,8 +20,8 @@
   "last_sale_date": "2026-03-15",
   "grade_distribution": {
     "XF": 83,
-    "MS": 147,
     "AU": 147,
+    "MS": 147,
     "VF": 29,
     "F": 1,
     "G": 15
@@ -29,7 +29,7 @@
   "thumbnail_url": "https://media.coinarchives.com/7b7bc6edc97db1b1790b3c67de8e7d15/img/heritage/3130/image36103.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 4,
+  "top_surface_score": 3,
   "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
@@ -70,39 +70,6 @@
       }
     },
     {
-      "id": "coinarchives-1c12d8052c50",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687249&AucID=6921&Lot=36098&Val=3ed70de5d15d4b9a2be53f3fc5d6794b",
-      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3130, Lot 36098 \u2014 Ancients\nConstans, as Augustus (AD 337-350). AV solidus (22mm, 4.50 gm, 5h). NGC MS 5/5 - 4/5. Trier, ca. AD 347-348. CONSTANS-AVGVSTVS, pearl-diademed, draped, and cuirassed bust of Constans right, s",
-      "description": "Ancients\nConstans, as Augustus (AD 337-350). AV solidus (22mm, 4.50 gm, 5h). NGC MS 5/5 - 4/5. Trier, ca. AD 347-348. CONSTANS-AVGVSTVS, pearl-diademed, draped, and cuirassed bust of Constans right, seen from front / VICTORIAE DD NN AVGG, two Victories standing facing, turned toward each other, holding between them a wreath inscribed VOT / X / MVLT / XX in four lines; TR in exergue. RIC VIII 135.\n\nEx Heritage Auctions, Auction 3089 (22 January 2021), lot 32225.  www.HA.com/TexasAuctioneerLicen...",
-      "hammer_price_usd": 3200.0,
-      "currency_original": "USD",
-      "price_original": 3200.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-22",
-      "image_url": "https://media.coinarchives.com/5fa1e746083c3e14a690ab61a5b4c2af/img/heritage/3130/image36098.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-6bfdab24e4a7",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -122,6 +89,39 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-1c12d8052c50",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687249&AucID=6921&Lot=36098&Val=3ed70de5d15d4b9a2be53f3fc5d6794b",
+      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3130, Lot 36098 \u2014 Ancients\nConstans, as Augustus (AD 337-350). AV solidus (22mm, 4.50 gm, 5h). NGC MS 5/5 - 4/5. Trier, ca. AD 347-348. CONSTANS-AVGVSTVS, pearl-diademed, draped, and cuirassed bust of Constans right, s",
+      "description": "Ancients\nConstans, as Augustus (AD 337-350). AV solidus (22mm, 4.50 gm, 5h). NGC MS 5/5 - 4/5. Trier, ca. AD 347-348. CONSTANS-AVGVSTVS, pearl-diademed, draped, and cuirassed bust of Constans right, seen from front / VICTORIAE DD NN AVGG, two Victories standing facing, turned toward each other, holding between them a wreath inscribed VOT / X / MVLT / XX in four lines; TR in exergue. RIC VIII 135.\n\nEx Heritage Auctions, Auction 3089 (22 January 2021), lot 32225.  www.HA.com/TexasAuctioneerLicen...",
+      "hammer_price_usd": 3200.0,
+      "currency_original": "USD",
+      "price_original": 3200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-22",
+      "image_url": "https://media.coinarchives.com/5fa1e746083c3e14a690ab61a5b4c2af/img/heritage/3130/image36098.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

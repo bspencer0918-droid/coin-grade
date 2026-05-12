@@ -17,7 +17,7 @@
     "max": 536800.0
   },
   "median_price_usd": 5100.0,
-  "last_sale_date": "2026-05-11",
+  "last_sale_date": "2026-05-12",
   "grade_distribution": {
     "AU": 182,
     "MS": 268,
@@ -47,7 +47,7 @@
       "currency_original": "USD",
       "price_original": 55000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-11",
+      "sale_date": "2026-05-12",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -80,7 +80,7 @@
       "currency_original": "USD",
       "price_original": 1600.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-11",
+      "sale_date": "2026-05-12",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -301,39 +301,6 @@
       }
     },
     {
-      "id": "coinarchives-c560e6aad52c",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739679&AucID=7076&Lot=31019&Val=47f874e19d1341afe8bedef5d5d1ab14",
-      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 31019 \u2014 Ancients\nCYPRUS. Salamis. Pnytagoras (ca. 351-332/331 BC). AV stater (15mm, 8.32 gm, 12h). NGC Choice AU 5/5 - 4/5, brushed. \u03a0N, draped bust of Aphrodite left, wearing turreted crown, beaded necklace,",
-      "description": "Ancients\nCYPRUS. Salamis. Pnytagoras (ca. 351-332/331 BC). AV stater (15mm, 8.32 gm, 12h). NGC Choice AU 5/5 - 4/5, brushed. \u03a0N, draped bust of Aphrodite left, wearing turreted crown, beaded necklace, and triple drop pendant earring, hair falling in wavy strands to front and back / BA, draped bust of Aphrodite left, hair in tight ringlets falling before ear and down back of neck, wearing torque, beaded hoop earring, taenia, and crown decorated with semicircular plates. Gulbenkian 813. BMC 76. ...",
-      "hammer_price_usd": 70000.0,
-      "currency_original": "USD",
-      "price_original": 70000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-04-29",
-      "image_url": "https://media.coinarchives.com/4799fb217ea7d0a77751202d633f09ee/img/heritage/3132/image31019.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-53ca1e9cc3df",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -386,6 +353,39 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-c560e6aad52c",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739679&AucID=7076&Lot=31019&Val=47f874e19d1341afe8bedef5d5d1ab14",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 31019 \u2014 Ancients\nCYPRUS. Salamis. Pnytagoras (ca. 351-332/331 BC). AV stater (15mm, 8.32 gm, 12h). NGC Choice AU 5/5 - 4/5, brushed. \u03a0N, draped bust of Aphrodite left, wearing turreted crown, beaded necklace,",
+      "description": "Ancients\nCYPRUS. Salamis. Pnytagoras (ca. 351-332/331 BC). AV stater (15mm, 8.32 gm, 12h). NGC Choice AU 5/5 - 4/5, brushed. \u03a0N, draped bust of Aphrodite left, wearing turreted crown, beaded necklace, and triple drop pendant earring, hair falling in wavy strands to front and back / BA, draped bust of Aphrodite left, hair in tight ringlets falling before ear and down back of neck, wearing torque, beaded hoop earring, taenia, and crown decorated with semicircular plates. Gulbenkian 813. BMC 76. ...",
+      "hammer_price_usd": 70000.0,
+      "currency_original": "USD",
+      "price_original": 70000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/4799fb217ea7d0a77751202d633f09ee/img/heritage/3132/image31019.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

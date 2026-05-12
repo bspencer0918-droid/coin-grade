@@ -19,13 +19,13 @@
   "median_price_usd": 340.0,
   "last_sale_date": "2026-02-09",
   "grade_distribution": {
-    "MS": 8,
     "AU": 4,
+    "MS": 8,
     "XF": 11,
     "VF": 6,
     "F": 2
   },
-  "thumbnail_url": "https://media.coinarchives.com/d58f7008266fc4233d3341dd7011b0df/img/heritage/61596/image21084.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/026de61291699e44fe6a506e3a969fbb/img/heritage/61596/image21083.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 3,
@@ -35,39 +35,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "coinarchives-82a7dda7ff11",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2704639&AucID=6962&Lot=21084&Val=3a0a48f07fab28ad4e7ce4072a0a24bf",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61596, Lot 21084 \u2014 Ancients\nMACEDONIAN KINGDOM. Philip III Arrhidaeus (323-317 BC). AR drachm (18mm, 4.21 gm, 11h). NGC MS 4/5- 3/5, brushed. Lifetime issue, Magnesia ad Maeandrum, ca. 323-319 BC. Head of Heracles right",
-      "description": "Ancients\nMACEDONIAN KINGDOM. Philip III Arrhidaeus (323-317 BC). AR drachm (18mm, 4.21 gm, 11h). NGC MS 4/5- 3/5, brushed. Lifetime issue, Magnesia ad Maeandrum, ca. 323-319 BC. Head of Heracles right, wearing lion skin headdress, paws tied before neck / \u03a6\u0399\u039b\u0399\u03a0\u03a0\u039f\u03a5, Zeus seated left on backless throne, right leg drawn back, feet on stool, eagle in outstretched right hand, grounded scepter in left; filleted thyrsus in left field. Price P51.\n\nArrhidaeus was the eldest son of Philip II and the half...",
-      "hammer_price_usd": 750.0,
-      "currency_original": "USD",
-      "price_original": 750.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-02-09",
-      "image_url": "https://media.coinarchives.com/d58f7008266fc4233d3341dd7011b0df/img/heritage/61596/image21084.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-d15a3dcc8ef0",
       "source": "coinarchives",
@@ -87,6 +54,39 @@
         "grade": "AU",
         "grade_numeric": 5,
         "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-82a7dda7ff11",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2704639&AucID=6962&Lot=21084&Val=3a0a48f07fab28ad4e7ce4072a0a24bf",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61596, Lot 21084 \u2014 Ancients\nMACEDONIAN KINGDOM. Philip III Arrhidaeus (323-317 BC). AR drachm (18mm, 4.21 gm, 11h). NGC MS 4/5- 3/5, brushed. Lifetime issue, Magnesia ad Maeandrum, ca. 323-319 BC. Head of Heracles right",
+      "description": "Ancients\nMACEDONIAN KINGDOM. Philip III Arrhidaeus (323-317 BC). AR drachm (18mm, 4.21 gm, 11h). NGC MS 4/5- 3/5, brushed. Lifetime issue, Magnesia ad Maeandrum, ca. 323-319 BC. Head of Heracles right, wearing lion skin headdress, paws tied before neck / \u03a6\u0399\u039b\u0399\u03a0\u03a0\u039f\u03a5, Zeus seated left on backless throne, right leg drawn back, feet on stool, eagle in outstretched right hand, grounded scepter in left; filleted thyrsus in left field. Price P51.\n\nArrhidaeus was the eldest son of Philip II and the half...",
+      "hammer_price_usd": 750.0,
+      "currency_original": "USD",
+      "price_original": 750.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-02-09",
+      "image_url": "https://media.coinarchives.com/d58f7008266fc4233d3341dd7011b0df/img/heritage/61596/image21084.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 4,
+        "strike_score": 4,
         "surface_score": 3,
         "details_grade": null,
         "fine_style": false,

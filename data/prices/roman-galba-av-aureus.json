@@ -19,13 +19,13 @@
   "median_price_usd": 14000.0,
   "last_sale_date": "2026-04-29",
   "grade_distribution": {
-    "F": 12,
     "VF": 9,
+    "F": 12,
     "AU": 1,
     "XF": 1,
     "VG": 2
   },
-  "thumbnail_url": "https://media.coinarchives.com/9b74aa6da510024957a59ce9ca617587/img/heritage/3132/image31032.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/d1a52477a09c993a534cd802966f20e9/img/heritage/3129/image34047.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 2,
@@ -35,39 +35,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "coinarchives-647ec44f70c5",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739692&AucID=7076&Lot=31032&Val=41657c93350fe5f6b212ce533f42863b",
-      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 31032 \u2014 Ancients\nGalba (AD 68-69). AV aureus (19mm, 7.23 gm, 8h). NGC Choice Fine 5/5 - 4/5. Rome, July AD 68-January 69. IMP SER-GALBA AVG, bare head of Galba right / S P Q R / OB C S, legend in two lines wi",
-      "description": "Ancients\nGalba (AD 68-69). AV aureus (19mm, 7.23 gm, 8h). NGC Choice Fine 5/5 - 4/5. Rome, July AD 68-January 69. IMP SER-GALBA AVG, bare head of Galba right / S P Q R / OB C S, legend in two lines within oak wreath. Calic\u00f3 509. RIC I 164. Pleasant devices with subtle backlighting in the fields.\n\nServius Sulpicius Galba was born in 3 BC, and early on displayed a gift for cultivating the right friends. During his early manhood, he enjoyed the favor of the emperors Augustus, Tiberius, and Caligu...",
-      "hammer_price_usd": 15000.0,
-      "currency_original": "USD",
-      "price_original": 15000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-04-29",
-      "image_url": "https://media.coinarchives.com/9b74aa6da510024957a59ce9ca617587/img/heritage/3132/image31032.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "F",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-8233ea1c326a",
       "source": "coinarchives",
@@ -88,6 +55,39 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-647ec44f70c5",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739692&AucID=7076&Lot=31032&Val=41657c93350fe5f6b212ce533f42863b",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 31032 \u2014 Ancients\nGalba (AD 68-69). AV aureus (19mm, 7.23 gm, 8h). NGC Choice Fine 5/5 - 4/5. Rome, July AD 68-January 69. IMP SER-GALBA AVG, bare head of Galba right / S P Q R / OB C S, legend in two lines wi",
+      "description": "Ancients\nGalba (AD 68-69). AV aureus (19mm, 7.23 gm, 8h). NGC Choice Fine 5/5 - 4/5. Rome, July AD 68-January 69. IMP SER-GALBA AVG, bare head of Galba right / S P Q R / OB C S, legend in two lines within oak wreath. Calic\u00f3 509. RIC I 164. Pleasant devices with subtle backlighting in the fields.\n\nServius Sulpicius Galba was born in 3 BC, and early on displayed a gift for cultivating the right friends. During his early manhood, he enjoyed the favor of the emperors Augustus, Tiberius, and Caligu...",
+      "hammer_price_usd": 15000.0,
+      "currency_original": "USD",
+      "price_original": 15000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/9b74aa6da510024957a59ce9ca617587/img/heritage/3132/image31032.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
