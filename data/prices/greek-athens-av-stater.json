@@ -20,9 +20,9 @@
   "last_sale_date": "2026-05-07",
   "grade_distribution": {
     "AU": 18,
-    "XF": 4,
     "VF": 6,
-    "MS": 12
+    "MS": 12,
+    "XF": 4
   },
   "thumbnail_url": "https://media.coinarchives.com/54638897778bd2ff2338d21f6978731d/img/heritage/3132/image31006.jpg",
   "median_weight_g": null,
@@ -51,39 +51,6 @@
         "verified": false,
         "cert_number": null,
         "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-82a1339ec6ab",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/daniel-frank-sedwick/13334/ancient-and-medieval/11759557/ancient-greek-kings-of-macedon",
-      "title": "ANCIENT GREEK, Kings of Macedon, early posthumous issue of Lampsacus, AV stater, Alexander III (\"the Great,\" 336-323 BC), struck ca. 323-318/7 BC, NGC XF / strike 5/5, surface 4/5. Price 1370. 8.50 grams. Head of Athena right, hair flowing loose in waves and over left shoulder, wearing triple-crested Corinthian helmet pushed back on head, long parallel crest ends, bowl decorated with coiled serpent right / A\u039bE\u039eAN\u0394POY. Nike advancing left, wreath in outstretched right hand, stylus cradled in left arm; buckle left in outer left field, crescent above A in left field below wing. Sharp and lustrous with a well-centered strike and medallic alignment.",
-      "description": "Daniel Frank Sedwick | ['Auction 38']",
-      "hammer_price_usd": 5500.0,
-      "currency_original": "USD",
-      "price_original": 5500.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-11-13",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 4,
@@ -490,6 +457,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-82a1339ec6ab",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/daniel-frank-sedwick/13334/ancient-and-medieval/11759557/ancient-greek-kings-of-macedon",
+      "title": "ANCIENT GREEK, Kings of Macedon, early posthumous issue of Lampsacus, AV stater, Alexander III (\"the Great,\" 336-323 BC), struck ca. 323-318/7 BC, NGC XF / strike 5/5, surface 4/5. Price 1370. 8.50 grams. Head of Athena right, hair flowing loose in waves and over left shoulder, wearing triple-crested Corinthian helmet pushed back on head, long parallel crest ends, bowl decorated with coiled serpent right / A\u039bE\u039eAN\u0394POY. Nike advancing left, wreath in outstretched right hand, stylus cradled in left arm; buckle left in outer left field, crescent above A in left field below wing. Sharp and lustrous with a well-centered strike and medallic alignment.",
+      "description": "Daniel Frank Sedwick | ['Auction 38']",
+      "hammer_price_usd": 5500.0,
+      "currency_original": "USD",
+      "price_original": 5500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

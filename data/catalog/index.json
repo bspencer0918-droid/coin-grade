@@ -1,6 +1,6 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-05-12T09:08:53.469438+00:00",
+  "generated_at": "2026-05-13T09:20:21.784308+00:00",
   "coins": [
     {
       "slug": "greek-ar-nomos",
@@ -21,7 +21,7 @@
         "max": 195000.0
       },
       "median_price_usd": 550.0,
-      "last_sale_date": "2026-05-12",
+      "last_sale_date": "2026-05-13",
       "grade_distribution": {
         "VF": 36,
         "F": 11,
@@ -60,7 +60,7 @@
         "max": 19200.0
       },
       "median_price_usd": 4320.0,
-      "last_sale_date": "2026-05-12",
+      "last_sale_date": "2026-05-13",
       "grade_distribution": {
         "MS": 63,
         "AU": 117,
@@ -98,7 +98,7 @@
         "max": 300.0
       },
       "median_price_usd": 230.0,
-      "last_sale_date": "2026-05-12",
+      "last_sale_date": "2026-05-13",
       "grade_distribution": {
         "XF": 2
       },
@@ -131,7 +131,7 @@
         "max": 536800.0
       },
       "median_price_usd": 5100.0,
-      "last_sale_date": "2026-05-12",
+      "last_sale_date": "2026-05-13",
       "grade_distribution": {
         "AU": 182,
         "MS": 268,
@@ -169,7 +169,7 @@
         "max": 960.0
       },
       "median_price_usd": 325.0,
-      "last_sale_date": "2026-05-12",
+      "last_sale_date": "2026-05-13",
       "grade_distribution": {
         "XF": 10,
         "MS": 20,
@@ -207,7 +207,7 @@
         "max": 4936.68
       },
       "median_price_usd": 790.0,
-      "last_sale_date": "2026-05-12",
+      "last_sale_date": "2026-05-13",
       "grade_distribution": {
         "VF": 30,
         "XF": 29,
@@ -244,7 +244,7 @@
         "max": 4320.0
       },
       "median_price_usd": 264.0,
-      "last_sale_date": "2026-05-12",
+      "last_sale_date": "2026-05-13",
       "grade_distribution": {
         "XF": 17,
         "VF": 20,
@@ -283,7 +283,7 @@
         "max": 1700.0
       },
       "median_price_usd": 1450.0,
-      "last_sale_date": "2026-05-12",
+      "last_sale_date": "2026-05-13",
       "grade_distribution": {
         "XF": 2,
         "VF": 1
@@ -317,7 +317,7 @@
         "max": 8400.0
       },
       "median_price_usd": 159.0,
-      "last_sale_date": "2026-05-12",
+      "last_sale_date": "2026-05-13",
       "grade_distribution": {
         "VF": 42,
         "XF": 172,
@@ -357,7 +357,7 @@
         "max": 720000.0
       },
       "median_price_usd": 264.0,
-      "last_sale_date": "2026-05-12",
+      "last_sale_date": "2026-05-13",
       "grade_distribution": {
         "XF": 1681,
         "VF": 1998,
@@ -397,7 +397,7 @@
         "max": 350.0
       },
       "median_price_usd": 350.0,
-      "last_sale_date": "2026-05-12",
+      "last_sale_date": "2026-05-13",
       "grade_distribution": {
         "XF": 1
       },
@@ -430,7 +430,7 @@
         "max": 82278.0
       },
       "median_price_usd": 1757.25,
-      "last_sale_date": "2026-05-12",
+      "last_sale_date": "2026-05-13",
       "grade_distribution": {
         "XF": 35,
         "VF": 22,
@@ -471,11 +471,11 @@
         "max": 292800.0
       },
       "median_price_usd": 1920.0,
-      "last_sale_date": "2026-05-12",
+      "last_sale_date": "2026-05-13",
       "grade_distribution": {
         "VF": 258,
-        "AU": 470,
         "XF": 356,
+        "AU": 470,
         "G": 11,
         "F": 28,
         "AG": 1,
@@ -511,7 +511,7 @@
         "max": 312000.0
       },
       "median_price_usd": 900.0,
-      "last_sale_date": "2026-05-12",
+      "last_sale_date": "2026-05-13",
       "grade_distribution": {
         "VF": 334,
         "XF": 219,
@@ -551,7 +551,7 @@
         "max": 180000.0
       },
       "median_price_usd": 8750.0,
-      "last_sale_date": "2026-05-12",
+      "last_sale_date": "2026-05-13",
       "grade_distribution": {
         "VF": 10,
         "XF": 37,
@@ -813,9 +813,9 @@
       "last_sale_date": "2026-05-07",
       "grade_distribution": {
         "AU": 18,
-        "XF": 4,
         "VF": 6,
-        "MS": 12
+        "MS": 12,
+        "XF": 4
       },
       "thumbnail_url": "https://media.coinarchives.com/54638897778bd2ff2338d21f6978731d/img/heritage/3132/image31006.jpg",
       "median_weight_g": null,
@@ -886,7 +886,7 @@
         "max": 3360.0
       },
       "median_price_usd": 990.0,
-      "last_sale_date": "2026-05-12",
+      "last_sale_date": "2026-05-13",
       "grade_distribution": {
         "VF": 2,
         "AU": 7,
@@ -1056,46 +1056,6 @@
       "mint_mark": null
     },
     {
-      "slug": "greek-alexander-iii-ar-tetradrachm",
-      "category": "greek",
-      "ruler": "Alexander III",
-      "ruler_normalized": "alexander-iii",
-      "dynasty": "Macedonian",
-      "ruler_dates": null,
-      "ruler_rarity": null,
-      "denomination": "AR Tetradrachm",
-      "metal": "silver",
-      "sale_count": 22,
-      "realized_count": 22,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 74.0,
-        "max": 8500.0
-      },
-      "median_price_usd": 1025.0,
-      "last_sale_date": "2026-04-29",
-      "grade_distribution": {
-        "AU": 6,
-        "XF": 5,
-        "VF": 4,
-        "MS": 3,
-        "F": 1,
-        "P": 1,
-        "G": 1,
-        "VG": 1
-      },
-      "thumbnail_url": "https://media.coinarchives.com/85a34b55317ae418e25f2b37a842f2a9/img/heritage/3132/image32016.jpg",
-      "median_weight_g": null,
-      "top_strike_score": 4,
-      "top_surface_score": 4,
-      "top_grade_numeric": 4,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
       "slug": "greek-ar-drachm",
       "category": "greek",
       "ruler": null,
@@ -1202,45 +1162,6 @@
       "top_strike_score": 4,
       "top_surface_score": 1,
       "top_grade_numeric": 4,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
-      "slug": "greek-ar-shekel",
-      "category": "greek",
-      "ruler": null,
-      "ruler_normalized": null,
-      "dynasty": null,
-      "ruler_dates": null,
-      "ruler_rarity": null,
-      "denomination": "AR Shekel",
-      "metal": "silver",
-      "sale_count": 360,
-      "realized_count": 358,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 154.0,
-        "max": 90000.0
-      },
-      "median_price_usd": 4560.0,
-      "last_sale_date": "2026-05-07",
-      "grade_distribution": {
-        "AU": 140,
-        "XF": 115,
-        "VF": 57,
-        "MS": 32,
-        "F": 14,
-        "VG": 1,
-        "G": 1
-      },
-      "thumbnail_url": "https://media.coinarchives.com/5f773ca14c255e6c632d292fd12adc9f/img/heritage/3132/image32050.jpg",
-      "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 5,
-      "top_grade_numeric": null,
       "dominant_service": "ngc",
       "series": null,
       "date_struck": null,
@@ -1408,7 +1329,7 @@
         "max": 114000.0
       },
       "median_price_usd": 18000.0,
-      "last_sale_date": "2026-05-12",
+      "last_sale_date": "2026-05-13",
       "grade_distribution": {
         "XF": 16,
         "VF": 13,
@@ -1458,6 +1379,45 @@
       "median_weight_g": null,
       "top_strike_score": 5,
       "top_surface_score": 4,
+      "top_grade_numeric": null,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
+      "slug": "greek-ar-shekel",
+      "category": "greek",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "ruler_dates": null,
+      "ruler_rarity": null,
+      "denomination": "AR Shekel",
+      "metal": "silver",
+      "sale_count": 360,
+      "realized_count": 358,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 154.0,
+        "max": 90000.0
+      },
+      "median_price_usd": 4560.0,
+      "last_sale_date": "2026-05-07",
+      "grade_distribution": {
+        "XF": 115,
+        "VF": 57,
+        "AU": 140,
+        "MS": 32,
+        "F": 14,
+        "VG": 1,
+        "G": 1
+      },
+      "thumbnail_url": "https://media.coinarchives.com/5f773ca14c255e6c632d292fd12adc9f/img/heritage/3132/image32050.jpg",
+      "median_weight_g": null,
+      "top_strike_score": 5,
+      "top_surface_score": 5,
       "top_grade_numeric": null,
       "dominant_service": "ngc",
       "series": null,
@@ -2555,6 +2515,46 @@
       "mint_mark": null
     },
     {
+      "slug": "greek-alexander-iii-ar-tetradrachm",
+      "category": "greek",
+      "ruler": "Alexander III",
+      "ruler_normalized": "alexander-iii",
+      "dynasty": "Macedonian",
+      "ruler_dates": null,
+      "ruler_rarity": null,
+      "denomination": "AR Tetradrachm",
+      "metal": "silver",
+      "sale_count": 22,
+      "realized_count": 22,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 74.0,
+        "max": 8500.0
+      },
+      "median_price_usd": 1025.0,
+      "last_sale_date": "2026-04-29",
+      "grade_distribution": {
+        "XF": 5,
+        "VF": 4,
+        "MS": 3,
+        "AU": 6,
+        "F": 1,
+        "P": 1,
+        "G": 1,
+        "VG": 1
+      },
+      "thumbnail_url": "https://media.coinarchives.com/85a34b55317ae418e25f2b37a842f2a9/img/heritage/3132/image32016.jpg",
+      "median_weight_g": null,
+      "top_strike_score": 4,
+      "top_surface_score": 4,
+      "top_grade_numeric": 4,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
       "slug": "roman-ar-shekel",
       "category": "roman",
       "ruler": null,
@@ -3225,7 +3225,7 @@
         "max": 10000.0
       },
       "median_price_usd": 144.0,
-      "last_sale_date": "2026-05-12",
+      "last_sale_date": "2026-05-13",
       "grade_distribution": {
         "F": 11,
         "VF": 84,
@@ -3709,7 +3709,7 @@
         "max": 3720.0
       },
       "median_price_usd": 258.0,
-      "last_sale_date": "2026-05-12",
+      "last_sale_date": "2026-05-13",
       "grade_distribution": {
         "VF": 76,
         "AU": 11,
@@ -8636,7 +8636,7 @@
         "max": 216000.0
       },
       "median_price_usd": 960.0,
-      "last_sale_date": "2026-05-12",
+      "last_sale_date": "2026-05-13",
       "grade_distribution": {
         "AU": 84,
         "MS": 162,
@@ -8889,7 +8889,7 @@
         "max": 1950.0
       },
       "median_price_usd": 1950.0,
-      "last_sale_date": "2026-05-12",
+      "last_sale_date": "2026-05-13",
       "grade_distribution": {
         "P": 1
       },
@@ -8922,7 +8922,7 @@
         "max": 5040.0
       },
       "median_price_usd": 528.0,
-      "last_sale_date": "2026-05-12",
+      "last_sale_date": "2026-05-13",
       "grade_distribution": {
         "P": 1,
         "AU": 7,
@@ -8962,7 +8962,7 @@
         "max": 3240.0
       },
       "median_price_usd": 504.0,
-      "last_sale_date": "2026-05-12",
+      "last_sale_date": "2026-05-13",
       "grade_distribution": {
         "F": 1,
         "AU": 1,
@@ -8999,7 +8999,7 @@
         "max": 50400.0
       },
       "median_price_usd": 1680.0,
-      "last_sale_date": "2026-05-12",
+      "last_sale_date": "2026-05-13",
       "grade_distribution": {
         "G": 2,
         "VF": 10,

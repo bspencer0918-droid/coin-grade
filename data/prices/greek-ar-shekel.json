@@ -19,9 +19,9 @@
   "median_price_usd": 4560.0,
   "last_sale_date": "2026-05-07",
   "grade_distribution": {
-    "AU": 140,
     "XF": 115,
     "VF": 57,
+    "AU": 140,
     "MS": 32,
     "F": 14,
     "VG": 1,
@@ -37,72 +37,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-a587c811af32",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/daniel-frank-sedwick/13334/ancient-and-medieval/11759559/ancient-greek-phoenicia-tyre-ar",
-      "title": "ANCIENT GREEK, Phoenicia, Tyre, AR shekel, Melkart, 126/5 BC - ca. 67/8 AD, dated Civic Year 39 (88/7 BC), NGC Ch AU\u272d  / strike 5/5, surface 4/5. DCA Tyre 140; HGC 10, 357. 14.32 grams. Laureate head of Melqart, right / TYPOY IEPA\u03a3-KAI A\u03a3Y\u039bOY. Eagle standing left on prow, palm over right wing; \u0398\u039b (date) above vertical club in left field, \u0394 right field; Phoenician aleph between legs. Lightly toned and well centered, an iconic piece of history. Shekels of Tyre were accepted as payment for the temple tax at Jerusalem, and are generally thought to have made up the \"thirty pieces of silver\" that Judas received for betraying Jesus.",
-      "description": "Daniel Frank Sedwick | ['Auction 38']",
-      "hammer_price_usd": 6500.0,
-      "currency_original": "USD",
-      "price_original": 6500.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-11-13",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-7937ce5651c5",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/daniel-frank-sedwick/13334/ancient-and-medieval/11759558/ancient-greek-phoenicia-tyre-ar",
-      "title": "ANCIENT GREEK, Phoenicia, Tyre, AR shekel, Melkart, 126/5 BC to ca. 67/8 AD, dated Civic Year 71 (56/5 BC), NGC AU / strike 4/5, surface 3/5. DCA-Tyre 242 variant (control marks; same obv. die); HGC 10, 357; DCA2 946. 13.95 grams. Laureate head of Melkart right, lion skin around neck / Eagle standing left on prow, palm frond in background; to left, AO (date) above club; Z to right, Phoenician B between legs. Lightly toned and well centered, an iconic piece of history. Shekels of Tyre were accepted as payment for the temple tax at Jerusalem, and are generally thought to have made up the \"thirty pieces of silver\" that Judas received for betraying Jesus.",
-      "description": "Daniel Frank Sedwick | ['Auction 38']",
-      "hammer_price_usd": 4500.0,
-      "currency_original": "USD",
-      "price_original": 4500.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-11-13",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "sixbid-7dfe8550bd89",
       "source": "sixbid",
@@ -559,6 +493,72 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-a587c811af32",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/daniel-frank-sedwick/13334/ancient-and-medieval/11759559/ancient-greek-phoenicia-tyre-ar",
+      "title": "ANCIENT GREEK, Phoenicia, Tyre, AR shekel, Melkart, 126/5 BC - ca. 67/8 AD, dated Civic Year 39 (88/7 BC), NGC Ch AU\u272d  / strike 5/5, surface 4/5. DCA Tyre 140; HGC 10, 357. 14.32 grams. Laureate head of Melqart, right / TYPOY IEPA\u03a3-KAI A\u03a3Y\u039bOY. Eagle standing left on prow, palm over right wing; \u0398\u039b (date) above vertical club in left field, \u0394 right field; Phoenician aleph between legs. Lightly toned and well centered, an iconic piece of history. Shekels of Tyre were accepted as payment for the temple tax at Jerusalem, and are generally thought to have made up the \"thirty pieces of silver\" that Judas received for betraying Jesus.",
+      "description": "Daniel Frank Sedwick | ['Auction 38']",
+      "hammer_price_usd": 6500.0,
+      "currency_original": "USD",
+      "price_original": 6500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-7937ce5651c5",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/daniel-frank-sedwick/13334/ancient-and-medieval/11759558/ancient-greek-phoenicia-tyre-ar",
+      "title": "ANCIENT GREEK, Phoenicia, Tyre, AR shekel, Melkart, 126/5 BC to ca. 67/8 AD, dated Civic Year 71 (56/5 BC), NGC AU / strike 4/5, surface 3/5. DCA-Tyre 242 variant (control marks; same obv. die); HGC 10, 357; DCA2 946. 13.95 grams. Laureate head of Melkart right, lion skin around neck / Eagle standing left on prow, palm frond in background; to left, AO (date) above club; Z to right, Phoenician B between legs. Lightly toned and well centered, an iconic piece of history. Shekels of Tyre were accepted as payment for the temple tax at Jerusalem, and are generally thought to have made up the \"thirty pieces of silver\" that Judas received for betraying Jesus.",
+      "description": "Daniel Frank Sedwick | ['Auction 38']",
+      "hammer_price_usd": 4500.0,
+      "currency_original": "USD",
+      "price_original": 4500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
