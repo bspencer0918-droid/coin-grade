@@ -7,18 +7,19 @@
   "ruler_dates": null,
   "ruler_rarity": null,
   "denomination": "AR Obol",
-  "metal": "gold",
-  "sale_count": 10,
-  "realized_count": 10,
+  "metal": "silver",
+  "sale_count": 11,
+  "realized_count": 11,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 44.0,
     "max": 2640.0
   },
-  "median_price_usd": 707.0,
-  "last_sale_date": "2026-01-16",
+  "median_price_usd": 850.0,
+  "last_sale_date": "2026-05-14",
   "grade_distribution": {
+    "VF": 1,
     "AU": 4,
     "XF": 1,
     "MS": 3,
@@ -35,6 +36,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "cng-6a11f6d9d9ea",
+      "source": "cng",
+      "listing_type": "auction_realized",
+      "lot_url": "https://auctions.cngcoins.com/lots/view/4-KZKRN1",
+      "title": "Electronic Auction 609 Lot: 16. LUCANIA, Velia. Circa 490/80-465 BC. AR Obol (9mm, 0.60 g). NGC Ch VF, 5/5, 3/5.",
+      "description": "Greek, Silver Estimated:\u00a0$   200 Sold\u00a0Price:\u00a0$ :  850",
+      "hammer_price_usd": 850.0,
+      "currency_original": "USD",
+      "price_original": 850.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-14",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-2d1898a9b231",
       "source": "sixbid",

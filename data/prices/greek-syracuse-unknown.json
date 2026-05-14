@@ -17,7 +17,7 @@
     "max": 180000.0
   },
   "median_price_usd": 8750.0,
-  "last_sale_date": "2026-05-13",
+  "last_sale_date": "2026-05-14",
   "grade_distribution": {
     "VF": 10,
     "XF": 37,
@@ -26,7 +26,7 @@
     "MS": 12,
     "VG": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/b137d12702e82bbff1d7837753d4c43a/img/heritage/3127/image37001.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/b2d6e519632c0cdb613f049c6d1b6268/img/heritage/3129/image31001.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 4,
@@ -47,7 +47,7 @@
       "currency_original": "USD",
       "price_original": 110.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-13",
+      "sale_date": "2026-05-14",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -169,39 +169,6 @@
       }
     },
     {
-      "id": "coinarchives-29b808a58b63",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2668112&AucID=6826&Lot=37001&Val=5e811f63888646f9fcc9ce740668e8e4",
-      "title": "Heritage World Coin Auctions - Hong Kong Signature Sale 3127, Lot 37001 \u2014 Ancients\nSICILY. Syracuse. Dionysius I (405-367 BC). AV 100-litrai (15mm, 5.78 gm, 11h). NGC Choice XF 5/5 - 3/5, Fine Style. Attic standard. Ca. 400-370 BC. \u03a3\u03a5\u03a1\u0391\u039a\u039f\u03a3\u0399\u03a9\u039d, head of Arethusa left in high ",
-      "description": "Ancients\nSICILY. Syracuse. Dionysius I (405-367 BC). AV 100-litrai (15mm, 5.78 gm, 11h). NGC Choice XF 5/5 - 3/5, Fine Style. Attic standard. Ca. 400-370 BC. \u03a3\u03a5\u03a1\u0391\u039a\u039f\u03a3\u0399\u03a9\u039d, head of Arethusa left in high classical style, hair pulled back into parallel waves along brow line, back held in sphendone decorated with two eight-pointed stars; pellet before, eight-pointed star behind head / Nude youthful Heracles kneeling to right, arms wrapped around neck of Nemean lion crouching left, his head pressed a...",
-      "hammer_price_usd": 8750.0,
-      "currency_original": "USD",
-      "price_original": 8750.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-06",
-      "image_url": "https://media.coinarchives.com/b137d12702e82bbff1d7837753d4c43a/img/heritage/3127/image37001.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": true,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-6df81105e772",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -289,6 +256,39 @@
         "surface_score": 5,
         "details_grade": null,
         "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-29b808a58b63",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2668112&AucID=6826&Lot=37001&Val=5e811f63888646f9fcc9ce740668e8e4",
+      "title": "Heritage World Coin Auctions - Hong Kong Signature Sale 3127, Lot 37001 \u2014 Ancients\nSICILY. Syracuse. Dionysius I (405-367 BC). AV 100-litrai (15mm, 5.78 gm, 11h). NGC Choice XF 5/5 - 3/5, Fine Style. Attic standard. Ca. 400-370 BC. \u03a3\u03a5\u03a1\u0391\u039a\u039f\u03a3\u0399\u03a9\u039d, head of Arethusa left in high ",
+      "description": "Ancients\nSICILY. Syracuse. Dionysius I (405-367 BC). AV 100-litrai (15mm, 5.78 gm, 11h). NGC Choice XF 5/5 - 3/5, Fine Style. Attic standard. Ca. 400-370 BC. \u03a3\u03a5\u03a1\u0391\u039a\u039f\u03a3\u0399\u03a9\u039d, head of Arethusa left in high classical style, hair pulled back into parallel waves along brow line, back held in sphendone decorated with two eight-pointed stars; pellet before, eight-pointed star behind head / Nude youthful Heracles kneeling to right, arms wrapped around neck of Nemean lion crouching left, his head pressed a...",
+      "hammer_price_usd": 8750.0,
+      "currency_original": "USD",
+      "price_original": 8750.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-06",
+      "image_url": "https://media.coinarchives.com/b137d12702e82bbff1d7837753d4c43a/img/heritage/3127/image37001.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": true,
         "certification_url": null,
         "grading_service": "ngc"
       },
