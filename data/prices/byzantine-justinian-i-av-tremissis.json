@@ -19,12 +19,12 @@
   "median_price_usd": 456.0,
   "last_sale_date": "2026-01-16",
   "grade_distribution": {
-    "AU": 22,
     "MS": 20,
+    "AU": 22,
     "XF": 19,
     "VF": 6
   },
-  "thumbnail_url": "https://media.coinarchives.com/8d222375d79cd08bbc99eecaced96a38/img/heritage/61557/image25277.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/0a5e19d05790403287293601d77b2102/img/ponterio/236/image40282.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 2,
@@ -34,39 +34,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "coinarchives-5f1faddbb4ce",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2678926&AucID=6872&Lot=25277&Val=f6a5bb0d396be2fa9eff5ec8d3dfde7b",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61557, Lot 25277 \u2014 Ancients\nJustinian II, First Reign (AD 685-695). AV tremissis (15mm, 1.45 gm, 7h). NGC AU 4/5 - 2/5, wrinkled, marks. Constantinople, AD 692-695. IhS CRIStDS R\u0404X-R\u0404\u03daNANtI\u0427M, half-length bust of Christ",
-      "description": "Ancients\nJustinian II, First Reign (AD 685-695). AV tremissis (15mm, 1.45 gm, 7h). NGC AU 4/5 - 2/5, wrinkled, marks. Constantinople, AD 692-695. IhS CRIStDS R\u0404X-R\u0404\u03daNANtI\u0427M, half-length bust of Christ facing, with long hair and full beard, wearing pallium and colobium, cross behind head, right hand raised in benediction, book of Gospels cradled in left / D I\u0427StINI-AN-\u0427S SER\u0427 CHRIStI, full-length figure of Justinian II standing facing, wearing loros and crown surmounted by cross, long cross pot...",
-      "hammer_price_usd": 2800.0,
-      "currency_original": "USD",
-      "price_original": 2800.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-29",
-      "image_url": "https://media.coinarchives.com/8d222375d79cd08bbc99eecaced96a38/img/heritage/61557/image25277.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 2,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-434c586f0f5d",
       "source": "coinarchives",
@@ -88,6 +55,39 @@
         "strike_score": 4,
         "surface_score": 2,
         "details_grade": "Clipped",
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-5f1faddbb4ce",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2678926&AucID=6872&Lot=25277&Val=f6a5bb0d396be2fa9eff5ec8d3dfde7b",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61557, Lot 25277 \u2014 Ancients\nJustinian II, First Reign (AD 685-695). AV tremissis (15mm, 1.45 gm, 7h). NGC AU 4/5 - 2/5, wrinkled, marks. Constantinople, AD 692-695. IhS CRIStDS R\u0404X-R\u0404\u03daNANtI\u0427M, half-length bust of Christ",
+      "description": "Ancients\nJustinian II, First Reign (AD 685-695). AV tremissis (15mm, 1.45 gm, 7h). NGC AU 4/5 - 2/5, wrinkled, marks. Constantinople, AD 692-695. IhS CRIStDS R\u0404X-R\u0404\u03daNANtI\u0427M, half-length bust of Christ facing, with long hair and full beard, wearing pallium and colobium, cross behind head, right hand raised in benediction, book of Gospels cradled in left / D I\u0427StINI-AN-\u0427S SER\u0427 CHRIStI, full-length figure of Justinian II standing facing, wearing loros and crown surmounted by cross, long cross pot...",
+      "hammer_price_usd": 2800.0,
+      "currency_original": "USD",
+      "price_original": 2800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-29",
+      "image_url": "https://media.coinarchives.com/8d222375d79cd08bbc99eecaced96a38/img/heritage/61557/image25277.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": null,
         "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"

@@ -29,7 +29,7 @@
   },
   "thumbnail_url": "https://media.coinarchives.com/5f773ca14c255e6c632d292fd12adc9f/img/heritage/3132/image32050.jpg",
   "median_weight_g": null,
-  "top_strike_score": 5,
+  "top_strike_score": 2,
   "top_surface_score": 5,
   "top_grade_numeric": null,
   "dominant_service": "ngc",
@@ -335,6 +335,39 @@
       }
     },
     {
+      "id": "coinarchives-16b25d07641e",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2694588&AucID=6923&Lot=40132&Val=11f5562542ab6d4e8ead2275a0254b99",
+      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 40132 \u2014 SYRIA. Phoenicia. Tyre. AR Shekel (14.39 gms), dated CY 47 (80/79 B.C.). NGC AU, Strike: 2/5 Surface: 5/5. Double Struck.\nTo view all items from the John P. Burnham Collection, click  here.\nHGC-10, 35",
+      "description": "SYRIA. Phoenicia. Tyre. AR Shekel (14.39 gms), dated CY 47 (80/79 B.C.). NGC AU, Strike: 2/5 Surface: 5/5. Double Struck.\nTo view all items from the John P. Burnham Collection, click  here.\nHGC-10, 357. Obverse: Laureate bust of Melkart right, with drapery tied around neck; Reverse: Eagle standing left on prow; palm frond behind; to left, palm frond and ZM (date) above downward club; Phoenician B between legs, monogram to right. Set upon a broad flan, this example of the ever popular Shekel of...",
+      "hammer_price_usd": 3200.0,
+      "currency_original": "USD",
+      "price_original": 3200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": "https://media.coinarchives.com/f02f5940c3fd7aa624711d92a9a81788/img/ponterio/236/image40132.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 2,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-0018d3464e52",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -386,39 +419,6 @@
         "grade": "AU",
         "grade_numeric": null,
         "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-16b25d07641e",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2694588&AucID=6923&Lot=40132&Val=11f5562542ab6d4e8ead2275a0254b99",
-      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 40132 \u2014 SYRIA. Phoenicia. Tyre. AR Shekel (14.39 gms), dated CY 47 (80/79 B.C.). NGC AU, Strike: 2/5 Surface: 5/5. Double Struck.\nTo view all items from the John P. Burnham Collection, click  here.\nHGC-10, 35",
-      "description": "SYRIA. Phoenicia. Tyre. AR Shekel (14.39 gms), dated CY 47 (80/79 B.C.). NGC AU, Strike: 2/5 Surface: 5/5. Double Struck.\nTo view all items from the John P. Burnham Collection, click  here.\nHGC-10, 357. Obverse: Laureate bust of Melkart right, with drapery tied around neck; Reverse: Eagle standing left on prow; palm frond behind; to left, palm frond and ZM (date) above downward club; Phoenician B between legs, monogram to right. Set upon a broad flan, this example of the ever popular Shekel of...",
-      "hammer_price_usd": 3200.0,
-      "currency_original": "USD",
-      "price_original": 3200.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-16",
-      "image_url": "https://media.coinarchives.com/f02f5940c3fd7aa624711d92a9a81788/img/ponterio/236/image40132.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 2,
         "surface_score": 5,
         "details_grade": null,
         "fine_style": false,

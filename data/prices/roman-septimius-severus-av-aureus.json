@@ -8,18 +8,18 @@
   "ruler_rarity": null,
   "denomination": "AV Aureus",
   "metal": "gold",
-  "sale_count": 55,
-  "realized_count": 55,
+  "sale_count": 56,
+  "realized_count": 56,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 1680.0,
     "max": 84000.0
   },
-  "median_price_usd": 19200.0,
+  "median_price_usd": 19800.0,
   "last_sale_date": "2026-05-07",
   "grade_distribution": {
-    "MS": 20,
+    "MS": 21,
     "VF": 6,
     "G": 2,
     "AU": 17,
@@ -27,7 +27,7 @@
     "F": 4,
     "VG": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/b7c37c954ceab2dd4c2008011be2af33/img/heritage/3129/image34089.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/092b37d3eda416c391501160c839ced7/img/sedwick/039/image01547.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 5,
@@ -97,6 +97,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-5564f410a71d",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2742482&AucID=7092&Lot=1547&Val=b658e65068314daea415267875d66347",
+      "title": "Sedwick & Associates, LLC - Treasure Auction 39, Lot 1547 \u2014 ANCIENT ROMAN, Roman Empire, Rome mint, AV aureus, Julia Domna (193-217 AD), struck 193-196 AD, very rare, NGC Choice MS, strike 5/5, surface 5/5, ex-Mirabilis. RIC IV.I (Septimius Severus) 536; Calic",
+      "description": "ANCIENT ROMAN, Roman Empire, Rome mint, AV aureus, Julia Domna (193-217 AD), struck 193-196 AD, very rare, NGC Choice MS, strike 5/5, surface 5/5, ex-Mirabilis. RIC IV.I (Septimius Severus) 536; Calic\u00f3-2641. 7.18 grams. 20 mm. IVLIA DOMNA AVG, draped bust of Julia Domna right, seen from front, wearing the characteristic plaited coiffure gathered into a large chignon at the back of the head / VENERI VICTR, Venus Callipyge standing right, drapery below posterior, palm branch cradled in left arm ...",
+      "hammer_price_usd": 28000.0,
+      "currency_original": "USD",
+      "price_original": 28000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-07",
+      "image_url": "https://media.coinarchives.com/092b37d3eda416c391501160c839ced7/img/sedwick/039/image01547.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

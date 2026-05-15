@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 547,
-  "realized_count": 547,
+  "sale_count": 548,
+  "realized_count": 548,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,10 +17,10 @@
     "max": 8400.0
   },
   "median_price_usd": 159.0,
-  "last_sale_date": "2026-05-14",
+  "last_sale_date": "2026-05-15",
   "grade_distribution": {
     "VF": 42,
-    "XF": 172,
+    "XF": 173,
     "MS": 99,
     "AU": 223,
     "F": 8,
@@ -49,7 +49,7 @@
       "currency_original": "USD",
       "price_original": 325.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-14",
+      "sale_date": "2026-05-15",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -501,6 +501,39 @@
       }
     },
     {
+      "id": "coinarchives-d8d8a7247697",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2742471&AucID=7092&Lot=1536&Val=118f60606bf9ef235f9852a25921a377",
+      "title": "Sedwick & Associates, LLC - Treasure Auction 39, Lot 1536 \u2014 ANCIENT GREEK, Kings of Macedon, Babylon mint, AR tetradrachm, Philip III Arrhidaios, in the name and type of Alexander III (\"the Great\"), struck under Archon, Dokimos, or Seleukos I, ca 323-318/7 BC,",
+      "description": "ANCIENT GREEK, Kings of Macedon, Babylon mint, AR tetradrachm, Philip III Arrhidaios, in the name and type of Alexander III (\"the Great\"), struck under Archon, Dokimos, or Seleukos I, ca 323-318/7 BC, NGC Ch XF, strike 5/5, surface 4/5. HGC-3.1, 973F; Price-P182. 17.15 grams. Head of Herakles right, wearing lion skin headdress / Zeus seated left on throne with back, holding long scepter in his left hand and eagle standing right with closed wings in his right; to left, M; B below throne. Deeply...",
+      "hammer_price_usd": 1100.0,
+      "currency_original": "USD",
+      "price_original": 1100.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-07",
+      "image_url": "https://media.coinarchives.com/0731b35195cff49a5d9fc46d59ef6a03/img/sedwick/039/image01536.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-075fd6799079",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -522,6 +555,39 @@
         "surface_score": null,
         "details_grade": null,
         "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-8e54a0be250f",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2694498&AucID=6923&Lot=40042&Val=a7103c2ad00834adfcfc5e3c845df1be",
+      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 40042 \u2014 MACEDON. Kingdom of Macedon. Kassander, as Regent, 317-305 B.C. AR Tetradrachm (14.19 gms), Amphipolis Mint, ca. 316-311 B.C. NGC Ch EF, Strike: 5/5 Surface: 2/5. Fine Style, Punch Mark, Scuff.\nTo vie",
+      "description": "MACEDON. Kingdom of Macedon. Kassander, as Regent, 317-305 B.C. AR Tetradrachm (14.19 gms), Amphipolis Mint, ca. 316-311 B.C. NGC Ch EF, Strike: 5/5 Surface: 2/5. Fine Style, Punch Mark, Scuff.\nTo view all items from the John P. Burnham Collection, click  here.\nHGC-3.1, 988; SNG ANS-749-756. In the name and types of Philip II. Obverse: Laureate head of Zeus right; Reverse: Youth holding palm frond, on horseback right; dolphin below; pellet in \u03a0 below foreleg. An impressive early posthumous typ...",
+      "hammer_price_usd": 1400.0,
+      "currency_original": "USD",
+      "price_original": 1400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": "https://media.coinarchives.com/0bc508d7450b185dfb614eb9e45d0e58/img/ponterio/236/image40042.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": true,
         "certification_url": null,
         "grading_service": "ngc"
       },
@@ -753,39 +819,6 @@
         "surface_score": 3,
         "details_grade": null,
         "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-8e54a0be250f",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2694498&AucID=6923&Lot=40042&Val=a7103c2ad00834adfcfc5e3c845df1be",
-      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 40042 \u2014 MACEDON. Kingdom of Macedon. Kassander, as Regent, 317-305 B.C. AR Tetradrachm (14.19 gms), Amphipolis Mint, ca. 316-311 B.C. NGC Ch EF, Strike: 5/5 Surface: 2/5. Fine Style, Punch Mark, Scuff.\nTo vie",
-      "description": "MACEDON. Kingdom of Macedon. Kassander, as Regent, 317-305 B.C. AR Tetradrachm (14.19 gms), Amphipolis Mint, ca. 316-311 B.C. NGC Ch EF, Strike: 5/5 Surface: 2/5. Fine Style, Punch Mark, Scuff.\nTo view all items from the John P. Burnham Collection, click  here.\nHGC-3.1, 988; SNG ANS-749-756. In the name and types of Philip II. Obverse: Laureate head of Zeus right; Reverse: Youth holding palm frond, on horseback right; dolphin below; pellet in \u03a0 below foreleg. An impressive early posthumous typ...",
-      "hammer_price_usd": 1400.0,
-      "currency_original": "USD",
-      "price_original": 1400.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-16",
-      "image_url": "https://media.coinarchives.com/0bc508d7450b185dfb614eb9e45d0e58/img/ponterio/236/image40042.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "fine_style": true,
         "certification_url": null,
         "grading_service": "ngc"
       },

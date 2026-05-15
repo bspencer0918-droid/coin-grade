@@ -168,39 +168,6 @@
       }
     },
     {
-      "id": "coinarchives-1a3b54fddadc",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687409&AucID=6920&Lot=34079&Val=5d1961dfc564df8e44c2e1b5e1497501",
-      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3129, Lot 34079 \u2014 Ancients\nLucius Verus, as Augustus (AD 161-169). AV aureus (20mm, 7.32 gm, 11h). NGC Choice MS 5/5 - 5/5, Fine Style. Rome, ca. AD 166-167. L VERVS AVG-ARM PARTH MAX, laureate, draped, and cuirassed b",
-      "description": "Ancients\nLucius Verus, as Augustus (AD 161-169). AV aureus (20mm, 7.32 gm, 11h). NGC Choice MS 5/5 - 5/5, Fine Style. Rome, ca. AD 166-167. L VERVS AVG-ARM PARTH MAX, laureate, draped, and cuirassed bust of Lucius Verus right, seen from behind / CONG AVG IIII TR P VII IMP IIII COS III, Liberalitas standing facing, head left, abacus in outstretched right hand, cornucopiae cradled in left arm. Calic\u00f3 2128. RIC III (Marcus Aurelius) 568. Delicate detailing on satin, mirror-like dies. \n\nFrom the M...",
-      "hammer_price_usd": 25000.0,
-      "currency_original": "USD",
-      "price_original": 25000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-12",
-      "image_url": "https://media.coinarchives.com/cb86ce59afefb83dbf9da8db72132896/img/heritage/3129/image34079.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "fine_style": true,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-52a63cc39fd6",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -222,6 +189,39 @@
         "surface_score": 3,
         "details_grade": null,
         "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-1a3b54fddadc",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687409&AucID=6920&Lot=34079&Val=5d1961dfc564df8e44c2e1b5e1497501",
+      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3129, Lot 34079 \u2014 Ancients\nLucius Verus, as Augustus (AD 161-169). AV aureus (20mm, 7.32 gm, 11h). NGC Choice MS 5/5 - 5/5, Fine Style. Rome, ca. AD 166-167. L VERVS AVG-ARM PARTH MAX, laureate, draped, and cuirassed b",
+      "description": "Ancients\nLucius Verus, as Augustus (AD 161-169). AV aureus (20mm, 7.32 gm, 11h). NGC Choice MS 5/5 - 5/5, Fine Style. Rome, ca. AD 166-167. L VERVS AVG-ARM PARTH MAX, laureate, draped, and cuirassed bust of Lucius Verus right, seen from behind / CONG AVG IIII TR P VII IMP IIII COS III, Liberalitas standing facing, head left, abacus in outstretched right hand, cornucopiae cradled in left arm. Calic\u00f3 2128. RIC III (Marcus Aurelius) 568. Delicate detailing on satin, mirror-like dies. \n\nFrom the M...",
+      "hammer_price_usd": 25000.0,
+      "currency_original": "USD",
+      "price_original": 25000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-12",
+      "image_url": "https://media.coinarchives.com/cb86ce59afefb83dbf9da8db72132896/img/heritage/3129/image34079.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": true,
         "certification_url": null,
         "grading_service": "ngc"
       },

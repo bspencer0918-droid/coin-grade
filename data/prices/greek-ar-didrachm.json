@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Didrachm",
   "metal": "silver",
-  "sale_count": 109,
-  "realized_count": 108,
+  "sale_count": 110,
+  "realized_count": 109,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -20,7 +20,7 @@
   "last_sale_date": "2026-05-07",
   "grade_distribution": {
     "F": 1,
-    "VF": 10,
+    "VF": 11,
     "XF": 37,
     "AU": 37,
     "MS": 23,
@@ -301,6 +301,72 @@
       }
     },
     {
+      "id": "coinarchives-9bd3936d06e3",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2742467&AucID=7092&Lot=1531&Val=82fc0ed04d95fbcb15bf6913dacdd420",
+      "title": "Sedwick & Associates, LLC - Treasure Auction 39, Lot 1531 \u2014 ANCIENT GREEK, Calabria, Taras, AR didrachm, ca. 332-302 BC, NGC Ch VF. Vlasto 605; HN Italy 937; SNG ANS 995 var. Nude, helmeted warrior on horseback right, holding spear in right hand and shield in ",
+      "description": "ANCIENT GREEK, Calabria, Taras, AR didrachm, ca. 332-302 BC, NGC Ch VF. Vlasto 605; HN Italy 937; SNG ANS 995 var. Nude, helmeted warrior on horseback right, holding spear in right hand and shield in left hand; \u03a3\u0391 below / Taras astride dolphin left, holding kantharos and trident; dolphin below. Medallic alignment, well centered with full, clear details, lightly toned. \n\nEstimate: 500 - 750 USD...",
+      "hammer_price_usd": 750.0,
+      "currency_original": "USD",
+      "price_original": 750.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-07",
+      "image_url": "https://media.coinarchives.com/aca654dded27e846f4bce011fcf2fc69/img/sedwick/039/image01531.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-779c90fa5f2c",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2695113&AucID=6923&Lot=45010&Val=8c800e08a5bab643300b10e15d13faa0",
+      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 45010 \u2014 ITALY. Calabria. Tarentum. AR Didrachm (Nomos) (7.92 gms), ca. 290-281 B.C. NGC AU, Strike: 5/5 Surface: 4/5. Die Shift.\nTo view all items from the John P. Burnham Collection, click  here.\nHGC-1, 800;",
+      "description": "ITALY. Calabria. Tarentum. AR Didrachm (Nomos) (7.92 gms), ca. 290-281 B.C. NGC AU, Strike: 5/5 Surface: 4/5. Die Shift.\nTo view all items from the John P. Burnham Collection, click  here.\nHGC-1, 800; Vlasto-586; HN Italy-934. Obverse: Nude warrior, holding shield and two spears, and thrusting third spear downward, on horse rearing right; \u03a3A below; Reverse: Phalanthos, holding distaff, riding dolphin left; below, prow left.\n\nFrom the John P. Burnham Collection.\n\nEstimate: 300 - 500...",
+      "hammer_price_usd": 1000.0,
+      "currency_original": "USD",
+      "price_original": 1000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": "https://media.coinarchives.com/cdfe799cb3eca02be19b447fe2eb08c2/img/ponterio/236/image45010.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-590b71628535",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -386,39 +452,6 @@
         "grade_numeric": null,
         "strike_score": 4,
         "surface_score": 5,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-779c90fa5f2c",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2695113&AucID=6923&Lot=45010&Val=8c800e08a5bab643300b10e15d13faa0",
-      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 45010 \u2014 ITALY. Calabria. Tarentum. AR Didrachm (Nomos) (7.92 gms), ca. 290-281 B.C. NGC AU, Strike: 5/5 Surface: 4/5. Die Shift.\nTo view all items from the John P. Burnham Collection, click  here.\nHGC-1, 800;",
-      "description": "ITALY. Calabria. Tarentum. AR Didrachm (Nomos) (7.92 gms), ca. 290-281 B.C. NGC AU, Strike: 5/5 Surface: 4/5. Die Shift.\nTo view all items from the John P. Burnham Collection, click  here.\nHGC-1, 800; Vlasto-586; HN Italy-934. Obverse: Nude warrior, holding shield and two spears, and thrusting third spear downward, on horse rearing right; \u03a3A below; Reverse: Phalanthos, holding distaff, riding dolphin left; below, prow left.\n\nFrom the John P. Burnham Collection.\n\nEstimate: 300 - 500...",
-      "hammer_price_usd": 1000.0,
-      "currency_original": "USD",
-      "price_original": 1000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-16",
-      "image_url": "https://media.coinarchives.com/cdfe799cb3eca02be19b447fe2eb08c2/img/ponterio/236/image45010.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

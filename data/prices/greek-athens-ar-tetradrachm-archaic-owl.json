@@ -24,7 +24,7 @@
     "F": 3,
     "AU": 11
   },
-  "thumbnail_url": "https://media.coinarchives.com/db785e84d883155cb9e66b086305b00f/img/numiscorner/006/image00003.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/cd21417a1e21641d5dd7bc09672a6248/img/heritage/3130/image36022.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 5,
@@ -34,39 +34,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "coinarchives-d5905bb98f22",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2679782&AucID=6877&Lot=3&Val=8d70da64c167d080966c35ae9c6575c5",
-      "title": "NumisCorner - Auction 6, Lot 3 \u2014 Attica, Tetradrachm, ca. 485-480 BC, Athens, Silver, NGC, Ch VF 4/5-5/5\nHead of Athena in Archa\u00efc style, wearing Attic crested helmet and round earings., Owl standing right, head facing; behind, olive",
-      "description": "Attica, Tetradrachm, ca. 485-480 BC, Athens, Silver, NGC, Ch VF 4/5-5/5\nHead of Athena in Archa\u00efc style, wearing Attic crested helmet and round earings., Owl standing right, head facing; behind, olive sprig with berry; before, legend A\u0398E; all within incuse square., Graded NGC Ch VF Strike: 4/5 Surface: 5/5. Attractive example of an archaic Athenian tetradrachm. Seltman Group Gi.\nDENOMINATION:Tetradrachm                    \nYEAR:ca. 485-480 BC                    \nCOIN CONDITION:Ch VF 4/5-5/5  ...",
-      "hammer_price_usd": 4104.0,
-      "currency_original": "EUR",
-      "price_original": 3800.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-11-28",
-      "image_url": "https://media.coinarchives.com/db785e84d883155cb9e66b086305b00f/img/numiscorner/006/image00003.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 5,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-6a5d31eeba3f",
       "source": "coinarchives",
@@ -85,6 +52,39 @@
         "cert_number": null,
         "grade": "VF",
         "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-d5905bb98f22",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2679782&AucID=6877&Lot=3&Val=8d70da64c167d080966c35ae9c6575c5",
+      "title": "NumisCorner - Auction 6, Lot 3 \u2014 Attica, Tetradrachm, ca. 485-480 BC, Athens, Silver, NGC, Ch VF 4/5-5/5\nHead of Athena in Archa\u00efc style, wearing Attic crested helmet and round earings., Owl standing right, head facing; behind, olive",
+      "description": "Attica, Tetradrachm, ca. 485-480 BC, Athens, Silver, NGC, Ch VF 4/5-5/5\nHead of Athena in Archa\u00efc style, wearing Attic crested helmet and round earings., Owl standing right, head facing; behind, olive sprig with berry; before, legend A\u0398E; all within incuse square., Graded NGC Ch VF Strike: 4/5 Surface: 5/5. Attractive example of an archaic Athenian tetradrachm. Seltman Group Gi.\nDENOMINATION:Tetradrachm                    \nYEAR:ca. 485-480 BC                    \nCOIN CONDITION:Ch VF 4/5-5/5  ...",
+      "hammer_price_usd": 4104.0,
+      "currency_original": "EUR",
+      "price_original": 3800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-28",
+      "image_url": "https://media.coinarchives.com/db785e84d883155cb9e66b086305b00f/img/numiscorner/006/image00003.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
         "strike_score": 4,
         "surface_score": 5,
         "details_grade": null,
