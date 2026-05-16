@@ -8,32 +8,65 @@
   "ruler_rarity": null,
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 39,
-  "realized_count": 39,
+  "sale_count": 46,
+  "realized_count": 46,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 750.0,
-    "max": 7005.6
+    "max": 9213.6
   },
   "median_price_usd": 1528.02,
-  "last_sale_date": "2026-03-15",
+  "last_sale_date": "2026-05-13",
   "grade_distribution": {
+    "XF": 5,
     "G": 7,
-    "XF": 4,
-    "AU": 10,
-    "MS": 18
+    "AU": 13,
+    "MS": 21
   },
   "thumbnail_url": "https://media.coinarchives.com/357b1f669ab65a847f3476526e5c871e/img/ponterio/236/image45554.jpg",
   "median_weight_g": null,
-  "top_strike_score": 5,
+  "top_strike_score": 4,
   "top_surface_score": 4,
-  "top_grade_numeric": 5,
+  "top_grade_numeric": 4,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-fb6565d1b233",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13696/empire-romain-roman/12114875/empire-romain-romanjovien-363-364",
+      "title": "EMPIRE ROMAIN - ROMAN<br>Jovien (363-364). Solidus ND, Nicom\u00e9die, 2e officine.<br>Av. D N IOVIAN - VS PEP AVG. Buste diad\u00e9m\u00e9, drap\u00e9 et cuirass\u00e9, \u00e0 droite. <br>Rv. SECVRITA - S REI - PVBLICAE / SMNS. Rome, casqu\u00e9e et Constantinople, le pied sur une proue, assises de face et tenant entre elles un bouclier inscrit VOT V MVLT X.<br>RIC.X.126 - Depeyrot II, 266, 9/2 ; Or - 4,41 g - 21 mm - 6 h<br>NGC Ch XF 5/5 2/5 marks graffito (8585318-020). <br>De belle frappe avec une faible usure de circulation. De fines griffures au droit. Superbe.<br> <br> NGC Ch XF 5/5 2/5 marks graffito",
+      "description": "MDC Monaco | ['Auction 18']",
+      "hammer_price_usd": 2303.4,
+      "currency_original": "USD",
+      "price_original": 2303.4,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8585318-020",
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8585318020/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-cc7d6abcca54",
       "source": "sixbid",
@@ -101,39 +134,6 @@
       }
     },
     {
-      "id": "sixbid-2f0747ddb76d",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13395/ancients-roman-imperial/11828013/zeno-eastern-roman-empire-ad",
-      "title": "Zeno, Eastern Roman Empire (AD 474-491). AV solidus (20mm, 4.46 gm, 7h). NGC Choice AU 5/5 - 4/5. Constantinople, 5th officina, AD 476-491. D N ZENO-PERP AVG, pearl-diademed, helmeted, cuirassed bust of Zeno facing, head slightly right, spear in right hand over shoulder, shield decorated with horseman motif in left / VICTORI-A AVGGG \u0404, Victory standing facing, head left, grounded long jeweled cross in right hand; star in right field, CONOB in exergue. RIC X 910.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
-      "description": "Heritage Auctions, Inc. | ['Auction #61568']",
-      "hammer_price_usd": 1800.0,
-      "currency_original": "USD",
-      "price_original": 1800.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-11-16",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "sixbid-5fe97a278070",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -156,6 +156,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-d4977cb753a7",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13696/empire-romain-roman/12114874/empire-romain-romanjulien-ii",
+      "title": "EMPIRE ROMAIN - ROMAN<br>Julien II (360-363). Solidus ND (360-363), Constantinople.<br>Av. FL CL IVLIA - NVS P P AVG. Buste diad\u00e9m\u00e9, drap\u00e9 et cuirass\u00e9, \u00e0 droite. <br>Rv. VIRTVS EXERCI - TVS ROMANORVM / (palme) CONSP (palme). L\u2019Empereur debout \u00e0 droite, t\u00eate en arri\u00e8re, tenant un troph\u00e9e sur l\u2019\u00e9paule gauche de la main gauche et un captif au sol par la t\u00eate, de la main droite.<br>RIC.157 - Dep.8/1 ; Or - 4,45 g - 21 mm - 6 h<br>Provient de la vente MDC 9, n\u00b0 127.<br>NGC Ch AU 5/5 4/5 (5785795-005). <br>Sur un flan assez large et bien centr\u00e9, avec le brillant d\u2019origine encore bien pr\u00e9sent. Superbe \u00e0 Fleur de coin.<br><br> * Following Council Directive (EU) 2022/542 of April 5, 2022, implemented in national law from 01/01/2025, buyers from within the EU have to pay 5.5% VAT on the hammer price of this lot.<br>* Suite \u00e0 la Directive (UE) 2022/542 du Conseil du 5 avril 2022, mise en application dans le droit national \u00e0 compter du 01/01/2025, l\u2019adjudicataire europ\u00e9en devra \u00e9galement payer une TVA de 5,5% sur ce lot  <br> NGC Ch AU 5/5 4/5",
+      "description": "MDC Monaco | ['Auction 18']",
+      "hammer_price_usd": 9213.6,
+      "currency_original": "USD",
+      "price_original": 9213.6,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "5785795-005",
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/5785795005/",
         "grading_service": "ngc"
       },
       "metadata": {
@@ -222,6 +255,105 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-bc22528b1021",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13696/empire-byzantin-byzantine/12114885/empire-byzantin-byzantineleonce-695-698",
+      "title": "EMPIRE BYZANTIN - BYZANTINE<br>L\u00e9once (695-698). Solidus ND, Constantinople, 2e officine.<br>Av. D LEO - N PE AV. Buste de face portant le stemma, v\u00eatu du divitsion et du loros, tenant l'akakia et un globe crucig\u00e8re. <br>Rv. VICTORIA - AVGY (officine) / CONOB. Croix potenc\u00e9e pos\u00e9e sur trois degr\u00e9s.<br>BC.1331 - Sommer 15.1 - BN.16,02 ; Or - 4,42 g - 20 mm - 6 h<br>NGC Ch MS 4/5 4/5 (4938330-052). <br>La frappe est \u00e0 peine d\u00e9centr\u00e9e. D\u2019une belle fra\u00eecheur avec le brillant d\u2019origine. Superbe \u00e0 Fleur de coin.<br> <br> NGC Ch MS 4/5 4/5",
+      "description": "MDC Monaco | ['Auction 18']",
+      "hammer_price_usd": 1151.7,
+      "currency_original": "USD",
+      "price_original": 1151.7,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "4938330-052",
+        "grade": "MS",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/4938330052/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-a0fe659a21ca",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13696/empire-byzantin-byzantine/12114883/empire-byzantin-byzantineheraclius-et",
+      "title": "EMPIRE BYZANTIN - BYZANTINE<br>H\u00e9raclius et H\u00e9raclius Constantin (613-641). Solidus globulaire An 2 (614-615), Carthage.<br>Av. D N ERACLIO ERACOS PP. Bustes de face d\u2019H\u00e9raclius \u00e0 la barbe courte \u00e0 gauche et d\u2019H\u00e9raclius Constantin \u00e0 droite portant le stemma, v\u00eatus de la chlamyde. Entre leurs t\u00eates, une croix. <br>Rv. VICTOR - IA ACC (date) / CONOB. Croix potenc\u00e9e au-dessus de deux degr\u00e9s.<br>BC.867 - BN 10/04 (ann\u00e9e manquante) ; Or - 4,42 g - 12 mm - 6 h<br>NGC Ch AU 5/5 5/5 marks (8585318-024). <br>De belle frappe, \u00e0 peine d\u00e9centr\u00e9e, sur un flan globulaire. L\u2019usure est faible et r\u00e9guli\u00e8re, avec une agr\u00e9able patine dor\u00e9e. Superbe.<br> <br> NGC Ch AU 5/5 5/5 marks",
+      "description": "MDC Monaco | ['Auction 18']",
+      "hammer_price_usd": 1382.04,
+      "currency_original": "USD",
+      "price_original": 1382.04,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8585318-024",
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8585318024/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-c886740c7cab",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13696/empire-byzantin-byzantine/12114884/empire-byzantin-byzantineconstantin-iv",
+      "title": "EMPIRE BYZANTIN - BYZANTINE<br>Constantin IV (668-685). Solidus 4e type ND (681-685), Constantinople, 2e officine.<br>Av. P CONST - A - NYS PP A. Buste barbu de face de l\u2019Empereur tenant la lance et le bouclier, avec casque orn\u00e9 d\u2019un cimier et d\u2019une aigrette. <br>Rv. VICTORA - AVGY (officine). Croix potenc\u00e9e au-dessus de trois degr\u00e9s. \u00c0 l\u2019exergue CONOB.<br>BC.1157 - Morrisson 14/14 - Sommer 13.8 ; Or - 4,51 g - 18 mm - 6 h<br>NGC Ch MS 5/5 5/5 (5744187-059). <br>Pour les derni\u00e8res ann\u00e9es du r\u00e8gne. D\u2019une belle fra\u00eecheur, avec l\u2019essentiel de son brillant d\u2019origine. La frappe \u00e0 peine d\u00e9centr\u00e9e. Superbe \u00e0 Fleur de coin.<br> <br> NGC Ch MS 5/5 5/5",
+      "description": "MDC Monaco | ['Auction 18']",
+      "hammer_price_usd": 921.36,
+      "currency_original": "USD",
+      "price_original": 921.36,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "5744187-059",
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/5744187059/",
         "grading_service": "ngc"
       },
       "metadata": {
@@ -332,6 +464,72 @@
       }
     },
     {
+      "id": "coinarchives-a8c3a90c08e2",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2754108&AucID=7120&Lot=73254&Val=776a1c7e4fa26c6d47bc4285769bd7c2",
+      "title": "Stack's Bowers Galleries (& Ponterio) - May 2026 World CCO Auction, Lot 73254 \u2014 ANASTASIUS I, 491-518. AV Solidus (4.50 gms), Constantinople Mint, 6th Officina, ca. 492-507. NGC MS, Strike: 5/5 Surface: 4/5.\nNGC MS, Strike: 5/5 Surface: 4/5.\nS-5. Obverse: Helmeted and cuirassed b",
+      "description": "ANASTASIUS I, 491-518. AV Solidus (4.50 gms), Constantinople Mint, 6th Officina, ca. 492-507. NGC MS, Strike: 5/5 Surface: 4/5.\nNGC MS, Strike: 5/5 Surface: 4/5.\nS-5. Obverse: Helmeted and cuirassed bust facing slightly right, holding spear over shoulder and shield decorated with horseman motif; Reverse: Victory standing left, holding long staff surmounted by reversed staurogram; star to left; \u03c2//CONOB. A sharp strike upon this broad flan. Crisp and uncirculated with glittering luster beneath ...",
+      "hammer_price_usd": 1600.0,
+      "currency_original": "USD",
+      "price_original": 1600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-11",
+      "image_url": "https://media.coinarchives.com/11a2be5f2335168e05609081b0af64ed/img/ponterio/cco_may26/image73254.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-bef0ee577370",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2754109&AucID=7120&Lot=73255&Val=dcf2869b458f63d25e2f63bc58753cdc",
+      "title": "Stack's Bowers Galleries (& Ponterio) - May 2026 World CCO Auction, Lot 73255 \u2014 ANASTASIUS I, 491-518. AV Solidus (4.45 gms), Constantinople Mint, 10th Officina, ca. 492-507. NGC Ch AU, Strike: 5/5 Surface: 3/5. Brushed, Flan Flaw, Edge Filing.\nNGC Ch AU, Strike: 5/5 Surface: 3/5",
+      "description": "ANASTASIUS I, 491-518. AV Solidus (4.45 gms), Constantinople Mint, 10th Officina, ca. 492-507. NGC Ch AU, Strike: 5/5 Surface: 3/5. Brushed, Flan Flaw, Edge Filing.\nNGC Ch AU, Strike: 5/5 Surface: 3/5. Brushed, Flan Flaw, Edge Filing.\nS-3. Obverse: Helmeted and cuirassed bust facing slightly right, holding spear and shield; Reverse: Victory standing left, holding long jeweled cross; star to right; I//CONOB. Quite attractive despite the noted defects, evidently struck from fresh dies and retain...",
+      "hammer_price_usd": 1400.0,
+      "currency_original": "USD",
+      "price_original": 1400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-11",
+      "image_url": "https://media.coinarchives.com/bd9b645812353a5aec45231f750f7221/img/ponterio/cco_may26/image73255.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": "Edge Filing",
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-aa8ca9b5ed16",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -358,6 +556,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-2f0747ddb76d",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13395/ancients-roman-imperial/11828013/zeno-eastern-roman-empire-ad",
+      "title": "Zeno, Eastern Roman Empire (AD 474-491). AV solidus (20mm, 4.46 gm, 7h). NGC Choice AU 5/5 - 4/5. Constantinople, 5th officina, AD 476-491. D N ZENO-PERP AVG, pearl-diademed, helmeted, cuirassed bust of Zeno facing, head slightly right, spear in right hand over shoulder, shield decorated with horseman motif in left / VICTORI-A AVGGG \u0404, Victory standing facing, head left, grounded long jeweled cross in right hand; star in right field, CONOB in exergue. RIC X 910.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61568']",
+      "hammer_price_usd": 1800.0,
+      "currency_original": "USD",
+      "price_original": 1800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

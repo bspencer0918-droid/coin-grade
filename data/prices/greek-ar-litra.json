@@ -7,18 +7,19 @@
   "ruler_dates": null,
   "ruler_rarity": null,
   "denomination": "AR Litra",
-  "metal": "silver",
-  "sale_count": 7,
-  "realized_count": 7,
+  "metal": "gold",
+  "sale_count": 8,
+  "realized_count": 8,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 54.0,
-    "max": 550.0
+    "max": 1151.7
   },
   "median_price_usd": 74.0,
-  "last_sale_date": "2026-01-16",
+  "last_sale_date": "2026-05-13",
   "grade_distribution": {
+    "VF": 1,
     "XF": 1,
     "VG": 6
   },
@@ -32,6 +33,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-502f3bb344c0",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13696/grece-antique-greek/12114694/grece-antique-greekcyrenaique-cyrene",
+      "title": "GR\u00c8CE ANTIQUE - GREEK<br>Cyr\u00e9na\u00efque, Cyr\u00e8ne. Litra ou 1/10e de stat\u00e8re d\u2019Or ND (331-322 av. J.-C.), Cyr\u00e8ne.<br>Av. T\u00eate d\u2019Apollon Karneios \u00e0 gauche avec corne. <br>Rv. T\u00eate f\u00e9minine \u00e0 droite (Cyr\u00e8ne ?).<br>BMC cf. 146 - SNG Cop. cf. 1201 - Pozzi 3280 v. ; Or - 0,79 g - 7 mm - 11 h<br>Provient de la collection Roger Peyrefitte, 29 avril 1974, n\u00b0 129.<br>NGC Ch VF 5/5 2/5 edge marks (8585318-012). <br>Un reste de l\u00e9gende non visible au droit, avec la frappe l\u00e9g\u00e8rement d\u00e9centr\u00e9e. De minimes marques sur les listels et une fine griffure au revers. TTB.<br> <br> NGC Ch VF 5/5 2/5 edge marks",
+      "description": "MDC Monaco | ['Auction 18']",
+      "hammer_price_usd": 1151.7,
+      "currency_original": "USD",
+      "price_original": 1151.7,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8585318-012",
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8585318012/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-4656db6ef7f8",
       "source": "coinarchives",

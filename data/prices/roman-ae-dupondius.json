@@ -8,26 +8,26 @@
   "ruler_rarity": null,
   "denomination": "AE Dupondius",
   "metal": "bronze",
-  "sale_count": 23,
-  "realized_count": 23,
+  "sale_count": 24,
+  "realized_count": 24,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 54.0,
     "max": 1680.0
   },
-  "median_price_usd": 456.0,
-  "last_sale_date": "2025-12-13",
+  "median_price_usd": 432.0,
+  "last_sale_date": "2026-05-13",
   "grade_distribution": {
     "VF": 10,
-    "XF": 7,
+    "XF": 8,
     "F": 6
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-2-1-9-7-32197334&w=120&h=300&it=product",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 4,
-  "top_grade_numeric": null,
+  "top_grade_numeric": 4,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
@@ -56,6 +56,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/6656266025/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-bdb811dadb22",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13696/empire-romain-roman/12114832/empire-romain-romanvespasien-69-79",
+      "title": "EMPIRE ROMAIN - ROMAN<br>Vespasien (69-79). Dupondius ND (74), Rome.<br>Av. IMP CAES VESP AVG P M T P COS VI. Buste \u00e0 droite, la t\u00eate radi\u00e9e, de Vespasien. <br>Rv. FELICIT-AS - PVBLICA. La F\u00e9licit\u00e9 \u00e0 gauche tenant un caduc\u00e9e et une corne d\u2019abondance.<br>RIC.567 ; Bronze - 13,33 g - 28 mm - 6 h<br>Provient d\u2019une vente Lanz Graz 4, 23 novembre 1974, n\u00b0 150.<br>NGC XF 4/5 4/5 (6648399-004). <br>La frappe l\u00e9g\u00e8rement d\u00e9centr\u00e9e au revers et \u00e0 peine au droit. Belle patine marron avec un joli buste. Presque Superbe.<br> <br> NGC XF 4/5 4/5",
+      "description": "MDC Monaco | ['Auction 18']",
+      "hammer_price_usd": 345.51,
+      "currency_original": "USD",
+      "price_original": 345.51,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "6648399-004",
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/6648399004/",
         "grading_service": "ngc"
       },
       "metadata": {

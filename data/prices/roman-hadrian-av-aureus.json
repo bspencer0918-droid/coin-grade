@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AV Aureus",
   "metal": "gold",
-  "sale_count": 132,
-  "realized_count": 132,
+  "sale_count": 134,
+  "realized_count": 134,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,10 +17,10 @@
     "max": 126000.0
   },
   "median_price_usd": 5040.0,
-  "last_sale_date": "2026-05-07",
+  "last_sale_date": "2026-05-13",
   "grade_distribution": {
-    "XF": 29,
-    "AU": 21,
+    "XF": 30,
+    "AU": 22,
     "VF": 62,
     "F": 17,
     "MS": 3
@@ -28,7 +28,7 @@
   "thumbnail_url": "https://media.coinarchives.com/40d2d619d7fe11d8e6eb392888ea1b1a/img/heritage/3129/image34065.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 4,
+  "top_surface_score": 2,
   "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
@@ -102,6 +102,72 @@
       }
     },
     {
+      "id": "sixbid-4dde1a4ec33e",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13696/empire-romain-roman/12114833/empire-romain-romanhadrien-117-138",
+      "title": "EMPIRE ROMAIN - ROMAN<br>Hadrien (117-138). Aureus ND (125-128), Rome.<br>Av. HADRIANVS - AVGVSTVS. Buste laur\u00e9 \u00e0 droite avec un manteau sur l\u2019\u00e9paule gauche. <br>Rv. COS III. Hadrien \u00e0 cheval \u00e0 droite, saluant de la main droite.<br>Calic\u00f3 1215 - RIC.186d ; Or - 7,29 g - 19,5 mm - 6 h<br>NGC AU 5/5 2/5 Fine Style marks brushed (8585316-002). <br>Griffures sur le buste. De minimes marques sur les listels. Avec une patine dor\u00e9e. Superbe.<br> <br> NGC AU 5/5 2/5 Fine Style marks brushed <br> https://d10dakqizeg4uw.cloudfront.net/VAE18/00219.MP4",
+      "description": "MDC Monaco | ['Auction 18']",
+      "hammer_price_usd": 11517.0,
+      "currency_original": "USD",
+      "price_original": 11517.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8585316-002",
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": "https://www.ngccoin.com/certlookup/8585316002/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-4fd531404cee",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13696/empire-romain-roman/12114834/empire-romain-romanhadrien-117-138",
+      "title": "EMPIRE ROMAIN - ROMAN<br>Hadrien (117-138). Aureus ND (134-138), Rome.<br>Av. HADRIANVS - AVG COS III P P. Buste \u00e0 droite, la t\u00eate nue. <br>Rv. GENIO. P. R. Le G\u00e9nie du peuple romain \u00e0 gauche, tenant une corne d\u2019abondance et une pat\u00e8re au-dessus d\u2019un autel.<br>Calic\u00f3 1269 - RIC.II.3, 2207 ; Or - 6,83 g - 20 mm - 6 h<br>NGC XF 5/5 3/5 Fine style scuff (6327043-002). <br>De bon centrage et de beau style. Avec une faible usure sur les hauts reliefs. Superbe.<br><br> * Following Council Directive (EU) 2022/542 of April 5, 2022, implemented in national law from 01/01/2025, buyers from within the EU have to pay 5.5% VAT on the hammer price of this lot.<br>* Suite \u00e0 la Directive (UE) 2022/542 du Conseil du 5 avril 2022, mise en application dans le droit national \u00e0 compter du 01/01/2025, l\u2019adjudicataire europ\u00e9en devra \u00e9galement payer une TVA de 5,5% sur ce lot  <br> NGC XF 5/5 3/5 Fine style scuff",
+      "description": "MDC Monaco | ['Auction 18']",
+      "hammer_price_usd": 4606.8,
+      "currency_original": "USD",
+      "price_original": 4606.8,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "6327043-002",
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": "https://www.ngccoin.com/certlookup/6327043002/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "sixbid-ab625bc7dfc6",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -123,39 +189,6 @@
         "surface_score": 3,
         "details_grade": null,
         "fine_style": true,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-3523f7190e36",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13634/ancients-roman-imperial/12049017/hadrian-ad-117-138-av-aureus",
-      "title": "Hadrian (AD 117-138). AV aureus (20mm, 7.04 gm, 5h). NGC VF 5/5 - 1/5, ex-jewelry, brushed, edge smoothing. Rome, AD 136. HADRIANVS-AVG COS III P P, bare-headed, draped bust of Hadrian right, seen from behind / SECVRI-TAS AVG, Securitas seated right on throne with cornucopiae as arms, bare to waist, head propped up by right hand. Calic\u00f3 1374 (same dies). RIC II.3, 2232 (same dies) corr. (Securitas cradling cornucopia in left arm).   Publius Aelius Hadrianus was born in AD 76, the son of a distinguished Spanish senator and related through his mother to the future Emperor Trajan, who took him into his household when Hadrian was nine years old. After Trajan's accession, Hadrian held a series of civilian posts, including a consulship in AD 108, and commanded legions during the Dacian and Parthian wars. Hadrian was not formally adopted until Trajan lay on his deathbed in August, AD 117; after succeeding to the throne, Hadrian abandoned many of Trajan's over-ambitious conquests and engaged in a policy of peace abroad and reform at home. He spent most of his 21-year reign traveling, visiting every province of the Roman Empire. Under his patronage, Roman art and sculpture reached its creative peak. Hadrian came to see himself as a \"second Augustus,\" providing the empire with a new foundation as a vast commonwealth of nations under Rome's guiding hand.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
-      "description": "Heritage Auctions, Inc. | ['Auction #61605']",
-      "hammer_price_usd": 4800.0,
-      "currency_original": "USD",
-      "price_original": 4800.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-15",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 1,
-        "details_grade": null,
-        "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
       },
@@ -227,6 +260,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-3523f7190e36",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13634/ancients-roman-imperial/12049017/hadrian-ad-117-138-av-aureus",
+      "title": "Hadrian (AD 117-138). AV aureus (20mm, 7.04 gm, 5h). NGC VF 5/5 - 1/5, ex-jewelry, brushed, edge smoothing. Rome, AD 136. HADRIANVS-AVG COS III P P, bare-headed, draped bust of Hadrian right, seen from behind / SECVRI-TAS AVG, Securitas seated right on throne with cornucopiae as arms, bare to waist, head propped up by right hand. Calic\u00f3 1374 (same dies). RIC II.3, 2232 (same dies) corr. (Securitas cradling cornucopia in left arm).   Publius Aelius Hadrianus was born in AD 76, the son of a distinguished Spanish senator and related through his mother to the future Emperor Trajan, who took him into his household when Hadrian was nine years old. After Trajan's accession, Hadrian held a series of civilian posts, including a consulship in AD 108, and commanded legions during the Dacian and Parthian wars. Hadrian was not formally adopted until Trajan lay on his deathbed in August, AD 117; after succeeding to the throne, Hadrian abandoned many of Trajan's over-ambitious conquests and engaged in a policy of peace abroad and reform at home. He spent most of his 21-year reign traveling, visiting every province of the Roman Empire. Under his patronage, Roman art and sculpture reached its creative peak. Hadrian came to see himself as a \"second Augustus,\" providing the empire with a new foundation as a vast commonwealth of nations under Rome's guiding hand.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61605']",
+      "hammer_price_usd": 4800.0,
+      "currency_original": "USD",
+      "price_original": 4800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-15",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 1,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

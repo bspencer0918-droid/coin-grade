@@ -1,0 +1,68 @@
+{
+  "slug": "roman-caracalla-av-solidus",
+  "category": "roman",
+  "ruler": "Caracalla",
+  "ruler_normalized": "caracalla",
+  "dynasty": "Severan",
+  "ruler_dates": "AD 198\u2013217",
+  "ruler_rarity": null,
+  "denomination": "AV Solidus",
+  "metal": "gold",
+  "sale_count": 1,
+  "realized_count": 1,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 691.02,
+    "max": 691.02
+  },
+  "median_price_usd": 691.02,
+  "last_sale_date": "2026-05-13",
+  "grade_distribution": {
+    "AU": 1
+  },
+  "thumbnail_url": null,
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 5,
+  "top_grade_numeric": 5,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "sixbid-2f22f8236257",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13696/empire-byzantin-byzantine/12114881/empire-byzantin-byzantinemaurice-tibere",
+      "title": "EMPIRE BYZANTIN - BYZANTINE<br>Maurice Tib\u00e8re (582-602). Solidus An 4 (585-586), Carthage.<br>Av. D N MAVRI - C Tb P P AN (date). Buste casqu\u00e9 et cuirass\u00e9 de face, tenant un globe crucig\u00e8re dans la main droite. <br>Rv. VICTORI - A AVCC (an) / CONOB. La Victoire, ail\u00e9e, debout de face, tenant une croix chrism\u00e9e et un globe crucig\u00e8re.<br>BC.548 - Sommer 7.73 - Morrisson 7/02 ; Or - 4,4 g - 16,5 mm - 7 h<br>NGC AU 5/5 5/5 (2048214-008). <br>Sur un flan court, mais \u00e9pais, caract\u00e9ristique de Carthage. Frappe centr\u00e9e et agr\u00e9able patine dor\u00e9e. Superbe.<br> <br> NGC AU 5/5 5/5",
+      "description": "MDC Monaco | ['Auction 18']",
+      "hammer_price_usd": 691.02,
+      "currency_original": "USD",
+      "price_original": 691.02,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "2048214-008",
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/2048214008/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

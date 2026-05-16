@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AV Nomisma",
   "metal": "unknown",
-  "sale_count": 92,
-  "realized_count": 92,
+  "sale_count": 93,
+  "realized_count": 93,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,12 +17,12 @@
     "max": 33600.0
   },
   "median_price_usd": 1680.0,
-  "last_sale_date": "2026-04-29",
+  "last_sale_date": "2026-05-11",
   "grade_distribution": {
     "VF": 6,
     "MS": 13,
     "XF": 21,
-    "AU": 52
+    "AU": 53
   },
   "thumbnail_url": "https://media.coinarchives.com/02385a490caad6388127ca6f539118a5/img/heritage/3132/image32141.jpg",
   "median_weight_g": null,
@@ -383,6 +383,39 @@
         "grade": "AU",
         "grade_numeric": null,
         "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-d648c2eb5827",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2754125&AucID=7120&Lot=73271&Val=c1adfa48c3a8944d74b8d4e975f9cb8c",
+      "title": "Stack's Bowers Galleries (& Ponterio) - May 2026 World CCO Auction, Lot 73271 \u2014 ISAAC I, 1057-1059. AV Histamenon Nomisma (4.44 gms), Constantinople Mint. NGC Ch AU, Strike: 4/5 Surface: 4/5.\nS-1843. Obverse: Christ Pantokrator seated facing on throne; Reverse: Isaac standing fac",
+      "description": "ISAAC I, 1057-1059. AV Histamenon Nomisma (4.44 gms), Constantinople Mint. NGC Ch AU, Strike: 4/5 Surface: 4/5.\nS-1843. Obverse: Christ Pantokrator seated facing on throne; Reverse: Isaac standing facing, holding drawn sword and scabbard. Shimmering with bright canary-yellow luster and unimpeded by any graffiti, clipping, or any of the various other problems often seen on the type. A great example for the ruler.\n\nEstimate: 800 - 1200...",
+      "hammer_price_usd": 1400.0,
+      "currency_original": "USD",
+      "price_original": 1400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-11",
+      "image_url": "https://media.coinarchives.com/7954e24694dea52f248b6ee5bd2f7882/img/ponterio/cco_may26/image73271.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 4,
         "surface_score": 4,
         "details_grade": null,
         "fine_style": false,

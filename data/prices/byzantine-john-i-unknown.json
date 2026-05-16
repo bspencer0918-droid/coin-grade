@@ -8,8 +8,8 @@
   "ruler_rarity": "scarce",
   "denomination": "Unknown",
   "metal": "gold",
-  "sale_count": 166,
-  "realized_count": 166,
+  "sale_count": 167,
+  "realized_count": 167,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,15 +17,15 @@
     "max": 1440.0
   },
   "median_price_usd": 504.0,
-  "last_sale_date": "2026-03-19",
+  "last_sale_date": "2026-05-11",
   "grade_distribution": {
+    "AU": 78,
     "MS": 35,
-    "AU": 77,
     "XF": 33,
     "VF": 19,
     "F": 2
   },
-  "thumbnail_url": "https://media.coinarchives.com/49da9c3d881d6c6db81c86e5f44d2a22/img/heritage/61557/image25308.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/b5cc0c814c5874aa9e3314d03b74f599/img/ponterio/cco_may26/image73273.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 3,
@@ -35,6 +35,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-e265ca3056ea",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2754127&AucID=7120&Lot=73273&Val=a027053798ef5976ab062cbf41250196",
+      "title": "Stack's Bowers Galleries (& Ponterio) - May 2026 World CCO Auction, Lot 73273 \u2014 JOHN III (OF NICAEA), 1222-1254. AV Hyperpyron (4.23 gms), Magnesia Mint, ca. 1232-1254. NGC AU, Strike: 3/5 Surface: 4/5.\nS-2073. Obverse: Christ Pantokrator seated facing on throne; Reverse: John st",
+      "description": "JOHN III (OF NICAEA), 1222-1254. AV Hyperpyron (4.23 gms), Magnesia Mint, ca. 1232-1254. NGC AU, Strike: 3/5 Surface: 4/5.\nS-2073. Obverse: Christ Pantokrator seated facing on throne; Reverse: John standing facing, holding labarum and akakia, and being crowned by the Theotokos to right.\n\nEstimate: 400 - 600...",
+      "hammer_price_usd": 750.0,
+      "currency_original": "USD",
+      "price_original": 750.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-11",
+      "image_url": "https://media.coinarchives.com/b5cc0c814c5874aa9e3314d03b74f599/img/ponterio/cco_may26/image73273.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 3,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-1db0ddb3e2c9",
       "source": "coinarchives",

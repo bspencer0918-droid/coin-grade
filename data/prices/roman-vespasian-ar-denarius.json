@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 541,
-  "realized_count": 541,
+  "sale_count": 542,
+  "realized_count": 542,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,11 +17,11 @@
     "max": 3840.0
   },
   "median_price_usd": 312.0,
-  "last_sale_date": "2026-03-19",
+  "last_sale_date": "2026-05-14",
   "grade_distribution": {
     "AU": 84,
     "XF": 141,
-    "VF": 201,
+    "VF": 202,
     "MS": 11,
     "G": 3,
     "F": 73,
@@ -159,6 +159,39 @@
         "details_grade": null,
         "fine_style": true,
         "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-b29334708ebc",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/tcc-group-companies/13773/roman-empire/12200261/vespasian-ar-denarius-roman",
+      "title": "Vespasian AR Denarius <br> ROMAN EMPIRE. Vespasian. <br>Silver Denarius, AD 72-73. Antioch. <br>Obv: IMP CAES VESP AVG P M COS IIII, laureate head right. Rev: emperor driving slow quadriga right, holding branch and sceptre.<br><br><i>In secure plastic holder, graded NGC Ch VF Strike: 4/5 Surface: 2/5, certification number <a href=\"https://www.ngccoin.com/certlookup/3819341-011/Other/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">3819341-011</a>.</i><br><br>Ex Roma Numismatics Ltd, Auction XXIII (25/3/2022), lot 883;<br>Ex Gitbud & Naumann, Auction 2 (7/4/2013), lot 211.<br><br>Reference: RIC II.1-1559; RPC II-1931; BMCRE-512; RSC-643.<br>Weight: 3.24g.<br>Diameter: 17mm* based on average.<br><br>PLEASE NOTE: A 22.50% buyer's premium will be charged separately. VAT on the buyer's premium may apply in accordance with UK regulations. Payment can be made in EUR,  CHF, or USD for an exchange fee. Please contact us to find out more.",
+      "description": "The Coin Cabinet | ['Kallista IV']",
+      "hammer_price_usd": 541.76,
+      "currency_original": "USD",
+      "price_original": 541.7634,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-14",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "3819341-011",
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/3819341011/",
         "grading_service": "ngc"
       },
       "metadata": {

@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AV Aureus",
   "metal": "gold",
-  "sale_count": 184,
-  "realized_count": 184,
+  "sale_count": 185,
+  "realized_count": 185,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,11 +17,11 @@
     "max": 26400.0
   },
   "median_price_usd": 5400.0,
-  "last_sale_date": "2026-04-29",
+  "last_sale_date": "2026-05-13",
   "grade_distribution": {
     "VF": 33,
+    "XF": 54,
     "AU": 60,
-    "XF": 53,
     "F": 3,
     "MS": 35
   },
@@ -58,6 +58,39 @@
         "details_grade": null,
         "fine_style": true,
         "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-1135b572266b",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13696/empire-romain-roman/12114856/empire-romain-romancaracalla-198-217",
+      "title": "EMPIRE ROMAIN - ROMAN<br>Caracalla (198-217). Aureus ND (210-213), Rome.<br>Av. ANTONINVS PIVS AVG BRIT. Buste laur\u00e9 de Caracalla \u00e0 droite, vu de trois-quarts en arri\u00e8re. <br>Rv. SECVRITATI PERPETVAE. La S\u00e9curit\u00e9 assise \u00e0 droite sur un divan, tenant un sceptre de la main gauche et la main droite sur sa t\u00eate, un autel \u00e0 ses pieds.<br>Calic\u00f3 2813 - RIC.229a ; Or - 7,22 g - 21 mm - 12 h<br>NGC Ch XF 5/5 4/5 (8360704-002). <br>De belle frappe, sur un flan assez large, et bien centr\u00e9e. Seuls de minimes plats sur les hauts reliefs, mais cet exemplaire conserve son brillant d\u2019origine autour des reliefs et une l\u00e9g\u00e8re patine dor\u00e9e par ailleurs. Superbe.<br> <br> NGC Ch XF 5/5 4/5 <br> https://d10dakqizeg4uw.cloudfront.net/VAE18/00242.MP4",
+      "description": "MDC Monaco | ['Auction 18']",
+      "hammer_price_usd": 23034.0,
+      "currency_original": "USD",
+      "price_original": 23034.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8360704-002",
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8360704002/",
         "grading_service": "ngc"
       },
       "metadata": {

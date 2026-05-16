@@ -8,27 +8,27 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "gold",
-  "sale_count": 66,
-  "realized_count": 66,
+  "sale_count": 68,
+  "realized_count": 68,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 49.0,
     "max": 4936.68
   },
-  "median_price_usd": 790.0,
-  "last_sale_date": "2026-05-15",
+  "median_price_usd": 805.0,
+  "last_sale_date": "2026-05-16",
   "grade_distribution": {
     "VF": 30,
-    "XF": 29,
+    "XF": 30,
     "F": 1,
-    "G": 2,
-    "AU": 4
+    "AU": 5,
+    "G": 2
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-8-6-8-6-28686799&w=120&h=300&it=product",
   "median_weight_g": null,
-  "top_strike_score": 4,
-  "top_surface_score": 3,
+  "top_strike_score": 5,
+  "top_surface_score": 5,
   "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
@@ -46,7 +46,7 @@
       "currency_original": "USD",
       "price_original": 950.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-15",
+      "sale_date": "2026-05-16",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -79,7 +79,7 @@
       "currency_original": "USD",
       "price_original": 900.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-15",
+      "sale_date": "2026-05-16",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -112,7 +112,7 @@
       "currency_original": "USD",
       "price_original": 1000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-15",
+      "sale_date": "2026-05-16",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -145,7 +145,7 @@
       "currency_original": "USD",
       "price_original": 800.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-15",
+      "sale_date": "2026-05-16",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -178,7 +178,7 @@
       "currency_original": "USD",
       "price_original": 900.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-15",
+      "sale_date": "2026-05-16",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -211,7 +211,7 @@
       "currency_original": "USD",
       "price_original": 650.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-15",
+      "sale_date": "2026-05-16",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -256,6 +256,72 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-5a03970d8274",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13696/republique-romaine-roman-republic/12114794/republique-romaine-roman-republicjules",
+      "title": "R\u00c9PUBLIQUE ROMAINE - ROMAN REPUBLIC<br>Jules C\u00e9sar (60-44 av. J.-C.). Denier ND (49-48 av. J.-C.), Gaule ou Italie.<br>Av. CAESAR. \u00c9l\u00e9phant \u00e0 droite avec un serpent \u00e0 ses pieds. <br>Rv. Instruments pontificaux : simpulum, aspersoir, hache et chapeau \u00e0 sacrifice.<br>RRC.443/1 - S.1399 ; Argent - 3,87 g - 18 mm - 3 h<br>NGC AU* 5/5 5/5 (8585318-032). <br>D\u2019assez bon centrage pour cet exemplaire qui a peu circul\u00e9, avec une l\u00e9g\u00e8re patine aux reflets dor\u00e9s. Superbe \u00e0 Fleur de coin.<br> <br> NGC AU* 5/5 5/5",
+      "description": "MDC Monaco | ['Auction 18']",
+      "hammer_price_usd": 2879.25,
+      "currency_original": "USD",
+      "price_original": 2879.25,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8585318-032",
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8585318032/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-33faf0ea8e0b",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13696/republique-romaine-roman-republic/12114799/republique-romaine-roman-republicjules",
+      "title": "R\u00c9PUBLIQUE ROMAINE - ROMAN REPUBLIC<br>Jules C\u00e9sar (60-44 av. J.-C.). Denier ND (printemps-\u00e9t\u00e9 48 av. J.-C.), Illyrie, Apollonia ?<br>Av. LII. T\u00eate de la Cl\u00e9mence (?) \u00e0 droite avec diad\u00e8me et couronne de ch\u00eane, un collier de perles et des boucles d\u2019oreilles. <br>Rv. CAE - SAR. Troph\u00e9e d\u2019armes avec un bouclier gaulois et un carnyx, une hache \u00e0 sacrifice \u00e0 droite.<br>RRC.452/2 - Syd.1009 ; Argent - 3,81 g - 18,5 mm - 10 h<br>NGC XF 5/5 2/5 bankers mark brushed (8585318-028). <br>De belle frappe, sur un flan l\u00e9g\u00e8rement oblong. L\u2019\u00e2ge du dictateur : LII (ans) est visible au droit. Une petite contremarque de changeur au droit. De minimes traces de circulation et une belle patine de collection. Superbe \u00e0 Fleur de coin.<br> <br> NGC XF 5/5 2/5 bankers mark brushed",
+      "description": "MDC Monaco | ['Auction 18']",
+      "hammer_price_usd": 1727.55,
+      "currency_original": "USD",
+      "price_original": 1727.55,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8585318-028",
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8585318028/",
         "grading_service": "ngc"
       },
       "metadata": {

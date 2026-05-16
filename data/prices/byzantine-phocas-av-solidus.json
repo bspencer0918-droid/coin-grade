@@ -8,8 +8,8 @@
   "ruler_rarity": "scarce",
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 545,
-  "realized_count": 545,
+  "sale_count": 547,
+  "realized_count": 547,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,19 +17,19 @@
     "max": 8400.0
   },
   "median_price_usd": 660.0,
-  "last_sale_date": "2026-05-07",
+  "last_sale_date": "2026-05-13",
   "grade_distribution": {
     "G": 3,
-    "MS": 319,
+    "MS": 320,
     "AU": 175,
-    "XF": 24,
+    "XF": 25,
     "VF": 24
   },
   "thumbnail_url": "https://media.coinarchives.com/ed6145e6bb94ac54ba4c1b2eb71adcb8/img/tcc/a33/image00495.jpg",
   "median_weight_g": null,
-  "top_strike_score": 4,
-  "top_surface_score": 5,
-  "top_grade_numeric": null,
+  "top_strike_score": 3,
+  "top_surface_score": 4,
+  "top_grade_numeric": 3,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
@@ -135,6 +135,39 @@
       }
     },
     {
+      "id": "sixbid-a1e538f854c3",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13696/empire-byzantin-byzantine/12114882/empire-byzantin-byzantinephocas-602-610",
+      "title": "EMPIRE BYZANTIN - BYZANTINE<br>Phocas (602-610). Solidus An 6 (603), Carthage.<br>Av. D N FOCA - S PERP AV N (date). Buste couronn\u00e9 de face, avec la robe consulaire, tenant la mappa de la main droite et une longue croix de la main gauche. <br>Rv. VICTORI - A AVCC (date) / CONOB. Ange aux ailes \u00e9ploy\u00e9es de face, tenant un globe crucig\u00e8re de la main droite et un staurogramme de la main gauche.<br>BC 680 - MIBE 311 - Lacam pl. XXX, 3 ; Or - 4,44 g - 18 mm - 6 h<br>NGC MS 3/5 4/5 flan flaw (8585319-022). <br>D\u2019assez bon centrage, la frappe \u00e0 peine d\u00e9centr\u00e9e. Faible usure de circulation avec une patine dor\u00e9e. Superbe.<br> <br> NGC MS 3/5 4/5 flan flaw",
+      "description": "MDC Monaco | ['Auction 18']",
+      "hammer_price_usd": 691.02,
+      "currency_original": "USD",
+      "price_original": 691.02,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8585319-022",
+        "grade": "MS",
+        "grade_numeric": 3,
+        "strike_score": 3,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8585319022/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-af787177775b",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -188,6 +221,39 @@
         "strike_score": 5,
         "surface_score": 2,
         "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-0658d674527b",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2754112&AucID=7120&Lot=73258&Val=18fce12987aff7a37a8a9e06bf73e229",
+      "title": "Stack's Bowers Galleries (& Ponterio) - May 2026 World CCO Auction, Lot 73258 \u2014 PHOCAS, 602-610. AV Solidus (4.25 gms), Constantinople mint, 8th Officina, ca. 607-609. NGC Ch EF, Strike: 4/5 Surface: 2/5. Graffiti, Edge Filing.\nS-620. Obverse: Draped and cuirassed bust facing, ho",
+      "description": "PHOCAS, 602-610. AV Solidus (4.25 gms), Constantinople mint, 8th Officina, ca. 607-609. NGC Ch EF, Strike: 4/5 Surface: 2/5. Graffiti, Edge Filing.\nS-620. Obverse: Draped and cuirassed bust facing, holding globus cruciger; Reverse: Angel standing facing, holding globus cruciger and long staff surmounted by staurogram; H//CONOB. Crisp and lustrous, with the reverse graffiti only a minor detraction.\n\nEstimate: 500 - 750...",
+      "hammer_price_usd": 800.0,
+      "currency_original": "USD",
+      "price_original": 800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-11",
+      "image_url": "https://media.coinarchives.com/bbc6aa31e9af82d04077f21d8bebb68e/img/ponterio/cco_may26/image73258.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": "Edge Filing",
         "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"

@@ -8,22 +8,22 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 22,
-  "realized_count": 22,
+  "sale_count": 23,
+  "realized_count": 23,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 74.0,
     "max": 8500.0
   },
-  "median_price_usd": 1025.0,
-  "last_sale_date": "2026-04-29",
+  "median_price_usd": 1100.0,
+  "last_sale_date": "2026-05-11",
   "grade_distribution": {
-    "XF": 5,
+    "XF": 6,
     "VF": 4,
     "MS": 3,
-    "AU": 6,
     "F": 1,
+    "AU": 6,
     "P": 1,
     "G": 1,
     "VG": 1
@@ -122,39 +122,6 @@
         "cert_number": null,
         "grade": "MS",
         "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-690a8fa749c1",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13531/under-the-romans/11954520/macedon-under-the-romans-aesillas",
-      "title": "MACEDON. Under the Romans. Aesillas, Quaestor ca. 95-65 B.C. AR Tetradrachm (16.52 gms), Uncertain Mint. NGC AU, Strike: 4/5 Surface: 4/5. <br> HGC-3.1, 1110. Obverse: Head of the deified Alexander the Great right; Reverse: Money chest, club, and chair; all within wreath. <br> From the Cookie Family Collection. <br> <strong>To view all items from the Cookie Family Collection, click <a href=\"https://auctions.stacksbowers.com/lots?sort=auction_date_lot_number_asc&search=From+the+Cookie+Family+Collection.&limit=96&lots_range=upcoming\" rel=\"noopener noreferrer nofollow\"> here.</a></strong>",
-      "description": "Stack\u2019s Bowers and Ponterio | ['January 2026 NYINC Showcase Auction']",
-      "hammer_price_usd": 800.0,
-      "currency_original": "USD",
-      "price_original": 800.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-16",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
         "strike_score": 4,
         "surface_score": 4,
         "details_grade": null,
@@ -402,6 +369,39 @@
       }
     },
     {
+      "id": "coinarchives-f517ab1e2431",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2753890&AucID=7120&Lot=73036&Val=532059181d34f4535526043b36bd0df0",
+      "title": "Stack's Bowers Galleries (& Ponterio) - May 2026 World CCO Auction, Lot 73036 \u2014 MACEDON. Kingdom of Macedon. Demetrios Poliorketes, 306-283 B.C. AR Tetradrachm (17.03 gms), Miletos Mint, ca. 300-295 B.C. NGC Ch EF, Strike: 5/5 Surface: 4/5.\nPr-2143. In the name and types of Alexa",
+      "description": "MACEDON. Kingdom of Macedon. Demetrios Poliorketes, 306-283 B.C. AR Tetradrachm (17.03 gms), Miletos Mint, ca. 300-295 B.C. NGC Ch EF, Strike: 5/5 Surface: 4/5.\nPr-2143. In the name and types of Alexander III 'the Great'. Obverse: Head of Herakles right, wearing lion skin; Reverse: Zeus seated left on throne, holding eagle and scepter; monogram in left field; labrys below throne. Sharp well-centered strike and attractive deep cabinet tone.\n\nEstimate: 500 - 750...",
+      "hammer_price_usd": 1200.0,
+      "currency_original": "USD",
+      "price_original": 1200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-11",
+      "image_url": "https://media.coinarchives.com/1966b44c091fd2cd352ae69648e505f9/img/ponterio/cco_may26/image73036.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-0d4df34be883",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -494,6 +494,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-690a8fa749c1",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13531/under-the-romans/11954520/macedon-under-the-romans-aesillas",
+      "title": "MACEDON. Under the Romans. Aesillas, Quaestor ca. 95-65 B.C. AR Tetradrachm (16.52 gms), Uncertain Mint. NGC AU, Strike: 4/5 Surface: 4/5. <br> HGC-3.1, 1110. Obverse: Head of the deified Alexander the Great right; Reverse: Money chest, club, and chair; all within wreath. <br> From the Cookie Family Collection. <br> <strong>To view all items from the Cookie Family Collection, click <a href=\"https://auctions.stacksbowers.com/lots?sort=auction_date_lot_number_asc&search=From+the+Cookie+Family+Collection.&limit=96&lots_range=upcoming\" rel=\"noopener noreferrer nofollow\"> here.</a></strong>",
+      "description": "Stack\u2019s Bowers and Ponterio | ['January 2026 NYINC Showcase Auction']",
+      "hammer_price_usd": 800.0,
+      "currency_original": "USD",
+      "price_original": 800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

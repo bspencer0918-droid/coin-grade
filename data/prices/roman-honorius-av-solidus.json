@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 212,
-  "realized_count": 212,
+  "sale_count": 213,
+  "realized_count": 213,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,9 +17,9 @@
     "max": 13200.0
   },
   "median_price_usd": 1080.0,
-  "last_sale_date": "2026-03-15",
+  "last_sale_date": "2026-05-13",
   "grade_distribution": {
-    "MS": 40,
+    "MS": 41,
     "XF": 61,
     "AU": 99,
     "VF": 12
@@ -57,6 +57,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-283a6700a91e",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13696/empire-romain-roman/12114879/empire-romain-romanhonorius-393-423",
+      "title": "EMPIRE ROMAIN - ROMAN<br>Honorius (393-423). Solidus ND (397-402), Thessalonique.<br>Av. D N HONORI - VS P F AVG. Buste casqu\u00e9 et diad\u00e9m\u00e9 de face, tenant une lance sur l\u2019\u00e9paule droite et un bouclier orn\u00e9 d\u2019un cavalier. <br>Rv. CONCORDI - A AVGG / COMOB. Constantinople assise \u00e0 droite sur un tr\u00f4ne, tenant une victoriola de la main gauche, une lance de la main droite ; \u00e0 sa droite, une proue de navire (prora) avec figure de proue (stolos) en forme de t\u00eate d\u2019aigle.<br>RIC.38 ; Or - 4,43 g - 20 mm - 6 h<br>Provient d\u2019une vente Gitbud et Naumann 1, 10 mars 2013, n\u00b0 325.<br>NGC MS 5/5 4/5 (8585318-011). <br>Proche de son \u00e9tat de frappe avec le brillant d\u2019origine \u00e0 peine bruni dans les champs. Tr\u00e8s belle repr\u00e9sentation au revers avec la figure de proue tr\u00e8s d\u00e9taill\u00e9e, en forme de t\u00eate d\u2019aigle. Assez rare. Superbe \u00e0 Fleur de coin.<br> <br> NGC MS 5/5 4/5",
+      "description": "MDC Monaco | ['Auction 18']",
+      "hammer_price_usd": 1151.7,
+      "currency_original": "USD",
+      "price_original": 1151.7,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8585318-011",
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8585318011/",
         "grading_service": "ngc"
       },
       "metadata": {
