@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Drachm",
   "metal": "silver",
-  "sale_count": 33,
-  "realized_count": 33,
+  "sale_count": 34,
+  "realized_count": 34,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -20,12 +20,12 @@
   "last_sale_date": "2026-05-14",
   "grade_distribution": {
     "AU": 5,
-    "XF": 12,
+    "XF": 13,
     "MS": 8,
     "VF": 6,
     "F": 2
   },
-  "thumbnail_url": "https://media.coinarchives.com/026de61291699e44fe6a506e3a969fbb/img/heritage/61596/image21083.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/d8d29d74aa1bf3760b565cdececf3b14/img/tcc/kallista4/image00040.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 3,
@@ -95,6 +95,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-2d801e1d1f7b",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2746606&AucID=7100&Lot=40&Val=4d55efc3e27f6cb9885c80584e8b755c",
+      "title": "The Coin Cabinet - Kallista Auction 4, Lot 40 \u2014 Kingdom of Macedon, Philip III Arrhidaios AR Drachm\nANCIENT GREECE. KINGDOM OF MACEDON. Philip III Arrhidaios. \nSilver Drachm, circa 323-319 BC. Sardes. \nStruck under Menander or Kleitos, in the name ",
+      "description": "Kingdom of Macedon, Philip III Arrhidaios AR Drachm\nANCIENT GREECE. KINGDOM OF MACEDON. Philip III Arrhidaios. \nSilver Drachm, circa 323-319 BC. Sardes. \nStruck under Menander or Kleitos, in the name and types of Alexander III. Obv: head of Herakles to right, wearing lion skin headdress. Rev: Zeus A\u00ebtophoros seated left, holding sceptre; A\u039b\u0395\u039e\u0391\u039d\u0394\u03a1\u039f\u03a5 to right, torch in left field, monogram below throne.\n\nIn secure plastic holder, graded NGC Ch XF Strike: 5/5 Surface: 5/5, certification number 84...",
+      "hammer_price_usd": 342.9,
+      "currency_original": "GBP",
+      "price_original": 270.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-14",
+      "image_url": "https://media.coinarchives.com/d8d29d74aa1bf3760b565cdececf3b14/img/tcc/kallista4/image00040.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

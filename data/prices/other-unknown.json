@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 1397,
-  "realized_count": 1357,
+  "sale_count": 1400,
+  "realized_count": 1360,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,12 +17,12 @@
     "max": 312000.0
   },
   "median_price_usd": 900.0,
-  "last_sale_date": "2026-05-16",
+  "last_sale_date": "2026-05-17",
   "grade_distribution": {
     "VF": 335,
     "XF": 219,
     "P": 16,
-    "MS": 390,
+    "MS": 393,
     "AU": 287,
     "F": 105,
     "G": 34,
@@ -49,7 +49,7 @@
       "currency_original": "USD",
       "price_original": 6000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-16",
+      "sale_date": "2026-05-17",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -82,7 +82,7 @@
       "currency_original": "USD",
       "price_original": 550.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-16",
+      "sale_date": "2026-05-17",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -115,7 +115,7 @@
       "currency_original": "USD",
       "price_original": 13000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-16",
+      "sale_date": "2026-05-17",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -148,7 +148,7 @@
       "currency_original": "USD",
       "price_original": 14000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-16",
+      "sale_date": "2026-05-17",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -181,7 +181,7 @@
       "currency_original": "USD",
       "price_original": 1600.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-16",
+      "sale_date": "2026-05-17",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -214,7 +214,7 @@
       "currency_original": "USD",
       "price_original": 1500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-16",
+      "sale_date": "2026-05-17",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -3471,6 +3471,39 @@
       }
     },
     {
+      "id": "sixbid-41d90daddce5",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/coinsnb/13811/romania/12252131/romania-kingdom-1914-1-leu",
+      "title": "Romania Kingdom 1914 1 Leu - Carol I Original luster Wonderful patina Silver (.835) Brussels Mint 5g NGC MS 63  KM 42",
+      "description": "Coins Numismatic Barcelona | ['E-Auction 58']",
+      "hammer_price_usd": 140.42,
+      "currency_original": "USD",
+      "price_original": 140.424,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 63,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "sixbid-4d93583719f1",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -3724,6 +3757,72 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-d67789bbcdb8",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/coinsnb/13811/romania/12252132/romania-kingdom-1941-500-lei",
+      "title": "Romania Kingdom 1941 500 Lei - Mihai I (Bessarabia Reunion) Original luster Silver (.835) Bucharest Mint (775000) 25g NGC MS 61  KM 60 Sch\u00f6n 74 Dav ECT 276",
+      "description": "Coins Numismatic Barcelona | ['E-Auction 58']",
+      "hammer_price_usd": 175.53,
+      "currency_original": "USD",
+      "price_original": 175.53,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 61,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-c3311560db3b",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/coinsnb/13811/russian-empire/12252136/russia-empire-1913-rouble",
+      "title": "Russia Empire 1913 Rouble - Nicholas II (Romanov Dynasty) Original luster Silver (.900) Saint Petersburg Mint (1450000) 20g NGC MS 64  Y 70 Uzd 4201 Bit 335 Bit 336",
+      "description": "Coins Numismatic Barcelona | ['E-Auction 58']",
+      "hammer_price_usd": 760.63,
+      "currency_original": "USD",
+      "price_original": 760.63,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "1450000",
+        "grade": "MS",
+        "grade_numeric": 64,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/1450000/",
         "grading_service": "ngc"
       },
       "metadata": {

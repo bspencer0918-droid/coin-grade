@@ -8,19 +8,19 @@
   "ruler_rarity": null,
   "denomination": "AR Stater",
   "metal": "gold",
-  "sale_count": 20,
-  "realized_count": 20,
+  "sale_count": 21,
+  "realized_count": 21,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 380.0,
     "max": 13000.0
   },
-  "median_price_usd": 1373.5,
-  "last_sale_date": "2026-04-29",
+  "median_price_usd": 1397.0,
+  "last_sale_date": "2026-05-14",
   "grade_distribution": {
     "XF": 10,
-    "VF": 8,
+    "VF": 9,
     "F": 1,
     "AU": 1
   },
@@ -188,6 +188,39 @@
         "surface_score": 3,
         "details_grade": "Light Scratch",
         "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-3390c17826d3",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2733987&AucID=7060&Lot=51&Val=cd81732385b5ddb7fc3616133491c54e",
+      "title": "Harlan J. Berk, Ltd. - Buy or Bid Sale 235, Lot 51 \u2014 Lucania, Thourioi Dinomos - Double Stater. ; Lucania, Thourioi Dinomos - Double Stater; ca. 400-350 BC. Dinomos - Double Stater, 15.65g. HN Italy-1803. Obv: Head of Athena wearing Attic helmet with Sk",
+      "description": "Lucania, Thourioi Dinomos - Double Stater. ; Lucania, Thourioi Dinomos - Double Stater; ca. 400-350 BC. Dinomos - Double Stater, 15.65g. HN Italy-1803. Obv: Head of Athena wearing Attic helmet with Skylla; \u0394I behind. Rx:  Bull butting right; fish right in exergue. Formerly NGC Ch VF, 5/5, 3/5 Fine Style.  Ex CNG Keystone Auction 11, 3 March 2023, lot 41.. aEF\n\nEstimate: 3850 USD...",
+      "hammer_price_usd": 3850.0,
+      "currency_original": "USD",
+      "price_original": 3850.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-14",
+      "image_url": "https://media.coinarchives.com/c9738add186522f55daac9fe577a7f16/img/hjb/235/image00051.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": true,
         "certification_url": null,
         "grading_service": "ngc"
       },

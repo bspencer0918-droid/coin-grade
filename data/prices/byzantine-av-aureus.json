@@ -1,0 +1,68 @@
+{
+  "slug": "byzantine-av-aureus",
+  "category": "byzantine",
+  "ruler": null,
+  "ruler_normalized": null,
+  "dynasty": null,
+  "ruler_dates": null,
+  "ruler_rarity": null,
+  "denomination": "AV Aureus",
+  "metal": "gold",
+  "sale_count": 1,
+  "realized_count": 1,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 302400.0,
+    "max": 302400.0
+  },
+  "median_price_usd": 302400.0,
+  "last_sale_date": "2026-05-13",
+  "grade_distribution": {
+    "MS": 1
+  },
+  "thumbnail_url": "https://media.coinarchives.com/9d560982ca92d2cc6b2bb230ca093ef7/img/mdc/018/image00264.jpg",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 4,
+  "top_grade_numeric": null,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "coinarchives-529a146ec7f5",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2732486&AucID=7041&Lot=264&Val=fa9fd73405e4b850e7c26d22bf3a8e74",
+      "title": "MDC Monnaies de Collection sarl - Auction 18, Lot 264 \u2014 EMPIRE ROMAIN - ROMAN\nAelia Flacilla (379-386). Aureus ND (383-386), Constantinople, 2e officine. NGC MS* 5/5 4/5 edge mark (6826980-003).\nAv. AEL FLAC - CILLA AVG. Buste diad\u00e9m\u00e9, drap\u00e9 et cuirass\u00e9, \u00e0",
+      "description": "EMPIRE ROMAIN - ROMAN\nAelia Flacilla (379-386). Aureus ND (383-386), Constantinople, 2e officine. NGC MS* 5/5 4/5 edge mark (6826980-003).\nAv. AEL FLAC - CILLA AVG. Buste diad\u00e9m\u00e9, drap\u00e9 et cuirass\u00e9, \u00e0 droite, avec coiffure \u00e9labor\u00e9e et collier de perles. \nRv. SALVS REI - PVBLICAE (officine) / CONOB. La Victoire assise sur son tr\u00f4ne, \u00e0 droite, inscrivant un christogramme sur un bouclier pos\u00e9 sur une petite colonne.\nRIC.72 - RIC.IX.48 ; Or - 4,49 g - 21 mm - 6 h\nProvient d'une vente CNG 40, 4 d\u00e9c...",
+      "hammer_price_usd": 302400.0,
+      "currency_original": "EUR",
+      "price_original": 280000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-13",
+      "image_url": "https://media.coinarchives.com/9d560982ca92d2cc6b2bb230ca093ef7/img/mdc/018/image00264.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "6826980-003",
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/6826980003/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

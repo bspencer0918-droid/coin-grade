@@ -8,19 +8,19 @@
   "ruler_rarity": null,
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 426,
-  "realized_count": 426,
+  "sale_count": 428,
+  "realized_count": 428,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 312.0,
     "max": 75000.0
   },
-  "median_price_usd": 1395.0,
+  "median_price_usd": 1425.0,
   "last_sale_date": "2026-05-13",
   "grade_distribution": {
     "MS": 149,
-    "XF": 85,
+    "XF": 87,
     "AU": 147,
     "VF": 29,
     "F": 1,
@@ -191,6 +191,72 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-83922222d46a",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2732484&AucID=7041&Lot=262&Val=1acc4c1df075f0e6a4dfe53c03d7880e",
+      "title": "MDC Monnaies de Collection sarl - Auction 18, Lot 262 \u2014 EMPIRE ROMAIN - ROMAN\nGratien (367-383). Solidus ND (370), Tr\u00e8ves. NGC Ch XF 5/5 2/5 edge bends scuffs (8558296-006).\nAv. D N GRATIA - NVS P F AVG. Buste cuirass\u00e9, avec casque \u00e0 cimier orn\u00e9 d'\u00e9toiles,",
+      "description": "EMPIRE ROMAIN - ROMAN\nGratien (367-383). Solidus ND (370), Tr\u00e8ves. NGC Ch XF 5/5 2/5 edge bends scuffs (8558296-006).\nAv. D N GRATIA - NVS P F AVG. Buste cuirass\u00e9, avec casque \u00e0 cimier orn\u00e9 d'\u00e9toiles, \u00e0 gauche, tenant le bouclier orn\u00e9 d'un cavalier chargeant un ennemi de la main gauche et la lance de la main droite. \nRv. VOTA - PV - BLICA / TR. OB. Deux empereurs nimb\u00e9s, assis de face sur un banc, tenant un sceptre et la mappa.\nRIC.IX.18e p.17 - Dep.35/3 ; Or - 4,47 g - 20,5 mm - 7 h\nProvient ...",
+      "hammer_price_usd": 10800.0,
+      "currency_original": "EUR",
+      "price_original": 10000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-13",
+      "image_url": "https://media.coinarchives.com/e58f0f8089b51f43a6abd1b77a3b191e/img/mdc/018/image00262.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "8558296-006",
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8558296006/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-708180495762",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2732479&AucID=7041&Lot=257&Val=71578dcb09d1e0e796532f607abe1adb",
+      "title": "MDC Monnaies de Collection sarl - Auction 18, Lot 257 \u2014 EMPIRE ROMAIN - ROMAN\nCrispus, C\u00e9sar (317-326). Solidus ND (320), Aquil\u00e9e. NGC Ch XF 5/5 3/5 slight bend (8521512-003).\nAv. FL IVL CRI - SPVS NOB C. Buste laur\u00e9, drap\u00e9 et cuirass\u00e9 \u00e0 gauche, tenant un ",
+      "description": "EMPIRE ROMAIN - ROMAN\nCrispus, C\u00e9sar (317-326). Solidus ND (320), Aquil\u00e9e. NGC Ch XF 5/5 3/5 slight bend (8521512-003).\nAv. FL IVL CRI - SPVS NOB C. Buste laur\u00e9, drap\u00e9 et cuirass\u00e9 \u00e0 gauche, tenant un globe surmont\u00e9 d'une petite victoire tenant une couronne de la main droite et la mappa de la main gauche. \nRv. PRINCIPI - IV - VENTVTIS / AQ. L'Empereur en habits militaire, debout \u00e0 gauche, la t\u00eate en arri\u00e8re, tenant une enseigne l\u00e9gionnaire de la main droite et un sceptre dans la main gauche.\nRI...",
+      "hammer_price_usd": 20520.0,
+      "currency_original": "EUR",
+      "price_original": 19000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-13",
+      "image_url": "https://media.coinarchives.com/433912f9f6e9562f2801c07a93912842/img/mdc/018/image00257.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "8521512-003",
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8521512003/",
         "grading_service": "ngc"
       },
       "metadata": {

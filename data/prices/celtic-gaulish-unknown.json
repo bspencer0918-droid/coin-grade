@@ -8,24 +8,24 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "gold",
-  "sale_count": 68,
-  "realized_count": 68,
+  "sale_count": 69,
+  "realized_count": 69,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 49.0,
-    "max": 4936.68
+    "max": 21600.0
   },
-  "median_price_usd": 805.0,
-  "last_sale_date": "2026-05-16",
+  "median_price_usd": 810.0,
+  "last_sale_date": "2026-05-17",
   "grade_distribution": {
     "VF": 30,
-    "XF": 30,
+    "XF": 31,
     "F": 1,
     "AU": 5,
     "G": 2
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-8-6-8-6-28686799&w=120&h=300&it=product",
+  "thumbnail_url": "https://media.coinarchives.com/9f7d0277b3fb8697a2a68f350094fd97/img/mdc/018/image00138.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 5,
@@ -46,7 +46,7 @@
       "currency_original": "USD",
       "price_original": 950.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-16",
+      "sale_date": "2026-05-17",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -79,7 +79,7 @@
       "currency_original": "USD",
       "price_original": 900.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-16",
+      "sale_date": "2026-05-17",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -112,7 +112,7 @@
       "currency_original": "USD",
       "price_original": 1000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-16",
+      "sale_date": "2026-05-17",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -145,7 +145,7 @@
       "currency_original": "USD",
       "price_original": 800.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-16",
+      "sale_date": "2026-05-17",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -178,7 +178,7 @@
       "currency_original": "USD",
       "price_original": 900.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-16",
+      "sale_date": "2026-05-17",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -211,7 +211,7 @@
       "currency_original": "USD",
       "price_original": 650.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-16",
+      "sale_date": "2026-05-17",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -326,6 +326,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-30fb4ede19b4",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2732360&AucID=7041&Lot=138&Val=079859066a91f4803584459c155b7938",
+      "title": "MDC Monnaies de Collection sarl - Auction 18, Lot 138 \u2014 GAULE - CELTIC\nCarnutes. Stat\u00e8re \u00e0 la t\u00eate de face ND (IIIe s. av. J.-C.). NGC Ch XF 4/5 3/5 brushed (8558294-005).\nAv. Profil laur\u00e9 \u00e0 droite, \u00e0 la chevelure boucl\u00e9e. \nRv. Bige \u00e0 droite, conduit par u",
+      "description": "GAULE - CELTIC\nCarnutes. Stat\u00e8re \u00e0 la t\u00eate de face ND (IIIe s. av. J.-C.). NGC Ch XF 4/5 3/5 brushed (8558294-005).\nAv. Profil laur\u00e9 \u00e0 droite, \u00e0 la chevelure boucl\u00e9e. \nRv. Bige \u00e0 droite, conduit par un aurige. Sous les chevaux, une petite t\u00eate humaine de face et \u00e0 l'exergue, reste de la l\u00e9gende PHILIPPOY.\nDT.2014 = cet exemplaire ! - BN.6415 ; Or - 7,65 g - 21 mm - 6 h\nProvient de la collection d'un amateur d'Art, Jean Vinchon Numismatique, 29 octobre 2002, n\u00b0 25 (page 29) et exemplaire reprod...",
+      "hammer_price_usd": 21600.0,
+      "currency_original": "EUR",
+      "price_original": 20000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-13",
+      "image_url": "https://media.coinarchives.com/9f7d0277b3fb8697a2a68f350094fd97/img/mdc/018/image00138.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "8558294-005",
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8558294005/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

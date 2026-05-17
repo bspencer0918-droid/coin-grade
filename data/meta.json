@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-16T08:25:23.474722+00:00",
-  "next_update": "2026-05-16T06:00:00+00:00",
-  "total_listings": 57612,
+  "last_updated": "2026-05-17T08:43:34.537972+00:00",
+  "next_update": "2026-05-17T06:00:00+00:00",
+  "total_listings": 57642,
   "ngc_verified_count": 0,
-  "ngc_mentioned_count": 57612,
+  "ngc_mentioned_count": 57642,
   "schema_version": "1.2",
   "sources": {
     "cng": {
@@ -23,7 +23,7 @@
     },
     "sixbid": {
       "status": "ok",
-      "listings_scraped": 1411,
+      "listings_scraped": 1413,
       "last_error": null
     },
     "hjb": {
@@ -33,7 +33,7 @@
     },
     "coinarchives": {
       "status": "ok",
-      "listings_scraped": 1012,
+      "listings_scraped": 1083,
       "last_error": null
     },
     "stacksbowers": {

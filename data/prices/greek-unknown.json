@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "silver",
-  "sale_count": 181,
-  "realized_count": 181,
+  "sale_count": 182,
+  "realized_count": 182,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,9 +17,9 @@
     "max": 82278.0
   },
   "median_price_usd": 1680.0,
-  "last_sale_date": "2026-05-16",
+  "last_sale_date": "2026-05-17",
   "grade_distribution": {
-    "XF": 46,
+    "XF": 47,
     "VF": 36,
     "F": 12,
     "AU": 47,
@@ -50,7 +50,7 @@
       "currency_original": "USD",
       "price_original": 250.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-16",
+      "sale_date": "2026-05-17",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -83,7 +83,7 @@
       "currency_original": "USD",
       "price_original": 140.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-16",
+      "sale_date": "2026-05-17",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -116,7 +116,7 @@
       "currency_original": "USD",
       "price_original": 140.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-16",
+      "sale_date": "2026-05-17",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -149,7 +149,7 @@
       "currency_original": "USD",
       "price_original": 120.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-16",
+      "sale_date": "2026-05-17",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -182,7 +182,7 @@
       "currency_original": "USD",
       "price_original": 5500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-16",
+      "sale_date": "2026-05-17",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2042,6 +2042,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-b492e3e341bc",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2732237&AucID=7041&Lot=15&Val=038ea1030e66ac1edf657d45fcf82184",
+      "title": "MDC Monnaies de Collection sarl - Auction 18, Lot 15 \u2014 GR\u00c8CE ANTIQUE - GREEK\nSicile, Leontini. T\u00e9tradrachme, coins par le \"ma\u00eetre du Demareteion\" (ou son \u00e9cole) ND (c.480 ou c.466 av. J.-C.), Leontini. NGC Ch XF 5/5 3/5 (6559582-002).\nAv. Quadrige avan\u00e7an",
+      "description": "GR\u00c8CE ANTIQUE - GREEK\nSicile, Leontini. T\u00e9tradrachme, coins par le \"ma\u00eetre du Demareteion\" (ou son \u00e9cole) ND (c.480 ou c.466 av. J.-C.), Leontini. NGC Ch XF 5/5 3/5 (6559582-002).\nAv. Quadrige avan\u00e7ant au pas \u00e0 droite, conduit par un aurige, sous une Victoire volant \u00e0 gauche qui couronne l'aurige ; \u00e0 l'exergue, un lion \u00e0 droite. \nRv. \u039bEO[NTI] - NO - N. T\u00eate d'Apollon \u00e0 droite, laur\u00e9e, entre trois feuilles avec nervures ; au-dessous, un lion.\nSNG ANS 218 - Dewing 622 = Jameson 626 - De Luynes 9...",
+      "hammer_price_usd": 43200.0,
+      "currency_original": "EUR",
+      "price_original": 40000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-13",
+      "image_url": "https://media.coinarchives.com/f957d0910a85700db45f4e6bdb168b0b/img/mdc/018/image00015.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "6559582-002",
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/6559582002/",
         "grading_service": "ngc"
       },
       "metadata": {
