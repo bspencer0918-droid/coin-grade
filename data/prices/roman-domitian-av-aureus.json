@@ -8,17 +8,18 @@
   "ruler_rarity": null,
   "denomination": "AV Aureus",
   "metal": "gold",
-  "sale_count": 61,
-  "realized_count": 61,
+  "sale_count": 62,
+  "realized_count": 62,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 1320.0,
     "max": 114000.0
   },
-  "median_price_usd": 7800.0,
-  "last_sale_date": "2026-04-29",
+  "median_price_usd": 7718.75,
+  "last_sale_date": "2026-05-14",
   "grade_distribution": {
+    "G": 1,
     "AU": 19,
     "F": 13,
     "XF": 11,
@@ -36,6 +37,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-c19836ff196b",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stephen-album-rare-coins/13789/ancient-roman-amp-byzantine/12227435/roman-empire-domitian-as-caesar",
+      "title": "ROMAN EMPIRE: Domitian, as caesar, 69-81 AD, AV aureus (7.26g), Rome, 77-78 AD, RIC-959, laureate head right, CAESAR AVG F DOMITIANVS // barbarian kneeling right, holding standard with vexillum, COS V, well-centered strike, light marks, Strike 5/5, Surface 3/5, NGC graded Choice Fine, ex Roma Numismatics Auction 9, Lot 633.",
+      "description": "Stephen Album Rare Coins | ['Auction 55']",
+      "hammer_price_usd": 3500.0,
+      "currency_original": "USD",
+      "price_original": 3500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-14",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-92774e4d5488",
       "source": "sixbid",

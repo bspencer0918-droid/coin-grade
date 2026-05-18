@@ -8,24 +8,24 @@
   "ruler_rarity": null,
   "denomination": "AV Aureus",
   "metal": "gold",
-  "sale_count": 43,
-  "realized_count": 43,
+  "sale_count": 44,
+  "realized_count": 44,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 4560.0,
     "max": 56400.0
   },
-  "median_price_usd": 13800.0,
+  "median_price_usd": 14100.0,
   "last_sale_date": "2026-05-13",
   "grade_distribution": {
-    "AU": 7,
+    "AU": 8,
     "XF": 12,
     "MS": 15,
     "VF": 3,
     "G": 6
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-5-1-2-7-25127581&w=120&h=300&it=product",
+  "thumbnail_url": "https://media.coinarchives.com/d7a20c8c536a06d157a0eceb52dd2421/img/mdc/018/image00236.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -35,6 +35,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-329e92eb704c",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2732458&AucID=7041&Lot=236&Val=eb093a843d5433001bcf4f1c674a6da7",
+      "title": "MDC Monnaies de Collection sarl - Auction 18, Lot 236 \u2014 EMPIRE ROMAIN - ROMAN\nLucius Verus (161-169). Aureus ND (163-164), Rome. NGC Ch AU 5/5 4/5 Fine style light marks (8558294-002).\nAv. L VERVS AVG - ARMENIACVS. Buste laur\u00e9, drap\u00e9 et cuirass\u00e9, \u00e0 droite.",
+      "description": "EMPIRE ROMAIN - ROMAN\nLucius Verus (161-169). Aureus ND (163-164), Rome. NGC Ch AU 5/5 4/5 Fine style light marks (8558294-002).\nAv. L VERVS AVG - ARMENIACVS. Buste laur\u00e9, drap\u00e9 et cuirass\u00e9, \u00e0 droite. \nRv. TR P IIII IMP II COS II. Victoire debout \u00e0 droite tenant un \u00e9cu inscrit VIC AVG.\nCalic\u00f3 2177 (de m\u00eames coins) - RIC.525 ; Or - 7,46 g - 19,5 mm - 5 h\nProvient d'une vente K\u00fcnker 100, 2005, n\u00b0 66 puis vente Numismatica Ars Classica 95, 2016, n\u00b0 291.\nNGC Ch AU 5/5 4/5 Fine style light marks (8...",
+      "hammer_price_usd": 16200.0,
+      "currency_original": "EUR",
+      "price_original": 15000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-13",
+      "image_url": "https://media.coinarchives.com/d7a20c8c536a06d157a0eceb52dd2421/img/mdc/018/image00236.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "8558294-002",
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": "https://www.ngccoin.com/certlookup/8558294002/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-68e2802fa6d4",
       "source": "sixbid",
