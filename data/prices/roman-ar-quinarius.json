@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Quinarius",
   "metal": "silver",
-  "sale_count": 71,
-  "realized_count": 71,
+  "sale_count": 72,
+  "realized_count": 72,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -20,8 +20,8 @@
   "last_sale_date": "2026-02-12",
   "grade_distribution": {
     "AU": 8,
+    "VF": 33,
     "XF": 17,
-    "VF": 32,
     "F": 9,
     "VG": 2,
     "MS": 3
@@ -92,6 +92,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-17a61efe27d7",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2676336&AucID=6862&Lot=23024&Val=3409f0cea5026c9d1193a601d0b277f2",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61578, Lot 23024 \u2014 Ancients\nAnonymous. Ca. 81 BC. AR quinarius (15mm, 11h). NGC Choice VF. Uncertain mint. Laureate head of Apollo right; linear border / ROMA, Victory standing right, crowning trophy with right hand; N ",
+      "description": "Ancients\nAnonymous. Ca. 81 BC. AR quinarius (15mm, 11h). NGC Choice VF. Uncertain mint. Laureate head of Apollo right; linear border / ROMA, Victory standing right, crowning trophy with right hand; N between. Crawford 373/1b. Mint and sunflower highlights.   www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.ha.com/itm/ancients/roman-republic/anonymous-ca-81-bc-ar-quinarius-15mm-11h-ngc-choice-vf/p/61578-22001.s?type=DA-DMC-CoinArchives-WorldCoins-61578-12212025\n\nHID02906262019\n\n\u00a9 2025 Her...",
+      "hammer_price_usd": 100.0,
+      "currency_original": "USD",
+      "price_original": 100.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-21",
+      "image_url": "https://media.coinarchives.com/d8de4c603ff9290986c2738a0fc888df/img/heritage/61578/image23024.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "12212025",
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/12212025/",
         "grading_service": "ngc"
       },
       "metadata": {

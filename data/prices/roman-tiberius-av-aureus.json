@@ -21,10 +21,10 @@
   "grade_distribution": {
     "AU": 44,
     "VF": 32,
-    "VG": 2,
     "F": 24,
     "MS": 9,
-    "XF": 23
+    "XF": 23,
+    "VG": 2
   },
   "thumbnail_url": "https://media.coinarchives.com/c1e286b97a1c4e70ad63be7370b0a7fa/img/heritage/3132/image32100.jpg",
   "median_weight_g": null,
@@ -89,39 +89,6 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-948e2eb95d23",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2670504&AucID=6841&Lot=24042&Val=a50166046bef91ea40bf9f89a8073fa5",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61574, Lot 24042 \u2014 Ancients\nTiberius (AD 14-37). AV aureus (20mm, 7.11 gm, 4h). NGC VG 4/5 - 1/5, pierced, modern countermark. Lugdunum, ca. AD 14-17. TI CAESAR DIVI-AVG F AVGVSTVS, laureate head of Tiberius right / PON",
-      "description": "Ancients\nTiberius (AD 14-37). AV aureus (20mm, 7.11 gm, 4h). NGC VG 4/5 - 1/5, pierced, modern countermark. Lugdunum, ca. AD 14-17. TI CAESAR DIVI-AVG F AVGVSTVS, laureate head of Tiberius right / PONTIF-MAXIM, Livia, as Pax, seated right, grounded scepter in right hand, olive branch upward in left, feet on stool; chair with plain legs, double line below. Calic\u00f3 305d. RIC I 25. \n\nAs the stepchild and unwanted heir of Augustus, Tiberius had a difficult act to follow. Nevertheless, for the first...",
-      "hammer_price_usd": 1600.0,
-      "currency_original": "USD",
-      "price_original": 1600.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-07",
-      "image_url": "https://media.coinarchives.com/44bd7eb921717b480c46af9a55e89a94/img/heritage/61574/image24042.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VG",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 1,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
@@ -287,6 +254,39 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-948e2eb95d23",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2670504&AucID=6841&Lot=24042&Val=a50166046bef91ea40bf9f89a8073fa5",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61574, Lot 24042 \u2014 Ancients\nTiberius (AD 14-37). AV aureus (20mm, 7.11 gm, 4h). NGC VG 4/5 - 1/5, pierced, modern countermark. Lugdunum, ca. AD 14-17. TI CAESAR DIVI-AVG F AVGVSTVS, laureate head of Tiberius right / PON",
+      "description": "Ancients\nTiberius (AD 14-37). AV aureus (20mm, 7.11 gm, 4h). NGC VG 4/5 - 1/5, pierced, modern countermark. Lugdunum, ca. AD 14-17. TI CAESAR DIVI-AVG F AVGVSTVS, laureate head of Tiberius right / PONTIF-MAXIM, Livia, as Pax, seated right, grounded scepter in right hand, olive branch upward in left, feet on stool; chair with plain legs, double line below. Calic\u00f3 305d. RIC I 25. \n\nAs the stepchild and unwanted heir of Augustus, Tiberius had a difficult act to follow. Nevertheless, for the first...",
+      "hammer_price_usd": 1600.0,
+      "currency_original": "USD",
+      "price_original": 1600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-07",
+      "image_url": "https://media.coinarchives.com/44bd7eb921717b480c46af9a55e89a94/img/heritage/61574/image24042.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VG",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 1,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

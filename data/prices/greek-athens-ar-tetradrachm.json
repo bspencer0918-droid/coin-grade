@@ -8,22 +8,22 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 14,
-  "realized_count": 14,
+  "sale_count": 15,
+  "realized_count": 15,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 110.0,
     "max": 9250.0
   },
-  "median_price_usd": 2472.5,
-  "last_sale_date": "2026-04-06",
+  "median_price_usd": 2600.0,
+  "last_sale_date": "2026-05-14",
   "grade_distribution": {
     "MS": 2,
     "VF": 3,
     "XF": 4,
     "AU": 3,
-    "G": 2
+    "G": 3
   },
   "thumbnail_url": "https://media.coinarchives.com/dcf805c17f54778d417362578fc211de/img/numiscorner/006/image00004.jpg",
   "median_weight_g": null,
@@ -286,6 +286,39 @@
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-03b7c04ba9a9",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2748725&AucID=7097&Lot=2&Val=06b40732650882e26e7a9571cc95a9e2",
+      "title": "Stephen Album Rare Coins - Auction 55, Lot 2 \u2014 BACTRIA: Anonymous, AR tetradrachm (16.78g), ca. 295/3-285/3 BC, Mitch-13a, Nicolet-Pierre & Amandry 39, cf. Bopearachchi-8 (Sophytes), imitating Athenian issue, Attic standard, helmeted head of Athen",
+      "description": "BACTRIA: Anonymous, AR tetradrachm (16.78g), ca. 295/3-285/3 BC, Mitch-13a, Nicolet-Pierre & Amandry 39, cf. Bopearachchi-8 (Sophytes), imitating Athenian issue, Attic standard, helmeted head of Athena right, monogram behind // owl standing right with head facing, prow of galley right behind, A\u0398E before, a well-centered strike with bold details, Strike 5/5, Surface 4/5, NGC graded Choice XF, ex Roma Numismatics Auction 17, Lot 575\n\nEstimate: 1000-1500 USD...",
+      "hammer_price_usd": 2600.0,
+      "currency_original": "USD",
+      "price_original": 2600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-14",
+      "image_url": "https://media.coinarchives.com/cea207b6a9549569d7f6c69237709f52/img/album/055/image00002.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
