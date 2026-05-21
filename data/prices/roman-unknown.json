@@ -19,8 +19,8 @@
   "median_price_usd": 192.0,
   "last_sale_date": "2026-05-16",
   "grade_distribution": {
-    "XF": 579,
     "MS": 733,
+    "XF": 579,
     "AU": 863,
     "P": 8,
     "VF": 610,
@@ -38,39 +38,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-25c0c312f6cc",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/daniel-frank-sedwick/13763/ancient-and-medieval/12188500/ancient-roman-roman-republic-rome",
-      "title": "ANCIENT ROMAN, Roman Republic, Rome mint, AR quadrigatus, Anonymous, ca. 225-214/2 BC, NGC Ch XF, strike 5/5, surface 4/5, flan flaw. Crawford 28/3; Sydenham 64a; RSC 23; RBW 65. 6.68 grams. Laureate head of Janus; curved truncation / Jupiter, hurling thunderbolt with right hand and holding scepter in left, in quadriga right driven by Victory; ROMA raised on outlined tablet below. Hints of iridescence, nicely centered, small lamination under the head of Janus labeled as flan flaw on slab.",
-      "description": "Daniel Frank Sedwick | ['Auction 39']",
-      "hammer_price_usd": 3000.0,
-      "currency_original": "USD",
-      "price_original": 3000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-05-07",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "sixbid-1a3ef5d83d4c",
       "source": "sixbid",
@@ -91,6 +58,39 @@
         "grade_numeric": 62,
         "strike_score": null,
         "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-25c0c312f6cc",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/daniel-frank-sedwick/13763/ancient-and-medieval/12188500/ancient-roman-roman-republic-rome",
+      "title": "ANCIENT ROMAN, Roman Republic, Rome mint, AR quadrigatus, Anonymous, ca. 225-214/2 BC, NGC Ch XF, strike 5/5, surface 4/5, flan flaw. Crawford 28/3; Sydenham 64a; RSC 23; RBW 65. 6.68 grams. Laureate head of Janus; curved truncation / Jupiter, hurling thunderbolt with right hand and holding scepter in left, in quadriga right driven by Victory; ROMA raised on outlined tablet below. Hints of iridescence, nicely centered, small lamination under the head of Janus labeled as flan flaw on slab.",
+      "description": "Daniel Frank Sedwick | ['Auction 39']",
+      "hammer_price_usd": 3000.0,
+      "currency_original": "USD",
+      "price_original": 3000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-07",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
@@ -3702,72 +3702,6 @@
       }
     },
     {
-      "id": "sixbid-4695a689fe96",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13696/empire-romain-roman/12114863/empire-romain-romangallien-253-268",
-      "title": "EMPIRE ROMAIN - ROMAN<br>Gallien (253-268). T\u00e9tradrachme An 11 (263-264), Alexandrie.<br>Av. \u0391\u03a5\u03a4 \u039a \u03a0 \u039b\u0399\u039a \u0393\u0391\u039b\u039b\u0399\u0397\u039d\u039f\u03a3 C\u0395\u0392. Buste laur\u00e9, drap\u00e9 et cuirass\u00e9 \u00e0 droite, vu de trois-quarts en arri\u00e8re. <br>Rv. [LIA] (invers\u00e9). Tych\u00e9 debout \u00e0 gauche tenant une corne d\u2019abondance de la main gauche et un gouvernail de la main droite, pos\u00e9 devant elle.<br>RPC.X.75490 (42 ex.) ; Billon - 11,55 g - 23 mm - 12 h<br>NGC Ch XF scratches (8585317-006). <br>Pour ce type et mill\u00e9sime, les exemplaires sont avec l\u2019ann\u00e9e invers\u00e9e. Seuls les hauts reliefs sur Tych\u00e9 sont touch\u00e9s. Patine marron brillante. Superbe \u00e0 Fleur de coin.<br> <br> NGC Ch XF scratches",
-      "description": "MDC Monaco | ['Auction 18']",
-      "hammer_price_usd": 230.34,
-      "currency_original": "USD",
-      "price_original": 230.34,
-      "buyers_premium_included": false,
-      "sale_date": "2026-05-13",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "8585317-006",
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/8585317006/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-3ed3b0e4f97f",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/numisbalt/13807/russia/12241542/russia-medal-commemorating-the-arrival",
-      "title": "Russia Medal commemorating the arrival of Count Falckenstein to Russia in 1780 (R2) NGC MS 61 BN <br> Russia. Medal commemorating the arrival of Count Falckenstein (Holy Roman Emperor Joseph II) to Russia in 1780. St. Petersburg Mint. Medalist obverse. art. K. A. von Leberecht (under the image on the background: C LEBERECHT F ), copy of the die of I. K. G. Jaeger. Bronze, 71 g. Diameter 61 mm. CPM# 190. Iversen# DCXVII (vol. 2, pp. 282\u2013283). Dyakov# 185.2 (R2). For an analogue, see Smirnov# 288. Rare. NGC MS 61 BN. Only 1 pcs. in higher grade.",
-      "description": "Numisbalt | ['E-Live PREMIUM 42']",
-      "hammer_price_usd": 940.88,
-      "currency_original": "USD",
-      "price_original": 940.88,
-      "buyers_premium_included": false,
-      "sale_date": "2026-05-09",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 61,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "sixbid-a552328df5c9",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -3823,6 +3757,72 @@
         "details_grade": null,
         "fine_style": true,
         "certification_url": "https://www.ngccoin.com/certlookup/8585318004/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-4695a689fe96",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13696/empire-romain-roman/12114863/empire-romain-romangallien-253-268",
+      "title": "EMPIRE ROMAIN - ROMAN<br>Gallien (253-268). T\u00e9tradrachme An 11 (263-264), Alexandrie.<br>Av. \u0391\u03a5\u03a4 \u039a \u03a0 \u039b\u0399\u039a \u0393\u0391\u039b\u039b\u0399\u0397\u039d\u039f\u03a3 C\u0395\u0392. Buste laur\u00e9, drap\u00e9 et cuirass\u00e9 \u00e0 droite, vu de trois-quarts en arri\u00e8re. <br>Rv. [LIA] (invers\u00e9). Tych\u00e9 debout \u00e0 gauche tenant une corne d\u2019abondance de la main gauche et un gouvernail de la main droite, pos\u00e9 devant elle.<br>RPC.X.75490 (42 ex.) ; Billon - 11,55 g - 23 mm - 12 h<br>NGC Ch XF scratches (8585317-006). <br>Pour ce type et mill\u00e9sime, les exemplaires sont avec l\u2019ann\u00e9e invers\u00e9e. Seuls les hauts reliefs sur Tych\u00e9 sont touch\u00e9s. Patine marron brillante. Superbe \u00e0 Fleur de coin.<br> <br> NGC Ch XF scratches",
+      "description": "MDC Monaco | ['Auction 18']",
+      "hammer_price_usd": 230.34,
+      "currency_original": "USD",
+      "price_original": 230.34,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8585317-006",
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8585317006/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-3ed3b0e4f97f",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/numisbalt/13807/russia/12241542/russia-medal-commemorating-the-arrival",
+      "title": "Russia Medal commemorating the arrival of Count Falckenstein to Russia in 1780 (R2) NGC MS 61 BN <br> Russia. Medal commemorating the arrival of Count Falckenstein (Holy Roman Emperor Joseph II) to Russia in 1780. St. Petersburg Mint. Medalist obverse. art. K. A. von Leberecht (under the image on the background: C LEBERECHT F ), copy of the die of I. K. G. Jaeger. Bronze, 71 g. Diameter 61 mm. CPM# 190. Iversen# DCXVII (vol. 2, pp. 282\u2013283). Dyakov# 185.2 (R2). For an analogue, see Smirnov# 288. Rare. NGC MS 61 BN. Only 1 pcs. in higher grade.",
+      "description": "Numisbalt | ['E-Live PREMIUM 42']",
+      "hammer_price_usd": 940.88,
+      "currency_original": "USD",
+      "price_original": 940.88,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-09",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 61,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
         "grading_service": "ngc"
       },
       "metadata": {

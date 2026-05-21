@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 417,
-  "realized_count": 417,
+  "sale_count": 418,
+  "realized_count": 418,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,17 +17,18 @@
     "max": 6000.0
   },
   "median_price_usd": 228.0,
-  "last_sale_date": "2026-03-19",
+  "last_sale_date": "2026-05-18",
   "grade_distribution": {
     "XF": 123,
     "G": 2,
+    "P": 1,
     "VF": 187,
     "AU": 54,
     "F": 47,
     "VG": 1,
     "MS": 3
   },
-  "thumbnail_url": "https://media.coinarchives.com/f88d27ade1327e2245c8b425ef90586b/img/heritage/61605/image23066.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/6be4a8311fdce888ef762b45328cd982/img/cng/132/image00049.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 5,
@@ -163,6 +164,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-f0c6eb53e24f",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2741585&AucID=7093&Lot=49&Val=e8f4963915247a3afcd6ef5926349325",
+      "title": "Classical Numismatic Group - Auction 132, Lot 49 \u2014 Domitian. As Caesar, AD 69-81. AR Denarius (20mm, 3.59 g, 7h). Rome mint. Struck under Vespasian, AD 73-early 75. CAES AVG F DOMIT COS II, laureate head right / Domitian, togate, cloak flying out behi",
+      "description": "Domitian. As Caesar, AD 69-81. AR Denarius (20mm, 3.59 g, 7h). Rome mint. Struck under Vespasian, AD 73-early 75. CAES AVG F DOMIT COS II, laureate head right / Domitian, togate, cloak flying out behind him, on horseback, rearing left, raising right hand and holding scepter surmounted by human head in left. RIC II.1 680 (Vespasian); RSC 664; BMCRE 129-31 (Vespasian); BN 105-6 (Vespasian). Iridescent tone. NGC Photo Certificate Ch AU\u272d, Strike: 5/5, Surface: 4/5. Magnificent portrait. \n\nFrom the...",
+      "hammer_price_usd": 6000.0,
+      "currency_original": "USD",
+      "price_original": 6000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-18",
+      "image_url": "https://media.coinarchives.com/6be4a8311fdce888ef762b45328cd982/img/cng/132/image00049.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "P",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
