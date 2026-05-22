@@ -1,6 +1,6 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-05-21T09:58:23.423508+00:00",
+  "generated_at": "2026-05-22T09:22:47.335456+00:00",
   "coins": [
     {
       "slug": "greek-ar-obol",
@@ -21,7 +21,7 @@
         "max": 2640.0
       },
       "median_price_usd": 850.0,
-      "last_sale_date": "2026-05-21",
+      "last_sale_date": "2026-05-22",
       "grade_distribution": {
         "VF": 1,
         "AU": 4,
@@ -59,7 +59,7 @@
         "max": 195000.0
       },
       "median_price_usd": 550.0,
-      "last_sale_date": "2026-05-21",
+      "last_sale_date": "2026-05-22",
       "grade_distribution": {
         "VF": 36,
         "F": 11,
@@ -98,7 +98,7 @@
         "max": 720000.0
       },
       "median_price_usd": 264.0,
-      "last_sale_date": "2026-05-21",
+      "last_sale_date": "2026-05-22",
       "grade_distribution": {
         "P": 2,
         "XF": 1697,
@@ -139,7 +139,7 @@
         "max": 600000.0
       },
       "median_price_usd": 117000.0,
-      "last_sale_date": "2026-05-21",
+      "last_sale_date": "2026-05-22",
       "grade_distribution": {
         "P": 2,
         "AU": 1,
@@ -177,7 +177,7 @@
         "max": 19200.0
       },
       "median_price_usd": 4320.0,
-      "last_sale_date": "2026-05-21",
+      "last_sale_date": "2026-05-22",
       "grade_distribution": {
         "MS": 63,
         "AU": 117,
@@ -215,7 +215,7 @@
         "max": 300.0
       },
       "median_price_usd": 230.0,
-      "last_sale_date": "2026-05-21",
+      "last_sale_date": "2026-05-22",
       "grade_distribution": {
         "XF": 2
       },
@@ -248,7 +248,7 @@
         "max": 536800.0
       },
       "median_price_usd": 5100.0,
-      "last_sale_date": "2026-05-21",
+      "last_sale_date": "2026-05-22",
       "grade_distribution": {
         "AU": 182,
         "MS": 268,
@@ -286,7 +286,7 @@
         "max": 960.0
       },
       "median_price_usd": 325.0,
-      "last_sale_date": "2026-05-21",
+      "last_sale_date": "2026-05-22",
       "grade_distribution": {
         "XF": 10,
         "MS": 20,
@@ -324,7 +324,7 @@
         "max": 21600.0
       },
       "median_price_usd": 810.0,
-      "last_sale_date": "2026-05-21",
+      "last_sale_date": "2026-05-22",
       "grade_distribution": {
         "VF": 30,
         "XF": 31,
@@ -361,7 +361,7 @@
         "max": 4320.0
       },
       "median_price_usd": 264.0,
-      "last_sale_date": "2026-05-21",
+      "last_sale_date": "2026-05-22",
       "grade_distribution": {
         "XF": 17,
         "VF": 20,
@@ -400,7 +400,7 @@
         "max": 1700.0
       },
       "median_price_usd": 1450.0,
-      "last_sale_date": "2026-05-21",
+      "last_sale_date": "2026-05-22",
       "grade_distribution": {
         "XF": 2,
         "VF": 1
@@ -434,7 +434,7 @@
         "max": 8400.0
       },
       "median_price_usd": 159.0,
-      "last_sale_date": "2026-05-21",
+      "last_sale_date": "2026-05-22",
       "grade_distribution": {
         "VF": 42,
         "XF": 173,
@@ -474,7 +474,7 @@
         "max": 350.0
       },
       "median_price_usd": 350.0,
-      "last_sale_date": "2026-05-21",
+      "last_sale_date": "2026-05-22",
       "grade_distribution": {
         "XF": 1
       },
@@ -507,7 +507,7 @@
         "max": 82278.0
       },
       "median_price_usd": 1860.48,
-      "last_sale_date": "2026-05-21",
+      "last_sale_date": "2026-05-22",
       "grade_distribution": {
         "XF": 47,
         "VF": 36,
@@ -548,7 +548,7 @@
         "max": 292800.0
       },
       "median_price_usd": 1920.0,
-      "last_sale_date": "2026-05-21",
+      "last_sale_date": "2026-05-22",
       "grade_distribution": {
         "VF": 265,
         "XF": 365,
@@ -588,13 +588,13 @@
         "max": 312000.0
       },
       "median_price_usd": 900.0,
-      "last_sale_date": "2026-05-21",
+      "last_sale_date": "2026-05-22",
       "grade_distribution": {
         "VF": 335,
         "XF": 219,
         "P": 16,
-        "MS": 393,
         "AU": 287,
+        "MS": 393,
         "F": 105,
         "G": 34,
         "VG": 11
@@ -628,7 +628,7 @@
         "max": 180000.0
       },
       "median_price_usd": 8400.0,
-      "last_sale_date": "2026-05-21",
+      "last_sale_date": "2026-05-22",
       "grade_distribution": {
         "VF": 12,
         "XF": 44,
@@ -796,39 +796,6 @@
       "mint_mark": null
     },
     {
-      "slug": "other-ae-22",
-      "category": "other",
-      "ruler": null,
-      "ruler_normalized": null,
-      "dynasty": null,
-      "ruler_dates": null,
-      "ruler_rarity": null,
-      "denomination": "AE 22",
-      "metal": "bronze",
-      "sale_count": 1,
-      "realized_count": 1,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 404.35,
-        "max": 404.35
-      },
-      "median_price_usd": 404.35,
-      "last_sale_date": "2025-11-22",
-      "grade_distribution": {
-        "AU": 1
-      },
-      "thumbnail_url": null,
-      "median_weight_g": null,
-      "top_strike_score": null,
-      "top_surface_score": null,
-      "top_grade_numeric": null,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
       "slug": "greek-alexander-iii-ar-tetradrachm-lifetime-issue",
       "category": "greek",
       "ruler": "Alexander III",
@@ -890,9 +857,9 @@
       "last_sale_date": "2026-05-07",
       "grade_distribution": {
         "AU": 18,
-        "VF": 6,
         "MS": 12,
-        "XF": 4
+        "XF": 4,
+        "VF": 6
       },
       "thumbnail_url": "https://media.coinarchives.com/54638897778bd2ff2338d21f6978731d/img/heritage/3132/image31006.jpg",
       "median_weight_g": null,
@@ -963,7 +930,7 @@
         "max": 3360.0
       },
       "median_price_usd": 960.0,
-      "last_sale_date": "2026-05-21",
+      "last_sale_date": "2026-05-22",
       "grade_distribution": {
         "VF": 3,
         "AU": 7,
@@ -1102,8 +1069,8 @@
       "ruler_rarity": null,
       "denomination": "Unknown",
       "metal": "silver",
-      "sale_count": 3238,
-      "realized_count": 3238,
+      "sale_count": 3239,
+      "realized_count": 3239,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -1115,7 +1082,7 @@
       "grade_distribution": {
         "MS": 733,
         "XF": 579,
-        "AU": 863,
+        "AU": 864,
         "P": 8,
         "VF": 610,
         "F": 394,
@@ -1377,7 +1344,7 @@
         "F": 73,
         "VG": 28
       },
-      "thumbnail_url": "https://media.coinarchives.com/834fd2d1b701341989f0e4af78025ab3/img/heritage/61605/image23060.jpg",
+      "thumbnail_url": "https://media.coinarchives.com/17586e1bbcc73c8c7554a8e8f1a45d15/img/ponterio/236/image44247.jpg",
       "median_weight_g": null,
       "top_strike_score": 4,
       "top_surface_score": 3,
@@ -1406,7 +1373,7 @@
         "max": 114000.0
       },
       "median_price_usd": 18000.0,
-      "last_sale_date": "2026-05-21",
+      "last_sale_date": "2026-05-22",
       "grade_distribution": {
         "XF": 16,
         "AU": 31,
@@ -2079,8 +2046,8 @@
       "grade_distribution": {
         "XF": 30,
         "AU": 22,
-        "P": 2,
         "VF": 62,
+        "P": 2,
         "F": 17,
         "MS": 3
       },
@@ -2544,8 +2511,8 @@
         "XF": 6,
         "VF": 4,
         "MS": 3,
-        "F": 1,
         "AU": 6,
+        "F": 1,
         "P": 1,
         "G": 1,
         "VG": 1
@@ -3196,7 +3163,7 @@
         "max": 10000.0
       },
       "median_price_usd": 144.0,
-      "last_sale_date": "2026-05-21",
+      "last_sale_date": "2026-05-22",
       "grade_distribution": {
         "F": 11,
         "VF": 84,
@@ -3239,8 +3206,8 @@
         "AU": 49,
         "F": 61,
         "VF": 52,
-        "MS": 124,
         "XF": 44,
+        "MS": 124,
         "VG": 13
       },
       "thumbnail_url": "https://media.coinarchives.com/df36c155fd4ca5d46923f748077eb551/img/heritage/61605/image23197.jpg",
@@ -3358,7 +3325,7 @@
       "thumbnail_url": "https://media.coinarchives.com/14ea6dbfb3bb19f43d1034aebc973952/img/heritage/3129/image34080.jpg",
       "median_weight_g": null,
       "top_strike_score": 4,
-      "top_surface_score": 2,
+      "top_surface_score": 4,
       "top_grade_numeric": 4,
       "dominant_service": "ngc",
       "series": null,
@@ -3681,7 +3648,7 @@
         "max": 3720.0
       },
       "median_price_usd": 264.0,
-      "last_sale_date": "2026-05-21",
+      "last_sale_date": "2026-05-22",
       "grade_distribution": {
         "VF": 77,
         "AU": 12,
@@ -4507,9 +4474,9 @@
       },
       "thumbnail_url": "https://media.coinarchives.com/d9b8e368aff8cff7b014648e35c95a98/img/heritage/3130/image36102.jpg",
       "median_weight_g": null,
-      "top_strike_score": null,
-      "top_surface_score": null,
-      "top_grade_numeric": null,
+      "top_strike_score": 5,
+      "top_surface_score": 4,
+      "top_grade_numeric": 5,
       "dominant_service": "ngc",
       "series": null,
       "date_struck": null,
@@ -5250,19 +5217,19 @@
       "ruler_rarity": null,
       "denomination": "AV Aureus",
       "metal": "gold",
-      "sale_count": 286,
-      "realized_count": 286,
+      "sale_count": 287,
+      "realized_count": 287,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 1140.0,
         "max": 312000.0
       },
-      "median_price_usd": 11700.0,
+      "median_price_usd": 12000.0,
       "last_sale_date": "2026-05-13",
       "grade_distribution": {
         "XF": 55,
-        "AU": 100,
+        "AU": 101,
         "VF": 50,
         "MS": 56,
         "F": 18,
@@ -5311,43 +5278,6 @@
       "top_strike_score": null,
       "top_surface_score": null,
       "top_grade_numeric": 64,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
-      "slug": "roman-antoninus-pius-av-aureus",
-      "category": "roman",
-      "ruler": "Antoninus Pius",
-      "ruler_normalized": "antoninus-pius",
-      "dynasty": "Nerva-Antonine",
-      "ruler_dates": "AD 138\u2013161",
-      "ruler_rarity": null,
-      "denomination": "AV Aureus",
-      "metal": "gold",
-      "sale_count": 185,
-      "realized_count": 185,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 1920.0,
-        "max": 26400.0
-      },
-      "median_price_usd": 5400.0,
-      "last_sale_date": "2026-05-13",
-      "grade_distribution": {
-        "VF": 33,
-        "XF": 54,
-        "AU": 60,
-        "F": 3,
-        "MS": 35
-      },
-      "thumbnail_url": "https://media.coinarchives.com/d2e8a9a023478598eed4d2f9be00f4b1/img/heritage/3132/image31035.jpg",
-      "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 5,
-      "top_grade_numeric": null,
       "dominant_service": "ngc",
       "series": null,
       "date_struck": null,
@@ -5524,17 +5454,17 @@
       "last_sale_date": "2026-04-29",
       "grade_distribution": {
         "G": 2,
-        "F": 12,
         "VF": 14,
         "XF": 12,
+        "F": 12,
         "MS": 1,
         "AU": 13
       },
       "thumbnail_url": "https://media.coinarchives.com/eb93ef56fba956d8e26b2199920841b5/img/ponterio/236/image44273.jpg",
       "median_weight_g": null,
       "top_strike_score": 5,
-      "top_surface_score": 2,
-      "top_grade_numeric": null,
+      "top_surface_score": 3,
+      "top_grade_numeric": 5,
       "dominant_service": "ngc",
       "series": null,
       "date_struck": null,
@@ -6170,6 +6100,43 @@
       "mint_mark": null
     },
     {
+      "slug": "roman-antoninus-pius-av-aureus",
+      "category": "roman",
+      "ruler": "Antoninus Pius",
+      "ruler_normalized": "antoninus-pius",
+      "dynasty": "Nerva-Antonine",
+      "ruler_dates": "AD 138\u2013161",
+      "ruler_rarity": null,
+      "denomination": "AV Aureus",
+      "metal": "gold",
+      "sale_count": 185,
+      "realized_count": 185,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 1920.0,
+        "max": 26400.0
+      },
+      "median_price_usd": 5400.0,
+      "last_sale_date": "2026-05-13",
+      "grade_distribution": {
+        "XF": 54,
+        "VF": 33,
+        "AU": 60,
+        "F": 3,
+        "MS": 35
+      },
+      "thumbnail_url": "https://media.coinarchives.com/d2e8a9a023478598eed4d2f9be00f4b1/img/heritage/3132/image31035.jpg",
+      "median_weight_g": null,
+      "top_strike_score": 5,
+      "top_surface_score": 5,
+      "top_grade_numeric": null,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
       "slug": "roman-diocletian-av-aureus",
       "category": "roman",
       "ruler": "Diocletian",
@@ -6636,8 +6603,8 @@
       "ruler_rarity": null,
       "denomination": "AV Nomisma",
       "metal": "unknown",
-      "sale_count": 93,
-      "realized_count": 93,
+      "sale_count": 94,
+      "realized_count": 94,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -6648,9 +6615,9 @@
       "last_sale_date": "2026-05-11",
       "grade_distribution": {
         "VF": 6,
-        "MS": 13,
         "XF": 21,
-        "AU": 53
+        "AU": 53,
+        "MS": 14
       },
       "thumbnail_url": "https://media.coinarchives.com/02385a490caad6388127ca6f539118a5/img/heritage/3132/image32141.jpg",
       "median_weight_g": null,
@@ -7089,9 +7056,9 @@
       },
       "thumbnail_url": "https://media.coinarchives.com/b0186c8028ddd29f388f2f87a9340b57/img/snmw/17/image11020.jpg",
       "median_weight_g": null,
-      "top_strike_score": 4,
+      "top_strike_score": 5,
       "top_surface_score": 5,
-      "top_grade_numeric": null,
+      "top_grade_numeric": 5,
       "dominant_service": "ngc",
       "series": null,
       "date_struck": null,
@@ -7190,9 +7157,9 @@
       "last_sale_date": "2026-04-29",
       "grade_distribution": {
         "MS": 20,
+        "AU": 25,
         "VF": 10,
         "XF": 20,
-        "AU": 25,
         "G": 2
       },
       "thumbnail_url": "https://media.coinarchives.com/320f3d8a32c19766f6fca2f75db1259c/img/heritage/3132/image31036.jpg",
@@ -7265,6 +7232,438 @@
         "F": 1
       },
       "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-2-6-9-0-32690167&w=120&h=300&it=product",
+      "median_weight_g": null,
+      "top_strike_score": null,
+      "top_surface_score": null,
+      "top_grade_numeric": null,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
+      "slug": "roman-lucius-verus-av-aureus",
+      "category": "roman",
+      "ruler": "Lucius Verus",
+      "ruler_normalized": "lucius-verus",
+      "dynasty": "Nerva-Antonine",
+      "ruler_dates": "AD 161\u2013169",
+      "ruler_rarity": null,
+      "denomination": "AV Aureus",
+      "metal": "gold",
+      "sale_count": 44,
+      "realized_count": 44,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 4560.0,
+        "max": 56400.0
+      },
+      "median_price_usd": 14100.0,
+      "last_sale_date": "2026-05-13",
+      "grade_distribution": {
+        "AU": 8,
+        "XF": 12,
+        "MS": 15,
+        "VF": 3,
+        "G": 6
+      },
+      "thumbnail_url": "https://media.coinarchives.com/d7a20c8c536a06d157a0eceb52dd2421/img/mdc/018/image00236.jpg",
+      "median_weight_g": null,
+      "top_strike_score": 5,
+      "top_surface_score": 4,
+      "top_grade_numeric": 5,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
+      "slug": "us-early-half-2025",
+      "category": "us",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "ruler_dates": null,
+      "ruler_rarity": null,
+      "denomination": "Early Half Dollar 2025",
+      "metal": "silver",
+      "sale_count": 2,
+      "realized_count": 2,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 312.0,
+        "max": 850.0
+      },
+      "median_price_usd": 581.0,
+      "last_sale_date": "2025-12-07",
+      "grade_distribution": {
+        "F": 1,
+        "VF": 1
+      },
+      "thumbnail_url": null,
+      "median_weight_g": null,
+      "top_strike_score": 5,
+      "top_surface_score": 4,
+      "top_grade_numeric": null,
+      "dominant_service": "ngc",
+      "series": "Early Half Dollar",
+      "date_struck": "2025",
+      "mint_mark": null
+    },
+    {
+      "slug": "byzantine-constans-ii-unknown",
+      "category": "byzantine",
+      "ruler": "Constans II",
+      "ruler_normalized": "constans-ii",
+      "dynasty": "Heraclian",
+      "ruler_dates": "AD 641\u2013668",
+      "ruler_rarity": "common",
+      "denomination": "Unknown",
+      "metal": "billon",
+      "sale_count": 8,
+      "realized_count": 8,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 149.0,
+        "max": 312.69
+      },
+      "median_price_usd": 204.0,
+      "last_sale_date": "2026-03-28",
+      "grade_distribution": {
+        "XF": 3,
+        "VF": 5
+      },
+      "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=1-9-3-2-3-19323199&w=120&h=300&it=product",
+      "median_weight_g": null,
+      "top_strike_score": 5,
+      "top_surface_score": 5,
+      "top_grade_numeric": null,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
+      "slug": "roman-vitellius-ar-tetradrachm",
+      "category": "roman",
+      "ruler": "Vitellius",
+      "ruler_normalized": "vitellius",
+      "dynasty": "Year of Four Emperors",
+      "ruler_dates": "AD 69",
+      "ruler_rarity": "scarce",
+      "denomination": "AR Tetradrachm",
+      "metal": "silver",
+      "sale_count": 3,
+      "realized_count": 3,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 288.0,
+        "max": 414.8
+      },
+      "median_price_usd": 340.0,
+      "last_sale_date": "2026-03-15",
+      "grade_distribution": {
+        "VF": 2,
+        "F": 1
+      },
+      "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-3-8-3-2-33832197&w=120&h=300&it=product",
+      "median_weight_g": null,
+      "top_strike_score": 4,
+      "top_surface_score": 4,
+      "top_grade_numeric": 4,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
+      "slug": "roman-hadrian-ar-drachm",
+      "category": "roman",
+      "ruler": "Hadrian",
+      "ruler_normalized": "hadrian",
+      "dynasty": "Nerva-Antonine",
+      "ruler_dates": "AD 117\u2013138",
+      "ruler_rarity": null,
+      "denomination": "AR Drachm",
+      "metal": "silver",
+      "sale_count": 32,
+      "realized_count": 32,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 94.0,
+        "max": 780.0
+      },
+      "median_price_usd": 240.0,
+      "last_sale_date": "2026-04-06",
+      "grade_distribution": {
+        "F": 16,
+        "XF": 5,
+        "VF": 7,
+        "VG": 3,
+        "AG": 1
+      },
+      "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-8-3-6-4-28364625&w=120&h=300&it=product",
+      "median_weight_g": null,
+      "top_strike_score": 5,
+      "top_surface_score": 3,
+      "top_grade_numeric": null,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
+      "slug": "roman-vitellius-ar-denarius",
+      "category": "roman",
+      "ruler": "Vitellius",
+      "ruler_normalized": "vitellius",
+      "dynasty": "Year of Four Emperors",
+      "ruler_dates": "AD 69",
+      "ruler_rarity": "scarce",
+      "denomination": "AR Denarius",
+      "metal": "silver",
+      "sale_count": 166,
+      "realized_count": 166,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 99.0,
+        "max": 5612.0
+      },
+      "median_price_usd": 384.0,
+      "last_sale_date": "2026-04-29",
+      "grade_distribution": {
+        "XF": 22,
+        "VF": 41,
+        "AU": 11,
+        "F": 64,
+        "VG": 25,
+        "G": 1,
+        "MS": 2
+      },
+      "thumbnail_url": "https://media.coinarchives.com/11046a6139291af98db53a234e627100/img/heritage/3132/image32106.jpg",
+      "median_weight_g": null,
+      "top_strike_score": 4,
+      "top_surface_score": 5,
+      "top_grade_numeric": 4,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
+      "slug": "byzantine-constantine-v-unknown",
+      "category": "byzantine",
+      "ruler": "Constantine V",
+      "ruler_normalized": "constantine-v",
+      "dynasty": "Isaurian",
+      "ruler_dates": "AD 741\u2013775",
+      "ruler_rarity": "common",
+      "denomination": "Unknown",
+      "metal": "silver",
+      "sale_count": 56,
+      "realized_count": 56,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 94.0,
+        "max": 48000.0
+      },
+      "median_price_usd": 252.0,
+      "last_sale_date": "2026-02-23",
+      "grade_distribution": {
+        "XF": 28,
+        "VF": 20,
+        "AU": 3,
+        "F": 5
+      },
+      "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-4-4-6-7-24467079&w=120&h=300&it=product",
+      "median_weight_g": null,
+      "top_strike_score": 5,
+      "top_surface_score": 2,
+      "top_grade_numeric": null,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
+      "slug": "roman-decius-unknown",
+      "category": "roman",
+      "ruler": "Decius",
+      "ruler_normalized": "decius",
+      "dynasty": "Crisis of the Third Century",
+      "ruler_dates": "AD 249\u2013251",
+      "ruler_rarity": "scarce",
+      "denomination": "Unknown",
+      "metal": "bronze",
+      "sale_count": 3,
+      "realized_count": 3,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 20.0,
+        "max": 220.0
+      },
+      "median_price_usd": 130.0,
+      "last_sale_date": "2026-03-15",
+      "grade_distribution": {
+        "F": 2,
+        "XF": 1
+      },
+      "thumbnail_url": "https://media.coinarchives.com/6f101a68848bb0fdbdba63ad839baba6/img/heritage/61605/image23188.jpg",
+      "median_weight_g": null,
+      "top_strike_score": 5,
+      "top_surface_score": 4,
+      "top_grade_numeric": 5,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
+      "slug": "egyptian-cleopatra-vii-ar-denarius",
+      "category": "egyptian",
+      "ruler": "Cleopatra VII",
+      "ruler_normalized": "cleopatra-vii",
+      "dynasty": "Ptolemaic",
+      "ruler_dates": null,
+      "ruler_rarity": null,
+      "denomination": "AR Denarius",
+      "metal": "silver",
+      "sale_count": 60,
+      "realized_count": 60,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 900.0,
+        "max": 21600.0
+      },
+      "median_price_usd": 5220.0,
+      "last_sale_date": "2026-01-23",
+      "grade_distribution": {
+        "AU": 4,
+        "XF": 15,
+        "VF": 19,
+        "F": 16,
+        "VG": 5,
+        "AG": 1
+      },
+      "thumbnail_url": "https://media.coinarchives.com/276a5b0ee823ba4dc42a997d47cb4c2b/img/heritage/3130/image36046.jpg",
+      "median_weight_g": null,
+      "top_strike_score": 5,
+      "top_surface_score": 3,
+      "top_grade_numeric": 5,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
+      "slug": "roman-titus-ar-denarius",
+      "category": "roman",
+      "ruler": "Titus",
+      "ruler_normalized": "titus",
+      "dynasty": "Flavian",
+      "ruler_dates": "AD 79\u201381",
+      "ruler_rarity": null,
+      "denomination": "AR Denarius",
+      "metal": "silver",
+      "sale_count": 269,
+      "realized_count": 269,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 89.0,
+        "max": 10800.0
+      },
+      "median_price_usd": 360.0,
+      "last_sale_date": "2026-03-28",
+      "grade_distribution": {
+        "F": 81,
+        "XF": 65,
+        "AU": 28,
+        "VF": 80,
+        "VG": 13,
+        "MS": 2
+      },
+      "thumbnail_url": "https://media.coinarchives.com/03f848d13954c1ec2795e59ed6a0bd67/img/ponterio/236/image45401.jpg",
+      "median_weight_g": null,
+      "top_strike_score": 5,
+      "top_surface_score": 3,
+      "top_grade_numeric": null,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
+      "slug": "roman-constantine-i-av-aureus",
+      "category": "roman",
+      "ruler": "Constantine I",
+      "ruler_normalized": "constantine-i",
+      "dynasty": "Constantinian",
+      "ruler_dates": "AD 307\u2013337",
+      "ruler_rarity": null,
+      "denomination": "AV Aureus",
+      "metal": "gold",
+      "sale_count": 9,
+      "realized_count": 9,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 3000.0,
+        "max": 33600.0
+      },
+      "median_price_usd": 13200.0,
+      "last_sale_date": "2026-04-29",
+      "grade_distribution": {
+        "XF": 3,
+        "F": 1,
+        "MS": 3,
+        "AU": 2
+      },
+      "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-0-1-19501575&w=120&h=300&it=product",
+      "median_weight_g": null,
+      "top_strike_score": 5,
+      "top_surface_score": 2,
+      "top_grade_numeric": 5,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
+      "slug": "roman-diocletian-ar-tetradrachm",
+      "category": "roman",
+      "ruler": "Diocletian",
+      "ruler_normalized": "diocletian",
+      "dynasty": "Tetrarchy",
+      "ruler_dates": "AD 284\u2013305",
+      "ruler_rarity": null,
+      "denomination": "AR Tetradrachm",
+      "metal": "silver",
+      "sale_count": 24,
+      "realized_count": 24,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 41.0,
+        "max": 576.0
+      },
+      "median_price_usd": 111.5,
+      "last_sale_date": "2025-12-07",
+      "grade_distribution": {
+        "XF": 17,
+        "AU": 5,
+        "VF": 2
+      },
+      "thumbnail_url": "https://media.coinarchives.com/0344acbe902b02cbdde50f603edb5c9d/img/heritage/61574/image24006.jpg",
       "median_weight_g": null,
       "top_strike_score": null,
       "top_surface_score": null,
@@ -7693,40 +8092,6 @@
       "dominant_service": "ngc",
       "series": null,
       "date_struck": null,
-      "mint_mark": null
-    },
-    {
-      "slug": "us-early-half-2025",
-      "category": "us",
-      "ruler": null,
-      "ruler_normalized": null,
-      "dynasty": null,
-      "ruler_dates": null,
-      "ruler_rarity": null,
-      "denomination": "Early Half Dollar 2025",
-      "metal": "silver",
-      "sale_count": 2,
-      "realized_count": 2,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 312.0,
-        "max": 850.0
-      },
-      "median_price_usd": 581.0,
-      "last_sale_date": "2025-12-07",
-      "grade_distribution": {
-        "F": 1,
-        "VF": 1
-      },
-      "thumbnail_url": null,
-      "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 4,
-      "top_grade_numeric": null,
-      "dominant_service": "ngc",
-      "series": "Early Half Dollar",
-      "date_struck": "2025",
       "mint_mark": null
     },
     {
@@ -8707,7 +9072,7 @@
         "max": 216000.0
       },
       "median_price_usd": 960.0,
-      "last_sale_date": "2026-05-21",
+      "last_sale_date": "2026-05-22",
       "grade_distribution": {
         "AU": 84,
         "MS": 162,
@@ -8942,42 +9307,6 @@
       "mint_mark": null
     },
     {
-      "slug": "roman-constantine-i-av-aureus",
-      "category": "roman",
-      "ruler": "Constantine I",
-      "ruler_normalized": "constantine-i",
-      "dynasty": "Constantinian",
-      "ruler_dates": "AD 307\u2013337",
-      "ruler_rarity": null,
-      "denomination": "AV Aureus",
-      "metal": "gold",
-      "sale_count": 9,
-      "realized_count": 9,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 3000.0,
-        "max": 33600.0
-      },
-      "median_price_usd": 13200.0,
-      "last_sale_date": "2026-04-29",
-      "grade_distribution": {
-        "XF": 3,
-        "F": 1,
-        "MS": 3,
-        "AU": 2
-      },
-      "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-0-1-19501575&w=120&h=300&it=product",
-      "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 2,
-      "top_grade_numeric": 5,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
       "slug": "roman-honorius-av-aureus",
       "category": "roman",
       "ruler": "Honorius",
@@ -9029,7 +9358,7 @@
         "max": 1950.0
       },
       "median_price_usd": 1950.0,
-      "last_sale_date": "2026-05-21",
+      "last_sale_date": "2026-05-22",
       "grade_distribution": {
         "P": 1
       },
@@ -9062,7 +9391,7 @@
         "max": 5040.0
       },
       "median_price_usd": 528.0,
-      "last_sale_date": "2026-05-21",
+      "last_sale_date": "2026-05-22",
       "grade_distribution": {
         "P": 1,
         "AU": 7,
@@ -9102,7 +9431,7 @@
         "max": 3240.0
       },
       "median_price_usd": 504.0,
-      "last_sale_date": "2026-05-21",
+      "last_sale_date": "2026-05-22",
       "grade_distribution": {
         "F": 1,
         "AU": 1,
@@ -9139,7 +9468,7 @@
         "max": 50400.0
       },
       "median_price_usd": 1680.0,
-      "last_sale_date": "2026-05-21",
+      "last_sale_date": "2026-05-22",
       "grade_distribution": {
         "G": 2,
         "VF": 10,
@@ -10383,362 +10712,6 @@
       "mint_mark": null
     },
     {
-      "slug": "roman-trajan-ar-denarius",
-      "category": "roman",
-      "ruler": "Trajan",
-      "ruler_normalized": "trajan",
-      "dynasty": "Nerva-Antonine",
-      "ruler_dates": "AD 98\u2013117",
-      "ruler_rarity": null,
-      "denomination": "AR Denarius",
-      "metal": "silver",
-      "sale_count": 643,
-      "realized_count": 643,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 55.0,
-        "max": 10800.0
-      },
-      "median_price_usd": 204.0,
-      "last_sale_date": "2026-03-15",
-      "grade_distribution": {
-        "VF": 252,
-        "AU": 127,
-        "XF": 225,
-        "F": 25,
-        "VG": 2,
-        "MS": 12
-      },
-      "thumbnail_url": "https://media.coinarchives.com/c9360328b88df3339e81973fc0cdfd42/img/heritage/61605/image23072.jpg",
-      "median_weight_g": null,
-      "top_strike_score": null,
-      "top_surface_score": null,
-      "top_grade_numeric": null,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
-      "slug": "roman-decius-unknown",
-      "category": "roman",
-      "ruler": "Decius",
-      "ruler_normalized": "decius",
-      "dynasty": "Crisis of the Third Century",
-      "ruler_dates": "AD 249\u2013251",
-      "ruler_rarity": "scarce",
-      "denomination": "Unknown",
-      "metal": "silver",
-      "sale_count": 3,
-      "realized_count": 3,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 20.0,
-        "max": 220.0
-      },
-      "median_price_usd": 130.0,
-      "last_sale_date": "2026-03-15",
-      "grade_distribution": {
-        "XF": 1,
-        "F": 2
-      },
-      "thumbnail_url": "https://media.coinarchives.com/6f101a68848bb0fdbdba63ad839baba6/img/heritage/61605/image23188.jpg",
-      "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 4,
-      "top_grade_numeric": 5,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
-      "slug": "greek-syracuse-ar-drachm",
-      "category": "greek",
-      "ruler": "Syracuse",
-      "ruler_normalized": "syracuse",
-      "dynasty": "City-State",
-      "ruler_dates": null,
-      "ruler_rarity": null,
-      "denomination": "AR Drachm",
-      "metal": "gold",
-      "sale_count": 1,
-      "realized_count": 1,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 65000.0,
-        "max": 65000.0
-      },
-      "median_price_usd": 65000.0,
-      "last_sale_date": "2026-01-12",
-      "grade_distribution": {
-        "MS": 1
-      },
-      "thumbnail_url": "https://media.coinarchives.com/f7990ef78b3ada9944436af97cad88e2/img/heritage/3129/image33002.jpg",
-      "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 5,
-      "top_grade_numeric": 5,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
-      "slug": "roman-nerva-av-aureus",
-      "category": "roman",
-      "ruler": "Nerva",
-      "ruler_normalized": "nerva",
-      "dynasty": "Nerva-Antonine",
-      "ruler_dates": "AD 96\u201398",
-      "ruler_rarity": null,
-      "denomination": "AV Aureus",
-      "metal": "gold",
-      "sale_count": 14,
-      "realized_count": 14,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 3761.28,
-        "max": 72000.0
-      },
-      "median_price_usd": 8700.0,
-      "last_sale_date": "2026-01-12",
-      "grade_distribution": {
-        "MS": 2,
-        "XF": 5,
-        "VF": 4,
-        "F": 3
-      },
-      "thumbnail_url": "https://media.coinarchives.com/958ef515928d7d08a7fcede5dc90772a/img/heritage/3129/image34072.jpg",
-      "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 4,
-      "top_grade_numeric": null,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
-      "slug": "roman-caracalla-av-aureus",
-      "category": "roman",
-      "ruler": "Caracalla",
-      "ruler_normalized": "caracalla",
-      "dynasty": "Severan",
-      "ruler_dates": "AD 198\u2013217",
-      "ruler_rarity": null,
-      "denomination": "AV Aureus",
-      "metal": "gold",
-      "sale_count": 28,
-      "realized_count": 28,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 2640.0,
-        "max": 72000.0
-      },
-      "median_price_usd": 18600.0,
-      "last_sale_date": "2026-01-12",
-      "grade_distribution": {
-        "MS": 6,
-        "VF": 6,
-        "AU": 8,
-        "XF": 5,
-        "F": 2,
-        "G": 1
-      },
-      "thumbnail_url": "https://media.coinarchives.com/01e3a2b9117b7d64ebc72532836b3085/img/heritage/3129/image34090.jpg",
-      "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 4,
-      "top_grade_numeric": null,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
-      "slug": "roman-maximinus-i-av-aureus",
-      "category": "roman",
-      "ruler": "Maximinus I",
-      "ruler_normalized": "maximinus-i",
-      "dynasty": "Crisis of the Third Century",
-      "ruler_dates": "AD 235\u2013238",
-      "ruler_rarity": "scarce",
-      "denomination": "AV Aureus",
-      "metal": "gold",
-      "sale_count": 9,
-      "realized_count": 9,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 5040.0,
-        "max": 408000.0
-      },
-      "median_price_usd": 16800.0,
-      "last_sale_date": "2026-01-12",
-      "grade_distribution": {
-        "AU": 4,
-        "XF": 3,
-        "MS": 2
-      },
-      "thumbnail_url": "https://media.coinarchives.com/5116ea68ecc0fee4ab3e57b52c63d06a/img/heritage/3129/image34099.jpg",
-      "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 4,
-      "top_grade_numeric": null,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
-      "slug": "roman-lucius-verus-av-aureus",
-      "category": "roman",
-      "ruler": "Lucius Verus",
-      "ruler_normalized": "lucius-verus",
-      "dynasty": "Nerva-Antonine",
-      "ruler_dates": "AD 161\u2013169",
-      "ruler_rarity": null,
-      "denomination": "AV Aureus",
-      "metal": "gold",
-      "sale_count": 44,
-      "realized_count": 44,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 4560.0,
-        "max": 56400.0
-      },
-      "median_price_usd": 14100.0,
-      "last_sale_date": "2026-05-13",
-      "grade_distribution": {
-        "AU": 8,
-        "XF": 12,
-        "MS": 15,
-        "VF": 3,
-        "G": 6
-      },
-      "thumbnail_url": "https://media.coinarchives.com/d7a20c8c536a06d157a0eceb52dd2421/img/mdc/018/image00236.jpg",
-      "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 4,
-      "top_grade_numeric": 5,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
-      "slug": "greek-ptolemy-ii-unknown",
-      "category": "greek",
-      "ruler": "Ptolemy II",
-      "ruler_normalized": "ptolemy-ii",
-      "dynasty": "Ptolemaic",
-      "ruler_dates": null,
-      "ruler_rarity": null,
-      "denomination": "Unknown",
-      "metal": "silver",
-      "sale_count": 1,
-      "realized_count": 1,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 4100.0,
-        "max": 4100.0
-      },
-      "median_price_usd": 4100.0,
-      "last_sale_date": "2026-03-26",
-      "grade_distribution": {
-        "XF": 1
-      },
-      "thumbnail_url": "https://media.coinarchives.com/ba08542ba8fb360d1a3394f43d072b62/img/ponterio/stacksbowers_mar26/image19041.jpg",
-      "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 1,
-      "top_grade_numeric": null,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
-      "slug": "roman-vespasian-ae-dupondius",
-      "category": "roman",
-      "ruler": "Vespasian",
-      "ruler_normalized": "vespasian",
-      "dynasty": "Flavian",
-      "ruler_dates": "AD 69\u201379",
-      "ruler_rarity": null,
-      "denomination": "AE Dupondius",
-      "metal": "bronze",
-      "sale_count": 29,
-      "realized_count": 29,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 89.0,
-        "max": 3172.0
-      },
-      "median_price_usd": 252.0,
-      "last_sale_date": "2026-03-15",
-      "grade_distribution": {
-        "VF": 12,
-        "AU": 3,
-        "XF": 7,
-        "F": 7
-      },
-      "thumbnail_url": "https://media.coinarchives.com/e55fc49a916a3225fcf6380bacc31908/img/heritage/61605/image23058.jpg",
-      "median_weight_g": null,
-      "top_strike_score": 4,
-      "top_surface_score": 3,
-      "top_grade_numeric": 4,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
-      "slug": "roman-vitellius-av-aureus",
-      "category": "roman",
-      "ruler": "Vitellius",
-      "ruler_normalized": "vitellius",
-      "dynasty": "Year of Four Emperors",
-      "ruler_dates": "AD 69",
-      "ruler_rarity": "scarce",
-      "denomination": "AV Aureus",
-      "metal": "gold",
-      "sale_count": 17,
-      "realized_count": 17,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 4320.0,
-        "max": 120000.0
-      },
-      "median_price_usd": 19800.0,
-      "last_sale_date": "2026-01-12",
-      "grade_distribution": {
-        "VF": 11,
-        "AU": 1,
-        "XF": 2,
-        "F": 3
-      },
-      "thumbnail_url": "https://media.coinarchives.com/a3894acab2997e7dd9dd03ed2d8543e5/img/heritage/3129/image34053.jpg",
-      "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 3,
-      "top_grade_numeric": 5,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
       "slug": "byzantine-basil-i-unknown",
       "category": "byzantine",
       "ruler": "Basil I",
@@ -10919,6 +10892,291 @@
       "mint_mark": null
     },
     {
+      "slug": "roman-trajan-ar-denarius",
+      "category": "roman",
+      "ruler": "Trajan",
+      "ruler_normalized": "trajan",
+      "dynasty": "Nerva-Antonine",
+      "ruler_dates": "AD 98\u2013117",
+      "ruler_rarity": null,
+      "denomination": "AR Denarius",
+      "metal": "silver",
+      "sale_count": 643,
+      "realized_count": 643,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 55.0,
+        "max": 10800.0
+      },
+      "median_price_usd": 204.0,
+      "last_sale_date": "2026-03-15",
+      "grade_distribution": {
+        "VF": 252,
+        "AU": 127,
+        "XF": 225,
+        "F": 25,
+        "VG": 2,
+        "MS": 12
+      },
+      "thumbnail_url": "https://media.coinarchives.com/c9360328b88df3339e81973fc0cdfd42/img/heritage/61605/image23072.jpg",
+      "median_weight_g": null,
+      "top_strike_score": null,
+      "top_surface_score": null,
+      "top_grade_numeric": null,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
+      "slug": "greek-syracuse-ar-drachm",
+      "category": "greek",
+      "ruler": "Syracuse",
+      "ruler_normalized": "syracuse",
+      "dynasty": "City-State",
+      "ruler_dates": null,
+      "ruler_rarity": null,
+      "denomination": "AR Drachm",
+      "metal": "gold",
+      "sale_count": 1,
+      "realized_count": 1,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 65000.0,
+        "max": 65000.0
+      },
+      "median_price_usd": 65000.0,
+      "last_sale_date": "2026-01-12",
+      "grade_distribution": {
+        "MS": 1
+      },
+      "thumbnail_url": "https://media.coinarchives.com/f7990ef78b3ada9944436af97cad88e2/img/heritage/3129/image33002.jpg",
+      "median_weight_g": null,
+      "top_strike_score": 5,
+      "top_surface_score": 5,
+      "top_grade_numeric": 5,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
+      "slug": "roman-nerva-av-aureus",
+      "category": "roman",
+      "ruler": "Nerva",
+      "ruler_normalized": "nerva",
+      "dynasty": "Nerva-Antonine",
+      "ruler_dates": "AD 96\u201398",
+      "ruler_rarity": null,
+      "denomination": "AV Aureus",
+      "metal": "gold",
+      "sale_count": 14,
+      "realized_count": 14,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 3761.28,
+        "max": 72000.0
+      },
+      "median_price_usd": 8700.0,
+      "last_sale_date": "2026-01-12",
+      "grade_distribution": {
+        "MS": 2,
+        "XF": 5,
+        "VF": 4,
+        "F": 3
+      },
+      "thumbnail_url": "https://media.coinarchives.com/958ef515928d7d08a7fcede5dc90772a/img/heritage/3129/image34072.jpg",
+      "median_weight_g": null,
+      "top_strike_score": 5,
+      "top_surface_score": 4,
+      "top_grade_numeric": null,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
+      "slug": "roman-caracalla-av-aureus",
+      "category": "roman",
+      "ruler": "Caracalla",
+      "ruler_normalized": "caracalla",
+      "dynasty": "Severan",
+      "ruler_dates": "AD 198\u2013217",
+      "ruler_rarity": null,
+      "denomination": "AV Aureus",
+      "metal": "gold",
+      "sale_count": 28,
+      "realized_count": 28,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 2640.0,
+        "max": 72000.0
+      },
+      "median_price_usd": 18600.0,
+      "last_sale_date": "2026-01-12",
+      "grade_distribution": {
+        "MS": 6,
+        "VF": 6,
+        "AU": 8,
+        "XF": 5,
+        "F": 2,
+        "G": 1
+      },
+      "thumbnail_url": "https://media.coinarchives.com/01e3a2b9117b7d64ebc72532836b3085/img/heritage/3129/image34090.jpg",
+      "median_weight_g": null,
+      "top_strike_score": 5,
+      "top_surface_score": 4,
+      "top_grade_numeric": null,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
+      "slug": "roman-maximinus-i-av-aureus",
+      "category": "roman",
+      "ruler": "Maximinus I",
+      "ruler_normalized": "maximinus-i",
+      "dynasty": "Crisis of the Third Century",
+      "ruler_dates": "AD 235\u2013238",
+      "ruler_rarity": "scarce",
+      "denomination": "AV Aureus",
+      "metal": "gold",
+      "sale_count": 9,
+      "realized_count": 9,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 5040.0,
+        "max": 408000.0
+      },
+      "median_price_usd": 16800.0,
+      "last_sale_date": "2026-01-12",
+      "grade_distribution": {
+        "AU": 4,
+        "XF": 3,
+        "MS": 2
+      },
+      "thumbnail_url": "https://media.coinarchives.com/5116ea68ecc0fee4ab3e57b52c63d06a/img/heritage/3129/image34099.jpg",
+      "median_weight_g": null,
+      "top_strike_score": 5,
+      "top_surface_score": 4,
+      "top_grade_numeric": null,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
+      "slug": "greek-ptolemy-ii-unknown",
+      "category": "greek",
+      "ruler": "Ptolemy II",
+      "ruler_normalized": "ptolemy-ii",
+      "dynasty": "Ptolemaic",
+      "ruler_dates": null,
+      "ruler_rarity": null,
+      "denomination": "Unknown",
+      "metal": "silver",
+      "sale_count": 1,
+      "realized_count": 1,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 4100.0,
+        "max": 4100.0
+      },
+      "median_price_usd": 4100.0,
+      "last_sale_date": "2026-03-26",
+      "grade_distribution": {
+        "XF": 1
+      },
+      "thumbnail_url": "https://media.coinarchives.com/ba08542ba8fb360d1a3394f43d072b62/img/ponterio/stacksbowers_mar26/image19041.jpg",
+      "median_weight_g": null,
+      "top_strike_score": 5,
+      "top_surface_score": 1,
+      "top_grade_numeric": null,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
+      "slug": "roman-vespasian-ae-dupondius",
+      "category": "roman",
+      "ruler": "Vespasian",
+      "ruler_normalized": "vespasian",
+      "dynasty": "Flavian",
+      "ruler_dates": "AD 69\u201379",
+      "ruler_rarity": null,
+      "denomination": "AE Dupondius",
+      "metal": "bronze",
+      "sale_count": 29,
+      "realized_count": 29,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 89.0,
+        "max": 3172.0
+      },
+      "median_price_usd": 252.0,
+      "last_sale_date": "2026-03-15",
+      "grade_distribution": {
+        "VF": 12,
+        "AU": 3,
+        "XF": 7,
+        "F": 7
+      },
+      "thumbnail_url": "https://media.coinarchives.com/e55fc49a916a3225fcf6380bacc31908/img/heritage/61605/image23058.jpg",
+      "median_weight_g": null,
+      "top_strike_score": 4,
+      "top_surface_score": 3,
+      "top_grade_numeric": 4,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
+      "slug": "roman-vitellius-av-aureus",
+      "category": "roman",
+      "ruler": "Vitellius",
+      "ruler_normalized": "vitellius",
+      "dynasty": "Year of Four Emperors",
+      "ruler_dates": "AD 69",
+      "ruler_rarity": "scarce",
+      "denomination": "AV Aureus",
+      "metal": "gold",
+      "sale_count": 17,
+      "realized_count": 17,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 4320.0,
+        "max": 120000.0
+      },
+      "median_price_usd": 19800.0,
+      "last_sale_date": "2026-01-12",
+      "grade_distribution": {
+        "VF": 11,
+        "AU": 1,
+        "XF": 2,
+        "F": 3
+      },
+      "thumbnail_url": "https://media.coinarchives.com/a3894acab2997e7dd9dd03ed2d8543e5/img/heritage/3129/image34053.jpg",
+      "median_weight_g": null,
+      "top_strike_score": 5,
+      "top_surface_score": 3,
+      "top_grade_numeric": 5,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
       "slug": "roman-geta-ae-18",
       "category": "roman",
       "ruler": "Geta",
@@ -10983,44 +11241,6 @@
       "top_strike_score": 3,
       "top_surface_score": 4,
       "top_grade_numeric": null,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
-      "slug": "egyptian-cleopatra-vii-ar-denarius",
-      "category": "egyptian",
-      "ruler": "Cleopatra VII",
-      "ruler_normalized": "cleopatra-vii",
-      "dynasty": "Ptolemaic",
-      "ruler_dates": null,
-      "ruler_rarity": null,
-      "denomination": "AR Denarius",
-      "metal": "silver",
-      "sale_count": 60,
-      "realized_count": 60,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 900.0,
-        "max": 21600.0
-      },
-      "median_price_usd": 5220.0,
-      "last_sale_date": "2026-01-23",
-      "grade_distribution": {
-        "AU": 4,
-        "XF": 15,
-        "VF": 19,
-        "F": 16,
-        "VG": 5,
-        "AG": 1
-      },
-      "thumbnail_url": "https://media.coinarchives.com/276a5b0ee823ba4dc42a997d47cb4c2b/img/heritage/3130/image36046.jpg",
-      "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 3,
-      "top_grade_numeric": 5,
       "dominant_service": "ngc",
       "series": null,
       "date_struck": null,
@@ -11775,44 +11995,6 @@
       "median_weight_g": null,
       "top_strike_score": null,
       "top_surface_score": null,
-      "top_grade_numeric": null,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
-      "slug": "roman-titus-ar-denarius",
-      "category": "roman",
-      "ruler": "Titus",
-      "ruler_normalized": "titus",
-      "dynasty": "Flavian",
-      "ruler_dates": "AD 79\u201381",
-      "ruler_rarity": null,
-      "denomination": "AR Denarius",
-      "metal": "silver",
-      "sale_count": 269,
-      "realized_count": 269,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 89.0,
-        "max": 10800.0
-      },
-      "median_price_usd": 360.0,
-      "last_sale_date": "2026-03-28",
-      "grade_distribution": {
-        "XF": 65,
-        "F": 81,
-        "AU": 28,
-        "VF": 80,
-        "VG": 13,
-        "MS": 2
-      },
-      "thumbnail_url": "https://media.coinarchives.com/03f848d13954c1ec2795e59ed6a0bd67/img/ponterio/236/image45401.jpg",
-      "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 3,
       "top_grade_numeric": null,
       "dominant_service": "ngc",
       "series": null,
@@ -13847,6 +14029,39 @@
       "mint_mark": null
     },
     {
+      "slug": "other-ae-22",
+      "category": "other",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "ruler_dates": null,
+      "ruler_rarity": null,
+      "denomination": "AE 22",
+      "metal": "bronze",
+      "sale_count": 1,
+      "realized_count": 1,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 404.35,
+        "max": 404.35
+      },
+      "median_price_usd": 404.35,
+      "last_sale_date": "2025-11-22",
+      "grade_distribution": {
+        "AU": 1
+      },
+      "thumbnail_url": null,
+      "median_weight_g": null,
+      "top_strike_score": null,
+      "top_surface_score": null,
+      "top_grade_numeric": null,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
       "slug": "other-ae-4",
       "category": "other",
       "ruler": null,
@@ -14695,40 +14910,6 @@
       "mint_mark": null
     },
     {
-      "slug": "roman-vitellius-ar-tetradrachm",
-      "category": "roman",
-      "ruler": "Vitellius",
-      "ruler_normalized": "vitellius",
-      "dynasty": "Year of Four Emperors",
-      "ruler_dates": "AD 69",
-      "ruler_rarity": "scarce",
-      "denomination": "AR Tetradrachm",
-      "metal": "silver",
-      "sale_count": 3,
-      "realized_count": 3,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 288.0,
-        "max": 414.8
-      },
-      "median_price_usd": 340.0,
-      "last_sale_date": "2026-03-15",
-      "grade_distribution": {
-        "VF": 2,
-        "F": 1
-      },
-      "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-3-8-3-2-33832197&w=120&h=300&it=product",
-      "median_weight_g": null,
-      "top_strike_score": 4,
-      "top_surface_score": 4,
-      "top_grade_numeric": 4,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
       "slug": "egyptian-ptolemaic-generic-ar-hemidrachm",
       "category": "egyptian",
       "ruler": "Ptolemaic (generic)",
@@ -15200,45 +15381,6 @@
       "top_strike_score": 5,
       "top_surface_score": 4,
       "top_grade_numeric": 5,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
-      "slug": "roman-vitellius-ar-denarius",
-      "category": "roman",
-      "ruler": "Vitellius",
-      "ruler_normalized": "vitellius",
-      "dynasty": "Year of Four Emperors",
-      "ruler_dates": "AD 69",
-      "ruler_rarity": "scarce",
-      "denomination": "AR Denarius",
-      "metal": "silver",
-      "sale_count": 166,
-      "realized_count": 166,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 99.0,
-        "max": 5612.0
-      },
-      "median_price_usd": 384.0,
-      "last_sale_date": "2026-04-29",
-      "grade_distribution": {
-        "XF": 22,
-        "VF": 41,
-        "AU": 11,
-        "F": 64,
-        "VG": 25,
-        "G": 1,
-        "MS": 2
-      },
-      "thumbnail_url": "https://media.coinarchives.com/11046a6139291af98db53a234e627100/img/heritage/3132/image32106.jpg",
-      "median_weight_g": null,
-      "top_strike_score": 4,
-      "top_surface_score": 5,
-      "top_grade_numeric": 4,
       "dominant_service": "ngc",
       "series": null,
       "date_struck": null,
@@ -20276,41 +20418,6 @@
         "VF": 1
       },
       "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-4-0-2-4-34024139&w=120&h=300&it=product",
-      "median_weight_g": null,
-      "top_strike_score": null,
-      "top_surface_score": null,
-      "top_grade_numeric": null,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
-      "slug": "roman-diocletian-ar-tetradrachm",
-      "category": "roman",
-      "ruler": "Diocletian",
-      "ruler_normalized": "diocletian",
-      "dynasty": "Tetrarchy",
-      "ruler_dates": "AD 284\u2013305",
-      "ruler_rarity": null,
-      "denomination": "AR Tetradrachm",
-      "metal": "silver",
-      "sale_count": 24,
-      "realized_count": 24,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 41.0,
-        "max": 576.0
-      },
-      "median_price_usd": 111.5,
-      "last_sale_date": "2025-12-07",
-      "grade_distribution": {
-        "XF": 17,
-        "AU": 5,
-        "VF": 2
-      },
-      "thumbnail_url": "https://media.coinarchives.com/0344acbe902b02cbdde50f603edb5c9d/img/heritage/61574/image24006.jpg",
       "median_weight_g": null,
       "top_strike_score": null,
       "top_surface_score": null,
@@ -25964,42 +26071,6 @@
       "mint_mark": null
     },
     {
-      "slug": "byzantine-constantine-v-unknown",
-      "category": "byzantine",
-      "ruler": "Constantine V",
-      "ruler_normalized": "constantine-v",
-      "dynasty": "Isaurian",
-      "ruler_dates": "AD 741\u2013775",
-      "ruler_rarity": "common",
-      "denomination": "Unknown",
-      "metal": "silver",
-      "sale_count": 56,
-      "realized_count": 56,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 94.0,
-        "max": 48000.0
-      },
-      "median_price_usd": 252.0,
-      "last_sale_date": "2026-02-23",
-      "grade_distribution": {
-        "XF": 28,
-        "VF": 20,
-        "AU": 3,
-        "F": 5
-      },
-      "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-4-4-6-7-24467079&w=120&h=300&it=product",
-      "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 2,
-      "top_grade_numeric": null,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
       "slug": "us-walking-liberty-half-1917-s",
       "category": "us",
       "ruler": null,
@@ -27537,40 +27608,6 @@
       "mint_mark": null
     },
     {
-      "slug": "byzantine-constans-ii-unknown",
-      "category": "byzantine",
-      "ruler": "Constans II",
-      "ruler_normalized": "constans-ii",
-      "dynasty": "Heraclian",
-      "ruler_dates": "AD 641\u2013668",
-      "ruler_rarity": "common",
-      "denomination": "Unknown",
-      "metal": "billon",
-      "sale_count": 8,
-      "realized_count": 8,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 149.0,
-        "max": 312.69
-      },
-      "median_price_usd": 204.0,
-      "last_sale_date": "2026-03-28",
-      "grade_distribution": {
-        "XF": 3,
-        "VF": 5
-      },
-      "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=1-9-3-2-3-19323199&w=120&h=300&it=product",
-      "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 5,
-      "top_grade_numeric": null,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
       "slug": "roman-diocletian-ar-quinarius",
       "category": "roman",
       "ruler": "Diocletian",
@@ -27842,43 +27879,6 @@
       "median_weight_g": null,
       "top_strike_score": 5,
       "top_surface_score": 5,
-      "top_grade_numeric": null,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
-      "slug": "roman-hadrian-ar-drachm",
-      "category": "roman",
-      "ruler": "Hadrian",
-      "ruler_normalized": "hadrian",
-      "dynasty": "Nerva-Antonine",
-      "ruler_dates": "AD 117\u2013138",
-      "ruler_rarity": null,
-      "denomination": "AR Drachm",
-      "metal": "silver",
-      "sale_count": 32,
-      "realized_count": 32,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 94.0,
-        "max": 780.0
-      },
-      "median_price_usd": 240.0,
-      "last_sale_date": "2026-04-06",
-      "grade_distribution": {
-        "F": 16,
-        "XF": 5,
-        "VF": 7,
-        "VG": 3,
-        "AG": 1
-      },
-      "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-8-3-6-4-28364625&w=120&h=300&it=product",
-      "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 3,
       "top_grade_numeric": null,
       "dominant_service": "ngc",
       "series": null,

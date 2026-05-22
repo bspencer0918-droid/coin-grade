@@ -37,39 +37,6 @@
   "mint_mark": null,
   "sales": [
     {
-      "id": "coinarchives-58f31a256528",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687197&AucID=6921&Lot=36046&Val=56490330acb7d1be0f12fad6eb488be6",
-      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3130, Lot 36046 \u2014 Ancients\nMAURETANIAN KINGDOM. Juba II (25 BC-AD 23/24), with Cleopatra Selene. AR denarius (19mm, 2.97 gm, 5h). NGC AU 5/5 - 3/5, brushed. Caesarea in Mauretania, ca. AD 16-17. REX IVBA, diademed head",
-      "description": "Ancients\nMAURETANIAN KINGDOM. Juba II (25 BC-AD 23/24), with Cleopatra Selene. AR denarius (19mm, 2.97 gm, 5h). NGC AU 5/5 - 3/5, brushed. Caesarea in Mauretania, ca. AD 16-17. REX IVBA, diademed head of Juba II right / BACI\u039bICCA / K\u039b\u0404O\u03a0ATPA, crocodile advancing left; dotted border. SNG Copenhagen 8, 568-569. Mazard 344. Attractive cabinet toning with crisp devices.\n\nEx Heritage Auctions, Auction 3114 (16 January 2024), lot 33180.\n\nThe crocodile on the reverse is an allusion to Queen Cleopatra...",
-      "hammer_price_usd": 2300.0,
-      "currency_original": "USD",
-      "price_original": 2300.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-22",
-      "image_url": "https://media.coinarchives.com/276a5b0ee823ba4dc42a997d47cb4c2b/img/heritage/3130/image36046.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "sixbid-b789dc1c00a0",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -96,6 +63,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-58f31a256528",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687197&AucID=6921&Lot=36046&Val=56490330acb7d1be0f12fad6eb488be6",
+      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3130, Lot 36046 \u2014 Ancients\nMAURETANIAN KINGDOM. Juba II (25 BC-AD 23/24), with Cleopatra Selene. AR denarius (19mm, 2.97 gm, 5h). NGC AU 5/5 - 3/5, brushed. Caesarea in Mauretania, ca. AD 16-17. REX IVBA, diademed head",
+      "description": "Ancients\nMAURETANIAN KINGDOM. Juba II (25 BC-AD 23/24), with Cleopatra Selene. AR denarius (19mm, 2.97 gm, 5h). NGC AU 5/5 - 3/5, brushed. Caesarea in Mauretania, ca. AD 16-17. REX IVBA, diademed head of Juba II right / BACI\u039bICCA / K\u039b\u0404O\u03a0ATPA, crocodile advancing left; dotted border. SNG Copenhagen 8, 568-569. Mazard 344. Attractive cabinet toning with crisp devices.\n\nEx Heritage Auctions, Auction 3114 (16 January 2024), lot 33180.\n\nThe crocodile on the reverse is an allusion to Queen Cleopatra...",
+      "hammer_price_usd": 2300.0,
+      "currency_original": "USD",
+      "price_original": 2300.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-22",
+      "image_url": "https://media.coinarchives.com/276a5b0ee823ba4dc42a997d47cb4c2b/img/heritage/3130/image36046.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

@@ -17,7 +17,7 @@
     "max": 114000.0
   },
   "median_price_usd": 18000.0,
-  "last_sale_date": "2026-05-21",
+  "last_sale_date": "2026-05-22",
   "grade_distribution": {
     "XF": 16,
     "AU": 31,
@@ -146,7 +146,7 @@
       "currency_original": "USD",
       "price_original": 18500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-21",
+      "sale_date": "2026-05-22",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc107707a.jpg",
       "ngc": {
         "verified": false,
@@ -334,39 +334,6 @@
       }
     },
     {
-      "id": "sixbid-1c7052672c13",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13395/ancients-greek/11827913/ptolemaic-egypt-ptolemy-iii-euergetes",
-      "title": "PTOLEMAIC EGYPT. Ptolemy III Euergetes (246-222 BC). AE tetrobol (40mm, 12h). NGC VF. Alexandria, 4A series. Horned head of Zeus-Ammon right, wearing taenia with basileion over forehead; dotted border / \u03a0TO\u039bEMAIOY-BA\u03a3I\u039bE\u03a9\u03a3, eagle with closed wings standing left on thunderbolt, head right, cornucopia bound with royal diadem on shoulder; \u039b between eagle's legs, dotted border. CPE I B359. Svoronos 1166.  No other kingdom or empire in the ancient world at the time could produce such large gold coins, and this display of economic clout drew thousands of mercenary soldiers into Egypt's service. This large and powerful army was put to maximum use by the third king of the Ptolemaic dynasty, Ptolemy III Euergetes. Shortly after inheriting the throne of the Pharaohs, he launched a massive invasion of the neighboring Seleucid Kingdom of Syria. Easily crushing all resistance, he even reached Babylon, where he proclaimed himself King of Kings. Ptolemy III's powerful portrait appears on gold mnaieions struck by his son, Ptolemy IV Philopator, who succeeded him in 221 BC.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
-      "description": "Heritage Auctions, Inc. | ['Auction #61568']",
-      "hammer_price_usd": 384.0,
-      "currency_original": "USD",
-      "price_original": 384.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-11-16",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-963eb32d1497",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -426,6 +393,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-1c7052672c13",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13395/ancients-greek/11827913/ptolemaic-egypt-ptolemy-iii-euergetes",
+      "title": "PTOLEMAIC EGYPT. Ptolemy III Euergetes (246-222 BC). AE tetrobol (40mm, 12h). NGC VF. Alexandria, 4A series. Horned head of Zeus-Ammon right, wearing taenia with basileion over forehead; dotted border / \u03a0TO\u039bEMAIOY-BA\u03a3I\u039bE\u03a9\u03a3, eagle with closed wings standing left on thunderbolt, head right, cornucopia bound with royal diadem on shoulder; \u039b between eagle's legs, dotted border. CPE I B359. Svoronos 1166.  No other kingdom or empire in the ancient world at the time could produce such large gold coins, and this display of economic clout drew thousands of mercenary soldiers into Egypt's service. This large and powerful army was put to maximum use by the third king of the Ptolemaic dynasty, Ptolemy III Euergetes. Shortly after inheriting the throne of the Pharaohs, he launched a massive invasion of the neighboring Seleucid Kingdom of Syria. Easily crushing all resistance, he even reached Babylon, where he proclaimed himself King of Kings. Ptolemy III's powerful portrait appears on gold mnaieions struck by his son, Ptolemy IV Philopator, who succeeded him in 221 BC.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61568']",
+      "hammer_price_usd": 384.0,
+      "currency_original": "USD",
+      "price_original": 384.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

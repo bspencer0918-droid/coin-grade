@@ -29,7 +29,7 @@
   "thumbnail_url": "https://media.coinarchives.com/14ea6dbfb3bb19f43d1034aebc973952/img/heritage/3129/image34080.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
-  "top_surface_score": 2,
+  "top_surface_score": 4,
   "top_grade_numeric": 4,
   "dominant_service": "ngc",
   "series": null,
@@ -103,39 +103,6 @@
       }
     },
     {
-      "id": "coinarchives-63e7e3b3986d",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687410&AucID=6920&Lot=34080&Val=278db37f3dff6c4a16876edef00d4113",
-      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3129, Lot 34080 \u2014 Ancients\nCommodus, as Augustus (AD 177-192). AV aureus (20mm, 7.25 gm, 12h). NGC Gem MS 5/5 - 5/5. Rome, AD 186-189. M\u2022COMM\u2022ANT\u2022P-FEL AVG BRIT, laureate head of Commodus right / VICTO-RIAE-FELICI, Vic",
-      "description": "Ancients\nCommodus, as Augustus (AD 177-192). AV aureus (20mm, 7.25 gm, 12h). NGC Gem MS 5/5 - 5/5. Rome, AD 186-189. M\u2022COMM\u2022ANT\u2022P-FEL AVG BRIT, laureate head of Commodus right / VICTO-RIAE-FELICI, Victory, turreted, flying left, diadem in both hands; two shields resting on tablet inscribed CVPP to left. Calic\u00f3 2360a (this coin). RIC III -, cf. 196 (denarius). Sharp, lustrous, and artistic - this example has everything a collector could want in an ancient coin, including an interesting reverse ...",
-      "hammer_price_usd": 80000.0,
-      "currency_original": "USD",
-      "price_original": 80000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-12",
-      "image_url": "https://media.coinarchives.com/14ea6dbfb3bb19f43d1034aebc973952/img/heritage/3129/image34080.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "G",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "sixbid-17ed7dea670b",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -195,6 +162,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-63e7e3b3986d",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687410&AucID=6920&Lot=34080&Val=278db37f3dff6c4a16876edef00d4113",
+      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3129, Lot 34080 \u2014 Ancients\nCommodus, as Augustus (AD 177-192). AV aureus (20mm, 7.25 gm, 12h). NGC Gem MS 5/5 - 5/5. Rome, AD 186-189. M\u2022COMM\u2022ANT\u2022P-FEL AVG BRIT, laureate head of Commodus right / VICTO-RIAE-FELICI, Vic",
+      "description": "Ancients\nCommodus, as Augustus (AD 177-192). AV aureus (20mm, 7.25 gm, 12h). NGC Gem MS 5/5 - 5/5. Rome, AD 186-189. M\u2022COMM\u2022ANT\u2022P-FEL AVG BRIT, laureate head of Commodus right / VICTO-RIAE-FELICI, Victory, turreted, flying left, diadem in both hands; two shields resting on tablet inscribed CVPP to left. Calic\u00f3 2360a (this coin). RIC III -, cf. 196 (denarius). Sharp, lustrous, and artistic - this example has everything a collector could want in an ancient coin, including an interesting reverse ...",
+      "hammer_price_usd": 80000.0,
+      "currency_original": "USD",
+      "price_original": 80000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-12",
+      "image_url": "https://media.coinarchives.com/14ea6dbfb3bb19f43d1034aebc973952/img/heritage/3129/image34080.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

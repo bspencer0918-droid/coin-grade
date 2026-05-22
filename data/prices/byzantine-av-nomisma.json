@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AV Nomisma",
   "metal": "unknown",
-  "sale_count": 93,
-  "realized_count": 93,
+  "sale_count": 94,
+  "realized_count": 94,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -20,9 +20,9 @@
   "last_sale_date": "2026-05-11",
   "grade_distribution": {
     "VF": 6,
-    "MS": 13,
     "XF": 21,
-    "AU": 53
+    "AU": 53,
+    "MS": 14
   },
   "thumbnail_url": "https://media.coinarchives.com/02385a490caad6388127ca6f539118a5/img/heritage/3132/image32141.jpg",
   "median_weight_g": null,
@@ -57,39 +57,6 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/3813307002/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-851144cc5ffc",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/nomisma-aste/13347/papal-coins/11783158/prima-repubblica-romana-1798-1799-ancona",
-      "title": "Prima repubblica romana (1798-1799) Ancona - 2 Baiocchi - Munt. 24 CU R In slab NGC MS 63 BN n\u00b0 2804828-001.",
-      "description": "Nomisma Aste | ['Auction 11']",
-      "hammer_price_usd": 348.33,
-      "currency_original": "USD",
-      "price_original": 348.33,
-      "buyers_premium_included": false,
-      "sale_date": "2025-11-22",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "2804828-001",
-        "grade": "MS",
-        "grade_numeric": 63,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/2804828001/",
         "grading_service": "ngc"
       },
       "metadata": {
@@ -233,28 +200,28 @@
       }
     },
     {
-      "id": "sixbid-8c28b7942e56",
+      "id": "sixbid-3387f17f0625",
       "source": "sixbid",
       "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/nomisma-aste/13347/papal-coins/11783157/prima-repubblica-romana-1798-1799-2",
-      "title": "Prima repubblica romana (1798-1799) 2 Baiocchi - Munt. 13 AE (g 20,05) NC TOP POP, in slab NGC MS 64 BN n\u00b0 8217327-001.",
-      "description": "Nomisma Aste | ['Auction 11']",
-      "hammer_price_usd": 290.27,
+      "lot_url": "https://www.sixbid.com/en/nomisma-spa/13662/papal-coins/12078579/repubblica-romana-1798-1799-ancona",
+      "title": "Repubblica romana (1798-1799) Ancona - 2 Baiocchi - Munt. 24 CU R In slab NGC MS 63 BN n\u00b0 2804828-001. <br> MS 63 BN",
+      "description": "Nomisma Spa | ['AUCTION 76']",
+      "hammer_price_usd": 424.69,
       "currency_original": "USD",
-      "price_original": 290.275,
+      "price_original": 424.692,
       "buyers_premium_included": false,
-      "sale_date": "2025-11-22",
+      "sale_date": "2026-04-18",
       "image_url": null,
       "ngc": {
         "verified": false,
-        "cert_number": "8217327-001",
+        "cert_number": "2804828-001",
         "grade": "MS",
-        "grade_numeric": 64,
+        "grade_numeric": 63,
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
         "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/8217327001/",
+        "certification_url": "https://www.ngccoin.com/certlookup/2804828001/",
         "grading_service": "ngc"
       },
       "metadata": {
@@ -490,6 +457,72 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-851144cc5ffc",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/nomisma-aste/13347/papal-coins/11783158/prima-repubblica-romana-1798-1799-ancona",
+      "title": "Prima repubblica romana (1798-1799) Ancona - 2 Baiocchi - Munt. 24 CU R In slab NGC MS 63 BN n\u00b0 2804828-001.",
+      "description": "Nomisma Aste | ['Auction 11']",
+      "hammer_price_usd": 348.33,
+      "currency_original": "USD",
+      "price_original": 348.33,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-22",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "2804828-001",
+        "grade": "MS",
+        "grade_numeric": 63,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/2804828001/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-8c28b7942e56",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/nomisma-aste/13347/papal-coins/11783157/prima-repubblica-romana-1798-1799-2",
+      "title": "Prima repubblica romana (1798-1799) 2 Baiocchi - Munt. 13 AE (g 20,05) NC TOP POP, in slab NGC MS 64 BN n\u00b0 8217327-001.",
+      "description": "Nomisma Aste | ['Auction 11']",
+      "hammer_price_usd": 290.27,
+      "currency_original": "USD",
+      "price_original": 290.275,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-22",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8217327-001",
+        "grade": "MS",
+        "grade_numeric": 64,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8217327001/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

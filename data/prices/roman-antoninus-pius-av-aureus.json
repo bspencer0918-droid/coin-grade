@@ -19,8 +19,8 @@
   "median_price_usd": 5400.0,
   "last_sale_date": "2026-05-13",
   "grade_distribution": {
-    "VF": 33,
     "XF": 54,
+    "VF": 33,
     "AU": 60,
     "F": 3,
     "MS": 35
@@ -35,39 +35,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-d1c080ac9b15",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/katz-coins-notes-and-supplies-corp/13434/coins-ancient-world/11867570/roman-empire-antoninus-pius-av",
-      "title": "Roman Empire Antoninus Pius AV Aureus 138 - 161 AD (ND) NGC VF Strike: 5/5, Surface: 4/5, Fine Style <br> RIC# 177, Calico# 1502b; Gold 7.25 g.; Antoninus Pius; Obv: ANTONINVS AVG PIVS P P TR P XII, A laureate bust right, slight drapery, and the following legend; Rev: C OS IIII, Aequitas standing left, holding scales and cornucopia, and the inscription; Rome Mint; VF",
-      "description": "Katz Coins Notes & Supplies Corp. | ['PREMIUM AUCTION 175']",
-      "hammer_price_usd": 6522.62,
-      "currency_original": "USD",
-      "price_original": 6522.624,
-      "buyers_premium_included": false,
-      "sale_date": "2025-11-22",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": true,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "sixbid-1135b572266b",
       "source": "sixbid",
@@ -168,6 +135,72 @@
       }
     },
     {
+      "id": "coinarchives-04a516f9b3b8",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2677434&AucID=6865&Lot=3232&Val=1c0f2d20652e828eb70baa994caeddee",
+      "title": "Spink - Auction 25006, Lot 3232 \u2014 (x) NGC XF | Roman Empire, Antoninus Pius (AD 138-161), AV Aureus, Rome, struck c. 153-154, ANTONINVS AVG PIVS P P TR P XVII, laureate head left, rev. COS IIII, Antoninus, togate, standing left, holdi",
+      "description": "(x) NGC XF | Roman Empire, Antoninus Pius (AD 138-161), AV Aureus, Rome, struck c. 153-154, ANTONINVS AVG PIVS P P TR P XVII, laureate head left, rev. COS IIII, Antoninus, togate, standing left, holding globus in right hand, 7.26g (RIC 244; Calico 1530; BMC 815; Cohen 314), lovely portrait, toned, good very fine or better, in NGC 'Ancients' holder, graded XF ~ brushed [Strike: 5/5; Surface: 3/5; Fine Style] (Cert. #8222391-001).\nProvenance, \nArcher M. Huntington I, Numismatica Ars Classica 67,...",
+      "hammer_price_usd": 5080.0,
+      "currency_original": "GBP",
+      "price_original": 4000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-04",
+      "image_url": "https://media.coinarchives.com/39419f9bf84803d5a1ae11b1d76f41a0/img/spink/25006/image03232.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "8222391-001",
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": "https://www.ngccoin.com/certlookup/8222391001/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-d1c080ac9b15",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/katz-coins-notes-and-supplies-corp/13434/coins-ancient-world/11867570/roman-empire-antoninus-pius-av",
+      "title": "Roman Empire Antoninus Pius AV Aureus 138 - 161 AD (ND) NGC VF Strike: 5/5, Surface: 4/5, Fine Style <br> RIC# 177, Calico# 1502b; Gold 7.25 g.; Antoninus Pius; Obv: ANTONINVS AVG PIVS P P TR P XII, A laureate bust right, slight drapery, and the following legend; Rev: C OS IIII, Aequitas standing left, holding scales and cornucopia, and the inscription; Rome Mint; VF",
+      "description": "Katz Coins Notes & Supplies Corp. | ['PREMIUM AUCTION 175']",
+      "hammer_price_usd": 6522.62,
+      "currency_original": "USD",
+      "price_original": 6522.624,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-22",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-359c60d716f1",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -223,39 +256,6 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-04a516f9b3b8",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2677434&AucID=6865&Lot=3232&Val=1c0f2d20652e828eb70baa994caeddee",
-      "title": "Spink - Auction 25006, Lot 3232 \u2014 (x) NGC XF | Roman Empire, Antoninus Pius (AD 138-161), AV Aureus, Rome, struck c. 153-154, ANTONINVS AVG PIVS P P TR P XVII, laureate head left, rev. COS IIII, Antoninus, togate, standing left, holdi",
-      "description": "(x) NGC XF | Roman Empire, Antoninus Pius (AD 138-161), AV Aureus, Rome, struck c. 153-154, ANTONINVS AVG PIVS P P TR P XVII, laureate head left, rev. COS IIII, Antoninus, togate, standing left, holding globus in right hand, 7.26g (RIC 244; Calico 1530; BMC 815; Cohen 314), lovely portrait, toned, good very fine or better, in NGC 'Ancients' holder, graded XF ~ brushed [Strike: 5/5; Surface: 3/5; Fine Style] (Cert. #8222391-001).\nProvenance, \nArcher M. Huntington I, Numismatica Ars Classica 67,...",
-      "hammer_price_usd": 5080.0,
-      "currency_original": "GBP",
-      "price_original": 4000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-04",
-      "image_url": "https://media.coinarchives.com/39419f9bf84803d5a1ae11b1d76f41a0/img/spink/25006/image03232.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": "8222391-001",
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": true,
-        "certification_url": "https://www.ngccoin.com/certlookup/8222391001/",
         "grading_service": "ngc"
       },
       "metadata": {
