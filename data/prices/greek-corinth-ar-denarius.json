@@ -7,7 +7,7 @@
   "ruler_dates": null,
   "ruler_rarity": null,
   "denomination": "AR Denarius",
-  "metal": "silver",
+  "metal": "gold",
   "sale_count": 2,
   "realized_count": 2,
   "fixed_price_count": 0,
@@ -19,52 +19,19 @@
   "median_price_usd": 10535.0,
   "last_sale_date": "2026-04-29",
   "grade_distribution": {
-    "F": 1,
-    "MS": 1
+    "MS": 1,
+    "F": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/86293de6da21eb2c7216f2f77595e7f7/img/heritage/61578/image23012.jpg",
   "median_weight_g": null,
-  "top_strike_score": 5,
-  "top_surface_score": 4,
-  "top_grade_numeric": null,
+  "top_strike_score": 4,
+  "top_surface_score": 5,
+  "top_grade_numeric": 4,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "coinarchives-f5f86cb344e0",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2676324&AucID=6862&Lot=23012&Val=b106bc08c46de2682a75171934dc1e85",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61578, Lot 23012 \u2014 Ancients\nAnonymous (ca. 115-114 BC). AR denarius (20mm, 3.91 gm, 8h) . NGC Choice Fine 5/5 - 4/5. Rome. ROMA, head of Roma right, wearing pendant earring, beaded necklace, and crested, winged Corinthi",
-      "description": "Ancients\nAnonymous (ca. 115-114 BC). AR denarius (20mm, 3.91 gm, 8h) . NGC Choice Fine 5/5 - 4/5. Rome. ROMA, head of Roma right, wearing pendant earring, beaded necklace, and crested, winged Corinthian helmet pushed back on head; X (mark of value) behind / Roma seated right on two shields, transverse spear in right hand, she-wolf standing right at feet before, head reverted, suckling twins Romulus and Remus below; flanked by flying birds turned inwards. Crawford 287/1. Sydenham 530. Marigold ...",
-      "hammer_price_usd": 330.0,
-      "currency_original": "USD",
-      "price_original": 330.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-21",
-      "image_url": "https://media.coinarchives.com/86293de6da21eb2c7216f2f77595e7f7/img/heritage/61578/image23012.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "F",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "sixbid-49519361907b",
       "source": "sixbid",
@@ -92,6 +59,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-f5f86cb344e0",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2676324&AucID=6862&Lot=23012&Val=b106bc08c46de2682a75171934dc1e85",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61578, Lot 23012 \u2014 Ancients\nAnonymous (ca. 115-114 BC). AR denarius (20mm, 3.91 gm, 8h) . NGC Choice Fine 5/5 - 4/5. Rome. ROMA, head of Roma right, wearing pendant earring, beaded necklace, and crested, winged Corinthi",
+      "description": "Ancients\nAnonymous (ca. 115-114 BC). AR denarius (20mm, 3.91 gm, 8h) . NGC Choice Fine 5/5 - 4/5. Rome. ROMA, head of Roma right, wearing pendant earring, beaded necklace, and crested, winged Corinthian helmet pushed back on head; X (mark of value) behind / Roma seated right on two shields, transverse spear in right hand, she-wolf standing right at feet before, head reverted, suckling twins Romulus and Remus below; flanked by flying birds turned inwards. Crawford 287/1. Sydenham 530. Marigold ...",
+      "hammer_price_usd": 330.0,
+      "currency_original": "USD",
+      "price_original": 330.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-21",
+      "image_url": "https://media.coinarchives.com/86293de6da21eb2c7216f2f77595e7f7/img/heritage/61578/image23012.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
