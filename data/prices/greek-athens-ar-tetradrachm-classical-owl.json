@@ -301,39 +301,6 @@
       }
     },
     {
-      "id": "coinarchives-ae385a4b619f",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739736&AucID=7076&Lot=32025&Val=ff9b07f4a5bc3089d459b086a9c83e8b",
-      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 32025 \u2014 Ancients\nATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (24mm, 17.19 gm, 10h). NGC XF 5/5 - 4/5, Full Crest. Mid-mass coinage issue. Head of Athena right, wearing earring, necklace, and crested Attic ",
-      "description": "Ancients\nATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (24mm, 17.19 gm, 10h). NGC XF 5/5 - 4/5, Full Crest. Mid-mass coinage issue. Head of Athena right, wearing earring, necklace, and crested Attic helmet ornamented with three laurel leaves and vine scroll / A\u0398E, owl standing right, head facing; olive sprig with two leaves and one berry, and crescent moon behind, all within incuse square. Kroll 8. SNG Copenhagen 31-40. HGC 4, 1597. \n\nEx Heritage Auctions, Auction 61290 (2 October 2022), lot ...",
-      "hammer_price_usd": 1800.0,
-      "currency_original": "USD",
-      "price_original": 1800.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-04-29",
-      "image_url": "https://media.coinarchives.com/bf60837ed936c2d2a5018fe79d1a9bda/img/heritage/3132/image32025.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-29b600710133",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -419,6 +386,39 @@
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-ae385a4b619f",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739736&AucID=7076&Lot=32025&Val=ff9b07f4a5bc3089d459b086a9c83e8b",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 32025 \u2014 Ancients\nATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (24mm, 17.19 gm, 10h). NGC XF 5/5 - 4/5, Full Crest. Mid-mass coinage issue. Head of Athena right, wearing earring, necklace, and crested Attic ",
+      "description": "Ancients\nATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (24mm, 17.19 gm, 10h). NGC XF 5/5 - 4/5, Full Crest. Mid-mass coinage issue. Head of Athena right, wearing earring, necklace, and crested Attic helmet ornamented with three laurel leaves and vine scroll / A\u0398E, owl standing right, head facing; olive sprig with two leaves and one berry, and crescent moon behind, all within incuse square. Kroll 8. SNG Copenhagen 31-40. HGC 4, 1597. \n\nEx Heritage Auctions, Auction 61290 (2 October 2022), lot ...",
+      "hammer_price_usd": 1800.0,
+      "currency_original": "USD",
+      "price_original": 1800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/bf60837ed936c2d2a5018fe79d1a9bda/img/heritage/3132/image32025.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

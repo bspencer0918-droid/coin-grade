@@ -20,12 +20,12 @@
   "last_sale_date": "2026-05-13",
   "grade_distribution": {
     "XF": 54,
-    "VF": 33,
     "AU": 60,
+    "VF": 33,
     "F": 3,
     "MS": 35
   },
-  "thumbnail_url": "https://media.coinarchives.com/d2e8a9a023478598eed4d2f9be00f4b1/img/heritage/3132/image31035.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/a7be806920cb383d5b9122165abb9ec2/img/heritage/3129/image34071.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 5,
@@ -62,39 +62,6 @@
       },
       "metadata": {
         "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-2722abcb8fde",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739695&AucID=7076&Lot=31035&Val=2c41aa0ff16d34cb83dbbd7f5b61436e",
-      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 31035 \u2014 Ancients\nFaustina Senior (AD 138-140/141). AV aureus (18mm, 6.93 gm, 5h). NGC Choice VF 5/5 - 3/5, Fine Style, brushed. Rome, AD 138-139. FAVSTINA AVG AN-TONINI AVG P P, draped bust of Diva Faustina I",
-      "description": "Ancients\nFaustina Senior (AD 138-140/141). AV aureus (18mm, 6.93 gm, 5h). NGC Choice VF 5/5 - 3/5, Fine Style, brushed. Rome, AD 138-139. FAVSTINA AVG AN-TONINI AVG P P, draped bust of Diva Faustina I left, seen from front, hair elaborately waved in several loops around head under thin band, braided, drawn up and coiled on top with pearls / VES-TA, Vesta seated left, Victory right in outstretched right hand, palladium cradled in left arm. Calic\u00f3 1807. RIC III (Antoninus Pius) 334. Rare type wi...",
-      "hammer_price_usd": 4400.0,
-      "currency_original": "USD",
-      "price_original": 4400.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-04-29",
-      "image_url": "https://media.coinarchives.com/d2e8a9a023478598eed4d2f9be00f4b1/img/heritage/3132/image31035.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": true,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -157,6 +124,39 @@
         "details_grade": null,
         "fine_style": true,
         "certification_url": "https://www.ngccoin.com/certlookup/8222391001/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-2722abcb8fde",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739695&AucID=7076&Lot=31035&Val=2c41aa0ff16d34cb83dbbd7f5b61436e",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 31035 \u2014 Ancients\nFaustina Senior (AD 138-140/141). AV aureus (18mm, 6.93 gm, 5h). NGC Choice VF 5/5 - 3/5, Fine Style, brushed. Rome, AD 138-139. FAVSTINA AVG AN-TONINI AVG P P, draped bust of Diva Faustina I",
+      "description": "Ancients\nFaustina Senior (AD 138-140/141). AV aureus (18mm, 6.93 gm, 5h). NGC Choice VF 5/5 - 3/5, Fine Style, brushed. Rome, AD 138-139. FAVSTINA AVG AN-TONINI AVG P P, draped bust of Diva Faustina I left, seen from front, hair elaborately waved in several loops around head under thin band, braided, drawn up and coiled on top with pearls / VES-TA, Vesta seated left, Victory right in outstretched right hand, palladium cradled in left arm. Calic\u00f3 1807. RIC III (Antoninus Pius) 334. Rare type wi...",
+      "hammer_price_usd": 4400.0,
+      "currency_original": "USD",
+      "price_original": 4400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/d2e8a9a023478598eed4d2f9be00f4b1/img/heritage/3132/image31035.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
         "grading_service": "ngc"
       },
       "metadata": {

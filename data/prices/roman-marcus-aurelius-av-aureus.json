@@ -21,8 +21,8 @@
   "grade_distribution": {
     "MS": 20,
     "AU": 25,
-    "VF": 10,
     "XF": 20,
+    "VF": 10,
     "G": 2
   },
   "thumbnail_url": "https://media.coinarchives.com/320f3d8a32c19766f6fca2f75db1259c/img/heritage/3132/image31036.jpg",
@@ -135,39 +135,6 @@
       }
     },
     {
-      "id": "coinarchives-069482e82cd7",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739697&AucID=7076&Lot=31037&Val=f68fa51c24bbf20e07650a51b9e8a007",
-      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 31037 \u2014 Ancients\nLucius Verus (AD 161-169). AV aureus (19mm, 7.19 gm, 12h). NGC Choice VF 5/5 - 3/5. Rome, March-December AD 161. IMP CAES L AVREL VERVS AVG, laureate, draped, and cuirassed bust of Lucius Ver",
-      "description": "Ancients\nLucius Verus (AD 161-169). AV aureus (19mm, 7.19 gm, 12h). NGC Choice VF 5/5 - 3/5. Rome, March-December AD 161. IMP CAES L AVREL VERVS AVG, laureate, draped, and cuirassed bust of Lucius Verus right, seen from behind / CONCORDIAE AVGVSTOR TR P, Marcus Aurelius and Lucius Verus standing facing, heads turned towards one other, clasping hands right hands, volumen in left hands; COS II in exergue. Calic\u00f3 2114. RIC III (Marcus Aurelius) 450-454 var. (bust type). Wonderful example of this ...",
-      "hammer_price_usd": 6000.0,
-      "currency_original": "USD",
-      "price_original": 6000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-04-29",
-      "image_url": "https://media.coinarchives.com/cac195489c67ab2020ec917799e7a2ef/img/heritage/3132/image31037.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-52a63cc39fd6",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -222,6 +189,39 @@
         "surface_score": 5,
         "details_grade": null,
         "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-069482e82cd7",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739697&AucID=7076&Lot=31037&Val=f68fa51c24bbf20e07650a51b9e8a007",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 31037 \u2014 Ancients\nLucius Verus (AD 161-169). AV aureus (19mm, 7.19 gm, 12h). NGC Choice VF 5/5 - 3/5. Rome, March-December AD 161. IMP CAES L AVREL VERVS AVG, laureate, draped, and cuirassed bust of Lucius Ver",
+      "description": "Ancients\nLucius Verus (AD 161-169). AV aureus (19mm, 7.19 gm, 12h). NGC Choice VF 5/5 - 3/5. Rome, March-December AD 161. IMP CAES L AVREL VERVS AVG, laureate, draped, and cuirassed bust of Lucius Verus right, seen from behind / CONCORDIAE AVGVSTOR TR P, Marcus Aurelius and Lucius Verus standing facing, heads turned towards one other, clasping hands right hands, volumen in left hands; COS II in exergue. Calic\u00f3 2114. RIC III (Marcus Aurelius) 450-454 var. (bust type). Wonderful example of this ...",
+      "hammer_price_usd": 6000.0,
+      "currency_original": "USD",
+      "price_original": 6000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/cac195489c67ab2020ec917799e7a2ef/img/heritage/3132/image31037.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
       },

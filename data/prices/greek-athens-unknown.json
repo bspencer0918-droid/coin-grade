@@ -20,12 +20,12 @@
   "last_sale_date": "2026-05-13",
   "grade_distribution": {
     "F": 2,
-    "XF": 3,
     "VF": 11,
     "AU": 4,
-    "MS": 1
+    "MS": 1,
+    "XF": 3
   },
-  "thumbnail_url": "https://media.coinarchives.com/274ff2a08cf3d3d8934e5000aed32697/img/heritage/3132/image31005.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/5c82ae7006a729917315e665acf21ecc/img/ponterio/236/image45029.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -62,39 +62,6 @@
       },
       "metadata": {
         "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-1b8c9f7794a6",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739665&AucID=7076&Lot=31005&Val=1c68cbfb55160aedd098220a346d47d0",
-      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 31005 \u2014 Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AV distater (22mm, 17.23 gm, 11h). NGC Choice XF 5/5 - 5/5. Lifetime issue, Amphipolis, ca. 325-323 BC. Head of Athena right, hair in",
-      "description": "Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AV distater (22mm, 17.23 gm, 11h). NGC Choice XF 5/5 - 5/5. Lifetime issue, Amphipolis, ca. 325-323 BC. Head of Athena right, hair in four tight corkscrew curls, upswept at temple, and flowing over left shoulder, wearing beaded necklace and triple-crested Corinthian helmet pushed back on head, short divergent crest ends, bowl decorated with coiled serpent right / \u0391\u039b\u0395\u039e\u0391\u039d\u0394\u03a1\u039f\u03a5, Nike standing facing, head left, wreath in outstretch...",
-      "hammer_price_usd": 60000.0,
-      "currency_original": "USD",
-      "price_original": 60000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-04-29",
-      "image_url": "https://media.coinarchives.com/274ff2a08cf3d3d8934e5000aed32697/img/heritage/3132/image31005.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -189,6 +156,39 @@
         "surface_score": 4,
         "details_grade": null,
         "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-1b8c9f7794a6",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739665&AucID=7076&Lot=31005&Val=1c68cbfb55160aedd098220a346d47d0",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 31005 \u2014 Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AV distater (22mm, 17.23 gm, 11h). NGC Choice XF 5/5 - 5/5. Lifetime issue, Amphipolis, ca. 325-323 BC. Head of Athena right, hair in",
+      "description": "Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AV distater (22mm, 17.23 gm, 11h). NGC Choice XF 5/5 - 5/5. Lifetime issue, Amphipolis, ca. 325-323 BC. Head of Athena right, hair in four tight corkscrew curls, upswept at temple, and flowing over left shoulder, wearing beaded necklace and triple-crested Corinthian helmet pushed back on head, short divergent crest ends, bowl decorated with coiled serpent right / \u0391\u039b\u0395\u039e\u0391\u039d\u0394\u03a1\u039f\u03a5, Nike standing facing, head left, wreath in outstretch...",
+      "hammer_price_usd": 60000.0,
+      "currency_original": "USD",
+      "price_original": 60000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/274ff2a08cf3d3d8934e5000aed32697/img/heritage/3132/image31005.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
       },

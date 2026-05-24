@@ -21,8 +21,8 @@
   "grade_distribution": {
     "AU": 18,
     "MS": 12,
-    "XF": 4,
-    "VF": 6
+    "VF": 6,
+    "XF": 4
   },
   "thumbnail_url": "https://media.coinarchives.com/54638897778bd2ff2338d21f6978731d/img/heritage/3132/image31006.jpg",
   "median_weight_g": null,
@@ -266,6 +266,39 @@
       }
     },
     {
+      "id": "coinarchives-9b659829bc52",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687167&AucID=6921&Lot=36016&Val=ece04e724cd8902c538425f9c44c4462",
+      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3130, Lot 36016 \u2014 Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AV stater (18mm, 8.55 gm, 12h). NGC Choice VF 4/5 - 4/5. Early posthumous issue, Sardes, ca. 323-319 BC. Head of Athena right, hair f",
+      "description": "Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AV stater (18mm, 8.55 gm, 12h). NGC Choice VF 4/5 - 4/5. Early posthumous issue, Sardes, ca. 323-319 BC. Head of Athena right, hair flowing loose in waves, over left shoulder, and upswept at temple, wearing triple-crested Corinthian helmet pushed back on head, short parallel crest ends, bowl decorated with griffin right / \u0391\u039b\u0395\u039e\u0391\u039d\u0394\u03a1\u039f\u03a5 / BA\u03a3I\u039b\u0395\u03a9\u03a3, Nike standing facing, head left, wreath in outstretched right hand, stylis cradled i...",
+      "hammer_price_usd": 4600.0,
+      "currency_original": "USD",
+      "price_original": 4600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-22",
+      "image_url": "https://media.coinarchives.com/09b89a0213b2d1ac7116fa829a9af216/img/heritage/3130/image36016.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-375c29cb2f31",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -350,39 +383,6 @@
         "grade": "VF",
         "grade_numeric": 5,
         "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-9b659829bc52",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687167&AucID=6921&Lot=36016&Val=ece04e724cd8902c538425f9c44c4462",
-      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3130, Lot 36016 \u2014 Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AV stater (18mm, 8.55 gm, 12h). NGC Choice VF 4/5 - 4/5. Early posthumous issue, Sardes, ca. 323-319 BC. Head of Athena right, hair f",
-      "description": "Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AV stater (18mm, 8.55 gm, 12h). NGC Choice VF 4/5 - 4/5. Early posthumous issue, Sardes, ca. 323-319 BC. Head of Athena right, hair flowing loose in waves, over left shoulder, and upswept at temple, wearing triple-crested Corinthian helmet pushed back on head, short parallel crest ends, bowl decorated with griffin right / \u0391\u039b\u0395\u039e\u0391\u039d\u0394\u03a1\u039f\u03a5 / BA\u03a3I\u039b\u0395\u03a9\u03a3, Nike standing facing, head left, wreath in outstretched right hand, stylis cradled i...",
-      "hammer_price_usd": 4600.0,
-      "currency_original": "USD",
-      "price_original": 4600.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-22",
-      "image_url": "https://media.coinarchives.com/09b89a0213b2d1ac7116fa829a9af216/img/heritage/3130/image36016.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 4,
-        "strike_score": 4,
         "surface_score": 4,
         "details_grade": null,
         "fine_style": false,

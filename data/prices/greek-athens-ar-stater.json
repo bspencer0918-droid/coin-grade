@@ -24,10 +24,10 @@
     "F": 1,
     "AU": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/3ccab854084474a48faca82ab120f29b/img/heritage/3132/image32032.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/610671a2defc4a96fad2c1266ff82afa/img/ponterio/236/image40064.jpg",
   "median_weight_g": null,
-  "top_strike_score": 4,
-  "top_surface_score": 3,
+  "top_strike_score": 5,
+  "top_surface_score": 5,
   "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
@@ -61,39 +61,6 @@
       },
       "metadata": {
         "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-350aa6603b20",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739743&AucID=7076&Lot=32032&Val=35fb2b36e5831637b65565a74c30f44d",
-      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 32032 \u2014 Ancients\nLESBOS. Mytilene. Ca. 454-427 BC. EL sixth-stater or hecte (10mm, 2.55 gm, 3h). NGC Choice VF 5/5 - 3/5, brushed. Head of Athena right, wearing crested Corinthian helmet pushed back on head /",
-      "description": "Ancients\nLESBOS. Mytilene. Ca. 454-427 BC. EL sixth-stater or hecte (10mm, 2.55 gm, 3h). NGC Choice VF 5/5 - 3/5, brushed. Head of Athena right, wearing crested Corinthian helmet pushed back on head / Two confronted female heads, wearing taenia, their faces overlapping; all within incuse square. Bodenstedt 55. HGC 6, 981.  www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.ha.com/itm/ancients/greek/greek-lesbos-mytilene-ca-454-427-bc-el-sixth-stater-or-hecte-10mm-255-gm-3h-ngc-choice-vf-5-...",
-      "hammer_price_usd": 3000.0,
-      "currency_original": "USD",
-      "price_original": 3000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-04-29",
-      "image_url": "https://media.coinarchives.com/3ccab854084474a48faca82ab120f29b/img/heritage/3132/image32032.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -221,6 +188,39 @@
         "surface_score": 3,
         "details_grade": null,
         "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-350aa6603b20",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739743&AucID=7076&Lot=32032&Val=35fb2b36e5831637b65565a74c30f44d",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 32032 \u2014 Ancients\nLESBOS. Mytilene. Ca. 454-427 BC. EL sixth-stater or hecte (10mm, 2.55 gm, 3h). NGC Choice VF 5/5 - 3/5, brushed. Head of Athena right, wearing crested Corinthian helmet pushed back on head /",
+      "description": "Ancients\nLESBOS. Mytilene. Ca. 454-427 BC. EL sixth-stater or hecte (10mm, 2.55 gm, 3h). NGC Choice VF 5/5 - 3/5, brushed. Head of Athena right, wearing crested Corinthian helmet pushed back on head / Two confronted female heads, wearing taenia, their faces overlapping; all within incuse square. Bodenstedt 55. HGC 6, 981.  www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.ha.com/itm/ancients/greek/greek-lesbos-mytilene-ca-454-427-bc-el-sixth-stater-or-hecte-10mm-255-gm-3h-ngc-choice-vf-5-...",
+      "hammer_price_usd": 3000.0,
+      "currency_original": "USD",
+      "price_original": 3000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/3ccab854084474a48faca82ab120f29b/img/heritage/3132/image32032.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
       },
