@@ -17,7 +17,7 @@
     "max": 536800.0
   },
   "median_price_usd": 5100.0,
-  "last_sale_date": "2026-05-26",
+  "last_sale_date": "2026-05-27",
   "grade_distribution": {
     "AU": 182,
     "MS": 268,
@@ -47,7 +47,7 @@
       "currency_original": "USD",
       "price_original": 55000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-26",
+      "sale_date": "2026-05-27",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -80,7 +80,7 @@
       "currency_original": "USD",
       "price_original": 1600.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-26",
+      "sale_date": "2026-05-27",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -158,39 +158,6 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/6656265003/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-e21846650ee8",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/tcc-group-companies/13419/ancient-greece/11850970/ionia-ephesos-av-stater",
-      "title": "Ionia, Ephesos, AV Stater <br> ANCIENT GREECE. IONIA, EPHESOS. <br>Gold Stater, circa 123-119 BC. <br>Obv: draped bust of Artemis right, wearing stephane, bow and quiver over shoulder. Rev: cult statue of Artemis Ephesia facing, arms outstretched, fillet hanging from each; E-\u03a6 across upper fields, thymiaterion in inner right field.<br><br><i>In secure plastic holder, graded NGC Ch XF Strike: 5/5 Surface: 3/5, edge scuff, certification number <a href=\"https://www.ngccoin.com/certlookup/6836583-039/Other/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">6836583-039</a>.</i><br><br>Reference: Jenkins, Hellenistic-pl. B, 6 = Montagu I-567 (same dies); Head-p.69, 2-6 var. (control mark); Gulbenkian-985 var. (same).<br>Weight: 8.42 g.",
-      "description": "The Coin Cabinet | ['Kallista III']",
-      "hammer_price_usd": 2779.37,
-      "currency_original": "USD",
-      "price_original": 2779.3694,
-      "buyers_premium_included": false,
-      "sale_date": "2025-11-27",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "6836583-039",
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/6836583039/",
         "grading_service": "ngc"
       },
       "metadata": {
@@ -327,6 +294,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-e21846650ee8",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/tcc-group-companies/13419/ancient-greece/11850970/ionia-ephesos-av-stater",
+      "title": "Ionia, Ephesos, AV Stater <br> ANCIENT GREECE. IONIA, EPHESOS. <br>Gold Stater, circa 123-119 BC. <br>Obv: draped bust of Artemis right, wearing stephane, bow and quiver over shoulder. Rev: cult statue of Artemis Ephesia facing, arms outstretched, fillet hanging from each; E-\u03a6 across upper fields, thymiaterion in inner right field.<br><br><i>In secure plastic holder, graded NGC Ch XF Strike: 5/5 Surface: 3/5, edge scuff, certification number <a href=\"https://www.ngccoin.com/certlookup/6836583-039/Other/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">6836583-039</a>.</i><br><br>Reference: Jenkins, Hellenistic-pl. B, 6 = Montagu I-567 (same dies); Head-p.69, 2-6 var. (control mark); Gulbenkian-985 var. (same).<br>Weight: 8.42 g.",
+      "description": "The Coin Cabinet | ['Kallista III']",
+      "hammer_price_usd": 2779.37,
+      "currency_original": "USD",
+      "price_original": 2779.3694,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-27",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "6836583-039",
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/6836583039/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

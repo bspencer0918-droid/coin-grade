@@ -20,8 +20,8 @@
   "last_sale_date": "2026-03-28",
   "grade_distribution": {
     "G": 1,
-    "AU": 158,
     "XF": 170,
+    "AU": 158,
     "VF": 53,
     "F": 8,
     "MS": 39
@@ -29,7 +29,7 @@
   "thumbnail_url": "https://media.coinarchives.com/a2a20ec304f60177b560d8dd88bcdc4c/img/tcc/kallista3/image00217.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 4,
+  "top_surface_score": 5,
   "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
@@ -70,39 +70,6 @@
       }
     },
     {
-      "id": "sixbid-567dec9fa024",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/tcc-group-companies/13419/roman-empire/11851142/julia-domna-wife-of-septimius",
-      "title": "Julia Domna (wife of Septimius Severus) AR Denarius <br> ROMAN EMPIRE. Julia Domna (wife of Septimius Severus). <br>Silver Denarius, AD 196-202. Laodicea ad Mare. <br>Obv: IVLIA AVGVSTA, draped bust right. Rev: PVDICITIA, Pudicitia, veiled, seated left, one hand on breast.<br><br><i>In secure plastic holder, graded NGC Ch AU Strike: 5/5 Surface: 4/5, certification number <a href=\"https://www.ngccoin.com/certlookup/4934087-005/Other/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">4934087-005</a> - well-centred and exhibiting a spectacular old cabinet tone with streaks of iridescence.</i><br><br>Reference: RIC IV-644 (Septimius Severus); RSC-168a.<br>Weight: 3.30 g.",
-      "description": "The Coin Cabinet | ['Kallista III']",
-      "hammer_price_usd": 244.85,
-      "currency_original": "USD",
-      "price_original": 244.84921,
-      "buyers_premium_included": false,
-      "sale_date": "2025-11-27",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "4934087-005",
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/4934087005/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "sixbid-53cb358d042a",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -125,6 +92,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/6291550004/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-567dec9fa024",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/tcc-group-companies/13419/roman-empire/11851142/julia-domna-wife-of-septimius",
+      "title": "Julia Domna (wife of Septimius Severus) AR Denarius <br> ROMAN EMPIRE. Julia Domna (wife of Septimius Severus). <br>Silver Denarius, AD 196-202. Laodicea ad Mare. <br>Obv: IVLIA AVGVSTA, draped bust right. Rev: PVDICITIA, Pudicitia, veiled, seated left, one hand on breast.<br><br><i>In secure plastic holder, graded NGC Ch AU Strike: 5/5 Surface: 4/5, certification number <a href=\"https://www.ngccoin.com/certlookup/4934087-005/Other/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">4934087-005</a> - well-centred and exhibiting a spectacular old cabinet tone with streaks of iridescence.</i><br><br>Reference: RIC IV-644 (Septimius Severus); RSC-168a.<br>Weight: 3.30 g.",
+      "description": "The Coin Cabinet | ['Kallista III']",
+      "hammer_price_usd": 244.85,
+      "currency_original": "USD",
+      "price_original": 244.84921,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-27",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "4934087-005",
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/4934087005/",
         "grading_service": "ngc"
       },
       "metadata": {
