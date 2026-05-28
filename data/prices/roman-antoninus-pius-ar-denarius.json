@@ -26,7 +26,7 @@
     "AU": 133,
     "F": 12
   },
-  "thumbnail_url": "https://media.coinarchives.com/6215c14c9ac5f5dd973ed028bede6fc6/img/numiscorner/006/image00091.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/bc56d2d1c23ee2ec4989180c22ed8036/img/ponterio/236/image45421.jpg",
   "median_weight_g": null,
   "top_strike_score": null,
   "top_surface_score": null,
@@ -169,39 +169,6 @@
       }
     },
     {
-      "id": "coinarchives-b8d6f22160d6",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2679870&AucID=6877&Lot=91&Val=7ed5cc5ff204005c04f2fad90798ec0e",
-      "title": "NumisCorner - Auction 6, Lot 91 \u2014 Antoninus Pius, Denarius, 143-144, Rome, Silver, NGC, Ch VF, RIC:111\nBust of Antoninus Pius, laureate, draped, right, Victory, winged, draped, standing left, holding wreath in extended right hand and ",
-      "description": "Antoninus Pius, Denarius, 143-144, Rome, Silver, NGC, Ch VF, RIC:111\nBust of Antoninus Pius, laureate, draped, right, Victory, winged, draped, standing left, holding wreath in extended right hand and palm in left, Graded NGC Ch VF., ANTONINVS AVG PIVS P P TR P COS III, IMPERATOR II\nDENOMINATION:Denarius                    \nYEAR:143-144                    \nCOIN CONDITION:Ch VF                    \nMINT NAME:Rome                    \nCOMPOSITION:Silver                    \nDIAMETER:20             ...",
-      "hammer_price_usd": 77.76,
-      "currency_original": "EUR",
-      "price_original": 72.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-11-28",
-      "image_url": "https://media.coinarchives.com/6215c14c9ac5f5dd973ed028bede6fc6/img/numiscorner/006/image00091.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-012193b194d2",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -251,6 +218,39 @@
         "verified": false,
         "cert_number": null,
         "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-b8d6f22160d6",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2679870&AucID=6877&Lot=91&Val=7ed5cc5ff204005c04f2fad90798ec0e",
+      "title": "NumisCorner - Auction 6, Lot 91 \u2014 Antoninus Pius, Denarius, 143-144, Rome, Silver, NGC, Ch VF, RIC:111\nBust of Antoninus Pius, laureate, draped, right, Victory, winged, draped, standing left, holding wreath in extended right hand and ",
+      "description": "Antoninus Pius, Denarius, 143-144, Rome, Silver, NGC, Ch VF, RIC:111\nBust of Antoninus Pius, laureate, draped, right, Victory, winged, draped, standing left, holding wreath in extended right hand and palm in left, Graded NGC Ch VF., ANTONINVS AVG PIVS P P TR P COS III, IMPERATOR II\nDENOMINATION:Denarius                    \nYEAR:143-144                    \nCOIN CONDITION:Ch VF                    \nMINT NAME:Rome                    \nCOMPOSITION:Silver                    \nDIAMETER:20             ...",
+      "hammer_price_usd": 77.76,
+      "currency_original": "EUR",
+      "price_original": 72.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-28",
+      "image_url": "https://media.coinarchives.com/6215c14c9ac5f5dd973ed028bede6fc6/img/numiscorner/006/image00091.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,

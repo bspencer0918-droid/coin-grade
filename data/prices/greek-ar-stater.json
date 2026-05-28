@@ -897,39 +897,6 @@
       }
     },
     {
-      "id": "coinarchives-83e99178ea63",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2679792&AucID=6877&Lot=13&Val=fc1d9587b3cd85ebbb89a4645b513e88",
-      "title": "NumisCorner - Auction 6, Lot 13 \u2014 Kyrenaica, Stater, ca. 331-322, Kyrene, Gold, NGC, Ch VF 4/5-4/5, BMC:106\nSlow quadriga driven to left by a charioteer, holding kentron and reins., Zeus-Ammon standing to right, holding sceptre, behin",
-      "description": "Kyrenaica, Stater, ca. 331-322, Kyrene, Gold, NGC, Ch VF 4/5-4/5, BMC:106\nSlow quadriga driven to left by a charioteer, holding kentron and reins., Zeus-Ammon standing to right, holding sceptre, behind him, a ram., Graded NGC Ch VF Strike: 4/5 Surface: 4/5; Fine Style; lt. scratches.\r\nAristagoras, magistrate.\r\nCoin of the highest rarity, almost never offered for sale. The strike is slightly off-center on the obverse, but complete on the reverse. Despite minor scratches and marks and some slig...",
-      "hammer_price_usd": 16200.0,
-      "currency_original": "EUR",
-      "price_original": 15000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-11-28",
-      "image_url": "https://media.coinarchives.com/38e540f00164c62280c6b86c9419409e/img/numiscorner/006/image00013.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": true,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-1c1d8ae118a0",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -1743,6 +1710,39 @@
         "surface_score": 3,
         "details_grade": null,
         "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-83e99178ea63",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2679792&AucID=6877&Lot=13&Val=fc1d9587b3cd85ebbb89a4645b513e88",
+      "title": "NumisCorner - Auction 6, Lot 13 \u2014 Kyrenaica, Stater, ca. 331-322, Kyrene, Gold, NGC, Ch VF 4/5-4/5, BMC:106\nSlow quadriga driven to left by a charioteer, holding kentron and reins., Zeus-Ammon standing to right, holding sceptre, behin",
+      "description": "Kyrenaica, Stater, ca. 331-322, Kyrene, Gold, NGC, Ch VF 4/5-4/5, BMC:106\nSlow quadriga driven to left by a charioteer, holding kentron and reins., Zeus-Ammon standing to right, holding sceptre, behind him, a ram., Graded NGC Ch VF Strike: 4/5 Surface: 4/5; Fine Style; lt. scratches.\r\nAristagoras, magistrate.\r\nCoin of the highest rarity, almost never offered for sale. The strike is slightly off-center on the obverse, but complete on the reverse. Despite minor scratches and marks and some slig...",
+      "hammer_price_usd": 16200.0,
+      "currency_original": "EUR",
+      "price_original": 15000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-28",
+      "image_url": "https://media.coinarchives.com/38e540f00164c62280c6b86c9419409e/img/numiscorner/006/image00013.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": true,
         "certification_url": null,
         "grading_service": "ngc"
       },
