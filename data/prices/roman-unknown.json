@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "silver",
-  "sale_count": 3239,
-  "realized_count": 3239,
+  "sale_count": 3240,
+  "realized_count": 3240,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,13 +17,13 @@
     "max": 312000.0
   },
   "median_price_usd": 192.0,
-  "last_sale_date": "2026-05-16",
+  "last_sale_date": "2026-05-28",
   "grade_distribution": {
     "MS": 733,
     "XF": 579,
     "AU": 864,
     "P": 8,
-    "VF": 610,
+    "VF": 611,
     "F": 394,
     "G": 19,
     "VG": 32
@@ -716,6 +716,39 @@
         "cert_number": null,
         "grade": "VF",
         "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-ebf9198345ac",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/coinsnb/13852/bishopric-of-salzburg/12280959/austria-bishopric-of-salzburg-holy",
+      "title": "Austria Bishopric of Salzburg Holy Roman Empire 1786 1 Pfenning - Hieronymus von Colloredo Copper Salzburg Mint 1.39g NGC VF 35 Z\u00c3\u00b6ttl 3387",
+      "description": "Coins Numismatic Barcelona | ['E-Auction 59']",
+      "hammer_price_usd": 52.42,
+      "currency_original": "USD",
+      "price_original": 52.416,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-28",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 35,
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
