@@ -8,18 +8,18 @@
   "ruler_rarity": "scarce",
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 18,
-  "realized_count": 18,
+  "sale_count": 19,
+  "realized_count": 19,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 660.0,
     "max": 39040.0
   },
-  "median_price_usd": 6655.0,
+  "median_price_usd": 6600.0,
   "last_sale_date": "2026-01-16",
   "grade_distribution": {
-    "AU": 10,
+    "AU": 11,
     "MS": 4,
     "XF": 1,
     "VF": 2,
@@ -35,6 +35,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-267673b770fe",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13522/ancients-roman-imperial/11945208/constantine-iii-western-roman-empire",
+      "title": "Constantine III, Western Roman Empire (AD 407-411). AV solidus (20mm, 4.46 gm, 5h). NGC AU 5/5 - 3/5, brushed. Trier, AD 408-411. D N CONSTAN-TINVS P F AVG, pearl-diademed, draped, and cuirassed bust of Constantine III right, seen from front / VICTORI-A AAVGGG, Constantine III standing relaxed right in military dress, grounded vexillum in right hand, Victory right on globe in left, left foot on bound captive reclining right, facing emperor; TROBS in exergue. RIC X 1514. Nicely centered and reflective.   Ex Classical Numismatic Group, private sale with old dealer's tag included (winter 2023); MDC Monnaies de Collection sarl, Auction 9 (3 June 2022), lot 128.   While the early fifth century AD saw the West Roman frontier collapse under waves of barbarian invaders, the island province of Britain remained relatively unscathed. The Roman legions still stationed in Britain watched in horror as the Germanic hordes ravaged Germany, Gaul and Spain, while the feeble emperor Honorius did little more than play with his pet chickens behind the walls of Ravenna. Accordingly, the soldiers took matters into their own hands and in quick succession raised up and deposed two pretenders to the throne, named Gratian and Marcus, before finally settling on a man with a far more illustrious name, Flavius Claudius Constantinus, known to history as Constantine III, in the spring of AD 407. Although only a common soldier, he appears to have had some charisma and no little ability. Crossing the channel with a small army, he quickly dove into the thick of the crisis engulfing the Empire. He fought his way across Gaul against both barbarian invaders and Roman forces sent by Honorius to crush him, before setting up court in Arles in May, AD 408. Spain, too, offered him recognition. Flush with success, Constantine made his son Constans co-emperor and contemplated invading Italy, but seems to have thought better of it. He wrote letters to Honorius in AD 409 explaining that he had only allowed himself to be acclaimed emperor to restore order in Gaul and offered a pact of mutual support. Honorius responded favorably, sending Constantine a purple Imperial robe. But at the peak of his success, Constantine's closest backer, the general Gerontius, revolted and made common cause with the Visigoths, costing him all of his hard-won territory in Spain. Early in AD 411, Constans was captured and killed by Gerontius, who next besieged Constantine at Arles. An army sent by Honorius soon appeared on the scene and sent Gerontius packing, but instead of rescuing Constantine, it renewed the siege and demanded his surrender, affirming Honorius' reputation for treachery. Cornered, Constantine attempted to take vows for the priesthood, but the gesture proved futile and he was captured and executed on the orders of Honorius.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction - New York #3129']",
+      "hammer_price_usd": 5500.0,
+      "currency_original": "USD",
+      "price_original": 5500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-12",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-f0ec8c2ac575",
       "source": "coinarchives",

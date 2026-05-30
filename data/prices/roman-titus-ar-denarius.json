@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 269,
-  "realized_count": 269,
+  "sale_count": 270,
+  "realized_count": 270,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -20,7 +20,7 @@
   "last_sale_date": "2026-03-28",
   "grade_distribution": {
     "F": 81,
-    "XF": 65,
+    "XF": 66,
     "AU": 28,
     "VF": 80,
     "VG": 13,
@@ -28,9 +28,9 @@
   },
   "thumbnail_url": "https://media.coinarchives.com/03f848d13954c1ec2795e59ed6a0bd67/img/ponterio/236/image45401.jpg",
   "median_weight_g": null,
-  "top_strike_score": 5,
-  "top_surface_score": 3,
-  "top_grade_numeric": null,
+  "top_strike_score": 4,
+  "top_surface_score": 2,
+  "top_grade_numeric": 4,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
@@ -59,6 +59,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/6062713001/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-0770698a3cf7",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13634/ancients-roman-imperial/12049003/titus-as-caesar-ad-79-81",
+      "title": "Titus, as Caesar (AD 79-81). AR denarius (18mm, 3.02 gm, 5h). NGC XF 4/5 - 2/5. Rome, AD 77-78. T CAESAR IMP-VESPASIANVS, laureate head of Titus right / COS-VI (VI barred), Mars standing facing, head left, transverse spear in right hand, trophy in left over shoulder. RIC II (Vespasian) 948.  Born in AD 41, Flavius Titus Vespasianus, the elder son of Vespasian, initially appeared destined for a life akin to that of an upper middle-class civil servant, following in his father's footsteps. Vespasian had earned acclaim as a general during Claudius' invasion of Britain, and Titus, as he matured, developed into an intelligent, handsome, and charismatic young man, eventually serving as his father's second in command during the Judaean campaign of AD 66-69. Following the collapse of Nero's regime in Rome, Vespasian assumed the throne while Titus took charge of the Judaean war, culminating in the conquest of Jerusalem in AD 70.  Upon his triumphant return to Rome, where suspicions of a coup surrounded him, Titus warmly reunited with his father and was honored with a grand triumph. Subsequently, he held the position of Praetorian Prefect and diligently safeguarded his family's political influence. Upon Vespasian's death in AD 79, Titus ascended to the imperial throne, initially raising concerns that he might emulate the excesses of Nero or Caligula. However, he swiftly proved to be an unusually benevolent and compassionate ruler to the Roman populace. Unfortunately, after barely two years in office, Titus died of a fever on 13 September AD 81; he was promptly deified by the Roman Senate and succeeded by his younger brother Domitian.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61605']",
+      "hammer_price_usd": 650.0,
+      "currency_original": "USD",
+      "price_original": 650.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-15",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
         "grading_service": "ngc"
       },
       "metadata": {

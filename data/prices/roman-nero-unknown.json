@@ -17,7 +17,7 @@
     "max": 3720.0
   },
   "median_price_usd": 264.0,
-  "last_sale_date": "2026-05-29",
+  "last_sale_date": "2026-05-30",
   "grade_distribution": {
     "VF": 77,
     "AU": 12,
@@ -57,39 +57,6 @@
         "surface_score": 5,
         "details_grade": null,
         "fine_style": true,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-693d8a46d06c",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13445/ancients-judaea/11878385/judaea-roman-procurators-porcius-festus",
-      "title": "JUDAEA. Roman Procurators. Porcius Festus (AD 59-62). AE prutah (16mm, 2.25 gm, 12h). NGC VF 5/5 - 4/5. Jerusalem, dated Regnal Year 5 of Nero (AD 58/59). N\u0404P/\u03a9NO/C, legend in three lines within wreath / KAIC-APOC, vertical palm frond; L \u0404 (date) upward to left. GBC 6, 6380.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
-      "description": "Heritage Auctions, Inc. | ['Auction #61558']",
-      "hammer_price_usd": 440.0,
-      "currency_original": "USD",
-      "price_original": 440.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-11-30",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
       },
@@ -343,7 +310,7 @@
       "currency_original": "USD",
       "price_original": 950.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-29",
+      "sale_date": "2026-05-30",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc110107a.jpg",
       "ngc": {
         "verified": false,
@@ -392,6 +359,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-693d8a46d06c",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13445/ancients-judaea/11878385/judaea-roman-procurators-porcius-festus",
+      "title": "JUDAEA. Roman Procurators. Porcius Festus (AD 59-62). AE prutah (16mm, 2.25 gm, 12h). NGC VF 5/5 - 4/5. Jerusalem, dated Regnal Year 5 of Nero (AD 58/59). N\u0404P/\u03a9NO/C, legend in three lines within wreath / KAIC-APOC, vertical palm frond; L \u0404 (date) upward to left. GBC 6, 6380.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61558']",
+      "hammer_price_usd": 440.0,
+      "currency_original": "USD",
+      "price_original": 440.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-11-30",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
