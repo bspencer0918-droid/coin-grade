@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 684,
-  "realized_count": 663,
+  "sale_count": 685,
+  "realized_count": 664,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,9 +17,9 @@
     "max": 36000.0
   },
   "median_price_usd": 1920.0,
-  "last_sale_date": "2026-04-29",
+  "last_sale_date": "2026-05-30",
   "grade_distribution": {
-    "AU": 142,
+    "AU": 143,
     "F": 2,
     "MS": 511,
     "XF": 23,
@@ -36,6 +36,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-0c7b150149f3",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/tasei-coins-company/13780/ancient-coins/12208661/ancient-coins-ngc-ch-au",
+      "title": "Ancient Coins. NGC Ch AU Strike:5/5 Surface:5/5. EF\uff0b. BC440\uff5e404. Ancient-Greece Attica Athens Owl/Athena Silver Tetradrachm",
+      "description": "Taisei Coins Company | ['Taisei May 2026 Auction']",
+      "hammer_price_usd": 566.35,
+      "currency_original": "USD",
+      "price_original": 566.3527,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-30",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-af34ec8729a3",
       "source": "sixbid",
