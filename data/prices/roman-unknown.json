@@ -19,8 +19,8 @@
   "median_price_usd": 192.0,
   "last_sale_date": "2026-05-28",
   "grade_distribution": {
-    "MS": 733,
     "XF": 580,
+    "MS": 733,
     "AU": 864,
     "P": 8,
     "VF": 611,
@@ -38,39 +38,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-1a3ef5d83d4c",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/daniel-frank-sedwick/13763/medals-and-decorations/12188348/spain-barcelona-silver-medal-1759",
-      "title": "SPAIN, Barcelona, silver medal, 1759, Charles III proclamation, NGC MS 62. Herrera-6; Vives-25. 29 mm. Obverse with right-facing bust of king inside PROCLAM BARCINO within legend CAROLUS REX CATH HISPANIAR III; reverse with right-facing horse to left of Barcelona in background within legend PRISTINA PRATA RIDENT (the pristine meadows laugh); plain edge. Somewhat rustic, with bold details, very darkly toned with traces of porosity in fields. Barcino is the ancient Roman name for the city of Barcelona.",
-      "description": "Daniel Frank Sedwick | ['Auction 39']",
-      "hammer_price_usd": 350.0,
-      "currency_original": "USD",
-      "price_original": 350.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-05-07",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 62,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "sixbid-25c0c312f6cc",
       "source": "sixbid",
@@ -91,6 +58,39 @@
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-1a3ef5d83d4c",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/daniel-frank-sedwick/13763/medals-and-decorations/12188348/spain-barcelona-silver-medal-1759",
+      "title": "SPAIN, Barcelona, silver medal, 1759, Charles III proclamation, NGC MS 62. Herrera-6; Vives-25. 29 mm. Obverse with right-facing bust of king inside PROCLAM BARCINO within legend CAROLUS REX CATH HISPANIAR III; reverse with right-facing horse to left of Barcelona in background within legend PRISTINA PRATA RIDENT (the pristine meadows laugh); plain edge. Somewhat rustic, with bold details, very darkly toned with traces of porosity in fields. Barcino is the ancient Roman name for the city of Barcelona.",
+      "description": "Daniel Frank Sedwick | ['Auction 39']",
+      "hammer_price_usd": 350.0,
+      "currency_original": "USD",
+      "price_original": 350.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-07",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 62,
+        "strike_score": null,
+        "surface_score": null,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
@@ -738,9 +738,9 @@
       "lot_url": "https://www.sixbid.com/en/coinsnb/13852/bishopric-of-salzburg/12280959/austria-bishopric-of-salzburg-holy",
       "title": "Austria Bishopric of Salzburg Holy Roman Empire 1786 1 Pfenning - Hieronymus von Colloredo Copper Salzburg Mint 1.39g NGC VF 35 Z\u00c3\u00b6ttl 3387",
       "description": "Coins Numismatic Barcelona | ['E-Auction 59']",
-      "hammer_price_usd": 52.42,
+      "hammer_price_usd": 23.23,
       "currency_original": "USD",
-      "price_original": 52.416,
+      "price_original": 23.234,
       "buyers_premium_included": false,
       "sale_date": "2026-05-28",
       "image_url": null,
@@ -3372,6 +3372,39 @@
       }
     },
     {
+      "id": "sixbid-3ed3b0e4f97f",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/numisbalt/13807/russia/12241542/russia-medal-commemorating-the-arrival",
+      "title": "Russia Medal commemorating the arrival of Count Falckenstein to Russia in 1780 (R2) NGC MS 61 BN <br> Russia. Medal commemorating the arrival of Count Falckenstein (Holy Roman Emperor Joseph II) to Russia in 1780. St. Petersburg Mint. Medalist obverse. art. K. A. von Leberecht (under the image on the background: C LEBERECHT F ), copy of the die of I. K. G. Jaeger. Bronze, 71 g. Diameter 61 mm. CPM# 190. Iversen# DCXVII (vol. 2, pp. 282\u2013283). Dyakov# 185.2 (R2). For an analogue, see Smirnov# 288. Rare. NGC MS 61 BN. Only 1 pcs. in higher grade.",
+      "description": "Numisbalt | ['E-Live PREMIUM 42']",
+      "hammer_price_usd": 940.88,
+      "currency_original": "USD",
+      "price_original": 940.88,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-09",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 61,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "sixbid-a552328df5c9",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -3460,39 +3493,6 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/8585317006/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-3ed3b0e4f97f",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/numisbalt/13807/russia/12241542/russia-medal-commemorating-the-arrival",
-      "title": "Russia Medal commemorating the arrival of Count Falckenstein to Russia in 1780 (R2) NGC MS 61 BN <br> Russia. Medal commemorating the arrival of Count Falckenstein (Holy Roman Emperor Joseph II) to Russia in 1780. St. Petersburg Mint. Medalist obverse. art. K. A. von Leberecht (under the image on the background: C LEBERECHT F ), copy of the die of I. K. G. Jaeger. Bronze, 71 g. Diameter 61 mm. CPM# 190. Iversen# DCXVII (vol. 2, pp. 282\u2013283). Dyakov# 185.2 (R2). For an analogue, see Smirnov# 288. Rare. NGC MS 61 BN. Only 1 pcs. in higher grade.",
-      "description": "Numisbalt | ['E-Live PREMIUM 42']",
-      "hammer_price_usd": 940.88,
-      "currency_original": "USD",
-      "price_original": 940.88,
-      "buyers_premium_included": false,
-      "sale_date": "2026-05-09",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 61,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
         "grading_service": "ngc"
       },
       "metadata": {
@@ -3757,39 +3757,6 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/6323610013/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-8b117468e414",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/numismatica-ars-classica-zurich/13423/raccolta-anpb-di-scudi-talleri/11854317/occupazione-austriaca-dei-paesi-bassi",
-      "title": "<b>Occupazione Austriaca dei Paesi Bassi.  Franz I Habsburg (1745-1765)&nbsp;&nbsp;</b> <br> KronenTaler 1756, Anversa AR. \u201dSlab\u201d FRANCIS\u00b7I\u00b7D\u00b7GRATIA  ROMAN\u00b7IMPERAT\u00b7S\u00b7A\u00b7(mano) Doppia aquila coronata e caricata da stemma Asburgo, attorno il Collare. Rv: GERM\u00b7JERO\u00b7REX\u00b7 LOTH\u00b7BAR\u00b7MAG\u00b7HET\u00b7 DUX\u00b71756 Croce di Borgogna accantonata da tre corone imperiali. T[ In rilievo DOMINE SPERAVI (B). h. Davenport 1283. Herinek 215.<br>Fdc<br><br>\u201dSlab\u201d NGC MS63 (4821336-013) Ex asta WAG 111, Arnsberg (D) 2020, 4141.<br>La moneta \u00e8 stata chiusa nello \u201dSlab\u201d con il diritto al posto del rovescio",
-      "description": "Numismatica Ars Classica, Zurich | ['Auction 163']",
-      "hammer_price_usd": 2625.3,
-      "currency_original": "USD",
-      "price_original": 2625.3,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-02",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "4821336-013",
-        "grade": "MS",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/4821336013/",
         "grading_service": "ngc"
       },
       "metadata": {
@@ -4718,6 +4685,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-8b117468e414",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/numismatica-ars-classica-zurich/13423/raccolta-anpb-di-scudi-talleri/11854317/occupazione-austriaca-dei-paesi-bassi",
+      "title": "<b>Occupazione Austriaca dei Paesi Bassi.  Franz I Habsburg (1745-1765)&nbsp;&nbsp;</b> <br> KronenTaler 1756, Anversa AR. \u201dSlab\u201d FRANCIS\u00b7I\u00b7D\u00b7GRATIA  ROMAN\u00b7IMPERAT\u00b7S\u00b7A\u00b7(mano) Doppia aquila coronata e caricata da stemma Asburgo, attorno il Collare. Rv: GERM\u00b7JERO\u00b7REX\u00b7 LOTH\u00b7BAR\u00b7MAG\u00b7HET\u00b7 DUX\u00b71756 Croce di Borgogna accantonata da tre corone imperiali. T[ In rilievo DOMINE SPERAVI (B). h. Davenport 1283. Herinek 215.<br>Fdc<br><br>\u201dSlab\u201d NGC MS63 (4821336-013) Ex asta WAG 111, Arnsberg (D) 2020, 4141.<br>La moneta \u00e8 stata chiusa nello \u201dSlab\u201d con il diritto al posto del rovescio",
+      "description": "Numismatica Ars Classica, Zurich | ['Auction 163']",
+      "hammer_price_usd": 2625.3,
+      "currency_original": "USD",
+      "price_original": 2625.3,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-02",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "4821336-013",
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/4821336013/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

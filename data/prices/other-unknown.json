@@ -17,7 +17,7 @@
     "max": 312000.0
   },
   "median_price_usd": 900.0,
-  "last_sale_date": "2026-06-01",
+  "last_sale_date": "2026-06-02",
   "grade_distribution": {
     "VF": 335,
     "XF": 219,
@@ -49,7 +49,7 @@
       "currency_original": "USD",
       "price_original": 6000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-01",
+      "sale_date": "2026-06-02",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -82,7 +82,7 @@
       "currency_original": "USD",
       "price_original": 550.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-01",
+      "sale_date": "2026-06-02",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -115,7 +115,7 @@
       "currency_original": "USD",
       "price_original": 13000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-01",
+      "sale_date": "2026-06-02",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -148,7 +148,7 @@
       "currency_original": "USD",
       "price_original": 14000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-01",
+      "sale_date": "2026-06-02",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -181,7 +181,7 @@
       "currency_original": "USD",
       "price_original": 1600.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-01",
+      "sale_date": "2026-06-02",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -214,7 +214,7 @@
       "currency_original": "USD",
       "price_original": 1500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-01",
+      "sale_date": "2026-06-02",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1326,39 +1326,6 @@
       }
     },
     {
-      "id": "sixbid-e2afa7bd840b",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/numismatica-ars-classica-zurich/13423/raccolta-anpb-di-scudi-talleri/11854918/russia-zarina-anna-ivanovna",
-      "title": "<b>RUSSIA.  Zarina Anna Ivanovna Romanova (1730-1740)&nbsp;&nbsp;</b> <br> Rublo 1731, Kadaszewski, Moscow AR. 25,34g. \u00f840,2mm. \u0411\u041c\u00b7\u0410\u041d\u041d\u0410\u00b7I\u041c\u041f\u0415\u0420\u0410\u0422\u0420\u0418\u0426\u0410 I\u0421\u0410\u041c\u041e\u0414\u0415\u0420\u0416\u0418\u0426\u0410 \u0412\u0421\u0415\u0420\u041e\u0421\u0418\u0421\u041a\u0410\u042f\u00b7Busto a d. con spilla. Rv: \u041c\u041e\u041d\u0415\u0422\u0410 \u0420Y\u0411\u041b\u042c 1731 Aquila imperiale. T[ Foglie in rilievo. h. Davenport 1670. Bitkin 40.<br>Metallo lucente, tondello irregolare, altrimenti Spl<br><br>Ex NGC AU 55 (5774507-014). Ex asta Rare Coins E-A11, Mosca 2020, 135.",
-      "description": "Numismatica Ars Classica, Zurich | ['Auction 163']",
-      "hammer_price_usd": 641.74,
-      "currency_original": "USD",
-      "price_original": 641.74,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-02",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "5774507-014",
-        "grade": "AU",
-        "grade_numeric": 55,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/5774507014/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "sixbid-afac070c7963",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -1381,72 +1348,6 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/8586307002/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-e6b145882cfd",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/numismatica-ars-classica-zurich/13423/raccolta-anpb-di-scudi-talleri/11854167/austria-sacro-romano-impero",
-      "title": "<b>AUSTRIA.  Sacro Romano Impero Arciduca Ferdinando I d'Austria (1522-1564)&nbsp;&nbsp;</b> <br> ReichsTaler, Ensisheim AR. \u201dSlab\u201d. \u2022FERDINAND:D:G:ARCHIDVX:AVSTRIAE\u2022 Busto coronato con corazza con due file di bottoni (tipologia molto rara), a d. Rv: \u2022DVX\u2022BVRGVNDI\u00c6   COMES\u2022TIROLIS Stemma coronato attorno il collare. h. Davenport 8097, Voglhuber 87/var. IV. Moser & Tursky 271. Z\u00f6ttl 974.<br>Raro. Migliore di Spl<br><br>\u201dSlab\u201d NGC MS 61 (5719513-001).",
-      "description": "Numismatica Ars Classica, Zurich | ['Auction 163']",
-      "hammer_price_usd": 758.42,
-      "currency_original": "USD",
-      "price_original": 758.42,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-02",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "5719513-001",
-        "grade": "MS",
-        "grade_numeric": 61,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/5719513001/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-97428dc78edc",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/numismatica-ars-classica-zurich/13423/raccolta-anpb-di-scudi-talleri/11854916/russia-zar-petr-ii",
-      "title": "<b>RUSSIA.  Zar P\u00ebtr II Alekseevi\u00e8 Romanov (1727-1730)&nbsp;&nbsp;</b> <br> Rublo 1728, Kadaszewski, Moscow AR. 28,14g. \u00f840,7mm. \u041f\u0415\u0422\u0420\u042c II \u0418\u041c\u041f\u0415\u0420\u0410\u0422\u041e\u0420\u042c \u0418 \u0421\u0410\u041c\u041e\u0414\u0415\u0420\u0416\u0415\u0426\u042c \u0412\u0421\u0415\u0420\u041e\u0421I\u0418\u0421\u041a\u0418 Busto laureato e corazzato a d., sotto, \u2022Rv: \u041c\u041e\u041d\u0415\u0422\u0410 \u041d\u041e\u0412\u0410\u042f \u0426\u0415\u041d\u0410 \u0420\u0423\u0411\u041b\u042c Croce composta da lettere \u041f coronate negli angoli. Al centro 17 28. T[ Come precedente. h Davenport 1668. Bitkin 59.<br>Raro. Spl<br><br>Ex \u201dSlab\u201d NGC AU 53 (3997941-012). Ex asta Katz16, Praga 2018, 695.",
-      "description": "Numismatica Ars Classica, Zurich | ['Auction 163']",
-      "hammer_price_usd": 1866.88,
-      "currency_original": "USD",
-      "price_original": 1866.88,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-02",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "3997941-012",
-        "grade": "AU",
-        "grade_numeric": 53,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/3997941012/",
         "grading_service": "ngc"
       },
       "metadata": {
@@ -2342,6 +2243,105 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-e2afa7bd840b",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/numismatica-ars-classica-zurich/13423/raccolta-anpb-di-scudi-talleri/11854918/russia-zarina-anna-ivanovna",
+      "title": "<b>RUSSIA.  Zarina Anna Ivanovna Romanova (1730-1740)&nbsp;&nbsp;</b> <br> Rublo 1731, Kadaszewski, Moscow AR. 25,34g. \u00f840,2mm. \u0411\u041c\u00b7\u0410\u041d\u041d\u0410\u00b7I\u041c\u041f\u0415\u0420\u0410\u0422\u0420\u0418\u0426\u0410 I\u0421\u0410\u041c\u041e\u0414\u0415\u0420\u0416\u0418\u0426\u0410 \u0412\u0421\u0415\u0420\u041e\u0421\u0418\u0421\u041a\u0410\u042f\u00b7Busto a d. con spilla. Rv: \u041c\u041e\u041d\u0415\u0422\u0410 \u0420Y\u0411\u041b\u042c 1731 Aquila imperiale. T[ Foglie in rilievo. h. Davenport 1670. Bitkin 40.<br>Metallo lucente, tondello irregolare, altrimenti Spl<br><br>Ex NGC AU 55 (5774507-014). Ex asta Rare Coins E-A11, Mosca 2020, 135.",
+      "description": "Numismatica Ars Classica, Zurich | ['Auction 163']",
+      "hammer_price_usd": 641.74,
+      "currency_original": "USD",
+      "price_original": 641.74,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-02",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "5774507-014",
+        "grade": "AU",
+        "grade_numeric": 55,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/5774507014/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-e6b145882cfd",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/numismatica-ars-classica-zurich/13423/raccolta-anpb-di-scudi-talleri/11854167/austria-sacro-romano-impero",
+      "title": "<b>AUSTRIA.  Sacro Romano Impero Arciduca Ferdinando I d'Austria (1522-1564)&nbsp;&nbsp;</b> <br> ReichsTaler, Ensisheim AR. \u201dSlab\u201d. \u2022FERDINAND:D:G:ARCHIDVX:AVSTRIAE\u2022 Busto coronato con corazza con due file di bottoni (tipologia molto rara), a d. Rv: \u2022DVX\u2022BVRGVNDI\u00c6   COMES\u2022TIROLIS Stemma coronato attorno il collare. h. Davenport 8097, Voglhuber 87/var. IV. Moser & Tursky 271. Z\u00f6ttl 974.<br>Raro. Migliore di Spl<br><br>\u201dSlab\u201d NGC MS 61 (5719513-001).",
+      "description": "Numismatica Ars Classica, Zurich | ['Auction 163']",
+      "hammer_price_usd": 758.42,
+      "currency_original": "USD",
+      "price_original": 758.42,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-02",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "5719513-001",
+        "grade": "MS",
+        "grade_numeric": 61,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/5719513001/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-97428dc78edc",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/numismatica-ars-classica-zurich/13423/raccolta-anpb-di-scudi-talleri/11854916/russia-zar-petr-ii",
+      "title": "<b>RUSSIA.  Zar P\u00ebtr II Alekseevi\u00e8 Romanov (1727-1730)&nbsp;&nbsp;</b> <br> Rublo 1728, Kadaszewski, Moscow AR. 28,14g. \u00f840,7mm. \u041f\u0415\u0422\u0420\u042c II \u0418\u041c\u041f\u0415\u0420\u0410\u0422\u041e\u0420\u042c \u0418 \u0421\u0410\u041c\u041e\u0414\u0415\u0420\u0416\u0415\u0426\u042c \u0412\u0421\u0415\u0420\u041e\u0421I\u0418\u0421\u041a\u0418 Busto laureato e corazzato a d., sotto, \u2022Rv: \u041c\u041e\u041d\u0415\u0422\u0410 \u041d\u041e\u0412\u0410\u042f \u0426\u0415\u041d\u0410 \u0420\u0423\u0411\u041b\u042c Croce composta da lettere \u041f coronate negli angoli. Al centro 17 28. T[ Come precedente. h Davenport 1668. Bitkin 59.<br>Raro. Spl<br><br>Ex \u201dSlab\u201d NGC AU 53 (3997941-012). Ex asta Katz16, Praga 2018, 695.",
+      "description": "Numismatica Ars Classica, Zurich | ['Auction 163']",
+      "hammer_price_usd": 1866.88,
+      "currency_original": "USD",
+      "price_original": 1866.88,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-02",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "3997941-012",
+        "grade": "AU",
+        "grade_numeric": 53,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/3997941012/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
