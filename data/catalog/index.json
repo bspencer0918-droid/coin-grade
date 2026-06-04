@@ -1,7 +1,43 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-06-03T11:21:17.404380+00:00",
+  "generated_at": "2026-06-04T10:19:55.250221+00:00",
   "coins": [
+    {
+      "slug": "celtic-gaulish-ar-quinarius",
+      "category": "celtic",
+      "ruler": "Gaulish Tribes",
+      "ruler_normalized": "gaulish",
+      "dynasty": "Gaul",
+      "ruler_dates": null,
+      "ruler_rarity": null,
+      "denomination": "AR Quinarius",
+      "metal": "silver",
+      "sale_count": 155,
+      "realized_count": 155,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 49.0,
+        "max": 850.0
+      },
+      "median_price_usd": 114.0,
+      "last_sale_date": "2026-06-04",
+      "grade_distribution": {
+        "XF": 114,
+        "AU": 19,
+        "VF": 19,
+        "F": 3
+      },
+      "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-7-9-4-8-27948200&w=120&h=300&it=product",
+      "median_weight_g": null,
+      "top_strike_score": 5,
+      "top_surface_score": 3,
+      "top_grade_numeric": null,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
     {
       "slug": "greek-ar-obol",
       "category": "greek",
@@ -21,7 +57,7 @@
         "max": 2640.0
       },
       "median_price_usd": 850.0,
-      "last_sale_date": "2026-06-03",
+      "last_sale_date": "2026-06-04",
       "grade_distribution": {
         "VF": 1,
         "AU": 4,
@@ -59,7 +95,7 @@
         "max": 195000.0
       },
       "median_price_usd": 550.0,
-      "last_sale_date": "2026-06-03",
+      "last_sale_date": "2026-06-04",
       "grade_distribution": {
         "VF": 36,
         "F": 11,
@@ -98,7 +134,7 @@
         "max": 720000.0
       },
       "median_price_usd": 264.0,
-      "last_sale_date": "2026-06-03",
+      "last_sale_date": "2026-06-04",
       "grade_distribution": {
         "P": 2,
         "XF": 1697,
@@ -139,7 +175,7 @@
         "max": 600000.0
       },
       "median_price_usd": 117000.0,
-      "last_sale_date": "2026-06-03",
+      "last_sale_date": "2026-06-04",
       "grade_distribution": {
         "P": 2,
         "AU": 1,
@@ -177,7 +213,7 @@
         "max": 19200.0
       },
       "median_price_usd": 4320.0,
-      "last_sale_date": "2026-06-03",
+      "last_sale_date": "2026-06-04",
       "grade_distribution": {
         "MS": 63,
         "AU": 117,
@@ -215,7 +251,7 @@
         "max": 300.0
       },
       "median_price_usd": 230.0,
-      "last_sale_date": "2026-06-03",
+      "last_sale_date": "2026-06-04",
       "grade_distribution": {
         "XF": 2
       },
@@ -248,7 +284,7 @@
         "max": 536800.0
       },
       "median_price_usd": 5040.0,
-      "last_sale_date": "2026-06-03",
+      "last_sale_date": "2026-06-04",
       "grade_distribution": {
         "AU": 182,
         "MS": 269,
@@ -286,7 +322,7 @@
         "max": 960.0
       },
       "median_price_usd": 325.0,
-      "last_sale_date": "2026-06-03",
+      "last_sale_date": "2026-06-04",
       "grade_distribution": {
         "XF": 10,
         "MS": 20,
@@ -324,7 +360,7 @@
         "max": 21600.0
       },
       "median_price_usd": 810.0,
-      "last_sale_date": "2026-06-03",
+      "last_sale_date": "2026-06-04",
       "grade_distribution": {
         "VF": 30,
         "XF": 31,
@@ -361,7 +397,7 @@
         "max": 4320.0
       },
       "median_price_usd": 264.0,
-      "last_sale_date": "2026-06-03",
+      "last_sale_date": "2026-06-04",
       "grade_distribution": {
         "XF": 17,
         "VF": 20,
@@ -400,7 +436,7 @@
         "max": 1700.0
       },
       "median_price_usd": 1450.0,
-      "last_sale_date": "2026-06-03",
+      "last_sale_date": "2026-06-04",
       "grade_distribution": {
         "XF": 2,
         "VF": 1
@@ -434,7 +470,7 @@
         "max": 8400.0
       },
       "median_price_usd": 159.0,
-      "last_sale_date": "2026-06-03",
+      "last_sale_date": "2026-06-04",
       "grade_distribution": {
         "VF": 42,
         "XF": 173,
@@ -474,7 +510,7 @@
         "max": 350.0
       },
       "median_price_usd": 350.0,
-      "last_sale_date": "2026-06-03",
+      "last_sale_date": "2026-06-04",
       "grade_distribution": {
         "XF": 1
       },
@@ -507,7 +543,7 @@
         "max": 82278.0
       },
       "median_price_usd": 1860.48,
-      "last_sale_date": "2026-06-03",
+      "last_sale_date": "2026-06-04",
       "grade_distribution": {
         "XF": 47,
         "VF": 36,
@@ -548,7 +584,7 @@
         "max": 292800.0
       },
       "median_price_usd": 1920.0,
-      "last_sale_date": "2026-06-03",
+      "last_sale_date": "2026-06-04",
       "grade_distribution": {
         "VF": 265,
         "XF": 365,
@@ -588,7 +624,7 @@
         "max": 312000.0
       },
       "median_price_usd": 900.0,
-      "last_sale_date": "2026-06-03",
+      "last_sale_date": "2026-06-04",
       "grade_distribution": {
         "VF": 335,
         "XF": 219,
@@ -628,7 +664,7 @@
         "max": 180000.0
       },
       "median_price_usd": 8400.0,
-      "last_sale_date": "2026-06-03",
+      "last_sale_date": "2026-06-04",
       "grade_distribution": {
         "VF": 12,
         "XF": 44,
@@ -1004,7 +1040,7 @@
         "max": 3360.0
       },
       "median_price_usd": 960.0,
-      "last_sale_date": "2026-06-03",
+      "last_sale_date": "2026-06-04",
       "grade_distribution": {
         "VF": 3,
         "AU": 7,
@@ -1372,7 +1408,7 @@
         "max": 114000.0
       },
       "median_price_usd": 18000.0,
-      "last_sale_date": "2026-06-03",
+      "last_sale_date": "2026-06-04",
       "grade_distribution": {
         "XF": 16,
         "AU": 31,
@@ -3092,7 +3128,7 @@
         "max": 10000.0
       },
       "median_price_usd": 144.0,
-      "last_sale_date": "2026-06-03",
+      "last_sale_date": "2026-06-04",
       "grade_distribution": {
         "F": 11,
         "VF": 84,
@@ -3508,7 +3544,7 @@
         "max": 3720.0
       },
       "median_price_usd": 264.0,
-      "last_sale_date": "2026-06-03",
+      "last_sale_date": "2026-06-04",
       "grade_distribution": {
         "VF": 77,
         "AU": 12,
@@ -7647,6 +7683,39 @@
       "mint_mark": null
     },
     {
+      "slug": "roman-decius-ar-tetradrachm",
+      "category": "roman",
+      "ruler": "Decius",
+      "ruler_normalized": "decius",
+      "dynasty": "Crisis of the Third Century",
+      "ruler_dates": "AD 249\u2013251",
+      "ruler_rarity": "scarce",
+      "denomination": "AR Tetradrachm",
+      "metal": "silver",
+      "sale_count": 1,
+      "realized_count": 1,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 80.0,
+        "max": 80.0
+      },
+      "median_price_usd": 80.0,
+      "last_sale_date": "2026-04-13",
+      "grade_distribution": {
+        "VF": 1
+      },
+      "thumbnail_url": null,
+      "median_weight_g": null,
+      "top_strike_score": null,
+      "top_surface_score": null,
+      "top_grade_numeric": null,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
       "slug": "persian-darius-i-unknown",
       "category": "persian",
       "ruler": "Darius I",
@@ -7942,10 +8011,10 @@
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 1.0,
+        "min": 79.0,
         "max": 6600.0
       },
-      "median_price_usd": 177.0,
+      "median_price_usd": 180.0,
       "last_sale_date": "2026-06-01",
       "grade_distribution": {
         "MS": 8,
@@ -9082,7 +9151,7 @@
         "max": 216000.0
       },
       "median_price_usd": 960.0,
-      "last_sale_date": "2026-06-03",
+      "last_sale_date": "2026-06-04",
       "grade_distribution": {
         "AU": 84,
         "MS": 162,
@@ -9368,7 +9437,7 @@
         "max": 1950.0
       },
       "median_price_usd": 1950.0,
-      "last_sale_date": "2026-06-03",
+      "last_sale_date": "2026-06-04",
       "grade_distribution": {
         "P": 1
       },
@@ -9401,7 +9470,7 @@
         "max": 5040.0
       },
       "median_price_usd": 528.0,
-      "last_sale_date": "2026-06-03",
+      "last_sale_date": "2026-06-04",
       "grade_distribution": {
         "P": 1,
         "AU": 7,
@@ -9441,7 +9510,7 @@
         "max": 3240.0
       },
       "median_price_usd": 504.0,
-      "last_sale_date": "2026-06-03",
+      "last_sale_date": "2026-06-04",
       "grade_distribution": {
         "F": 1,
         "AU": 1,
@@ -9478,7 +9547,7 @@
         "max": 50400.0
       },
       "median_price_usd": 1680.0,
-      "last_sale_date": "2026-06-03",
+      "last_sale_date": "2026-06-04",
       "grade_distribution": {
         "G": 2,
         "VF": 10,
@@ -14262,39 +14331,6 @@
       "top_strike_score": 4,
       "top_surface_score": 3,
       "top_grade_numeric": 4,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
-      "slug": "roman-decius-ar-tetradrachm",
-      "category": "roman",
-      "ruler": "Decius",
-      "ruler_normalized": "decius",
-      "dynasty": "Crisis of the Third Century",
-      "ruler_dates": "AD 249\u2013251",
-      "ruler_rarity": "scarce",
-      "denomination": "AR Tetradrachm",
-      "metal": "silver",
-      "sale_count": 1,
-      "realized_count": 1,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 80.0,
-        "max": 80.0
-      },
-      "median_price_usd": 80.0,
-      "last_sale_date": "2026-04-13",
-      "grade_distribution": {
-        "VF": 1
-      },
-      "thumbnail_url": null,
-      "median_weight_g": null,
-      "top_strike_score": null,
-      "top_surface_score": null,
-      "top_grade_numeric": null,
       "dominant_service": "ngc",
       "series": null,
       "date_struck": null,
@@ -21192,42 +21228,6 @@
       "top_strike_score": 5,
       "top_surface_score": 3,
       "top_grade_numeric": 5,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
-      "slug": "celtic-gaulish-ar-quinarius",
-      "category": "celtic",
-      "ruler": "Gaulish Tribes",
-      "ruler_normalized": "gaulish",
-      "dynasty": "Gaul",
-      "ruler_dates": null,
-      "ruler_rarity": null,
-      "denomination": "AR Quinarius",
-      "metal": "silver",
-      "sale_count": 154,
-      "realized_count": 154,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 49.0,
-        "max": 480.0
-      },
-      "median_price_usd": 114.0,
-      "last_sale_date": "2025-12-25",
-      "grade_distribution": {
-        "AU": 19,
-        "XF": 113,
-        "VF": 19,
-        "F": 3
-      },
-      "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-7-9-4-8-27948200&w=120&h=300&it=product",
-      "median_weight_g": null,
-      "top_strike_score": 3,
-      "top_surface_score": 5,
-      "top_grade_numeric": 3,
       "dominant_service": "ngc",
       "series": null,
       "date_struck": null,
