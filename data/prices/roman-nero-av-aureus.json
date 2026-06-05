@@ -138,39 +138,6 @@
       }
     },
     {
-      "id": "coinarchives-6fc3c82d8767",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739814&AucID=7076&Lot=32104&Val=abee46d63378d71876f34f87e7f8f2ba",
-      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 32104 \u2014 Ancients\nNero, as Augustus (AD 54-68). AV aureus (18mm, 7.47 gm, 7h). NGC Fine 4/5 - 3/5, light marks. Roma and Lugdunum, AD 61-62. NERO\u2022CAESAR\u2022AVG\u2022IMP, bareheaded bust of Nero right / PONTIF MAX-TR P",
-      "description": "Ancients\nNero, as Augustus (AD 54-68). AV aureus (18mm, 7.47 gm, 7h). NGC Fine 4/5 - 3/5, light marks. Roma and Lugdunum, AD 61-62. NERO\u2022CAESAR\u2022AVG\u2022IMP, bareheaded bust of Nero right / PONTIF MAX-TR P VIII COS IIII P P, Roma standing right, wearing military attire, left foot on cuirass, inscribing shield in left hand with right; EX-S C across fields. Calic\u00f3 433. RIC I 33. \n\nEx Davissons, Electronic Auction 29 (24 April 2019), lot 4; Davissons, Auction 15 (29 March 2001), lot 6.  www.HA.com/Tex...",
-      "hammer_price_usd": 3400.0,
-      "currency_original": "USD",
-      "price_original": 3400.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-04-29",
-      "image_url": "https://media.coinarchives.com/cea79c05794767528677b067c01dabd0/img/heritage/3132/image32104.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "F",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-fa7a70c0f2e7",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -223,6 +190,39 @@
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-6fc3c82d8767",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739814&AucID=7076&Lot=32104&Val=abee46d63378d71876f34f87e7f8f2ba",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 32104 \u2014 Ancients\nNero, as Augustus (AD 54-68). AV aureus (18mm, 7.47 gm, 7h). NGC Fine 4/5 - 3/5, light marks. Roma and Lugdunum, AD 61-62. NERO\u2022CAESAR\u2022AVG\u2022IMP, bareheaded bust of Nero right / PONTIF MAX-TR P",
+      "description": "Ancients\nNero, as Augustus (AD 54-68). AV aureus (18mm, 7.47 gm, 7h). NGC Fine 4/5 - 3/5, light marks. Roma and Lugdunum, AD 61-62. NERO\u2022CAESAR\u2022AVG\u2022IMP, bareheaded bust of Nero right / PONTIF MAX-TR P VIII COS IIII P P, Roma standing right, wearing military attire, left foot on cuirass, inscribing shield in left hand with right; EX-S C across fields. Calic\u00f3 433. RIC I 33. \n\nEx Davissons, Electronic Auction 29 (24 April 2019), lot 4; Davissons, Auction 15 (29 March 2001), lot 6.  www.HA.com/Tex...",
+      "hammer_price_usd": 3400.0,
+      "currency_original": "USD",
+      "price_original": 3400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/cea79c05794767528677b067c01dabd0/img/heritage/3132/image32104.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
