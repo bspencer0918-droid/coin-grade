@@ -8,22 +8,22 @@
   "ruler_rarity": null,
   "denomination": "AR Siglos",
   "metal": "silver",
-  "sale_count": 11,
-  "realized_count": 11,
+  "sale_count": 12,
+  "realized_count": 12,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 780.0,
     "max": 5856.0
   },
-  "median_price_usd": 3120.0,
+  "median_price_usd": 3300.0,
   "last_sale_date": "2026-01-12",
   "grade_distribution": {
-    "VF": 3,
+    "VF": 4,
     "XF": 6,
     "AU": 2
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-3-5-7-3-33573062&w=120&h=300&it=product",
+  "thumbnail_url": "https://media.coinarchives.com/fb799958c8d56ac55ba93e3d64448d19/img/heritage/3129/image33053.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 2,
@@ -33,6 +33,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-cad815799f3e",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687319&AucID=6920&Lot=33053&Val=1db7768e8c6a5dbab793dfc024d4474f",
+      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3129, Lot 33053 \u2014 Ancients\nACHAEMENID PERSIA. Darius I (ca. 520-505 BC). AR siglos (15mm, 5.21 gm). NGC Choice VF 5/5 - 2/5, countermark. Half-length bust of Persian hero-king right, crowned and wearing royal robes, bo",
+      "description": "Ancients\nACHAEMENID PERSIA. Darius I (ca. 520-505 BC). AR siglos (15mm, 5.21 gm). NGC Choice VF 5/5 - 2/5, countermark. Half-length bust of Persian hero-king right, crowned and wearing royal robes, bow outward in left hand, arrows in right / Oblong incuse punch. Carradice Type I (pl. XI, 10). BMC Arabia pl. XXVII, 25. Sunrise 17. A fine example of this rare issue. \n\nFrom The Cambridge Collection. Ex Classical Numismatic Auction, Electronic Auction 440 (20 March 2019), lot 218.  www.HA.com/Texa...",
+      "hammer_price_usd": 4800.0,
+      "currency_original": "USD",
+      "price_original": 4800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-12",
+      "image_url": "https://media.coinarchives.com/fb799958c8d56ac55ba93e3d64448d19/img/heritage/3129/image33053.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-bb3a16d9d28a",
       "source": "heritage",

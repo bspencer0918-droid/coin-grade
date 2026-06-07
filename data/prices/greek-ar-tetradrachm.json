@@ -17,7 +17,7 @@
     "max": 292800.0
   },
   "median_price_usd": 1920.0,
-  "last_sale_date": "2026-06-06",
+  "last_sale_date": "2026-06-07",
   "grade_distribution": {
     "VF": 265,
     "XF": 365,
@@ -49,7 +49,7 @@
       "currency_original": "USD",
       "price_original": 1300.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-06",
+      "sale_date": "2026-06-07",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1666,7 +1666,7 @@
       "currency_original": "USD",
       "price_original": 2750.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-06",
+      "sale_date": "2026-06-07",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc101757a.jpg",
       "ngc": {
         "verified": false,
@@ -1973,6 +1973,39 @@
         "strike_score": 5,
         "surface_score": 2,
         "details_grade": "Scratche",
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-7861bdcd1155",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687333&AucID=6920&Lot=34003&Val=7061fd250c0d3272aa32b2737e426dc6",
+      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3129, Lot 34003 \u2014 Ancients\nSICULO-PUNIC. Sicily. Entella. Ca. 320-300 BC. AR tetradrachm (26mm, 16.79 gm, 3h). NGC AU\u2605 4/5 - 4/5, hairlines. Mem issue. Head of Arethusa left, wreathed with reeds, wearing pearl necklace",
+      "description": "Ancients\nSICULO-PUNIC. Sicily. Entella. Ca. 320-300 BC. AR tetradrachm (26mm, 16.79 gm, 3h). NGC AU\u2605 4/5 - 4/5, hairlines. Mem issue. Head of Arethusa left, wreathed with reeds, wearing pearl necklace and triple drop pendant earring; four dolphins swimming around, pellet behind, dotted border / M (Punic), horse head left; palm tree with two clusters of dates behind, linear border. Glendining Lockett 959 (this coin). Jenkins 242. Cerulean and amber highlights on nicely detailed dies. \n\nEx World...",
+      "hammer_price_usd": 13000.0,
+      "currency_original": "USD",
+      "price_original": 13000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-12",
+      "image_url": "https://media.coinarchives.com/64a40b9c70e0f5873c04c6d9dd56d15e/img/heritage/3129/image34003.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
         "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
@@ -3556,39 +3589,6 @@
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-7861bdcd1155",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687333&AucID=6920&Lot=34003&Val=7061fd250c0d3272aa32b2737e426dc6",
-      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3129, Lot 34003 \u2014 Ancients\nSICULO-PUNIC. Sicily. Entella. Ca. 320-300 BC. AR tetradrachm (26mm, 16.79 gm, 3h). NGC AU\u2605 4/5 - 4/5, hairlines. Mem issue. Head of Arethusa left, wreathed with reeds, wearing pearl necklace",
-      "description": "Ancients\nSICULO-PUNIC. Sicily. Entella. Ca. 320-300 BC. AR tetradrachm (26mm, 16.79 gm, 3h). NGC AU\u2605 4/5 - 4/5, hairlines. Mem issue. Head of Arethusa left, wreathed with reeds, wearing pearl necklace and triple drop pendant earring; four dolphins swimming around, pellet behind, dotted border / M (Punic), horse head left; palm tree with two clusters of dates behind, linear border. Glendining Lockett 959 (this coin). Jenkins 242. Cerulean and amber highlights on nicely detailed dies. \n\nEx World...",
-      "hammer_price_usd": 13000.0,
-      "currency_original": "USD",
-      "price_original": 13000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-12",
-      "image_url": "https://media.coinarchives.com/64a40b9c70e0f5873c04c6d9dd56d15e/img/heritage/3129/image34003.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

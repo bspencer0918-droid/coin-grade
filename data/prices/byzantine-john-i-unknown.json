@@ -27,9 +27,9 @@
   },
   "thumbnail_url": "https://media.coinarchives.com/b5cc0c814c5874aa9e3314d03b74f599/img/ponterio/cco_may26/image73273.jpg",
   "median_weight_g": null,
-  "top_strike_score": 4,
-  "top_surface_score": 3,
-  "top_grade_numeric": 4,
+  "top_strike_score": 3,
+  "top_surface_score": 4,
+  "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
@@ -69,39 +69,6 @@
       }
     },
     {
-      "id": "coinarchives-1db0ddb3e2c9",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2678957&AucID=6872&Lot=25308&Val=8a512ea308979fb2ec5603bb85c9930e",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61557, Lot 25308 \u2014 Ancients\nJohn III Ducas-Vatatzes, Empire of Nicaea (AD 1221/2-1254), AV hyperpyron (28mm, 4.59 gm, 5h). NGC MS 4/5 - 3/5, marks, die shift, brushed. Magnesia. IC-XC (barred), Christ seated facing on b",
-      "description": "Ancients\nJohn III Ducas-Vatatzes, Empire of Nicaea (AD 1221/2-1254), AV hyperpyron (28mm, 4.59 gm, 5h). NGC MS 4/5 - 3/5, marks, die shift, brushed. Magnesia. IC-XC (barred), Christ seated facing on backless throne, wearing nimbus cruciger with one pellet in each arm, pallium, and colobium, right hand raised in benediction, book of Gospels cradled in left; double border / Iw / \u0394\u0404C/\u03a0O-T/w / \u03a0I/\u03a6/V (T/w ligate), The Virgin, nimbate, standing facing (on right), wearing pallium and maphorium, crow...",
-      "hammer_price_usd": 850.0,
-      "currency_original": "USD",
-      "price_original": 850.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-29",
-      "image_url": "https://media.coinarchives.com/49da9c3d881d6c6db81c86e5f44d2a22/img/heritage/61557/image25308.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-c20b25a56008",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -122,6 +89,39 @@
         "strike_score": 4,
         "surface_score": 3,
         "details_grade": "Clipped",
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-1db0ddb3e2c9",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2678957&AucID=6872&Lot=25308&Val=8a512ea308979fb2ec5603bb85c9930e",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61557, Lot 25308 \u2014 Ancients\nJohn III Ducas-Vatatzes, Empire of Nicaea (AD 1221/2-1254), AV hyperpyron (28mm, 4.59 gm, 5h). NGC MS 4/5 - 3/5, marks, die shift, brushed. Magnesia. IC-XC (barred), Christ seated facing on b",
+      "description": "Ancients\nJohn III Ducas-Vatatzes, Empire of Nicaea (AD 1221/2-1254), AV hyperpyron (28mm, 4.59 gm, 5h). NGC MS 4/5 - 3/5, marks, die shift, brushed. Magnesia. IC-XC (barred), Christ seated facing on backless throne, wearing nimbus cruciger with one pellet in each arm, pallium, and colobium, right hand raised in benediction, book of Gospels cradled in left; double border / Iw / \u0394\u0404C/\u03a0O-T/w / \u03a0I/\u03a6/V (T/w ligate), The Virgin, nimbate, standing facing (on right), wearing pallium and maphorium, crow...",
+      "hammer_price_usd": 850.0,
+      "currency_original": "USD",
+      "price_original": 850.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-29",
+      "image_url": "https://media.coinarchives.com/49da9c3d881d6c6db81c86e5f44d2a22/img/heritage/61557/image25308.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
         "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"

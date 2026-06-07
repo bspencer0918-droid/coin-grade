@@ -20,9 +20,9 @@
   "last_sale_date": "2026-05-11",
   "grade_distribution": {
     "MS": 264,
+    "XF": 34,
     "AU": 184,
     "VF": 8,
-    "XF": 34,
     "G": 1,
     "F": 1
   },
@@ -90,6 +90,39 @@
         "strike_score": 5,
         "surface_score": 2,
         "details_grade": "Scratche",
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-d9dc884e73c9",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2754111&AucID=7120&Lot=73257&Val=3619add1b85336fbf9c31a01c61fc3ae",
+      "title": "Stack's Bowers Galleries (& Ponterio) - May 2026 World CCO Auction, Lot 73257 \u2014 MAURICE TIBERIUS, 582-602. AV Solidus (4.44 gms), Constantinople Mint, 5th Officina, ca. 583/4-602. NGC Ch EF, Strike: 4/5 Surface: 2/5. Marks, Edge Cuts, Edge Bend.\nS-478. Obverse: Helmeted and cuira",
+      "description": "MAURICE TIBERIUS, 582-602. AV Solidus (4.44 gms), Constantinople Mint, 5th Officina, ca. 583/4-602. NGC Ch EF, Strike: 4/5 Surface: 2/5. Marks, Edge Cuts, Edge Bend.\nS-478. Obverse: Helmeted and cuirassed bust facing, holding globus cruciger; Reverse: Angel standing facing, holding globus cruciger and long staff surmounted by staurogram; \u0404//CONOB. A presentable example with a well-struck portrait of the emperor. The noted defects are mostly inconsequential.\n\nEstimate: 500 - 750...",
+      "hammer_price_usd": 800.0,
+      "currency_original": "USD",
+      "price_original": 800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-11",
+      "image_url": "https://media.coinarchives.com/71ea49825ca35f1164ac6502267c4062/img/ponterio/cco_may26/image73257.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": null,
         "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
@@ -255,39 +288,6 @@
         "strike_score": 5,
         "surface_score": 5,
         "details_grade": "Clipped",
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-d9dc884e73c9",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2754111&AucID=7120&Lot=73257&Val=3619add1b85336fbf9c31a01c61fc3ae",
-      "title": "Stack's Bowers Galleries (& Ponterio) - May 2026 World CCO Auction, Lot 73257 \u2014 MAURICE TIBERIUS, 582-602. AV Solidus (4.44 gms), Constantinople Mint, 5th Officina, ca. 583/4-602. NGC Ch EF, Strike: 4/5 Surface: 2/5. Marks, Edge Cuts, Edge Bend.\nS-478. Obverse: Helmeted and cuira",
-      "description": "MAURICE TIBERIUS, 582-602. AV Solidus (4.44 gms), Constantinople Mint, 5th Officina, ca. 583/4-602. NGC Ch EF, Strike: 4/5 Surface: 2/5. Marks, Edge Cuts, Edge Bend.\nS-478. Obverse: Helmeted and cuirassed bust facing, holding globus cruciger; Reverse: Angel standing facing, holding globus cruciger and long staff surmounted by staurogram; \u0404//CONOB. A presentable example with a well-struck portrait of the emperor. The noted defects are mostly inconsequential.\n\nEstimate: 500 - 750...",
-      "hammer_price_usd": 800.0,
-      "currency_original": "USD",
-      "price_original": 800.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-05-11",
-      "image_url": "https://media.coinarchives.com/71ea49825ca35f1164ac6502267c4062/img/ponterio/cco_may26/image73257.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 2,
-        "details_grade": null,
         "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"

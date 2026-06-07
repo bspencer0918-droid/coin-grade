@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "silver",
-  "sale_count": 182,
-  "realized_count": 182,
+  "sale_count": 183,
+  "realized_count": 183,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,12 +17,12 @@
     "max": 82278.0
   },
   "median_price_usd": 1860.48,
-  "last_sale_date": "2026-06-06",
+  "last_sale_date": "2026-06-07",
   "grade_distribution": {
     "XF": 47,
     "VF": 36,
     "F": 12,
-    "AU": 47,
+    "AU": 48,
     "P": 1,
     "MS": 31,
     "G": 1,
@@ -50,7 +50,7 @@
       "currency_original": "USD",
       "price_original": 250.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-06",
+      "sale_date": "2026-06-07",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -83,7 +83,7 @@
       "currency_original": "USD",
       "price_original": 140.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-06",
+      "sale_date": "2026-06-07",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -116,7 +116,7 @@
       "currency_original": "USD",
       "price_original": 140.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-06",
+      "sale_date": "2026-06-07",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -149,7 +149,7 @@
       "currency_original": "USD",
       "price_original": 120.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-06",
+      "sale_date": "2026-06-07",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -182,7 +182,7 @@
       "currency_original": "USD",
       "price_original": 5500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-06",
+      "sale_date": "2026-06-07",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2072,6 +2072,39 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-65b4a4e88930",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687331&AucID=6920&Lot=34001&Val=d53de7b1b4b54fb3b7c07e04d3f8f644",
+      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3129, Lot 34001 \u2014 Ancients\nETRURIA. Populonia. Ca. 3rd century BC. AR 20-asses (24mm, 8.44 gm). NGC AU\u2605 5/5 - 5/5. Head of Metus facing as Gorgoneion, tongue protruding, hair bound with diadem; X : X (mark of value) be",
+      "description": "Ancients\nETRURIA. Populonia. Ca. 3rd century BC. AR 20-asses (24mm, 8.44 gm). NGC AU\u2605 5/5 - 5/5. Head of Metus facing as Gorgoneion, tongue protruding, hair bound with diadem; X : X (mark of value) below / Blank. HN Italy 152. HGC I 109. Vecchi 58.123 (this coin). Masterfully detailed on nicely toned and centered dies. \n\nEx Santamaria (4 May 1961), lot 4.   www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.ha.com/itm/ancients/greek/greek-etruria-populonia-ca-3rd-century-bc-ar-20-asses-24m...",
+      "hammer_price_usd": 30000.0,
+      "currency_original": "USD",
+      "price_original": 30000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-12",
+      "image_url": "https://media.coinarchives.com/cd081275d16b7aa8126c41636ff8cf6f/img/heritage/3129/image34001.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
