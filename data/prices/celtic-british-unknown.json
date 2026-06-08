@@ -7,23 +7,23 @@
   "ruler_dates": null,
   "ruler_rarity": null,
   "denomination": "Unknown",
-  "metal": "bronze",
-  "sale_count": 68,
-  "realized_count": 65,
+  "metal": "unknown",
+  "sale_count": 69,
+  "realized_count": 66,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 49.0,
+    "min": 1.0,
     "max": 371428.56
   },
-  "median_price_usd": 276.0,
-  "last_sale_date": "2026-05-14",
+  "median_price_usd": 270.0,
+  "last_sale_date": "2026-06-07",
   "grade_distribution": {
+    "AU": 19,
     "MS": 14,
     "G": 2,
     "P": 3,
     "XF": 11,
-    "AU": 18,
     "VF": 18,
     "F": 2
   },
@@ -37,6 +37,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-2abc5451876a",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13839/ancients-roman-imperial/12272325/carausius-romano-british-empire-ad-286-287-293",
+      "title": "Carausius, Romano-British Empire (AD 286/287-293). BI antoninianus (19mm, 2.29 gm, 6h). NGC AU S 2/5 - 3/5, double-struck.  London. IMP CARAVSIVS P F AVG, radiate, cuirassed bust of Carausius right, seen from front / LEG VII CL, bull standing right; ML in exergue. RIC V.II 75. A splendid reminder of the humanity of ancient coinage.  Ex the Historical Scholar Collection (Heritage Auctions, Auction 61297, 23 October 2022), lot 98286; Wayne Sayles Error Collection (Classical Numismatic Group, Mail Bid Sale 63, 21 May 2003), lot 1999.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61626']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-07",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 2,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-16878f7e22cd",
       "source": "sixbid",

@@ -8,22 +8,22 @@
   "ruler_rarity": null,
   "denomination": "AV Stater",
   "metal": "gold",
-  "sale_count": 382,
-  "realized_count": 382,
+  "sale_count": 387,
+  "realized_count": 387,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 1560.0,
+    "min": 1.0,
     "max": 132000.0
   },
-  "median_price_usd": 7475.0,
-  "last_sale_date": "2026-05-14",
+  "median_price_usd": 7200.0,
+  "last_sale_date": "2026-06-07",
   "grade_distribution": {
-    "AU": 150,
-    "XF": 78,
+    "AU": 153,
+    "XF": 79,
     "MS": 107,
+    "VF": 42,
     "G": 2,
-    "VF": 41,
     "F": 4
   },
   "thumbnail_url": "https://media.coinarchives.com/9bc96067098c3216f529649a0451d2b2/img/heritage/3129/image33061.jpg",
@@ -334,6 +334,39 @@
       }
     },
     {
+      "id": "sixbid-59f576998daf",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13839/ancients-greek/12272173/macedonian-kingdom-alexander-iii-the",
+      "title": "MACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AV stater (17mm, 8.61 gm, 1h). NGC AU 5/5 - 5/5, Fine Style. Lifetime-early posthumous issue, Miletus, ca. 323-319 BC. Head of Athena right, hair flowing loose and over left shoulder, wearing beaded necklace and triple-crested Corinthian helmet pushed back on head, long parallel crest ends, bowl decorated with coiled serpent right / A\u039bE\u039eAN-\u0394POY, Nike advancing left, wreath in outstretched right hand, stylis cradled in left arm; grain ear under right wing, double-headed axe in right field. Price 2094. Mirror-like surfaces with a luminating backlight.   Alexander the Great, born in 356 BC in Pella, Macedonia, was one of the most renowned military leaders and conquerors in history. He ascended to the throne after the assassination of his father, Philip II, in 336 BC, and he embarked on an ambitious campaign of expansion. His conquests included the Persian Empire, Egypt, and large parts of Asia, reaching as far as the Indus River in India. Alexander's military genius, charismatic leadership, and ability to inspire loyalty among his troops were instrumental in his success. His kingdom brought about significant cultural and political change, spreading Greek culture throughout the known world. He died in 323 BC at the age of 32 under mysterious circumstances in Babylon, marking the end of his extraordinary reign.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61626']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-07",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "sixbid-8cc3271fd9a1",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -367,6 +400,105 @@
       }
     },
     {
+      "id": "sixbid-f597117e3a24",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13839/ancients-greek/12272172/macedonian-kingdom-alexander-iii-the",
+      "title": "MACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AV stater (18mm, 8.60 gm, 8h). NGC Choice AU S 5/5 - 5/5. Lifetime-early posthumous issue, Amphipolis, ca. 330-320 BC. Head of Athena right, hair in two tight corkscrew curls, another curl at temple and two more over left shoulder, wearing beaded necklace and triple-crested Corinthian helmet pushed back on head, short divergent crest ends, bowl decorated with coiled serpent right / A\u039bE\u039eAN\u0394POY, Nike standing facing, head left, wreath in outstretched right hand, stylis cradled in left arm; vertical thunderbolt in outer left field. Price 164. Impressively centered and detailed dies.  Alexander the Great, born in 356 BC in Pella, Macedonia, was one of the most renowned military leaders and conquerors in history. He ascended to the throne after the assassination of his father, Philip II, in 336 BC, and he embarked on an ambitious campaign of expansion. His conquests included the Persian Empire, Egypt, and large parts of Asia, reaching as far as the Indus River in India. Alexander's military genius, charismatic leadership, and ability to inspire loyalty among his troops were instrumental in his success. His kingdom brought about significant cultural and political change, spreading Greek culture throughout the known world. He died in 323 BC at the age of 32 under mysterious circumstances in Babylon, marking the end of his extraordinary reign.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61626']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-07",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-2768562c1e99",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13839/ancients-greek/12272174/macedonian-kingdom-alexander-iii-the",
+      "title": "MACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AV stater (18mm, 8.50 gm, 12h). NGC AU 4/5 - 4/5, Fine Style, light marks. Late posthumous issue, Callatis, ca. 250-225 BC. Head of Athena right, hair flowing loosely over shoulder, wearing beaded necklace and triple-crested Corinthian helmet decorated with coiled serpent / \u0391\u039b\u0395\u039e\u0391\u039d\u0394\u03a1\u039f\u03a5, Nike standing facing, head left, wreath in outstretched right hand, stylis cradled in left arm; K in outer left field , A\u03a6 monogram in left field below wing. Price 902. A deeply carved and highly detailed example of this rare type.  Ex Ira & Larry Goldberg, Auction 106 (4 September 2018), lot 1033; Spink, Numismatic Circular 108 (August 2000), lot 2836.  Alexander the Great, born in 356 BC in Pella, Macedonia, was one of the most renowned military leaders and conquerors in history. He ascended to the throne after the assassination of his father, Philip II, in 336 BC, and he embarked on an ambitious campaign of expansion. His conquests included the Persian Empire, Egypt, and large parts of Asia, reaching as far as the Indus River in India. Alexander's military genius, charismatic leadership, and ability to inspire loyalty among his troops were instrumental in his success. His kingdom brought about significant cultural and political change, spreading Greek culture throughout the known world. He died in 323 BC at the age of 32 under mysterious circumstances in Babylon, marking the end of his extraordinary reign.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61626']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-07",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-58222d98844a",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13839/ancients-greek/12272175/macedonian-kingdom-alexander-iii-the",
+      "title": "MACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AV stater (19mm, 8.51 gm, 11h). NGC XF 5/5 - 2/5, Fine Style, scratches, marks, die shift. Posthumous issue, Memphis, under Ptolemy I Soter, as Satrap, ca. 323-311 BC. Head of Athena right, hair flowing loose, over left shoulder, and upswept at temple, wearing triple crested Corinthian helmet pushed back on head, wavy parallel crest ends, bowl decorated with coiled serpent right / A\u039bE\u039eAN\u0394POY, Nike standing facing, head left, wreath in outstretched right hand, stylis cradled in left arm; rose in outer left field, \u0394 in left field below wing. Price 3967. Reflective, honeyed dies highlight this rare type.   Alexander the Great, born in 356 BC in Pella, Macedonia, was one of the most renowned military leaders and conquerors in history. He ascended to the throne after the assassination of his father, Philip II, in 336 BC, and he embarked on an ambitious campaign of expansion. His conquests included the Persian Empire, Egypt, and large parts of Asia, reaching as far as the Indus River in India. Alexander's military genius, charismatic leadership, and ability to inspire loyalty among his troops were instrumental in his success. His kingdom brought about significant cultural and political change, spreading Greek culture throughout the known world. He died in 323 BC at the age of 32 under mysterious circumstances in Babylon, marking the end of his extraordinary reign.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61626']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-07",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": "Scratche",
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "sixbid-c1d2bf58826c",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -388,6 +520,39 @@
         "surface_score": 5,
         "details_grade": null,
         "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-5cc7b36f792a",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13839/ancients-greek/12272176/macedonian-kingdom-alexander-iii-the",
+      "title": "MACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AV stater (19mm, 8.53 gm, 5h). NGC Choice VF 5/5 - 5/5, Fine Style. Posthumous issue of Babylon, by Antigonos I Monophthalmos, as Strategos of Asia, under Peithon, ca. 315-311 BC. Head of Athena right, hair flowing loose in waves, over left shoulder, and upswept at temple, wearing pendant earring, double beaded necklace, and triple crested Corinthian helmet pushed back on head, short parallel crest ends, bowl decorated with coiled serpent right / A\u039bE\u039eAN\u0394POY / BA-\u03a3I\u039bE\u03a9\u03a3, Nike standing left, wreath in outstretched right hand, stylis cradled in left arm; pellet above head of satyr looking upward in inner left field, HYP monogram within wreath in right field below wing. Price 3736. Boldy cut dies on a buttery flan.   Alexander the Great, born in 356 BC in Pella, Macedonia, was one of the most renowned military leaders and conquerors in history. He ascended to the throne after the assassination of his father, Philip II, in 336 BC, and he embarked on an ambitious campaign of expansion. His conquests included the Persian Empire, Egypt, and large parts of Asia, reaching as far as the Indus River in India. Alexander's military genius, charismatic leadership, and ability to inspire loyalty among his troops were instrumental in his success. His kingdom brought about significant cultural and political change, spreading Greek culture throughout the known world. He died in 323 BC at the age of 32 under mysterious circumstances in Babylon, marking the end of his extraordinary reign.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61626']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-07",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": true,
         "certification_url": null,
         "grading_service": "ngc"
       },

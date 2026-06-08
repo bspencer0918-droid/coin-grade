@@ -8,20 +8,20 @@
   "ruler_rarity": null,
   "denomination": "AR Drachm",
   "metal": "silver",
-  "sale_count": 286,
-  "realized_count": 286,
+  "sale_count": 288,
+  "realized_count": 288,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 57.0,
+    "min": 1.0,
     "max": 18000.0
   },
   "median_price_usd": 380.0,
-  "last_sale_date": "2026-02-09",
+  "last_sale_date": "2026-06-07",
   "grade_distribution": {
     "XF": 99,
-    "AU": 68,
-    "MS": 48,
+    "AU": 69,
+    "MS": 49,
     "VF": 68,
     "G": 2,
     "VG": 1
@@ -1423,6 +1423,39 @@
       }
     },
     {
+      "id": "sixbid-c1be585c1d9e",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13839/ancients-greek/12272182/macedonian-kingdom-perseus-179-168-bc",
+      "title": "MACEDONIAN KINGDOM. Perseus (179-168 BC). AR drachm (17mm, 2.69 gm, 7h). NGC MS 4/5 - 5/5. Pseudo-Rhodian, Greek mercenaries issue, ca. 175-170 BC, Ermias, magistrate. Head of Helios facing, turned slightly right, hair parted in center and swept to either side / EPMIA\u03a3, rose with single bud on tendril to right; \u039e-\u03a9 flanking stem. SNG Keckman 793-795 (Thessaly). Price, Kraay-M\u00f8rkholm Essays, pp. 241-242 (Northern Greece). SNG Copenhagen Supp. 358 (Rhodian Peraia). Tangerine backlight.   As the illegitimate son of Philip V, Perseus was threatened by his younger, legitimate half-brother, Demetrius, for the position of heir. Thus, he would forge a letter from a Roman general that warned Philip V of Demetrius' plan to overthrow him. Convinced, he would execute Demetrius. He himself would die the next year, allowing Perseus to take the throne in 179 BC. By 171 BC, he would enter the Third Macedonian War against Rome, which swiftly ended with his surrender to Lucius Aemilius Paullus. He was held captive by Rome for two years until his death in 168 BC - his conditions which are contradicted by Plutarch and Livy. His young son, Alexander, was taken to be raised and integrated into Roman society. Alas, with no other heirs: Perseus' death marked the end of the Macedonian kingdom.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61626']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-07",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "sixbid-6bed779656ba",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -1442,6 +1475,39 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-51967643c660",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13839/ancients-greek/12272180/macedonian-kingdom-alexander-iii-the",
+      "title": "MACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AR drachm (17mm, 4.27 gm, 11h). NGC Choice AU S 5/5- 5/5. Lifetime-early posthumous issue, Miletus, ca. 325-323 BC. Head of Heracles right, wearing lion skin headdress, paws tied before neck / A\u039bE\u039eAN\u0394POY, Zeus seated left on backless throne, right leg drawn back, feet on stool, eagle in outstretched right hand, grounded scepter in left; H\u0394 monogram in left field. Price 2090. A calico of marigold on finely detailed dies.   Alexander the Great, born in 356 BC in Pella, Macedonia, was one of the most renowned military leaders and conquerors in history. He ascended to the throne after the assassination of his father, Philip II, in 336 BC, and he embarked on an ambitious campaign of expansion. His conquests included the Persian Empire, Egypt, and large parts of Asia, reaching as far as the Indus River in India. Alexander's military genius, charismatic leadership, and ability to inspire loyalty among his troops were instrumental in his success. His kingdom brought about significant cultural and political change, spreading Greek culture throughout the known world. He died in 323 BC at the age of 32 under mysterious circumstances in Babylon, marking the end of his extraordinary reign.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61626']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-07",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
