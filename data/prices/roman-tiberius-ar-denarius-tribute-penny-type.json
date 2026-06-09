@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 659,
-  "realized_count": 659,
+  "sale_count": 661,
+  "realized_count": 661,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,16 +17,16 @@
     "max": 18600.0
   },
   "median_price_usd": 660.0,
-  "last_sale_date": "2026-03-25",
+  "last_sale_date": "2026-06-07",
   "grade_distribution": {
+    "XF": 205,
     "AU": 161,
-    "XF": 203,
     "VF": 199,
     "F": 76,
     "VG": 3,
     "MS": 17
   },
-  "thumbnail_url": "https://media.coinarchives.com/8658f0faaf273d40017cb1126c4435e3/img/heritage/61605/image23041.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/6853bb764bf4e6dca88e8aea2cd008c8/img/heritage/61626/image23116.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 2,
@@ -36,6 +36,72 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-f3c917064426",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2756744&AucID=7130&Lot=23116&Val=783d0e7604582b569b84064b3a5eec8e",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61626, Lot 23116 \u2014 Ancients\nTiberius (AD 14-37). AR denarius (19mm, 3.79 gm, 4h). NGC XF 5/5 - 5/5. Lugdunum, ca. AD 15-18. TI CAESAR DIVI-AVG F AVGVSTVS, laureate head of Tiberius right / PONTIF-MAXIM, Livia, as Pax, s",
+      "description": "Ancients\nTiberius (AD 14-37). AR denarius (19mm, 3.79 gm, 4h). NGC XF 5/5 - 5/5. Lugdunum, ca. AD 15-18. TI CAESAR DIVI-AVG F AVGVSTVS, laureate head of Tiberius right / PONTIF-MAXIM, Livia, as Pax, seated right, feet on stool, grounded scepter in right hand, olive branch in outstretched left; chair with plain legs, double line below. RIC I 26. Navy backlight. \n\nAs the stepchild and unwanted heir of Augustus, Tiberius had a difficult act to follow. Nevertheless, for the first few years of his ...",
+      "hammer_price_usd": 2400.0,
+      "currency_original": "USD",
+      "price_original": 2400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-07",
+      "image_url": "https://media.coinarchives.com/6853bb764bf4e6dca88e8aea2cd008c8/img/heritage/61626/image23116.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-cf9747735484",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2756745&AucID=7130&Lot=23117&Val=8df53dbed041ccd15277732d00bc9c4a",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61626, Lot 23117 \u2014 Ancients\nTiberius (AD 14-37). AR denarius (19mm, 3.81 gm, 7h). NGC XF 5/5 - 3/5, brushed. Lugdunum, ca. AD 18-35. TI CAESAR DIVI-AVG F AVGVSTVS, laureate head of Tiberius right / PONTIF-MAXIM, Livia, ",
+      "description": "Ancients\nTiberius (AD 14-37). AR denarius (19mm, 3.81 gm, 7h). NGC XF 5/5 - 3/5, brushed. Lugdunum, ca. AD 18-35. TI CAESAR DIVI-AVG F AVGVSTVS, laureate head of Tiberius right / PONTIF-MAXIM, Livia, as Pax, seated right, feet on stool, grounded scepter in right hand, olive branch in outstretched left; chair with ornate legs, single line below. RIC I 30. Clementine highlights. \n\nAs the stepchild and unwanted heir of Augustus, Tiberius had a difficult act to follow. Nevertheless, for the first ...",
+      "hammer_price_usd": 1600.0,
+      "currency_original": "USD",
+      "price_original": 1600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-07",
+      "image_url": "https://media.coinarchives.com/45cafff06c264dc35e02d87e94c5ef79/img/heritage/61626/image23117.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-b9c6e00e2287",
       "source": "coinarchives",

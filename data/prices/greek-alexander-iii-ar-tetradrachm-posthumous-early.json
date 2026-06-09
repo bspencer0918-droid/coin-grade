@@ -8,23 +8,23 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 8,
-  "realized_count": 8,
+  "sale_count": 9,
+  "realized_count": 9,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 320.0,
     "max": 1900.0
   },
-  "median_price_usd": 575.0,
-  "last_sale_date": "2026-02-09",
+  "median_price_usd": 550.0,
+  "last_sale_date": "2026-06-07",
   "grade_distribution": {
     "AU": 3,
     "XF": 3,
-    "F": 1,
-    "VF": 1
+    "VF": 2,
+    "F": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/ec1501e43d0d3b12f3bc79c723ae0642/img/heritage/61569/image22049.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/a32f318065d2747b6fed03d6c40b5ae2/img/heritage/61626/image23060.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 3,
@@ -94,6 +94,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-bba6c19c3a55",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2756688&AucID=7130&Lot=23060&Val=fc1742b159bc795c07a24fbf9978d189",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61626, Lot 23060 \u2014 Ancients\nLYCIA. Phaselis. Ca. 218-185 BC. AR tetradrachm (31mm, 16.00 gm, 1h). NGC Choice VF 4/5 - 2/5, brushed. Late posthumous issue in the name and types of Alexander III the Great of Macedon, date",
+      "description": "Ancients\nLYCIA. Phaselis. Ca. 218-185 BC. AR tetradrachm (31mm, 16.00 gm, 1h). NGC Choice VF 4/5 - 2/5, brushed. Late posthumous issue in the name and types of Alexander III the Great of Macedon, dated Civic Year 17 (ca. 202/201 BC). Head of Heracles wearing lion skin headdress, paws tied before neck / A\u039bE\u039eAN\u0394POY, Zeus seated left on backless throne, right leg drawn back, feet on ground line, eagle in outstretched right hand, grounded scepter in left; \u03a6 above IZ (date) in left field. Price 285...",
+      "hammer_price_usd": 340.0,
+      "currency_original": "USD",
+      "price_original": 340.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-07",
+      "image_url": "https://media.coinarchives.com/a32f318065d2747b6fed03d6c40b5ae2/img/heritage/61626/image23060.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

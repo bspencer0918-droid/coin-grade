@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 429,
-  "realized_count": 429,
+  "sale_count": 430,
+  "realized_count": 430,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,20 +17,20 @@
     "max": 14400.0
   },
   "median_price_usd": 149.0,
-  "last_sale_date": "2026-03-28",
+  "last_sale_date": "2026-06-07",
   "grade_distribution": {
     "G": 1,
     "XF": 170,
+    "MS": 40,
     "AU": 158,
     "VF": 53,
-    "F": 8,
-    "MS": 39
+    "F": 8
   },
-  "thumbnail_url": "https://media.coinarchives.com/a2a20ec304f60177b560d8dd88bcdc4c/img/tcc/kallista3/image00217.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/402c8c1b30acd7511a27dbd6ed76f9cd/img/heritage/61626/image23146.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 5,
-  "top_grade_numeric": null,
+  "top_surface_score": 4,
+  "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
@@ -96,6 +96,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-ecc378ce7e4d",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2756774&AucID=7130&Lot=23146&Val=a908f7339c715bf26493b8bdd535ab1f",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61626, Lot 23146 \u2014 Ancients\nSeptimius Severus (AD 193-211). AR denarius (20mm, 3.18 gm, 5h). NGC MS 5/5 - 4/5. Rome, AD 211(?). DIVO SEVERO PIO, bareheaded Divus Septimius Severus right / CONSECRATIO, eagle standing fac",
+      "description": "Ancients\nSeptimius Severus (AD 193-211). AR denarius (20mm, 3.18 gm, 5h). NGC MS 5/5 - 4/5. Rome, AD 211(?). DIVO SEVERO PIO, bareheaded Divus Septimius Severus right / CONSECRATIO, eagle standing facing on globe, head left, wings spread. RIC IV.I (Caracalla) 191c. Mirror-like dies with glittery surfaces.\n\nFrom the L. William Libbert Collection. Ex Roma Numismatics, E-Sale 99 (7 July 2022), lot 997.\n\nThe first Roman emperor of African descent, Lucius Septimius Severus was born on 11 April AD 1...",
+      "hammer_price_usd": 1300.0,
+      "currency_original": "USD",
+      "price_original": 1300.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-07",
+      "image_url": "https://media.coinarchives.com/402c8c1b30acd7511a27dbd6ed76f9cd/img/heritage/61626/image23146.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

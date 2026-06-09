@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 686,
-  "realized_count": 665,
+  "sale_count": 689,
+  "realized_count": 668,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,16 +17,16 @@
     "max": 36000.0
   },
   "median_price_usd": 1920.0,
-  "last_sale_date": "2026-05-30",
+  "last_sale_date": "2026-06-07",
   "grade_distribution": {
-    "AU": 144,
+    "AU": 146,
     "F": 2,
+    "VF": 6,
     "MS": 511,
     "XF": 23,
-    "G": 1,
-    "VF": 5
+    "G": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/63ab6a5bec331183dd3f5fd0ceb0079f/img/heritage/3132/image32022.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/d26231b32fefd8bfd38046ef1dd769f3/img/heritage/61626/image23037.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 5,
@@ -228,6 +228,105 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-c0b5811e9dfc",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2756665&AucID=7130&Lot=23037&Val=76d8a99128026f16e210325aa095b35d",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61626, Lot 23037 \u2014 Ancients\nATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (26mm, 17.17 gm, 7h). NGC Choice AU 5/5 - 4/5, Full Crest. Mid-mass coinage issue. Head of Athena right, wearing earring, necklace, and crested ",
+      "description": "Ancients\nATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (26mm, 17.17 gm, 7h). NGC Choice AU 5/5 - 4/5, Full Crest. Mid-mass coinage issue. Head of Athena right, wearing earring, necklace, and crested Attic helmet ornamented with three laurel leaves and vine scroll / A\u0398E, owl standing right, head facing; olive sprig with two leaves and one berry, and crescent moon behind, all within incuse square. Kroll 8. SNG Copenhagen 31-40. HGC 4, 1597. Diligently carved with sunflower backlight.   www.HA.c...",
+      "hammer_price_usd": 3000.0,
+      "currency_original": "USD",
+      "price_original": 3000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-07",
+      "image_url": "https://media.coinarchives.com/d26231b32fefd8bfd38046ef1dd769f3/img/heritage/61626/image23037.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-01d0fd9211c2",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2756666&AucID=7130&Lot=23038&Val=cc2cea3ce5f6563e6ec6ddba62f3a796",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61626, Lot 23038 \u2014 Ancients\nATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (24mm, 17.15 gm, 10h). NGC AU 5/5 - 4/5, Full Crest. Mid-mass coinage issue. Head of Athena right, wearing earring, necklace, and crested Attic ",
+      "description": "Ancients\nATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (24mm, 17.15 gm, 10h). NGC AU 5/5 - 4/5, Full Crest. Mid-mass coinage issue. Head of Athena right, wearing earring, necklace, and crested Attic helmet ornamented with three laurel leaves and vine scroll / A\u0398E, owl standing right, head facing; olive sprig with two leaves and one berry, and crescent moon behind, all within incuse square. Kroll 8. SNG Copenhagen 31-40. HGC 4, 1597. Intricately detailed specimen.   www.HA.com/TexasAuctioneerL...",
+      "hammer_price_usd": 2400.0,
+      "currency_original": "USD",
+      "price_original": 2400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-07",
+      "image_url": "https://media.coinarchives.com/d7133eff222431075d53a34628d8225d/img/heritage/61626/image23038.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-7342db3fe091",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2756667&AucID=7130&Lot=23039&Val=9418507afb9d0c1f7da87b97638e88b1",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61626, Lot 23039 \u2014 Ancients\nATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (24mm, 17.18 gm, 4h). NGC Choice VF\u2605 5/5 - 4/5, Full Crest, brushed.  Mid-mass coinage issue. Head of Athena right, wearing earring, necklace, a",
+      "description": "Ancients\nATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (24mm, 17.18 gm, 4h). NGC Choice VF\u2605 5/5 - 4/5, Full Crest, brushed.  Mid-mass coinage issue. Head of Athena right, wearing earring, necklace, and crested Attic helmet ornamented with three laurel leaves and vine scroll / A\u0398E, owl standing right, head facing; olive sprig with two leaves and one berry, and crescent moon behind, all within incuse square. Kroll 8. SNG Copenhagen 31-40. HGC 4, 1597. Splendid display of full crest.  www.HA.com...",
+      "hammer_price_usd": 2800.0,
+      "currency_original": "USD",
+      "price_original": 2800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-07",
+      "image_url": "https://media.coinarchives.com/1e0b8e4656643f16c40f700e54a87940/img/heritage/61626/image23039.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

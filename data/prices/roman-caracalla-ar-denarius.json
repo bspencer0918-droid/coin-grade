@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 504,
-  "realized_count": 504,
+  "sale_count": 505,
+  "realized_count": 505,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,12 +17,12 @@
     "max": 3840.0
   },
   "median_price_usd": 169.0,
-  "last_sale_date": "2026-03-28",
+  "last_sale_date": "2026-06-07",
   "grade_distribution": {
     "MS": 50,
     "AU": 235,
     "XF": 182,
-    "VF": 36,
+    "VF": 37,
     "F": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/c98d17a58247ecda7e4d322433d51927/img/heritage/61605/image23121.jpg",
@@ -189,6 +189,39 @@
         "surface_score": null,
         "details_grade": null,
         "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-9c919ecd0e8d",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2756775&AucID=7130&Lot=23147&Val=6097243b8c8f79f6385c437c940e4097",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61626, Lot 23147 \u2014 Ancients\nPlautilla (AD 202-205). AR denarius (19mm, 11h). NGC Choice VF, Fine Style. Rome. PLAVTILLA-AVGVSTA, draped bust of Plautilla right, seen from front, hair coiled in ridges and fastened in lar",
+      "description": "Ancients\nPlautilla (AD 202-205). AR denarius (19mm, 11h). NGC Choice VF, Fine Style. Rome. PLAVTILLA-AVGVSTA, draped bust of Plautilla right, seen from front, hair coiled in ridges and fastened in large chignon / CONCORDIA-AVGG, Concordia standing facing, head left, patera in outstretched right hand, grounded scepter in left. RIC IV.I (Caracalla) 363a. Glimmery, icy toning.\n\nFrom the Eyeappealing Collection. Ex Heritage Auctions, Auction 231615 (14 April 2016), lot 62049.\n\nPlautilla, Caracalla...",
+      "hammer_price_usd": 150.0,
+      "currency_original": "USD",
+      "price_original": 150.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-07",
+      "image_url": "https://media.coinarchives.com/f5ba24a54eef3943b1942267aa9e87f0/img/heritage/61626/image23147.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": true,
         "certification_url": null,
         "grading_service": "ngc"
       },

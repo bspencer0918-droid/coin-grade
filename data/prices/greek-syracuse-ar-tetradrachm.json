@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 105,
-  "realized_count": 104,
+  "sale_count": 106,
+  "realized_count": 105,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,14 +17,14 @@
     "max": 90000.0
   },
   "median_price_usd": 4320.0,
-  "last_sale_date": "2026-04-29",
+  "last_sale_date": "2026-06-07",
   "grade_distribution": {
-    "XF": 46,
+    "XF": 47,
     "AU": 29,
     "VF": 23,
     "MS": 7
   },
-  "thumbnail_url": "https://media.coinarchives.com/ee75d111a89b2a71095ff2f65ca0e390/img/ponterio/236/image40022.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/4320c500dff04ecc6afedc5fe6250b00/img/heritage/61626/image23010.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 4,
@@ -94,6 +94,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-7d32fbe02319",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2756638&AucID=7130&Lot=23010&Val=d5dee690e712111533ecdae6585ce898",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61626, Lot 23010 \u2014 Ancients\nSICILY. Syracuse. Deinomenid Tyranny, Hieron I (ca. 475-470 BC). AR tetradrachm (24mm, 17.35 gm, 3h). NGC XF 4/5 - 5/5. Charioteer driving quadriga walking right, kentron in right hand, reins",
+      "description": "Ancients\nSICILY. Syracuse. Deinomenid Tyranny, Hieron I (ca. 475-470 BC). AR tetradrachm (24mm, 17.35 gm, 3h). NGC XF 4/5 - 5/5. Charioteer driving quadriga walking right, kentron in right hand, reins in left; Nike flying right above, crowning horses, dotted border / \u03a3VRA-K\u039f\u03a3\u0399-\u039f-N, head of Arethusa right, wearing beaded taenia and necklace, hair looped up under band; four dolphins swimming clockwise around. Boehringer (ca. 467-460 BC) 306. HGC 2, 1307. Peach and navy toning highlight the movem...",
+      "hammer_price_usd": 3200.0,
+      "currency_original": "USD",
+      "price_original": 3200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-07",
+      "image_url": "https://media.coinarchives.com/4320c500dff04ecc6afedc5fe6250b00/img/heritage/61626/image23010.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

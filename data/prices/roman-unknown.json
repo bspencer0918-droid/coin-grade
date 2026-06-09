@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "silver",
-  "sale_count": 3241,
-  "realized_count": 3241,
+  "sale_count": 3244,
+  "realized_count": 3244,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,21 +17,21 @@
     "max": 312000.0
   },
   "median_price_usd": 192.0,
-  "last_sale_date": "2026-05-28",
+  "last_sale_date": "2026-06-07",
   "grade_distribution": {
     "XF": 580,
-    "MS": 733,
+    "MS": 735,
     "AU": 864,
     "P": 8,
-    "VF": 611,
+    "VF": 612,
     "G": 19,
     "F": 394,
     "VG": 32
   },
-  "thumbnail_url": "https://media.coinarchives.com/e02791041f4250ed0d061fe4ba5ec920/img/mdc/018/image00259.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/fc679643524f48a04963afb996aca78c/img/heritage/61626/image23031.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 4,
+  "top_surface_score": 5,
   "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
@@ -4395,6 +4395,39 @@
       }
     },
     {
+      "id": "coinarchives-b360e3ae95d0",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2756659&AucID=7130&Lot=23031&Val=1201be156244e9c063eaba20c216d396",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61626, Lot 23031 \u2014 Ancients\nTHRACIAN KINGDOM. Rhoemetalces I and Pythodoris (11 BC-AD 12), with Augustus. AE (23mm, 8.18 gm, 7h). NGC Choice VF\u2605 5/5- 4/5. BA\u03a3I-\u039bE\u03a9\u03a3 POIMHTA\u039b-KOY, jugate heads right of diademed Rhoemetal",
+      "description": "Ancients\nTHRACIAN KINGDOM. Rhoemetalces I and Pythodoris (11 BC-AD 12), with Augustus. AE (23mm, 8.18 gm, 7h). NGC Choice VF\u2605 5/5- 4/5. BA\u03a3I-\u039bE\u03a9\u03a3 POIMHTA\u039b-KOY, jugate heads right of diademed Rhoemetalces I (on left) and draped queen Pythodoris (on right); dotted border / \u039a\u0391\u0399\u03a3\u0391\u03a1\u039f\u03a3 \u03a3\u0395\u0392\u0391\u03a3\u03a4\u039fY, bare head of Augustus right; dotted border. RPC I 1711. SNG Copenhagen 1188. Particularly fine for its type with evergreen patina. \n\nFrom the Eyeappealing Collection. Ex Heritage Auctions, Auction 231821 (24...",
+      "hammer_price_usd": 230.0,
+      "currency_original": "USD",
+      "price_original": 230.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-07",
+      "image_url": "https://media.coinarchives.com/fc679643524f48a04963afb996aca78c/img/heritage/61626/image23031.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-04436517d329",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -4417,6 +4450,72 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/8585318019/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-25e0d66eba12",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2756723&AucID=7130&Lot=23095&Val=57c1360ed0a4ea9c271e835ba3f00b17",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61626, Lot 23095 \u2014 Ancients\nAnonymous (ca. 211-208 BC). AR victoriatus (18mm, 3.37 gm, 10h). NGC Choice MS\u2605 5/5 - 5/5. Uncertain mint. Laureate head of Jupiter right; dotted border / Victory standing right, crowning tro",
+      "description": "Ancients\nAnonymous (ca. 211-208 BC). AR victoriatus (18mm, 3.37 gm, 10h). NGC Choice MS\u2605 5/5 - 5/5. Uncertain mint. Laureate head of Jupiter right; dotted border / Victory standing right, crowning trophy to right, with wreath in outstretched right hand; VB (ligate) monogram in field between, ROMA in exergue, linear border. Crawford 95/1b. Sydenham 113. Bright, flashy dies with fine detailing.   www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.ha.com/itm/ancients/roman-republic/anonymous-...",
+      "hammer_price_usd": 7500.0,
+      "currency_original": "USD",
+      "price_original": 7500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-07",
+      "image_url": "https://media.coinarchives.com/98e3bc0baeb3cf3e8c4e26a38ff60feb/img/heritage/61626/image23095.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-fc3fac430311",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2756793&AucID=7130&Lot=23165&Val=46221f20372ce6aa83e26a490b5241b9",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61626, Lot 23165 \u2014 Ancients\nProbus (AD 276-282). BI antoninianus (22mm, 11h). NGC MS, Silvering. Rome, 4th officina, AD 282. PROBV-S P F AVG, radiate, mantled bust of Probus left, seen from front, eagle-tipped scepter i",
+      "description": "Ancients\nProbus (AD 276-282). BI antoninianus (22mm, 11h). NGC MS, Silvering. Rome, 4th officina, AD 282. PROBV-S P F AVG, radiate, mantled bust of Probus left, seen from front, eagle-tipped scepter in right hand / ROMAE-AETER, Roma seated facing in hexastyle temple, Victory in outstretched right hand, grounded scepter in left; R thunderbolt \u0394 in exergue. RIC V.II 187. Glittery and reflective dies.   www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.ha.com/itm/ancients/roman-imperial/prob...",
+      "hammer_price_usd": 260.0,
+      "currency_original": "USD",
+      "price_original": 260.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-07",
+      "image_url": "https://media.coinarchives.com/f5cdfac597e5c35b476d1aadd71b34ab/img/heritage/61626/image23165.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
         "grading_service": "ngc"
       },
       "metadata": {

@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "electrum",
-  "sale_count": 83,
-  "realized_count": 83,
+  "sale_count": 84,
+  "realized_count": 84,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,15 +17,15 @@
     "max": 41000.0
   },
   "median_price_usd": 3120.0,
-  "last_sale_date": "2026-04-06",
+  "last_sale_date": "2026-06-07",
   "grade_distribution": {
-    "XF": 27,
+    "XF": 28,
     "AU": 27,
     "VF": 14,
     "MS": 13,
     "VG": 2
   },
-  "thumbnail_url": "https://media.coinarchives.com/4559d396cf95d0e9b2b16a8b5da4e572/img/heritage/3130/image36044.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/0fd0f252e9262b215f47be4d1a81fa31/img/heritage/61626/image23075.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 4,
@@ -161,6 +161,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-14d0a27ea68c",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2756703&AucID=7130&Lot=23075&Val=4fa4e4c75da318782e1bac6a899160c5",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61626, Lot 23075 \u2014 Ancients\nPTOLEMAIC EGYPT. Ptolemy IV Philopater (222-205/4 BC). AR stater or tetradrachm (26mm, 14.12 gm, 11h). NGC Choice XF 4/5 - 2/5, Fine Style, die shift. Uncertain mint, perhaps Syria or Phoenic",
+      "description": "Ancients\nPTOLEMAIC EGYPT. Ptolemy IV Philopater (222-205/4 BC). AR stater or tetradrachm (26mm, 14.12 gm, 11h). NGC Choice XF 4/5 - 2/5, Fine Style, die shift. Uncertain mint, perhaps Syria or Phoenicia, ca. 217-215/210 BC. Jugate draped busts right of Serapis, laureate with miniature Atef crown above forehead, and Isis, crowned with grain and miniature horned disc above forehead; dotted border / \u03a0TO\u039bEMAIOY-BA\u03a3I\u039bE\u03a9\u03a3, eagle standing left on thunderbolt, head right, wings closed, double cornucop...",
+      "hammer_price_usd": 1750.0,
+      "currency_original": "USD",
+      "price_original": 1750.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-07",
+      "image_url": "https://media.coinarchives.com/0fd0f252e9262b215f47be4d1a81fa31/img/heritage/61626/image23075.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 98,
-  "realized_count": 98,
+  "sale_count": 99,
+  "realized_count": 99,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,17 +17,17 @@
     "max": 17400.0
   },
   "median_price_usd": 1920.0,
-  "last_sale_date": "2026-04-29",
+  "last_sale_date": "2026-06-07",
   "grade_distribution": {
     "XF": 18,
-    "AU": 66,
+    "AU": 67,
     "MS": 9,
     "VF": 5
   },
-  "thumbnail_url": "https://media.coinarchives.com/687a65dc0e69567d9c6f2beb28a094bc/img/heritage/3132/image32020.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/4af6b1a60588fe86180ff0815efec30f/img/heritage/61626/image23036.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 4,
+  "top_surface_score": 3,
   "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
@@ -61,6 +61,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-6dffaa1bb5ca",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2756664&AucID=7130&Lot=23036&Val=0e2d7a90fbcbb9b46f02ea3aade9116d",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61626, Lot 23036 \u2014 Ancients\nATTICA. Athens. Ca. 465-455 BC. AR tetradrachm (25mm, 16.96 gm, 1h). NGC Choice AU 5/5 - 3/5. Head of Athena right, wearing crested Attic helmet ornamented with three laurel leaves and vine s",
+      "description": "Ancients\nATTICA. Athens. Ca. 465-455 BC. AR tetradrachm (25mm, 16.96 gm, 1h). NGC Choice AU 5/5 - 3/5. Head of Athena right, wearing crested Attic helmet ornamented with three laurel leaves and vine scroll / A\u0398E, owl standing right, head facing; olive sprig with berry and crescent moon behind, all within incuse square. HGC 4, 1596. Starr Group V. Wonderful example with hematite toning. \n\nEx Penn Collection (Heritage Auctions, Auction 3089, 21 January 2021), lot 31025; Numismatica Ars Classica,...",
+      "hammer_price_usd": 2400.0,
+      "currency_original": "USD",
+      "price_original": 2400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-07",
+      "image_url": "https://media.coinarchives.com/4af6b1a60588fe86180ff0815efec30f/img/heritage/61626/image23036.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
