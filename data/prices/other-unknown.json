@@ -17,7 +17,7 @@
     "max": 312000.0
   },
   "median_price_usd": 900.0,
-  "last_sale_date": "2026-06-09",
+  "last_sale_date": "2026-06-10",
   "grade_distribution": {
     "VF": 335,
     "XF": 220,
@@ -49,7 +49,7 @@
       "currency_original": "USD",
       "price_original": 6000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-09",
+      "sale_date": "2026-06-10",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -82,7 +82,7 @@
       "currency_original": "USD",
       "price_original": 550.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-09",
+      "sale_date": "2026-06-10",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -115,7 +115,7 @@
       "currency_original": "USD",
       "price_original": 13000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-09",
+      "sale_date": "2026-06-10",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -148,7 +148,7 @@
       "currency_original": "USD",
       "price_original": 14000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-09",
+      "sale_date": "2026-06-10",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -181,7 +181,7 @@
       "currency_original": "USD",
       "price_original": 1600.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-09",
+      "sale_date": "2026-06-10",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -214,7 +214,7 @@
       "currency_original": "USD",
       "price_original": 1500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-09",
+      "sale_date": "2026-06-10",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1359,39 +1359,6 @@
       }
     },
     {
-      "id": "sixbid-72909b551a94",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13493/denmark/11917172/denmark-penny-nd-1047-1075-lund",
-      "title": "DENMARK. Penny, ND (1047-1075). Lund Mint. Svend II Estridsen. NGC AU Details--Peck Marked. <br> Hauberg-28; Hauberg Collection-945; Bruun-1804. (Illustrated, plate 7). Weight: 0.99 gms. Moneyer: Atsor. This fully legible example has a clear strike with a deep toning on top of its lustrous surface; small planchet crack at 2 o'clock and light verdigris.<p><em>The obverse is of Byzantine inspiration, featuring Jesus Christ with His right hand in blessing, carrying the Gospels in His left.</em> <br> From the L. E. Bruun Collection.</p>",
-      "description": "Stack\u2019s Bowers and Ponterio | ['The December 2025 World Collectors Choice Online Auction']",
-      "hammer_price_usd": 600.0,
-      "currency_original": "USD",
-      "price_original": 600.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-10",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "sixbid-f4a4d2e85186",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -2177,6 +2144,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-72909b551a94",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13493/denmark/11917172/denmark-penny-nd-1047-1075-lund",
+      "title": "DENMARK. Penny, ND (1047-1075). Lund Mint. Svend II Estridsen. NGC AU Details--Peck Marked. <br> Hauberg-28; Hauberg Collection-945; Bruun-1804. (Illustrated, plate 7). Weight: 0.99 gms. Moneyer: Atsor. This fully legible example has a clear strike with a deep toning on top of its lustrous surface; small planchet crack at 2 o'clock and light verdigris.<p><em>The obverse is of Byzantine inspiration, featuring Jesus Christ with His right hand in blessing, carrying the Gospels in His left.</em> <br> From the L. E. Bruun Collection.</p>",
+      "description": "Stack\u2019s Bowers and Ponterio | ['The December 2025 World Collectors Choice Online Auction']",
+      "hammer_price_usd": 600.0,
+      "currency_original": "USD",
+      "price_original": 600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-10",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
