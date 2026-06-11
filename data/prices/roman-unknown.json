@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "silver",
-  "sale_count": 3244,
-  "realized_count": 3244,
+  "sale_count": 3245,
+  "realized_count": 3245,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,11 +17,11 @@
     "max": 312000.0
   },
   "median_price_usd": 192.0,
-  "last_sale_date": "2026-06-07",
+  "last_sale_date": "2026-06-09",
   "grade_distribution": {
     "XF": 580,
     "MS": 735,
-    "AU": 864,
+    "AU": 865,
     "P": 8,
     "VF": 612,
     "G": 19,
@@ -3042,6 +3042,39 @@
       }
     },
     {
+      "id": "sixbid-746b0e1eb439",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13847/worldcoin-sweden/12278380/sweden-peace-at-ryswick-silver",
+      "title": "SWEDEN. Peace at Ryswick Silver Medal, 1697. Karl XII. NGC AU-55. <br> Hild-7; Delzanno-8a; Bruun-17657. Diameter: 52 mm. Weight: 54 gms. By Arvid Karlsteen. Very rare. Softly toned.<p><em>Karl (Charles) XII acted as a mediator to end the Nine Years' War between France and the Grand Alliance (England, the Dutch Republic, and the Holy Roman Empire).</em> <br> From the L.E. Bruun Collection.</p>",
+      "description": "Stack\u2019s Bowers and Ponterio | ['The June 2026 World Premier Collectors Choice Auction']",
+      "hammer_price_usd": 600.0,
+      "currency_original": "USD",
+      "price_original": 600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-09",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "sixbid-ceff739e1188",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -4362,39 +4395,6 @@
       }
     },
     {
-      "id": "coinarchives-04436517d329",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2732481&AucID=7041&Lot=259&Val=cc7750be1650e9a1a6fa8180590bc52d",
-      "title": "MDC Monnaies de Collection sarl - Auction 18, Lot 259 \u2014 EMPIRE ROMAIN - ROMAN\nConstance II (337-361). 9 siliques ou 1 \u00bd scripulum ND (347-350), Antioche. NGC Ch XF 5/5 3/5 edge filing (8585318-019).\nAv. CONSTAN - TIVS AVG. Buste \u00e0 droite, diad\u00e9m\u00e9, drap\u00e9 et",
-      "description": "EMPIRE ROMAIN - ROMAN\nConstance II (337-361). 9 siliques ou 1 \u00bd scripulum ND (347-350), Antioche. NGC Ch XF 5/5 3/5 edge filing (8585318-019).\nAv. CONSTAN - TIVS AVG. Buste \u00e0 droite, diad\u00e9m\u00e9, drap\u00e9 et cuirass\u00e9. \nRv. VICTORIA AVGVSTORVM / \u00b7SMAN\u00b7. Victoire assise \u00e0 droite sur un bouclier et une cuirasse, inscrivant VOT XXXX sur un \u00e9cu soutenu par un petit Amour.\nRIC.99 (Cs12 / B) ; Or - 1,64 g - 15 mm - 12 h\nNGC Ch XF 5/5 3/5 edge filing (8585318-019). \nUn minime choc sur la tranche \u00e0 11 h 30. L...",
-      "hammer_price_usd": 3240.0,
-      "currency_original": "EUR",
-      "price_original": 3000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-05-13",
-      "image_url": "https://media.coinarchives.com/e02791041f4250ed0d061fe4ba5ec920/img/mdc/018/image00259.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": "8585318-019",
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/8585318019/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-25e0d66eba12",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -4714,6 +4714,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/8585319009/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-04436517d329",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2732481&AucID=7041&Lot=259&Val=cc7750be1650e9a1a6fa8180590bc52d",
+      "title": "MDC Monnaies de Collection sarl - Auction 18, Lot 259 \u2014 EMPIRE ROMAIN - ROMAN\nConstance II (337-361). 9 siliques ou 1 \u00bd scripulum ND (347-350), Antioche. NGC Ch XF 5/5 3/5 edge filing (8585318-019).\nAv. CONSTAN - TIVS AVG. Buste \u00e0 droite, diad\u00e9m\u00e9, drap\u00e9 et",
+      "description": "EMPIRE ROMAIN - ROMAN\nConstance II (337-361). 9 siliques ou 1 \u00bd scripulum ND (347-350), Antioche. NGC Ch XF 5/5 3/5 edge filing (8585318-019).\nAv. CONSTAN - TIVS AVG. Buste \u00e0 droite, diad\u00e9m\u00e9, drap\u00e9 et cuirass\u00e9. \nRv. VICTORIA AVGVSTORVM / \u00b7SMAN\u00b7. Victoire assise \u00e0 droite sur un bouclier et une cuirasse, inscrivant VOT XXXX sur un \u00e9cu soutenu par un petit Amour.\nRIC.99 (Cs12 / B) ; Or - 1,64 g - 15 mm - 12 h\nNGC Ch XF 5/5 3/5 edge filing (8585318-019). \nUn minime choc sur la tranche \u00e0 11 h 30. L...",
+      "hammer_price_usd": 3240.0,
+      "currency_original": "EUR",
+      "price_original": 3000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-13",
+      "image_url": "https://media.coinarchives.com/e02791041f4250ed0d061fe4ba5ec920/img/mdc/018/image00259.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "8585318-019",
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8585318019/",
         "grading_service": "ngc"
       },
       "metadata": {

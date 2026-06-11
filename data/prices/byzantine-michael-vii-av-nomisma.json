@@ -7,9 +7,9 @@
   "ruler_dates": "AD 1071\u20131078",
   "ruler_rarity": "scarce",
   "denomination": "AV Nomisma",
-  "metal": "electrum",
-  "sale_count": 237,
-  "realized_count": 237,
+  "metal": "unknown",
+  "sale_count": 238,
+  "realized_count": 238,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,11 +17,11 @@
     "max": 12000.0
   },
   "median_price_usd": 528.0,
-  "last_sale_date": "2026-05-11",
+  "last_sale_date": "2026-06-09",
   "grade_distribution": {
+    "VF": 38,
     "XF": 78,
     "AU": 96,
-    "VF": 37,
     "MS": 22,
     "F": 4
   },
@@ -35,6 +35,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-e190db315c54",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/noonans/13883/byzantine-coins-from-various-properties/12310225/byzantine-coins-from-various-propertiesmichael",
+      "title": "Byzantine Coins from Various Properties<br><br>Michael VII (1071-1078), Histamenon Nomisma, Constantinople, facing bust of Christ, nimbate holding bible, ic xc in fields, rev. crowned bust of Michael facing, holding labarum and globus cruciger, mix \u03b4\u03b7\u03b1 raci\u03bb\u03bf, 4.31g (Sear 1868; cf. DO 2). Good very fine [slabbed NGC Ch VF, strike 5, surface 2, brushed, graffiti]\t \u00a3500-\u00a3600",
+      "description": "NOONANS | ['Coins and Historical Medals']",
+      "hammer_price_usd": 671.36,
+      "currency_original": "USD",
+      "price_original": 671.3561,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-09",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": "Graffiti",
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-96ca84b3c311",
       "source": "coinarchives",

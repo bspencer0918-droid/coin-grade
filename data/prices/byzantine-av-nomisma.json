@@ -24,7 +24,7 @@
     "AU": 53,
     "MS": 14
   },
-  "thumbnail_url": "https://media.coinarchives.com/02385a490caad6388127ca6f539118a5/img/heritage/3132/image32141.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/b8f7245def4e9e081fde62d0b24050dc/img/ponterio/236/image40306.jpg",
   "median_weight_g": null,
   "top_strike_score": null,
   "top_surface_score": null,
@@ -266,39 +266,6 @@
       }
     },
     {
-      "id": "coinarchives-50c1526a1861",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739851&AucID=7076&Lot=32141&Val=b5e84a70b6b984d72bdfffd96050dfd6",
-      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 32141 \u2014 Ancients\nTheodora, Sole Reign (AD 1055-1056). AV tetarteron nomisma (19mm, 3.97 gm, 6h). NGC Choice AU 5/5 - 4/5, brushed. Constantinople. IC-XC barred, bust of Christ facing, wearing nimbus cruciger ",
-      "description": "Ancients\nTheodora, Sole Reign (AD 1055-1056). AV tetarteron nomisma (19mm, 3.97 gm, 6h). NGC Choice AU 5/5 - 4/5, brushed. Constantinople. IC-XC barred, bust of Christ facing, wearing nimbus cruciger with two pellets in each limb, pallium and colobium, right hand raised in benediction, book of Gospels cradled in left / + \u0398\u0404O\u0394WI-AV\u0393OV, half-length bust of Theodora facing, wearing saccos, loros, and jeweled crown surmounted by cross and four pinnacles, with pendilia, jeweled scepter in right, gl...",
-      "hammer_price_usd": 5500.0,
-      "currency_original": "USD",
-      "price_original": 5500.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-04-29",
-      "image_url": "https://media.coinarchives.com/02385a490caad6388127ca6f539118a5/img/heritage/3132/image32141.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-d0d6e65baa90",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -383,6 +350,39 @@
         "grade": "AU",
         "grade_numeric": null,
         "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-50c1526a1861",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739851&AucID=7076&Lot=32141&Val=b5e84a70b6b984d72bdfffd96050dfd6",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 32141 \u2014 Ancients\nTheodora, Sole Reign (AD 1055-1056). AV tetarteron nomisma (19mm, 3.97 gm, 6h). NGC Choice AU 5/5 - 4/5, brushed. Constantinople. IC-XC barred, bust of Christ facing, wearing nimbus cruciger ",
+      "description": "Ancients\nTheodora, Sole Reign (AD 1055-1056). AV tetarteron nomisma (19mm, 3.97 gm, 6h). NGC Choice AU 5/5 - 4/5, brushed. Constantinople. IC-XC barred, bust of Christ facing, wearing nimbus cruciger with two pellets in each limb, pallium and colobium, right hand raised in benediction, book of Gospels cradled in left / + \u0398\u0404O\u0394WI-AV\u0393OV, half-length bust of Theodora facing, wearing saccos, loros, and jeweled crown surmounted by cross and four pinnacles, with pendilia, jeweled scepter in right, gl...",
+      "hammer_price_usd": 5500.0,
+      "currency_original": "USD",
+      "price_original": 5500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/02385a490caad6388127ca6f539118a5/img/heritage/3132/image32141.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
         "fine_style": false,

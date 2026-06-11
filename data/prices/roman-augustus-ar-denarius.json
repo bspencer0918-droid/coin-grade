@@ -302,39 +302,6 @@
       }
     },
     {
-      "id": "coinarchives-381f1983f737",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739805&AucID=7076&Lot=32095&Val=be843b7ccf0d98d01b70febb3cdde018",
-      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 32095 \u2014 Ancients\nAugustus (27 BC-AD 14). AR denarius (19mm, 3.85 gm, 7h). NGC MS 4/5 - 4/5. Lugdunum, ca. 15-13 BC. AVGVSTVS-DIVI\u2022F, bare head of Augustus right / IMP\u2022-X, Apollo Citharoedus of Actium standing",
-      "description": "Ancients\nAugustus (27 BC-AD 14). AR denarius (19mm, 3.85 gm, 7h). NGC MS 4/5 - 4/5. Lugdunum, ca. 15-13 BC. AVGVSTVS-DIVI\u2022F, bare head of Augustus right / IMP\u2022-X, Apollo Citharoedus of Actium standing facing, head left, wearing long drapery, plectrum in right hand, lyre cradled in left arm; ACT\u2022 in exergue. RIC I 171a.  www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.ha.com/itm/ancients/roman-imperial/roman-imperial-augustus-27-bc-ad-14-ar-denarius-19mm-385-gm-7h-ngc-ms-4-5-4-5/a/3132-3...",
-      "hammer_price_usd": 3400.0,
-      "currency_original": "USD",
-      "price_original": 3400.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-04-29",
-      "image_url": "https://media.coinarchives.com/c150d65413ce0c50efdc4863c84bfaea/img/heritage/3132/image32095.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-52ca75e855b5",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -585,6 +552,39 @@
         "grade_numeric": 4,
         "strike_score": 4,
         "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-381f1983f737",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739805&AucID=7076&Lot=32095&Val=be843b7ccf0d98d01b70febb3cdde018",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 32095 \u2014 Ancients\nAugustus (27 BC-AD 14). AR denarius (19mm, 3.85 gm, 7h). NGC MS 4/5 - 4/5. Lugdunum, ca. 15-13 BC. AVGVSTVS-DIVI\u2022F, bare head of Augustus right / IMP\u2022-X, Apollo Citharoedus of Actium standing",
+      "description": "Ancients\nAugustus (27 BC-AD 14). AR denarius (19mm, 3.85 gm, 7h). NGC MS 4/5 - 4/5. Lugdunum, ca. 15-13 BC. AVGVSTVS-DIVI\u2022F, bare head of Augustus right / IMP\u2022-X, Apollo Citharoedus of Actium standing facing, head left, wearing long drapery, plectrum in right hand, lyre cradled in left arm; ACT\u2022 in exergue. RIC I 171a.  www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.ha.com/itm/ancients/roman-imperial/roman-imperial-augustus-27-bc-ad-14-ar-denarius-19mm-385-gm-7h-ngc-ms-4-5-4-5/a/3132-3...",
+      "hammer_price_usd": 3400.0,
+      "currency_original": "USD",
+      "price_original": 3400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/c150d65413ce0c50efdc4863c84bfaea/img/heritage/3132/image32095.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
