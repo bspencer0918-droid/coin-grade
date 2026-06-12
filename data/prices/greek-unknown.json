@@ -17,14 +17,14 @@
     "max": 82278.0
   },
   "median_price_usd": 1763.1,
-  "last_sale_date": "2026-06-11",
+  "last_sale_date": "2026-06-12",
   "grade_distribution": {
     "XF": 49,
     "VF": 38,
     "F": 12,
     "AU": 50,
-    "P": 1,
     "MS": 31,
+    "P": 1,
     "G": 1,
     "VG": 6,
     "AG": 1
@@ -50,7 +50,7 @@
       "currency_original": "USD",
       "price_original": 250.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-11",
+      "sale_date": "2026-06-12",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -83,7 +83,7 @@
       "currency_original": "USD",
       "price_original": 140.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-11",
+      "sale_date": "2026-06-12",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -116,7 +116,7 @@
       "currency_original": "USD",
       "price_original": 140.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-11",
+      "sale_date": "2026-06-12",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -149,7 +149,7 @@
       "currency_original": "USD",
       "price_original": 120.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-11",
+      "sale_date": "2026-06-12",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -182,7 +182,7 @@
       "currency_original": "USD",
       "price_original": 5500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-11",
+      "sale_date": "2026-06-12",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -227,39 +227,6 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/8218813005/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-b31497b57e30",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13495/russia/11926463/t-russia-silver-100-rubles",
-      "title": "(t) RUSSIA. Silver 100 Rubles (Kilo), 2004-CNMA. St. Petersburg Mint. NGC PROOF-68 Ultra Cameo. <br> KM-Y-831. Theophanes the Greek. Mintage: 500. ASW: 32.1512 oz. <br> From the Sigma Collection.",
-      "description": "Stack\u2019s Bowers and Ponterio | ['The December 2025 Hong Kong (SAR) Collectors Choice Online Auction']",
-      "hammer_price_usd": 1500.0,
-      "currency_original": "USD",
-      "price_original": 1500.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-12",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "P",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
         "grading_service": "ngc"
       },
       "metadata": {
@@ -2152,6 +2119,39 @@
       }
     },
     {
+      "id": "coinarchives-b492e3e341bc",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2732237&AucID=7041&Lot=15&Val=038ea1030e66ac1edf657d45fcf82184",
+      "title": "MDC Monnaies de Collection sarl - Auction 18, Lot 15 \u2014 GR\u00c8CE ANTIQUE - GREEK\nSicile, Leontini. T\u00e9tradrachme, coins par le \"ma\u00eetre du Demareteion\" (ou son \u00e9cole) ND (c.480 ou c.466 av. J.-C.), Leontini. NGC Ch XF 5/5 3/5 (6559582-002).\nAv. Quadrige avan\u00e7an",
+      "description": "GR\u00c8CE ANTIQUE - GREEK\nSicile, Leontini. T\u00e9tradrachme, coins par le \"ma\u00eetre du Demareteion\" (ou son \u00e9cole) ND (c.480 ou c.466 av. J.-C.), Leontini. NGC Ch XF 5/5 3/5 (6559582-002).\nAv. Quadrige avan\u00e7ant au pas \u00e0 droite, conduit par un aurige, sous une Victoire volant \u00e0 gauche qui couronne l'aurige ; \u00e0 l'exergue, un lion \u00e0 droite. \nRv. \u039bEO[NTI] - NO - N. T\u00eate d'Apollon \u00e0 droite, laur\u00e9e, entre trois feuilles avec nervures ; au-dessous, un lion.\nSNG ANS 218 - Dewing 622 = Jameson 626 - De Luynes 9...",
+      "hammer_price_usd": 43200.0,
+      "currency_original": "EUR",
+      "price_original": 40000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-13",
+      "image_url": "https://media.coinarchives.com/f957d0910a85700db45f4e6bdb168b0b/img/mdc/018/image00015.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "6559582-002",
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/6559582002/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-18e81472079b",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -2284,32 +2284,32 @@
       }
     },
     {
-      "id": "coinarchives-b492e3e341bc",
-      "source": "coinarchives",
+      "id": "sixbid-b31497b57e30",
+      "source": "sixbid",
       "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2732237&AucID=7041&Lot=15&Val=038ea1030e66ac1edf657d45fcf82184",
-      "title": "MDC Monnaies de Collection sarl - Auction 18, Lot 15 \u2014 GR\u00c8CE ANTIQUE - GREEK\nSicile, Leontini. T\u00e9tradrachme, coins par le \"ma\u00eetre du Demareteion\" (ou son \u00e9cole) ND (c.480 ou c.466 av. J.-C.), Leontini. NGC Ch XF 5/5 3/5 (6559582-002).\nAv. Quadrige avan\u00e7an",
-      "description": "GR\u00c8CE ANTIQUE - GREEK\nSicile, Leontini. T\u00e9tradrachme, coins par le \"ma\u00eetre du Demareteion\" (ou son \u00e9cole) ND (c.480 ou c.466 av. J.-C.), Leontini. NGC Ch XF 5/5 3/5 (6559582-002).\nAv. Quadrige avan\u00e7ant au pas \u00e0 droite, conduit par un aurige, sous une Victoire volant \u00e0 gauche qui couronne l'aurige ; \u00e0 l'exergue, un lion \u00e0 droite. \nRv. \u039bEO[NTI] - NO - N. T\u00eate d'Apollon \u00e0 droite, laur\u00e9e, entre trois feuilles avec nervures ; au-dessous, un lion.\nSNG ANS 218 - Dewing 622 = Jameson 626 - De Luynes 9...",
-      "hammer_price_usd": 43200.0,
-      "currency_original": "EUR",
-      "price_original": 40000.0,
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13495/russia/11926463/t-russia-silver-100-rubles",
+      "title": "(t) RUSSIA. Silver 100 Rubles (Kilo), 2004-CNMA. St. Petersburg Mint. NGC PROOF-68 Ultra Cameo. <br> KM-Y-831. Theophanes the Greek. Mintage: 500. ASW: 32.1512 oz. <br> From the Sigma Collection.",
+      "description": "Stack\u2019s Bowers and Ponterio | ['The December 2025 Hong Kong (SAR) Collectors Choice Online Auction']",
+      "hammer_price_usd": 1500.0,
+      "currency_original": "USD",
+      "price_original": 1500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-05-13",
-      "image_url": "https://media.coinarchives.com/f957d0910a85700db45f4e6bdb168b0b/img/mdc/018/image00015.jpg",
+      "sale_date": "2025-12-12",
+      "image_url": null,
       "ngc": {
         "verified": false,
-        "cert_number": "6559582-002",
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 3,
+        "cert_number": null,
+        "grade": "P",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
         "details_grade": null,
         "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/6559582002/",
+        "certification_url": null,
         "grading_service": "ngc"
       },
       "metadata": {
-        "mint": "",
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

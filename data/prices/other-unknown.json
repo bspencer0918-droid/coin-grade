@@ -17,7 +17,7 @@
     "max": 312000.0
   },
   "median_price_usd": 900.0,
-  "last_sale_date": "2026-06-11",
+  "last_sale_date": "2026-06-12",
   "grade_distribution": {
     "VF": 335,
     "XF": 220,
@@ -49,7 +49,7 @@
       "currency_original": "USD",
       "price_original": 6000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-11",
+      "sale_date": "2026-06-12",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -82,7 +82,7 @@
       "currency_original": "USD",
       "price_original": 550.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-11",
+      "sale_date": "2026-06-12",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -115,7 +115,7 @@
       "currency_original": "USD",
       "price_original": 13000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-11",
+      "sale_date": "2026-06-12",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -148,7 +148,7 @@
       "currency_original": "USD",
       "price_original": 14000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-11",
+      "sale_date": "2026-06-12",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -181,7 +181,7 @@
       "currency_original": "USD",
       "price_original": 1600.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-11",
+      "sale_date": "2026-06-12",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -214,7 +214,7 @@
       "currency_original": "USD",
       "price_original": 1500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-11",
+      "sale_date": "2026-06-12",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -226,39 +226,6 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/5746973004/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-6fda29326403",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13495/korea-south/11926093/korea-south-50000-won-1987",
-      "title": "KOREA, SOUTH. 50000 Won, 1987. NGC PROOF-69 Ultra Cameo. <br> Fr-9; KM-69. AGW: 0.9998 oz. 1988 Seoul Olympics series, ancient horseman issue.",
-      "description": "Stack\u2019s Bowers and Ponterio | ['The December 2025 Hong Kong (SAR) Collectors Choice Online Auction']",
-      "hammer_price_usd": 3600.0,
-      "currency_original": "USD",
-      "price_original": 3600.0,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-12",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "P",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
         "grading_service": "ngc"
       },
       "metadata": {
@@ -1491,6 +1458,72 @@
       }
     },
     {
+      "id": "coinarchives-b9d5e32f18c9",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2753967&AucID=7120&Lot=73113&Val=b2a55c154a07c095c262f537fdb26927",
+      "title": "Stack's Bowers Galleries (& Ponterio) - May 2026 World CCO Auction, Lot 73113 \u2014 SYRIA. Seleukid Kingdom. Seleukos II Kallinikos, 246-225 B.C. Trio of AR Tetradrachms (3 Pieces). All NGC Certified.\n1) NGC Ch VF, Die Shift, Brushed, Flan Flaw.\n\n2) NGC VF, Edge Chips, Brushed, Marks",
+      "description": "SYRIA. Seleukid Kingdom. Seleukos II Kallinikos, 246-225 B.C. Trio of AR Tetradrachms (3 Pieces). All NGC Certified.\n1) NGC Ch VF, Die Shift, Brushed, Flan Flaw.\n\n2) NGC VF, Edge Chips, Brushed, Marks.\n\n3) NGC Ch F, Graffito, Flan Flaw.\n\nEstimate: 300 - 500...",
+      "hammer_price_usd": 650.0,
+      "currency_original": "USD",
+      "price_original": 650.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-11",
+      "image_url": "https://media.coinarchives.com/7f923744f00f78fd81a7c6e5d0952528/img/ponterio/cco_may26/image73113.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": "Graffito",
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-78c36dc062fa",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2694984&AucID=6923&Lot=44216&Val=8832f80674ecb4c9634159d4f03ce54d",
+      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 44216 \u2014 JUDAEA. Bar Kochba Revolt, 132-135 C.E. \"Middle Bronze\" (10.30 gms), Jerusalem Mint, Year 2 (133/4 C.E.). NGC EF, Strike: 4/5 Surface: 4/5.\nTo view all items from the Rabbi Victor H. Weissberg and Tam",
+      "description": "JUDAEA. Bar Kochba Revolt, 132-135 C.E. \"Middle Bronze\" (10.30 gms), Jerusalem Mint, Year 2 (133/4 C.E.). NGC EF, Strike: 4/5 Surface: 4/5.\nTo view all items from the Rabbi Victor H. Weissberg and Tamar Weissberg Collection, click  here.\nMildenberg-Unlisted (O7/R - [reverse die unlisted]; Meshorer-259; Hendin-6436. Obverse: Palm tree; Reverse: Vine leaf. A deep brown example that offers a solid strike with some lighter highlights around the devices.\n\nFrom the Rabbi Victor H. Weissberg and Tama...",
+      "hammer_price_usd": 900.0,
+      "currency_original": "USD",
+      "price_original": 900.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": "https://media.coinarchives.com/07a44b1fe402b699d0d821fc0d316eb6/img/ponterio/236/image44216.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-131a886a55b8",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -1953,39 +1986,6 @@
       }
     },
     {
-      "id": "coinarchives-b9d5e32f18c9",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2753967&AucID=7120&Lot=73113&Val=b2a55c154a07c095c262f537fdb26927",
-      "title": "Stack's Bowers Galleries (& Ponterio) - May 2026 World CCO Auction, Lot 73113 \u2014 SYRIA. Seleukid Kingdom. Seleukos II Kallinikos, 246-225 B.C. Trio of AR Tetradrachms (3 Pieces). All NGC Certified.\n1) NGC Ch VF, Die Shift, Brushed, Flan Flaw.\n\n2) NGC VF, Edge Chips, Brushed, Marks",
-      "description": "SYRIA. Seleukid Kingdom. Seleukos II Kallinikos, 246-225 B.C. Trio of AR Tetradrachms (3 Pieces). All NGC Certified.\n1) NGC Ch VF, Die Shift, Brushed, Flan Flaw.\n\n2) NGC VF, Edge Chips, Brushed, Marks.\n\n3) NGC Ch F, Graffito, Flan Flaw.\n\nEstimate: 300 - 500...",
-      "hammer_price_usd": 650.0,
-      "currency_original": "USD",
-      "price_original": 650.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-05-11",
-      "image_url": "https://media.coinarchives.com/7f923744f00f78fd81a7c6e5d0952528/img/ponterio/cco_may26/image73113.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": "Graffito",
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-3e85f9fd423d",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -2004,39 +2004,6 @@
         "grade": "AU",
         "grade_numeric": null,
         "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-78c36dc062fa",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2694984&AucID=6923&Lot=44216&Val=8832f80674ecb4c9634159d4f03ce54d",
-      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 44216 \u2014 JUDAEA. Bar Kochba Revolt, 132-135 C.E. \"Middle Bronze\" (10.30 gms), Jerusalem Mint, Year 2 (133/4 C.E.). NGC EF, Strike: 4/5 Surface: 4/5.\nTo view all items from the Rabbi Victor H. Weissberg and Tam",
-      "description": "JUDAEA. Bar Kochba Revolt, 132-135 C.E. \"Middle Bronze\" (10.30 gms), Jerusalem Mint, Year 2 (133/4 C.E.). NGC EF, Strike: 4/5 Surface: 4/5.\nTo view all items from the Rabbi Victor H. Weissberg and Tamar Weissberg Collection, click  here.\nMildenberg-Unlisted (O7/R - [reverse die unlisted]; Meshorer-259; Hendin-6436. Obverse: Palm tree; Reverse: Vine leaf. A deep brown example that offers a solid strike with some lighter highlights around the devices.\n\nFrom the Rabbi Victor H. Weissberg and Tama...",
-      "hammer_price_usd": 900.0,
-      "currency_original": "USD",
-      "price_original": 900.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-16",
-      "image_url": "https://media.coinarchives.com/07a44b1fe402b699d0d821fc0d316eb6/img/ponterio/236/image44216.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 4,
         "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
@@ -2111,6 +2078,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-6fda29326403",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13495/korea-south/11926093/korea-south-50000-won-1987",
+      "title": "KOREA, SOUTH. 50000 Won, 1987. NGC PROOF-69 Ultra Cameo. <br> Fr-9; KM-69. AGW: 0.9998 oz. 1988 Seoul Olympics series, ancient horseman issue.",
+      "description": "Stack\u2019s Bowers and Ponterio | ['The December 2025 Hong Kong (SAR) Collectors Choice Online Auction']",
+      "hammer_price_usd": 3600.0,
+      "currency_original": "USD",
+      "price_original": 3600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-12",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "P",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

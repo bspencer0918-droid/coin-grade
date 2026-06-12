@@ -7,7 +7,7 @@
   "ruler_dates": "AD 117\u2013138",
   "ruler_rarity": null,
   "denomination": "Unknown",
-  "metal": "silver",
+  "metal": "bronze",
   "sale_count": 260,
   "realized_count": 260,
   "fixed_price_count": 0,
@@ -19,8 +19,8 @@
   "median_price_usd": 276.0,
   "last_sale_date": "2026-06-07",
   "grade_distribution": {
-    "XF": 49,
     "VF": 151,
+    "XF": 49,
     "AU": 4,
     "F": 47,
     "VG": 5,
@@ -28,7 +28,7 @@
     "AG": 1,
     "MS": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/e6ea8da5271cb179cbac0656b05877f3/img/heritage/61626/image23128.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/106c9c57dbca683cd0faf1e21dffac38/img/heritage/3130/image36089.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -38,39 +38,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "coinarchives-7694da46756a",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2756756&AucID=7130&Lot=23128&Val=99a2d1f099bd720572455dbfbd15b3a3",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61626, Lot 23128 \u2014 Ancients\nHadrian (AD 117-138). AR cistophorus (27mm, 10.66 gm, 8h). NGC XF\u2605 5/5 - 4/5, Fine Style. Nicomedia, AD 138. IMP CAES TRA HADRI-ANO AVG P P, laureate, draped bust of Hadrian right / Octastyle",
-      "description": "Ancients\nHadrian (AD 117-138). AR cistophorus (27mm, 10.66 gm, 8h). NGC XF\u2605 5/5 - 4/5, Fine Style. Nicomedia, AD 138. IMP CAES TRA HADRI-ANO AVG P P, laureate, draped bust of Hadrian right / Octastyle temple set on three-tiered podium, statues of figures in pediment, central figure standing facing with grounded spear or scepter, Nikes statues as acroteria, surmounted by frontal quadriga at the apex; ROM S P AVG across frieze, COM-BIT across fields. RPC III 970D (this coin). RIC II 461c. Seemin...",
-      "hammer_price_usd": 3500.0,
-      "currency_original": "USD",
-      "price_original": 3500.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-06-07",
-      "image_url": "https://media.coinarchives.com/e6ea8da5271cb179cbac0656b05877f3/img/heritage/61626/image23128.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": true,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-46240597bcf5",
       "source": "coinarchives",
@@ -90,6 +57,39 @@
         "grade": "VF",
         "grade_numeric": 4,
         "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-7694da46756a",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2756756&AucID=7130&Lot=23128&Val=99a2d1f099bd720572455dbfbd15b3a3",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61626, Lot 23128 \u2014 Ancients\nHadrian (AD 117-138). AR cistophorus (27mm, 10.66 gm, 8h). NGC XF\u2605 5/5 - 4/5, Fine Style. Nicomedia, AD 138. IMP CAES TRA HADRI-ANO AVG P P, laureate, draped bust of Hadrian right / Octastyle",
+      "description": "Ancients\nHadrian (AD 117-138). AR cistophorus (27mm, 10.66 gm, 8h). NGC XF\u2605 5/5 - 4/5, Fine Style. Nicomedia, AD 138. IMP CAES TRA HADRI-ANO AVG P P, laureate, draped bust of Hadrian right / Octastyle temple set on three-tiered podium, statues of figures in pediment, central figure standing facing with grounded spear or scepter, Nikes statues as acroteria, surmounted by frontal quadriga at the apex; ROM S P AVG across frieze, COM-BIT across fields. RPC III 970D (this coin). RIC II 461c. Seemin...",
+      "hammer_price_usd": 3500.0,
+      "currency_original": "USD",
+      "price_original": 3500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-07",
+      "image_url": "https://media.coinarchives.com/e6ea8da5271cb179cbac0656b05877f3/img/heritage/61626/image23128.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
         "fine_style": true,
