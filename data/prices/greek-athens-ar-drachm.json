@@ -34,39 +34,6 @@
   "mint_mark": null,
   "sales": [
     {
-      "id": "sixbid-23cf7345d2ca",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/nihon-coin-auction/13497/gu-dai-girishiya-ancient-greek/11929426/gu-dai-girishiya-ancient-greek-karaburia-tarasu-calabria",
-      "title": "\u53e4\u4ee3\u30ae\u30ea\u30b7\u30e3 ANCIENT GREEK \u30ab\u30e9\u30d6\u30ea\u30a2\u30fb\u30bf\u30e9\u30b9 Calabria Taras  \u30c9\u30e9\u30af\u30de\u9280\u8ca8 AR Drachm Circa 3rd Century \u30a2\u30c6\u30cd/\u30d5\u30af\u30ed\u30a6 Athena/Owl Stg. Sear-373var. 3.26gm NGC XF Strike:4/5 Surface:3/5 Fine Style (3759990-008)\u3000F+",
-      "description": "Nihon Coin Auction | ['No.62 Nihon Coin Auction']",
-      "hammer_price_usd": 416.7,
-      "currency_original": "USD",
-      "price_original": 416.69763,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-13",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "3759990-008",
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": true,
-        "certification_url": "https://www.ngccoin.com/certlookup/3759990008/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "sixbid-8395f236ed28",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -258,6 +225,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-23cf7345d2ca",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/nihon-coin-auction/13497/gu-dai-girishiya-ancient-greek/11929426/gu-dai-girishiya-ancient-greek-karaburia-tarasu-calabria",
+      "title": "\u53e4\u4ee3\u30ae\u30ea\u30b7\u30e3 ANCIENT GREEK \u30ab\u30e9\u30d6\u30ea\u30a2\u30fb\u30bf\u30e9\u30b9 Calabria Taras  \u30c9\u30e9\u30af\u30de\u9280\u8ca8 AR Drachm Circa 3rd Century \u30a2\u30c6\u30cd/\u30d5\u30af\u30ed\u30a6 Athena/Owl Stg. Sear-373var. 3.26gm NGC XF Strike:4/5 Surface:3/5 Fine Style (3759990-008)\u3000F+",
+      "description": "Nihon Coin Auction | ['No.62 Nihon Coin Auction']",
+      "hammer_price_usd": 416.7,
+      "currency_original": "USD",
+      "price_original": 416.69763,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "3759990-008",
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": "https://www.ngccoin.com/certlookup/3759990008/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

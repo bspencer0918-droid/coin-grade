@@ -17,12 +17,12 @@
     "max": 292800.0
   },
   "median_price_usd": 1920.0,
-  "last_sale_date": "2026-06-12",
+  "last_sale_date": "2026-06-13",
   "grade_distribution": {
     "VF": 268,
-    "XF": 371,
-    "AU": 475,
     "G": 19,
+    "AU": 475,
+    "XF": 371,
     "F": 29,
     "AG": 1,
     "MS": 179,
@@ -49,7 +49,7 @@
       "currency_original": "USD",
       "price_original": 1300.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-12",
+      "sale_date": "2026-06-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -94,72 +94,6 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-372525a469e8",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/nihon-coin-auction/13497/gu-dai-girishiya-ancient-greek/11929444/gu-dai-girishiya-ancient-greek-makedonia-tetsusaronika",
-      "title": "\u53e4\u4ee3\u30ae\u30ea\u30b7\u30e3 ANCIENT GREEK \u30de\u30b1\u30c9\u30cb\u30a2 \u30c6\u30c3\u30b5\u30ed\u30cb\u30ab (\u30a2\u30a8\u30b7\u30e9\u30b9) Macedonia Thessalonika (Aesillas)  \u30c6\u30c8\u30e9\u30c9\u30e9\u30af\u30de\u9280\u8ca8 AR Tetradrachm Circa 90-75 BC. \u8868\u9762\uff1a\u30a2\u30e2\u30f3\u306e\u89d2\u306e\u30a2\u30ec\u30ad\u30b5\u30f3\u30c0\u30fc\u5927\u738b \u88cf\u9762\uff1a\u30aa\u30ea\u30fc\u30d6\u306e\u51a0\u306b\u56f2\u307e\u308c\u305f\u30d8\u30e9\u30af\u30ec\u30b9\u306e\u68cd\u68d2, \u91d1\u5eab, \u7389\u5ea7 16.10gm Sear-1463 NGC XF Strike: 4/5 Surface: 2/5 Edge Filing (3959401-068) \u30a8\u30c3\u30c2\u52a0\u5de5\u75d5\u3042\u308a \u3000Toned VF",
-      "description": "Nihon Coin Auction | ['No.62 Nihon Coin Auction']",
-      "hammer_price_usd": 352.59,
-      "currency_original": "USD",
-      "price_original": 352.5903,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-13",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "3959401-068",
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 2,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/3959401068/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-46202c704661",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/nihon-coin-auction/13497/gu-dai-girishiya-ancient-greek/11929440/gu-dai-girishiya-ancient-greek-bakutoriawang-guo-baktorian",
-      "title": "\u53e4\u4ee3\u30ae\u30ea\u30b7\u30e3 ANCIENT GREEK \u30d0\u30af\u30c8\u30ea\u30a2\u738b\u56fd Baktorian Kingdom  \u30a2\u30f3\u30c6\u30a3\u30de\u30b3\u30b91\u4e16 Antimachos I (Circa 171-160BC.) \u30c6\u30c8\u30e9\u30c9\u30e9\u30af\u30de\u9280\u8ca8 AR Tetradrachm \u30ac\u30f3\u30c0\u30cf\u30e9\u92f3 Mint:Gandhara \u8868\u9762\uff1a\u5e3d\u5b50\u3092\u88ab\u3063\u305f\u30a2\u30f3\u30c6\u30a3\u30de\u30b3\u30b91\u4e16\u53f3\u5411\u304d\u50cf \u88cf\u9762\uff1a\u4e09\u53c9\u306e\u927e\u3068\u68d5\u6ada\u306e\u679d\u3092\u6301\u3064\u30dd\u30bb\u30a4\u30c9\u30f3\u7acb\u50cf 16.48gm Sear-7542 Mitchiner-1657 NGC AU Strike: 5/5 Surface: 1/5 It. smoothing (6656263-030) \u8868\u9762\u306b\u8150\u8755\u3042\u308a Corrosion\u3000F / VF",
-      "description": "Nihon Coin Auction | ['No.62 Nihon Coin Auction']",
-      "hammer_price_usd": 384.64,
-      "currency_original": "USD",
-      "price_original": 384.64398,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-13",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "6656263-030",
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 1,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/6656263030/",
         "grading_service": "ngc"
       },
       "metadata": {
@@ -490,39 +424,6 @@
         "details_grade": null,
         "fine_style": true,
         "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-d33935da95c3",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/nihon-coin-auction/13497/gu-dai-girishiya-ancient-greek/11929437/gu-dai-girishiya-ancient-greek-sereukosuzhao-seleukid",
-      "title": "\u53e4\u4ee3\u30ae\u30ea\u30b7\u30e3 ANCIENT GREEK \u30bb\u30ec\u30a6\u30b3\u30b9\u671d Seleukid Kingdom \u30bb\u30ec\u30a6\u30b3\u30b91\u4e16\u30cb\u30ab\u30c8\u30fc\u30eb Seleukos I Nikator (312-280BC.) \u30c6\u30c8\u30e9\u30c9\u30e9\u30af\u30de\u9280\u8ca8 AR  Tetradrachm 312-281 BC. \u8868\u9762\uff1a\u6708\u6842\u51a0\u306e\u30bc\u30a6\u30b9\u53f3\u5411\u304d\u982d\u50cf \u88cf\u9762\uff1a\u56db\u982d\u306e\u6226\u8c61\u306b\u4e57\u308a\u6226\u3046\u30a2\u30c6\u30ca\u3068\u9328\u306e\u30de\u30fc\u30af \u3053\u306e\u6226\u8c61\u306f\u30de\u30a6\u30ea\u30e4\u671d\u306e\u30c1\u30e3\u30f3\u30c9\u30e9\u30b0\u30d7\u30bf\u738b\u304b\u3089500\u982d\u306e\u6226\u8c61\u304c\u8d08\u3089\u308c\u305f\u3082\u306e\u3067\u3059\u3002 Sear-6831 BMC-4.325 17.01gm NGC VF  Strike:4/5 Surface:4/5 die Shift(6656265-027\uff09\u88cf\u9762\u30a8\u30c3\u30c2\u306b\u6b20\u3051\u3042\u308a\u3000VG",
-      "description": "Nihon Coin Auction | ['No.62 Nihon Coin Auction']",
-      "hammer_price_usd": 544.91,
-      "currency_original": "USD",
-      "price_original": 544.9123,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-13",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "6656265-027",
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/6656265027/",
         "grading_service": "ngc"
       },
       "metadata": {
@@ -1666,7 +1567,7 @@
       "currency_original": "USD",
       "price_original": 2750.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-12",
+      "sale_date": "2026-06-13",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc101757a.jpg",
       "ngc": {
         "verified": false,
@@ -4388,6 +4289,105 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-372525a469e8",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/nihon-coin-auction/13497/gu-dai-girishiya-ancient-greek/11929444/gu-dai-girishiya-ancient-greek-makedonia-tetsusaronika",
+      "title": "\u53e4\u4ee3\u30ae\u30ea\u30b7\u30e3 ANCIENT GREEK \u30de\u30b1\u30c9\u30cb\u30a2 \u30c6\u30c3\u30b5\u30ed\u30cb\u30ab (\u30a2\u30a8\u30b7\u30e9\u30b9) Macedonia Thessalonika (Aesillas)  \u30c6\u30c8\u30e9\u30c9\u30e9\u30af\u30de\u9280\u8ca8 AR Tetradrachm Circa 90-75 BC. \u8868\u9762\uff1a\u30a2\u30e2\u30f3\u306e\u89d2\u306e\u30a2\u30ec\u30ad\u30b5\u30f3\u30c0\u30fc\u5927\u738b \u88cf\u9762\uff1a\u30aa\u30ea\u30fc\u30d6\u306e\u51a0\u306b\u56f2\u307e\u308c\u305f\u30d8\u30e9\u30af\u30ec\u30b9\u306e\u68cd\u68d2, \u91d1\u5eab, \u7389\u5ea7 16.10gm Sear-1463 NGC XF Strike: 4/5 Surface: 2/5 Edge Filing (3959401-068) \u30a8\u30c3\u30c2\u52a0\u5de5\u75d5\u3042\u308a \u3000Toned VF",
+      "description": "Nihon Coin Auction | ['No.62 Nihon Coin Auction']",
+      "hammer_price_usd": 352.59,
+      "currency_original": "USD",
+      "price_original": 352.5903,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "3959401-068",
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/3959401068/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-46202c704661",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/nihon-coin-auction/13497/gu-dai-girishiya-ancient-greek/11929440/gu-dai-girishiya-ancient-greek-bakutoriawang-guo-baktorian",
+      "title": "\u53e4\u4ee3\u30ae\u30ea\u30b7\u30e3 ANCIENT GREEK \u30d0\u30af\u30c8\u30ea\u30a2\u738b\u56fd Baktorian Kingdom  \u30a2\u30f3\u30c6\u30a3\u30de\u30b3\u30b91\u4e16 Antimachos I (Circa 171-160BC.) \u30c6\u30c8\u30e9\u30c9\u30e9\u30af\u30de\u9280\u8ca8 AR Tetradrachm \u30ac\u30f3\u30c0\u30cf\u30e9\u92f3 Mint:Gandhara \u8868\u9762\uff1a\u5e3d\u5b50\u3092\u88ab\u3063\u305f\u30a2\u30f3\u30c6\u30a3\u30de\u30b3\u30b91\u4e16\u53f3\u5411\u304d\u50cf \u88cf\u9762\uff1a\u4e09\u53c9\u306e\u927e\u3068\u68d5\u6ada\u306e\u679d\u3092\u6301\u3064\u30dd\u30bb\u30a4\u30c9\u30f3\u7acb\u50cf 16.48gm Sear-7542 Mitchiner-1657 NGC AU Strike: 5/5 Surface: 1/5 It. smoothing (6656263-030) \u8868\u9762\u306b\u8150\u8755\u3042\u308a Corrosion\u3000F / VF",
+      "description": "Nihon Coin Auction | ['No.62 Nihon Coin Auction']",
+      "hammer_price_usd": 384.64,
+      "currency_original": "USD",
+      "price_original": 384.64398,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "6656263-030",
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 1,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/6656263030/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-d33935da95c3",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/nihon-coin-auction/13497/gu-dai-girishiya-ancient-greek/11929437/gu-dai-girishiya-ancient-greek-sereukosuzhao-seleukid",
+      "title": "\u53e4\u4ee3\u30ae\u30ea\u30b7\u30e3 ANCIENT GREEK \u30bb\u30ec\u30a6\u30b3\u30b9\u671d Seleukid Kingdom \u30bb\u30ec\u30a6\u30b3\u30b91\u4e16\u30cb\u30ab\u30c8\u30fc\u30eb Seleukos I Nikator (312-280BC.) \u30c6\u30c8\u30e9\u30c9\u30e9\u30af\u30de\u9280\u8ca8 AR  Tetradrachm 312-281 BC. \u8868\u9762\uff1a\u6708\u6842\u51a0\u306e\u30bc\u30a6\u30b9\u53f3\u5411\u304d\u982d\u50cf \u88cf\u9762\uff1a\u56db\u982d\u306e\u6226\u8c61\u306b\u4e57\u308a\u6226\u3046\u30a2\u30c6\u30ca\u3068\u9328\u306e\u30de\u30fc\u30af \u3053\u306e\u6226\u8c61\u306f\u30de\u30a6\u30ea\u30e4\u671d\u306e\u30c1\u30e3\u30f3\u30c9\u30e9\u30b0\u30d7\u30bf\u738b\u304b\u3089500\u982d\u306e\u6226\u8c61\u304c\u8d08\u3089\u308c\u305f\u3082\u306e\u3067\u3059\u3002 Sear-6831 BMC-4.325 17.01gm NGC VF  Strike:4/5 Surface:4/5 die Shift(6656265-027\uff09\u88cf\u9762\u30a8\u30c3\u30c2\u306b\u6b20\u3051\u3042\u308a\u3000VG",
+      "description": "Nihon Coin Auction | ['No.62 Nihon Coin Auction']",
+      "hammer_price_usd": 544.91,
+      "currency_original": "USD",
+      "price_original": 544.9123,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "6656265-027",
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/6656265027/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

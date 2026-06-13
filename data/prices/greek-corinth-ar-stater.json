@@ -19,8 +19,8 @@
   "median_price_usd": 1680.0,
   "last_sale_date": "2026-05-11",
   "grade_distribution": {
-    "AU": 26,
     "XF": 16,
+    "AU": 26,
     "VF": 2,
     "MS": 3
   },
@@ -34,39 +34,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-a58fe0709391",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/nihon-coin-auction/13497/gu-dai-girishiya-ancient-greek/11929422/gu-dai-girishiya-ancient-greek-korinteia-korinto",
-      "title": "\u53e4\u4ee3\u30ae\u30ea\u30b7\u30e3 ANCIENT GREEK \u30b3\u30ea\u30f3\u30c6\u30a3\u30a2 \u30b3\u30ea\u30f3\u30c8 Corinthia Corinth  \u30b9\u30c6\u30fc\u30bf\u30fc\u9280\u8ca8 AR Stater 350-306BC. \u5de6\u5411\u304d\u30a2\u30c6\u30ca\u50cf\u306e\u524d\u306b\u25b3, \u5f8c\u90e8\u306b\u201d I \"\u3068\u5175\u58eb/ \u7fbd\u3070\u305f\u304f\u30da\u30ac\u30b5\u30b9\u306e\u4e0b\u306b\u30ae\u30ea\u30b7\u30e3\u6587\u5b57 \u30ed\u30fc \" \u03a1 \" 8.43gm Sear-2631var NGC AU Strike: 4/5 Surface: 4/5 (6656265-051)\u3000Toned VF",
-      "description": "Nihon Coin Auction | ['No.62 Nihon Coin Auction']",
-      "hammer_price_usd": 1282.15,
-      "currency_original": "USD",
-      "price_original": 1282.1466,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-13",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "6656265-051",
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/6656265051/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "sixbid-5c4df5794721",
       "source": "sixbid",
@@ -292,6 +259,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-a58fe0709391",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/nihon-coin-auction/13497/gu-dai-girishiya-ancient-greek/11929422/gu-dai-girishiya-ancient-greek-korinteia-korinto",
+      "title": "\u53e4\u4ee3\u30ae\u30ea\u30b7\u30e3 ANCIENT GREEK \u30b3\u30ea\u30f3\u30c6\u30a3\u30a2 \u30b3\u30ea\u30f3\u30c8 Corinthia Corinth  \u30b9\u30c6\u30fc\u30bf\u30fc\u9280\u8ca8 AR Stater 350-306BC. \u5de6\u5411\u304d\u30a2\u30c6\u30ca\u50cf\u306e\u524d\u306b\u25b3, \u5f8c\u90e8\u306b\u201d I \"\u3068\u5175\u58eb/ \u7fbd\u3070\u305f\u304f\u30da\u30ac\u30b5\u30b9\u306e\u4e0b\u306b\u30ae\u30ea\u30b7\u30e3\u6587\u5b57 \u30ed\u30fc \" \u03a1 \" 8.43gm Sear-2631var NGC AU Strike: 4/5 Surface: 4/5 (6656265-051)\u3000Toned VF",
+      "description": "Nihon Coin Auction | ['No.62 Nihon Coin Auction']",
+      "hammer_price_usd": 1282.15,
+      "currency_original": "USD",
+      "price_original": 1282.1466,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "6656265-051",
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/6656265051/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

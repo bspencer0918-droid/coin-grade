@@ -19,10 +19,10 @@
   "median_price_usd": 169.0,
   "last_sale_date": "2026-06-07",
   "grade_distribution": {
-    "MS": 50,
     "AU": 235,
     "XF": 182,
     "VF": 37,
+    "MS": 50,
     "F": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/c98d17a58247ecda7e4d322433d51927/img/heritage/61605/image23121.jpg",
@@ -35,39 +35,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-639c2d69caba",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/nihon-coin-auction/13497/gu-dai-ro-ma-ancient-roman/11929453/gu-dai-ro-ma-ancient-roman-ro-madi-guo-roman",
-      "title": "\u53e4\u4ee3\u30ed\u30fc\u30de ANCIENT ROMAN \u30ed\u30fc\u30de\u5e1d\u56fd Roman Empire  \u30ab\u30e9\u30ab\u30e9\u5e1d Caracalla (AD.198-217) \u30c7\u30ca\u30ea\u30a6\u30b9\u9280\u8ca8 AR Denarius  AD.215 \u30ed\u30fc\u30de\u92f3 \u88cf\u9762\uff1a\u96f7\u3068\u7b0f\u3092\u6301\u3064\u30b8\u30e5\u30d4\u30bf\u30fc\u7acb\u50cf Sear-6836 NGC MS\u2605 Strike: 5/5  Surface: 5/5 (4535105-015)\u3000UNC",
-      "description": "Nihon Coin Auction | ['No.62 Nihon Coin Auction']",
-      "hammer_price_usd": 2436.08,
-      "currency_original": "USD",
-      "price_original": 2436.0784,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-13",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "4535105-015",
-        "grade": "MS",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/4535105015/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "sixbid-88bcea0f2ca3",
       "source": "sixbid",
@@ -227,6 +194,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-639c2d69caba",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/nihon-coin-auction/13497/gu-dai-ro-ma-ancient-roman/11929453/gu-dai-ro-ma-ancient-roman-ro-madi-guo-roman",
+      "title": "\u53e4\u4ee3\u30ed\u30fc\u30de ANCIENT ROMAN \u30ed\u30fc\u30de\u5e1d\u56fd Roman Empire  \u30ab\u30e9\u30ab\u30e9\u5e1d Caracalla (AD.198-217) \u30c7\u30ca\u30ea\u30a6\u30b9\u9280\u8ca8 AR Denarius  AD.215 \u30ed\u30fc\u30de\u92f3 \u88cf\u9762\uff1a\u96f7\u3068\u7b0f\u3092\u6301\u3064\u30b8\u30e5\u30d4\u30bf\u30fc\u7acb\u50cf Sear-6836 NGC MS\u2605 Strike: 5/5  Surface: 5/5 (4535105-015)\u3000UNC",
+      "description": "Nihon Coin Auction | ['No.62 Nihon Coin Auction']",
+      "hammer_price_usd": 2436.08,
+      "currency_original": "USD",
+      "price_original": 2436.0784,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "4535105-015",
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/4535105015/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

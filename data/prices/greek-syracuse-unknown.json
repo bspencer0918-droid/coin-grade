@@ -17,12 +17,12 @@
     "max": 180000.0
   },
   "median_price_usd": 8400.0,
-  "last_sale_date": "2026-06-12",
+  "last_sale_date": "2026-06-13",
   "grade_distribution": {
     "VF": 12,
-    "XF": 44,
     "F": 2,
     "AU": 50,
+    "XF": 44,
     "MS": 12,
     "VG": 1
   },
@@ -47,7 +47,7 @@
       "currency_original": "USD",
       "price_original": 110.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-12",
+      "sale_date": "2026-06-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -59,39 +59,6 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-da9c06f8860e",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/nihon-coin-auction/13497/gu-dai-girishiya-ancient-greek/11929423/gu-dai-girishiya-ancient-greek-shishiri-dao-shirakusa",
-      "title": "\u53e4\u4ee3\u30ae\u30ea\u30b7\u30e3 ANCIENT GREEK \u30b7\u30b7\u30ea\u30fc\u5cf6 \u30b7\u30e9\u30af\u30b5 Sicily Syracuse \u30d2\u30a8\u30ed\u30f32\u4e16 Hieron II (275-215BC.) 8\u30ea\u30c8\u30e9\u30a4\u9280\u8ca8 AR 8Litrai  \u8868\u9762\uff1a\u30d2\u30a8\u30ed\u30f3\u306e\u606f\u5b50\u30b2\u30ed\u30f3\u5de6\u5411\u304d\u8096\u50cf \u88cf\u9762\uff1a\u30f4\u30a3\u30af\u30c8\u30ea\u30fc\u304c\u4e57\u308b2\u982d\u7acb\u3066\u6226\u8eca\u30d3\u30ac 6.81gm NGC Ch XF Strike: 4/5 Surface: 3/5  (4278256-001)\u3000Toned VF/ F",
-      "description": "Nihon Coin Auction | ['No.62 Nihon Coin Auction']",
-      "hammer_price_usd": 641.07,
-      "currency_original": "USD",
-      "price_original": 641.0733,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-13",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "4278256-001",
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/4278256001/",
         "grading_service": "ngc"
       },
       "metadata": {
@@ -624,6 +591,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-da9c06f8860e",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/nihon-coin-auction/13497/gu-dai-girishiya-ancient-greek/11929423/gu-dai-girishiya-ancient-greek-shishiri-dao-shirakusa",
+      "title": "\u53e4\u4ee3\u30ae\u30ea\u30b7\u30e3 ANCIENT GREEK \u30b7\u30b7\u30ea\u30fc\u5cf6 \u30b7\u30e9\u30af\u30b5 Sicily Syracuse \u30d2\u30a8\u30ed\u30f32\u4e16 Hieron II (275-215BC.) 8\u30ea\u30c8\u30e9\u30a4\u9280\u8ca8 AR 8Litrai  \u8868\u9762\uff1a\u30d2\u30a8\u30ed\u30f3\u306e\u606f\u5b50\u30b2\u30ed\u30f3\u5de6\u5411\u304d\u8096\u50cf \u88cf\u9762\uff1a\u30f4\u30a3\u30af\u30c8\u30ea\u30fc\u304c\u4e57\u308b2\u982d\u7acb\u3066\u6226\u8eca\u30d3\u30ac 6.81gm NGC Ch XF Strike: 4/5 Surface: 3/5  (4278256-001)\u3000Toned VF/ F",
+      "description": "Nihon Coin Auction | ['No.62 Nihon Coin Auction']",
+      "hammer_price_usd": 641.07,
+      "currency_original": "USD",
+      "price_original": 641.0733,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "4278256-001",
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/4278256001/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

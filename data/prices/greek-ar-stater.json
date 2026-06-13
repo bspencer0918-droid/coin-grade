@@ -7,7 +7,7 @@
   "ruler_dates": null,
   "ruler_rarity": null,
   "denomination": "AR Stater",
-  "metal": "electrum",
+  "metal": "gold",
   "sale_count": 1457,
   "realized_count": 1457,
   "fixed_price_count": 0,
@@ -19,11 +19,11 @@
   "median_price_usd": 2400.0,
   "last_sale_date": "2026-06-07",
   "grade_distribution": {
-    "VF": 321,
     "MS": 159,
     "F": 41,
     "XF": 474,
     "AU": 438,
+    "VF": 321,
     "VG": 9,
     "G": 13,
     "AG": 2
@@ -38,39 +38,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-0d8eebc331a2",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/nihon-coin-auction/13497/gu-dai-girishiya-ancient-greek/11929432/gu-dai-girishiya-ancient-greek-xiao-azia-rideiawang-guo",
-      "title": "\u53e4\u4ee3\u30ae\u30ea\u30b7\u30e3 ANCIENT GREEK \u5c0f\u30a2\u30b8\u30a2 \u30ea\u30c7\u30a3\u30a2\u738b\u56fd Asia Minor Kingdom of Lydia  1/12\u30a8\u30ec\u30af\u30c8\u30e9\u30e0\u8ca8 Electrum Twelfth-Stater 1.18gm \u8868\u9762\uff1a\u5486\u54ee\u3059\u308b\u30e9\u30a4\u30aa\u30f3 Sear-3401 NGC Ch VF  Strike:4/5  Surface:3/5 Countermark (6605784-010) \u30c1\u30e7\u30c3\u30d7\u30de\u30fc\u30af\u3042\u308a\u3000F",
-      "description": "Nihon Coin Auction | ['No.62 Nihon Coin Auction']",
-      "hammer_price_usd": 769.29,
-      "currency_original": "USD",
-      "price_original": 769.28796,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-13",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "6605784-010",
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/6605784010/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "sixbid-748340c0a4a7",
       "source": "sixbid",
@@ -226,39 +193,6 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-51162ded7ce2",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/nihon-coin-auction/13497/gu-dai-girishiya-ancient-greek/11929430/gu-dai-girishiya-ancient-greek-xiao-azia-panhuiria",
-      "title": "\u53e4\u4ee3\u30ae\u30ea\u30b7\u30e3 ANCIENT GREEK \u5c0f\u30a2\u30b8\u30a2 \u30d1\u30f3\u30d5\u30a3\u30ea\u30a2 \u30a2\u30b9\u30da\u30f3\u30c0\u30b9 Asia Minor Pamphylia Aspendus   \u30b9\u30c6\u30fc\u30bf\u30fc\u9280\u8ca8 AR Stater Circa 380-325BC. \u8868\u9762\uff1a\u30aa\u30ea\u30f3\u30d4\u30c3\u30af\u30b2\u30fc\u30e0 \u30ec\u30b9\u30ea\u30f3\u30b0 \u88cf\u9762\uff1a\u6295\u77f3\u5668\u3092\u5c04\u308b\u7537\uff0c\u30c8\u30ea\u30b9\u30b1\u30ea\u30aa\u30f3 10.88gm Sear-5389 NGC AU Strike: 4/5 Surface: 4/5 (6656338-034) \u6d17\u3044\u3042\u308a Cleaned\u3000VF",
-      "description": "Nihon Coin Auction | ['No.62 Nihon Coin Auction']",
-      "hammer_price_usd": 705.18,
-      "currency_original": "USD",
-      "price_original": 705.1806,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-13",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "6656338-034",
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/6656338034/",
         "grading_service": "ngc"
       },
       "metadata": {
@@ -490,39 +424,6 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-581215efb0cc",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/nihon-coin-auction/13497/gu-dai-girishiya-ancient-greek/11929424/gu-dai-girishiya-ancient-greek-itaria-buruteiumu",
-      "title": "\u53e4\u4ee3\u30ae\u30ea\u30b7\u30e3 ANCIENT GREEK \u30a4\u30bf\u30ea\u30a2 \u30d6\u30eb\u30c6\u30a3\u30a6\u30e0 \u30ab\u30a6\u30ed\u30cb\u30a2 Italy Bruttium Kaulonia  \u30b9\u30c6\u30fc\u30bf\u30fc\u9280\u8ca8 AR Stater 530-480BC. NGC AU Strike: 5/5 Surface:4/5 Fine Style light marks (6639716-004) \u7d20\u6674\u3089\u3057\u3044\u30d6\u30eb\u30fc\u30c8\u30fc\u30f3\u306e\u72b6\u614b\u3067\u3059\u3002\u53e4\u4ee3\u30ae\u30ea\u30b7\u30e3\u521d\u671f\u30a2\u30eb\u30ab\u30a4\u30c3\u30af\u671f\u306e\u5178\u578b\u7684\u306a\u53e4\u98a8\u306a\u30c7\u30b6\u30a4\u30f3\u3067\u3059\u3002\u8868\u9762\uff1a\u30ae\u30ea\u30b7\u30e3\u795e\u8a71\u306b\u3082\u3068\u305a\u304f\u30a2\u30dd\u30ed\u304c\u795e\u306e\u795e\u8a17\u306b\u3088\u308a\u602a\u7363\u30d4\u30e5\u30fc\u30c8\u30f3\u3092\u8a0e\u3061\u30c7\u30eb\u30d5\u30a1\u30a4\u306e\u795e\u8a17\u6240\u306b\u623b\u308b\u5834\u9762\u3067\u3059\u3002\u30c7\u30eb\u30d5\u30a1\u30a4\u306b\u623b\u308b\u524d\u306b\u7261\u9e7f\u306b\u6848\u5185\u3055\u308c\u30c6\u30f3\u30da\u306e\u8c37\u3067\u6708\u6842\u6a39\u306e\u679d\u3092\u6298\u308a\u8eab\u3092\u6e05\u3081\u307e\u3059\u3002\u5de6\u624b\u306b\u306f\u6298\u3063\u305f\u6708\u6842\u6a39\u306e\u679d\u3001\u53f3\u8155\u306b\u306f\u5c0f\u3055\u306a\u795e\u306e\u4f7f\u8005\u3082\u6708\u6842\u6a39\u306e\u679d\u3092\u6301\u3061\u795e\u8a17\u6240\u306b\u6848\u5185\u3059\u308b\u56f3\u6848\u3067\u3059\u3002\u88cf\u9762\uff1a\u8868\u9762\u306e\u56f3\u6848\u3092\u9670\u523b\u306b\u3057\u3066\u8868\u3057\u3066\u3044\u307e\u3059\u3002\u3000\u3000Toned EF",
-      "description": "Nihon Coin Auction | ['No.62 Nihon Coin Auction']",
-      "hammer_price_usd": 24360.78,
-      "currency_original": "USD",
-      "price_original": 24360.785,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-13",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "6639716-004",
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": true,
-        "certification_url": "https://www.ngccoin.com/certlookup/6639716004/",
         "grading_service": "ngc"
       },
       "metadata": {
@@ -2870,6 +2771,105 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-0d8eebc331a2",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/nihon-coin-auction/13497/gu-dai-girishiya-ancient-greek/11929432/gu-dai-girishiya-ancient-greek-xiao-azia-rideiawang-guo",
+      "title": "\u53e4\u4ee3\u30ae\u30ea\u30b7\u30e3 ANCIENT GREEK \u5c0f\u30a2\u30b8\u30a2 \u30ea\u30c7\u30a3\u30a2\u738b\u56fd Asia Minor Kingdom of Lydia  1/12\u30a8\u30ec\u30af\u30c8\u30e9\u30e0\u8ca8 Electrum Twelfth-Stater 1.18gm \u8868\u9762\uff1a\u5486\u54ee\u3059\u308b\u30e9\u30a4\u30aa\u30f3 Sear-3401 NGC Ch VF  Strike:4/5  Surface:3/5 Countermark (6605784-010) \u30c1\u30e7\u30c3\u30d7\u30de\u30fc\u30af\u3042\u308a\u3000F",
+      "description": "Nihon Coin Auction | ['No.62 Nihon Coin Auction']",
+      "hammer_price_usd": 769.29,
+      "currency_original": "USD",
+      "price_original": 769.28796,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "6605784-010",
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/6605784010/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-51162ded7ce2",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/nihon-coin-auction/13497/gu-dai-girishiya-ancient-greek/11929430/gu-dai-girishiya-ancient-greek-xiao-azia-panhuiria",
+      "title": "\u53e4\u4ee3\u30ae\u30ea\u30b7\u30e3 ANCIENT GREEK \u5c0f\u30a2\u30b8\u30a2 \u30d1\u30f3\u30d5\u30a3\u30ea\u30a2 \u30a2\u30b9\u30da\u30f3\u30c0\u30b9 Asia Minor Pamphylia Aspendus   \u30b9\u30c6\u30fc\u30bf\u30fc\u9280\u8ca8 AR Stater Circa 380-325BC. \u8868\u9762\uff1a\u30aa\u30ea\u30f3\u30d4\u30c3\u30af\u30b2\u30fc\u30e0 \u30ec\u30b9\u30ea\u30f3\u30b0 \u88cf\u9762\uff1a\u6295\u77f3\u5668\u3092\u5c04\u308b\u7537\uff0c\u30c8\u30ea\u30b9\u30b1\u30ea\u30aa\u30f3 10.88gm Sear-5389 NGC AU Strike: 4/5 Surface: 4/5 (6656338-034) \u6d17\u3044\u3042\u308a Cleaned\u3000VF",
+      "description": "Nihon Coin Auction | ['No.62 Nihon Coin Auction']",
+      "hammer_price_usd": 705.18,
+      "currency_original": "USD",
+      "price_original": 705.1806,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "6656338-034",
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/6656338034/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-581215efb0cc",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/nihon-coin-auction/13497/gu-dai-girishiya-ancient-greek/11929424/gu-dai-girishiya-ancient-greek-itaria-buruteiumu",
+      "title": "\u53e4\u4ee3\u30ae\u30ea\u30b7\u30e3 ANCIENT GREEK \u30a4\u30bf\u30ea\u30a2 \u30d6\u30eb\u30c6\u30a3\u30a6\u30e0 \u30ab\u30a6\u30ed\u30cb\u30a2 Italy Bruttium Kaulonia  \u30b9\u30c6\u30fc\u30bf\u30fc\u9280\u8ca8 AR Stater 530-480BC. NGC AU Strike: 5/5 Surface:4/5 Fine Style light marks (6639716-004) \u7d20\u6674\u3089\u3057\u3044\u30d6\u30eb\u30fc\u30c8\u30fc\u30f3\u306e\u72b6\u614b\u3067\u3059\u3002\u53e4\u4ee3\u30ae\u30ea\u30b7\u30e3\u521d\u671f\u30a2\u30eb\u30ab\u30a4\u30c3\u30af\u671f\u306e\u5178\u578b\u7684\u306a\u53e4\u98a8\u306a\u30c7\u30b6\u30a4\u30f3\u3067\u3059\u3002\u8868\u9762\uff1a\u30ae\u30ea\u30b7\u30e3\u795e\u8a71\u306b\u3082\u3068\u305a\u304f\u30a2\u30dd\u30ed\u304c\u795e\u306e\u795e\u8a17\u306b\u3088\u308a\u602a\u7363\u30d4\u30e5\u30fc\u30c8\u30f3\u3092\u8a0e\u3061\u30c7\u30eb\u30d5\u30a1\u30a4\u306e\u795e\u8a17\u6240\u306b\u623b\u308b\u5834\u9762\u3067\u3059\u3002\u30c7\u30eb\u30d5\u30a1\u30a4\u306b\u623b\u308b\u524d\u306b\u7261\u9e7f\u306b\u6848\u5185\u3055\u308c\u30c6\u30f3\u30da\u306e\u8c37\u3067\u6708\u6842\u6a39\u306e\u679d\u3092\u6298\u308a\u8eab\u3092\u6e05\u3081\u307e\u3059\u3002\u5de6\u624b\u306b\u306f\u6298\u3063\u305f\u6708\u6842\u6a39\u306e\u679d\u3001\u53f3\u8155\u306b\u306f\u5c0f\u3055\u306a\u795e\u306e\u4f7f\u8005\u3082\u6708\u6842\u6a39\u306e\u679d\u3092\u6301\u3061\u795e\u8a17\u6240\u306b\u6848\u5185\u3059\u308b\u56f3\u6848\u3067\u3059\u3002\u88cf\u9762\uff1a\u8868\u9762\u306e\u56f3\u6848\u3092\u9670\u523b\u306b\u3057\u3066\u8868\u3057\u3066\u3044\u307e\u3059\u3002\u3000\u3000Toned EF",
+      "description": "Nihon Coin Auction | ['No.62 Nihon Coin Auction']",
+      "hammer_price_usd": 24360.78,
+      "currency_original": "USD",
+      "price_original": 24360.785,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "6639716-004",
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": "https://www.ngccoin.com/certlookup/6639716004/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

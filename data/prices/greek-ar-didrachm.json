@@ -19,11 +19,11 @@
   "median_price_usd": 1710.0,
   "last_sale_date": "2026-06-07",
   "grade_distribution": {
-    "F": 1,
     "VF": 11,
     "XF": 43,
     "AU": 37,
     "MS": 24,
+    "F": 1,
     "G": 3
   },
   "thumbnail_url": "https://media.coinarchives.com/1ecd27d840a20ae9ef4c245c8ef8709e/img/heritage/61626/image23002.jpg",
@@ -36,39 +36,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-36e2bf6c6eac",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/nihon-coin-auction/13497/gu-dai-girishiya-ancient-greek/11929425/gu-dai-girishiya-ancient-greek-rukania-vueria",
-      "title": "\u53e4\u4ee3\u30ae\u30ea\u30b7\u30e3 ANCIENT GREEK \u30eb\u30ab\u30cb\u30a2 \u30f4\u30a7\u30ea\u30a2 Lucania Velia  \u30c7\u30a3\u30c9\u30e9\u30af\u30de\u9280\u8ca8 AR Didrachm BC.350-281 \u30a2\u30c6\u30ca\u5de6\u5411\u304d\u982d\u50cf\uff0f \u7261\u9e7f\u3092\u8972\u3046\u30e9\u30a4\u30aa\u30f3 7.56gm Sear-461 NGC F Strike: 5/5 Surface: 3/5 (6656265-052)\u3000Good",
-      "description": "Nihon Coin Auction | ['No.62 Nihon Coin Auction']",
-      "hammer_price_usd": 166.68,
-      "currency_original": "USD",
-      "price_original": 166.67905,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-13",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "6656265-052",
-        "grade": "F",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/6656265052/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "sixbid-6b09d3a7b0d0",
       "source": "sixbid",
@@ -591,6 +558,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-36e2bf6c6eac",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/nihon-coin-auction/13497/gu-dai-girishiya-ancient-greek/11929425/gu-dai-girishiya-ancient-greek-rukania-vueria",
+      "title": "\u53e4\u4ee3\u30ae\u30ea\u30b7\u30e3 ANCIENT GREEK \u30eb\u30ab\u30cb\u30a2 \u30f4\u30a7\u30ea\u30a2 Lucania Velia  \u30c7\u30a3\u30c9\u30e9\u30af\u30de\u9280\u8ca8 AR Didrachm BC.350-281 \u30a2\u30c6\u30ca\u5de6\u5411\u304d\u982d\u50cf\uff0f \u7261\u9e7f\u3092\u8972\u3046\u30e9\u30a4\u30aa\u30f3 7.56gm Sear-461 NGC F Strike: 5/5 Surface: 3/5 (6656265-052)\u3000Good",
+      "description": "Nihon Coin Auction | ['No.62 Nihon Coin Auction']",
+      "hammer_price_usd": 166.68,
+      "currency_original": "USD",
+      "price_original": 166.67905,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "6656265-052",
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/6656265052/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

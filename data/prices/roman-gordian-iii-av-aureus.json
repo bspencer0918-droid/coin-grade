@@ -19,9 +19,9 @@
   "median_price_usd": 7500.0,
   "last_sale_date": "2026-04-29",
   "grade_distribution": {
-    "XF": 7,
     "AU": 12,
     "VF": 3,
+    "XF": 7,
     "MS": 23
   },
   "thumbnail_url": "https://media.coinarchives.com/0875970c86f194568c199a46234d99b3/img/heritage/3132/image32119.jpg",
@@ -34,39 +34,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-f567b5926b63",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/nihon-coin-auction/13497/gu-dai-ro-ma-ancient-roman/11929454/gu-dai-ro-ma-ancient-roman-ro-madi-guo-roman",
-      "title": "\u53e4\u4ee3\u30ed\u30fc\u30de ANCIENT ROMAN \u30ed\u30fc\u30de\u5e1d\u56fd Roman Empire  \u30b4\u30eb\u30c7\u30a3\u30a2\u30f33\u4e16 Gordian III (AD.238-244) \u30a2\u30a6\u30ec\u30a6\u30b9\u91d1\u8ca8 AV Aureus AD.241-242 \u30ed\u30fc\u30de\u92f3 Mint: Rome \u30b4\u30eb\u30c7\u30a3\u30a2\u30f33\u4e16\u3068\u30c8\u30e9\u30f3\u30af\u30a3\u30ea\u30ca\u306e\u7d50\u5a5a\u3092\u8a18\u5ff5\u3057\u305f\u91d1\u8ca8 \u8868\u9762\uff1a\u6708\u6842\u51a0\u306e\u30b4\u30eb\u30c7\u30a3\u30a2\u30f33\u4e16\u53f3\u5411\u304d\u50cf \u88cf\u9762\uff1a\u5973\u795e\u30d4\u30a8\u30bf\u30b9\u304c\u795e\u306e\u52a0\u8b77\u3092\u7948\u9858 5.03gm Sear-8576 NGC XF Strike: 5/5 Surface: 3/5  (6656265-073)\u3000VF",
-      "description": "Nihon Coin Auction | ['No.62 Nihon Coin Auction']",
-      "hammer_price_usd": 5449.12,
-      "currency_original": "USD",
-      "price_original": 5449.123,
-      "buyers_premium_included": false,
-      "sale_date": "2025-12-13",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "6656265-073",
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/6656265073/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "sixbid-300de110328e",
       "source": "sixbid",
@@ -123,6 +90,39 @@
         "details_grade": "Scratche",
         "fine_style": false,
         "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-f567b5926b63",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/nihon-coin-auction/13497/gu-dai-ro-ma-ancient-roman/11929454/gu-dai-ro-ma-ancient-roman-ro-madi-guo-roman",
+      "title": "\u53e4\u4ee3\u30ed\u30fc\u30de ANCIENT ROMAN \u30ed\u30fc\u30de\u5e1d\u56fd Roman Empire  \u30b4\u30eb\u30c7\u30a3\u30a2\u30f33\u4e16 Gordian III (AD.238-244) \u30a2\u30a6\u30ec\u30a6\u30b9\u91d1\u8ca8 AV Aureus AD.241-242 \u30ed\u30fc\u30de\u92f3 Mint: Rome \u30b4\u30eb\u30c7\u30a3\u30a2\u30f33\u4e16\u3068\u30c8\u30e9\u30f3\u30af\u30a3\u30ea\u30ca\u306e\u7d50\u5a5a\u3092\u8a18\u5ff5\u3057\u305f\u91d1\u8ca8 \u8868\u9762\uff1a\u6708\u6842\u51a0\u306e\u30b4\u30eb\u30c7\u30a3\u30a2\u30f33\u4e16\u53f3\u5411\u304d\u50cf \u88cf\u9762\uff1a\u5973\u795e\u30d4\u30a8\u30bf\u30b9\u304c\u795e\u306e\u52a0\u8b77\u3092\u7948\u9858 5.03gm Sear-8576 NGC XF Strike: 5/5 Surface: 3/5  (6656265-073)\u3000VF",
+      "description": "Nihon Coin Auction | ['No.62 Nihon Coin Auction']",
+      "hammer_price_usd": 5449.12,
+      "currency_original": "USD",
+      "price_original": 5449.123,
+      "buyers_premium_included": false,
+      "sale_date": "2025-12-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "6656265-073",
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/6656265073/",
         "grading_service": "ngc"
       },
       "metadata": {

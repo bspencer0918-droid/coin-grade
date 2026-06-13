@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "unknown",
-  "sale_count": 344,
-  "realized_count": 344,
+  "sale_count": 345,
+  "realized_count": 345,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,11 +17,11 @@
     "max": 93000.0
   },
   "median_price_usd": 159.0,
-  "last_sale_date": "2026-03-15",
+  "last_sale_date": "2026-06-07",
   "grade_distribution": {
     "AU": 50,
     "XF": 44,
-    "MS": 124,
+    "MS": 125,
     "F": 61,
     "VF": 52,
     "VG": 13
@@ -119,6 +119,39 @@
         "verified": false,
         "cert_number": null,
         "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-4ba04be54b7e",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13839/ancients-roman-imperial/12272324/probus-ad-276-282-bi-antoninianus",
+      "title": "Probus (AD 276-282). BI antoninianus (23mm, 11h). NGC MS, Silvering. Serdica, 4th officina. IMP C M AVR PROBVS AVG, radiate, helmeted, and cuirassed bust of Probus left, spear in right hand over shoulder, shield in left / VIRTVS PROBI AVG, Probus on horseback right, spearing kneeling barbarian before, shield under horse; KA\u2022\u0394\u2022 in exergue. RIC V.II 878.  Marcus Aurelius Probus reigned during a time when strong military command and effective administration was needed to preserve the Roman Empire. Probus reflected these attributes and was able to rule for a total of six years - no easy feat at this time. Probus excelled militarily, similarly to that of Claudius Gothicus and Aurelian. He ultimately spent most of his reign on campaign against several invading tribes in the West. His attention soon turned towards the East; however, this would be cut short when his own troops would murder him due to either a usurpation by the later emperor Carus or his enforced civil duty required by him, to his troops.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61626']",
+      "hammer_price_usd": 512.0,
+      "currency_original": "USD",
+      "price_original": 512.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-07",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
