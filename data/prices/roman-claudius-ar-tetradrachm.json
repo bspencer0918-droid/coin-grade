@@ -8,23 +8,23 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 36,
-  "realized_count": 36,
+  "sale_count": 37,
+  "realized_count": 37,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 29.21,
     "max": 1860.0
   },
-  "median_price_usd": 136.625,
-  "last_sale_date": "2026-04-13",
+  "median_price_usd": 144.0,
+  "last_sale_date": "2026-06-09",
   "grade_distribution": {
-    "VF": 17,
+    "VF": 18,
     "AU": 1,
     "XF": 10,
     "F": 8
   },
-  "thumbnail_url": "https://media.coinarchives.com/9c2493920407d4d1e3af3423fb8f712b/img/heritage/61609/image23001.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/fa2f4db9c5009cc6e65e7e8694c9dee5/img/statusintl/406/image10077.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 3,
@@ -34,6 +34,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-37ad700f5108",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2775541&AucID=7198&Lot=10077&Val=3487cc7644e35e31bf9a0c4e79f8ad01",
+      "title": "Status International - Auction 406, Lot 10077 \u2014 ROMAN\nEGYPT, Alexandria. Claudius. A.D. 41-54. Billon Tetradrachm. Dated RY 2, A.D. 41/2. Laureate head right; LB (date) to right / Messalina standing left, leaning on column right, holding two childr",
+      "description": "ROMAN\nEGYPT, Alexandria. Claudius. A.D. 41-54. Billon Tetradrachm. Dated RY 2, A.D. 41/2. Laureate head right; LB (date) to right / Messalina standing left, leaning on column right, holding two children in outstretched hand and cradling grain ears. RPC I 5115; Dattari (Savio) 121; K&G 12.5. NGC VF, with edge chip. This tetradrachm presents an arresting dynastic portrait type for Messalina, Claudius' third wife, whose appearance on Alexandrian coinage sits in sharp contrast to her later downfal...",
+      "hammer_price_usd": 170.0,
+      "currency_original": "USD",
+      "price_original": 170.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-09",
+      "image_url": "https://media.coinarchives.com/fa2f4db9c5009cc6e65e7e8694c9dee5/img/statusintl/406/image10077.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-55b00224a9ed",
       "source": "coinarchives",

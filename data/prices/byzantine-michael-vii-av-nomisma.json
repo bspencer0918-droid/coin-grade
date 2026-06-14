@@ -8,8 +8,8 @@
   "ruler_rarity": "scarce",
   "denomination": "AV Nomisma",
   "metal": "unknown",
-  "sale_count": 238,
-  "realized_count": 238,
+  "sale_count": 239,
+  "realized_count": 239,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -19,13 +19,13 @@
   "median_price_usd": 528.0,
   "last_sale_date": "2026-06-09",
   "grade_distribution": {
-    "VF": 38,
+    "VF": 39,
     "XF": 78,
     "AU": 96,
     "MS": 22,
     "F": 4
   },
-  "thumbnail_url": "https://media.coinarchives.com/c03a06940de71d619ea1bfca993f721d/img/ponterio/cco_may26/image73272.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/35084f6fe636db370948cd79fe1cf402/img/dnw/359/image01116.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 4,
@@ -62,6 +62,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-3effecb623b4",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2775361&AucID=7201&Lot=1116&Val=4eca8291e7a3f9530bbd232f06dec9b8",
+      "title": "Noonans (formerly Dix Noonan Webb) - Auction 359, Lot 1116 \u2014 Byzantine Coins from Various Properties\n\nMichael VII (1071-1078), Histamenon Nomisma, Constantinople, facing bust of Christ, nimbate holding bible, ic xc in fields, rev. crowned bust of Michael facing",
+      "description": "Byzantine Coins from Various Properties\n\nMichael VII (1071-1078), Histamenon Nomisma, Constantinople, facing bust of Christ, nimbate holding bible, ic xc in fields, rev. crowned bust of Michael facing, holding labarum and globus cruciger, mix \u03b4\u03b7\u03b1 raci\u03bb\u03bf, 4.31g (Sear 1868; cf. DO 2). Good very fine [slabbed NGC Ch VF, strike 5, surface 2, brushed, graffiti]\t \u00a3500-\u00a3600...",
+      "hammer_price_usd": 558.8,
+      "currency_original": "GBP",
+      "price_original": 440.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-09",
+      "image_url": "https://media.coinarchives.com/35084f6fe636db370948cd79fe1cf402/img/dnw/359/image01116.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": "Graffiti",
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

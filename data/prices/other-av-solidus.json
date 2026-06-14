@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 276,
-  "realized_count": 275,
+  "sale_count": 277,
+  "realized_count": 276,
   "fixed_price_count": 1,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,9 +17,9 @@
     "max": 216000.0
   },
   "median_price_usd": 960.0,
-  "last_sale_date": "2026-06-13",
+  "last_sale_date": "2026-06-14",
   "grade_distribution": {
-    "AU": 84,
+    "AU": 85,
     "MS": 162,
     "G": 7,
     "XF": 18,
@@ -112,7 +112,7 @@
       "currency_original": "USD",
       "price_original": 15000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-13",
+      "sale_date": "2026-06-14",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc107709a.jpg",
       "ngc": {
         "verified": false,
@@ -154,6 +154,39 @@
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-8211931be90a",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2773995&AucID=7190&Lot=306&Val=db98f1ca6901fd861efa09dbfc491d7f",
+      "title": "Fischer - Auction 16, Lot 306 \u2014 Antike R\u00f6mer\nM\u00fcnzen R\u00f6mische Kaiserzeit Licinius I., 308-324, Solidus (454 g), Trier, 310-313. Av.: Belorbeerte B\u00fcste nach rechts sowie Umschrift: \"LICINI - VS PF AVG\". Rev.: Der k\u00fcrassierte und drapi",
+      "description": "Antike R\u00f6mer\nM\u00fcnzen R\u00f6mische Kaiserzeit Licinius I., 308-324, Solidus (454 g), Trier, 310-313. Av.: Belorbeerte B\u00fcste nach rechts sowie Umschrift: \"LICINI - VS PF AVG\". Rev.: Der k\u00fcrassierte und drapierte Kaiser mit Lorbeerkranz nach leicht rechts eingewandt stehend, in der rechten Hand einen Speer haltend, in der linken einen Globus; links und rechts je ein Gefangener, darum Umschrift: \"VBIQVE V-ICTORES\", in Exergue \"PTR\". RIC 817c, Stempelglanz. NGC Ch AU, Strike 5/5, Surface 4/5. Sehr selte...",
+      "hammer_price_usd": 11880.0,
+      "currency_original": "EUR",
+      "price_original": 11000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-10",
+      "image_url": "https://media.coinarchives.com/5a8361e17779702a9656f071d783a6f0/img/rhenumis/016/image00306.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
