@@ -8,8 +8,8 @@
   "ruler_rarity": "scarce",
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 119,
-  "realized_count": 118,
+  "sale_count": 120,
+  "realized_count": 119,
   "fixed_price_count": 1,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,22 +17,22 @@
     "max": 5040.0
   },
   "median_price_usd": 528.0,
-  "last_sale_date": "2026-06-14",
+  "last_sale_date": "2026-06-15",
   "grade_distribution": {
     "P": 1,
+    "MS": 2,
     "AU": 7,
     "XF": 18,
     "VF": 49,
     "F": 28,
     "VG": 14,
-    "G": 1,
-    "MS": 1
+    "G": 1
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-9-5-4-0-29540635&w=120&h=300&it=product",
+  "thumbnail_url": "https://media.coinarchives.com/00fd1c7d0eaf2a0b69578b0c9a973b2f/img/heritage/61628/image25081.jpg",
   "median_weight_g": null,
-  "top_strike_score": null,
-  "top_surface_score": null,
-  "top_grade_numeric": null,
+  "top_strike_score": 5,
+  "top_surface_score": 4,
+  "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
@@ -49,7 +49,7 @@
       "currency_original": "USD",
       "price_original": 1250.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-14",
+      "sale_date": "2026-06-15",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc108499a.jpg",
       "ngc": {
         "verified": false,
@@ -61,6 +61,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/1057578788/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-aafce1ebae76",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2761578&AucID=7149&Lot=25081&Val=6822100014ca126dd9df681d7116fa9a",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61628, Lot 25081 \u2014 Ancients\nP. Sulpicius Galba (ca. 69/8 BC). AR denarius (17mm, 3.92 gm, 4h). NGC MS 5/5 - 4/5. Rome. Veiled head of Vesta right; S\u2022C behind / AE-CVR, knife, simpulum, and securis (axe surmounted by hea",
+      "description": "Ancients\nP. Sulpicius Galba (ca. 69/8 BC). AR denarius (17mm, 3.92 gm, 4h). NGC MS 5/5 - 4/5. Rome. Veiled head of Vesta right; S\u2022C behind / AE-CVR, knife, simpulum, and securis (axe surmounted by head of wolf); P\u2022GALB in exergue. Crawford 406/1.   www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.ha.com/itm/ancients/roman-republic/p-sulpicius-galba-ca-69-8-bc-ar-denarius-17mm-392-gm-4h-ngc-ms-5-5-4-5/p/61628-22003.s?type=DA-DMC-CoinArchives-WorldCoins-61628-06142026\n\nHID02906262019\n\n\u00a9 20...",
+      "hammer_price_usd": 950.0,
+      "currency_original": "USD",
+      "price_original": 950.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-14",
+      "image_url": "https://media.coinarchives.com/00fd1c7d0eaf2a0b69578b0c9a973b2f/img/heritage/61628/image25081.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "06142026",
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/06142026/",
         "grading_service": "ngc"
       },
       "metadata": {
