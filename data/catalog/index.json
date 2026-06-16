@@ -1,6 +1,6 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-06-15T12:21:34.480245+00:00",
+  "generated_at": "2026-06-16T11:33:29.848016+00:00",
   "coins": [
     {
       "slug": "roman-ar-denarius",
@@ -21,7 +21,7 @@
         "max": 720000.0
       },
       "median_price_usd": 264.0,
-      "last_sale_date": "2026-06-15",
+      "last_sale_date": "2026-06-16",
       "grade_distribution": {
         "AU": 1164,
         "P": 2,
@@ -62,7 +62,7 @@
         "max": 850.0
       },
       "median_price_usd": 114.0,
-      "last_sale_date": "2026-06-15",
+      "last_sale_date": "2026-06-16",
       "grade_distribution": {
         "XF": 114,
         "AU": 19,
@@ -98,7 +98,7 @@
         "max": 2640.0
       },
       "median_price_usd": 850.0,
-      "last_sale_date": "2026-06-15",
+      "last_sale_date": "2026-06-16",
       "grade_distribution": {
         "VF": 1,
         "AU": 4,
@@ -136,7 +136,7 @@
         "max": 195000.0
       },
       "median_price_usd": 550.0,
-      "last_sale_date": "2026-06-15",
+      "last_sale_date": "2026-06-16",
       "grade_distribution": {
         "VF": 36,
         "F": 11,
@@ -175,7 +175,7 @@
         "max": 600000.0
       },
       "median_price_usd": 117000.0,
-      "last_sale_date": "2026-06-15",
+      "last_sale_date": "2026-06-16",
       "grade_distribution": {
         "P": 2,
         "AU": 1,
@@ -213,7 +213,7 @@
         "max": 19200.0
       },
       "median_price_usd": 4320.0,
-      "last_sale_date": "2026-06-15",
+      "last_sale_date": "2026-06-16",
       "grade_distribution": {
         "MS": 63,
         "AU": 117,
@@ -251,7 +251,7 @@
         "max": 300.0
       },
       "median_price_usd": 230.0,
-      "last_sale_date": "2026-06-15",
+      "last_sale_date": "2026-06-16",
       "grade_distribution": {
         "XF": 2
       },
@@ -284,7 +284,7 @@
         "max": 536800.0
       },
       "median_price_usd": 5100.0,
-      "last_sale_date": "2026-06-15",
+      "last_sale_date": "2026-06-16",
       "grade_distribution": {
         "AU": 183,
         "MS": 269,
@@ -322,7 +322,7 @@
         "max": 960.0
       },
       "median_price_usd": 325.0,
-      "last_sale_date": "2026-06-15",
+      "last_sale_date": "2026-06-16",
       "grade_distribution": {
         "XF": 10,
         "MS": 20,
@@ -360,7 +360,7 @@
         "max": 21600.0
       },
       "median_price_usd": 810.0,
-      "last_sale_date": "2026-06-15",
+      "last_sale_date": "2026-06-16",
       "grade_distribution": {
         "VF": 30,
         "XF": 31,
@@ -397,7 +397,7 @@
         "max": 4320.0
       },
       "median_price_usd": 264.0,
-      "last_sale_date": "2026-06-15",
+      "last_sale_date": "2026-06-16",
       "grade_distribution": {
         "XF": 17,
         "VF": 20,
@@ -436,7 +436,7 @@
         "max": 1700.0
       },
       "median_price_usd": 1450.0,
-      "last_sale_date": "2026-06-15",
+      "last_sale_date": "2026-06-16",
       "grade_distribution": {
         "XF": 2,
         "VF": 1
@@ -470,7 +470,7 @@
         "max": 8400.0
       },
       "median_price_usd": 159.0,
-      "last_sale_date": "2026-06-15",
+      "last_sale_date": "2026-06-16",
       "grade_distribution": {
         "VF": 42,
         "XF": 173,
@@ -510,7 +510,7 @@
         "max": 350.0
       },
       "median_price_usd": 350.0,
-      "last_sale_date": "2026-06-15",
+      "last_sale_date": "2026-06-16",
       "grade_distribution": {
         "XF": 1
       },
@@ -543,7 +543,7 @@
         "max": 82278.0
       },
       "median_price_usd": 1763.1,
-      "last_sale_date": "2026-06-15",
+      "last_sale_date": "2026-06-16",
       "grade_distribution": {
         "XF": 49,
         "VF": 38,
@@ -584,7 +584,7 @@
         "max": 292800.0
       },
       "median_price_usd": 1920.0,
-      "last_sale_date": "2026-06-15",
+      "last_sale_date": "2026-06-16",
       "grade_distribution": {
         "VF": 268,
         "G": 19,
@@ -624,7 +624,7 @@
         "max": 312000.0
       },
       "median_price_usd": 900.0,
-      "last_sale_date": "2026-06-15",
+      "last_sale_date": "2026-06-16",
       "grade_distribution": {
         "VF": 335,
         "XF": 220,
@@ -664,7 +664,7 @@
         "max": 180000.0
       },
       "median_price_usd": 8400.0,
-      "last_sale_date": "2026-06-15",
+      "last_sale_date": "2026-06-16",
       "grade_distribution": {
         "VF": 12,
         "F": 2,
@@ -870,6 +870,43 @@
       "mint_mark": null
     },
     {
+      "slug": "greek-rhodes-ar-didrachm",
+      "category": "greek",
+      "ruler": "Rhodes",
+      "ruler_normalized": "rhodes",
+      "dynasty": "City-State",
+      "ruler_dates": null,
+      "ruler_rarity": null,
+      "denomination": "AR Didrachm",
+      "metal": "silver",
+      "sale_count": 26,
+      "realized_count": 25,
+      "fixed_price_count": 1,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 260.0,
+        "max": 3360.0
+      },
+      "median_price_usd": 960.0,
+      "last_sale_date": "2026-06-16",
+      "grade_distribution": {
+        "VF": 3,
+        "AU": 7,
+        "P": 1,
+        "MS": 12,
+        "XF": 3
+      },
+      "thumbnail_url": "https://media.coinarchives.com/c3fde40307f17ee08c25f368b014f177/img/sedwick/039/image01540.jpg",
+      "median_weight_g": null,
+      "top_strike_score": 4,
+      "top_surface_score": 5,
+      "top_grade_numeric": 4,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
       "slug": "roman-unknown",
       "category": "roman",
       "ruler": null,
@@ -884,7 +921,7 @@
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 1.0,
+        "min": 10.0,
         "max": 312000.0
       },
       "median_price_usd": 192.0,
@@ -904,43 +941,6 @@
       "top_strike_score": 5,
       "top_surface_score": 5,
       "top_grade_numeric": null,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
-      "slug": "greek-rhodes-ar-didrachm",
-      "category": "greek",
-      "ruler": "Rhodes",
-      "ruler_normalized": "rhodes",
-      "dynasty": "City-State",
-      "ruler_dates": null,
-      "ruler_rarity": null,
-      "denomination": "AR Didrachm",
-      "metal": "silver",
-      "sale_count": 26,
-      "realized_count": 25,
-      "fixed_price_count": 1,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 260.0,
-        "max": 3360.0
-      },
-      "median_price_usd": 960.0,
-      "last_sale_date": "2026-06-15",
-      "grade_distribution": {
-        "VF": 3,
-        "AU": 7,
-        "P": 1,
-        "MS": 12,
-        "XF": 3
-      },
-      "thumbnail_url": "https://media.coinarchives.com/c3fde40307f17ee08c25f368b014f177/img/sedwick/039/image01540.jpg",
-      "median_weight_g": null,
-      "top_strike_score": 4,
-      "top_surface_score": 5,
-      "top_grade_numeric": 4,
       "dominant_service": "ngc",
       "series": null,
       "date_struck": null,
@@ -1062,46 +1062,6 @@
       "mint_mark": null
     },
     {
-      "slug": "roman-julius-caesar-ar-denarius-elephant-priestly",
-      "category": "roman",
-      "ruler": "Julius Caesar",
-      "ruler_normalized": "julius-caesar",
-      "dynasty": "Roman Republic",
-      "ruler_dates": "44 BC",
-      "ruler_rarity": null,
-      "denomination": "AR Denarius",
-      "metal": "silver",
-      "sale_count": 1005,
-      "realized_count": 1005,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 1.0,
-        "max": 41480.0
-      },
-      "median_price_usd": 1560.0,
-      "last_sale_date": "2026-06-14",
-      "grade_distribution": {
-        "F": 83,
-        "AU": 294,
-        "VG": 19,
-        "VF": 293,
-        "XF": 285,
-        "AG": 3,
-        "G": 2,
-        "MS": 26
-      },
-      "thumbnail_url": "https://media.coinarchives.com/2212522fb10316a2e06a6afe8f40d7c5/img/heritage/61628/image25111.jpg",
-      "median_weight_g": null,
-      "top_strike_score": 4,
-      "top_surface_score": 3,
-      "top_grade_numeric": 4,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
       "slug": "roman-nerva-unknown",
       "category": "roman",
       "ruler": "Nerva",
@@ -1172,6 +1132,46 @@
       "top_strike_score": null,
       "top_surface_score": null,
       "top_grade_numeric": 65,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
+      "slug": "roman-julius-caesar-ar-denarius-elephant-priestly",
+      "category": "roman",
+      "ruler": "Julius Caesar",
+      "ruler_normalized": "julius-caesar",
+      "dynasty": "Roman Republic",
+      "ruler_dates": "44 BC",
+      "ruler_rarity": null,
+      "denomination": "AR Denarius",
+      "metal": "silver",
+      "sale_count": 1005,
+      "realized_count": 1005,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 240.0,
+        "max": 41480.0
+      },
+      "median_price_usd": 1560.0,
+      "last_sale_date": "2026-06-14",
+      "grade_distribution": {
+        "F": 83,
+        "AU": 294,
+        "VG": 19,
+        "VF": 293,
+        "XF": 285,
+        "AG": 3,
+        "G": 2,
+        "MS": 26
+      },
+      "thumbnail_url": "https://media.coinarchives.com/2212522fb10316a2e06a6afe8f40d7c5/img/heritage/61628/image25111.jpg",
+      "median_weight_g": null,
+      "top_strike_score": 4,
+      "top_surface_score": 3,
+      "top_grade_numeric": 4,
       "dominant_service": "ngc",
       "series": null,
       "date_struck": null,
@@ -1419,10 +1419,10 @@
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 1.0,
+        "min": 79.0,
         "max": 33600.0
       },
-      "median_price_usd": 480.0,
+      "median_price_usd": 492.0,
       "last_sale_date": "2026-06-14",
       "grade_distribution": {
         "XF": 388,
@@ -2088,7 +2088,7 @@
         "max": 114000.0
       },
       "median_price_usd": 16800.0,
-      "last_sale_date": "2026-06-15",
+      "last_sale_date": "2026-06-16",
       "grade_distribution": {
         "AU": 31,
         "VF": 14,
@@ -2660,10 +2660,10 @@
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 1.0,
+        "min": 103.0,
         "max": 20400.0
       },
-      "median_price_usd": 597.8,
+      "median_price_usd": 600.0,
       "last_sale_date": "2026-06-14",
       "grade_distribution": {
         "F": 108,
@@ -3208,7 +3208,7 @@
         "max": 10000.0
       },
       "median_price_usd": 144.0,
-      "last_sale_date": "2026-06-15",
+      "last_sale_date": "2026-06-16",
       "grade_distribution": {
         "F": 11,
         "VF": 84,
@@ -3584,7 +3584,7 @@
         "max": 3720.0
       },
       "median_price_usd": 264.0,
-      "last_sale_date": "2026-06-15",
+      "last_sale_date": "2026-06-16",
       "grade_distribution": {
         "VF": 77,
         "AU": 12,
@@ -5484,7 +5484,7 @@
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 1.0,
+        "min": 1250.0,
         "max": 3782.0
       },
       "median_price_usd": 2400.0,
@@ -6362,14 +6362,14 @@
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 1.0,
+        "min": 380.0,
         "max": 976.0
       },
-      "median_price_usd": 488.5,
+      "median_price_usd": 678.0,
       "last_sale_date": "2026-06-14",
       "grade_distribution": {
-        "AU": 1,
-        "XF": 1
+        "XF": 1,
+        "AU": 1
       },
       "thumbnail_url": null,
       "median_weight_g": null,
@@ -7369,7 +7369,7 @@
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 1.0,
+        "min": 192.0,
         "max": 2820.0
       },
       "median_price_usd": 646.25,
@@ -9301,7 +9301,7 @@
         "max": 216000.0
       },
       "median_price_usd": 960.0,
-      "last_sale_date": "2026-06-15",
+      "last_sale_date": "2026-06-16",
       "grade_distribution": {
         "AU": 85,
         "MS": 162,
@@ -9551,7 +9551,7 @@
         "max": 1950.0
       },
       "median_price_usd": 1950.0,
-      "last_sale_date": "2026-06-15",
+      "last_sale_date": "2026-06-16",
       "grade_distribution": {
         "P": 1
       },
@@ -9584,7 +9584,7 @@
         "max": 5040.0
       },
       "median_price_usd": 528.0,
-      "last_sale_date": "2026-06-15",
+      "last_sale_date": "2026-06-16",
       "grade_distribution": {
         "P": 1,
         "MS": 2,
@@ -9624,7 +9624,7 @@
         "max": 3240.0
       },
       "median_price_usd": 504.0,
-      "last_sale_date": "2026-06-15",
+      "last_sale_date": "2026-06-16",
       "grade_distribution": {
         "F": 1,
         "AU": 1,
@@ -9661,7 +9661,7 @@
         "max": 50400.0
       },
       "median_price_usd": 1680.0,
-      "last_sale_date": "2026-06-15",
+      "last_sale_date": "2026-06-16",
       "grade_distribution": {
         "G": 2,
         "AU": 38,
