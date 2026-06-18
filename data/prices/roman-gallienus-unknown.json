@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 246,
-  "realized_count": 246,
+  "sale_count": 247,
+  "realized_count": 247,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,12 +17,12 @@
     "max": 4800.0
   },
   "median_price_usd": 104.0,
-  "last_sale_date": "2026-06-07",
+  "last_sale_date": "2026-06-17",
   "grade_distribution": {
     "VF": 25,
+    "XF": 42,
     "MS": 110,
     "AU": 68,
-    "XF": 41,
     "F": 2
   },
   "thumbnail_url": "https://media.coinarchives.com/968428621d56fcdcf182627a84ed4e63/img/heritage/61626/image23157.jpg",
@@ -55,6 +55,39 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-47102f645212",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/classical-numismatic-group/13896/large-lots/12321458/mixed-roman-imperial-world-lot-of",
+      "title": "<b>MIXED. Roman Imperial-World. <i>Lot of two (2) silver and base metal issues.</i> </b>Includes: Gallienus. Antoninianus. VF // Germany, Hall. AR Heller. NGC XF 40. LOT SOLD AS IS, NO RETURNS. Two (2) coins in lot.",
+      "description": "Classical Numismatic Group, LLC | ['Electronic Auction 611']",
+      "hammer_price_usd": 100.0,
+      "currency_original": "USD",
+      "price_original": 100.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-17",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 40,
+        "strike_score": null,
+        "surface_score": null,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

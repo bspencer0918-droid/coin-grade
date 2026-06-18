@@ -8,18 +8,18 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "gold",
-  "sale_count": 69,
-  "realized_count": 69,
+  "sale_count": 71,
+  "realized_count": 71,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 49.0,
     "max": 21600.0
   },
-  "median_price_usd": 810.0,
-  "last_sale_date": "2026-06-17",
+  "median_price_usd": 840.0,
+  "last_sale_date": "2026-06-18",
   "grade_distribution": {
-    "VF": 30,
+    "VF": 32,
     "XF": 31,
     "F": 1,
     "AU": 5,
@@ -36,6 +36,72 @@
   "mint_mark": null,
   "sales": [
     {
+      "id": "cng-e038e3661135",
+      "source": "cng",
+      "listing_type": "auction_realized",
+      "lot_url": "https://auctions.cngcoins.com/lots/view/4-LGIIVQ",
+      "title": "Electronic Auction 611 Lot: 9. GAUL, Northwest. Aulerci Eburovices. 3rd century BC. AV Hemistater (17mm, 3.15 g, 12h). NGC Ch VF, 5/5, 5/5.",
+      "description": "Celtic, Gold Estimated:\u00a0$   400 Sold\u00a0Price:\u00a0$  1 300",
+      "hammer_price_usd": 1300.0,
+      "currency_original": "USD",
+      "price_original": 1300.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-18",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "cng-241e382fbd70",
+      "source": "cng",
+      "listing_type": "auction_realized",
+      "lot_url": "https://auctions.cngcoins.com/lots/view/4-LGIIVS",
+      "title": "Electronic Auction 611 Lot: 10. GAUL, Northwest. Aulerci Eburovices. 3rd century BC. AV Hemistater (16.5mm, 3.10 g, 12h). NGC Ch VF, 5/5, 4/5.",
+      "description": "Celtic, Gold Estimated:\u00a0$   400 Sold\u00a0Price:\u00a0$ : 1 600",
+      "hammer_price_usd": 1600.0,
+      "currency_original": "USD",
+      "price_original": 1600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-18",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "cng-21465a689906",
       "source": "cng",
       "listing_type": "auction_realized",
@@ -46,7 +112,7 @@
       "currency_original": "USD",
       "price_original": 950.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-17",
+      "sale_date": "2026-06-18",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -79,7 +145,7 @@
       "currency_original": "USD",
       "price_original": 900.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-17",
+      "sale_date": "2026-06-18",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -112,7 +178,7 @@
       "currency_original": "USD",
       "price_original": 1000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-17",
+      "sale_date": "2026-06-18",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -145,7 +211,7 @@
       "currency_original": "USD",
       "price_original": 800.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-17",
+      "sale_date": "2026-06-18",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -178,7 +244,7 @@
       "currency_original": "USD",
       "price_original": 900.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-17",
+      "sale_date": "2026-06-18",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -211,7 +277,7 @@
       "currency_original": "USD",
       "price_original": 650.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-17",
+      "sale_date": "2026-06-18",
       "image_url": null,
       "ngc": {
         "verified": false,
