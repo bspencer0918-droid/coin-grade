@@ -17,7 +17,7 @@
     "max": 10000.0
   },
   "median_price_usd": 144.0,
-  "last_sale_date": "2026-06-18",
+  "last_sale_date": "2026-06-19",
   "grade_distribution": {
     "F": 11,
     "VF": 84,
@@ -26,7 +26,7 @@
     "AU": 120,
     "XF": 92
   },
-  "thumbnail_url": "https://media.coinarchives.com/4d957edbf32baaa4b0542720c945b4d3/img/album/054/image00077.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/39ddff1785f9a2b114d543d7b58cf16d/img/goldberg/150/image00585.jpg",
   "median_weight_g": null,
   "top_strike_score": 3,
   "top_surface_score": 4,
@@ -278,7 +278,7 @@
       "currency_original": "USD",
       "price_original": 1250.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-18",
+      "sale_date": "2026-06-19",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc102201a.jpg",
       "ngc": {
         "verified": false,
@@ -287,6 +287,39 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-cb99709cd6e1",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2710367&AucID=6990&Lot=585&Val=c7ff8e3022c2b373415f442332557af2",
+      "title": "Ira & Larry Goldberg Coins & Collectibles - Auction 150, Lot 585 \u2014 Augustus, 27 BC-14 AD. Silver Tetradrachm (15.06g), 25 mm. Struck in Syria, Antioch, Yr. 28 & Cos 12 (4/3 BC)  Laur. bare bust of Augustus facing r. Reverse:  Tyche seated l. holding palm with Orontes",
+      "description": "Augustus, 27 BC-14 AD. Silver Tetradrachm (15.06g), 25 mm. Struck in Syria, Antioch, Yr. 28 & Cos 12 (4/3 BC)  Laur. bare bust of Augustus facing r. Reverse:  Tyche seated l. holding palm with Orontes swimming r. NGC graded Choice XF; Strike: 5/5, Surface: 4/5.  Boldly struck and nicely toned. Rare in such choice condition.  Estimated Value $750 - UP\nEx The Peter Preovolos Collection....",
+      "hammer_price_usd": 1700.0,
+      "currency_original": "USD",
+      "price_original": 1700.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-02-23",
+      "image_url": "https://media.coinarchives.com/39ddff1785f9a2b114d543d7b58cf16d/img/goldberg/150/image00585.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
@@ -518,39 +551,6 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-cb99709cd6e1",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2710367&AucID=6990&Lot=585&Val=c7ff8e3022c2b373415f442332557af2",
-      "title": "Ira & Larry Goldberg Coins & Collectibles - Auction 150, Lot 585 \u2014 Augustus, 27 BC-14 AD. Silver Tetradrachm (15.06g), 25 mm. Struck in Syria, Antioch, Yr. 28 & Cos 12 (4/3 BC)  Laur. bare bust of Augustus facing r. Reverse:  Tyche seated l. holding palm with Orontes",
-      "description": "Augustus, 27 BC-14 AD. Silver Tetradrachm (15.06g), 25 mm. Struck in Syria, Antioch, Yr. 28 & Cos 12 (4/3 BC)  Laur. bare bust of Augustus facing r. Reverse:  Tyche seated l. holding palm with Orontes swimming r. NGC graded Choice XF; Strike: 5/5, Surface: 4/5.  Boldly struck and nicely toned. Rare in such choice condition.  Estimated Value $750 - UP\nEx The Peter Preovolos Collection....",
-      "hammer_price_usd": 1700.0,
-      "currency_original": "USD",
-      "price_original": 1700.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-02-23",
-      "image_url": "https://media.coinarchives.com/39ddff1785f9a2b114d543d7b58cf16d/img/goldberg/150/image00585.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "G",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

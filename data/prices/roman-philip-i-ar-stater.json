@@ -24,10 +24,10 @@
     "MS": 1,
     "F": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/a4fcf35134bf37a23de590331405a478/img/heritage/3132/image32008.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/fd96d3ddbbf423428f1016ef9199993a/img/goldberg/150/image00447.jpg",
   "median_weight_g": null,
-  "top_strike_score": 5,
-  "top_surface_score": 4,
+  "top_strike_score": 3,
+  "top_surface_score": 3,
   "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
@@ -68,39 +68,6 @@
       }
     },
     {
-      "id": "coinarchives-02aee26f292f",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739719&AucID=7076&Lot=32008&Val=6b3cb95f5ece549abd842f1f3245287f",
-      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 32008 \u2014 Ancients\nMACEDONIAN KINGDOM. Philip II (359-336 BC). AV quarter-stater (12mm, 2.13 gm, 5h). NGC Choice XF 5/5 - 4/5, brushed. Late lifetime-early posthumous issue, Pella, ca. 340-328 BC. Head of Herac",
-      "description": "Ancients\nMACEDONIAN KINGDOM. Philip II (359-336 BC). AV quarter-stater (12mm, 2.13 gm, 5h). NGC Choice XF 5/5 - 4/5, brushed. Late lifetime-early posthumous issue, Pella, ca. 340-328 BC. Head of Heracles right, wearing lion-skin headdress, paws tied before neck / \u03a6I\u039bI\u03a0\u03a0OY, bow above, club left above trident head right below. HGC-. SNG ANS-. Le Rider 128. Quite rare.  www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.ha.com/itm/ancients/greek/greek-macedonian-kingdom-philip-ii-359-336-bc-a...",
-      "hammer_price_usd": 3200.0,
-      "currency_original": "USD",
-      "price_original": 3200.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-04-29",
-      "image_url": "https://media.coinarchives.com/a4fcf35134bf37a23de590331405a478/img/heritage/3132/image32008.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-aeab82d1be52",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -120,6 +87,39 @@
         "grade_numeric": null,
         "strike_score": 3,
         "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-02aee26f292f",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739719&AucID=7076&Lot=32008&Val=6b3cb95f5ece549abd842f1f3245287f",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 32008 \u2014 Ancients\nMACEDONIAN KINGDOM. Philip II (359-336 BC). AV quarter-stater (12mm, 2.13 gm, 5h). NGC Choice XF 5/5 - 4/5, brushed. Late lifetime-early posthumous issue, Pella, ca. 340-328 BC. Head of Herac",
+      "description": "Ancients\nMACEDONIAN KINGDOM. Philip II (359-336 BC). AV quarter-stater (12mm, 2.13 gm, 5h). NGC Choice XF 5/5 - 4/5, brushed. Late lifetime-early posthumous issue, Pella, ca. 340-328 BC. Head of Heracles right, wearing lion-skin headdress, paws tied before neck / \u03a6I\u039bI\u03a0\u03a0OY, bow above, club left above trident head right below. HGC-. SNG ANS-. Le Rider 128. Quite rare.  www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.ha.com/itm/ancients/greek/greek-macedonian-kingdom-philip-ii-359-336-bc-a...",
+      "hammer_price_usd": 3200.0,
+      "currency_original": "USD",
+      "price_original": 3200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/a4fcf35134bf37a23de590331405a478/img/heritage/3132/image32008.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

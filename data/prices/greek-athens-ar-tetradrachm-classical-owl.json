@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 689,
-  "realized_count": 668,
+  "sale_count": 690,
+  "realized_count": 669,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -19,12 +19,12 @@
   "median_price_usd": 1920.0,
   "last_sale_date": "2026-06-07",
   "grade_distribution": {
-    "AU": 146,
+    "AU": 147,
     "F": 2,
     "VF": 6,
     "XF": 23,
-    "MS": 511,
-    "G": 1
+    "G": 1,
+    "MS": 511
   },
   "thumbnail_url": "https://media.coinarchives.com/d26231b32fefd8bfd38046ef1dd769f3/img/heritage/61626/image23037.jpg",
   "median_weight_g": null,
@@ -433,6 +433,72 @@
       }
     },
     {
+      "id": "coinarchives-197616aea125",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2694533&AucID=6923&Lot=40077&Val=04f449c3056bf4745a07260b05de3c2a",
+      "title": "Stack's Bowers Galleries (& Ponterio) - January 2026 NYINC Auction, Lot 40077 \u2014 ATTICA. Athens. AR Tetradrachm (17.20 gms), ca. 454-404 B.C. NGC Ch AU, Strike: 5/5 Surface: 5/5.\nHGC-4, 1597; Kroll-8; SNG Cop-31. Obverse: Helmeted head of Athena right; Reverse: Owl standing right,",
+      "description": "ATTICA. Athens. AR Tetradrachm (17.20 gms), ca. 454-404 B.C. NGC Ch AU, Strike: 5/5 Surface: 5/5.\nHGC-4, 1597; Kroll-8; SNG Cop-31. Obverse: Helmeted head of Athena right; Reverse: Owl standing right, head facing; olive sprig and crescent to left; all within incuse square. A flashy example with some hints of olive toning around portions of the devices, this example stands at the cusp of Mint State status.\n\nEstimate: 1000 - 1500...",
+      "hammer_price_usd": 1550.0,
+      "currency_original": "USD",
+      "price_original": 1550.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": "https://media.coinarchives.com/06a09eacf585a93ce45e7a3a1c9375e9/img/ponterio/236/image40077.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-754109fd7e4b",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2710257&AucID=6990&Lot=475&Val=059bbc7f22c89cb97dff6e980cb76f52",
+      "title": "Ira & Larry Goldberg Coins & Collectibles - Auction 150, Lot 475 \u2014 Attica, Athens. Ca. 440-404 BC. Silver Tetradrachm (17.18g), 23 mm. Hh. of Athena r. wearing crested helmet ornamented with three olive-leaves and floral scroll. Reverse: AOE, Owl stg. r. hd facing, i",
+      "description": "Attica, Athens. Ca. 440-404 BC. Silver Tetradrachm (17.18g), 23 mm. Hh. of Athena r. wearing crested helmet ornamented with three olive-leaves and floral scroll. Reverse: AOE, Owl stg. r. hd facing, in erect posture; olive-twig and crescent; all within incuse square. S-2526. NGC graded Almost Unc; Strike: 4/5, Surface: 5/5. Athena exhibits an interesting tear drop below her eyelid! Struck in high relief and always in great demand. Lightly toned.  Estimated Value $1,250 - UP\nEx The Peter Preovo...",
+      "hammer_price_usd": 1150.0,
+      "currency_original": "USD",
+      "price_original": 1150.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-02-23",
+      "image_url": "https://media.coinarchives.com/7788cfbc745a2ac502d110bb811bff81/img/goldberg/150/image00475.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-286021fdb4af",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -584,39 +650,6 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-754109fd7e4b",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2710257&AucID=6990&Lot=475&Val=059bbc7f22c89cb97dff6e980cb76f52",
-      "title": "Ira & Larry Goldberg Coins & Collectibles - Auction 150, Lot 475 \u2014 Attica, Athens. Ca. 440-404 BC. Silver Tetradrachm (17.18g), 23 mm. Hh. of Athena r. wearing crested helmet ornamented with three olive-leaves and floral scroll. Reverse: AOE, Owl stg. r. hd facing, i",
-      "description": "Attica, Athens. Ca. 440-404 BC. Silver Tetradrachm (17.18g), 23 mm. Hh. of Athena r. wearing crested helmet ornamented with three olive-leaves and floral scroll. Reverse: AOE, Owl stg. r. hd facing, in erect posture; olive-twig and crescent; all within incuse square. S-2526. NGC graded Almost Unc; Strike: 4/5, Surface: 5/5. Athena exhibits an interesting tear drop below her eyelid! Struck in high relief and always in great demand. Lightly toned.  Estimated Value $1,250 - UP\nEx The Peter Preovo...",
-      "hammer_price_usd": 1150.0,
-      "currency_original": "USD",
-      "price_original": 1150.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-02-23",
-      "image_url": "https://media.coinarchives.com/7788cfbc745a2ac502d110bb811bff81/img/goldberg/150/image00475.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "G",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 5,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
