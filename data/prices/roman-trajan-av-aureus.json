@@ -234,39 +234,6 @@
       }
     },
     {
-      "id": "coinarchives-7cfc58449d10",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687391&AucID=6920&Lot=34061&Val=106e3fe7767b07e8d1304665914287ee",
-      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3129, Lot 34061 \u2014 Ancients\nTrajan (AD 98-117). AV aureus (19mm, 7.29 gm, 7h). NGC Choice AU 5/5 - 4/5, Fine Style. Rome, AD 116-117. IMP CAES NER TRAIAN OP-TIM AVG GERM DAC, laureate, draped, and cuirassed bust of Traj",
-      "description": "Ancients\nTrajan (AD 98-117). AV aureus (19mm, 7.29 gm, 7h). NGC Choice AU 5/5 - 4/5, Fine Style. Rome, AD 116-117. IMP CAES NER TRAIAN OP-TIM AVG GERM DAC, laureate, draped, and cuirassed bust of Trajan right, seen from behind / PARTHICO P M TR P COS VI P P S P Q R, radiate, draped bust of Sol right, seen from the front. Calic\u00f3 1038a. RIC II 329. Impressively detailed and struck. \n\nEx Numismatica Ars Classica, Auction 138 (18 May 2023), lot 683; Numismatica Ars Classica, Auction 88 (8 October ...",
-      "hammer_price_usd": 18000.0,
-      "currency_original": "USD",
-      "price_original": 18000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-12",
-      "image_url": "https://media.coinarchives.com/d289511dc50ad2feff270cb0f463836a/img/heritage/3129/image34061.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": true,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-31a885f2fa76",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -289,6 +256,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/6945738001/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-7cfc58449d10",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687391&AucID=6920&Lot=34061&Val=106e3fe7767b07e8d1304665914287ee",
+      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3129, Lot 34061 \u2014 Ancients\nTrajan (AD 98-117). AV aureus (19mm, 7.29 gm, 7h). NGC Choice AU 5/5 - 4/5, Fine Style. Rome, AD 116-117. IMP CAES NER TRAIAN OP-TIM AVG GERM DAC, laureate, draped, and cuirassed bust of Traj",
+      "description": "Ancients\nTrajan (AD 98-117). AV aureus (19mm, 7.29 gm, 7h). NGC Choice AU 5/5 - 4/5, Fine Style. Rome, AD 116-117. IMP CAES NER TRAIAN OP-TIM AVG GERM DAC, laureate, draped, and cuirassed bust of Trajan right, seen from behind / PARTHICO P M TR P COS VI P P S P Q R, radiate, draped bust of Sol right, seen from the front. Calic\u00f3 1038a. RIC II 329. Impressively detailed and struck. \n\nEx Numismatica Ars Classica, Auction 138 (18 May 2023), lot 683; Numismatica Ars Classica, Auction 88 (8 October ...",
+      "hammer_price_usd": 18000.0,
+      "currency_original": "USD",
+      "price_original": 18000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-12",
+      "image_url": "https://media.coinarchives.com/d289511dc50ad2feff270cb0f463836a/img/heritage/3129/image34061.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
         "grading_service": "ngc"
       },
       "metadata": {

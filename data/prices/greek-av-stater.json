@@ -17,7 +17,7 @@
     "max": 536800.0
   },
   "median_price_usd": 5100.0,
-  "last_sale_date": "2026-06-19",
+  "last_sale_date": "2026-06-20",
   "grade_distribution": {
     "AU": 183,
     "MS": 269,
@@ -47,7 +47,7 @@
       "currency_original": "USD",
       "price_original": 55000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-19",
+      "sale_date": "2026-06-20",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -80,7 +80,7 @@
       "currency_original": "USD",
       "price_original": 1600.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-19",
+      "sale_date": "2026-06-20",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -235,6 +235,39 @@
       }
     },
     {
+      "id": "coinarchives-f4698eebc207",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2766217&AucID=7171&Lot=797&Val=fb2d4eeb64a634f300f52521d0eecd64",
+      "title": "Taisei - May 2026 Auction, Lot 797 \u2014 Ancient Coins. NGC Ch VF Strike\uff1a4/5 Surface\uff1a2/5 edge bends. \u7f8e+. VF+. BC120\uff5e63. Ancient-Greece Kingdom of Pontus Mithradates VI Gold Stater\n\nStarting price: 200000 JPY...",
+      "description": "Ancient Coins. NGC Ch VF Strike\uff1a4/5 Surface\uff1a2/5 edge bends. \u7f8e+. VF+. BC120\uff5e63. Ancient-Greece Kingdom of Pontus Mithradates VI Gold Stater\n\nStarting price: 200000 JPY...",
+      "hammer_price_usd": 240000.0,
+      "currency_original": "USD",
+      "price_original": 240000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-30",
+      "image_url": "https://media.coinarchives.com/e1f85f41129e8aa16aafdabb33dc7ffc/img/taisei/may26/image00797.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-d4016480f00d",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -353,39 +386,6 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 5,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-f4698eebc207",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2766217&AucID=7171&Lot=797&Val=fb2d4eeb64a634f300f52521d0eecd64",
-      "title": "Taisei - May 2026 Auction, Lot 797 \u2014 Ancient Coins. NGC Ch VF Strike\uff1a4/5 Surface\uff1a2/5 edge bends. \u7f8e+. VF+. BC120\uff5e63. Ancient-Greece Kingdom of Pontus Mithradates VI Gold Stater\n\nStarting price: 200000 JPY...",
-      "description": "Ancient Coins. NGC Ch VF Strike\uff1a4/5 Surface\uff1a2/5 edge bends. \u7f8e+. VF+. BC120\uff5e63. Ancient-Greece Kingdom of Pontus Mithradates VI Gold Stater\n\nStarting price: 200000 JPY...",
-      "hammer_price_usd": 240000.0,
-      "currency_original": "USD",
-      "price_original": 240000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-05-30",
-      "image_url": "https://media.coinarchives.com/e1f85f41129e8aa16aafdabb33dc7ffc/img/taisei/may26/image00797.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 2,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

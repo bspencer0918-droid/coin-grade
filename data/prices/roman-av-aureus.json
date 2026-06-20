@@ -335,39 +335,6 @@
       }
     },
     {
-      "id": "coinarchives-012a6ccf722f",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687427&AucID=6920&Lot=34097&Val=5809baf470cc84d76e8930e63c14d48b",
-      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3129, Lot 34097 \u2014 Ancients\nConstantius I, as Caesar (AD 305-306). AV aureus (20mm, 6.55 gm, 6h). NGC MS 5/5 - 3/5, Fine Style. Cyzicus (?), ca. 293 AD. CONSTANTIVS-NOB CAES, laureate head of Constantius I right / VIRTV",
-      "description": "Ancients\nConstantius I, as Caesar (AD 305-306). AV aureus (20mm, 6.55 gm, 6h). NGC MS 5/5 - 3/5, Fine Style. Cyzicus (?), ca. 293 AD. CONSTANTIVS-NOB CAES, laureate head of Constantius I right / VIRTVTI HERCVLIS, Hercules, nude, standing facing, head right, resting right hand on hip, left hand placed on club set on rock, lion skin draped on left arm. Calic\u00f3 -. RIC VI, -. Unique and unpublished. Delightfully vibrant devices with crisp detailing from sharp dies.\n\nFrom the Mirabilis Collection. E...",
-      "hammer_price_usd": 65000.0,
-      "currency_original": "USD",
-      "price_original": 65000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-12",
-      "image_url": "https://media.coinarchives.com/5b8a94ea9b104b21a3db222aa8ea4767/img/heritage/3129/image34097.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": true,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-68e46a0ca8cc",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -389,6 +356,39 @@
         "surface_score": 2,
         "details_grade": null,
         "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-012a6ccf722f",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687427&AucID=6920&Lot=34097&Val=5809baf470cc84d76e8930e63c14d48b",
+      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3129, Lot 34097 \u2014 Ancients\nConstantius I, as Caesar (AD 305-306). AV aureus (20mm, 6.55 gm, 6h). NGC MS 5/5 - 3/5, Fine Style. Cyzicus (?), ca. 293 AD. CONSTANTIVS-NOB CAES, laureate head of Constantius I right / VIRTV",
+      "description": "Ancients\nConstantius I, as Caesar (AD 305-306). AV aureus (20mm, 6.55 gm, 6h). NGC MS 5/5 - 3/5, Fine Style. Cyzicus (?), ca. 293 AD. CONSTANTIVS-NOB CAES, laureate head of Constantius I right / VIRTVTI HERCVLIS, Hercules, nude, standing facing, head right, resting right hand on hip, left hand placed on club set on rock, lion skin draped on left arm. Calic\u00f3 -. RIC VI, -. Unique and unpublished. Delightfully vibrant devices with crisp detailing from sharp dies.\n\nFrom the Mirabilis Collection. E...",
+      "hammer_price_usd": 65000.0,
+      "currency_original": "USD",
+      "price_original": 65000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-12",
+      "image_url": "https://media.coinarchives.com/5b8a94ea9b104b21a3db222aa8ea4767/img/heritage/3129/image34097.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": true,
         "certification_url": null,
         "grading_service": "ngc"
       },

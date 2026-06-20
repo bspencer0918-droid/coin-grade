@@ -171,39 +171,6 @@
       }
     },
     {
-      "id": "coinarchives-e0e1647a8af5",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687228&AucID=6921&Lot=36077&Val=1fdbaa9ecb808afb549ca8785a82b6f3",
-      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3130, Lot 36077 \u2014 Ancients\nNero, as Augustus (AD 54-68). AV aureus (18mm, 7.11 gm, 5h). NGC Choice Fine 5/5 - 2/5, ex-jewelry. Rome, AD 65-66. NERO CAESAR-AVGVSTVS, laureate head of Nero right / SALVS, Salus seated lef",
-      "description": "Ancients\nNero, as Augustus (AD 54-68). AV aureus (18mm, 7.11 gm, 5h). NGC Choice Fine 5/5 - 2/5, ex-jewelry. Rome, AD 65-66. NERO CAESAR-AVGVSTVS, laureate head of Nero right / SALVS, Salus seated left on high-backed throne, patera in outstretched right hand, left arm resting at side. Calic\u00f3 443. RIC I 59. \n\nNero, born Lucius Domitius Ahenobarbus in 37 AD, ascended to the Roman imperial throne in 54 AD, initiating a tumultuous reign that both captivated and horrified contemporaries. Initially ...",
-      "hammer_price_usd": 3600.0,
-      "currency_original": "USD",
-      "price_original": 3600.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-22",
-      "image_url": "https://media.coinarchives.com/710ce559444e291d68cb643765bbe0cb/img/heritage/3130/image36077.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "F",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-6fc3c82d8767",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -223,6 +190,39 @@
         "grade_numeric": null,
         "strike_score": 4,
         "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-e0e1647a8af5",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2687228&AucID=6921&Lot=36077&Val=1fdbaa9ecb808afb549ca8785a82b6f3",
+      "title": "Heritage World Coin Auctions - NYINC Signature Sale 3130, Lot 36077 \u2014 Ancients\nNero, as Augustus (AD 54-68). AV aureus (18mm, 7.11 gm, 5h). NGC Choice Fine 5/5 - 2/5, ex-jewelry. Rome, AD 65-66. NERO CAESAR-AVGVSTVS, laureate head of Nero right / SALVS, Salus seated lef",
+      "description": "Ancients\nNero, as Augustus (AD 54-68). AV aureus (18mm, 7.11 gm, 5h). NGC Choice Fine 5/5 - 2/5, ex-jewelry. Rome, AD 65-66. NERO CAESAR-AVGVSTVS, laureate head of Nero right / SALVS, Salus seated left on high-backed throne, patera in outstretched right hand, left arm resting at side. Calic\u00f3 443. RIC I 59. \n\nNero, born Lucius Domitius Ahenobarbus in 37 AD, ascended to the Roman imperial throne in 54 AD, initiating a tumultuous reign that both captivated and horrified contemporaries. Initially ...",
+      "hammer_price_usd": 3600.0,
+      "currency_original": "USD",
+      "price_original": 3600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-22",
+      "image_url": "https://media.coinarchives.com/710ce559444e291d68cb643765bbe0cb/img/heritage/3130/image36077.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 2,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
