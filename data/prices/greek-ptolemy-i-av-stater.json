@@ -8,22 +8,22 @@
   "ruler_rarity": null,
   "denomination": "AV Stater",
   "metal": "gold",
-  "sale_count": 18,
-  "realized_count": 18,
+  "sale_count": 19,
+  "realized_count": 19,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 1380.0,
     "max": 146400.0
   },
-  "median_price_usd": 10200.0,
-  "last_sale_date": "2026-01-12",
+  "median_price_usd": 8400.0,
+  "last_sale_date": "2026-06-17",
   "grade_distribution": {
     "MS": 5,
-    "XF": 3,
+    "XF": 4,
     "AU": 10
   },
-  "thumbnail_url": "https://media.coinarchives.com/38fc2a98bd3ded03e02727e48bdd8e5a/img/heritage/3129/image33064.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/752236375c22db4e3078e441c27b447d/img/heritage/3134/image36021.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 5,
@@ -60,6 +60,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-df50954510ae",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2761483&AucID=7146&Lot=36021&Val=7c8da5add432b78c1463a5c9809a80bb",
+      "title": "Heritage World Coin Auctions - Hong Kong Signature Sale 3134, Lot 36021 \u2014 Ancients\nBACTRIAN KINGDOM. Diodotus I Soter, as Satrap (ca. 255-235 BC). AV stater (19mm, 8.27 gm, 5h). NGC XF 4/5 - 3/5, brushed, die shift. Mint A, in the name of Antiochus II, ca. 255-250 BC. Diade",
+      "description": "Ancients\nBACTRIAN KINGDOM. Diodotus I Soter, as Satrap (ca. 255-235 BC). AV stater (19mm, 8.27 gm, 5h). NGC XF 4/5 - 3/5, brushed, die shift. Mint A, in the name of Antiochus II, ca. 255-250 BC. Diademed head of Diodotus I right, one tie falling straight down, the other flying upward behind; dotted border / \u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 / \u0391\u039d\u03a4\u0399\u039f\u03a7\u039f\u03a5, Zeus, striding left, seen from behind, brandishing thunderbolt with right hand, aegis over outstretched left arm; N above eagle left with raised wings in inner left fie...",
+      "hammer_price_usd": 5500.0,
+      "currency_original": "USD",
+      "price_original": 5500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-17",
+      "image_url": "https://media.coinarchives.com/752236375c22db4e3078e441c27b447d/img/heritage/3134/image36021.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
