@@ -24,7 +24,7 @@
     "VF": 2,
     "G": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/a8034b6c7b6aecec0daf04915251a584/img/heritage/61626/image23056.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/a83f9510d2f93cf0ea01071a6f60efd5/img/tcc/a34/image00098.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 2,
@@ -101,39 +101,6 @@
       }
     },
     {
-      "id": "coinarchives-c5e6eb24638f",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2756684&AucID=7130&Lot=23056&Val=2b37345cc03357695e56c2354c120e77",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61626, Lot 23056 \u2014 Ancients\nCARIAN ISLANDS. Rhodes. Ca. 250-200 BC. AR didrachm (20mm, 1h). NGC Choice XF\u2605. Mnasimaxus, magistrate. Radiate head of Helios facing, turned slightly right, hair parted in center and swept t",
-      "description": "Ancients\nCARIAN ISLANDS. Rhodes. Ca. 250-200 BC. AR didrachm (20mm, 1h). NGC Choice XF\u2605. Mnasimaxus, magistrate. Radiate head of Helios facing, turned slightly right, hair parted in center and swept to either side / MNA\u03a3\u0399\u039cAXO\u03a3, rose with single bud on tendril to right; P-O flanking stem, figure of Athena standing left holding aphlaston in left field. HGC 6, 1439. Fantastic portrait with high relief. \n\nEx Heritage Auctions, Auction 232007 (13 February 2020), lot 62095.   www.HA.com/TexasAuction...",
-      "hammer_price_usd": 1050.0,
-      "currency_original": "USD",
-      "price_original": 1050.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-06-07",
-      "image_url": "https://media.coinarchives.com/a8034b6c7b6aecec0daf04915251a584/img/heritage/61626/image23056.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-dca5af389b1d",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -156,6 +123,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/2177417002/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-c5e6eb24638f",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2756684&AucID=7130&Lot=23056&Val=2b37345cc03357695e56c2354c120e77",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61626, Lot 23056 \u2014 Ancients\nCARIAN ISLANDS. Rhodes. Ca. 250-200 BC. AR didrachm (20mm, 1h). NGC Choice XF\u2605. Mnasimaxus, magistrate. Radiate head of Helios facing, turned slightly right, hair parted in center and swept t",
+      "description": "Ancients\nCARIAN ISLANDS. Rhodes. Ca. 250-200 BC. AR didrachm (20mm, 1h). NGC Choice XF\u2605. Mnasimaxus, magistrate. Radiate head of Helios facing, turned slightly right, hair parted in center and swept to either side / MNA\u03a3\u0399\u039cAXO\u03a3, rose with single bud on tendril to right; P-O flanking stem, figure of Athena standing left holding aphlaston in left field. HGC 6, 1439. Fantastic portrait with high relief. \n\nEx Heritage Auctions, Auction 232007 (13 February 2020), lot 62095.   www.HA.com/TexasAuction...",
+      "hammer_price_usd": 1050.0,
+      "currency_original": "USD",
+      "price_original": 1050.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-07",
+      "image_url": "https://media.coinarchives.com/a8034b6c7b6aecec0daf04915251a584/img/heritage/61626/image23056.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
         "grading_service": "ngc"
       },
       "metadata": {

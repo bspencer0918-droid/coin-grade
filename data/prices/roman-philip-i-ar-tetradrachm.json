@@ -17,7 +17,7 @@
     "max": 8400.0
   },
   "median_price_usd": 159.0,
-  "last_sale_date": "2026-06-22",
+  "last_sale_date": "2026-06-23",
   "grade_distribution": {
     "VF": 43,
     "XF": 173,
@@ -28,7 +28,7 @@
     "VG": 1,
     "AG": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/5a7086d5970a0093189ea921a8f9bf19/img/heritage/61626/image23012.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/aba857bbb2319085b98d735ef2ce1b77/img/heritage/61626/image23089.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 3,
@@ -49,7 +49,7 @@
       "currency_original": "USD",
       "price_original": 325.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-22",
+      "sale_date": "2026-06-23",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -329,39 +329,6 @@
       },
       "metadata": {
         "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-f189d9940639",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2756640&AucID=7130&Lot=23012&Val=34501ebe54eb1f52cb08ef3660e78872",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61626, Lot 23012 \u2014 Ancients\nMACEDONIAN KINGDOM. Philip II (359-336 BC). AR tetradrachm (25mm, 14.31 gm, 7h). NGC AU 5/5 - 4/5. Posthumous issue, Pella, ca. 323-315 BC. Laureate head of Zeus right / \u03a6I\u039bI\u03a0-\u03a0OY, nude youth",
-      "description": "Ancients\nMACEDONIAN KINGDOM. Philip II (359-336 BC). AR tetradrachm (25mm, 14.31 gm, 7h). NGC AU 5/5 - 4/5. Posthumous issue, Pella, ca. 323-315 BC. Laureate head of Zeus right / \u03a6I\u039bI\u03a0-\u03a0OY, nude youth on horseback right, palm in right hand, reins in left; coiled serpent right below horse, Boeotian shield below raised foreleg. Le Rider 531. SNG ANS 450. Reflections of sunset toning. \n\nPhilip II, king of Macedon from 382-336 BC, laid the foundation of the Macedonian Empire that would see its lar...",
-      "hammer_price_usd": 5250.0,
-      "currency_original": "USD",
-      "price_original": 5250.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-06-07",
-      "image_url": "https://media.coinarchives.com/5a7086d5970a0093189ea921a8f9bf19/img/heritage/61626/image23012.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -721,6 +688,39 @@
         "details_grade": null,
         "fine_style": true,
         "certification_url": "https://www.ngccoin.com/certlookup/8221307001/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-f189d9940639",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2756640&AucID=7130&Lot=23012&Val=34501ebe54eb1f52cb08ef3660e78872",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61626, Lot 23012 \u2014 Ancients\nMACEDONIAN KINGDOM. Philip II (359-336 BC). AR tetradrachm (25mm, 14.31 gm, 7h). NGC AU 5/5 - 4/5. Posthumous issue, Pella, ca. 323-315 BC. Laureate head of Zeus right / \u03a6I\u039bI\u03a0-\u03a0OY, nude youth",
+      "description": "Ancients\nMACEDONIAN KINGDOM. Philip II (359-336 BC). AR tetradrachm (25mm, 14.31 gm, 7h). NGC AU 5/5 - 4/5. Posthumous issue, Pella, ca. 323-315 BC. Laureate head of Zeus right / \u03a6I\u039bI\u03a0-\u03a0OY, nude youth on horseback right, palm in right hand, reins in left; coiled serpent right below horse, Boeotian shield below raised foreleg. Le Rider 531. SNG ANS 450. Reflections of sunset toning. \n\nPhilip II, king of Macedon from 382-336 BC, laid the foundation of the Macedonian Empire that would see its lar...",
+      "hammer_price_usd": 5250.0,
+      "currency_original": "USD",
+      "price_original": 5250.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-07",
+      "image_url": "https://media.coinarchives.com/5a7086d5970a0093189ea921a8f9bf19/img/heritage/61626/image23012.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
         "grading_service": "ngc"
       },
       "metadata": {
