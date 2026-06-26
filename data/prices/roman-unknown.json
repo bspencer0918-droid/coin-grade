@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 3256,
-  "realized_count": 3256,
+  "sale_count": 3258,
+  "realized_count": 3258,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,11 +17,11 @@
     "max": 312000.0
   },
   "median_price_usd": 192.0,
-  "last_sale_date": "2026-06-14",
+  "last_sale_date": "2026-06-22",
   "grade_distribution": {
     "F": 397,
     "XF": 582,
-    "MS": 739,
+    "MS": 741,
     "AU": 867,
     "P": 8,
     "VF": 612,
@@ -2811,6 +2811,39 @@
       }
     },
     {
+      "id": "sixbid-434f48c96e14",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13881/switzerland/12308751/switzerland-solothurn-cantonal-shooting-festival",
+      "title": "SWITZERLAND. Solothurn Cantonal Shooting Festival Bronze Medal, 1895. NGC MS-63 Brown. <br> R-1123B. By H. Bovy and C. Amiet. Diameter: 45mm. Obverse: Roman soldier with banner standing outside the old city fortress; Reverse: Nude youth, facing left, with wreath over elbow holding Coat of Arms of Solothurn with crossed rifles and olive branches behind, perimeter legend.",
+      "description": "Stack\u2019s Bowers and Ponterio | ['Hong Kong (SAR) Premier Collectors Choice Auction']",
+      "hammer_price_usd": 100.0,
+      "currency_original": "USD",
+      "price_original": 100.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-22",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "sixbid-14ac723513a7",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -2861,6 +2894,39 @@
         "cert_number": null,
         "grade": "MS",
         "grade_numeric": 63,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-f6e068e03638",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13881/switzerland/12308746/switzerland-battle-of-sempach-bronze",
+      "title": "SWITZERLAND. Battle of Sempach Bronze Medal, 1886. NGC MS-64 Brown. <br> SM-106. By H. Bovy. Diameter: 43mm. Obverse: Soldier wearing medieval armor standing facing, head turned slightly left, clutching spears, with ornate portico decorated with garland bearing two dates in Roman numerals (1386 & 1886); Reverse: Greek cross, with the coats-of-arms of Luzern, Uri, Schwyz, and Unterwalden in angles.",
+      "description": "Stack\u2019s Bowers and Ponterio | ['Hong Kong (SAR) Premier Collectors Choice Auction']",
+      "hammer_price_usd": 80.0,
+      "currency_original": "USD",
+      "price_original": 80.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-22",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
