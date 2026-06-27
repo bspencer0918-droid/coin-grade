@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 1413,
-  "realized_count": 1373,
+  "sale_count": 1415,
+  "realized_count": 1375,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,13 +17,13 @@
     "max": 312000.0
   },
   "median_price_usd": 900.0,
-  "last_sale_date": "2026-06-26",
+  "last_sale_date": "2026-06-27",
   "grade_distribution": {
     "VF": 335,
     "XF": 220,
     "P": 17,
-    "AU": 289,
-    "MS": 402,
+    "AU": 290,
+    "MS": 403,
     "F": 105,
     "G": 34,
     "VG": 11
@@ -49,7 +49,7 @@
       "currency_original": "USD",
       "price_original": 6000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-26",
+      "sale_date": "2026-06-27",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -82,7 +82,7 @@
       "currency_original": "USD",
       "price_original": 550.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-26",
+      "sale_date": "2026-06-27",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -115,7 +115,7 @@
       "currency_original": "USD",
       "price_original": 13000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-26",
+      "sale_date": "2026-06-27",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -148,7 +148,7 @@
       "currency_original": "USD",
       "price_original": 14000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-26",
+      "sale_date": "2026-06-27",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -181,7 +181,7 @@
       "currency_original": "USD",
       "price_original": 1600.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-26",
+      "sale_date": "2026-06-27",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -214,7 +214,7 @@
       "currency_original": "USD",
       "price_original": 1500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-06-26",
+      "sale_date": "2026-06-27",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1161,6 +1161,39 @@
       }
     },
     {
+      "id": "sixbid-82e584fcbcde",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/coinsee/13815/world-coins/12260725/romania-bucharest-20-lei-1890",
+      "title": "Romania (Bucharest) 20 Lei 1890 - Carol I (1881-1914) - NGC MS 62<br><p>Charming mint state example with bright mint luster. </p><p>Mintmark B. </p><p>Engraver\u2019s signature: Friedrich Wilhelm Kullrich. </p><p>KM\u202f20; Friedberg\u202f3. </p><p><br></p>",
+      "description": "Coins.ee O\u00dc | ['Auction 72']",
+      "hammer_price_usd": 1510.21,
+      "currency_original": "USD",
+      "price_original": 1510.21,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-23",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 62,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "sixbid-dc38a3add349",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -1277,6 +1310,39 @@
         "cert_number": null,
         "grade": "P",
         "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-35d687854742",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/coinsee/13815/world-coins/12260726/romania-brussels-mint-50-lei",
+      "title": "Romania (Brussels mint) 50 Lei 1906 - Carol I (1881-1914) - NGC AU 58<br><p>Choice nearly mint state specimen with good luster. </p><p>Circulating commemorative coin: 40th anniversary of the reign of Carol I. </p><p>Engraver\u2019s initials A.M and signature: Alphonse Michaux. </p><p>KM\u202f39; Friedberg\u202f6. </p><p><br></p>",
+      "description": "Coins.ee O\u00dc | ['Auction 72']",
+      "hammer_price_usd": 5110.32,
+      "currency_original": "USD",
+      "price_original": 5110.3184,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-23",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 58,
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
