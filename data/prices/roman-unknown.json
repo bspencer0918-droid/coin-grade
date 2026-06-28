@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 3262,
-  "realized_count": 3262,
+  "sale_count": 3264,
+  "realized_count": 3264,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,12 +17,12 @@
     "max": 312000.0
   },
   "median_price_usd": 192.0,
-  "last_sale_date": "2026-06-22",
+  "last_sale_date": "2026-06-27",
   "grade_distribution": {
     "F": 397,
     "XF": 582,
-    "MS": 745,
-    "AU": 867,
+    "MS": 746,
+    "AU": 868,
     "P": 8,
     "VF": 612,
     "G": 19,
@@ -1260,6 +1260,39 @@
       }
     },
     {
+      "id": "sixbid-b447aee6bae9",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/coinsnb/13917/county-of-tyrol/12338584/austria-county-of-tyrol-archduchy",
+      "title": "Austria County of Tyrol Archduchy of Austria Holy Roman Empire 1736 1 Thaler - Charles VI Silver (.875) Hall, Tyrol Mint 28.6g NGC MS 62 KM 1639.1 MT 857",
+      "description": "Coins Numismatic Barcelona | ['E-Auction 61']",
+      "hammer_price_usd": 1392.84,
+      "currency_original": "USD",
+      "price_original": 1392.84,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-27",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 62,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "sixbid-decb62211fcd",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -1871,6 +1904,39 @@
         "cert_number": null,
         "grade": "AU",
         "grade_numeric": 55,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-95f898e76533",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/coinsnb/13917/county-of-tyrol/12338583/austria-county-of-tyrol-archduchy",
+      "title": "Austria County of Tyrol Archduchy of Austria Holy Roman Empire 1705 2 Thalers - Joseph I Silver (.875) Hall, Tyrol Mint 56.22g NGC AU 58  KM 1445 Herinek 1740-1969 117-118 Dav EC III 1016 MT 813",
+      "description": "Coins Numismatic Barcelona | ['E-Auction 61']",
+      "hammer_price_usd": 4642.8,
+      "currency_original": "USD",
+      "price_original": 4642.8,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-27",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 58,
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
