@@ -1,6 +1,6 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-07-01T10:08:32.650927+00:00",
+  "generated_at": "2026-07-02T09:17:26.544288+00:00",
   "coins": [
     {
       "slug": "celtic-gaulish-unknown",
@@ -12,18 +12,18 @@
       "ruler_rarity": null,
       "denomination": "Unknown",
       "metal": "gold",
-      "sale_count": 71,
-      "realized_count": 71,
+      "sale_count": 73,
+      "realized_count": 73,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 49.0,
         "max": 21600.0
       },
-      "median_price_usd": 840.0,
-      "last_sale_date": "2026-07-01",
+      "median_price_usd": 850.0,
+      "last_sale_date": "2026-07-02",
       "grade_distribution": {
-        "VF": 32,
+        "VF": 34,
         "XF": 31,
         "F": 1,
         "AU": 5,
@@ -40,6 +40,45 @@
       "mint_mark": null
     },
     {
+      "slug": "greek-ar-nomos",
+      "category": "greek",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "ruler_dates": null,
+      "ruler_rarity": null,
+      "denomination": "AR Nomos",
+      "metal": "silver",
+      "sale_count": 119,
+      "realized_count": 116,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 5.0,
+        "max": 195000.0
+      },
+      "median_price_usd": 550.0,
+      "last_sale_date": "2026-07-02",
+      "grade_distribution": {
+        "VF": 40,
+        "XF": 36,
+        "F": 11,
+        "AU": 23,
+        "VG": 1,
+        "MS": 7,
+        "G": 1
+      },
+      "thumbnail_url": "https://media.coinarchives.com/52469c2990a46a2833cac6bf94ccb65b/img/ponterio/236/image45023.jpg",
+      "median_weight_g": null,
+      "top_strike_score": 5,
+      "top_surface_score": 4,
+      "top_grade_numeric": null,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
       "slug": "roman-ar-denarius",
       "category": "roman",
       "ruler": null,
@@ -49,8 +88,8 @@
       "ruler_rarity": null,
       "denomination": "AR Denarius",
       "metal": "silver",
-      "sale_count": 5763,
-      "realized_count": 5756,
+      "sale_count": 5764,
+      "realized_count": 5757,
       "fixed_price_count": 4,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -58,11 +97,11 @@
         "max": 720000.0
       },
       "median_price_usd": 264.0,
-      "last_sale_date": "2026-07-01",
+      "last_sale_date": "2026-07-02",
       "grade_distribution": {
         "AU": 1164,
         "P": 2,
-        "XF": 1734,
+        "XF": 1735,
         "VF": 2068,
         "MS": 358,
         "F": 380,
@@ -99,7 +138,7 @@
         "max": 850.0
       },
       "median_price_usd": 114.0,
-      "last_sale_date": "2026-07-01",
+      "last_sale_date": "2026-07-02",
       "grade_distribution": {
         "XF": 114,
         "AU": 19,
@@ -135,7 +174,7 @@
         "max": 2640.0
       },
       "median_price_usd": 850.0,
-      "last_sale_date": "2026-07-01",
+      "last_sale_date": "2026-07-02",
       "grade_distribution": {
         "VF": 1,
         "AU": 4,
@@ -148,45 +187,6 @@
       "median_weight_g": null,
       "top_strike_score": 4,
       "top_surface_score": 3,
-      "top_grade_numeric": null,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
-      "slug": "greek-ar-nomos",
-      "category": "greek",
-      "ruler": null,
-      "ruler_normalized": null,
-      "dynasty": null,
-      "ruler_dates": null,
-      "ruler_rarity": null,
-      "denomination": "AR Nomos",
-      "metal": "silver",
-      "sale_count": 112,
-      "realized_count": 109,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 5.0,
-        "max": 195000.0
-      },
-      "median_price_usd": 550.0,
-      "last_sale_date": "2026-07-01",
-      "grade_distribution": {
-        "VF": 36,
-        "F": 11,
-        "AU": 23,
-        "XF": 33,
-        "VG": 1,
-        "MS": 7,
-        "G": 1
-      },
-      "thumbnail_url": "https://media.coinarchives.com/52469c2990a46a2833cac6bf94ccb65b/img/ponterio/236/image45023.jpg",
-      "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 4,
       "top_grade_numeric": null,
       "dominant_service": "ngc",
       "series": null,
@@ -212,7 +212,7 @@
         "max": 600000.0
       },
       "median_price_usd": 117000.0,
-      "last_sale_date": "2026-07-01",
+      "last_sale_date": "2026-07-02",
       "grade_distribution": {
         "P": 2,
         "AU": 1,
@@ -250,7 +250,7 @@
         "max": 19200.0
       },
       "median_price_usd": 4320.0,
-      "last_sale_date": "2026-07-01",
+      "last_sale_date": "2026-07-02",
       "grade_distribution": {
         "MS": 65,
         "AU": 118,
@@ -288,7 +288,7 @@
         "max": 300.0
       },
       "median_price_usd": 230.0,
-      "last_sale_date": "2026-07-01",
+      "last_sale_date": "2026-07-02",
       "grade_distribution": {
         "XF": 2
       },
@@ -321,7 +321,7 @@
         "max": 536800.0
       },
       "median_price_usd": 5100.0,
-      "last_sale_date": "2026-07-01",
+      "last_sale_date": "2026-07-02",
       "grade_distribution": {
         "AU": 183,
         "MS": 269,
@@ -359,7 +359,7 @@
         "max": 960.0
       },
       "median_price_usd": 325.0,
-      "last_sale_date": "2026-07-01",
+      "last_sale_date": "2026-07-02",
       "grade_distribution": {
         "XF": 10,
         "MS": 20,
@@ -397,7 +397,7 @@
         "max": 4320.0
       },
       "median_price_usd": 264.0,
-      "last_sale_date": "2026-07-01",
+      "last_sale_date": "2026-07-02",
       "grade_distribution": {
         "XF": 17,
         "VF": 20,
@@ -436,7 +436,7 @@
         "max": 1700.0
       },
       "median_price_usd": 1450.0,
-      "last_sale_date": "2026-07-01",
+      "last_sale_date": "2026-07-02",
       "grade_distribution": {
         "XF": 2,
         "VF": 1
@@ -470,7 +470,7 @@
         "max": 8400.0
       },
       "median_price_usd": 159.0,
-      "last_sale_date": "2026-07-01",
+      "last_sale_date": "2026-07-02",
       "grade_distribution": {
         "VF": 43,
         "XF": 173,
@@ -510,7 +510,7 @@
         "max": 350.0
       },
       "median_price_usd": 350.0,
-      "last_sale_date": "2026-07-01",
+      "last_sale_date": "2026-07-02",
       "grade_distribution": {
         "XF": 1
       },
@@ -543,7 +543,7 @@
         "max": 82278.0
       },
       "median_price_usd": 1763.1,
-      "last_sale_date": "2026-07-01",
+      "last_sale_date": "2026-07-02",
       "grade_distribution": {
         "XF": 49,
         "VF": 38,
@@ -584,7 +584,7 @@
         "max": 292800.0
       },
       "median_price_usd": 1920.0,
-      "last_sale_date": "2026-07-01",
+      "last_sale_date": "2026-07-02",
       "grade_distribution": {
         "VF": 268,
         "G": 19,
@@ -624,7 +624,7 @@
         "max": 312000.0
       },
       "median_price_usd": 900.0,
-      "last_sale_date": "2026-07-01",
+      "last_sale_date": "2026-07-02",
       "grade_distribution": {
         "VF": 335,
         "XF": 220,
@@ -664,7 +664,7 @@
         "max": 180000.0
       },
       "median_price_usd": 8400.0,
-      "last_sale_date": "2026-07-01",
+      "last_sale_date": "2026-07-02",
       "grade_distribution": {
         "VF": 12,
         "F": 2,
@@ -889,7 +889,7 @@
         "max": 3360.0
       },
       "median_price_usd": 960.0,
-      "last_sale_date": "2026-07-01",
+      "last_sale_date": "2026-07-02",
       "grade_distribution": {
         "VF": 3,
         "AU": 7,
@@ -1041,7 +1041,7 @@
         "max": 120000.0
       },
       "median_price_usd": 2400.0,
-      "last_sale_date": "2026-07-01",
+      "last_sale_date": "2026-07-02",
       "grade_distribution": {
         "MS": 159,
         "F": 41,
@@ -2091,7 +2091,7 @@
         "max": 114000.0
       },
       "median_price_usd": 16800.0,
-      "last_sale_date": "2026-07-01",
+      "last_sale_date": "2026-07-02",
       "grade_distribution": {
         "AU": 31,
         "VF": 14,
@@ -3211,7 +3211,7 @@
         "max": 10000.0
       },
       "median_price_usd": 144.0,
-      "last_sale_date": "2026-07-01",
+      "last_sale_date": "2026-07-02",
       "grade_distribution": {
         "F": 11,
         "VF": 84,
@@ -3587,7 +3587,7 @@
         "max": 3720.0
       },
       "median_price_usd": 264.0,
-      "last_sale_date": "2026-07-01",
+      "last_sale_date": "2026-07-02",
       "grade_distribution": {
         "VF": 77,
         "AU": 12,
@@ -4690,6 +4690,44 @@
       "top_strike_score": 4,
       "top_surface_score": 3,
       "top_grade_numeric": null,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
+      "slug": "roman-tiberius-ar-denarius-tribute-penny-type",
+      "category": "roman",
+      "ruler": "Tiberius",
+      "ruler_normalized": "tiberius",
+      "dynasty": "Julio-Claudian",
+      "ruler_dates": "AD 14\u201337",
+      "ruler_rarity": null,
+      "denomination": "AR Denarius",
+      "metal": "silver",
+      "sale_count": 662,
+      "realized_count": 662,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 139.0,
+        "max": 18600.0
+      },
+      "median_price_usd": 660.0,
+      "last_sale_date": "2026-07-01",
+      "grade_distribution": {
+        "AU": 162,
+        "XF": 205,
+        "VF": 199,
+        "F": 76,
+        "VG": 3,
+        "MS": 17
+      },
+      "thumbnail_url": "https://media.coinarchives.com/6853bb764bf4e6dca88e8aea2cd008c8/img/heritage/61626/image23116.jpg",
+      "median_weight_g": null,
+      "top_strike_score": 5,
+      "top_surface_score": 2,
+      "top_grade_numeric": 5,
       "dominant_service": "ngc",
       "series": null,
       "date_struck": null,
@@ -9198,7 +9236,7 @@
         "max": 216000.0
       },
       "median_price_usd": 960.0,
-      "last_sale_date": "2026-07-01",
+      "last_sale_date": "2026-07-02",
       "grade_distribution": {
         "AU": 85,
         "MS": 162,
@@ -9448,7 +9486,7 @@
         "max": 1950.0
       },
       "median_price_usd": 1950.0,
-      "last_sale_date": "2026-07-01",
+      "last_sale_date": "2026-07-02",
       "grade_distribution": {
         "P": 1
       },
@@ -9481,7 +9519,7 @@
         "max": 5040.0
       },
       "median_price_usd": 528.0,
-      "last_sale_date": "2026-07-01",
+      "last_sale_date": "2026-07-02",
       "grade_distribution": {
         "P": 1,
         "MS": 2,
@@ -9521,7 +9559,7 @@
         "max": 3240.0
       },
       "median_price_usd": 504.0,
-      "last_sale_date": "2026-07-01",
+      "last_sale_date": "2026-07-02",
       "grade_distribution": {
         "F": 1,
         "AU": 1,
@@ -9558,7 +9596,7 @@
         "max": 50400.0
       },
       "median_price_usd": 1680.0,
-      "last_sale_date": "2026-07-01",
+      "last_sale_date": "2026-07-02",
       "grade_distribution": {
         "G": 2,
         "VF": 10,
@@ -10654,44 +10692,6 @@
       "top_strike_score": 5,
       "top_surface_score": 3,
       "top_grade_numeric": null,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
-      "slug": "roman-tiberius-ar-denarius-tribute-penny-type",
-      "category": "roman",
-      "ruler": "Tiberius",
-      "ruler_normalized": "tiberius",
-      "dynasty": "Julio-Claudian",
-      "ruler_dates": "AD 14\u201337",
-      "ruler_rarity": null,
-      "denomination": "AR Denarius",
-      "metal": "silver",
-      "sale_count": 661,
-      "realized_count": 661,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 139.0,
-        "max": 18600.0
-      },
-      "median_price_usd": 660.0,
-      "last_sale_date": "2026-06-07",
-      "grade_distribution": {
-        "XF": 205,
-        "AU": 161,
-        "VF": 199,
-        "F": 76,
-        "VG": 3,
-        "MS": 17
-      },
-      "thumbnail_url": "https://media.coinarchives.com/6853bb764bf4e6dca88e8aea2cd008c8/img/heritage/61626/image23116.jpg",
-      "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 2,
-      "top_grade_numeric": 5,
       "dominant_service": "ngc",
       "series": null,
       "date_struck": null,

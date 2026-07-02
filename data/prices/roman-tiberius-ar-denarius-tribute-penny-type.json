@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 661,
-  "realized_count": 661,
+  "sale_count": 662,
+  "realized_count": 662,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,10 +17,10 @@
     "max": 18600.0
   },
   "median_price_usd": 660.0,
-  "last_sale_date": "2026-06-07",
+  "last_sale_date": "2026-07-01",
   "grade_distribution": {
+    "AU": 162,
     "XF": 205,
-    "AU": 161,
     "VF": 199,
     "F": 76,
     "VG": 3,
@@ -36,6 +36,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-2f22e77432aa",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/jesus-vico/13918/roman-empire-imperio-romano/12339621/roman-empire-tiberius-14-37-ad",
+      "title": "ROMAN EMPIRE. TIBERIUS (14-37 AD). Denarius. Lugdunum (36-37 AD).  Laureate bust right; TI CAESAR DIVI AVG F AVGVS(TVS). Rev.  Livia seated right on chair with ornamental legs and on line; PONTIF MAXIM. AR 3.78 g. RIC-30. Encapsulated by NGC AU (3763186-001). IMPERIO ROMANO. TIBERIO (14-37 d.C.). Denario. Lugdunum (36-37 d.C.). A/ Busto laureado a der.; TI CAESAR DIVI AVG F AVGVS(TVS). R/ Livia sentada a der. en silla con patas ornamentadas y sobre l\u00ednea; PONTIF MAXIM. AR 3,78 g. RIC-30. Encapsulada por NGC AU (3763186-001).",
+      "description": "Jes\u00fas Vico, S.A. | ['Auction 179']",
+      "hammer_price_usd": 347.82,
+      "currency_original": "USD",
+      "price_original": 347.82,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "3763186-001",
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/3763186001/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-f3c917064426",
       "source": "coinarchives",
