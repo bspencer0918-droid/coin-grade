@@ -1,0 +1,102 @@
+{
+  "slug": "roman-ar-stater",
+  "category": "roman",
+  "ruler": null,
+  "ruler_normalized": null,
+  "dynasty": null,
+  "ruler_dates": null,
+  "ruler_rarity": null,
+  "denomination": "AR Stater",
+  "metal": "electrum",
+  "sale_count": 2,
+  "realized_count": 2,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 280.0,
+    "max": 300.0
+  },
+  "median_price_usd": 290.0,
+  "last_sale_date": "2026-06-27",
+  "grade_distribution": {
+    "VF": 1,
+    "AU": 1
+  },
+  "thumbnail_url": "https://media.coinarchives.com/806847ab59dbc590d345f12b936eee5e/img/niemczyk/054/image05061.jpg",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 4,
+  "top_grade_numeric": 5,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "coinarchives-8170bea23a75",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2774801&AucID=7203&Lot=5061&Val=204bb37dfc15dbd9393e34ecb0817353",
+      "title": "Antykwariat Numizmatyczny - Michal Niemczyk - Auction 54, Lot 5061 \u2014 Ancient Coins - Greece\nR\u00d6MISCHEN REPUBLIK / GRIECHISCHE M\u00dcNZEN / BYZANZ / ANTIK / ANCIENT / ROME / GREECE\n\nGreece, Zeugitana, Carthage. Circa 320280 BCE NGC VF 5/5 2/5 electron stater\n\nInteresuj\u0105ca mo",
+      "description": "Ancient Coins - Greece\nR\u00d6MISCHEN REPUBLIK / GRIECHISCHE M\u00dcNZEN / BYZANZ / ANTIK / ANCIENT / ROME / GREECE\n\nGreece, Zeugitana, Carthage. Circa 320280 BCE NGC VF 5/5 2/5 electron stater\n\nInteresuj\u0105ca moneta br\u0105zowa z czas\u00f3w Aleksandra III Wielkiego, wybita w nieokre\u015blonej mennicy zachodniej Azji Mniejszej. Emisje tego typu nale\u017c\u0105 do popularnych monet obiegowych okresu hellenistycznego, szeroko rozpowszechnionych na terenach podbitych przez Macedoni\u0119.Na awersie przedstawiono g\u0142ow\u0119 Heraklesa w sk\u00f3...",
+      "hammer_price_usd": 300.0,
+      "currency_original": "USD",
+      "price_original": 300.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-27",
+      "image_url": "https://media.coinarchives.com/806847ab59dbc590d345f12b936eee5e/img/niemczyk/054/image05061.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-1ea87c13ef39",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2774804&AucID=7203&Lot=5064&Val=3521bd06761e7494346463472969b032",
+      "title": "Antykwariat Numizmatyczny - Michal Niemczyk - Auction 54, Lot 5064 \u2014 Ancient Coins - Greece\nR\u00d6MISCHEN REPUBLIK / GRIECHISCHE M\u00dcNZEN / BYZANZ / ANTIK / ANCIENT / ROME / GREECE\n\nKingdom of Bosporus, Sauromates II (174-210). Stater, year 492 of the Bosporan era - 195-196 ",
+      "description": "Ancient Coins - Greece\nR\u00d6MISCHEN REPUBLIK / GRIECHISCHE M\u00dcNZEN / BYZANZ / ANTIK / ANCIENT / ROME / GREECE\n\nKingdom of Bosporus, Sauromates II (174-210). Stater, year 492 of the Bosporan era - 195-196 AD, NGC AU 5/5 4/5\nAW: Kr\u00f3l w przykl\u0119ku w prawo, trzymaj\u0105cy w\u0142\u00f3czni\u0119 i \u0142uk\nRW: Prostok\u0105tne incusum o nieregularnym rysunku\n\nPrzyzwoicie zachowane. \n\nDetails: 5,50 g Ag   \nCondition: 2 (EF)\n\nStarting price: 70 PLN...",
+      "hammer_price_usd": 280.0,
+      "currency_original": "USD",
+      "price_original": 280.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-27",
+      "image_url": "https://media.coinarchives.com/2e8726f6787e71b1e32bc7b998f8ef90/img/niemczyk/054/image05064.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}
