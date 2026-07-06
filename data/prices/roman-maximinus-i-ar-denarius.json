@@ -8,8 +8,8 @@
   "ruler_rarity": "scarce",
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 319,
-  "realized_count": 319,
+  "sale_count": 320,
+  "realized_count": 320,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,23 +17,56 @@
     "max": 1320.0
   },
   "median_price_usd": 159.0,
-  "last_sale_date": "2026-03-15",
+  "last_sale_date": "2026-07-05",
   "grade_distribution": {
+    "XF": 61,
     "MS": 70,
     "AU": 183,
-    "XF": 60,
     "VF": 6
   },
   "thumbnail_url": "https://media.coinarchives.com/c20dab9904bb6cf36e192f10a9a17a07/img/heritage/61605/image23159.jpg",
   "median_weight_g": null,
-  "top_strike_score": 5,
-  "top_surface_score": 4,
-  "top_grade_numeric": 5,
+  "top_strike_score": null,
+  "top_surface_score": null,
+  "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-2af66b6b30d9",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/portuscalle/13899/the-roman-empire/12321866/the-roman-empiremaximinus-i-235-238",
+      "title": "The Roman Empire<br>Maximinus I, 235-238. AR Denarius xxxx g. Rome, 236-238. MAXIMINVS PIVS AVG GERM Laureate, draped and cuirassed bust of Maximinus I to right, seen from behind. Rev. PAX AVGVSTI Pax standing front, head to left, holding olive branch in her right hand and inverted scepter in her left. BMC 144. Cohen 37. RIC 19. NGC Ch XF.",
+      "description": "Portuscalle Numismatica | ['Auction 39']",
+      "hammer_price_usd": 139.68,
+      "currency_original": "USD",
+      "price_original": 139.68,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-05",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-f39e8d4be99d",
       "source": "coinarchives",

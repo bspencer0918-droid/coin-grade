@@ -8,23 +8,23 @@
   "ruler_rarity": "scarce",
   "denomination": "AV Nomisma",
   "metal": "gold",
-  "sale_count": 17,
-  "realized_count": 17,
+  "sale_count": 18,
+  "realized_count": 18,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 399.5,
     "max": 5760.0
   },
-  "median_price_usd": 1320.0,
-  "last_sale_date": "2026-04-29",
+  "median_price_usd": 1380.0,
+  "last_sale_date": "2026-07-05",
   "grade_distribution": {
-    "AU": 12,
+    "AU": 13,
     "MS": 1,
     "XF": 1,
     "VF": 3
   },
-  "thumbnail_url": "https://media.coinarchives.com/41ec46dc6cde41c6cef6acc02a5a0cbb/img/heritage/3132/image32140.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/252d94f9d5a73814c5836cf084f60c4a/img/heritage/61633/image22104.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -34,6 +34,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-f509ae5eb377",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2768079&AucID=7180&Lot=22104&Val=cc7fd7329b72fb7f097d0b1f1fbf81d4",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61633, Lot 22104 \u2014 Ancients\nJohn I Tzimisces (AD 969-976). AV histamenon nomisma (21mm, 4.38 gm, 6h). NGC AU 5/5 - 4/5. Constantinople, AD 970-973. +IhS XIS REX REGNANTInm, bust of Christ facing, wearing nimbus cruciger",
+      "description": "Ancients\nJohn I Tzimisces (AD 969-976). AV histamenon nomisma (21mm, 4.38 gm, 6h). NGC AU 5/5 - 4/5. Constantinople, AD 970-973. +IhS XIS REX REGNANTInm, bust of Christ facing, wearing nimbus cruciger with two pellets in each arm, pallium and colobium, right hand raised in benediction, book of Gospels cradled in left / +\u0398EOTOC-bOH\u0398\u00b4 Iw dESP, half-length busts of nimbate Virgin (on right), wearing stola and maphorium, crowning with right hand John I (on left), wearing loros and ornate crown sur...",
+      "hammer_price_usd": 4100.0,
+      "currency_original": "USD",
+      "price_original": 4100.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-05",
+      "image_url": "https://media.coinarchives.com/252d94f9d5a73814c5836cf084f60c4a/img/heritage/61633/image22104.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-49a6d0af64b6",
       "source": "coinarchives",

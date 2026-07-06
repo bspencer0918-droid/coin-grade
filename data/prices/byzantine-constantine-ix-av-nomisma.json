@@ -8,21 +8,21 @@
   "ruler_rarity": null,
   "denomination": "AV Nomisma",
   "metal": "gold",
-  "sale_count": 6,
-  "realized_count": 6,
+  "sale_count": 8,
+  "realized_count": 8,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 1400.0,
     "max": 4600.0
   },
-  "median_price_usd": 2150.0,
-  "last_sale_date": "2026-06-07",
+  "median_price_usd": 1850.0,
+  "last_sale_date": "2026-07-05",
   "grade_distribution": {
-    "MS": 2,
-    "AU": 4
+    "AU": 6,
+    "MS": 2
   },
-  "thumbnail_url": "https://media.coinarchives.com/dbd296a2e806088fd050f84cdcb43019/img/heritage/61626/image23185.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/d0d421f0ead209b685346ae23571872c/img/heritage/61633/image22113.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -32,6 +32,72 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-5843da355867",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2768088&AucID=7180&Lot=22113&Val=7f17acd9459f35daa0df678e5a459daf",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61633, Lot 22113 \u2014 Ancients\nConstantine IX Monomachus (AD 1042-1055). AV histamenon nomisma (25mm, 4.42 gm, 5h). NGC AU 5/5 - 3/5. Constantinople. +IhS XIS R\u0404X R\u0404\u03daNANTIhm, bust of Christ facing with nimbus cruciger, cre",
+      "description": "Ancients\nConstantine IX Monomachus (AD 1042-1055). AV histamenon nomisma (25mm, 4.42 gm, 5h). NGC AU 5/5 - 3/5. Constantinople. +IhS XIS R\u0404X R\u0404\u03daNANTIhm, bust of Christ facing with nimbus cruciger, crescents in the upper quadrants, wearing pallium and colobium, raising right hand in benediction, book of Gospels in left arm; triple border / +CwhS-T-AthI-hOS bAS Rm, bust of Constantine IX facing, with mustache and short beard, wearing crown surmounted by pelleted cross with pendilia and loros of ...",
+      "hammer_price_usd": 1450.0,
+      "currency_original": "USD",
+      "price_original": 1450.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-05",
+      "image_url": "https://media.coinarchives.com/d0d421f0ead209b685346ae23571872c/img/heritage/61633/image22113.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-70e4f23d4699",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2768089&AucID=7180&Lot=22114&Val=9f03dd103d358aa10c24560f4b8bcc74",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61633, Lot 22114 \u2014 Ancients\nConstantine IX Monomachus (AD 1042-1055). AV tetarteron nomisma (18mm, 4.04 gm, 5h). NGC AU 5/5 - 4/5. Constantinople. +IhS XIS R\u0404X-R\u0404\u03daNANTIhM, bust of Christ facing, wearing plain nimbus cru",
+      "description": "Ancients\nConstantine IX Monomachus (AD 1042-1055). AV tetarteron nomisma (18mm, 4.04 gm, 5h). NGC AU 5/5 - 4/5. Constantinople. +IhS XIS R\u0404X-R\u0404\u03daNANTIhM, bust of Christ facing, wearing plain nimbus cruciger, pallium and colobium, right hand raised in benediction, book of Gospels cradled in left / + CwhST-Ahth-\u042cASIL\u0404\u0427S RM, bust of Constantine IX facing, bearded, wearing jeweled chlamys and crown with pendilia and surmounted by pelleted cross, scepter surmounted by trefoil over two pellets in rig...",
+      "hammer_price_usd": 1800.0,
+      "currency_original": "USD",
+      "price_original": 1800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-05",
+      "image_url": "https://media.coinarchives.com/2cb399b59e380ae5c5e7bbb8b778b81b/img/heritage/61633/image22114.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-24703a8191ab",
       "source": "coinarchives",

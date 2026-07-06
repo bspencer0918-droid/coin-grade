@@ -8,23 +8,23 @@
   "ruler_rarity": null,
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 46,
-  "realized_count": 46,
+  "sale_count": 48,
+  "realized_count": 48,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 750.0,
     "max": 15116.4
   },
-  "median_price_usd": 1600.0,
-  "last_sale_date": "2026-05-13",
+  "median_price_usd": 1564.01,
+  "last_sale_date": "2026-07-05",
   "grade_distribution": {
-    "XF": 5,
+    "XF": 6,
     "G": 7,
     "AU": 13,
-    "MS": 21
+    "MS": 22
   },
-  "thumbnail_url": "https://media.coinarchives.com/357b1f669ab65a847f3476526e5c871e/img/ponterio/236/image45554.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/198964936df88ae8907b81fcca02f914/img/heritage/61633/image22001.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 4,
@@ -325,6 +325,72 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-a697c7bd7425",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2767976&AucID=7180&Lot=22001&Val=a8f40a8556cc92237de14a2120c78f5a",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61633, Lot 22001 \u2014 Ancients\nAnastasius I (AD 491-518). AV solidus (17mm, 3.00 gm, 7h). NGC Choice XF 5/5 - 2/5, clipped. Constantinople, 10th officina, ca. AD 491-498. D N ANASTA-SIVS PP AVG, pearl-diademed, helmeted, a",
+      "description": "Ancients\nAnastasius I (AD 491-518). AV solidus (17mm, 3.00 gm, 7h). NGC Choice XF 5/5 - 2/5, clipped. Constantinople, 10th officina, ca. AD 491-498. D N ANASTA-SIVS PP AVG, pearl-diademed, helmeted, and cuirassed bust of Anastasius I facing, head slightly right, with spear in right hand over shoulder, shield decorated with horseman motif in left / VICTORI-A AVGGG I, Victory standing facing, head left, with grounded jeweled cross in right hand; star in right field, CONOB in exergue. Sear 3.\n\nFr...",
+      "hammer_price_usd": 800.0,
+      "currency_original": "USD",
+      "price_original": 800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-05",
+      "image_url": "https://media.coinarchives.com/198964936df88ae8907b81fcca02f914/img/heritage/61633/image22001.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": "Clipped",
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-5d20c779798d",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2767979&AucID=7180&Lot=22004&Val=c30629353d3a2f4215233ad2d7e62816",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61633, Lot 22004 \u2014 Ancients\nJustin I (AD 518-527). AV solidus (20mm, 4.51 gm, 7h). NGC MS 4/5 - 4/5. Constantinople, 3rd officina. D N IVSTI-NVS PP AVG, pearl-diademed, helmeted, cuirassed bust of Justin I facing, head ",
+      "description": "Ancients\nJustin I (AD 518-527). AV solidus (20mm, 4.51 gm, 7h). NGC MS 4/5 - 4/5. Constantinople, 3rd officina. D N IVSTI-NVS PP AVG, pearl-diademed, helmeted, cuirassed bust of Justin I facing, head slightly right, spear in right hand over shoulder, shield decorated with horseman motif in left / VICTORI-A AVGGG \u0393, Angel standing facing, with grounded jeweled cross in right hand, globus cruciger in outstretched left; star in right field, CONOB in exergue. Sear 56.\n\nEx Heritage Auctions, Auctio...",
+      "hammer_price_usd": 1500.0,
+      "currency_original": "USD",
+      "price_original": 1500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-05",
+      "image_url": "https://media.coinarchives.com/7ab87bff0b9c2ba864b1546b9b28b806/img/heritage/61633/image22004.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

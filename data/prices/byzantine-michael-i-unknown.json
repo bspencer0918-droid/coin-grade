@@ -8,8 +8,8 @@
   "ruler_rarity": "scarce",
   "denomination": "Unknown",
   "metal": "gold",
-  "sale_count": 327,
-  "realized_count": 327,
+  "sale_count": 328,
+  "realized_count": 328,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,15 +17,15 @@
     "max": 1320.0
   },
   "median_price_usd": 156.0,
-  "last_sale_date": "2026-05-09",
+  "last_sale_date": "2026-07-05",
   "grade_distribution": {
     "MS": 25,
+    "XF": 156,
     "AU": 68,
-    "XF": 155,
     "VF": 77,
     "F": 2
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=1-7-9-2-2-17922558&w=120&h=300&it=product",
+  "thumbnail_url": "https://media.coinarchives.com/6d80bd2dc1536320bb72e94f65c2433e/img/heritage/61633/image22134.jpg",
   "median_weight_g": null,
   "top_strike_score": null,
   "top_surface_score": null,
@@ -62,6 +62,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-82511a6ed1c2",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2768109&AucID=7180&Lot=22134&Val=c1a917366ea7f72a7c957a39429665bb",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61633, Lot 22134 \u2014 Ancients\nAndronicus II Palaeologus and Michael IX (AD 1295-1320). AV/EL hyperpyron (22mm, 3.21 gm, 5h). NGC XF 2/5 - 3/5, brushed. Constantinople, ca. AD 1294-1320. Half-length figure of the Virgin Ma",
+      "description": "Ancients\nAndronicus II Palaeologus and Michael IX (AD 1295-1320). AV/EL hyperpyron (22mm, 3.21 gm, 5h). NGC XF 2/5 - 3/5, brushed. Constantinople, ca. AD 1294-1320. Half-length figure of the Virgin Mary, orans, within circuit of city walls with six towers / A/N/\u0394/N-I/K/M/X/AI/\u039b, Christ, nimbate, wearing pallium and colobium, standing facing, crowning Andronicus II (on left) and Michael IX (on right) kneeling to either side, each wearing divitision and loros; IC-XC flanking Christ's head. Sear ...",
+      "hammer_price_usd": 460.0,
+      "currency_original": "USD",
+      "price_original": 460.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-05",
+      "image_url": "https://media.coinarchives.com/6d80bd2dc1536320bb72e94f65c2433e/img/heritage/61633/image22134.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 2,
+        "strike_score": 2,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

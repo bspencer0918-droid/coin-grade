@@ -8,21 +8,21 @@
   "ruler_rarity": "common",
   "denomination": "Unknown",
   "metal": "billon",
-  "sale_count": 8,
-  "realized_count": 8,
+  "sale_count": 9,
+  "realized_count": 9,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 149.0,
     "max": 312.69
   },
-  "median_price_usd": 204.0,
-  "last_sale_date": "2026-03-28",
+  "median_price_usd": 192.0,
+  "last_sale_date": "2026-07-05",
   "grade_distribution": {
     "XF": 3,
-    "VF": 5
+    "VF": 6
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=1-9-3-2-3-19323199&w=120&h=300&it=product",
+  "thumbnail_url": "https://media.coinarchives.com/f23d2e86a090b0f637e8dfeae8baf145/img/heritage/61633/image22075.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 5,
@@ -59,6 +59,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-f94a126434ef",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2768050&AucID=7180&Lot=22075&Val=bfc4525a7b9008b327bea83ae09261bd",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61633, Lot 22075 \u2014 Ancients\nConstans II Pogonatus (AD 641-668). AR hexagram (21mm, 6.67 gm, 7h). NGC VF 3/5 - 4/5. Constantinople. d N CONStAN-tIN\u0427S PP AV, of Constans II facing, with short beard and mustache, wearing c",
+      "description": "Ancients\nConstans II Pogonatus (AD 641-668). AR hexagram (21mm, 6.67 gm, 7h). NGC VF 3/5 - 4/5. Constantinople. d N CONStAN-tIN\u0427S PP AV, of Constans II facing, with short beard and mustache, wearing chlamys and crown surmounted by cross, globus cruciger in right hand / d\u0404\u0427S AdI\u0427TA ROmANIS, cross potent on globe set on three steps. Sear 991.  www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.ha.com/itm/ancients/byzantine/constans-ii-pogonatus-ad-641-668-ar-hexagram-21mm-667-gm-7h-ngc-vf-3-...",
+      "hammer_price_usd": 165.0,
+      "currency_original": "USD",
+      "price_original": 165.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-05",
+      "image_url": "https://media.coinarchives.com/f23d2e86a090b0f637e8dfeae8baf145/img/heritage/61633/image22075.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 3,
+        "strike_score": 3,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

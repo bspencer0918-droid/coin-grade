@@ -8,18 +8,18 @@
   "ruler_rarity": null,
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 67,
-  "realized_count": 67,
+  "sale_count": 68,
+  "realized_count": 68,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 432.0,
     "max": 8400.0
   },
-  "median_price_usd": 1020.0,
-  "last_sale_date": "2026-04-29",
+  "median_price_usd": 1050.0,
+  "last_sale_date": "2026-07-05",
   "grade_distribution": {
-    "AU": 32,
+    "AU": 33,
     "MS": 15,
     "XF": 10,
     "VF": 10
@@ -47,6 +47,39 @@
       "buyers_premium_included": false,
       "sale_date": "2026-04-29",
       "image_url": "https://media.coinarchives.com/b60ecc64485cdc271ff05ea7ab293369/img/heritage/3132/image32139.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-3b3c71247b4c",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2768078&AucID=7180&Lot=22103&Val=1fa5bb66d13b4a8374591b945349b4f2",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61633, Lot 22103 \u2014 Ancients\nBasil I the Macedonian and Constantine (AD 868-879). AV solidus (20mm, 4.42 gm, 6h). NGC AU 5/5 - 4/5. Constantinople, AD 870-871. +IhS XPS R\u0404X-R\u0404GNANtI\u0427M (star), full-length figure of Christ",
+      "description": "Ancients\nBasil I the Macedonian and Constantine (AD 868-879). AV solidus (20mm, 4.42 gm, 6h). NGC AU 5/5 - 4/5. Constantinople, AD 870-871. +IhS XPS R\u0404X-R\u0404GNANtI\u0427M (star), full-length figure of Christ enthroned facing, wearing nimbus cruciger, pallium, and colobium, right hand raised in benediction, book of Gospels cradled in left arm / bASILIOS \u0404T COhStAht' A\u0427\u03da\u03da b', facing busts of Basil I (on left), with short beard, wearing loros and crown surmounted by cross, and Constantine (on right), be...",
+      "hammer_price_usd": 2000.0,
+      "currency_original": "USD",
+      "price_original": 2000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-05",
+      "image_url": "https://media.coinarchives.com/3c5b1ae6e0855e395d075be185594d56/img/heritage/61633/image22103.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
