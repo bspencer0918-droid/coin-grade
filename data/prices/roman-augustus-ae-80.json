@@ -4,24 +4,24 @@
   "ruler": "Augustus",
   "ruler_normalized": "augustus",
   "dynasty": "Julio-Claudian",
-  "ruler_dates": "27 BC \u00e2\u20ac\u201c AD 14",
+  "ruler_dates": "27 BC \u2013 AD 14",
   "ruler_rarity": null,
   "denomination": "AE 80",
   "metal": "bronze",
-  "sale_count": 1,
-  "realized_count": 1,
+  "sale_count": 2,
+  "realized_count": 2,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 159.0,
+    "min": 140.0,
     "max": 159.0
   },
-  "median_price_usd": 159.0,
-  "last_sale_date": "2025-03-24",
+  "median_price_usd": 149.5,
+  "last_sale_date": "2026-04-06",
   "grade_distribution": {
-    "F": 1
+    "F": 2
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-1-9-2-7-31927892&w=120&h=300&it=product",
+  "thumbnail_url": "https://media.coinarchives.com/f92f09892c0b77fef530a17c078d7533/img/heritage/61611/image21237.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 3,
@@ -31,6 +31,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-411b3c33db08",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2730635&AucID=7035&Lot=21237&Val=c72093e3d8ce5535451f56f27f04086c",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61611, Lot 21237 \u2014 Ancients\nEGYPT. Alexandria. Augustus (27 BC-AD 14). AE 80-drachmae (26mm, 17.70 gm, 11h). NGC Choice Fine 4/5 - 3/5. \u0398\u0395\u039f\u03a5-\u03a5\u0399\u039f\u03a5, bare head of Augustus right / KAI\u03a3APO\u03a3-AYTOKPATOPO\u03a3, eagle standing left",
+      "description": "Ancients\nEGYPT. Alexandria. Augustus (27 BC-AD 14). AE 80-drachmae (26mm, 17.70 gm, 11h). NGC Choice Fine 4/5 - 3/5. \u0398\u0395\u039f\u03a5-\u03a5\u0399\u039f\u03a5, bare head of Augustus right / KAI\u03a3APO\u03a3-AYTOKPATOPO\u03a3, eagle standing left with closed wings; cornucopia in left field, \u03a0 (mark of value) in right field. RPC I 5001. Emmett 1.\n\nBorn on 23 September 63 BC into a wealthy plebeian family, Augustus, originally Gaius Octavius, was the grandnephew and posthumously adopted son of Julius Caesar. This inheritance set him on a co...",
+      "hammer_price_usd": 140.0,
+      "currency_original": "USD",
+      "price_original": 140.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-06",
+      "image_url": "https://media.coinarchives.com/f92f09892c0b77fef530a17c078d7533/img/heritage/61611/image21237.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-330c7d31e4cc",
       "source": "heritage",

@@ -21,11 +21,11 @@
   "grade_distribution": {
     "VF": 6,
     "XF": 4,
-    "AU": 4,
     "G": 3,
+    "AU": 4,
     "MS": 2
   },
-  "thumbnail_url": "https://media.coinarchives.com/9699468a3a3cc444ce953153056d8577/img/heritage/61626/image23029.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/dbe4c3d147e10525fd06d6dd18e09716/img/goldberg/150/image00459.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 5,
@@ -95,6 +95,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-da7f039fc7b5",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2710241&AucID=6990&Lot=459&Val=9fb6345a1bbcb7648067ce9e1ed22f6a",
+      "title": "Ira & Larry Goldberg Coins & Collectibles - Auction 150, Lot 459 \u2014 Macedonian Kingdom. Antigonos Gonatas, 277-239 BC. Silver Tetradrachm (16.89g), 31 mm. Macedonian shield emblazoned with head of Pan l. Reverse: Athena Alkidemos advancing l. brandishing thunderbold a",
+      "description": "Macedonian Kingdom. Antigonos Gonatas, 277-239 BC. Silver Tetradrachm (16.89g), 31 mm. Macedonian shield emblazoned with head of Pan l. Reverse: Athena Alkidemos advancing l. brandishing thunderbold and shield. HGC Vol. 3, 1042; SNG Cop. 1199-1202. NGC graded Fine; Strike: 5/5, Surface: 2/5 bent.  Pleasing antique cabinet toning on both sides.  Estimated Value $300 - UP\nEx Peter Preovolos Collection....",
+      "hammer_price_usd": 350.0,
+      "currency_original": "USD",
+      "price_original": 350.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-02-23",
+      "image_url": "https://media.coinarchives.com/dbe4c3d147e10525fd06d6dd18e09716/img/goldberg/150/image00459.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -187,39 +220,6 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-da7f039fc7b5",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2710241&AucID=6990&Lot=459&Val=9fb6345a1bbcb7648067ce9e1ed22f6a",
-      "title": "Ira & Larry Goldberg Coins & Collectibles - Auction 150, Lot 459 \u2014 Macedonian Kingdom. Antigonos Gonatas, 277-239 BC. Silver Tetradrachm (16.89g), 31 mm. Macedonian shield emblazoned with head of Pan l. Reverse: Athena Alkidemos advancing l. brandishing thunderbold a",
-      "description": "Macedonian Kingdom. Antigonos Gonatas, 277-239 BC. Silver Tetradrachm (16.89g), 31 mm. Macedonian shield emblazoned with head of Pan l. Reverse: Athena Alkidemos advancing l. brandishing thunderbold and shield. HGC Vol. 3, 1042; SNG Cop. 1199-1202. NGC graded Fine; Strike: 5/5, Surface: 2/5 bent.  Pleasing antique cabinet toning on both sides.  Estimated Value $300 - UP\nEx Peter Preovolos Collection....",
-      "hammer_price_usd": 350.0,
-      "currency_original": "USD",
-      "price_original": 350.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-02-23",
-      "image_url": "https://media.coinarchives.com/dbe4c3d147e10525fd06d6dd18e09716/img/goldberg/150/image00459.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "G",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 2,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

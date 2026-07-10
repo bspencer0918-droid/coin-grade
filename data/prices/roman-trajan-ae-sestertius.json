@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AE Sestertius",
   "metal": "bronze",
-  "sale_count": 124,
-  "realized_count": 124,
+  "sale_count": 125,
+  "realized_count": 125,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -19,14 +19,14 @@
   "median_price_usd": 384.0,
   "last_sale_date": "2026-04-13",
   "grade_distribution": {
-    "AU": 22,
+    "AU": 23,
     "XF": 33,
     "VF": 48,
     "F": 15,
     "VG": 5,
     "G": 1
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-7-8-1-1-27811241&w=120&h=300&it=product",
+  "thumbnail_url": "https://media.coinarchives.com/6c3e281bd18947b70e4b7071d5873f35/img/heritage/61605/image23073.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 2,
@@ -228,6 +228,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-a7649aa7ac23",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2722387&AucID=7012&Lot=23073&Val=ce87d91b79fc81a4d84116e71760834d",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61605, Lot 23073 \u2014 Ancients\nTrajan (AD 98-117). AE sestertius (32mm, 25.68 gm, 7h). NGC AU 5/5 - 2/5. Rome, AD 114-117. IMP CAES NER TRAIANO OPTIMO AVG GER DAC P M TR P COS VI P P, laureate, draped bust of Trajan right,",
+      "description": "Ancients\nTrajan (AD 98-117). AE sestertius (32mm, 25.68 gm, 7h). NGC AU 5/5 - 2/5. Rome, AD 114-117. IMP CAES NER TRAIANO OPTIMO AVG GER DAC P M TR P COS VI P P, laureate, draped bust of Trajan right, seen from behind / SENATVS POPVLVSQVE ROMANVS, Fortuna seated left, feet on stool, grounded rudder in outstretched right hand, cornucopia cradled in left arm; FORT RED / S C in exergue. RIC II 652.\n\nMarcus Ulpius Trajanus, better known as Trajan, carved his name in history as one of ancient Rome'...",
+      "hammer_price_usd": 2600.0,
+      "currency_original": "USD",
+      "price_original": 2600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-15",
+      "image_url": "https://media.coinarchives.com/6c3e281bd18947b70e4b7071d5873f35/img/heritage/61605/image23073.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

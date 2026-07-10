@@ -8,31 +8,64 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 12,
-  "realized_count": 12,
+  "sale_count": 13,
+  "realized_count": 13,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 480.0,
+    "min": 90.0,
     "max": 3600.0
   },
   "median_price_usd": 1320.0,
-  "last_sale_date": "2022-11-04",
+  "last_sale_date": "2026-04-06",
   "grade_distribution": {
+    "VF": 2,
     "MS": 9,
-    "AU": 2,
-    "VF": 1
+    "AU": 2
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-6-7-2-5-26725375&w=120&h=300&it=product",
+  "thumbnail_url": "https://media.coinarchives.com/d49d55ae57f08ed89dcfedcbd030c5a4/img/heritage/61611/image21253.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 4,
+  "top_surface_score": 3,
   "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-d13a4367d9fe",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2730651&AucID=7035&Lot=21253&Val=2c45d339796de845016743f0b80f4b9e",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61611, Lot 21253 \u2014 Ancients\nEGYPT. Alexandria. Julia Mamaea (AD 222-235). BI tetradrachm (22mm, 11.88 gm, 11h). NGC Choice VF 5/5 - 3/5. Dated Regnal Year 13 (AD 233/234). \u0399\u039f\u03a5 \u039c\u0391\u039c\u0391\u0399\u0391 \u03f9\u0395\u0392 \u039c\u0397\u03a4\u0395 \u03f9\u0395\u0392 \u039a \u03f9\u03a4, draped bust of Ju",
+      "description": "Ancients\nEGYPT. Alexandria. Julia Mamaea (AD 222-235). BI tetradrachm (22mm, 11.88 gm, 11h). NGC Choice VF 5/5 - 3/5. Dated Regnal Year 13 (AD 233/234). \u0399\u039f\u03a5 \u039c\u0391\u039c\u0391\u0399\u0391 \u03f9\u0395\u0392 \u039c\u0397\u03a4\u0395 \u03f9\u0395\u0392 \u039a \u03f9\u03a4, draped bust of Julia Mamaea right, seen from front, wearing stephane, hair braided in rows and tuck at base of head in small chignon / Draped bust of Isis right, wearing headdress of solar disk and horns; L \u0399\u0393 (date) behind, palm before. RPC VI Online Temporary 10631.\n\nJulia Mamaea was the last remaining matriarch...",
+      "hammer_price_usd": 90.0,
+      "currency_original": "USD",
+      "price_original": 90.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-06",
+      "image_url": "https://media.coinarchives.com/d49d55ae57f08ed89dcfedcbd030c5a4/img/heritage/61611/image21253.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-cfd071f0a739",
       "source": "heritage",

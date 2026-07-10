@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 664,
-  "realized_count": 664,
+  "sale_count": 665,
+  "realized_count": 665,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -21,12 +21,12 @@
   "grade_distribution": {
     "AU": 163,
     "XF": 206,
-    "VF": 199,
+    "VF": 200,
     "F": 76,
     "VG": 3,
     "MS": 17
   },
-  "thumbnail_url": "https://media.coinarchives.com/6853bb764bf4e6dca88e8aea2cd008c8/img/heritage/61626/image23116.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/55a68b49df94d2a39c1ac2d58895cf92/img/heritage/61605/image23046.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 4,
@@ -129,6 +129,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-786f4e8c61fa",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2722360&AucID=7012&Lot=23046&Val=fff9bde0a1836646d7b252d18f082809",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61605, Lot 23046 \u2014 Ancients\nTiberius (AD 14-37). AR denarius (18mm, 3.59 gm, 4h). NGC Choice VF 4/5 - 2/5. Lugdunum, ca. AD 15-16. TI CAESAR DIVI-AVG F AVGVSTVS, laureate head of Tiberius right / TR POT-XVII, Tiberius d",
+      "description": "Ancients\nTiberius (AD 14-37). AR denarius (18mm, 3.59 gm, 4h). NGC Choice VF 4/5 - 2/5. Lugdunum, ca. AD 15-16. TI CAESAR DIVI-AVG F AVGVSTVS, laureate head of Tiberius right / TR POT-XVII, Tiberius driving triumphal quadriga right, branch in right hand, eagle tipped scepter and reins in left; IMP VII in exergue. RIC I 4.\n\nBorn on 23 September 63 BC into a wealthy plebeian family, Augustus, originally Gaius Octavius, was the grandnephew and posthumously adopted son of Julius Caesar. This inher...",
+      "hammer_price_usd": 600.0,
+      "currency_original": "USD",
+      "price_original": 600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-15",
+      "image_url": "https://media.coinarchives.com/55a68b49df94d2a39c1ac2d58895cf92/img/heritage/61605/image23046.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

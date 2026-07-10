@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "unknown",
-  "sale_count": 345,
-  "realized_count": 345,
+  "sale_count": 346,
+  "realized_count": 346,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -20,13 +20,13 @@
   "last_sale_date": "2026-06-07",
   "grade_distribution": {
     "AU": 50,
+    "F": 62,
     "MS": 125,
     "XF": 44,
-    "F": 61,
     "VF": 52,
     "VG": 13
   },
-  "thumbnail_url": "https://media.coinarchives.com/df36c155fd4ca5d46923f748077eb551/img/heritage/61605/image23197.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/a5317d5f7c91ebd6f18beae3d6e2443d/img/heritage/61605/image23059.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -63,6 +63,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-3c9a387e0dff",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2722373&AucID=7012&Lot=23059&Val=10b05df806953101ac10b75deca68788",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61605, Lot 23059 \u2014 Ancients\nVespasian (AD 69-79). AE as (22mm, 6.34 gm, 7h). NGC Fine 5/5 - 3/5. Mint of Rome for Syria(?), AD 74. IMP CAESAR VESP AVG, laureate head of Vespasian left / Large S C within laurel wreath. R",
+      "description": "Ancients\nVespasian (AD 69-79). AE as (22mm, 6.34 gm, 7h). NGC Fine 5/5 - 3/5. Mint of Rome for Syria(?), AD 74. IMP CAESAR VESP AVG, laureate head of Vespasian left / Large S C within laurel wreath. RIC II.1 1565.\n\nDescended from a family of small-time entrepreneurs and tax farmers in the Sabine hill country north of Rome, Flavius Vespasianus was born in AD 9 and rose to prominence in the Roman Army. He gained distinction during Claudius' invasion of Britain in AD 43-44 and won a Consulship in...",
+      "hammer_price_usd": 60.0,
+      "currency_original": "USD",
+      "price_original": 60.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-15",
+      "image_url": "https://media.coinarchives.com/a5317d5f7c91ebd6f18beae3d6e2443d/img/heritage/61605/image23059.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

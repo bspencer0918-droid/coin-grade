@@ -17,15 +17,15 @@
     "max": 50400.0
   },
   "median_price_usd": 1680.0,
-  "last_sale_date": "2026-07-09",
+  "last_sale_date": "2026-07-10",
   "grade_distribution": {
     "G": 2,
-    "VF": 10,
     "AU": 38,
+    "VF": 10,
     "XF": 14,
     "MS": 6
   },
-  "thumbnail_url": "https://media.coinarchives.com/ce317d1607049d039b1b3de39ae7d022/img/goldberg/150/image00430.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/6c1593022626ab2de2b894228ae2edff/img/heritage/61628/image25001.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 4,
@@ -46,7 +46,7 @@
       "currency_original": "USD",
       "price_original": 975.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-07-09",
+      "sale_date": "2026-07-10",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc102921a.jpg",
       "ngc": {
         "verified": false,
@@ -58,6 +58,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/843240819/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-f6de8e5800b3",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2761498&AucID=7149&Lot=25001&Val=e6cf43db11e3a032afbcd19eafc36472",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61628, Lot 25001 \u2014 Ancients\nAnonymous (ca. 225-214/2 BC). AR didrachm or quadrigatus (20mm, 6.61 gm, 7h). NGC AU 4/5 - 4/5.  Uncertain mint. Laureate janiform heads of the Dioscuri, dotted border / Jupiter, hurling thun",
+      "description": "Ancients\nAnonymous (ca. 225-214/2 BC). AR didrachm or quadrigatus (20mm, 6.61 gm, 7h). NGC AU 4/5 - 4/5.  Uncertain mint. Laureate janiform heads of the Dioscuri, dotted border / Jupiter, hurling thunderbolt with right hand, transverse scepter surmounted by lotus in left, in fast quadriga right driven by Victory; ROMA in relief in linear frame, all within linear border. Crawford 28/3.\n\nEx Heritage Auctions, Auction 3072 (16 January 2019), lot 35394; E.E. Clain-Stefanelli collection (Numismatic...",
+      "hammer_price_usd": 1950.0,
+      "currency_original": "USD",
+      "price_original": 1950.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-14",
+      "image_url": "https://media.coinarchives.com/6c1593022626ab2de2b894228ae2edff/img/heritage/61628/image25001.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
         "grading_service": "ngc"
       },
       "metadata": {
@@ -120,39 +153,6 @@
         "grade": "VF",
         "grade_numeric": null,
         "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-f6de8e5800b3",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2761498&AucID=7149&Lot=25001&Val=e6cf43db11e3a032afbcd19eafc36472",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61628, Lot 25001 \u2014 Ancients\nAnonymous (ca. 225-214/2 BC). AR didrachm or quadrigatus (20mm, 6.61 gm, 7h). NGC AU 4/5 - 4/5.  Uncertain mint. Laureate janiform heads of the Dioscuri, dotted border / Jupiter, hurling thun",
-      "description": "Ancients\nAnonymous (ca. 225-214/2 BC). AR didrachm or quadrigatus (20mm, 6.61 gm, 7h). NGC AU 4/5 - 4/5.  Uncertain mint. Laureate janiform heads of the Dioscuri, dotted border / Jupiter, hurling thunderbolt with right hand, transverse scepter surmounted by lotus in left, in fast quadriga right driven by Victory; ROMA in relief in linear frame, all within linear border. Crawford 28/3.\n\nEx Heritage Auctions, Auction 3072 (16 January 2019), lot 35394; E.E. Clain-Stefanelli collection (Numismatic...",
-      "hammer_price_usd": 1950.0,
-      "currency_original": "USD",
-      "price_original": 1950.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-06-14",
-      "image_url": "https://media.coinarchives.com/6c1593022626ab2de2b894228ae2edff/img/heritage/61628/image25001.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 4,
-        "strike_score": 4,
         "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
