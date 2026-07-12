@@ -17,58 +17,25 @@
     "max": 114000.0
   },
   "median_price_usd": 16800.0,
-  "last_sale_date": "2026-07-11",
+  "last_sale_date": "2026-07-12",
   "grade_distribution": {
-    "AU": 31,
     "VF": 14,
     "F": 2,
     "XF": 17,
+    "AU": 31,
     "MS": 4,
     "VG": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/deb0bb24549eec546afa0d4a90bc984d/img/heritage/61626/image23074.jpg",
   "median_weight_g": null,
-  "top_strike_score": 5,
+  "top_strike_score": 4,
   "top_surface_score": 5,
-  "top_grade_numeric": 5,
+  "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-4803b27aaee2",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13522/ancients-greek/11945124/ptolemaic-egypt-ptolemy-iii-euergetes",
-      "title": "PTOLEMAIC EGYPT. Ptolemy III Euergetes (246-222 BC). AV mnaieion or octodrachm (27mm, 27.80 gm, 12h). NGC Choice AU 5/5 - 5/5, Fine Style. Posthumous issue, Alexandria, under Ptolemy IV, ca. 219-217 BC. Bust of deified Ptolemy III right, wearing radiate diadem and aegis, ornate trident over left shoulder, the central tine ornamented with lotus finial; dotted border / \u03a0TO\u039bEMAIOY-BA\u03a3I\u039bE\u03a9\u03a3, cornucopia bound with radiate royal diadem, containing grain ear, pyramidal cake, and pomegranate, grape cluster hanging from left side of rim; \u0394I below, dotted border. CPE I 888 (same obverse die). Svoronos 1117. A lifelike Fine Style portrait.  Ex Jonathan K. Kern Collection.  No other kingdom or empire in the ancient world at the time could produce such large gold coins, and this display of economic clout drew thousands of mercenary soldiers into Egypt's service. This large and powerful army was put to maximum use by the third king of the Ptolemaic dynasty, Ptolemy III Euergetes. Shortly after inheriting the throne of the Pharaohs, he launched a massive invasion of the neighboring Seleucid Kingdom of Syria. Easily crushing all resistance, he even reached Babylon, where he proclaimed himself King of Kings. Ptolemy III's powerful portrait appears on gold mnaieions struck by his son, Ptolemy IV Philopator, who succeeded him in 221 BC.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
-      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction - New York #3129']",
-      "hammer_price_usd": 24000.0,
-      "currency_original": "USD",
-      "price_original": 24000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-12",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "fine_style": true,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "sixbid-5080587a0f96",
       "source": "sixbid",
@@ -113,7 +80,7 @@
       "currency_original": "USD",
       "price_original": 18500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-07-11",
+      "sale_date": "2026-07-12",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc107707a.jpg",
       "ngc": {
         "verified": false,
@@ -195,6 +162,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-4803b27aaee2",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13522/ancients-greek/11945124/ptolemaic-egypt-ptolemy-iii-euergetes",
+      "title": "PTOLEMAIC EGYPT. Ptolemy III Euergetes (246-222 BC). AV mnaieion or octodrachm (27mm, 27.80 gm, 12h). NGC Choice AU 5/5 - 5/5, Fine Style. Posthumous issue, Alexandria, under Ptolemy IV, ca. 219-217 BC. Bust of deified Ptolemy III right, wearing radiate diadem and aegis, ornate trident over left shoulder, the central tine ornamented with lotus finial; dotted border / \u03a0TO\u039bEMAIOY-BA\u03a3I\u039bE\u03a9\u03a3, cornucopia bound with radiate royal diadem, containing grain ear, pyramidal cake, and pomegranate, grape cluster hanging from left side of rim; \u0394I below, dotted border. CPE I 888 (same obverse die). Svoronos 1117. A lifelike Fine Style portrait.  Ex Jonathan K. Kern Collection.  No other kingdom or empire in the ancient world at the time could produce such large gold coins, and this display of economic clout drew thousands of mercenary soldiers into Egypt's service. This large and powerful army was put to maximum use by the third king of the Ptolemaic dynasty, Ptolemy III Euergetes. Shortly after inheriting the throne of the Pharaohs, he launched a massive invasion of the neighboring Seleucid Kingdom of Syria. Easily crushing all resistance, he even reached Babylon, where he proclaimed himself King of Kings. Ptolemy III's powerful portrait appears on gold mnaieions struck by his son, Ptolemy IV Philopator, who succeeded him in 221 BC.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction - New York #3129']",
+      "hammer_price_usd": 24000.0,
+      "currency_original": "USD",
+      "price_original": 24000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-12",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
