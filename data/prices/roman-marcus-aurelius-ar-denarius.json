@@ -19,10 +19,10 @@
   "median_price_usd": 336.0,
   "last_sale_date": "2026-06-07",
   "grade_distribution": {
-    "XF": 244,
-    "AU": 105,
     "G": 8,
     "VF": 136,
+    "XF": 244,
+    "AU": 105,
     "MS": 42,
     "F": 5
   },
@@ -36,72 +36,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-4d90d7c40555",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/istra/13429/ancient-coins/11860800/roman-coins-marcus-aurelius-denarius",
-      "title": "Roman Coins, Marcus Aurelius, Denarius, n.d., Rome, Ag. 3,37 g, NGC Ch XF* <br> https://youtu.be/jx5QY_uolgA",
-      "description": "Istra numizmatika d.o.o. | ['Auction 10']",
-      "hammer_price_usd": 522.76,
-      "currency_original": "USD",
-      "price_original": 522.765,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-16",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-982fa3154f0f",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/istra/13429/ancient-coins/11860801/roman-coins-marcus-aurelius-denarius",
-      "title": "Roman Coins, Marcus Aurelius, Denarius, n.d., Rome, Issue as Caesar. Ag. 3,08 g, Cohen 721, NGC Ch AU <br> https://youtu.be/pBZOMiQaR34",
-      "description": "Istra numizmatika d.o.o. | ['Auction 10']",
-      "hammer_price_usd": 348.51,
-      "currency_original": "USD",
-      "price_original": 348.51,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-16",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "sixbid-423720120f33",
       "source": "sixbid",
@@ -657,6 +591,72 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-4d90d7c40555",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/istra/13429/ancient-coins/11860800/roman-coins-marcus-aurelius-denarius",
+      "title": "Roman Coins, Marcus Aurelius, Denarius, n.d., Rome, Ag. 3,37 g, NGC Ch XF* <br> https://youtu.be/jx5QY_uolgA",
+      "description": "Istra numizmatika d.o.o. | ['Auction 10']",
+      "hammer_price_usd": 522.76,
+      "currency_original": "USD",
+      "price_original": 522.765,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-982fa3154f0f",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/istra/13429/ancient-coins/11860801/roman-coins-marcus-aurelius-denarius",
+      "title": "Roman Coins, Marcus Aurelius, Denarius, n.d., Rome, Issue as Caesar. Ag. 3,08 g, Cohen 721, NGC Ch AU <br> https://youtu.be/pBZOMiQaR34",
+      "description": "Istra numizmatika d.o.o. | ['Auction 10']",
+      "hammer_price_usd": 348.51,
+      "currency_original": "USD",
+      "price_original": 348.51,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

@@ -19,8 +19,8 @@
   "median_price_usd": 4200.0,
   "last_sale_date": "2026-06-14",
   "grade_distribution": {
-    "VF": 13,
     "AU": 7,
+    "VF": 13,
     "XF": 6,
     "F": 4,
     "VG": 2,
@@ -36,39 +36,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-e9cc3fd5a6a7",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13531/marc-antony-amp-octavian/11952936/marc-antony-with-divus-julius",
-      "title": "MARC ANTONY with DIVUS JULIUS CAESAR. AR Denarius (3.94 gms), Military Mint traveling with Antony in Cisalpine Gaul, 43 B.C. NGC VF, Strike: 5/5 Surface: 2/5. Banker's Mark, Scratch. <br> Cr-488/1; CRI-118; Syd-1165. Obverse: Bare head of Antony right; lituus to left; Reverse: Laureate head of Caesar right; capis to left. Though fairly well circulated and with some noted issues, this example no doubt offers great historical importance, as it features portraits of two of the most famous men in Roman history. <br> From the Connecticut Collection. <br> <strong>To view all items from the Connecticut Collection, click <a href=\"https://auctions.stacksbowers.com/lots?sort=auction_date_lot_number_asc&search=From+the+Connecticut+Collection.&limit=96&lots_range=upcoming\" rel=\"noopener noreferrer nofollow\"> here.</a></strong>",
-      "description": "Stack\u2019s Bowers and Ponterio | ['January 2026 NYINC Showcase Auction']",
-      "hammer_price_usd": 1300.0,
-      "currency_original": "USD",
-      "price_original": 1300.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-16",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-3e8ac599a66a",
       "source": "coinarchives",
@@ -96,6 +63,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-e9cc3fd5a6a7",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13531/marc-antony-amp-octavian/11952936/marc-antony-with-divus-julius",
+      "title": "MARC ANTONY with DIVUS JULIUS CAESAR. AR Denarius (3.94 gms), Military Mint traveling with Antony in Cisalpine Gaul, 43 B.C. NGC VF, Strike: 5/5 Surface: 2/5. Banker's Mark, Scratch. <br> Cr-488/1; CRI-118; Syd-1165. Obverse: Bare head of Antony right; lituus to left; Reverse: Laureate head of Caesar right; capis to left. Though fairly well circulated and with some noted issues, this example no doubt offers great historical importance, as it features portraits of two of the most famous men in Roman history. <br> From the Connecticut Collection. <br> <strong>To view all items from the Connecticut Collection, click <a href=\"https://auctions.stacksbowers.com/lots?sort=auction_date_lot_number_asc&search=From+the+Connecticut+Collection.&limit=96&lots_range=upcoming\" rel=\"noopener noreferrer nofollow\"> here.</a></strong>",
+      "description": "Stack\u2019s Bowers and Ponterio | ['January 2026 NYINC Showcase Auction']",
+      "hammer_price_usd": 1300.0,
+      "currency_original": "USD",
+      "price_original": 1300.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

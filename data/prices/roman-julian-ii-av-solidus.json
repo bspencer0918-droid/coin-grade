@@ -8,18 +8,18 @@
   "ruler_rarity": "scarce",
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 25,
-  "realized_count": 25,
+  "sale_count": 27,
+  "realized_count": 27,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 1170.0,
     "max": 48000.0
   },
-  "median_price_usd": 7800.0,
+  "median_price_usd": 7320.0,
   "last_sale_date": "2026-06-17",
   "grade_distribution": {
-    "AU": 10,
+    "AU": 12,
     "MS": 8,
     "XF": 1,
     "VF": 2,
@@ -35,6 +35,72 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-d2b758130fe0",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13742/ancients-roman-imperial/12167557/julian-ii-as-augustus-ad",
+      "title": "Julian II, as Augustus (AD 360-363). AV solidus (21mm, 4.39 gm, 11h). NGC Choice AU 5/5 - 2/5, brushed, light marks, slight bend. Antioch, 9th officina, AD 361-363. FL CL IVLIA-NVS P F AVG, pearl-diademed, draped, and cuirassed bust of Julian II right, with long beard, seen from front / VIRTVS EXERCI-TVS ROMANORVM, soldier advancing right, helmeted head reverted, in military attire, cloak billowing behind, trophy over shoulder in left, dragging crouching captive with right hand; ANT\u0398 in exergue. RIC VIII 201 (mint not recorded).    HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction #3132']",
+      "hammer_price_usd": 5612.0,
+      "currency_original": "USD",
+      "price_original": 5612.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-5946a272ce01",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13861/ancients-roman-imperial/12289742/julian-ii-as-augustus-ad",
+      "title": "Julian II, as Augustus (AD 360-363). AV solidus (21mm, 4.47 gm, 12h). NGC Choice AU 5/5 - 4/5. Antioch, 6th officina, AD 361-363. FL CL IVLIA-NVS P F AVG, pearl-diademed, draped, and cuirassed bust of Julian II right, with short beard, seen from front / VIRTVS EXERCI-TVS ROMANORVM, soldier advancing right, helmeted head reverted, in military attire, left foot stepping right, trophy in left hand over left shoulder, dragging kneeling captive with right hand; ANTS in exergue. RIC VIII 196.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Hong Kong Auction #3134']",
+      "hammer_price_usd": 5250.0,
+      "currency_original": "USD",
+      "price_original": 5250.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-17",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-018099164009",
       "source": "coinarchives",

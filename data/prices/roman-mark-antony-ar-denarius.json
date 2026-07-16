@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 525,
-  "realized_count": 525,
+  "sale_count": 526,
+  "realized_count": 526,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -21,7 +21,7 @@
   "grade_distribution": {
     "F": 108,
     "VF": 199,
-    "XF": 99,
+    "XF": 100,
     "MS": 7,
     "AU": 60,
     "VG": 39,
@@ -193,6 +193,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/2717726/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-09244d3455b7",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13850/ancients-roman-republic/12278856/marc-antony-and-octavian-as",
+      "title": "Marc Antony and Octavian, as Imperators and Triumvirs (43-33 BC). AR denarius (21mm, 3.73 gm, 12h). NGC XF 4/5 - 5/5. Ephesus, 41 BC. M\u2022ANT\u2022IMP AVG III VIR\u2022R\u2022P\u2022C\u2022M BARBAT\u2022Q\u2022P (MP and AV ligate), bare head of Marc Antony right / CAESAR\u2022IMP\u2022PONT\u2022III\u2022VIR\u2022R\u2022P\u2022C\u2022, bare head of Octavian right with tousled hair and long sideburn. Crawford 517/2. Sydenham 1811. Antonia 51, Barbatia 2, and Julia 96. Lavender and cornflower toning.   From The LaLonde Family Collection. Ex the Jamestown Collection (Heritage Auctions, Auction 3064, 20 April 2018), lot 30241.  Following the murder of Julius Caesar, power fell into the hands of Marc Antony, Caesar's loyal lieutenant and commander of cavalry. Antony's position was soon challenged from an unexpected direction when Caesar's 18-year-old grand-nephew, Gaius Octavius, arrived in Rome to claim his legacy as Caesar's heir. The youth proved unnaturally canny at securing the loyalty of Caesar's followers and undermining Antony's authority. By 43 BC, Octavian had actually induced the Senate to declare Antony a public enemy, but quickly reversed himself and struck a deal with Antony by which they would share supreme power with a third broker, Lepidus, with the ultimate aim of hunting down Caesar's assassins. This task accomplished, Lepidus soon faded into the background, leaving Octavian and Antony to rule the Roman world jointly for the better part of a decade until their inevitable falling out. This issue, struck in mid-41 BC in the eastern half of the Empire ruled by Antony, puts the political situation in stark terms, with Antony and Octavian, still sporting youthful long sideburns, on opposite sides. While Antony occupies the dominant obverse, Octavian calls himself by the magical name Caesar, which would soon become a title for all Roman emperors.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61628']",
+      "hammer_price_usd": 6000.0,
+      "currency_original": "USD",
+      "price_original": 6000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-14",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
         "grading_service": "ngc"
       },
       "metadata": {

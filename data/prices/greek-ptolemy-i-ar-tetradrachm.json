@@ -20,16 +20,16 @@
   "last_sale_date": "2026-06-07",
   "grade_distribution": {
     "XF": 28,
-    "AU": 27,
     "VF": 14,
+    "AU": 27,
     "MS": 13,
     "VG": 2
   },
   "thumbnail_url": "https://media.coinarchives.com/0fd0f252e9262b215f47be4d1a81fa31/img/heritage/61626/image23075.jpg",
   "median_weight_g": null,
-  "top_strike_score": 4,
-  "top_surface_score": 4,
-  "top_grade_numeric": null,
+  "top_strike_score": 5,
+  "top_surface_score": 1,
+  "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
@@ -102,39 +102,6 @@
       }
     },
     {
-      "id": "sixbid-69a9b02b4fc1",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13531/demetrius-i-soter-162-150-b-c/11952869/syria-seleukid-kingdom-demetrios-i",
-      "title": "SYRIA. Seleukid Kingdom. Demetrios I Soter, 162-150 B.C. AR Tetradrachm (16.67 gms), Antioch on the Orontes Mint, ca. 162-155/4 B.C. NGC Ch AU, Strike: 4/5 Surface: 4/5. Fine Style. Edge Chip, Die Shift, Brushed. <br> HGC-9, 795f; SC-1638.1g. Obverse: Diademed head right within laurel wreath border; Reverse: Tyche, holding scepter and cornucopia, seated left on backless throne with winged tritoness support; monogram to outer left. Struck on a very broad flan and in stunning high relief. Mottled charcoal tone with faint cleaning marks evident under magnification. An impressive example of the type. <br> From the Peter Jones M.D. Collection (Greek Coin Art pg. 227; #2516). <p></p><p> <br> <strong>To view all items from the Peter Jones M.D. Collection, click <a href=\"https://auctions.stacksbowers.com/lots?sort=auction_date_lot_number_asc&search=From+the+Peter+Jones+M.D.+Collection.&limit=96&lots_range=upcoming\" rel=\"noopener noreferrer nofollow\"> here.</a></strong></p>",
-      "description": "Stack\u2019s Bowers and Ponterio | ['January 2026 NYINC Showcase Auction']",
-      "hammer_price_usd": 1300.0,
-      "currency_original": "USD",
-      "price_original": 1300.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-16",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": true,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-db99bd353d51",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -156,6 +123,39 @@
         "surface_score": null,
         "details_grade": null,
         "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-69a9b02b4fc1",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13531/demetrius-i-soter-162-150-b-c/11952869/syria-seleukid-kingdom-demetrios-i",
+      "title": "SYRIA. Seleukid Kingdom. Demetrios I Soter, 162-150 B.C. AR Tetradrachm (16.67 gms), Antioch on the Orontes Mint, ca. 162-155/4 B.C. NGC Ch AU, Strike: 4/5 Surface: 4/5. Fine Style. Edge Chip, Die Shift, Brushed. <br> HGC-9, 795f; SC-1638.1g. Obverse: Diademed head right within laurel wreath border; Reverse: Tyche, holding scepter and cornucopia, seated left on backless throne with winged tritoness support; monogram to outer left. Struck on a very broad flan and in stunning high relief. Mottled charcoal tone with faint cleaning marks evident under magnification. An impressive example of the type. <br> From the Peter Jones M.D. Collection (Greek Coin Art pg. 227; #2516). <p></p><p> <br> <strong>To view all items from the Peter Jones M.D. Collection, click <a href=\"https://auctions.stacksbowers.com/lots?sort=auction_date_lot_number_asc&search=From+the+Peter+Jones+M.D.+Collection.&limit=96&lots_range=upcoming\" rel=\"noopener noreferrer nofollow\"> here.</a></strong></p>",
+      "description": "Stack\u2019s Bowers and Ponterio | ['January 2026 NYINC Showcase Auction']",
+      "hammer_price_usd": 1300.0,
+      "currency_original": "USD",
+      "price_original": 1300.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": true,
         "certification_url": null,
         "grading_service": "ngc"
       },
