@@ -36,6 +36,39 @@
   "mint_mark": null,
   "sales": [
     {
+      "id": "coinarchives-018099164009",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2761495&AucID=7146&Lot=36033&Val=33cda39b891c38ac1e70f2617a763823",
+      "title": "Heritage World Coin Auctions - Hong Kong Signature Sale 3134, Lot 36033 \u2014 Ancients\nJulian II, as Augustus (AD 360-363). AV solidus (21mm, 4.47 gm, 12h). NGC Choice AU 5/5 - 4/5. Antioch, 6th officina, AD 361-363. FL CL IVLIA-NVS P F AVG, pearl-diademed, draped, and cuirasse",
+      "description": "Ancients\nJulian II, as Augustus (AD 360-363). AV solidus (21mm, 4.47 gm, 12h). NGC Choice AU 5/5 - 4/5. Antioch, 6th officina, AD 361-363. FL CL IVLIA-NVS P F AVG, pearl-diademed, draped, and cuirassed bust of Julian II right, with short beard, seen from front / VIRTVS EXERCI-TVS ROMANORVM, soldier advancing right, helmeted head reverted, in military attire, left foot stepping right, trophy in left hand over left shoulder, dragging kneeling captive with right hand; ANTS in exergue. RIC VIII 19...",
+      "hammer_price_usd": 5250.0,
+      "currency_original": "USD",
+      "price_original": 5250.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-17",
+      "image_url": "https://media.coinarchives.com/a6802dc4b29e74be33684fdbd733a1c0/img/heritage/3134/image36033.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "sixbid-d2b758130fe0",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -95,39 +128,6 @@
       },
       "metadata": {
         "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-018099164009",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2761495&AucID=7146&Lot=36033&Val=33cda39b891c38ac1e70f2617a763823",
-      "title": "Heritage World Coin Auctions - Hong Kong Signature Sale 3134, Lot 36033 \u2014 Ancients\nJulian II, as Augustus (AD 360-363). AV solidus (21mm, 4.47 gm, 12h). NGC Choice AU 5/5 - 4/5. Antioch, 6th officina, AD 361-363. FL CL IVLIA-NVS P F AVG, pearl-diademed, draped, and cuirasse",
-      "description": "Ancients\nJulian II, as Augustus (AD 360-363). AV solidus (21mm, 4.47 gm, 12h). NGC Choice AU 5/5 - 4/5. Antioch, 6th officina, AD 361-363. FL CL IVLIA-NVS P F AVG, pearl-diademed, draped, and cuirassed bust of Julian II right, with short beard, seen from front / VIRTVS EXERCI-TVS ROMANORVM, soldier advancing right, helmeted head reverted, in military attire, left foot stepping right, trophy in left hand over left shoulder, dragging kneeling captive with right hand; ANTS in exergue. RIC VIII 19...",
-      "hammer_price_usd": 5250.0,
-      "currency_original": "USD",
-      "price_original": 5250.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-06-17",
-      "image_url": "https://media.coinarchives.com/a6802dc4b29e74be33684fdbd733a1c0/img/heritage/3134/image36033.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

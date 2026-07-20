@@ -17,7 +17,7 @@
     "max": 312000.0
   },
   "median_price_usd": 900.0,
-  "last_sale_date": "2026-07-19",
+  "last_sale_date": "2026-07-20",
   "grade_distribution": {
     "VF": 335,
     "XF": 220,
@@ -49,7 +49,7 @@
       "currency_original": "USD",
       "price_original": 6000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-07-19",
+      "sale_date": "2026-07-20",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -82,7 +82,7 @@
       "currency_original": "USD",
       "price_original": 550.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-07-19",
+      "sale_date": "2026-07-20",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -115,7 +115,7 @@
       "currency_original": "USD",
       "price_original": 13000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-07-19",
+      "sale_date": "2026-07-20",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -148,7 +148,7 @@
       "currency_original": "USD",
       "price_original": 14000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-07-19",
+      "sale_date": "2026-07-20",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -181,7 +181,7 @@
       "currency_original": "USD",
       "price_original": 1600.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-07-19",
+      "sale_date": "2026-07-20",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -214,7 +214,7 @@
       "currency_original": "USD",
       "price_original": 1500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-07-19",
+      "sale_date": "2026-07-20",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1425,39 +1425,6 @@
       }
     },
     {
-      "id": "sixbid-da9fa11d0aac",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13634/ancients-roman-imperial/12049158/postumus-romano-gallic-empire-ad-260-269",
-      "title": "Postumus, Romano-Gallic Empire (AD 260-269). BI antoninianus (21mm, 3.30 gm, 6h). NGC Choice AU 5/5 - 4/5. Cologne. IMP C POSTVMVS P F AVG, radiate, draped, cuirassed bust of Postumus right, seen from the front / SERAPI-C-OMITI AVG, Serapis, standing facing, polos on head left, right hand raised, transverse scepter in left hand. RIC V.II 329 var. (no vessel). Note: this type should have a vessel behind Serapis, which may be faintly present on this specimen, however it is too uncertain to decidedly say.    HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
-      "description": "Heritage Auctions, Inc. | ['Auction #61605']",
-      "hammer_price_usd": 310.0,
-      "currency_original": "USD",
-      "price_original": 310.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-15",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "sixbid-1283be567648",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -2177,6 +2144,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-da9fa11d0aac",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13634/ancients-roman-imperial/12049158/postumus-romano-gallic-empire-ad-260-269",
+      "title": "Postumus, Romano-Gallic Empire (AD 260-269). BI antoninianus (21mm, 3.30 gm, 6h). NGC Choice AU 5/5 - 4/5. Cologne. IMP C POSTVMVS P F AVG, radiate, draped, cuirassed bust of Postumus right, seen from the front / SERAPI-C-OMITI AVG, Serapis, standing facing, polos on head left, right hand raised, transverse scepter in left hand. RIC V.II 329 var. (no vessel). Note: this type should have a vessel behind Serapis, which may be faintly present on this specimen, however it is too uncertain to decidedly say.    HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61605']",
+      "hammer_price_usd": 310.0,
+      "currency_original": "USD",
+      "price_original": 310.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-15",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
