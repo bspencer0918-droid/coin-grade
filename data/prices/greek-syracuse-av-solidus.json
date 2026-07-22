@@ -8,30 +8,63 @@
   "ruler_rarity": null,
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 3,
-  "realized_count": 3,
+  "sale_count": 4,
+  "realized_count": 4,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 850.0,
-    "max": 1800.0
+    "max": 1814.72
   },
-  "median_price_usd": 940.32,
-  "last_sale_date": "2026-01-16",
+  "median_price_usd": 1370.16,
+  "last_sale_date": "2026-07-21",
   "grade_distribution": {
-    "AU": 2,
+    "AU": 3,
     "XF": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/a64e71189c388e0063c77ebb5a1a6fae/img/ponterio/236/image40292.jpg",
   "median_weight_g": null,
-  "top_strike_score": 5,
-  "top_surface_score": 3,
-  "top_grade_numeric": 5,
+  "top_strike_score": null,
+  "top_surface_score": null,
+  "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-0f15328d717d",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/patrick-guillard-collection/13939/byzantines-byzantine-coins/12355130/byzantines-byzantine-coins",
+      "title": "BYZANTINES - BYZANTINE COINS <br> MICHEL II l'Amorien (820-829)<br>Solidus (Syracuse) : Buste de Michel de face - R/: Buste de Th\u00e9ophile de face, le globe crucig\u00e8re accost\u00e9 de 2 globules<br>  - SUP 58 (SUP)<br>Rare surtout en l'\u00e9tat ! - NGC AU<br><br><br>SB 1644, R 18100v<br>SYRACUSE - OR - 3,84g<br> ----------------------------------------<br>MICHAEL II the Amorian (820-829)<br>Solidus (Syracuse): Bust of Michael facing - R/: Bust of Theophilus facing, the globus-cruciger flanked by 2 pellets<br>  - AU 58<br>Rare among all in such grade!<br>NGC AU<br><br>SB 1644, R 18100v<br>SYRACUSE - GOLD - 3,84g",
+      "description": "Patrick Guillard Collection | ['E-Auction 19']",
+      "hammer_price_usd": 1814.72,
+      "currency_original": "USD",
+      "price_original": 1814.72,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-21",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-847611830a29",
       "source": "sixbid",

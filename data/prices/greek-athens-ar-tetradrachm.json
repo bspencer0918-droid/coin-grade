@@ -8,21 +8,21 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 19,
-  "realized_count": 19,
+  "sale_count": 20,
+  "realized_count": 20,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 110.0,
     "max": 9250.0
   },
-  "median_price_usd": 1920.0,
-  "last_sale_date": "2026-06-07",
+  "median_price_usd": 1935.0,
+  "last_sale_date": "2026-07-21",
   "grade_distribution": {
+    "AU": 5,
     "VF": 6,
     "XF": 4,
     "G": 3,
-    "AU": 4,
     "MS": 2
   },
   "thumbnail_url": "https://media.coinarchives.com/dbe4c3d147e10525fd06d6dd18e09716/img/goldberg/150/image00459.jpg",
@@ -35,6 +35,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-520bf11b4b28",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/patrick-guillard-collection/13939/grecques-ancient-greek/12355100/grecques-ancient-greek",
+      "title": "GRECQUES - ANCIENT GREEK  <br> ROIS ET DYNASTIES DE THRACE<br>Lysimaque (297-281) : T\u00e9tradrachme \u00e0 la t\u00eate d'Alexandre le grand, cornue \u00e0 droite - R/: Ath\u00e9na assise \u00e0 gauche sur un bouclier, tenant une Victoire (caduc\u00e9e)<br>  - SUP 50 (SUP-)<br>Rare ! - NGC AU, l\u00e9g\u00e8rement tr\u00e9fl\u00e9<br><br><br>PO 1171v, Copenhagen 1114, SG 6815, Mueller 106, Thomson 193<br> - ARGENT - 17,19g<br> ----------------------------------------<br>KINGS AND DYNASTIES OF THRACE<br>Lysimachus (297-281): Tetradrachm with head of Alexander right - R/: Athena seated left on shield, holding Victory<br>  - AU 50<br>Rare! - NGC AU, light die shift<br><br><br>PO 1171v, Copenhagen 1114, SG 6815, Mueller 106, Thomson 193<br> - SILVER - 17,19g",
+      "description": "Patrick Guillard Collection | ['E-Auction 19']",
+      "hammer_price_usd": 2722.08,
+      "currency_original": "USD",
+      "price_original": 2722.08,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-21",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-dcbe8b6a4bf7",
       "source": "sixbid",

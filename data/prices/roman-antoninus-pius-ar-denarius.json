@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 522,
-  "realized_count": 522,
+  "sale_count": 523,
+  "realized_count": 523,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,11 +17,11 @@
     "max": 3840.0
   },
   "median_price_usd": 186.0,
-  "last_sale_date": "2026-05-30",
+  "last_sale_date": "2026-07-20",
   "grade_distribution": {
     "XF": 204,
+    "G": 10,
     "AU": 134,
-    "G": 9,
     "MS": 46,
     "VF": 117,
     "F": 12
@@ -56,6 +56,39 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-61bf6027fce6",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stephen-album-rare-coins/13955/ancient-roman-amp-byzantine/12365854/roman-empire-antoninus-pius-138-161",
+      "title": "ROMAN EMPIRE: Antoninus Pius, 138-161 AD, AR denarius, Rome, 139 AD, RIC-30, bare head right, IMP T AEL CAES HADR ANTONINVS // knife, aspergillum, jug, lituus, simpulum (emblems of priesthood), AVG PIVS P M TR P COS II, NGC graded Fine.",
+      "description": "Stephen Album Rare Coins | ['Internet Auction 38']",
+      "hammer_price_usd": 75.0,
+      "currency_original": "USD",
+      "price_original": 75.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-20",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

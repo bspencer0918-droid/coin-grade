@@ -8,23 +8,23 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "gold",
-  "sale_count": 360,
-  "realized_count": 359,
+  "sale_count": 361,
+  "realized_count": 360,
   "fixed_price_count": 1,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 54.0,
+    "min": 1.0,
     "max": 10000.0
   },
   "median_price_usd": 144.0,
-  "last_sale_date": "2026-07-21",
+  "last_sale_date": "2026-07-22",
   "grade_distribution": {
     "F": 11,
     "VF": 84,
-    "G": 3,
     "MS": 49,
-    "AU": 120,
-    "XF": 92
+    "XF": 93,
+    "G": 3,
+    "AU": 120
   },
   "thumbnail_url": "https://media.coinarchives.com/4d957edbf32baaa4b0542720c945b4d3/img/album/054/image00077.jpg",
   "median_weight_g": null,
@@ -90,72 +90,6 @@
         "strike_score": 5,
         "surface_score": 2,
         "details_grade": "Scratche",
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-947e799473ed",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13525/ancients-greek/11945708/macedon-under-rome-first-meris",
-      "title": "MACEDON UNDER ROME. First Meris. Ca. 167-148 BC. AR tetradrachm (30mm, 17.00 gm, 8h). NGC Choice VF 5/5 - 4/5. Ca. 158-150 BC. Diademed, draped bust of Artemis right, bow and capped quiver over shoulder; all within circle of dots in tondo of Macedonian shield / MAKE\u0394ON\u03a9N / \u03a0P\u03a9TH\u03a3, horizontal club; AP monogram above, all within oak wreath, thunderbolt in outer left field. SNG Copenhagen 1310-1311. HGC 3.1, 1103.  From The Peh Family Collection, Part IV. Ex Heritage Auctions, Auction 397 (9 January 2006), lot 12007.  In the 2nd century BC, Rome's involvement in the Hellenistic world led to the conquest of Macedon. The defeat of King Philip V in 197 BC during the Second Macedonian War resulted in financial penalties and territorial loss for Macedon. In 168 BC, following the Roman victory at the Battle of Pydna, Macedon was officially incorporated as the Roman province of Macedonia, ending its independence. Roman rule brought significant administrative changes, including the appointment of proconsuls as governors and the introduction of Roman legal systems, taxation, language, and infrastructure, reshaping Macedon's governance and aligning it with Roman norms.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
-      "description": "Heritage Auctions, Inc. | ['Signature Auction #3130']",
-      "hammer_price_usd": 1450.0,
-      "currency_original": "USD",
-      "price_original": 1450.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-22",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-41eab5a9ebc6",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/stephen-album-rare-coins/13559/ancient-roman-amp-byzantine/11985225/roman-provincial-syria-antioch-augustus",
-      "title": "ROMAN PROVINCIAL, SYRIA: Antioch, Augustus, 27 BC-14 AD, AR tetradrachm (14.96g), year 27 (5/4 BC), McAlee-181, Prieur-51, RPC-4152, laureate head right, KAI\u03a3APO\u03a3 \u03a3E-BA\u03a3TOV // Tyche seated right on rock, holding palm frond, river god Orontes swimming right below, ZK (Actian Era) above, consular monogram and date IB (12) above civic monogram, ETOV\u03a3 NIKH\u03a3 beautiful light luster, Strike 5/5, Surface 3/5, NGC graded XF, ex Gorny & Mosch Auction 176, Lot 1747 (2009), ex CNG e-Auction 321, Lot 410.",
-      "description": "Stephen Album Rare Coins | ['Auction 54']",
-      "hammer_price_usd": 780.0,
-      "currency_original": "USD",
-      "price_original": 780.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-22",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "G",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
         "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
@@ -235,6 +169,39 @@
       }
     },
     {
+      "id": "sixbid-ec2f00c65b7d",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13926/ancients-roman-provincial/12348585/egypt-alexandria-balbinus-ad-238",
+      "title": "EGYPT. Alexandria. Balbinus (AD 238). BI tetradrachm (23mm, 11.85 gm, 12h). NGC XF 5/5 - 2/5. Dated Regnal Year 1 (AD 238). A K \u0394EK KAI\u039b BA\u039bBINOC CEB, laureate, draped, and cuirassed bust of Balbinus right, seen from front / L-A (date), eagle standing left, head reverted, wreath in beak. RPC VII.2 3672. Emmett 3373.  From the Eyeappealing Collection. Ex Morris Collection (Heritage Auctions, Auction 271920, 26 May 2019), lot 40073.  Balbinus, a figure cloaked in the shadowy annals of Roman history, briefly ascended to power in the tumultuous year 238 AD during a period known as the Year of the Six Emperors. A respected senator and seasoned politician, his reign lasted a mere 99 days, but it was marked by intrigue and political maneuvering. Appointed co-emperor alongside Pupienus, Balbinus faced the daunting task of quelling both internal strife and external threats. By minting coins with Genius Senatus, Balbinus sought to legitimize his rule as aligned with, and sanctioned by, the Senate. Associating himself with the Senate signaled that he represented the established and recognized authority in the empire.  Ultimately, Balbinus was unsuccessful in winning over the populace; his administration failed to enact meaningful reforms or stabilize the economy, leaving the Roman people disillusioned with his leadership. Eventually, the populace's unrest led to a mob storming the palace. In the ensuing violence, both Balbinus and Pupienus were brutally murdered, bringing a swift and brutal conclusion to their brief co-emperorship.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61644']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-20",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "hjb-058de01ac44f",
       "source": "hjb",
       "listing_type": "fixed_price",
@@ -245,7 +212,7 @@
       "currency_original": "USD",
       "price_original": 1250.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-07-21",
+      "sale_date": "2026-07-22",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc102201a.jpg",
       "ngc": {
         "verified": false,
@@ -261,6 +228,72 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-947e799473ed",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13525/ancients-greek/11945708/macedon-under-rome-first-meris",
+      "title": "MACEDON UNDER ROME. First Meris. Ca. 167-148 BC. AR tetradrachm (30mm, 17.00 gm, 8h). NGC Choice VF 5/5 - 4/5. Ca. 158-150 BC. Diademed, draped bust of Artemis right, bow and capped quiver over shoulder; all within circle of dots in tondo of Macedonian shield / MAKE\u0394ON\u03a9N / \u03a0P\u03a9TH\u03a3, horizontal club; AP monogram above, all within oak wreath, thunderbolt in outer left field. SNG Copenhagen 1310-1311. HGC 3.1, 1103.  From The Peh Family Collection, Part IV. Ex Heritage Auctions, Auction 397 (9 January 2006), lot 12007.  In the 2nd century BC, Rome's involvement in the Hellenistic world led to the conquest of Macedon. The defeat of King Philip V in 197 BC during the Second Macedonian War resulted in financial penalties and territorial loss for Macedon. In 168 BC, following the Roman victory at the Battle of Pydna, Macedon was officially incorporated as the Roman province of Macedonia, ending its independence. Roman rule brought significant administrative changes, including the appointment of proconsuls as governors and the introduction of Roman legal systems, taxation, language, and infrastructure, reshaping Macedon's governance and aligning it with Roman norms.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature Auction #3130']",
+      "hammer_price_usd": 1450.0,
+      "currency_original": "USD",
+      "price_original": 1450.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-22",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-41eab5a9ebc6",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stephen-album-rare-coins/13559/ancient-roman-amp-byzantine/11985225/roman-provincial-syria-antioch-augustus",
+      "title": "ROMAN PROVINCIAL, SYRIA: Antioch, Augustus, 27 BC-14 AD, AR tetradrachm (14.96g), year 27 (5/4 BC), McAlee-181, Prieur-51, RPC-4152, laureate head right, KAI\u03a3APO\u03a3 \u03a3E-BA\u03a3TOV // Tyche seated right on rock, holding palm frond, river god Orontes swimming right below, ZK (Actian Era) above, consular monogram and date IB (12) above civic monogram, ETOV\u03a3 NIKH\u03a3 beautiful light luster, Strike 5/5, Surface 3/5, NGC graded XF, ex Gorny & Mosch Auction 176, Lot 1747 (2009), ex CNG e-Auction 321, Lot 410.",
+      "description": "Stephen Album Rare Coins | ['Auction 54']",
+      "hammer_price_usd": 780.0,
+      "currency_original": "USD",
+      "price_original": 780.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-22",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AE Sestertius",
   "metal": "bronze",
-  "sale_count": 297,
-  "realized_count": 297,
+  "sale_count": 298,
+  "realized_count": 298,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,10 +17,10 @@
     "max": 10370.0
   },
   "median_price_usd": 384.0,
-  "last_sale_date": "2026-06-14",
+  "last_sale_date": "2026-07-21",
   "grade_distribution": {
     "XF": 53,
-    "AU": 33,
+    "AU": 34,
     "F": 66,
     "VF": 131,
     "VG": 12,
@@ -57,6 +57,39 @@
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-b2089cdde1d6",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/patrick-guillard-collection/13939/romaines-roman/12355119/romaines-roman-postume",
+      "title": "ROMAINES - ROMAN <br> POSTUME (259-268)<br>Double sesterce : Gal\u00e8re avec rameurs allant \u00e0 gauche sur les flots<br>  - SUP 50 (SUP-)<br>Rare !, griffures - NGC AU<br><br><br>SM 11049, CO 177-9, RIC 143<br>COLOGNE - BRONZE - 18,13g<br> ----------------------------------------<br>POSTUMUS (259-268)<br>Double sestertius: Galley with rowers travelling left over waves<br>  - AU 50<br>Rare!, scuffs - NGC AU<br><br><br>SM 11049, CO 177-9, RIC 143<br>COLOGNE - BRONZE - 18,13g",
+      "description": "Patrick Guillard Collection | ['E-Auction 19']",
+      "hammer_price_usd": 850.65,
+      "currency_original": "USD",
+      "price_original": 850.65,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-21",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

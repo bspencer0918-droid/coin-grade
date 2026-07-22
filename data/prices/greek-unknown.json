@@ -8,18 +8,18 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "silver",
-  "sale_count": 190,
-  "realized_count": 190,
+  "sale_count": 191,
+  "realized_count": 191,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 39.0,
+    "min": 1.0,
     "max": 82278.0
   },
-  "median_price_usd": 1781.55,
-  "last_sale_date": "2026-07-21",
+  "median_price_usd": 1763.1,
+  "last_sale_date": "2026-07-22",
   "grade_distribution": {
-    "XF": 49,
+    "XF": 50,
     "VF": 38,
     "F": 12,
     "AU": 51,
@@ -50,7 +50,7 @@
       "currency_original": "USD",
       "price_original": 250.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-07-21",
+      "sale_date": "2026-07-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -83,7 +83,7 @@
       "currency_original": "USD",
       "price_original": 140.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-07-21",
+      "sale_date": "2026-07-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -116,7 +116,7 @@
       "currency_original": "USD",
       "price_original": 140.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-07-21",
+      "sale_date": "2026-07-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -149,7 +149,7 @@
       "currency_original": "USD",
       "price_original": 120.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-07-21",
+      "sale_date": "2026-07-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -182,7 +182,7 @@
       "currency_original": "USD",
       "price_original": 5500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-07-21",
+      "sale_date": "2026-07-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -193,6 +193,39 @@
         "surface_score": 3,
         "details_grade": null,
         "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-7d7539db4c16",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13926/ancients-roman-provincial/12348269/ionia-ephesus-pseudo-autonomous-issue-ca",
+      "title": "IONIA. Ephesus. Pseudo-Autonomous Issue (Ca. 1st century AD). AE tessera (21mm, 11h). NGC XF, light smoothing. Stag kneeling left, head reverted; \u0395-\u03a6 across fields, C\u039a\u03c9\u03a0\u0399 in exergue / \u039a\u0397\u03a1\u0399\u039b\u0399C \u03c9\u0394\u0395 \u03a0\u03a1\u039fC \u03a0\u0391\u039b\u03a5\u03a1\u0399\u039d, bee seen from above. SNG Copenhagen 355.   From the Eyeappealing Collection. Ex Heritage Auctions, Auction 232037 (9 September 2020), lot 62130.  As a Greek colony on the coast of Ionia, Ephesus (founded ca. 10th century BC) was a cultural hub of Ancient Greece. It was particularly important for Artemis, the Greek goddess of the hunt, whose birthplace was considered near Ephesus. Her importance to the city was so great, the Temple of Artemis was built in her honor and would become a place of worship for her cult in Ephesus. The stag was symbolic of Artemis as it was often seen by her side, protecting her on hunts. The bee connects to Artemis particularly in Ephesian context, as it became a civic emblem due to its symbolism of nature and femininity as it related to Artemis.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61644']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-20",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
       },

@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AV Aureus",
   "metal": "gold",
-  "sale_count": 288,
-  "realized_count": 288,
+  "sale_count": 290,
+  "realized_count": 290,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,12 +17,12 @@
     "max": 312000.0
   },
   "median_price_usd": 12000.0,
-  "last_sale_date": "2026-05-13",
+  "last_sale_date": "2026-07-21",
   "grade_distribution": {
-    "XF": 55,
+    "XF": 56,
+    "MS": 58,
     "AU": 101,
     "VF": 50,
-    "MS": 57,
     "F": 18,
     "G": 2,
     "VG": 5
@@ -37,6 +37,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-632327efc6e6",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/patrick-guillard-collection/13939/romaines-roman/12355123/romaines-roman-galere",
+      "title": "ROMAINES - ROMAN <br> GAL\u00c8RE MAXIMIEN, C\u00e9sar  (293-305)<br>Aureus : Jupiter debout \u00e0 gauche, tenant la foudre & un sceptre - \u00e0 ses pieds, un aigle<br>SMNX  - SUP 53 (SUP-)<br>Tr\u00e8s Rare !! - NGC XF<br><br><br>SM 14208, CO 118, RIC 9-10, Cal 4910<br>ANTIOCHE - OR - 5,38g<br> ----------------------------------------<br>GALERIUS as Caesar (293-305)<br>Aureus: Jupiter standing left, holding thunderbolt & sceptre - eagle<br>SMNX  - AU 53<br>Very Rare!! - NGC XF<br><br><br>SM 14208, CO 118, RIC 9-10, Cal 4910<br>ANTIOCHE - GOLD - 5,38g",
+      "description": "Patrick Guillard Collection | ['E-Auction 19']",
+      "hammer_price_usd": 14744.6,
+      "currency_original": "USD",
+      "price_original": 14744.6,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-21",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-d842d91d36e7",
       "source": "sixbid",
@@ -60,6 +93,39 @@
         "details_grade": null,
         "fine_style": true,
         "certification_url": "https://www.ngccoin.com/certlookup/8585316003/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-2c5e18d4d0fd",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/patrick-guillard-collection/13939/romaines-roman/12355121/romaines-roman-tacite",
+      "title": "ROMAINES - ROMAN <br> TACITE (275-276)<br>Aureus : Rome assise \u00e0 gauche sur un bouclier, tenant un globe & une lance<br>S C  - SPL 62 (SUP++)<br>Rarissime !!! - NGC MS lg bross\u00e9<br>Exemplaire du Calico - le brossage est \u00e0 peine visible.<br><br>SM 11755v, CO 115v, RIC 209v, Cal 4097, Fr# 690v)<br>SOFIA - OR - 4,69g<br> ----------------------------------------<br>TACITUS (275-276)<br>Aureus:  Roma seated left on shield, holding Victory on globe & spear<br>S C  - MS 62<br>Extremely Rare!!! - NGC MS brushed<br>Calico plate - brushing barely visible.<br><br>SM 11755v, CO 115v, RIC 209v, Cal 4097, Fr# 690v)<br>SOFIA - GOLD - 4,69g",
+      "description": "Patrick Guillard Collection | ['E-Auction 19']",
+      "hammer_price_usd": 24952.4,
+      "currency_original": "USD",
+      "price_original": 24952.4,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-21",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
         "grading_service": "ngc"
       },
       "metadata": {

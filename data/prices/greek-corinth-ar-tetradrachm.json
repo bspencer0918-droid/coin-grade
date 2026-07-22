@@ -8,17 +8,18 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 6,
-  "realized_count": 6,
+  "sale_count": 7,
+  "realized_count": 7,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 300.0,
+    "min": 1.0,
     "max": 1700.0
   },
-  "median_price_usd": 588.5,
-  "last_sale_date": "2026-02-23",
+  "median_price_usd": 552.0,
+  "last_sale_date": "2026-07-20",
   "grade_distribution": {
+    "XF": 1,
     "VF": 2,
     "AU": 3,
     "MS": 1
@@ -26,13 +27,46 @@
   "thumbnail_url": "https://media.coinarchives.com/96d8cc60ae6e2a8540b0aa80161d0de5/img/heritage/61569/image22039.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
-  "top_surface_score": 3,
+  "top_surface_score": 4,
   "top_grade_numeric": 4,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-cb9e2bc46f55",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13926/ancients-greek/12348203/thrace-mesembria-ca-250-175-bc",
+      "title": "THRACE. Mesembria. Ca. 250-175 BC. AR tetradrachm (31mm, 16.81 gm, 11h). NGC XF 4/5 - 4/5. In the name and types of Alexander III the Great. Head of Heracles right, wearing lion-skin headdress, paws tied before neck / A\u039bE\u039eAN\u0394POY-BA\u03a3I\u039bE\u03a9\u03a3, Zeus seated left on backless throne, right leg drawn back, feet suspended, eagle in right hand, grounded scepter in left; Corinthian helmet right in inner left field, \u0394IO\u03a3K in exergue. Price 1003. Ivory toning.  Ex The Merrill A. Gibson Collection of Ancient Coins.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61644']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-20",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-19d6c079011b",
       "source": "coinarchives",

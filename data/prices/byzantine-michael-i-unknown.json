@@ -8,8 +8,8 @@
   "ruler_rarity": "scarce",
   "denomination": "Unknown",
   "metal": "gold",
-  "sale_count": 330,
-  "realized_count": 330,
+  "sale_count": 331,
+  "realized_count": 331,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,12 +17,12 @@
     "max": 1320.0
   },
   "median_price_usd": 156.0,
-  "last_sale_date": "2026-07-05",
+  "last_sale_date": "2026-07-21",
   "grade_distribution": {
     "MS": 25,
+    "VF": 78,
     "XF": 156,
     "AU": 70,
-    "VF": 77,
     "F": 2
   },
   "thumbnail_url": "https://media.coinarchives.com/6d80bd2dc1536320bb72e94f65c2433e/img/heritage/61633/image22134.jpg",
@@ -53,6 +53,39 @@
         "cert_number": null,
         "grade": "MS",
         "grade_numeric": 64,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-d4e6096de5dc",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/patrick-guillard-collection/13939/byzantines-byzantine-coins/12355133/byzantines-byzantine-coins",
+      "title": "BYZANTINES - BYZANTINE COINS <br> ANDRONIC II & MICHEL IX (1295-1320)<br>Hyperp\u00e8re : La Vierge entour\u00e9e des remparts de la ville - R/: Andronic & Michel agenouill\u00e9s autour du Christ debout<br>  - TTB 35 (TTB)<br>Assez Rare ! - NGC Ch VF, bross\u00e9<br><br><br>SB 2396<br>CONSTANTINOPLE - OR - 4,00g<br> ----------------------------------------<br>ANDRONICUS II & MICHAEL IX (1295-1320)<br>Hyperpyron: The Virgin within city walls - R/: Andronicus & Michael knelling either side of Christ standing<br>  - VF 35<br>Scarce! - NGC Ch VF, brushed<br><br><br>SB 2396<br>CONSTANTINOPLE - GOLD - 4,00g",
+      "description": "Patrick Guillard Collection | ['E-Auction 19']",
+      "hammer_price_usd": 737.23,
+      "currency_original": "USD",
+      "price_original": 737.23,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-21",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,

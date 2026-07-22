@@ -8,8 +8,8 @@
   "ruler_rarity": "scarce",
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 320,
-  "realized_count": 320,
+  "sale_count": 321,
+  "realized_count": 321,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,9 +17,9 @@
     "max": 1320.0
   },
   "median_price_usd": 159.0,
-  "last_sale_date": "2026-07-05",
+  "last_sale_date": "2026-07-21",
   "grade_distribution": {
-    "XF": 61,
+    "XF": 62,
     "MS": 70,
     "AU": 183,
     "VF": 6
@@ -34,6 +34,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-e1369be22dc5",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/patrick-guillard-collection/13939/romaines-roman/12355116/romaines-roman-maximin",
+      "title": "ROMAINES - ROMAN <br> MAXIMIN Ier en l'honneur de PAULINE<br>Denier : Pauline \u00e0 gauche, tenant un sceptre & levant la main, sur le dos d'un paon volant \u00e0 droite<br>  - TTB 45 (TTB++)<br>Tr\u00e8s Rare !! - NGC XF<br><br><br>SM 8400, CO 2, RIC 2<br>ROME - ARGENT - 2,70g<br> ----------------------------------------<br>MAXIMINUS I in honour of PAULINA<br>Denarius: Paulina left holding sceptre & raising hand, on the back of a peacock flying right<br>  - EF 45<br>Very Rare!! - NGC XF<br><br><br>SM 8400, CO 2, RIC 2<br>ROME - SILVER - 2,70g",
+      "description": "Patrick Guillard Collection | ['E-Auction 19']",
+      "hammer_price_usd": 1247.62,
+      "currency_original": "USD",
+      "price_original": 1247.62,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-21",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-2af66b6b30d9",
       "source": "sixbid",

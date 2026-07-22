@@ -20,9 +20,9 @@
   "last_sale_date": "2026-05-14",
   "grade_distribution": {
     "G": 2,
+    "XF": 11,
     "F": 13,
     "VF": 9,
-    "XF": 11,
     "AU": 19,
     "VG": 8,
     "MS": 2
@@ -64,6 +64,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-591d2bcb1b20",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739821&AucID=7076&Lot=32111&Val=e7be925a9c06dadfb00c97b0b2592aeb",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 32111 \u2014 Ancients\nDomitian, as Augustus (AD 81-96). AV aureus (20mm, 7.52 gm, 6h). NGC Choice XF 5/5 - 3/5. Rome, AD 87. IMP CAES DOMIT AVG-GERM P M TR P VI, laureate head of Domitian right / IMP XIIII CO-S XI",
+      "description": "Ancients\nDomitian, as Augustus (AD 81-96). AV aureus (20mm, 7.52 gm, 6h). NGC Choice XF 5/5 - 3/5. Rome, AD 87. IMP CAES DOMIT AVG-GERM P M TR P VI, laureate head of Domitian right / IMP XIIII CO-S XIII CENS P P P, Minerva standing facing, head left, grounded spear in right hand, left hand on hip. Calic\u00f3 883. RIC II.1 510. \n\nEx The Andre Constantine Dimitriadis Collection (Heritage Auctions, Auction 3032, 10 April 2014), lot 23578; Stack's, New York (2-3 December 1997), lot 351. \n\nDomitian, of...",
+      "hammer_price_usd": 11000.0,
+      "currency_original": "USD",
+      "price_original": 11000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/d54ce926590d1710d52c75a947fc0ed5/img/heritage/3132/image32111.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -130,39 +163,6 @@
       },
       "metadata": {
         "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-591d2bcb1b20",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739821&AucID=7076&Lot=32111&Val=e7be925a9c06dadfb00c97b0b2592aeb",
-      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 32111 \u2014 Ancients\nDomitian, as Augustus (AD 81-96). AV aureus (20mm, 7.52 gm, 6h). NGC Choice XF 5/5 - 3/5. Rome, AD 87. IMP CAES DOMIT AVG-GERM P M TR P VI, laureate head of Domitian right / IMP XIIII CO-S XI",
-      "description": "Ancients\nDomitian, as Augustus (AD 81-96). AV aureus (20mm, 7.52 gm, 6h). NGC Choice XF 5/5 - 3/5. Rome, AD 87. IMP CAES DOMIT AVG-GERM P M TR P VI, laureate head of Domitian right / IMP XIIII CO-S XIII CENS P P P, Minerva standing facing, head left, grounded spear in right hand, left hand on hip. Calic\u00f3 883. RIC II.1 510. \n\nEx The Andre Constantine Dimitriadis Collection (Heritage Auctions, Auction 3032, 10 April 2014), lot 23578; Stack's, New York (2-3 December 1997), lot 351. \n\nDomitian, of...",
-      "hammer_price_usd": 11000.0,
-      "currency_original": "USD",
-      "price_original": 11000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-04-29",
-      "image_url": "https://media.coinarchives.com/d54ce926590d1710d52c75a947fc0ed5/img/heritage/3132/image32111.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

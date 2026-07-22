@@ -8,8 +8,8 @@
   "ruler_rarity": "scarce",
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 245,
-  "realized_count": 245,
+  "sale_count": 246,
+  "realized_count": 246,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,8 +17,9 @@
     "max": 5520.0
   },
   "median_price_usd": 192.0,
-  "last_sale_date": "2026-06-14",
+  "last_sale_date": "2026-07-20",
   "grade_distribution": {
+    "G": 1,
     "VF": 31,
     "XF": 94,
     "AU": 109,
@@ -27,14 +28,47 @@
   },
   "thumbnail_url": "https://media.coinarchives.com/e7194b2d4ce9900ec43ad5c9b10889a5/img/heritage/61628/image25082.jpg",
   "median_weight_g": null,
-  "top_strike_score": 5,
-  "top_surface_score": 5,
+  "top_strike_score": null,
+  "top_surface_score": null,
   "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-7d2009250b04",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stephen-album-rare-coins/13955/ancient-roman-amp-byzantine/12365869/roman-empire-geta-as-caesar",
+      "title": "ROMAN EMPIRE: Geta, as caesar, 198-209 AD, AR denarius, Rome, 198-200 AD, RIC-3, bare-headed and draped bust right, L SEPTIMIVS GETA CAES // lituus, knife, jug, simpulum, sprinkler (emblems of priesthood), SEVERI PII AVG FIL, NGC graded XF.",
+      "description": "Stephen Album Rare Coins | ['Internet Auction 38']",
+      "hammer_price_usd": 80.0,
+      "currency_original": "USD",
+      "price_original": 80.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-20",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-52c0daf9acfe",
       "source": "sixbid",
