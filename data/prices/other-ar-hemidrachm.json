@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Hemidrachm",
   "metal": "silver",
-  "sale_count": 115,
-  "realized_count": 115,
+  "sale_count": 116,
+  "realized_count": 116,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,15 +17,15 @@
     "max": 5760.0
   },
   "median_price_usd": 89.0,
-  "last_sale_date": "2026-06-07",
+  "last_sale_date": "2026-07-20",
   "grade_distribution": {
     "AU": 42,
     "XF": 17,
+    "MS": 37,
     "VF": 17,
-    "MS": 36,
     "F": 3
   },
-  "thumbnail_url": "https://media.coinarchives.com/9188facc045e87b46ac1d3b2d003d4b8/img/ponterio/236/image40097.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/e1447c074b479fc68f4b8b009cd1e8b6/img/heritage/61644/image21341.jpg",
   "median_weight_g": null,
   "top_strike_score": null,
   "top_surface_score": null,
@@ -227,6 +227,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-cb2cec909d7a",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2777769&AucID=7219&Lot=21341&Val=4365ad4629508b6e1674926e3072e5d6",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61644, Lot 21341 \u2014 Ancients\nTABARISTAN. Dabwayhid Ispahbads. Khurshid (AD 740-761). AR hemidrachm (24mm, 8h). NGC MS. Tabaristan mint. Sasanian style bust right, wearing mural crown with two wings and star-in-crescent, ",
+      "description": "Ancients\nTABARISTAN. Dabwayhid Ispahbads. Khurshid (AD 740-761). AR hemidrachm (24mm, 8h). NGC MS. Tabaristan mint. Sasanian style bust right, wearing mural crown with two wings and star-in-crescent, ribbons and crescent on shoulders; star flanking crown, star-in-crescents in margin, Pahlavi in outer margin, double border / Fire altar with ribbons flanked by two attendants standing facing; star and crescent above, star-in-crescents and triple stacked pellets alternating in margin, triple borde...",
+      "hammer_price_usd": 160.0,
+      "currency_original": "USD",
+      "price_original": 160.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-20",
+      "image_url": "https://media.coinarchives.com/e1447c074b479fc68f4b8b009cd1e8b6/img/heritage/61644/image21341.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

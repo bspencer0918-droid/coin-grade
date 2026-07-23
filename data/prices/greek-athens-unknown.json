@@ -20,12 +20,12 @@
   "last_sale_date": "2026-05-13",
   "grade_distribution": {
     "F": 2,
-    "VF": 13,
     "AU": 4,
+    "VF": 13,
     "MS": 1,
     "XF": 3
   },
-  "thumbnail_url": "https://media.coinarchives.com/045e6ca90ec2822fa499c67e1a8a53b8/img/heritage/61596/image21014.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/237fd6b1309d5d015edce84b359df5c1/img/heritage/3132/image31004.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 5,
@@ -69,39 +69,6 @@
       }
     },
     {
-      "id": "coinarchives-b42fb48098bd",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2704569&AucID=6962&Lot=21014&Val=5b2fe795e4e3a58502d33e31a15c8839",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61596, Lot 21014 \u2014 Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AV distater (22mm, 17.21 gm, 4h). NGC VF 5/5 - 4/5.  Lifetime-early posthumous issue, Amphipolis, ca. 330-320 BC. Head of Athena righ",
-      "description": "Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AV distater (22mm, 17.21 gm, 4h). NGC VF 5/5 - 4/5.  Lifetime-early posthumous issue, Amphipolis, ca. 330-320 BC. Head of Athena right, hair in three tight corkscrew curls, three more curls behind, two curls over left shoulder, and upswept at temple, wearing pendant earring, beaded necklace, plain necklace, and triple-crested Corinthian helmet pushed back on head, long divergent crest ends, bowl decorated with coiled serpent ri...",
-      "hammer_price_usd": 26000.0,
-      "currency_original": "USD",
-      "price_original": 26000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-02-09",
-      "image_url": "https://media.coinarchives.com/045e6ca90ec2822fa499c67e1a8a53b8/img/heritage/61596/image21014.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-2ee9e7706867",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -123,6 +90,39 @@
         "surface_score": 5,
         "details_grade": null,
         "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-b42fb48098bd",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2704569&AucID=6962&Lot=21014&Val=5b2fe795e4e3a58502d33e31a15c8839",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61596, Lot 21014 \u2014 Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AV distater (22mm, 17.21 gm, 4h). NGC VF 5/5 - 4/5.  Lifetime-early posthumous issue, Amphipolis, ca. 330-320 BC. Head of Athena righ",
+      "description": "Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AV distater (22mm, 17.21 gm, 4h). NGC VF 5/5 - 4/5.  Lifetime-early posthumous issue, Amphipolis, ca. 330-320 BC. Head of Athena right, hair in three tight corkscrew curls, three more curls behind, two curls over left shoulder, and upswept at temple, wearing pendant earring, beaded necklace, plain necklace, and triple-crested Corinthian helmet pushed back on head, long divergent crest ends, bowl decorated with coiled serpent ri...",
+      "hammer_price_usd": 26000.0,
+      "currency_original": "USD",
+      "price_original": 26000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-02-09",
+      "image_url": "https://media.coinarchives.com/045e6ca90ec2822fa499c67e1a8a53b8/img/heritage/61596/image21014.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
       },

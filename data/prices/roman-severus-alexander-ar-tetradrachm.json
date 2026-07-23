@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 23,
-  "realized_count": 23,
+  "sale_count": 24,
+  "realized_count": 24,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,14 +17,14 @@
     "max": 3100.0
   },
   "median_price_usd": 114.0,
-  "last_sale_date": "2026-06-07",
+  "last_sale_date": "2026-07-20",
   "grade_distribution": {
+    "VF": 12,
     "AU": 1,
     "XF": 10,
-    "VF": 11,
     "F": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/b1587373fe473a63551983f336840c67/img/heritage/61626/image23094.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/f64759f7c45092f138cc66b6c3a6d277/img/heritage/61644/image21417.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 5,
@@ -34,6 +34,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-67497c2f423d",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2777845&AucID=7219&Lot=21417&Val=858447d499db5288292a209b4e966189",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61644, Lot 21417 \u2014 Ancients\nEGYPT. Alexandria. Julia Mamaea (AD 222-235). BI tetradrachm (23mm, 12.58 gm, 12h). NGC VF 5/5 - 3/5. Dated Regnal Year 4 of Severus Alexander (AD 224/225). \u0399\u039f\u03a5 \u039c\u0391\u039c\u0395\u0391-C\u0395\u0392 \u039c\u0397\u03a4 C\u03a4\u03a1\u0391, draped bus",
+      "description": "Ancients\nEGYPT. Alexandria. Julia Mamaea (AD 222-235). BI tetradrachm (23mm, 12.58 gm, 12h). NGC VF 5/5 - 3/5. Dated Regnal Year 4 of Severus Alexander (AD 224/225). \u0399\u039f\u03a5 \u039c\u0391\u039c\u0395\u0391-C\u0395\u0392 \u039c\u0397\u03a4 C\u03a4\u03a1\u0391, draped bust of Julia Mamaea right, hair braided in rows and tuck at base of head in small chignon / L \u0394 (date), Athena seated left, Nike right in outstretched right hand, grounded scepter in left hand, shield leaning against throne. RPC VI Online Temporary 10279.\n\nFrom the Eyeappealing Collection. Ex the Dr...",
+      "hammer_price_usd": 140.0,
+      "currency_original": "USD",
+      "price_original": 140.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-20",
+      "image_url": "https://media.coinarchives.com/f64759f7c45092f138cc66b6c3a6d277/img/heritage/61644/image21417.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-d5f114bda855",
       "source": "coinarchives",

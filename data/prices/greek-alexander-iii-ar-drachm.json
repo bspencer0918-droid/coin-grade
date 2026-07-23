@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Drachm",
   "metal": "silver",
-  "sale_count": 328,
-  "realized_count": 328,
+  "sale_count": 330,
+  "realized_count": 330,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,19 +17,19 @@
     "max": 18000.0
   },
   "median_price_usd": 384.0,
-  "last_sale_date": "2026-06-07",
+  "last_sale_date": "2026-07-20",
   "grade_distribution": {
     "XF": 122,
     "AU": 83,
-    "MS": 49,
+    "MS": 50,
     "VF": 71,
-    "G": 2,
+    "G": 3,
     "VG": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/f758464012fbfcca924754f719290f99/img/heritage/61626/image23030.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/e9b7fcdc19d18bfee827c4396b537b82/img/heritage/61644/image21178.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
-  "top_surface_score": 5,
+  "top_surface_score": 3,
   "top_grade_numeric": 4,
   "dominant_service": "ngc",
   "series": null,
@@ -1489,6 +1489,39 @@
       }
     },
     {
+      "id": "coinarchives-a6c9888f6579",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2777606&AucID=7219&Lot=21178&Val=72c700e0d96d005dc8423f18a0ea3b00",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61644, Lot 21178 \u2014 Ancients\nSELEUCID KINGDOM. Coregency of Antiochus I Soter (294-281 BC) with Seleucus I Nicator (312-281 BC). AR drachm (16mm, 4.08 gm, 11h). NGC MS 4/5 - 3/5. Drangiana mint, Ca. 294-281 BC. Head of h",
+      "description": "Ancients\nSELEUCID KINGDOM. Coregency of Antiochus I Soter (294-281 BC) with Seleucus I Nicator (312-281 BC). AR drachm (16mm, 4.08 gm, 11h). NGC MS 4/5 - 3/5. Drangiana mint, Ca. 294-281 BC. Head of hero right, assimilating Seleucus, Alexander and Dionysus, wearing helmet covered with panther skin and adorned with bull's ears and horns, lion skin tied around neck / \u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 / \u0391\u039d\u03a4\u0399\u039f\u03a7\u039f\u03a5, Nike standing right, crowning trophy. SC 226a.\n\nFrom the Eyeappealing Collection. Ex Heritage Auctions, Aucti...",
+      "hammer_price_usd": 675.0,
+      "currency_original": "USD",
+      "price_original": 675.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-20",
+      "image_url": "https://media.coinarchives.com/e9b7fcdc19d18bfee827c4396b537b82/img/heritage/61644/image21178.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-30b721b7bc59",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -1511,6 +1544,39 @@
         "details_grade": null,
         "fine_style": true,
         "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-1efd423a66ed",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2720906&AucID=7003&Lot=24&Val=b2df651821ca54e3a579f1e3203b53d9",
+      "title": "Pesek Auctions - Auction 29, Lot 24 \u2014 Alexander III. 'the Great', AR Drachm 336-323 BC, SardesCategory: Ancient\nCountry/Region: Kingdom of Macedonia\nRuler/Area: Alexander III. 'the Great'\nDenomination: AR Drachm\nYear: 336-323 BC\nMint: Sar",
+      "description": "Alexander III. 'the Great', AR Drachm 336-323 BC, SardesCategory: Ancient\nCountry/Region: Kingdom of Macedonia\nRuler/Area: Alexander III. 'the Great'\nDenomination: AR Drachm\nYear: 336-323 BC\nMint: Sardes\nMaterial: Silver\nReference: Price 2563\nNGC/PCGS: NGC\nGrade: Ch XF\nCertification Number: 8217599-002\nNGC/PCGS Description: Alexander III, 336-323 BC KINGDOM OF MACEDON AR Drachm\nDescription: Struck under Menander, Obv: Head of Herakles facing right, wearing lion skin / Rev: Zeus A\u00ebtophoros se...",
+      "hammer_price_usd": 378.0,
+      "currency_original": "EUR",
+      "price_original": 350.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-02-02",
+      "image_url": "https://media.coinarchives.com/02a9f287532c076dd97910002132ac89/img/pesek/029/image00024.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "8217599-002",
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8217599002/",
         "grading_service": "ngc"
       },
       "metadata": {
