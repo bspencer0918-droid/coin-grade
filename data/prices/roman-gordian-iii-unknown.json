@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 343,
-  "realized_count": 343,
+  "sale_count": 345,
+  "realized_count": 345,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,12 +17,12 @@
     "max": 57600.0
   },
   "median_price_usd": 119.0,
-  "last_sale_date": "2026-06-07",
+  "last_sale_date": "2026-07-23",
   "grade_distribution": {
     "VF": 50,
     "AU": 132,
+    "XF": 69,
     "G": 1,
-    "XF": 67,
     "MS": 79,
     "F": 13,
     "VG": 1
@@ -158,6 +158,72 @@
         "surface_score": 3,
         "details_grade": null,
         "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-c3cd75aa481d",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/coinsnb/13963/ancient-coins/12371903/rome-roman-empire-241",
+      "title": "Rome Roman Empire 241 - 243 AR Antoninianus - Gordian III (LAETITIA AVG N; Laetitia) Silver 4.2g NGC XF  RIC IV.3 86 OCRE ric.4.gor_iii.86",
+      "description": "Coins Numismatic Barcelona | ['E-Auction 62']",
+      "hammer_price_usd": 136.86,
+      "currency_original": "USD",
+      "price_original": 136.86,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-23",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-ea3c6aa640fe",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/coinsnb/13963/ancient-coins/12371902/rome-roman-empire-238",
+      "title": "Rome Roman Empire 238 - 244 AR Antoninianus - Gordian III (IOVI STATORI; Jupiter) Silver Rome Mint NGC XF  RIC IV.3 84 OCRE ric.4.gor_iii.84 RCV II 8615 RSC 109 Hunter 51",
+      "description": "Coins Numismatic Barcelona | ['E-Auction 62']",
+      "hammer_price_usd": 136.86,
+      "currency_original": "USD",
+      "price_original": 136.86,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-23",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
       },

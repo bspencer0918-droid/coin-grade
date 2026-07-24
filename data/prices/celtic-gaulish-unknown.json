@@ -8,21 +8,21 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "gold",
-  "sale_count": 73,
-  "realized_count": 73,
+  "sale_count": 76,
+  "realized_count": 76,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 49.0,
     "max": 21600.0
   },
-  "median_price_usd": 850.0,
-  "last_sale_date": "2026-07-23",
+  "median_price_usd": 825.0,
+  "last_sale_date": "2026-07-24",
   "grade_distribution": {
     "VF": 34,
-    "XF": 31,
+    "XF": 33,
     "F": 1,
-    "AU": 5,
+    "AU": 6,
     "G": 2
   },
   "thumbnail_url": "https://media.coinarchives.com/9f7d0277b3fb8697a2a68f350094fd97/img/mdc/018/image00138.jpg",
@@ -46,7 +46,7 @@
       "currency_original": "USD",
       "price_original": 1200.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-07-23",
+      "sale_date": "2026-07-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -79,7 +79,7 @@
       "currency_original": "USD",
       "price_original": 850.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-07-23",
+      "sale_date": "2026-07-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -112,7 +112,7 @@
       "currency_original": "USD",
       "price_original": 1300.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-07-23",
+      "sale_date": "2026-07-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -145,7 +145,7 @@
       "currency_original": "USD",
       "price_original": 1600.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-07-23",
+      "sale_date": "2026-07-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -178,7 +178,7 @@
       "currency_original": "USD",
       "price_original": 950.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-07-23",
+      "sale_date": "2026-07-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -211,7 +211,7 @@
       "currency_original": "USD",
       "price_original": 900.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-07-23",
+      "sale_date": "2026-07-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -244,7 +244,7 @@
       "currency_original": "USD",
       "price_original": 1000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-07-23",
+      "sale_date": "2026-07-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -277,7 +277,7 @@
       "currency_original": "USD",
       "price_original": 800.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-07-23",
+      "sale_date": "2026-07-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -310,7 +310,7 @@
       "currency_original": "USD",
       "price_original": 900.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-07-23",
+      "sale_date": "2026-07-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -343,7 +343,7 @@
       "currency_original": "USD",
       "price_original": 650.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-07-23",
+      "sale_date": "2026-07-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -385,6 +385,105 @@
         "grade_numeric": null,
         "strike_score": 3,
         "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-596724a9b342",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/coinsnb/13963/ancient-coins/12371924/rome-roman-empire-253",
+      "title": "Rome Roman Empire 253 - 260 BI Antoninianus - Valerianus (ORIENS AVGG; Sol) Billon Lugdunum, Gaul Mint NGC XF  RIC V.1 13a OCRE ric.5.val_i.13a",
+      "description": "Coins Numismatic Barcelona | ['E-Auction 62']",
+      "hammer_price_usd": 136.86,
+      "currency_original": "USD",
+      "price_original": 136.86,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-23",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-97a64fdb82fe",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/coinsnb/13963/ancient-coins/12371930/rome-roman-empire-254",
+      "title": "Rome Roman Empire 254 - 268 AR Antoninianus - Cornelia Salonina (DEAE SEGETIAE) Silver Lugdunum, Gaul Mint NGC CH XF  RIC V.1 5 OCRE ric.5.sala(1).5",
+      "description": "Coins Numismatic Barcelona | ['E-Auction 62']",
+      "hammer_price_usd": 136.86,
+      "currency_original": "USD",
+      "price_original": 136.86,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-23",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-7af299409cc7",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/coinsnb/13963/ancient-coins/12371939/rome-roman-empire-257",
+      "title": "Rome Roman Empire 257 - 258 BI Antoninianus - Cornelia Salonina (FELICITAS PVBLICA; Felicitas) Billon Lugdunum, Gaul Mint NGC AU  RIC V.1 6 OCRE ric.5.sala(1).6",
+      "description": "Coins Numismatic Barcelona | ['E-Auction 62']",
+      "hammer_price_usd": 171.07,
+      "currency_original": "USD",
+      "price_original": 171.075,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-23",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
