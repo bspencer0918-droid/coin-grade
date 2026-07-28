@@ -17,7 +17,7 @@
     "max": 292800.0
   },
   "median_price_usd": 1920.0,
-  "last_sale_date": "2026-07-27",
+  "last_sale_date": "2026-07-28",
   "grade_distribution": {
     "VF": 270,
     "G": 19,
@@ -38,39 +38,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "cng-06d225f9f1e7",
-      "source": "cng",
-      "listing_type": "auction_realized",
-      "lot_url": "https://auctions.cngcoins.com/lots/view/4-C0RCPW",
-      "title": "Electronic Auction 552 Lot: 16. SICILY, Leontini. Circa 450-440 BC. AR Tetradrachm (25mm, 17.27 g, 11h). NGC VF, 4/5, 3/5, light marks.",
-      "description": "Greek, Silver Estimated:\u00a0$  1 000 Sold\u00a0Price:\u00a0$ : 1 300",
-      "hammer_price_usd": 1300.0,
-      "currency_original": "USD",
-      "price_original": 1300.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-07-27",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "sixbid-2177a08a2d59",
       "source": "sixbid",
@@ -511,7 +478,7 @@
       "currency_original": "USD",
       "price_original": 2750.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-07-27",
+      "sale_date": "2026-07-28",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc101757a.jpg",
       "ngc": {
         "verified": false,
@@ -2705,6 +2672,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "cng-06d225f9f1e7",
+      "source": "cng",
+      "listing_type": "auction_realized",
+      "lot_url": "https://auctions.cngcoins.com/lots/view/4-C0RCPW",
+      "title": "Electronic Auction 552 Lot: 16. SICILY, Leontini. Circa 450-440 BC. AR Tetradrachm (25mm, 17.27 g, 11h). NGC VF, 4/5, 3/5, light marks.",
+      "description": "Greek, Silver Estimated:\u00a0$  1 000 Sold\u00a0Price:\u00a0$ : 1 300",
+      "hammer_price_usd": 1300.0,
+      "currency_original": "USD",
+      "price_original": 1300.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-27",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

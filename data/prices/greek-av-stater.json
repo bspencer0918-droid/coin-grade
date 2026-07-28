@@ -19,9 +19,9 @@
   "median_price_usd": 5100.0,
   "last_sale_date": "2026-07-27",
   "grade_distribution": {
+    "VF": 33,
     "AU": 183,
     "MS": 269,
-    "VF": 33,
     "G": 15,
     "XF": 51,
     "F": 2
@@ -29,13 +29,46 @@
   "thumbnail_url": "https://media.coinarchives.com/cfd192f441b620a5cac73f1cbf339f16/img/guillard/018/image00008.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
-  "top_surface_score": 4,
+  "top_surface_score": 2,
   "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-8d4d99692f88",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/tasei-coins-company/13780/ancient-coins/12208662/ancient-coins-ngc-ch-vf",
+      "title": "Ancient Coins. NGC Ch VF Strike\uff1a4/5 Surface\uff1a2/5 edge bends. \u7f8e+. VF+. BC120\uff5e63. Ancient-Greece Kingdom of Pontus Mithradates VI Gold Stater",
+      "description": "Taisei Coins Company | ['Taisei May 2026 Auction']",
+      "hammer_price_usd": 1506.91,
+      "currency_original": "USD",
+      "price_original": 1506.9075,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-30",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "cng-5ac1892b0d2d",
       "source": "cng",
@@ -89,39 +122,6 @@
         "grade_numeric": null,
         "strike_score": 4,
         "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-8d4d99692f88",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/tasei-coins-company/13780/ancient-coins/12208662/ancient-coins-ngc-ch-vf",
-      "title": "Ancient Coins. NGC Ch VF Strike\uff1a4/5 Surface\uff1a2/5 edge bends. \u7f8e+. VF+. BC120\uff5e63. Ancient-Greece Kingdom of Pontus Mithradates VI Gold Stater",
-      "description": "Taisei Coins Company | ['Taisei May 2026 Auction']",
-      "hammer_price_usd": 1506.91,
-      "currency_original": "USD",
-      "price_original": 1506.9075,
-      "buyers_premium_included": false,
-      "sale_date": "2026-05-30",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 2,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

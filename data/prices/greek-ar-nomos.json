@@ -7,7 +7,7 @@
   "ruler_dates": null,
   "ruler_rarity": null,
   "denomination": "AR Nomos",
-  "metal": "silver",
+  "metal": "gold",
   "sale_count": 119,
   "realized_count": 116,
   "fixed_price_count": 0,
@@ -19,10 +19,10 @@
   "median_price_usd": 550.0,
   "last_sale_date": "2026-07-27",
   "grade_distribution": {
+    "AU": 23,
     "VF": 40,
     "XF": 36,
     "F": 11,
-    "AU": 23,
     "VG": 1,
     "MS": 7,
     "G": 1
@@ -31,12 +31,78 @@
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 5,
-  "top_grade_numeric": null,
+  "top_grade_numeric": 4,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-bbb40d430c45",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13696/grece-antique-greek/12114625/grece-antique-greeklucanie-thurium",
+      "title": "GR\u00c8CE ANTIQUE - GREEK<br>Lucanie, Thurium. Didrachme ou nomos au nom du magistrat ARI- ND (280-250 av. J.-C.), Thurium (Thourioi).<br>Av. T\u00eate d\u2019Apollon laur\u00e9 \u00e0 droite. <br>Rv. [\u0398\u039f]\u03a5\u03a1\u0399 - \u03a9\u039d. Taureau chargeant \u00e0 droite, la t\u00eate baiss\u00e9e ; \u00e0 l\u2019exergue, un tr\u00e9pied coupant la l\u00e9gende ; au-dessus (\u00e9pi) et API.<br>HGC 1, 1275 - SNG ANS 1107 (de m\u00eames coins) - SNG Lockett 533 ; Argent - 6,68 g - 19,5 mm - 6 h<br>Provient de la collection Kirk Davis 55, 2009, n\u00b0 9 puis de la vente Baldwin\u2019s, Markov et M&M, The New York Sale XXV, 5 janvier 2011, n\u00b0 5.<br>NGC Ch AU 4/5 5/5 flan flaw (8585319-025). <br>Un minime d\u00e9faut de m\u00e9tal sur la joue. Cet exemplaire n\u2019a que tr\u00e8s peu circul\u00e9 avec une d\u00e9licate patine ancienne. Superbe.<br> <br> NGC Ch AU 4/5 5/5 flan flaw",
+      "description": "MDC Monaco | ['Auction 18']",
+      "hammer_price_usd": 2093.04,
+      "currency_original": "USD",
+      "price_original": 2093.04,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8585319-025",
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8585319025/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-54d28f16f540",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13696/grece-antique-greek/12114618/grece-antique-greekbruttium-crotone",
+      "title": "GR\u00c8CE ANTIQUE - GREEK<br>Bruttium, Crotone. Stat\u00e8re ou nomos ND (425-350 av. J.-C.), Crotone.<br>Av. Aigle \u00e0 gauche, la t\u00eate \u00e0 droite, sur un cr\u00e2ne. <br>Rv. QPO. Tr\u00e9pied accost\u00e9 de deux feuilles et de la l\u00e9gende.<br>SNG ANS.342 (de m\u00eames coins) - SNG Cop.- - HGC.1/1458 - HN Italie 2145 ; Argent - 7,95 g - 20 mm - 7 h<br>Provient de la collection Mark et Lottie Salton puis vente MDC 10, n\u00b0 3.<br>NGC AU 4/5 5/5 Fine Style (8558294-003). <br>Bon centrage sur un flan l\u00e9g\u00e8rement bomb\u00e9. De qualit\u00e9 exceptionnelle avec les d\u00e9tails du plumage de l\u2019aigle. Revers complet et pr\u00e9serv\u00e9. Patine de collection grise aux reflets bleut\u00e9s. Superbe \u00e0 Fleur de coin.<br><br> * Following Council Directive (EU) 2022/542 of April 5, 2022, implemented in national law from 01/01/2025, buyers from within the EU have to pay 5.5% VAT on the hammer price of this lot.<br>* Suite \u00e0 la Directive (UE) 2022/542 du Conseil du 5 avril 2022, mise en application dans le droit national \u00e0 compter du 01/01/2025, l\u2019adjudicataire europ\u00e9en devra \u00e9galement payer une TVA de 5,5% sur ce lot  <br> NGC AU 4/5 5/5 Fine Style <br> https://d10dakqizeg4uw.cloudfront.net/VAE18/00004.MP4",
+      "description": "MDC Monaco | ['Auction 18']",
+      "hammer_price_usd": 17442.0,
+      "currency_original": "USD",
+      "price_original": 17442.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8558294-003",
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": "https://www.ngccoin.com/certlookup/8558294003/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "cng-3a9662c3080e",
       "source": "cng",
@@ -2436,72 +2502,6 @@
         "details_grade": null,
         "fine_style": true,
         "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-bbb40d430c45",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13696/grece-antique-greek/12114625/grece-antique-greeklucanie-thurium",
-      "title": "GR\u00c8CE ANTIQUE - GREEK<br>Lucanie, Thurium. Didrachme ou nomos au nom du magistrat ARI- ND (280-250 av. J.-C.), Thurium (Thourioi).<br>Av. T\u00eate d\u2019Apollon laur\u00e9 \u00e0 droite. <br>Rv. [\u0398\u039f]\u03a5\u03a1\u0399 - \u03a9\u039d. Taureau chargeant \u00e0 droite, la t\u00eate baiss\u00e9e ; \u00e0 l\u2019exergue, un tr\u00e9pied coupant la l\u00e9gende ; au-dessus (\u00e9pi) et API.<br>HGC 1, 1275 - SNG ANS 1107 (de m\u00eames coins) - SNG Lockett 533 ; Argent - 6,68 g - 19,5 mm - 6 h<br>Provient de la collection Kirk Davis 55, 2009, n\u00b0 9 puis de la vente Baldwin\u2019s, Markov et M&M, The New York Sale XXV, 5 janvier 2011, n\u00b0 5.<br>NGC Ch AU 4/5 5/5 flan flaw (8585319-025). <br>Un minime d\u00e9faut de m\u00e9tal sur la joue. Cet exemplaire n\u2019a que tr\u00e8s peu circul\u00e9 avec une d\u00e9licate patine ancienne. Superbe.<br> <br> NGC Ch AU 4/5 5/5 flan flaw",
-      "description": "MDC Monaco | ['Auction 18']",
-      "hammer_price_usd": 2093.04,
-      "currency_original": "USD",
-      "price_original": 2093.04,
-      "buyers_premium_included": false,
-      "sale_date": "2026-05-13",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "8585319-025",
-        "grade": "AU",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 5,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/8585319025/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-54d28f16f540",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13696/grece-antique-greek/12114618/grece-antique-greekbruttium-crotone",
-      "title": "GR\u00c8CE ANTIQUE - GREEK<br>Bruttium, Crotone. Stat\u00e8re ou nomos ND (425-350 av. J.-C.), Crotone.<br>Av. Aigle \u00e0 gauche, la t\u00eate \u00e0 droite, sur un cr\u00e2ne. <br>Rv. QPO. Tr\u00e9pied accost\u00e9 de deux feuilles et de la l\u00e9gende.<br>SNG ANS.342 (de m\u00eames coins) - SNG Cop.- - HGC.1/1458 - HN Italie 2145 ; Argent - 7,95 g - 20 mm - 7 h<br>Provient de la collection Mark et Lottie Salton puis vente MDC 10, n\u00b0 3.<br>NGC AU 4/5 5/5 Fine Style (8558294-003). <br>Bon centrage sur un flan l\u00e9g\u00e8rement bomb\u00e9. De qualit\u00e9 exceptionnelle avec les d\u00e9tails du plumage de l\u2019aigle. Revers complet et pr\u00e9serv\u00e9. Patine de collection grise aux reflets bleut\u00e9s. Superbe \u00e0 Fleur de coin.<br><br> * Following Council Directive (EU) 2022/542 of April 5, 2022, implemented in national law from 01/01/2025, buyers from within the EU have to pay 5.5% VAT on the hammer price of this lot.<br>* Suite \u00e0 la Directive (UE) 2022/542 du Conseil du 5 avril 2022, mise en application dans le droit national \u00e0 compter du 01/01/2025, l\u2019adjudicataire europ\u00e9en devra \u00e9galement payer une TVA de 5,5% sur ce lot  <br> NGC AU 4/5 5/5 Fine Style <br> https://d10dakqizeg4uw.cloudfront.net/VAE18/00004.MP4",
-      "description": "MDC Monaco | ['Auction 18']",
-      "hammer_price_usd": 17442.0,
-      "currency_original": "USD",
-      "price_original": 17442.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-05-13",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "8558294-003",
-        "grade": "AU",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 5,
-        "details_grade": null,
-        "fine_style": true,
-        "certification_url": "https://www.ngccoin.com/certlookup/8558294003/",
         "grading_service": "ngc"
       },
       "metadata": {
