@@ -8,21 +8,21 @@
   "ruler_rarity": null,
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 165,
-  "realized_count": 165,
+  "sale_count": 166,
+  "realized_count": 166,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 444.0,
+    "min": 1.0,
     "max": 13200.0
   },
-  "median_price_usd": 1351.25,
-  "last_sale_date": "2026-04-29",
+  "median_price_usd": 1335.625,
+  "last_sale_date": "2026-07-28",
   "grade_distribution": {
     "AU": 80,
+    "VF": 17,
     "MS": 37,
     "XF": 28,
-    "VF": 16,
     "F": 4
   },
   "thumbnail_url": "https://media.coinarchives.com/10e048ae664990bf7f7c87dcdb043329/img/heritage/3132/image32127.jpg",
@@ -56,6 +56,39 @@
         "strike_score": 3,
         "surface_score": 3,
         "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-8a52a542fef1",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13941/ancients-roman-imperial/12355998/valentinian-i-western-roman-empire",
+      "title": "Valentinian I, Western Roman Empire (AD 364-375). AV solidus (21mm, 4.22 gm, 5h). NGC VF 5/5 - 2/5, graffiti, clipped, brushed, mark. Antioch, 2nd officina, 25 February AD 364-24 August AD 367. D N VALENTINI-ANVS P F AVG, rosette-diademed, draped, and cuirassed bust of Valentinian I right, seen from front / RESTITVTOR-REIPVBLICAE, Valentinian I standing facing in military dress, head right, grounded labarum with staurogram on banner in right hand, Victory left on globe in outstretched left hand; cross in left field, star ANTB star in exergue. RIC IX 2b.xxxiv.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61635']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-28",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": "Clipped",
         "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"

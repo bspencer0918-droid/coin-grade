@@ -8,22 +8,22 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 259,
-  "realized_count": 259,
+  "sale_count": 260,
+  "realized_count": 260,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 30.0,
+    "min": 1.0,
     "max": 4800.0
   },
-  "median_price_usd": 109.0,
-  "last_sale_date": "2026-07-23",
+  "median_price_usd": 108.0,
+  "last_sale_date": "2026-07-28",
   "grade_distribution": {
     "VF": 26,
     "AU": 72,
     "XF": 49,
     "MS": 110,
-    "F": 2
+    "F": 3
   },
   "thumbnail_url": "https://media.coinarchives.com/5673a4ca7409ce828c8851ae5f80b9bb/img/heritage/61605/image23003.jpg",
   "median_weight_g": null,
@@ -451,6 +451,39 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-16cd589b6bf6",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13941/ancients-roman-imperial/12355965/palmyran-kingdom-vabalathus-ad-267-272",
+      "title": "PALMYRAN KINGDOM. Vabalathus (AD 267-272). BI antoninianus (21mm, 2.63 gm, 12h). NGC Fine 5/5 - 3/5. Antioch mint, 2nd officina, 2nd emission, March-May AD 272. IM C VHABALATHVS AVG, radiate, draped, and cuirassed bust of Vabalathus right, seen from behind / IV\u0404NVS AVG, Hercules standing facing, head right, nude but for lion skin draped over left arm, leaning on club with right hand, Apples of the Hesperides in outstretched left hand; star in left field. RIC V.I 4.  The youth with the formidable name Lucius Julius Aurelius Septimius Vabalathus Athenodorus was probably born in AD 256 or 257 to Odenathus, king of the Arabian caravan city of Palmyra, a Syrian city-state allied with Rome. During the Persian wars of the mid-third century, Odenathus took charge of Rome's Eastern defensats on the hitherto invincible Persian armies. The Roman Emperor Gallienus delegated control of Syria and Egypt to Odenathus until he was murdered in a family quarrel in AD 267. His formidable wife Zenobia took control of Palmyra as regent for her son Vabalathus. But when the Romans tried to reassert direct control over the East, Zenobia sent the Palmyran camel cavalry into Asia Minor and Egypt in AD 268 and 269, de facto creating a rival Palmyran Empire. When Aurelian became emperor in AD 270, he at first gave tacit recognition to the Palmyran regime, but in AD 272 he marched east to crush the rebels. Aurelian defeated Zenobia's armies and forced her and Vabalathus to take refuge in Palmyra, which he besieged. The queen then attempted to seek help from the Persians, but Roman cavalry overtook and captured her. She and Zenobia and Vabalathus were taken to Rome to walk in chains in Aurelian's triumphal parade. Zenobia was allowed to settle into a comfortable retirement in Italy, but the final fate of Vabalathus is unrecorded.  On this rare billon antoninianus, probably struck at Antioch, Vabalathus claims the Roman title of Augustus, although by this time he and his mother were in full revolt against Rome. Even if they had beaten Aurelian, Zenobia and Vabalathus would have likely ruled their new Eastern Empire on the Roman model, using the well-entrenched bureaucracy already in place. The reverse image of Victory probably alludes to the quick conquests enjoyed by the Palmyran regime before Aurelian's arrival.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61635']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-28",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
