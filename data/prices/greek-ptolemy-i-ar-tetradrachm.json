@@ -367,39 +367,6 @@
       }
     },
     {
-      "id": "coinarchives-d1f575bfa0dd",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2777670&AucID=7219&Lot=21242&Val=0824d3523bbaf5d31fef06602a4bcd94",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61644, Lot 21242 \u2014 Ancients\nPTOLEMAIC EGYPT. Ptolemy II Philadelphus (285/284-246 BC). AR stater or tetradrachm. NGC Choice Fine. Joppa, dated Regnal Year 38 (248/247 BC). Diademed head of Ptolemy I right, aegis tied ar",
-      "description": "Ancients\nPTOLEMAIC EGYPT. Ptolemy II Philadelphus (285/284-246 BC). AR stater or tetradrachm. NGC Choice Fine. Joppa, dated Regnal Year 38 (248/247 BC). Diademed head of Ptolemy I right, aegis tied around neck; dotted border / \u03a0TO\u039bEMAIOY-\u03a3\u03a9THPO\u03a3, eagle with closed wings standing left on thunderbolt; Joppa monogram I \u03a0P (partially ligate) above MT monogram to left, \u039bE (date) above \u0398 to right, dotted border. CPE 672. Svoronos 810.\n\nFrom the Eyeappealing Collection. Ex Heritage Auctions, Auction ...",
-      "hammer_price_usd": 200.0,
-      "currency_original": "USD",
-      "price_original": 200.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-07-20",
-      "image_url": "https://media.coinarchives.com/b4de116bd3ee2e3ea298a85fba3dc2b5/img/heritage/61644/image21242.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "F",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-febd4abf52dd",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -518,6 +485,39 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-d1f575bfa0dd",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2777670&AucID=7219&Lot=21242&Val=0824d3523bbaf5d31fef06602a4bcd94",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61644, Lot 21242 \u2014 Ancients\nPTOLEMAIC EGYPT. Ptolemy II Philadelphus (285/284-246 BC). AR stater or tetradrachm. NGC Choice Fine. Joppa, dated Regnal Year 38 (248/247 BC). Diademed head of Ptolemy I right, aegis tied ar",
+      "description": "Ancients\nPTOLEMAIC EGYPT. Ptolemy II Philadelphus (285/284-246 BC). AR stater or tetradrachm. NGC Choice Fine. Joppa, dated Regnal Year 38 (248/247 BC). Diademed head of Ptolemy I right, aegis tied around neck; dotted border / \u03a0TO\u039bEMAIOY-\u03a3\u03a9THPO\u03a3, eagle with closed wings standing left on thunderbolt; Joppa monogram I \u03a0P (partially ligate) above MT monogram to left, \u039bE (date) above \u0398 to right, dotted border. CPE 672. Svoronos 810.\n\nFrom the Eyeappealing Collection. Ex Heritage Auctions, Auction ...",
+      "hammer_price_usd": 200.0,
+      "currency_original": "USD",
+      "price_original": 200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-20",
+      "image_url": "https://media.coinarchives.com/b4de116bd3ee2e3ea298a85fba3dc2b5/img/heritage/61644/image21242.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

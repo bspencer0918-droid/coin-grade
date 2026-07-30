@@ -1,1 +1,68 @@
-{"slug": "roman-constantine-i-av-solidus", "category": "roman", "ruler": "Constantine I", "ruler_normalized": "constantine-i", "dynasty": "Constantinian", "ruler_dates": "AD 307â€“337", "ruler_rarity": null, "denomination": "AV Solidus", "metal": "gold", "sale_count": 503, "realized_count": 503, "fixed_price_count": 0, "ngc_verified_count": 0, "price_range_usd": {"min": 324.0, "max": 204000.0}, "median_price_usd": 780.0, "last_sale_date": "2026-01-16", "grade_distribution": {"AU": 152, "XF": 39, "VF": 6, "G": 2, "MS": 304}, "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-2-7-0-3-32703505&w=120&h=300&it=product", "median_weight_g": null, "top_strike_score": 4, "top_surface_score": 3, "top_grade_numeric": 4, "dominant_service": "ngc", "series": null, "date_struck": null, "mint_mark": null, "sales": []}
+{
+  "slug": "roman-constantine-i-av-solidus",
+  "category": "roman",
+  "ruler": "Constantine I",
+  "ruler_normalized": "constantine-i",
+  "dynasty": "Constantinian",
+  "ruler_dates": "AD 307\u2013337",
+  "ruler_rarity": null,
+  "denomination": "AV Solidus",
+  "metal": "gold",
+  "sale_count": 1,
+  "realized_count": 1,
+  "fixed_price_count": 0,
+  "ngc_verified_count": 0,
+  "price_range_usd": {
+    "min": 3400.0,
+    "max": 3400.0
+  },
+  "median_price_usd": 3400.0,
+  "last_sale_date": "2026-07-28",
+  "grade_distribution": {
+    "AU": 1
+  },
+  "thumbnail_url": "https://media.coinarchives.com/cd823025dba9dc0744ea9075a42a7d93/img/heritage/61635/image23259.jpg",
+  "median_weight_g": null,
+  "top_strike_score": 5,
+  "top_surface_score": 4,
+  "top_grade_numeric": 5,
+  "dominant_service": "ngc",
+  "series": null,
+  "date_struck": null,
+  "mint_mark": null,
+  "sales": [
+    {
+      "id": "coinarchives-24d4dd2c384b",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2796319&AucID=7267&Lot=23259&Val=bcbbdea8bd7cc782c846720aa9cd1282",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61635, Lot 23259 \u2014 Ancients\nConstantius II, as Augustus (AD 337-361). AV solidus (21mm, 4.46 gm, 6h). NGC AU 5/5 - 4/5. Antioch, 4th officina, AD 347-355. FL IVL CONSTAN-TIVS PERP AVG, pearl-diademed, draped, and cuiras",
+      "description": "Ancients\nConstantius II, as Augustus (AD 337-361). AV solidus (21mm, 4.46 gm, 6h). NGC AU 5/5 - 4/5. Antioch, 4th officina, AD 347-355. FL IVL CONSTAN-TIVS PERP AVG, pearl-diademed, draped, and cuirassed bust of Constantius II right, seen from front / FELICITAS ROMANORVM, legend surrounding wreath enclosing VOTIS / XV / MVLTIS / XX; SMAN\u0394 below. RIC VIII 31. Extremely rare.\n\nThe third son of Constantine the Great, Constantius II was the most successful of Constantine's heirs. Born in AD 317, F...",
+      "hammer_price_usd": 3400.0,
+      "currency_original": "USD",
+      "price_original": 3400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-28",
+      "image_url": "https://media.coinarchives.com/cd823025dba9dc0744ea9075a42a7d93/img/heritage/61635/image23259.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    }
+  ]
+}

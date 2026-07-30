@@ -8,22 +8,22 @@
   "ruler_rarity": null,
   "denomination": "AE Dupondius",
   "metal": "gold",
-  "sale_count": 24,
-  "realized_count": 24,
+  "sale_count": 25,
+  "realized_count": 25,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 54.0,
     "max": 1680.0
   },
-  "median_price_usd": 468.4,
-  "last_sale_date": "2026-05-13",
+  "median_price_usd": 480.8,
+  "last_sale_date": "2026-07-28",
   "grade_distribution": {
     "XF": 8,
-    "VF": 10,
+    "VF": 11,
     "F": 6
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-2-1-9-7-32197334&w=120&h=300&it=product",
+  "thumbnail_url": "https://media.coinarchives.com/769137034b428b48550e45dcbe275ee3/img/heritage/61635/image23033.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 4,
@@ -60,6 +60,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-95149e6e9854",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2796093&AucID=7267&Lot=23033&Val=b753f41a32f75c9fa634d78d11b87afb",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61635, Lot 23033 \u2014 Ancients\nGermanicus (died AD 19). AE dupondius (30mm, 14.84 gm, 7h). NGC Choice VF 5/5 - 2/5, smoothing. Rome, AD 37-41. GERMANICVS / CAESAR, Germanicus standing in ornamented slow quadriga right, bar",
+      "description": "Ancients\nGermanicus (died AD 19). AE dupondius (30mm, 14.84 gm, 7h). NGC Choice VF 5/5 - 2/5, smoothing. Rome, AD 37-41. GERMANICVS / CAESAR, Germanicus standing in ornamented slow quadriga right, bare headed and cloaked, scepter surmounted by eagle in left hand / SIGNIS-RECEPT / DEVICTIS-GERM, Germanicus advancing left, bare headed and cuirassed with tunic, with right hand raised in gesture of adlocutio, transverse aquila cradled in left arm; S-C across lower fields. RIC I (Gaius) 57.\n\nFrom t...",
+      "hammer_price_usd": 650.0,
+      "currency_original": "USD",
+      "price_original": 650.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-28",
+      "image_url": "https://media.coinarchives.com/769137034b428b48550e45dcbe275ee3/img/heritage/61635/image23033.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

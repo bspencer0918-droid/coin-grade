@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 88,
-  "realized_count": 88,
+  "sale_count": 90,
+  "realized_count": 90,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,24 +17,90 @@
     "max": 21600.0
   },
   "median_price_usd": 2400.0,
-  "last_sale_date": "2026-04-29",
+  "last_sale_date": "2026-07-28",
   "grade_distribution": {
-    "AU": 37,
+    "AU": 38,
+    "F": 2,
     "MS": 28,
     "XF": 15,
-    "VF": 7,
-    "F": 1
+    "VF": 7
   },
-  "thumbnail_url": "https://media.coinarchives.com/0de6125102e87c47009b2a70acb5d0f7/img/heritage/3132/image32123.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/9939492fe2b3ff7b80616eb1b7ca0e56/img/heritage/61635/image23258.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 2,
+  "top_surface_score": 4,
   "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-57269239ccff",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2796318&AucID=7267&Lot=23258&Val=b3cb3e2b018dc7bd00c3ae708664b99f",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61635, Lot 23258 \u2014 Ancients\nConstantius II, as Augustus (AD 337-361). AV solidus (21mm, 4.43 gm, 1h). NGC Choice AU 5/5 - 4/5. Antioch, 9th officina, AD 335-347. FL IVL CONSTAN-TIVS PEP AVG, pearl-diademed, draped, and ",
+      "description": "Ancients\nConstantius II, as Augustus (AD 337-361). AV solidus (21mm, 4.43 gm, 1h). NGC Choice AU 5/5 - 4/5. Antioch, 9th officina, AD 335-347. FL IVL CONSTAN-TIVS PEP AVG, pearl-diademed, draped, and cuirassed bust of Constantius II right, seen from front / FELICITAS ROMANORVM, legend around large wreath terminating in jewel; VOT / XV / MVLT / XX in four lines within wreath, SMAN\u0398 in exergue. RIC VIII 31 note. Depeyrot 5/9 note (officina unlisted). The sole example in sales archives and seemin...",
+      "hammer_price_usd": 4000.0,
+      "currency_original": "USD",
+      "price_original": 4000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-28",
+      "image_url": "https://media.coinarchives.com/9939492fe2b3ff7b80616eb1b7ca0e56/img/heritage/61635/image23258.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-6477900a78dc",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2796320&AucID=7267&Lot=23260&Val=afae6ac62ce64165d2cdea027c9cde5b",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61635, Lot 23260 \u2014 Ancients\nConstantius II, as Augustus (AD 337-361). AV solidus (19mm, 3.78 gm, 5h). NGC Fine 5/5 - 2/5, clipped, marks, graffiti. Antioch, 5th officina, AD 355-361. D N CONSTAN-TIVS P F AVG, pearl-diad",
+      "description": "Ancients\nConstantius II, as Augustus (AD 337-361). AV solidus (19mm, 3.78 gm, 5h). NGC Fine 5/5 - 2/5, clipped, marks, graffiti. Antioch, 5th officina, AD 355-361. D N CONSTAN-TIVS P F AVG, pearl-diademed head of Constantius II right / GLORIA-REI-PVBLICAE, Roma (on left) seated facing, spear in left hand, and Constantinopolis (on right) seated left, scepter in left hand, right foot on prow, jointly holding with their right hands between them shield inscribed with VOT / XXXX; ANT\u0404 in exergue. R...",
+      "hammer_price_usd": 900.0,
+      "currency_original": "USD",
+      "price_original": 900.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-28",
+      "image_url": "https://media.coinarchives.com/51037b3d9d2e0f08028b30b330963f99/img/heritage/61635/image23260.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": "Graffiti",
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-55494d2e27a4",
       "source": "coinarchives",

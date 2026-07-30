@@ -8,8 +8,8 @@
   "ruler_rarity": "scarce",
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 120,
-  "realized_count": 119,
+  "sale_count": 121,
+  "realized_count": 120,
   "fixed_price_count": 1,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,22 +17,22 @@
     "max": 5040.0
   },
   "median_price_usd": 528.0,
-  "last_sale_date": "2026-07-29",
+  "last_sale_date": "2026-07-30",
   "grade_distribution": {
     "P": 1,
+    "XF": 19,
     "MS": 2,
     "AU": 7,
-    "XF": 18,
     "VF": 49,
     "F": 28,
     "VG": 14,
     "G": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/00fd1c7d0eaf2a0b69578b0c9a973b2f/img/heritage/61628/image25081.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/45c6b398cb4aaae7204cd5f719ecf505/img/heritage/61635/image23053.jpg",
   "median_weight_g": null,
-  "top_strike_score": null,
-  "top_surface_score": null,
-  "top_grade_numeric": null,
+  "top_strike_score": 5,
+  "top_surface_score": 3,
+  "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
@@ -49,7 +49,7 @@
       "currency_original": "USD",
       "price_original": 1250.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-07-29",
+      "sale_date": "2026-07-30",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc108499a.jpg",
       "ngc": {
         "verified": false,
@@ -61,6 +61,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/1057578788/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-5486830a3e86",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2796113&AucID=7267&Lot=23053&Val=d44d16150e9cda8e0402f64227dc901e",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61635, Lot 23053 \u2014 Ancients\nGalba (AD 68-69). AR denarius (17mm, 3.48 gm, 7h). NGC Choice XF 5/5 - 3/5, marks. Spanish mint (Tarraco?), ca. April-late AD 68. SER GALBA-IMPERATOR, laureate head of Galba right / CONCORDIA",
+      "description": "Ancients\nGalba (AD 68-69). AR denarius (17mm, 3.48 gm, 7h). NGC Choice XF 5/5 - 3/5, marks. Spanish mint (Tarraco?), ca. April-late AD 68. SER GALBA-IMPERATOR, laureate head of Galba right / CONCORDIA-PROVINCIARVM, Concordia standing facing, head left, branch in outstretched right hand, cornucopia cradled in left arm. RIC I 49. Rare. \n\nEx Heritage Auctions, Auction 3072 (15 January 2019), lot 35450; The Galba Collection (Roma Numismatics, E-Sale 46, 5 June 2018), lot 559; UBS, Auction 49 (11 S...",
+      "hammer_price_usd": 1300.0,
+      "currency_original": "USD",
+      "price_original": 1300.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-28",
+      "image_url": "https://media.coinarchives.com/45c6b398cb4aaae7204cd5f719ecf505/img/heritage/61635/image23053.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
         "grading_service": "ngc"
       },
       "metadata": {

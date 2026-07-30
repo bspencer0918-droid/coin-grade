@@ -8,20 +8,21 @@
   "ruler_rarity": null,
   "denomination": "AR Didrachm",
   "metal": "silver",
-  "sale_count": 2,
-  "realized_count": 2,
+  "sale_count": 3,
+  "realized_count": 3,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 750.0,
+    "min": 80.0,
     "max": 915.0
   },
-  "median_price_usd": 832.5,
-  "last_sale_date": "2026-06-07",
+  "median_price_usd": 750.0,
+  "last_sale_date": "2026-07-28",
   "grade_distribution": {
-    "VF": 2
+    "VF": 2,
+    "F": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/585ad3d1ac304618090264f677dc916a/img/heritage/61626/image23087.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/bbeefc689a37afcf3d3b8673b88c8343/img/heritage/61635/image23315.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 3,
@@ -58,6 +59,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-0cc5daa5c627",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2796375&AucID=7267&Lot=23315&Val=492824671c02329ffda9654b58af5ef1",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61635, Lot 23315 \u2014 Ancients\nCAPPADOCIA. Caesarea. Vespasian (AD 69-79). AR didrachm (21mm, 7.27 gm, 12h). NGC Choice Fine 5/5 - 4/5.  2nd period (AD 76/7). \u0391\u03a5\u03a4\u039f\u039a\u03a1\u0391 \u039a\u0391\u0399C\u0391\u03a1 \u039f\u03a5\u0404C\u03a0\u0391C\u0399\u0391\u039d\u039fC C\u0404\u0392\u0391C\u03a4\u039fC, laureate head of Vespasia",
+      "description": "Ancients\nCAPPADOCIA. Caesarea. Vespasian (AD 69-79). AR didrachm (21mm, 7.27 gm, 12h). NGC Choice Fine 5/5 - 4/5.  2nd period (AD 76/7). \u0391\u03a5\u03a4\u039f\u039a\u03a1\u0391 \u039a\u0391\u0399C\u0391\u03a1 \u039f\u03a5\u0404C\u03a0\u0391C\u0399\u0391\u039d\u039fC C\u0404\u0392\u0391C\u03a4\u039fC, laureate head of Vespasian right / NIKH-C\u0404\u0392ACTH, Nike advancing right, wreath in outstretched right hand, palm over shoulder in left. RPC II 1641.\n\nFrom the Eyeappealing Collection. Ex Heritage Auctions, Auction 232303 (18 January 2023), lot 63120.\n\nDescended from a family of small-time entrepreneurs and tax farmers in th...",
+      "hammer_price_usd": 80.0,
+      "currency_original": "USD",
+      "price_original": 80.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-28",
+      "image_url": "https://media.coinarchives.com/bbeefc689a37afcf3d3b8673b88c8343/img/heritage/61635/image23315.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

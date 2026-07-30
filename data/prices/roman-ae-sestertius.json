@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AE Sestertius",
   "metal": "bronze",
-  "sale_count": 298,
-  "realized_count": 298,
+  "sale_count": 299,
+  "realized_count": 299,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,9 +17,9 @@
     "max": 10370.0
   },
   "median_price_usd": 384.0,
-  "last_sale_date": "2026-07-21",
+  "last_sale_date": "2026-07-28",
   "grade_distribution": {
-    "XF": 53,
+    "XF": 54,
     "AU": 34,
     "F": 66,
     "VF": 131,
@@ -27,7 +27,7 @@
     "MS": 1,
     "G": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/2ddb002e790e7fd67f821227954f24be/img/heritage/3132/image32096.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/af13f0fa93e84eb54caa397c54260709/img/heritage/61635/image23233.jpg",
   "median_weight_g": null,
   "top_strike_score": null,
   "top_surface_score": null,
@@ -97,6 +97,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-c54aac9f1081",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2796293&AucID=7267&Lot=23233&Val=72c1b15ae78ec27d1211f79e34baa3ad",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61635, Lot 23233 \u2014 Ancients\nPostumus, Romano-Gallic Empire (AD 260-269). AE double-sestertius or dupondius (28mm, 10.65 gm, 1h). NGC XF 4/5 - 4/5. Lugdunum. IMP C POSTVMVS P F AVG, radiate, draped, and cuirassed bust of",
+      "description": "Ancients\nPostumus, Romano-Gallic Empire (AD 260-269). AE double-sestertius or dupondius (28mm, 10.65 gm, 1h). NGC XF 4/5 - 4/5. Lugdunum. IMP C POSTVMVS P F AVG, radiate, draped, and cuirassed bust of Postumus right, seen from front / LAETITIA / AVG, galley left over waves with five rowers and steersman; palm left below. RIC V.II 144 var. (no palm). \n\nFrom the Eyeappealing Collection. Ex the Morris Collection (Heritage Auctions, Auction 271933, 18 August 2019), lot 35416; Classical Numismatic ...",
+      "hammer_price_usd": 340.0,
+      "currency_original": "USD",
+      "price_original": 340.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-28",
+      "image_url": "https://media.coinarchives.com/af13f0fa93e84eb54caa397c54260709/img/heritage/61635/image23233.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

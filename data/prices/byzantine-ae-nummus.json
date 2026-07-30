@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AE Nummus",
   "metal": "bronze",
-  "sale_count": 345,
-  "realized_count": 345,
+  "sale_count": 346,
+  "realized_count": 346,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,10 +17,10 @@
     "max": 1080.0
   },
   "median_price_usd": 156.0,
-  "last_sale_date": "2026-03-15",
+  "last_sale_date": "2026-07-28",
   "grade_distribution": {
     "AU": 77,
-    "XF": 17,
+    "XF": 18,
     "VF": 6,
     "MS": 245
   },
@@ -54,6 +54,39 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-13e59d538081",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2796317&AucID=7267&Lot=23257&Val=dc41e76965c0e73691e70ec0c71c5e02",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61635, Lot 23257 \u2014 Ancients\nHanniballianus, as Rex Regum (AD 335-337). AE 3/4 or BI nummus (16mm, 1.66 gm, 6h). NGC XF 5/5 - 4/5. Constantinople, 6th officina, AD 336-337. FL HANNIBALLIANO REGI, bare-headed, draped, and",
+      "description": "Ancients\nHanniballianus, as Rex Regum (AD 335-337). AE 3/4 or BI nummus (16mm, 1.66 gm, 6h). NGC XF 5/5 - 4/5. Constantinople, 6th officina, AD 336-337. FL HANNIBALLIANO REGI, bare-headed, draped, and cuirassed bust of Hanniballianus right, seen from front / SE-CVRITAS PVBLICA, Euphrates reclining right on ground, leaning on scepter in right hand; urn at side, reed in background, CONSS in exergue. RIC VII 147.\n\nFrom the Eyeappealing Collection.\n\nCoins of Hanniballianus, nephew of Constantine I...",
+      "hammer_price_usd": 420.0,
+      "currency_original": "USD",
+      "price_original": 420.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-28",
+      "image_url": "https://media.coinarchives.com/ec9e867de7dd7e3bb05afdf2bc1e03d8/img/heritage/61635/image23257.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
