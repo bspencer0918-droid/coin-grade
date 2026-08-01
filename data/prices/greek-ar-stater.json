@@ -17,7 +17,7 @@
     "max": 120000.0
   },
   "median_price_usd": 2280.0,
-  "last_sale_date": "2026-07-31",
+  "last_sale_date": "2026-08-01",
   "grade_distribution": {
     "F": 45,
     "XF": 481,
@@ -172,39 +172,6 @@
       }
     },
     {
-      "id": "sixbid-4884d8a06b65",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13556/ancients-greek/11984693/ancients-macedon-neapolis-ca",
-      "title": "Ancients <br> MACEDON. Neapolis. Ca. 525-480 BC. AR stater (20mm, 9.75 gm). NGC Choice XF S 5/5 - 4/5, Fine Style, light marks. Facing gorgoneion, hair arranged in parallel plaits ending in ringlets, tongue protruding between teeth and two sets of fangs / Quadripartite incuse square. HGC 3.1, 583. Wonderfully bold and intricate reliefs.    HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
-      "description": "Heritage Auctions, Inc. | ['Auction #61593']",
-      "hammer_price_usd": 6500.0,
-      "currency_original": "USD",
-      "price_original": 6500.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-02-01",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": true,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "sixbid-e8f894126c90",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -304,39 +271,6 @@
       }
     },
     {
-      "id": "sixbid-f0e8e773c7dc",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13556/ancients-greek/11984697/ancients-thracian-islands-thasos",
-      "title": "Ancients <br> THRACIAN ISLANDS. Thasos. Ca. 500-450 BC. AR stater (22mm, 8.60 gm). NGC XF S 5/5 - 4/5. Nude ithyphallic satyr running right, carrying nymph, her right hand raised / Quadripartite incuse square. SNG Copenhagen 1007-1012. Electric, aqua backlight.   The iconography of these coins is sometimes described as a satyr ravishing a nymph. Given the importance of the cult of Dionysus to Thrace, a more likely explanation is that the two mythological figures are engaged in a ritualistic Dionysian dance.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
-      "description": "Heritage Auctions, Inc. | ['Auction #61593']",
-      "hammer_price_usd": 3100.0,
-      "currency_original": "USD",
-      "price_original": 3100.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-02-01",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "sixbid-a8f45c3abda8",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -413,7 +347,7 @@
       "currency_original": "USD",
       "price_original": 3000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-07-31",
+      "sale_date": "2026-08-01",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc117552a.jpg",
       "ngc": {
         "verified": false,
@@ -1617,6 +1551,72 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-4884d8a06b65",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13556/ancients-greek/11984693/ancients-macedon-neapolis-ca",
+      "title": "Ancients <br> MACEDON. Neapolis. Ca. 525-480 BC. AR stater (20mm, 9.75 gm). NGC Choice XF S 5/5 - 4/5, Fine Style, light marks. Facing gorgoneion, hair arranged in parallel plaits ending in ringlets, tongue protruding between teeth and two sets of fangs / Quadripartite incuse square. HGC 3.1, 583. Wonderfully bold and intricate reliefs.    HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61593']",
+      "hammer_price_usd": 6500.0,
+      "currency_original": "USD",
+      "price_original": 6500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-02-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-f0e8e773c7dc",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13556/ancients-greek/11984697/ancients-thracian-islands-thasos",
+      "title": "Ancients <br> THRACIAN ISLANDS. Thasos. Ca. 500-450 BC. AR stater (22mm, 8.60 gm). NGC XF S 5/5 - 4/5. Nude ithyphallic satyr running right, carrying nymph, her right hand raised / Quadripartite incuse square. SNG Copenhagen 1007-1012. Electric, aqua backlight.   The iconography of these coins is sometimes described as a satyr ravishing a nymph. Given the importance of the cult of Dionysus to Thrace, a more likely explanation is that the two mythological figures are engaged in a ritualistic Dionysian dance.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61593']",
+      "hammer_price_usd": 3100.0,
+      "currency_original": "USD",
+      "price_original": 3100.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-02-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

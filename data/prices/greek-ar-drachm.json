@@ -19,8 +19,8 @@
   "median_price_usd": 169.0,
   "last_sale_date": "2026-07-20",
   "grade_distribution": {
-    "VF": 132,
     "F": 28,
+    "VF": 132,
     "MS": 347,
     "AU": 299,
     "G": 8,
@@ -38,39 +38,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-900109893dd6",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13556/ancients-greek/11984707/ancients-ionian-islands-chios",
-      "title": "Ancients <br> IONIAN ISLANDS. Chios. Ca. 380-350 BC. AR drachm (14mm, 2h). NGC VF S. Phainome, magistrate. Sphinx seated left; bunch of grapes above amphora before / Quadripartite incuse square with striated surfaces; \u03a6AINOME on crossbar. HGC 6, 1125. Impressively centered and detailed.    HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
-      "description": "Heritage Auctions, Inc. | ['Auction #61593']",
-      "hammer_price_usd": 1100.0,
-      "currency_original": "USD",
-      "price_original": 1100.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-02-01",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "sixbid-d5cd6e943f6e",
       "source": "sixbid",
@@ -159,39 +126,6 @@
         "surface_score": 2,
         "details_grade": null,
         "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-54816478a46e",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13556/ancients-greek/11984708/ancients-carian-satraps-pixodarus",
-      "title": "Ancients <br> CARIAN SATRAPS. Pixodarus (ca. 341-336/5 BC). AR drachm (15mm, 12h). NGC Choice Fine, Fine Style. Head of Apollo facing, turned slightly right, hair parted in center and swept to either side, cloak fastened around neck / \u03a0I\u039e\u03a9\u0394APOY, Zeus advancing right, bipennis over shoulder in right hand, grounded scepter in left. SNG Copenhagen 596-597. SNG von Aulock 2375-2376. Realistic portraiture with particular attention to the eyes.    HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
-      "description": "Heritage Auctions, Inc. | ['Auction #61593']",
-      "hammer_price_usd": 240.0,
-      "currency_original": "USD",
-      "price_original": 240.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-02-01",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "F",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": true,
         "certification_url": null,
         "grading_service": "ngc"
       },
@@ -1385,6 +1319,72 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-900109893dd6",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13556/ancients-greek/11984707/ancients-ionian-islands-chios",
+      "title": "Ancients <br> IONIAN ISLANDS. Chios. Ca. 380-350 BC. AR drachm (14mm, 2h). NGC VF S. Phainome, magistrate. Sphinx seated left; bunch of grapes above amphora before / Quadripartite incuse square with striated surfaces; \u03a6AINOME on crossbar. HGC 6, 1125. Impressively centered and detailed.    HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61593']",
+      "hammer_price_usd": 1100.0,
+      "currency_original": "USD",
+      "price_original": 1100.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-02-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-54816478a46e",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13556/ancients-greek/11984708/ancients-carian-satraps-pixodarus",
+      "title": "Ancients <br> CARIAN SATRAPS. Pixodarus (ca. 341-336/5 BC). AR drachm (15mm, 12h). NGC Choice Fine, Fine Style. Head of Apollo facing, turned slightly right, hair parted in center and swept to either side, cloak fastened around neck / \u03a0I\u039e\u03a9\u0394APOY, Zeus advancing right, bipennis over shoulder in right hand, grounded scepter in left. SNG Copenhagen 596-597. SNG von Aulock 2375-2376. Realistic portraiture with particular attention to the eyes.    HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61593']",
+      "hammer_price_usd": 240.0,
+      "currency_original": "USD",
+      "price_original": 240.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-02-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

@@ -19,9 +19,9 @@
   "median_price_usd": 492.0,
   "last_sale_date": "2026-07-28",
   "grade_distribution": {
-    "XF": 393,
     "VG": 41,
     "VF": 488,
+    "XF": 393,
     "MS": 40,
     "F": 166,
     "AU": 191,
@@ -37,39 +37,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-056f075f05f0",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13556/ancients-roman-imperial/11984736/ancients-augustus-27-bc-ad",
-      "title": "Ancients <br> Augustus (27 BC-AD 14). AR denarius (19mm, 3.84 gm, 7h). NGC XF S 5/5 - 4/5. Spain (Colonia Patricia?), ca. 18-16 BC. Bare head of Augustus right, linear border / AVGVSTVS, Capricorn right, holding globe attached to rudder, bearing cornucopia on back; linear border. RIC I 126. Onyx toning with mirror-like surfaces.   After visiting the astrologer Theogenes at Apollonia around 45/44 BC with his friend Agrippa, Augustus (then Octavian) became more assured of his destined greatness. Suetonius, the ancient Roman historian, mentions that Augustus, inspired by the astrological significance of his birth under the sign of Capricorn, issued a silver coin bearing this sign. This coinage symbolically represented not only Augustus's belief in the protective and auspicious power of Capricorn but also served as a potent emblem of his destined leadership and the commencement of a new era of Roman rule under his auspices.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
-      "description": "Heritage Auctions, Inc. | ['Auction #61593']",
-      "hammer_price_usd": 4200.0,
-      "currency_original": "USD",
-      "price_original": 4200.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-02-01",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "sixbid-8517a9722c58",
       "source": "sixbid",
@@ -90,39 +57,6 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-c44b059ace82",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13556/ancients-roman-republic/11984732/ancients-octavian-as-imperator",
-      "title": "Ancients <br> Octavian, as Imperator (ca. 33-30 BC). AR denarius (20mm, 3.79 gm, 12h). NGC VF 5/5 - 5/5. Uncertain Italian mint (Rome or Brundisium?), ca. 31-30 BC. Diademed half-length bust of Victory right, wearing pendant earring / CAESAR-DIVI F, Neptune, nude save for cloak over shoulders, standing left, right foot on globe, grounded scepter in left hand, aplustre in outstretched right hand. RIC I 256. RSC 60. BMC 615. CBN 12. A swirl of navy and sunflower toning.   Ex Andrew McCabe Collection (Paul-Francis Jacquier, Auction 51-52, 15 September 2023), lot 499.  Born on 23 September 63 BC into a wealthy plebeian family, Augustus, originally Gaius Octavius, was the grandnephew and posthumously adopted son of Julius Caesar. This inheritance set him on a collision course with Rome's political elite, leading to the formation of the Second Triumvirate with Marc Antony and Marcus Aemilius Lepidus. Their initial unity against Caesar's assassins eventually gave way to conflict, from which Augustus emerged as Rome's first true emperor after victories in key battles like Philippi and Actium. In 27 BC, he was honored with the title \"Augustus\" by the Senate, signaling the start of his reign and the Pax Romana, a golden era of peace, prosperity, and cultural flourishing that lasted over two centuries.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
-      "description": "Heritage Auctions, Inc. | ['Auction #61593']",
-      "hammer_price_usd": 2100.0,
-      "currency_original": "USD",
-      "price_original": 2100.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-02-01",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 5,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
@@ -1087,6 +1021,72 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-056f075f05f0",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13556/ancients-roman-imperial/11984736/ancients-augustus-27-bc-ad",
+      "title": "Ancients <br> Augustus (27 BC-AD 14). AR denarius (19mm, 3.84 gm, 7h). NGC XF S 5/5 - 4/5. Spain (Colonia Patricia?), ca. 18-16 BC. Bare head of Augustus right, linear border / AVGVSTVS, Capricorn right, holding globe attached to rudder, bearing cornucopia on back; linear border. RIC I 126. Onyx toning with mirror-like surfaces.   After visiting the astrologer Theogenes at Apollonia around 45/44 BC with his friend Agrippa, Augustus (then Octavian) became more assured of his destined greatness. Suetonius, the ancient Roman historian, mentions that Augustus, inspired by the astrological significance of his birth under the sign of Capricorn, issued a silver coin bearing this sign. This coinage symbolically represented not only Augustus's belief in the protective and auspicious power of Capricorn but also served as a potent emblem of his destined leadership and the commencement of a new era of Roman rule under his auspices.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61593']",
+      "hammer_price_usd": 4200.0,
+      "currency_original": "USD",
+      "price_original": 4200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-02-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-c44b059ace82",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13556/ancients-roman-republic/11984732/ancients-octavian-as-imperator",
+      "title": "Ancients <br> Octavian, as Imperator (ca. 33-30 BC). AR denarius (20mm, 3.79 gm, 12h). NGC VF 5/5 - 5/5. Uncertain Italian mint (Rome or Brundisium?), ca. 31-30 BC. Diademed half-length bust of Victory right, wearing pendant earring / CAESAR-DIVI F, Neptune, nude save for cloak over shoulders, standing left, right foot on globe, grounded scepter in left hand, aplustre in outstretched right hand. RIC I 256. RSC 60. BMC 615. CBN 12. A swirl of navy and sunflower toning.   Ex Andrew McCabe Collection (Paul-Francis Jacquier, Auction 51-52, 15 September 2023), lot 499.  Born on 23 September 63 BC into a wealthy plebeian family, Augustus, originally Gaius Octavius, was the grandnephew and posthumously adopted son of Julius Caesar. This inheritance set him on a collision course with Rome's political elite, leading to the formation of the Second Triumvirate with Marc Antony and Marcus Aemilius Lepidus. Their initial unity against Caesar's assassins eventually gave way to conflict, from which Augustus emerged as Rome's first true emperor after victories in key battles like Philippi and Actium. In 27 BC, he was honored with the title \"Augustus\" by the Senate, signaling the start of his reign and the Pax Romana, a golden era of peace, prosperity, and cultural flourishing that lasted over two centuries.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61593']",
+      "hammer_price_usd": 2100.0,
+      "currency_original": "USD",
+      "price_original": 2100.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-02-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

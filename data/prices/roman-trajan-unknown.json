@@ -19,10 +19,10 @@
   "median_price_usd": 159.0,
   "last_sale_date": "2026-07-28",
   "grade_distribution": {
-    "AU": 80,
     "F": 32,
     "VF": 83,
     "XF": 76,
+    "AU": 80,
     "G": 2,
     "MS": 68,
     "VG": 4
@@ -37,39 +37,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-2d2caf1ba490",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13556/ancients-roman-provincial/11984725/ancients-syria-laodicea-trajan",
-      "title": "Ancients <br> SYRIA. Laodicea. Trajan (AD 98-117). AE (27mm, 8.11 gm, 12h). NGC Choice AU S 5/5 - 4/5. Dated Civic Year 162 (AD 114/115). AYTOKP NEP TPAIANOC APICT KAIC \u0393EP \u0394AK, laureate head of Trajan right, slight drapery visible on far shoulder / IOY/\u039bIEWN TWN KAI-\u039bAO\u0394IKEWN B\u039eP (date), turreted, veiled bust of Tyche right. RPC III 3795-3796 var. (legend orientation, monogram). Kelly green patina.   Ex Heritage Auctions, Auction 61438 (25 November 2024), lot 23089.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
-      "description": "Heritage Auctions, Inc. | ['Auction #61593']",
-      "hammer_price_usd": 1050.0,
-      "currency_original": "USD",
-      "price_original": 1050.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-02-01",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "sixbid-11fb8ec8515a",
       "source": "sixbid",
@@ -823,6 +790,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-2d2caf1ba490",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13556/ancients-roman-provincial/11984725/ancients-syria-laodicea-trajan",
+      "title": "Ancients <br> SYRIA. Laodicea. Trajan (AD 98-117). AE (27mm, 8.11 gm, 12h). NGC Choice AU S 5/5 - 4/5. Dated Civic Year 162 (AD 114/115). AYTOKP NEP TPAIANOC APICT KAIC \u0393EP \u0394AK, laureate head of Trajan right, slight drapery visible on far shoulder / IOY/\u039bIEWN TWN KAI-\u039bAO\u0394IKEWN B\u039eP (date), turreted, veiled bust of Tyche right. RPC III 3795-3796 var. (legend orientation, monogram). Kelly green patina.   Ex Heritage Auctions, Auction 61438 (25 November 2024), lot 23089.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61593']",
+      "hammer_price_usd": 1050.0,
+      "currency_original": "USD",
+      "price_original": 1050.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-02-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
