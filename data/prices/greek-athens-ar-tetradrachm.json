@@ -20,9 +20,9 @@
   "last_sale_date": "2026-07-21",
   "grade_distribution": {
     "AU": 5,
-    "VF": 10,
     "XF": 12,
     "G": 3,
+    "VF": 10,
     "MS": 2
   },
   "thumbnail_url": "https://media.coinarchives.com/8dd5b6869109018d895c951f76f1e15c/img/snmw/s1/image00290.jpg",
@@ -55,39 +55,6 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-dcbe8b6a4bf7",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13555/ancients-ancient-india/11984482/ancients-indo-scythians-aspavarma-ca",
-      "title": "Ancients <br> INDO-SCYTHIANS. Aspavarma (ca. AD 20-46). BI tetradrachm (21mm, 9.59 gm, 11h). NGC Choice VF 5/5 - 3/5. Pushkalavati. BA\u03a3I\u039bE\u03a9\u03a3 BA\u03a3I\u039bE\u03a9N ME\u0393A\u039bOY AZOY, Azes, in military dress, whip upward in right hand, advancing right on horseback, Kharosthi letter to right / Imtravarmaputrasa Aspavarmasa Strategasa Jayatasa (Kharosthi), Athena standing right, transverse spear and shield in left hand, right hand raised in benediction; star above nandipada to left, monogram to right. Senior 183.  From the JGC Collection.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
-      "description": "Heritage Auctions, Inc. | ['Auction #61594']",
-      "hammer_price_usd": 110.0,
-      "currency_original": "USD",
-      "price_original": 110.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-02-02",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 3,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
@@ -425,6 +392,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-dcbe8b6a4bf7",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13555/ancients-ancient-india/11984482/ancients-indo-scythians-aspavarma-ca",
+      "title": "Ancients <br> INDO-SCYTHIANS. Aspavarma (ca. AD 20-46). BI tetradrachm (21mm, 9.59 gm, 11h). NGC Choice VF 5/5 - 3/5. Pushkalavati. BA\u03a3I\u039bE\u03a9\u03a3 BA\u03a3I\u039bE\u03a9N ME\u0393A\u039bOY AZOY, Azes, in military dress, whip upward in right hand, advancing right on horseback, Kharosthi letter to right / Imtravarmaputrasa Aspavarmasa Strategasa Jayatasa (Kharosthi), Athena standing right, transverse spear and shield in left hand, right hand raised in benediction; star above nandipada to left, monogram to right. Senior 183.  From the JGC Collection.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61594']",
+      "hammer_price_usd": 110.0,
+      "currency_original": "USD",
+      "price_original": 110.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-02-02",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
