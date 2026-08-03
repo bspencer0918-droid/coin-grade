@@ -1,6 +1,6 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-08-02T08:36:10.170290+00:00",
+  "generated_at": "2026-08-03T10:00:32.016717+00:00",
   "coins": [
     {
       "slug": "greek-athens-ar-tetradrachm-classical-owl",
@@ -323,7 +323,7 @@
         "max": 720000.0
       },
       "median_price_usd": 264.0,
-      "last_sale_date": "2026-08-02",
+      "last_sale_date": "2026-08-03",
       "grade_distribution": {
         "AU": 1168,
         "XF": 1740,
@@ -401,7 +401,7 @@
         "max": 3360.0
       },
       "median_price_usd": 930.0,
-      "last_sale_date": "2026-08-02",
+      "last_sale_date": "2026-08-03",
       "grade_distribution": {
         "VF": 4,
         "P": 1,
@@ -589,7 +589,7 @@
         "max": 114000.0
       },
       "median_price_usd": 16800.0,
-      "last_sale_date": "2026-08-02",
+      "last_sale_date": "2026-08-03",
       "grade_distribution": {
         "AU": 32,
         "F": 3,
@@ -666,7 +666,7 @@
         "max": 120000.0
       },
       "median_price_usd": 2280.0,
-      "last_sale_date": "2026-08-02",
+      "last_sale_date": "2026-08-03",
       "grade_distribution": {
         "F": 45,
         "XF": 481,
@@ -698,23 +698,23 @@
       "ruler_rarity": null,
       "denomination": "AR Tetradrachm",
       "metal": "silver",
-      "sale_count": 554,
-      "realized_count": 554,
+      "sale_count": 569,
+      "realized_count": 569,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 51.0,
+        "min": 1.0,
         "max": 8400.0
       },
       "median_price_usd": 159.0,
-      "last_sale_date": "2026-07-28",
+      "last_sale_date": "2026-08-02",
       "grade_distribution": {
-        "XF": 173,
-        "VF": 43,
-        "F": 8,
+        "XF": 179,
+        "VF": 48,
+        "F": 9,
+        "AU": 227,
         "MS": 103,
         "G": 1,
-        "AU": 224,
         "VG": 1,
         "AG": 1
       },
@@ -862,7 +862,7 @@
         "max": 292800.0
       },
       "median_price_usd": 1920.0,
-      "last_sale_date": "2026-08-02",
+      "last_sale_date": "2026-08-03",
       "grade_distribution": {
         "VF": 270,
         "G": 19,
@@ -965,21 +965,21 @@
       "ruler_rarity": null,
       "denomination": "AR Drachm",
       "metal": "silver",
-      "sale_count": 35,
-      "realized_count": 35,
+      "sale_count": 38,
+      "realized_count": 38,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 79.0,
+        "min": 1.0,
         "max": 4560.0
       },
-      "median_price_usd": 342.9,
-      "last_sale_date": "2026-06-07",
+      "median_price_usd": 340.0,
+      "last_sale_date": "2026-08-02",
       "grade_distribution": {
-        "AU": 6,
-        "XF": 13,
+        "AU": 7,
+        "XF": 14,
+        "VF": 7,
         "MS": 8,
-        "VF": 6,
         "F": 2
       },
       "thumbnail_url": "https://media.coinarchives.com/64b956fbdc969a6240f02db2000033df/img/heritage/61626/image23023.jpg",
@@ -1962,39 +1962,6 @@
       "mint_mark": null
     },
     {
-      "slug": "us-half-cent-1795",
-      "category": "us",
-      "ruler": null,
-      "ruler_normalized": null,
-      "dynasty": null,
-      "ruler_dates": null,
-      "ruler_rarity": null,
-      "denomination": "Half Cent 1795",
-      "metal": "bronze",
-      "sale_count": 1,
-      "realized_count": 1,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 6500.0,
-        "max": 6500.0
-      },
-      "median_price_usd": 6500.0,
-      "last_sale_date": "2026-02-03",
-      "grade_distribution": {
-        "AU": 1
-      },
-      "thumbnail_url": null,
-      "median_weight_g": null,
-      "top_strike_score": null,
-      "top_surface_score": null,
-      "top_grade_numeric": 55,
-      "dominant_service": "pcgs",
-      "series": "Half Cent",
-      "date_struck": "1795",
-      "mint_mark": null
-    },
-    {
       "slug": "roman-gordian-iii-ar-denarius",
       "category": "roman",
       "ruler": "Gordian III",
@@ -2594,18 +2561,18 @@
       "ruler_rarity": null,
       "denomination": "AR Tetradrachm",
       "metal": "gold",
-      "sale_count": 361,
-      "realized_count": 360,
+      "sale_count": 362,
+      "realized_count": 361,
       "fixed_price_count": 1,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 54.0,
+        "min": 1.0,
         "max": 10000.0
       },
       "median_price_usd": 144.0,
-      "last_sale_date": "2026-08-02",
+      "last_sale_date": "2026-08-03",
       "grade_distribution": {
-        "F": 11,
+        "F": 12,
         "VF": 84,
         "MS": 49,
         "XF": 93,
@@ -2632,29 +2599,29 @@
       "ruler_rarity": null,
       "denomination": "AR Drachm",
       "metal": "silver",
-      "sale_count": 330,
-      "realized_count": 330,
+      "sale_count": 378,
+      "realized_count": 378,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 57.0,
+        "min": 1.0,
         "max": 18000.0
       },
-      "median_price_usd": 384.0,
-      "last_sale_date": "2026-07-20",
+      "median_price_usd": 350.0,
+      "last_sale_date": "2026-08-02",
       "grade_distribution": {
-        "XF": 122,
-        "AU": 83,
-        "MS": 50,
-        "VF": 71,
+        "XF": 149,
+        "AU": 90,
+        "MS": 51,
+        "VF": 84,
         "G": 3,
         "VG": 1
       },
       "thumbnail_url": "https://media.coinarchives.com/e9b7fcdc19d18bfee827c4396b537b82/img/heritage/61644/image21178.jpg",
       "median_weight_g": null,
-      "top_strike_score": 4,
-      "top_surface_score": 3,
-      "top_grade_numeric": 4,
+      "top_strike_score": 5,
+      "top_surface_score": 4,
+      "top_grade_numeric": 5,
       "dominant_service": "ngc",
       "series": null,
       "date_struck": null,
@@ -2670,27 +2637,27 @@
       "ruler_rarity": null,
       "denomination": "Unknown",
       "metal": "bronze",
-      "sale_count": 302,
-      "realized_count": 301,
+      "sale_count": 308,
+      "realized_count": 307,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 30.0,
+        "min": 1.0,
         "max": 292800.0
       },
       "median_price_usd": 114.0,
-      "last_sale_date": "2026-04-29",
+      "last_sale_date": "2026-08-02",
       "grade_distribution": {
-        "VF": 181,
-        "AU": 17,
+        "VF": 185,
+        "F": 21,
+        "AU": 18,
         "XF": 79,
-        "MS": 5,
-        "F": 20
+        "MS": 5
       },
       "thumbnail_url": "https://media.coinarchives.com/443404b6a00e9c0d191775016a789f1c/img/naville/101/image00040.jpg",
       "median_weight_g": null,
       "top_strike_score": 5,
-      "top_surface_score": 5,
+      "top_surface_score": 2,
       "top_grade_numeric": 5,
       "dominant_service": "ngc",
       "series": null,
@@ -2741,21 +2708,21 @@
       "ruler_rarity": null,
       "denomination": "AR Tetradrachm",
       "metal": "silver",
-      "sale_count": 212,
-      "realized_count": 212,
+      "sale_count": 244,
+      "realized_count": 244,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 104.0,
+        "min": 1.0,
         "max": 16200.0
       },
-      "median_price_usd": 1140.0,
-      "last_sale_date": "2026-06-07",
+      "median_price_usd": 940.0,
+      "last_sale_date": "2026-08-02",
       "grade_distribution": {
-        "AU": 61,
-        "XF": 49,
-        "VF": 32,
-        "F": 11,
+        "AU": 62,
+        "XF": 57,
+        "VF": 50,
+        "F": 16,
         "MS": 51,
         "G": 1,
         "VG": 6,
@@ -2781,28 +2748,28 @@
       "ruler_rarity": null,
       "denomination": "AV Stater",
       "metal": "gold",
-      "sale_count": 387,
-      "realized_count": 387,
+      "sale_count": 404,
+      "realized_count": 404,
       "fixed_price_count": 0,
       "ngc_verified_count": 0,
       "price_range_usd": {
-        "min": 1560.0,
+        "min": 1.0,
         "max": 132000.0
       },
-      "median_price_usd": 7750.0,
-      "last_sale_date": "2026-06-07",
+      "median_price_usd": 7200.0,
+      "last_sale_date": "2026-08-02",
       "grade_distribution": {
-        "XF": 79,
-        "AU": 153,
-        "MS": 107,
-        "VF": 42,
+        "XF": 81,
+        "AU": 160,
+        "MS": 110,
+        "VF": 47,
         "G": 2,
         "F": 4
       },
       "thumbnail_url": "https://media.coinarchives.com/04271f6f5c91986483d634ac8b980276/img/goldberg/150/image00454.jpg",
       "median_weight_g": null,
       "top_strike_score": 5,
-      "top_surface_score": 5,
+      "top_surface_score": 4,
       "top_grade_numeric": 5,
       "dominant_service": "ngc",
       "series": null,
@@ -2949,39 +2916,6 @@
       "dominant_service": "ngc",
       "series": "Seated Liberty Half Dollar",
       "date_struck": "2025",
-      "mint_mark": null
-    },
-    {
-      "slug": "us-liberty-half-eagle-1798",
-      "category": "us",
-      "ruler": null,
-      "ruler_normalized": null,
-      "dynasty": null,
-      "ruler_dates": null,
-      "ruler_rarity": null,
-      "denomination": "Half Eagle ($5) 1798",
-      "metal": "gold",
-      "sale_count": 1,
-      "realized_count": 1,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 2350000.0,
-        "max": 2350000.0
-      },
-      "median_price_usd": 2350000.0,
-      "last_sale_date": "2026-02-03",
-      "grade_distribution": {
-        "AU": 1
-      },
-      "thumbnail_url": null,
-      "median_weight_g": null,
-      "top_strike_score": null,
-      "top_surface_score": null,
-      "top_grade_numeric": 55,
-      "dominant_service": "pcgs",
-      "series": "Half Eagle ($5)",
-      "date_struck": "1798",
       "mint_mark": null
     },
     {
@@ -3966,7 +3900,7 @@
         "max": 3720.0
       },
       "median_price_usd": 264.0,
-      "last_sale_date": "2026-08-02",
+      "last_sale_date": "2026-08-03",
       "grade_distribution": {
         "AU": 12,
         "VF": 79,
@@ -6264,9 +6198,9 @@
       },
       "thumbnail_url": "https://media.coinarchives.com/03f848d13954c1ec2795e59ed6a0bd67/img/ponterio/236/image45401.jpg",
       "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 5,
-      "top_grade_numeric": 5,
+      "top_strike_score": 4,
+      "top_surface_score": 4,
+      "top_grade_numeric": null,
       "dominant_service": "ngc",
       "series": null,
       "date_struck": null,
@@ -6302,45 +6236,9 @@
       },
       "thumbnail_url": "https://media.coinarchives.com/eb93ef56fba956d8e26b2199920841b5/img/ponterio/236/image44273.jpg",
       "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 3,
-      "top_grade_numeric": 5,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
-      "slug": "roman-constantine-i-av-aureus",
-      "category": "roman",
-      "ruler": "Constantine I",
-      "ruler_normalized": "constantine-i",
-      "dynasty": "Constantinian",
-      "ruler_dates": "AD 307\u2013337",
-      "ruler_rarity": null,
-      "denomination": "AV Aureus",
-      "metal": "gold",
-      "sale_count": 9,
-      "realized_count": 9,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 3000.0,
-        "max": 33600.0
-      },
-      "median_price_usd": 13200.0,
-      "last_sale_date": "2026-04-29",
-      "grade_distribution": {
-        "XF": 3,
-        "F": 1,
-        "MS": 3,
-        "AU": 2
-      },
-      "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-0-1-19501575&w=120&h=300&it=product",
-      "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 2,
-      "top_grade_numeric": 5,
+      "top_strike_score": null,
+      "top_surface_score": null,
+      "top_grade_numeric": null,
       "dominant_service": "ngc",
       "series": null,
       "date_struck": null,
@@ -6828,6 +6726,73 @@
       "grade_distribution": {
         "XF": 1,
         "AU": 1
+      },
+      "thumbnail_url": null,
+      "median_weight_g": null,
+      "top_strike_score": 4,
+      "top_surface_score": 3,
+      "top_grade_numeric": 4,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
+      "slug": "greek-alexander-iii-ar-hemidrachm",
+      "category": "greek",
+      "ruler": "Alexander III",
+      "ruler_normalized": "alexander-iii",
+      "dynasty": "Macedonian",
+      "ruler_dates": null,
+      "ruler_rarity": null,
+      "denomination": "AR Hemidrachm",
+      "metal": "silver",
+      "sale_count": 2,
+      "realized_count": 2,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 1.0,
+        "max": 750.0
+      },
+      "median_price_usd": 375.5,
+      "last_sale_date": "2026-08-02",
+      "grade_distribution": {
+        "VF": 1,
+        "XF": 1
+      },
+      "thumbnail_url": null,
+      "median_weight_g": null,
+      "top_strike_score": null,
+      "top_surface_score": null,
+      "top_grade_numeric": null,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
+      "slug": "greek-alexander-iii-ar-obol",
+      "category": "greek",
+      "ruler": "Alexander III",
+      "ruler_normalized": "alexander-iii",
+      "dynasty": "Macedonian",
+      "ruler_dates": null,
+      "ruler_rarity": null,
+      "denomination": "AR Obol",
+      "metal": "silver",
+      "sale_count": 1,
+      "realized_count": 1,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 1.0,
+        "max": 1.0
+      },
+      "median_price_usd": 1.0,
+      "last_sale_date": "2026-08-02",
+      "grade_distribution": {
+        "XF": 1
       },
       "thumbnail_url": null,
       "median_weight_g": null,
@@ -7468,7 +7433,7 @@
         "max": 216000.0
       },
       "median_price_usd": 960.0,
-      "last_sale_date": "2026-08-02",
+      "last_sale_date": "2026-08-03",
       "grade_distribution": {
         "AU": 85,
         "MS": 162,
@@ -7631,6 +7596,42 @@
       "mint_mark": null
     },
     {
+      "slug": "roman-constantine-i-av-aureus",
+      "category": "roman",
+      "ruler": "Constantine I",
+      "ruler_normalized": "constantine-i",
+      "dynasty": "Constantinian",
+      "ruler_dates": "AD 307\u2013337",
+      "ruler_rarity": null,
+      "denomination": "AV Aureus",
+      "metal": "gold",
+      "sale_count": 9,
+      "realized_count": 9,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 3000.0,
+        "max": 33600.0
+      },
+      "median_price_usd": 13200.0,
+      "last_sale_date": "2026-04-29",
+      "grade_distribution": {
+        "XF": 3,
+        "F": 1,
+        "MS": 3,
+        "AU": 2
+      },
+      "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=1-9-5-0-1-19501575&w=120&h=300&it=product",
+      "median_weight_g": null,
+      "top_strike_score": 5,
+      "top_surface_score": 2,
+      "top_grade_numeric": 5,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
       "slug": "roman-honorius-av-aureus",
       "category": "roman",
       "ruler": "Honorius",
@@ -7682,7 +7683,7 @@
         "max": 1950.0
       },
       "median_price_usd": 1950.0,
-      "last_sale_date": "2026-08-02",
+      "last_sale_date": "2026-08-03",
       "grade_distribution": {
         "P": 1
       },
@@ -7715,7 +7716,7 @@
         "max": 5040.0
       },
       "median_price_usd": 528.0,
-      "last_sale_date": "2026-08-02",
+      "last_sale_date": "2026-08-03",
       "grade_distribution": {
         "P": 1,
         "XF": 19,
@@ -7755,7 +7756,7 @@
         "max": 3240.0
       },
       "median_price_usd": 504.0,
-      "last_sale_date": "2026-08-02",
+      "last_sale_date": "2026-08-03",
       "grade_distribution": {
         "F": 1,
         "AU": 1,
@@ -7792,7 +7793,7 @@
         "max": 50400.0
       },
       "median_price_usd": 1680.0,
-      "last_sale_date": "2026-08-02",
+      "last_sale_date": "2026-08-03",
       "grade_distribution": {
         "G": 2,
         "AU": 38,
@@ -11134,39 +11135,6 @@
       "median_weight_g": null,
       "top_strike_score": 5,
       "top_surface_score": 3,
-      "top_grade_numeric": 5,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
-      "slug": "roman-constantine-i-av-solidus",
-      "category": "roman",
-      "ruler": "Constantine I",
-      "ruler_normalized": "constantine-i",
-      "dynasty": "Constantinian",
-      "ruler_dates": "AD 307\u2013337",
-      "ruler_rarity": null,
-      "denomination": "AV Solidus",
-      "metal": "gold",
-      "sale_count": 1,
-      "realized_count": 1,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 3400.0,
-        "max": 3400.0
-      },
-      "median_price_usd": 3400.0,
-      "last_sale_date": "2026-07-28",
-      "grade_distribution": {
-        "AU": 1
-      },
-      "thumbnail_url": "https://media.coinarchives.com/cd823025dba9dc0744ea9075a42a7d93/img/heritage/61635/image23259.jpg",
-      "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 4,
       "top_grade_numeric": 5,
       "dominant_service": "ngc",
       "series": null,
@@ -15353,6 +15321,39 @@
       "mint_mark": null
     },
     {
+      "slug": "us-liberty-half-eagle-1798",
+      "category": "us",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "ruler_dates": null,
+      "ruler_rarity": null,
+      "denomination": "Half Eagle ($5) 1798",
+      "metal": "gold",
+      "sale_count": 1,
+      "realized_count": 1,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 2350000.0,
+        "max": 2350000.0
+      },
+      "median_price_usd": 2350000.0,
+      "last_sale_date": "2026-02-03",
+      "grade_distribution": {
+        "AU": 1
+      },
+      "thumbnail_url": null,
+      "median_weight_g": null,
+      "top_strike_score": null,
+      "top_surface_score": null,
+      "top_grade_numeric": 55,
+      "dominant_service": "pcgs",
+      "series": "Half Eagle ($5)",
+      "date_struck": "1798",
+      "mint_mark": null
+    },
+    {
       "slug": "roman-hadrian-ar-stater",
       "category": "roman",
       "ruler": "Hadrian",
@@ -16583,6 +16584,39 @@
       "dominant_service": "ngc",
       "series": null,
       "date_struck": null,
+      "mint_mark": null
+    },
+    {
+      "slug": "us-half-cent-1795",
+      "category": "us",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "ruler_dates": null,
+      "ruler_rarity": null,
+      "denomination": "Half Cent 1795",
+      "metal": "bronze",
+      "sale_count": 1,
+      "realized_count": 1,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 6500.0,
+        "max": 6500.0
+      },
+      "median_price_usd": 6500.0,
+      "last_sale_date": "2026-02-03",
+      "grade_distribution": {
+        "AU": 1
+      },
+      "thumbnail_url": null,
+      "median_weight_g": null,
+      "top_strike_score": null,
+      "top_surface_score": null,
+      "top_grade_numeric": 55,
+      "dominant_service": "pcgs",
+      "series": "Half Cent",
+      "date_struck": "1795",
       "mint_mark": null
     },
     {
@@ -20874,6 +20908,39 @@
       "mint_mark": null
     },
     {
+      "slug": "roman-constantine-i-av-solidus",
+      "category": "roman",
+      "ruler": "Constantine I",
+      "ruler_normalized": "constantine-i",
+      "dynasty": "Constantinian",
+      "ruler_dates": "AD 307\u2013337",
+      "ruler_rarity": null,
+      "denomination": "AV Solidus",
+      "metal": "gold",
+      "sale_count": 1,
+      "realized_count": 1,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 3400.0,
+        "max": 3400.0
+      },
+      "median_price_usd": 3400.0,
+      "last_sale_date": "2026-07-28",
+      "grade_distribution": {
+        "AU": 1
+      },
+      "thumbnail_url": "https://media.coinarchives.com/cd823025dba9dc0744ea9075a42a7d93/img/heritage/61635/image23259.jpg",
+      "median_weight_g": null,
+      "top_strike_score": 5,
+      "top_surface_score": 4,
+      "top_grade_numeric": 5,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
       "slug": "roman-caracalla-ae-sestertius",
       "category": "roman",
       "ruler": "Caracalla",
@@ -22007,39 +22074,6 @@
       "series": "Walking Liberty Half Dollar",
       "date_struck": "1939",
       "mint_mark": "D"
-    },
-    {
-      "slug": "greek-alexander-iii-ar-hemidrachm",
-      "category": "greek",
-      "ruler": "Alexander III",
-      "ruler_normalized": "alexander-iii",
-      "dynasty": "Macedonian",
-      "ruler_dates": null,
-      "ruler_rarity": null,
-      "denomination": "AR Hemidrachm",
-      "metal": "silver",
-      "sale_count": 1,
-      "realized_count": 1,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 750.0,
-        "max": 750.0
-      },
-      "median_price_usd": 750.0,
-      "last_sale_date": "2025-10-06",
-      "grade_distribution": {
-        "XF": 1
-      },
-      "thumbnail_url": null,
-      "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 4,
-      "top_grade_numeric": null,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
     },
     {
       "slug": "roman-theodosius-i-av-semissis",
