@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 1361,
-  "realized_count": 1358,
+  "sale_count": 1362,
+  "realized_count": 1359,
   "fixed_price_count": 1,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,14 +17,14 @@
     "max": 292800.0
   },
   "median_price_usd": 1920.0,
-  "last_sale_date": "2026-08-03",
+  "last_sale_date": "2026-08-04",
   "grade_distribution": {
     "VF": 270,
     "G": 19,
     "F": 31,
     "AU": 480,
     "AG": 1,
-    "XF": 374,
+    "XF": 375,
     "MS": 180,
     "VG": 6
   },
@@ -412,7 +412,7 @@
       "currency_original": "USD",
       "price_original": 2750.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-03",
+      "sale_date": "2026-08-04",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc101757a.jpg",
       "ngc": {
         "verified": false,
@@ -519,6 +519,39 @@
         "grade": "AU",
         "grade_numeric": null,
         "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-66062f08709b",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2787032&AucID=7242&Lot=23158&Val=1e44cd024553e76503992dd151ffdb4d",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61641, Lot 23158 \u2014 Ancients\nTHRACIAN KINGDOM. Lysimachus (305-281 BC). AR tetradrachm (29mm, 17.10 gm, 1h). NGC Choice XF 3/5 - 4/5. Colophon, ca. 301-297 BC. Head of Heracles right, wearing lion skin headdress, paws ti",
+      "description": "Ancients\nTHRACIAN KINGDOM. Lysimachus (305-281 BC). AR tetradrachm (29mm, 17.10 gm, 1h). NGC Choice XF 3/5 - 4/5. Colophon, ca. 301-297 BC. Head of Heracles right, wearing lion skin headdress, paws tied before neck / \u039b\u03a5\u03a3\u0399\u039c\u0391\u03a7\u039f\u03a5-BA\u03a3I\u039bE\u03a9\u03a3, Zeus seated left on backless throne, right leg drawn back, feet on stool, eagle in outstretched right hand, grounded scepter in left; forepart of lion above race torch in left field, pentagram below throne. Price L22.\n\nEx Heritage Auctions, Auction 232021 (20 M...",
+      "hammer_price_usd": 925.0,
+      "currency_original": "USD",
+      "price_original": 925.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-02",
+      "image_url": "https://media.coinarchives.com/4d167cbd61644ec692cbdf1eaaf14821/img/heritage/61641/image23158.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 3,
+        "strike_score": 3,
         "surface_score": 4,
         "details_grade": null,
         "fine_style": false,

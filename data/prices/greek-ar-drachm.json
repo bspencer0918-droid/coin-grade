@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Drachm",
   "metal": "silver",
-  "sale_count": 1026,
-  "realized_count": 1026,
+  "sale_count": 1027,
+  "realized_count": 1027,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,14 +17,14 @@
     "max": 40800.0
   },
   "median_price_usd": 169.0,
-  "last_sale_date": "2026-07-20",
+  "last_sale_date": "2026-08-02",
   "grade_distribution": {
     "F": 28,
     "VF": 132,
     "MS": 347,
     "AU": 299,
     "G": 8,
-    "XF": 200,
+    "XF": 201,
     "P": 7,
     "VG": 5
   },
@@ -454,6 +454,39 @@
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-9b2fd4fe076e",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2787036&AucID=7242&Lot=23162&Val=bafd47b49a0048c96e754a00e4681767",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61641, Lot 23162 \u2014 Ancients\nTHRACIAN KINGDOM. Lysimachus (305-281 BC). AR drachm (18mm, 4.20 gm, 1h). NGC XF. Lifetime issue, Colophon, ca. 301-297 BC. Head of Heracles right, wearing lion skin headdress, paws tied befo",
+      "description": "Ancients\nTHRACIAN KINGDOM. Lysimachus (305-281 BC). AR drachm (18mm, 4.20 gm, 1h). NGC XF. Lifetime issue, Colophon, ca. 301-297 BC. Head of Heracles right, wearing lion skin headdress, paws tied before neck / \u039b\u03a5\u03a3\u0399\u039c\u0391\u03a7\u039f\u03a5 / BA\u03a3I\u039bE\u03a9\u03a3, Zeus seated left on backless throne, right leg drawn back, feet suspended, eagle in outstretched right hand, grounded scepter in left; forepart of lion left above crescent left in left field, pentagram below strut. Price L28.\n\nFrom the Eyeappealing Collection. Ex He...",
+      "hammer_price_usd": 260.0,
+      "currency_original": "USD",
+      "price_original": 260.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-02",
+      "image_url": "https://media.coinarchives.com/1da16c3f738265eac08df4c0b8589b42/img/heritage/61641/image23162.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
