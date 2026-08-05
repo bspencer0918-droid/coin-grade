@@ -8,8 +8,8 @@
   "ruler_rarity": "common",
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 500,
-  "realized_count": 500,
+  "sale_count": 501,
+  "realized_count": 501,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -19,14 +19,14 @@
   "median_price_usd": 576.0,
   "last_sale_date": "2026-07-21",
   "grade_distribution": {
-    "AU": 187,
+    "AU": 188,
     "MS": 269,
     "XF": 34,
     "VF": 8,
     "G": 1,
     "F": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/04776fa9c972df18a89c92b710cebffd/img/heritage/61633/image22028.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/64d097d3579ae2050165cc10b2e5ecce/img/guillard/019/image00030.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 4,
@@ -63,6 +63,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-75d43d73dfc4",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2799796&AucID=7275&Lot=30&Val=6342712ce3c104d12858e7590aa328a8",
+      "title": "Patrick Guilard - E-Auction 19, Lot 30 \u2014 BYZANTINES - BYZANTINE COINS\n\nMAURICE TIB\u00c8RE (582-602)\nSolidus (Carthage) : Ange debout de face tenant une longue croix chrism\u00e9e\n  - SUP 50 (SUP-)\nRare surtout en l'\u00e9tat ! - NGC AU\nAnn\u00e9e 14 (595-6) - ",
+      "description": "BYZANTINES - BYZANTINE COINS\n\nMAURICE TIB\u00c8RE (582-602)\nSolidus (Carthage) : Ange debout de face tenant une longue croix chrism\u00e9e\n  - SUP 50 (SUP-)\nRare surtout en l'\u00e9tat ! - NGC AU\nAnn\u00e9e 14 (595-6) - l\u00e9g\u00e8res marques\n\nSB 549, R 1020, 1022\nCARTHAGE - OR - 4,45g\n ----------------------------------------\nMAURICE TIBERIUS (582-602)\nSolidus (Carthage): Angel standing facing holding long staff surmounted by Christogram\n  - AU 50\nRare among all in such grade!\nYear 14 (595-6) - NGC AU, light marks\n\nSB ...",
+      "hammer_price_usd": 1296.0,
+      "currency_original": "EUR",
+      "price_original": 1200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-21",
+      "image_url": "https://media.coinarchives.com/64d097d3579ae2050165cc10b2e5ecce/img/guillard/019/image00030.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

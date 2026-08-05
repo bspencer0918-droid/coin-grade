@@ -8,21 +8,21 @@
   "ruler_rarity": null,
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 4,
-  "realized_count": 4,
+  "sale_count": 5,
+  "realized_count": 5,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 850.0,
     "max": 1800.0
   },
-  "median_price_usd": 1240.875,
+  "median_price_usd": 1458.0,
   "last_sale_date": "2026-07-21",
   "grade_distribution": {
-    "AU": 3,
+    "AU": 4,
     "XF": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/a64e71189c388e0063c77ebb5a1a6fae/img/ponterio/236/image40292.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/262724fafde767d72fd17d8b18f00ab1/img/guillard/019/image00031.jpg",
   "median_weight_g": null,
   "top_strike_score": null,
   "top_surface_score": null,
@@ -59,6 +59,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-4ede50ae320f",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2799797&AucID=7275&Lot=31&Val=a964c4d5db003d6a7f2a3a1afbb34084",
+      "title": "Patrick Guilard - E-Auction 19, Lot 31 \u2014 BYZANTINES - BYZANTINE COINS\n\nMICHEL II l'Amorien (820-829)\nSolidus (Syracuse) : Buste de Michel de face - R/: Buste de Th\u00e9ophile de face, le globe crucig\u00e8re accost\u00e9 de 2 globules\n  - SUP 58 (SUP)\nRar",
+      "description": "BYZANTINES - BYZANTINE COINS\n\nMICHEL II l'Amorien (820-829)\nSolidus (Syracuse) : Buste de Michel de face - R/: Buste de Th\u00e9ophile de face, le globe crucig\u00e8re accost\u00e9 de 2 globules\n  - SUP 58 (SUP)\nRare surtout en l'\u00e9tat ! - NGC AU\n\n\nSB 1644, R 18100v\nSYRACUSE - OR - 3,84g\n ----------------------------------------\nMICHAEL II the Amorian (820-829)\nSolidus (Syracuse): Bust of Michael facing - R/: Bust of Theophilus facing, the globus-cruciger flanked by 2 pellets\n  - AU 58\nRare among all in such ...",
+      "hammer_price_usd": 1458.0,
+      "currency_original": "EUR",
+      "price_original": 1350.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-21",
+      "image_url": "https://media.coinarchives.com/262724fafde767d72fd17d8b18f00ab1/img/guillard/019/image00031.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

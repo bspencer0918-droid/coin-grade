@@ -17,7 +17,7 @@
     "max": 600000.0
   },
   "median_price_usd": 117000.0,
-  "last_sale_date": "2026-07-27",
+  "last_sale_date": "2026-08-05",
   "grade_distribution": {
     "P": 2,
     "AU": 1,
@@ -28,14 +28,47 @@
   },
   "thumbnail_url": "https://media.coinarchives.com/cb7923f299354e10397c731d60997cf1/img/cng/132/image00015.jpg",
   "median_weight_g": null,
-  "top_strike_score": null,
-  "top_surface_score": null,
+  "top_strike_score": 5,
+  "top_surface_score": 4,
   "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "cng-4037cd5e6ec2",
+      "source": "cng",
+      "listing_type": "auction_realized",
+      "lot_url": "https://auctions.cngcoins.com/lots/view/4-KP093Q",
+      "title": "CNG Feature Auction 132 Lot: 15. Gaius (Caligula). AD 37-41. AV Aureus (19.5mm, 7.66 g, 3h). Lugdunum (Lyon) mint. 2nd emission, 2nd phase, late AD 37-early 38. NGC Photo Certificate graded Ch XF, Strike: 5/5, Surface: 4/5.",
+      "description": "The PLZ Collection, Coin-in-Hand Video, Gold Estimated:\u00a0$  150 000 Sold\u00a0Price:\u00a0$  200 000",
+      "hammer_price_usd": 200000.0,
+      "currency_original": "USD",
+      "price_original": 200000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-05",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "P",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-3ed730bf4778",
       "source": "coinarchives",
@@ -63,39 +96,6 @@
       },
       "metadata": {
         "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "cng-4037cd5e6ec2",
-      "source": "cng",
-      "listing_type": "auction_realized",
-      "lot_url": "https://auctions.cngcoins.com/lots/view/4-KP093Q",
-      "title": "CNG Feature Auction 132 Lot: 15. Gaius (Caligula). AD 37-41. AV Aureus (19.5mm, 7.66 g, 3h). Lugdunum (Lyon) mint. 2nd emission, 2nd phase, late AD 37-early 38. NGC Photo Certificate graded Ch XF, Strike: 5/5, Surface: 4/5.",
-      "description": "The PLZ Collection, Coin-in-Hand Video, Gold Estimated:\u00a0$  150 000 Sold\u00a0Price:\u00a0$  200 000",
-      "hammer_price_usd": 200000.0,
-      "currency_original": "USD",
-      "price_original": 200000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-07-27",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "P",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
