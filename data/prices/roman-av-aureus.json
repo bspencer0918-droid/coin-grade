@@ -27,11 +27,11 @@
     "G": 2,
     "VG": 5
   },
-  "thumbnail_url": "https://media.coinarchives.com/fbcb27949c4303a91bf87e51bc38c1a9/img/mdc/018/image00244.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/7f1b67248f33130fc339934ab415b640/img/mdc/018/image00205.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 3,
-  "top_grade_numeric": 5,
+  "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
@@ -269,6 +269,39 @@
       }
     },
     {
+      "id": "coinarchives-7b4c344e420c",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2732427&AucID=7041&Lot=205&Val=1c37f469c067ccaf6e39c3a02efe7bbd",
+      "title": "MDC Monnaies de Collection sarl - Auction 18, Lot 205 \u2014 EMPIRE ROMAIN - ROMAN\nAuguste (27 av. J.-C. - 14 ap. J.-C.). Aureus ND (c.25-22 av. J.-C.), Colonia Patricia ? NGC MS* 5/5 3/5 bankers mark (8558293-003).\nAv. AVGVSTVS. T\u00eate nue \u00e0 droite. \nRv. S\u00b7P\u00b7 - ",
+      "description": "EMPIRE ROMAIN - ROMAN\nAuguste (27 av. J.-C. - 14 ap. J.-C.). Aureus ND (c.25-22 av. J.-C.), Colonia Patricia ? NGC MS* 5/5 3/5 bankers mark (8558293-003).\nAv. AVGVSTVS. T\u00eate nue \u00e0 droite. \nRv. S\u00b7P\u00b7 - Q\u00b7 R. Victoire ail\u00e9e \u00e0 gauche tenant un bouclier inscrit CL. V (Clipeus Virtutis).\nRIC 61 - Calic\u00f3 287 ; Or - 7,84 g - 19,5 mm - 6 h\nProvient de la collection Michael F. Price, vente Stack's, 3 d\u00e9cembre 1996, n\u00b0 105.\nNGC MS* 5/5 3/5 bankers mark (8558293-003). \nSur un flan l\u00e9g\u00e8rement oblong. Une c...",
+      "hammer_price_usd": 205200.0,
+      "currency_original": "EUR",
+      "price_original": 190000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-13",
+      "image_url": "https://media.coinarchives.com/7f1b67248f33130fc339934ab415b640/img/mdc/018/image00205.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "8558293-003",
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8558293003/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-0d232bab6996",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -324,39 +357,6 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/8558293002/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-7b4c344e420c",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2732427&AucID=7041&Lot=205&Val=1c37f469c067ccaf6e39c3a02efe7bbd",
-      "title": "MDC Monnaies de Collection sarl - Auction 18, Lot 205 \u2014 EMPIRE ROMAIN - ROMAN\nAuguste (27 av. J.-C. - 14 ap. J.-C.). Aureus ND (c.25-22 av. J.-C.), Colonia Patricia ? NGC MS* 5/5 3/5 bankers mark (8558293-003).\nAv. AVGVSTVS. T\u00eate nue \u00e0 droite. \nRv. S\u00b7P\u00b7 - ",
-      "description": "EMPIRE ROMAIN - ROMAN\nAuguste (27 av. J.-C. - 14 ap. J.-C.). Aureus ND (c.25-22 av. J.-C.), Colonia Patricia ? NGC MS* 5/5 3/5 bankers mark (8558293-003).\nAv. AVGVSTVS. T\u00eate nue \u00e0 droite. \nRv. S\u00b7P\u00b7 - Q\u00b7 R. Victoire ail\u00e9e \u00e0 gauche tenant un bouclier inscrit CL. V (Clipeus Virtutis).\nRIC 61 - Calic\u00f3 287 ; Or - 7,84 g - 19,5 mm - 6 h\nProvient de la collection Michael F. Price, vente Stack's, 3 d\u00e9cembre 1996, n\u00b0 105.\nNGC MS* 5/5 3/5 bankers mark (8558293-003). \nSur un flan l\u00e9g\u00e8rement oblong. Une c...",
-      "hammer_price_usd": 205200.0,
-      "currency_original": "EUR",
-      "price_original": 190000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-05-13",
-      "image_url": "https://media.coinarchives.com/7f1b67248f33130fc339934ab415b640/img/mdc/018/image00205.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": "8558293-003",
-        "grade": "MS",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/8558293003/",
         "grading_service": "ngc"
       },
       "metadata": {

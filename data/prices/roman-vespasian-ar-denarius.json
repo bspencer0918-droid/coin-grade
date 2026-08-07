@@ -20,14 +20,14 @@
   "last_sale_date": "2026-07-28",
   "grade_distribution": {
     "VF": 204,
+    "F": 74,
     "XF": 141,
     "AU": 85,
-    "F": 74,
     "MS": 11,
     "G": 3,
     "VG": 28
   },
-  "thumbnail_url": "https://media.coinarchives.com/834fd2d1b701341989f0e4af78025ab3/img/heritage/61605/image23060.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/4c38556218fd7ec6c72de640d71a058f/img/heritage/61635/image23066.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 5,
@@ -104,6 +104,39 @@
       }
     },
     {
+      "id": "coinarchives-3b1c52bc7b5e",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2796126&AucID=7267&Lot=23066&Val=68e1e55e02b806e06ca59d7814c3dace",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61635, Lot 23066 \u2014 Ancients\nVespasian (AD 69-79). AR denarius (17mm, 12h). NGC Fine, brockage. Rome. IMP CAESAR VESPASIANVS AVG, laureate head of Vespasian right / Incuse of obverse. Cf. RIC II.1, 703 for obverse.\n\nFrom",
+      "description": "Ancients\nVespasian (AD 69-79). AR denarius (17mm, 12h). NGC Fine, brockage. Rome. IMP CAESAR VESPASIANVS AVG, laureate head of Vespasian right / Incuse of obverse. Cf. RIC II.1, 703 for obverse.\n\nFrom the Eyeappealing Collection. Ex the Historical Scholar Collection (Heritage Auctions, Auction 232237, 14 September 2022), lot 63259; Harlan J. Berk, private sale with old dealer's tag included. \n\nDescended from a family of small-time entrepreneurs and tax farmers in the Sabine hill country north ...",
+      "hammer_price_usd": 260.0,
+      "currency_original": "USD",
+      "price_original": 260.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-28",
+      "image_url": "https://media.coinarchives.com/4c38556218fd7ec6c72de640d71a058f/img/heritage/61635/image23066.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-6129ce81bf00",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -158,39 +191,6 @@
         "surface_score": 5,
         "details_grade": null,
         "fine_style": true,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-3b1c52bc7b5e",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2796126&AucID=7267&Lot=23066&Val=68e1e55e02b806e06ca59d7814c3dace",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61635, Lot 23066 \u2014 Ancients\nVespasian (AD 69-79). AR denarius (17mm, 12h). NGC Fine, brockage. Rome. IMP CAESAR VESPASIANVS AVG, laureate head of Vespasian right / Incuse of obverse. Cf. RIC II.1, 703 for obverse.\n\nFrom",
-      "description": "Ancients\nVespasian (AD 69-79). AR denarius (17mm, 12h). NGC Fine, brockage. Rome. IMP CAESAR VESPASIANVS AVG, laureate head of Vespasian right / Incuse of obverse. Cf. RIC II.1, 703 for obverse.\n\nFrom the Eyeappealing Collection. Ex the Historical Scholar Collection (Heritage Auctions, Auction 232237, 14 September 2022), lot 63259; Harlan J. Berk, private sale with old dealer's tag included. \n\nDescended from a family of small-time entrepreneurs and tax farmers in the Sabine hill country north ...",
-      "hammer_price_usd": 260.0,
-      "currency_original": "USD",
-      "price_original": 260.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-07-28",
-      "image_url": "https://media.coinarchives.com/4c38556218fd7ec6c72de640d71a058f/img/heritage/61635/image23066.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "F",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
       },

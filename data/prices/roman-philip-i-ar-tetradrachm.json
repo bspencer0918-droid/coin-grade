@@ -17,7 +17,7 @@
     "max": 8400.0
   },
   "median_price_usd": 169.0,
-  "last_sale_date": "2026-08-06",
+  "last_sale_date": "2026-08-07",
   "grade_distribution": {
     "VF": 51,
     "XF": 180,
@@ -49,7 +49,7 @@
       "currency_original": "USD",
       "price_original": 325.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-06",
+      "sale_date": "2026-08-07",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -765,39 +765,6 @@
       }
     },
     {
-      "id": "coinarchives-420b6940368c",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2733404&AucID=7049&Lot=2635&Val=c06c5107fc248d5b3269f0320149e58c",
-      "title": "Timeline Auctions - Auction 170, Lot 2635 \u2014 Kingdom of Macedon, Philip II AR Tetradrachm 359-336 B.C. Amphipolis mint. Posthumous issue. Struck under Kassander, circa 316-314 BC. Laureate head of Zeus to right / \u03a6\u0399\u039b\u0399\u03a0-\u03a0O\u03a5, nude youth, holding p",
-      "description": "Kingdom of Macedon, Philip II AR Tetradrachm 359-336 B.C. Amphipolis mint. Posthumous issue. Struck under Kassander, circa 316-314 BC. Laureate head of Zeus to right / \u03a6\u0399\u039b\u0399\u03a0-\u03a0O\u03a5, nude youth, holding palm frond, on horseback to right; aplustre below, pellet-in-\u03a0 beneath raised foreleg. Le Rider pl. 46, 18; Troxell, Studies, Group 9, 323-5; SNG ANS 738-46.  Slab: 62 grams, 85 x 60cm  NGC graded AU Strike: 4/5 Surface: 4/5 Fine Style (#8221307-001).\n\nAcquired on the UK art market. Ex County Durha...",
-      "hammer_price_usd": 2286.0,
-      "currency_original": "GBP",
-      "price_original": 1800.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-10",
-      "image_url": "https://media.coinarchives.com/5319ba773bb3977fffaa27e698d35260/img/timeline/170/image02635.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": "8221307-001",
-        "grade": "G",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": true,
-        "certification_url": "https://www.ngccoin.com/certlookup/8221307001/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-4d41d9996cf6",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -952,6 +919,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-420b6940368c",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2733404&AucID=7049&Lot=2635&Val=c06c5107fc248d5b3269f0320149e58c",
+      "title": "Timeline Auctions - Auction 170, Lot 2635 \u2014 Kingdom of Macedon, Philip II AR Tetradrachm 359-336 B.C. Amphipolis mint. Posthumous issue. Struck under Kassander, circa 316-314 BC. Laureate head of Zeus to right / \u03a6\u0399\u039b\u0399\u03a0-\u03a0O\u03a5, nude youth, holding p",
+      "description": "Kingdom of Macedon, Philip II AR Tetradrachm 359-336 B.C. Amphipolis mint. Posthumous issue. Struck under Kassander, circa 316-314 BC. Laureate head of Zeus to right / \u03a6\u0399\u039b\u0399\u03a0-\u03a0O\u03a5, nude youth, holding palm frond, on horseback to right; aplustre below, pellet-in-\u03a0 beneath raised foreleg. Le Rider pl. 46, 18; Troxell, Studies, Group 9, 323-5; SNG ANS 738-46.  Slab: 62 grams, 85 x 60cm  NGC graded AU Strike: 4/5 Surface: 4/5 Fine Style (#8221307-001).\n\nAcquired on the UK art market. Ex County Durha...",
+      "hammer_price_usd": 2286.0,
+      "currency_original": "GBP",
+      "price_original": 1800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-10",
+      "image_url": "https://media.coinarchives.com/5319ba773bb3977fffaa27e698d35260/img/timeline/170/image02635.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "8221307-001",
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": "https://www.ngccoin.com/certlookup/8221307001/",
         "grading_service": "ngc"
       },
       "metadata": {
