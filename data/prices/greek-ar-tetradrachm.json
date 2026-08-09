@@ -17,14 +17,14 @@
     "max": 292800.0
   },
   "median_price_usd": 1920.0,
-  "last_sale_date": "2026-08-08",
+  "last_sale_date": "2026-08-09",
   "grade_distribution": {
     "VF": 270,
     "G": 19,
     "F": 31,
-    "AU": 480,
     "AG": 1,
     "XF": 375,
+    "AU": 480,
     "MS": 180,
     "VG": 6
   },
@@ -49,7 +49,7 @@
       "currency_original": "USD",
       "price_original": 1300.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-08",
+      "sale_date": "2026-08-09",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -336,39 +336,6 @@
       }
     },
     {
-      "id": "sixbid-9e3b56ec4cb0",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13566/ancients-celtic/11997692/eastern-europe-lower-danube-uncertain",
-      "title": "EASTERN EUROPE. Lower Danube. Uncertain tribe. Ca. 2nd-1st centuries BC. AR tetradrachm (35mm, 16.80 gm, 10h). NGC AU 4/5 - 4/5. Imitating Macedonian First Meris issues, ca. 167-149 BC. Diademed, draped bust of Artemis right, bow and quiver over shoulder; all within the tondo of Macedonian shield / MAKE\u0394ON\u03a9N / \u03a0P\u03a9TH\u03a3, club of Heracles right; AYP monogram above, all within oak wreath, thunderbolt in outer left field. Lanz 1008.  From A Pugnus Maximus Collection by Mandy Farris Woods.    HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice <br> Ancients",
-      "description": "Heritage Auctions, Inc. | ['Auction #61596']",
-      "hammer_price_usd": 550.0,
-      "currency_original": "USD",
-      "price_original": 550.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-02-09",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "sixbid-361e5182dd56",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -445,7 +412,7 @@
       "currency_original": "USD",
       "price_original": 2750.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-08",
+      "sale_date": "2026-08-09",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc101757a.jpg",
       "ngc": {
         "verified": false,
@@ -2639,6 +2606,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-9e3b56ec4cb0",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13566/ancients-celtic/11997692/eastern-europe-lower-danube-uncertain",
+      "title": "EASTERN EUROPE. Lower Danube. Uncertain tribe. Ca. 2nd-1st centuries BC. AR tetradrachm (35mm, 16.80 gm, 10h). NGC AU 4/5 - 4/5. Imitating Macedonian First Meris issues, ca. 167-149 BC. Diademed, draped bust of Artemis right, bow and quiver over shoulder; all within the tondo of Macedonian shield / MAKE\u0394ON\u03a9N / \u03a0P\u03a9TH\u03a3, club of Heracles right; AYP monogram above, all within oak wreath, thunderbolt in outer left field. Lanz 1008.  From A Pugnus Maximus Collection by Mandy Farris Woods.    HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice <br> Ancients",
+      "description": "Heritage Auctions, Inc. | ['Auction #61596']",
+      "hammer_price_usd": 550.0,
+      "currency_original": "USD",
+      "price_original": 550.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-02-09",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

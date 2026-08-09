@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 769,
-  "realized_count": 769,
+  "sale_count": 770,
+  "realized_count": 770,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -23,7 +23,7 @@
     "MS": 30,
     "F": 92,
     "AU": 116,
-    "XF": 243,
+    "XF": 244,
     "VG": 2
   },
   "thumbnail_url": "https://media.coinarchives.com/b0186c8028ddd29f388f2f87a9340b57/img/snmw/17/image11020.jpg",
@@ -367,6 +367,72 @@
       }
     },
     {
+      "id": "sixbid-a0118ffa0847",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13634/ancients-roman-imperial/12049018/hadrian-ad-117-138-ar-denarius",
+      "title": "Hadrian (AD 117-138). AR denarius (17mm, 3.59 gm, 8h). NGC AU 5/5 - 5/5. Rome, ca. AD 121-123. IMP CAESAR TRAIAN-HADRIANVS AVG, laureate bust of Hadrian right, slight drapery on far shoulder, seen from front / PM TR-P-COS III, Roma seated left on cuirass, Victory left in outstretched right hand, grounded spear in left, shield behind. RIC II.3, 542.  Ex Heritage Auctions, Auction 231617 (28 April 2016), lot 64024.   Publius Aelius Hadrianus was born in AD 76, the son of a distinguished Spanish senator and related through his mother to the future Emperor Trajan, who took him into his household when Hadrian was nine years old. After Trajan's accession, Hadrian held a series of civilian posts, including a consulship in AD 108, and commanded legions during the Dacian and Parthian wars. Hadrian was not formally adopted until Trajan lay on his deathbed in August, AD 117; after succeeding to the throne, Hadrian abandoned many of Trajan's over-ambitious conquests and engaged in a policy of peace abroad and reform at home. He spent most of his 21-year reign traveling, visiting every province of the Roman Empire. Under his patronage, Roman art and sculpture reached its creative peak. Hadrian came to see himself as a \"second Augustus,\" providing the empire with a new foundation as a vast commonwealth of nations under Rome's guiding hand.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61605']",
+      "hammer_price_usd": 1700.0,
+      "currency_original": "USD",
+      "price_original": 1700.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-15",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-c5ca118a4815",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13634/ancients-roman-imperial/12049021/hadrian-ad-117-138-ar-denarius",
+      "title": "Hadrian (AD 117-138). AR denarius (19mm, 7h). NGC VF. Rome, AD August-December 117. IMP CAES TRAIAN HADRIA-N OPT AVG GER DAC, laureate, cuirassed bust of Hadrian right, exposed upper part of breastplate, balteus strap across chest, seen from front / PARTHIC DIVI TRAIAN AVG F P M TR P COS P P, Concordia enthroned left, patera in outstretched right hand, left arm leaning on statue of Spes, cornucopia below throne; CONCORD in exergue. RIC II.3, 15.  Publius Aelius Hadrianus was born in AD 76, the son of a distinguished Spanish senator and related through his mother to the future Emperor Trajan, who took him into his household when Hadrian was nine years old. After Trajan's accession, Hadrian held a series of civilian posts, including a consulship in AD 108, and commanded legions during the Dacian and Parthian wars. Hadrian was not formally adopted until Trajan lay on his deathbed in August, AD 117; after succeeding to the throne, Hadrian abandoned many of Trajan's over-ambitious conquests and engaged in a policy of peace abroad and reform at home. He spent most of his 21-year reign traveling, visiting every province of the Roman Empire. Under his patronage, Roman art and sculpture reached its creative peak. Hadrian came to see himself as a \"second Augustus,\" providing the empire with a new foundation as a vast commonwealth of nations under Rome's guiding hand.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61605']",
+      "hammer_price_usd": 280.0,
+      "currency_original": "USD",
+      "price_original": 280.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-15",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-094e9d77bb60",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -499,6 +565,39 @@
       }
     },
     {
+      "id": "coinarchives-19b6f546d4f4",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2722396&AucID=7012&Lot=23082&Val=4505be37aff404d7306efd670e24af36",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61605, Lot 23082 \u2014 Ancients\nSabina (AD 128-136/7). AR denarius (18mm, 3.50 gm, 5h). NGC Choice XF 5/5 - 4/5. Rome, ca. AD 128-129. SABINA AVGVSTA-HADRIANI AVG P P, diademed, draped bust of Sabina right, seen from front,",
+      "description": "Ancients\nSabina (AD 128-136/7). AR denarius (18mm, 3.50 gm, 5h). NGC Choice XF 5/5 - 4/5. Rome, ca. AD 128-129. SABINA AVGVSTA-HADRIANI AVG P P, diademed, draped bust of Sabina right, seen from front, hair waved, rising into crest on top above diadem, knotted in queue, falling down back of neck / PVDI-CITIA, Pudicitia standing facing, head left, arranging veil with right hand. RIC II.3, 2507.\n\nVibia Sabina, born AD 83, was the long-suffering wife of Hadrian. At one point, Hadrian felt that Sue...",
+      "hammer_price_usd": 320.0,
+      "currency_original": "USD",
+      "price_original": 320.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-15",
+      "image_url": "https://media.coinarchives.com/b8137e478a5fb31784e75b035ec8c53d/img/heritage/61605/image23082.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-5af6f356a414",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -558,72 +657,6 @@
       },
       "metadata": {
         "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-a0118ffa0847",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13634/ancients-roman-imperial/12049018/hadrian-ad-117-138-ar-denarius",
-      "title": "Hadrian (AD 117-138). AR denarius (17mm, 3.59 gm, 8h). NGC AU 5/5 - 5/5. Rome, ca. AD 121-123. IMP CAESAR TRAIAN-HADRIANVS AVG, laureate bust of Hadrian right, slight drapery on far shoulder, seen from front / PM TR-P-COS III, Roma seated left on cuirass, Victory left in outstretched right hand, grounded spear in left, shield behind. RIC II.3, 542.  Ex Heritage Auctions, Auction 231617 (28 April 2016), lot 64024.   Publius Aelius Hadrianus was born in AD 76, the son of a distinguished Spanish senator and related through his mother to the future Emperor Trajan, who took him into his household when Hadrian was nine years old. After Trajan's accession, Hadrian held a series of civilian posts, including a consulship in AD 108, and commanded legions during the Dacian and Parthian wars. Hadrian was not formally adopted until Trajan lay on his deathbed in August, AD 117; after succeeding to the throne, Hadrian abandoned many of Trajan's over-ambitious conquests and engaged in a policy of peace abroad and reform at home. He spent most of his 21-year reign traveling, visiting every province of the Roman Empire. Under his patronage, Roman art and sculpture reached its creative peak. Hadrian came to see himself as a \"second Augustus,\" providing the empire with a new foundation as a vast commonwealth of nations under Rome's guiding hand.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
-      "description": "Heritage Auctions, Inc. | ['Auction #61605']",
-      "hammer_price_usd": 1700.0,
-      "currency_original": "USD",
-      "price_original": 1700.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-15",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-c5ca118a4815",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13634/ancients-roman-imperial/12049021/hadrian-ad-117-138-ar-denarius",
-      "title": "Hadrian (AD 117-138). AR denarius (19mm, 7h). NGC VF. Rome, AD August-December 117. IMP CAES TRAIAN HADRIA-N OPT AVG GER DAC, laureate, cuirassed bust of Hadrian right, exposed upper part of breastplate, balteus strap across chest, seen from front / PARTHIC DIVI TRAIAN AVG F P M TR P COS P P, Concordia enthroned left, patera in outstretched right hand, left arm leaning on statue of Spes, cornucopia below throne; CONCORD in exergue. RIC II.3, 15.  Publius Aelius Hadrianus was born in AD 76, the son of a distinguished Spanish senator and related through his mother to the future Emperor Trajan, who took him into his household when Hadrian was nine years old. After Trajan's accession, Hadrian held a series of civilian posts, including a consulship in AD 108, and commanded legions during the Dacian and Parthian wars. Hadrian was not formally adopted until Trajan lay on his deathbed in August, AD 117; after succeeding to the throne, Hadrian abandoned many of Trajan's over-ambitious conquests and engaged in a policy of peace abroad and reform at home. He spent most of his 21-year reign traveling, visiting every province of the Roman Empire. Under his patronage, Roman art and sculpture reached its creative peak. Hadrian came to see himself as a \"second Augustus,\" providing the empire with a new foundation as a vast commonwealth of nations under Rome's guiding hand.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
-      "description": "Heritage Auctions, Inc. | ['Auction #61605']",
-      "hammer_price_usd": 280.0,
-      "currency_original": "USD",
-      "price_original": 280.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-15",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

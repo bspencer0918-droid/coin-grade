@@ -19,53 +19,20 @@
   "median_price_usd": 925.0,
   "last_sale_date": "2026-06-01",
   "grade_distribution": {
-    "XF": 3,
     "VF": 3,
+    "XF": 3,
     "MS": 2
   },
   "thumbnail_url": "https://media.coinarchives.com/cfe8d13611f4abff2fc91ba62623aa8a/img/heritage/61611/image21065.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
-  "top_surface_score": 5,
+  "top_surface_score": 2,
   "top_grade_numeric": 4,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-8395f236ed28",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13566/ancients-greek/11997780/thracian-kingdom-lysimachus-305-281-bc",
-      "title": "THRACIAN KINGDOM. Lysimachus (305-281 BC). AR drachm (18mm, 4.18 gm, 7h). NGC XF 4/5 - 5/5. In the types of Alexander III the Great of Macedon, Lampsacus, ca. 301-296 BC. Head of Heracles right, wearing lion skin headdress, paws tied before neck / \u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 / \u039b\u03a5\u03a3\u0399\u039c\u0391\u03a7\u039f\u03a5, Zeus seated left on backless throne, right leg drawn back, feet on stool, eagle in outstretched right hand, grounded scepter in left; dolphin left above lion forepart left in left field, upwards hook below throne. Price L12.  Alexander the Great's meteoric 13-year career of conquest left the classical world profoundly transformed by the time of his premature death in 323 BC. In the immediate aftermath, Alexander's generals carved up his immense new empire into spheres of influence, although maintaining the fiction of a unified leadership. Territorial disputes soon led to civil wars, with the rival warlords contending for supreme power. Chief among these was Lysimachus, who at various times controlled Thrace, Macedon, and much of Asia Minor. For the obverse of his silver his coinage, Lysimachus claimed the mantle of Alexander by choosing the image of the conqueror himself, now shown as a god wearing the ram's horn of the Greco-Egyptian deity Ammon. The image is one of the earliest true portraits to appear on a coin, and one of the finest. The reverse, depicting Athena enthroned, likewise proved extremely influential throughout history, forming the archetype for the figure of Britannia on modern English coins.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice <br> Ancients",
-      "description": "Heritage Auctions, Inc. | ['Auction #61596']",
-      "hammer_price_usd": 440.0,
-      "currency_original": "USD",
-      "price_original": 440.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-02-09",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 5,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-cf9685f5f6fc",
       "source": "coinarchives",
@@ -93,6 +60,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-8395f236ed28",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13566/ancients-greek/11997780/thracian-kingdom-lysimachus-305-281-bc",
+      "title": "THRACIAN KINGDOM. Lysimachus (305-281 BC). AR drachm (18mm, 4.18 gm, 7h). NGC XF 4/5 - 5/5. In the types of Alexander III the Great of Macedon, Lampsacus, ca. 301-296 BC. Head of Heracles right, wearing lion skin headdress, paws tied before neck / \u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 / \u039b\u03a5\u03a3\u0399\u039c\u0391\u03a7\u039f\u03a5, Zeus seated left on backless throne, right leg drawn back, feet on stool, eagle in outstretched right hand, grounded scepter in left; dolphin left above lion forepart left in left field, upwards hook below throne. Price L12.  Alexander the Great's meteoric 13-year career of conquest left the classical world profoundly transformed by the time of his premature death in 323 BC. In the immediate aftermath, Alexander's generals carved up his immense new empire into spheres of influence, although maintaining the fiction of a unified leadership. Territorial disputes soon led to civil wars, with the rival warlords contending for supreme power. Chief among these was Lysimachus, who at various times controlled Thrace, Macedon, and much of Asia Minor. For the obverse of his silver his coinage, Lysimachus claimed the mantle of Alexander by choosing the image of the conqueror himself, now shown as a god wearing the ram's horn of the Greco-Egyptian deity Ammon. The image is one of the earliest true portraits to appear on a coin, and one of the finest. The reverse, depicting Athena enthroned, likewise proved extremely influential throughout history, forming the archetype for the figure of Britannia on modern English coins.   HID05401242017  \u00a9 2025 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice <br> Ancients",
+      "description": "Heritage Auctions, Inc. | ['Auction #61596']",
+      "hammer_price_usd": 440.0,
+      "currency_original": "USD",
+      "price_original": 440.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-02-09",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
