@@ -19,14 +19,14 @@
   "median_price_usd": 375.0,
   "last_sale_date": "2026-08-02",
   "grade_distribution": {
-    "MS": 52,
     "XF": 160,
     "AU": 92,
     "VF": 88,
+    "MS": 52,
     "G": 3,
     "VG": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/d0dd80974a6a20567592d33b14079f58/img/heritage/61641/image23107.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/fa590da16a849ea33d5cc36933d9305a/img/heritage/61641/image23069.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -36,39 +36,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-c1be585c1d9e",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13839/ancients-greek/12272182/macedonian-kingdom-perseus-179-168-bc",
-      "title": "MACEDONIAN KINGDOM. Perseus (179-168 BC). AR drachm (17mm, 2.69 gm, 7h). NGC MS 4/5 - 5/5. Pseudo-Rhodian, Greek mercenaries issue, ca. 175-170 BC, Ermias, magistrate. Head of Helios facing, turned slightly right, hair parted in center and swept to either side / EPMIA\u03a3, rose with single bud on tendril to right; \u039e-\u03a9 flanking stem. SNG Keckman 793-795 (Thessaly). Price, Kraay-M\u00f8rkholm Essays, pp. 241-242 (Northern Greece). SNG Copenhagen Supp. 358 (Rhodian Peraia). Tangerine backlight.   As the illegitimate son of Philip V, Perseus was threatened by his younger, legitimate half-brother, Demetrius, for the position of heir. Thus, he would forge a letter from a Roman general that warned Philip V of Demetrius' plan to overthrow him. Convinced, he would execute Demetrius. He himself would die the next year, allowing Perseus to take the throne in 179 BC. By 171 BC, he would enter the Third Macedonian War against Rome, which swiftly ended with his surrender to Lucius Aemilius Paullus. He was held captive by Rome for two years until his death in 168 BC - his conditions which are contradicted by Plutarch and Livy. His young son, Alexander, was taken to be raised and integrated into Roman society. Alas, with no other heirs: Perseus' death marked the end of the Macedonian kingdom.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
-      "description": "Heritage Auctions, Inc. | ['Auction #61626']",
-      "hammer_price_usd": 1342.0,
-      "currency_original": "USD",
-      "price_original": 1342.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-06-07",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 5,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "sixbid-3fc169fe1a13",
       "source": "sixbid",
@@ -1621,6 +1588,39 @@
       }
     },
     {
+      "id": "sixbid-c1be585c1d9e",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13839/ancients-greek/12272182/macedonian-kingdom-perseus-179-168-bc",
+      "title": "MACEDONIAN KINGDOM. Perseus (179-168 BC). AR drachm (17mm, 2.69 gm, 7h). NGC MS 4/5 - 5/5. Pseudo-Rhodian, Greek mercenaries issue, ca. 175-170 BC, Ermias, magistrate. Head of Helios facing, turned slightly right, hair parted in center and swept to either side / EPMIA\u03a3, rose with single bud on tendril to right; \u039e-\u03a9 flanking stem. SNG Keckman 793-795 (Thessaly). Price, Kraay-M\u00f8rkholm Essays, pp. 241-242 (Northern Greece). SNG Copenhagen Supp. 358 (Rhodian Peraia). Tangerine backlight.   As the illegitimate son of Philip V, Perseus was threatened by his younger, legitimate half-brother, Demetrius, for the position of heir. Thus, he would forge a letter from a Roman general that warned Philip V of Demetrius' plan to overthrow him. Convinced, he would execute Demetrius. He himself would die the next year, allowing Perseus to take the throne in 179 BC. By 171 BC, he would enter the Third Macedonian War against Rome, which swiftly ended with his surrender to Lucius Aemilius Paullus. He was held captive by Rome for two years until his death in 168 BC - his conditions which are contradicted by Plutarch and Livy. His young son, Alexander, was taken to be raised and integrated into Roman society. Alas, with no other heirs: Perseus' death marked the end of the Macedonian kingdom.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61626']",
+      "hammer_price_usd": 1342.0,
+      "currency_original": "USD",
+      "price_original": 1342.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-07",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "sixbid-9c4568f35d5e",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -1680,72 +1680,6 @@
       },
       "metadata": {
         "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-f0f5b8680de9",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2786981&AucID=7242&Lot=23107&Val=58a1e6fd3a1b3268f81a8727ad7ba47f",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61641, Lot 23107 \u2014 Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AR drachm (19mm, 4.22 gm, 11h). NGC MS 5/5 - 4/5. Lifetime-early posthumous issue, Sardes, ca. 323-319 BC. Head of Heracles right, we",
-      "description": "Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AR drachm (19mm, 4.22 gm, 11h). NGC MS 5/5 - 4/5. Lifetime-early posthumous issue, Sardes, ca. 323-319 BC. Head of Heracles right, wearing lion skin headdress, paws tied before neck / A\u039bE\u039eAN\u0394POY, Zeus seated left on backless throne, right leg drawn back, feet on stool, eagle in right hand, grounded scepter in left; race torch in left field, A below strut. Price 2637.\n\nAlexander the Great, born in 356 BC in Pella, Macedonia, was...",
-      "hammer_price_usd": 950.0,
-      "currency_original": "USD",
-      "price_original": 950.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-08-02",
-      "image_url": "https://media.coinarchives.com/d0dd80974a6a20567592d33b14079f58/img/heritage/61641/image23107.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-a6c9888f6579",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2777606&AucID=7219&Lot=21178&Val=72c700e0d96d005dc8423f18a0ea3b00",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61644, Lot 21178 \u2014 Ancients\nSELEUCID KINGDOM. Coregency of Antiochus I Soter (294-281 BC) with Seleucus I Nicator (312-281 BC). AR drachm (16mm, 4.08 gm, 11h). NGC MS 4/5 - 3/5. Drangiana mint, Ca. 294-281 BC. Head of h",
-      "description": "Ancients\nSELEUCID KINGDOM. Coregency of Antiochus I Soter (294-281 BC) with Seleucus I Nicator (312-281 BC). AR drachm (16mm, 4.08 gm, 11h). NGC MS 4/5 - 3/5. Drangiana mint, Ca. 294-281 BC. Head of hero right, assimilating Seleucus, Alexander and Dionysus, wearing helmet covered with panther skin and adorned with bull's ears and horns, lion skin tied around neck / \u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 / \u0391\u039d\u03a4\u0399\u039f\u03a7\u039f\u03a5, Nike standing right, crowning trophy. SC 226a.\n\nFrom the Eyeappealing Collection. Ex Heritage Auctions, Aucti...",
-      "hammer_price_usd": 675.0,
-      "currency_original": "USD",
-      "price_original": 675.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-07-20",
-      "image_url": "https://media.coinarchives.com/e9b7fcdc19d18bfee827c4396b537b82/img/heritage/61644/image21178.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -1970,6 +1904,72 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-f0f5b8680de9",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2786981&AucID=7242&Lot=23107&Val=58a1e6fd3a1b3268f81a8727ad7ba47f",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61641, Lot 23107 \u2014 Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AR drachm (19mm, 4.22 gm, 11h). NGC MS 5/5 - 4/5. Lifetime-early posthumous issue, Sardes, ca. 323-319 BC. Head of Heracles right, we",
+      "description": "Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AR drachm (19mm, 4.22 gm, 11h). NGC MS 5/5 - 4/5. Lifetime-early posthumous issue, Sardes, ca. 323-319 BC. Head of Heracles right, wearing lion skin headdress, paws tied before neck / A\u039bE\u039eAN\u0394POY, Zeus seated left on backless throne, right leg drawn back, feet on stool, eagle in right hand, grounded scepter in left; race torch in left field, A below strut. Price 2637.\n\nAlexander the Great, born in 356 BC in Pella, Macedonia, was...",
+      "hammer_price_usd": 950.0,
+      "currency_original": "USD",
+      "price_original": 950.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-02",
+      "image_url": "https://media.coinarchives.com/d0dd80974a6a20567592d33b14079f58/img/heritage/61641/image23107.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-a6c9888f6579",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2777606&AucID=7219&Lot=21178&Val=72c700e0d96d005dc8423f18a0ea3b00",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61644, Lot 21178 \u2014 Ancients\nSELEUCID KINGDOM. Coregency of Antiochus I Soter (294-281 BC) with Seleucus I Nicator (312-281 BC). AR drachm (16mm, 4.08 gm, 11h). NGC MS 4/5 - 3/5. Drangiana mint, Ca. 294-281 BC. Head of h",
+      "description": "Ancients\nSELEUCID KINGDOM. Coregency of Antiochus I Soter (294-281 BC) with Seleucus I Nicator (312-281 BC). AR drachm (16mm, 4.08 gm, 11h). NGC MS 4/5 - 3/5. Drangiana mint, Ca. 294-281 BC. Head of hero right, assimilating Seleucus, Alexander and Dionysus, wearing helmet covered with panther skin and adorned with bull's ears and horns, lion skin tied around neck / \u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 / \u0391\u039d\u03a4\u0399\u039f\u03a7\u039f\u03a5, Nike standing right, crowning trophy. SC 226a.\n\nFrom the Eyeappealing Collection. Ex Heritage Auctions, Aucti...",
+      "hammer_price_usd": 675.0,
+      "currency_original": "USD",
+      "price_original": 675.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-20",
+      "image_url": "https://media.coinarchives.com/e9b7fcdc19d18bfee827c4396b537b82/img/heritage/61644/image21178.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
