@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "silver",
-  "sale_count": 127,
-  "realized_count": 127,
+  "sale_count": 128,
+  "realized_count": 128,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,16 +17,16 @@
     "max": 4936.68
   },
   "median_price_usd": 180.0,
-  "last_sale_date": "2026-07-28",
+  "last_sale_date": "2026-08-10",
   "grade_distribution": {
     "XF": 42,
     "AU": 28,
-    "F": 16,
+    "F": 17,
     "VF": 36,
     "MS": 4,
     "VG": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/1274b201b58c5a823ad302699ddf27b2/img/heritage/61558/image23065.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/7712365f118912e0b454545bc460a85b/img/heritage/61636/image21184.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -162,6 +162,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-ebd3e796f4f5",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2788322&AucID=7252&Lot=21184&Val=fd29b07386bfb44e7a43957aa06daf97",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61636, Lot 21184 \u2014 Ancients\nDECAPOLIS. Petra. Caracalla, as Augustus (AD 198-217). AE (28mm, 15.90 gm, 2h). NGC Choice Fine 4/5 - 3/5, countermark.  M AYP ANT-\u03c9NEI C\u0404B , laureate, draped, and cuirassed bust of Caracalla",
+      "description": "Ancients\nDECAPOLIS. Petra. Caracalla, as Augustus (AD 198-217). AE (28mm, 15.90 gm, 2h). NGC Choice Fine 4/5 - 3/5, countermark.  M AYP ANT-\u03c9NEI C\u0404B , laureate, draped, and cuirassed bust of Caracalla right, seen from behind; countermark of E on bust / A\u0394PI / \u03a0ETPA / MHT, distyle temple, bust(?) in pediment, Tyche seated left on rocks within, small stele(?) in outstretched right hand, trophy cradled in left arm. RPC V.3 online unassigned 68672.\n\nEx Heritage Auctions, Auction 231913 (28 March 2...",
+      "hammer_price_usd": 45.0,
+      "currency_original": "USD",
+      "price_original": 45.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-10",
+      "image_url": "https://media.coinarchives.com/7712365f118912e0b454545bc460a85b/img/heritage/61636/image21184.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
