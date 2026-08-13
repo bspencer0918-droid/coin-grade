@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Nomos",
   "metal": "silver",
-  "sale_count": 121,
-  "realized_count": 118,
+  "sale_count": 123,
+  "realized_count": 120,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,10 +17,10 @@
     "max": 195000.0
   },
   "median_price_usd": 525.0,
-  "last_sale_date": "2026-08-12",
+  "last_sale_date": "2026-08-13",
   "grade_distribution": {
-    "VF": 42,
-    "XF": 36,
+    "XF": 37,
+    "VF": 43,
     "F": 11,
     "AU": 23,
     "VG": 1,
@@ -38,6 +38,72 @@
   "mint_mark": null,
   "sales": [
     {
+      "id": "cng-f852b9a5152e",
+      "source": "cng",
+      "listing_type": "auction_realized",
+      "lot_url": "https://auctions.cngcoins.com/lots/view/4-M8HVYK",
+      "title": "Electronic Auction 615 Lot: 19. CALABRIA, Tarentum. Circa 280 BC. AR Nomos (20mm, 7.90 g, 9h). NGC Ch XF, 5/5, 3/5.",
+      "description": "Greek, Silver Estimated:\u00a0$   200 Sold\u00a0Price:\u00a0$   650",
+      "hammer_price_usd": 650.0,
+      "currency_original": "USD",
+      "price_original": 650.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "cng-49b166b3f912",
+      "source": "cng",
+      "listing_type": "auction_realized",
+      "lot_url": "https://auctions.cngcoins.com/lots/view/4-M8HVYM",
+      "title": "Electronic Auction 615 Lot: 20. CALABRIA, Tarentum. Circa 280 BC. AR Nomos (21mm, 4h). NGC Ch VF.",
+      "description": "Greek, Silver Estimated:\u00a0$   200 Sold\u00a0Price:\u00a0$ :  350",
+      "hammer_price_usd": 350.0,
+      "currency_original": "USD",
+      "price_original": 350.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "cng-92b32fd9850f",
       "source": "cng",
       "listing_type": "auction_realized",
@@ -48,7 +114,7 @@
       "currency_original": "USD",
       "price_original": 450.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -81,7 +147,7 @@
       "currency_original": "USD",
       "price_original": 425.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -114,7 +180,7 @@
       "currency_original": "USD",
       "price_original": 375.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -147,7 +213,7 @@
       "currency_original": "USD",
       "price_original": 425.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -180,7 +246,7 @@
       "currency_original": "USD",
       "price_original": 325.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -213,7 +279,7 @@
       "currency_original": "USD",
       "price_original": 450.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -246,7 +312,7 @@
       "currency_original": "USD",
       "price_original": 275.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -279,7 +345,7 @@
       "currency_original": "USD",
       "price_original": 550.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -312,7 +378,7 @@
       "currency_original": "USD",
       "price_original": 900.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -345,7 +411,7 @@
       "currency_original": "USD",
       "price_original": 475.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -378,7 +444,7 @@
       "currency_original": "USD",
       "price_original": 350.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -411,7 +477,7 @@
       "currency_original": "USD",
       "price_original": 500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -444,7 +510,7 @@
       "currency_original": "USD",
       "price_original": 575.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -477,7 +543,7 @@
       "currency_original": "USD",
       "price_original": 450.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -510,7 +576,7 @@
       "currency_original": "USD",
       "price_original": 600.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -543,7 +609,7 @@
       "currency_original": "USD",
       "price_original": 650.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -576,7 +642,7 @@
       "currency_original": "USD",
       "price_original": 350.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -609,7 +675,7 @@
       "currency_original": "USD",
       "price_original": 550.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -642,7 +708,7 @@
       "currency_original": "USD",
       "price_original": 250.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -675,7 +741,7 @@
       "currency_original": "USD",
       "price_original": 550.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -708,7 +774,7 @@
       "currency_original": "USD",
       "price_original": 425.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -741,7 +807,7 @@
       "currency_original": "USD",
       "price_original": 450.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -774,7 +840,7 @@
       "currency_original": "USD",
       "price_original": 400.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -807,7 +873,7 @@
       "currency_original": "USD",
       "price_original": 375.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -840,7 +906,7 @@
       "currency_original": "USD",
       "price_original": 325.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -873,7 +939,7 @@
       "currency_original": "USD",
       "price_original": 300.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -906,7 +972,7 @@
       "currency_original": "USD",
       "price_original": 350.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -939,7 +1005,7 @@
       "currency_original": "USD",
       "price_original": 425.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -972,7 +1038,7 @@
       "currency_original": "USD",
       "price_original": 325.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1005,7 +1071,7 @@
       "currency_original": "USD",
       "price_original": 300.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1038,7 +1104,7 @@
       "currency_original": "USD",
       "price_original": 400.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1071,7 +1137,7 @@
       "currency_original": "USD",
       "price_original": 325.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1104,7 +1170,7 @@
       "currency_original": "USD",
       "price_original": 425.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1137,7 +1203,7 @@
       "currency_original": "USD",
       "price_original": 500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1170,7 +1236,7 @@
       "currency_original": "USD",
       "price_original": 500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1203,7 +1269,7 @@
       "currency_original": "USD",
       "price_original": 450.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1236,7 +1302,7 @@
       "currency_original": "USD",
       "price_original": 1100.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1269,7 +1335,7 @@
       "currency_original": "USD",
       "price_original": 475.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1302,7 +1368,7 @@
       "currency_original": "USD",
       "price_original": 650.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1335,7 +1401,7 @@
       "currency_original": "USD",
       "price_original": 450.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1368,7 +1434,7 @@
       "currency_original": "USD",
       "price_original": 450.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1401,7 +1467,7 @@
       "currency_original": "USD",
       "price_original": 425.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1434,7 +1500,7 @@
       "currency_original": "USD",
       "price_original": 450.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1467,7 +1533,7 @@
       "currency_original": "USD",
       "price_original": 450.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1500,7 +1566,7 @@
       "currency_original": "USD",
       "price_original": 325.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1533,7 +1599,7 @@
       "currency_original": "USD",
       "price_original": 375.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1566,7 +1632,7 @@
       "currency_original": "USD",
       "price_original": 180.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1599,7 +1665,7 @@
       "currency_original": "USD",
       "price_original": 400.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1632,7 +1698,7 @@
       "currency_original": "USD",
       "price_original": 375.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1665,7 +1731,7 @@
       "currency_original": "USD",
       "price_original": 450.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1698,7 +1764,7 @@
       "currency_original": "USD",
       "price_original": 200.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1731,7 +1797,7 @@
       "currency_original": "USD",
       "price_original": 180.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1764,7 +1830,7 @@
       "currency_original": "USD",
       "price_original": 170.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1797,7 +1863,7 @@
       "currency_original": "USD",
       "price_original": 170.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1830,7 +1896,7 @@
       "currency_original": "USD",
       "price_original": 170.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1863,7 +1929,7 @@
       "currency_original": "USD",
       "price_original": 375.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1896,7 +1962,7 @@
       "currency_original": "USD",
       "price_original": 200.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1929,7 +1995,7 @@
       "currency_original": "USD",
       "price_original": 180.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1962,7 +2028,7 @@
       "currency_original": "USD",
       "price_original": 300.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1995,7 +2061,7 @@
       "currency_original": "USD",
       "price_original": 550.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2028,7 +2094,7 @@
       "currency_original": "USD",
       "price_original": 400.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2061,7 +2127,7 @@
       "currency_original": "USD",
       "price_original": 375.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2094,7 +2160,7 @@
       "currency_original": "USD",
       "price_original": 225.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2127,7 +2193,7 @@
       "currency_original": "USD",
       "price_original": 1900.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2160,7 +2226,7 @@
       "currency_original": "USD",
       "price_original": 130.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2193,7 +2259,7 @@
       "currency_original": "USD",
       "price_original": 650.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2226,7 +2292,7 @@
       "currency_original": "USD",
       "price_original": 1800.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2259,7 +2325,7 @@
       "currency_original": "USD",
       "price_original": 700.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2292,7 +2358,7 @@
       "currency_original": "USD",
       "price_original": 225.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2325,7 +2391,7 @@
       "currency_original": "USD",
       "price_original": 3750.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2358,7 +2424,7 @@
       "currency_original": "USD",
       "price_original": 375.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2391,7 +2457,7 @@
       "currency_original": "USD",
       "price_original": 550.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2424,7 +2490,7 @@
       "currency_original": "USD",
       "price_original": 275.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2457,7 +2523,7 @@
       "currency_original": "USD",
       "price_original": 625.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2490,7 +2556,7 @@
       "currency_original": "USD",
       "price_original": 750.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-12",
+      "sale_date": "2026-08-13",
       "image_url": null,
       "ngc": {
         "verified": false,
