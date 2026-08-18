@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-08-17T07:12:16.988282+00:00",
-  "next_update": "2026-08-17T06:00:00+00:00",
-  "total_listings": 59486,
+  "last_updated": "2026-08-18T07:03:58.777762+00:00",
+  "next_update": "2026-08-18T06:00:00+00:00",
+  "total_listings": 59530,
   "ngc_verified_count": 0,
-  "ngc_mentioned_count": 59486,
+  "ngc_mentioned_count": 59530,
   "schema_version": "1.2",
   "sources": {
     "cng": {
       "status": "ok",
-      "listings_scraped": 189,
+      "listings_scraped": 183,
       "last_error": null
     },
     "heritage": {
@@ -23,7 +23,7 @@
     },
     "sixbid": {
       "status": "ok",
-      "listings_scraped": 992,
+      "listings_scraped": 1006,
       "last_error": null
     },
     "hjb": {

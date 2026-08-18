@@ -8,18 +8,18 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 1364,
-  "realized_count": 1361,
+  "sale_count": 1365,
+  "realized_count": 1362,
   "fixed_price_count": 1,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 75.0,
+    "min": 1.0,
     "max": 292800.0
   },
   "median_price_usd": 1920.0,
-  "last_sale_date": "2026-08-17",
+  "last_sale_date": "2026-08-18",
   "grade_distribution": {
-    "VF": 272,
+    "VF": 273,
     "G": 19,
     "F": 31,
     "AG": 1,
@@ -49,7 +49,7 @@
       "currency_original": "USD",
       "price_original": 1300.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-17",
+      "sale_date": "2026-08-18",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -402,6 +402,39 @@
       }
     },
     {
+      "id": "sixbid-b2966286527d",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13970/ancients-greek/12387197/seleucid-kingdom-demetrius-ii-nicator",
+      "title": "SELEUCID KINGDOM. Demetrius II Nicator, Second Reign (129-125 BC). AR tetradrachm (28mm, 16.59 gm, 1h). NGC Choice VF 5/5 - 4/5. Damascus, Dated Year 187 (126-125 BC). Diademed head of Demetrius II right, wearing long beard and tousled locks on crown of head, diadem ends falling straight behind; bead and reel border / \u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 / \u0394\u0397\u039c\u0397\u03a4\u03a1\u0399\u039f\u03a5 / \u0398\u0395\u039f\u03a5 / NIKA-TO\u03a1O\u03a3, Zeus seated left on backless throne, grounded scepter in left hand, Nike left in outstretched right hand; \u03a6\u039b monogram above H\u0394 monogram in outer left field, A above \u03a0 below throne, \u0396\u03a0P (date) in exergue. SC 2181.9.  From the Dr. Charles Jay Deur Collection, for the charitable benefit of Calvin University and Peace Lutheran Church of Hurst.   After spending nearly a decade in Parthian captivity, Demetrius II was released in a move to sow discord within the ranks of the invading Seleucid army of his brother and successor, Antiochus VII. The ploy worked beautifully and Antiochus VII was killed in the ensuing military debacle, leaving Demetrius II as sole ruler for the second time. His decade among the Parthians had changed him visibly -- he emerged with a long, flowing beard, much against Greek fashion of the day. His pro-Parthian policies made his countryman regard him as a \"Manchurian candidate\" out to destroy Seleucid power, leading to his quick downfall and execution. Despite his troubled regime, his coin portraits from the second reign are some of the best in the entire Seleucid series, as evidenced here.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61625']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "hjb-be0a579a44ce",
       "source": "hjb",
       "listing_type": "fixed_price",
@@ -412,7 +445,7 @@
       "currency_original": "USD",
       "price_original": 2750.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-17",
+      "sale_date": "2026-08-18",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc101757a.jpg",
       "ngc": {
         "verified": false,

@@ -8,26 +8,26 @@
   "ruler_rarity": null,
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 64,
-  "realized_count": 64,
+  "sale_count": 65,
+  "realized_count": 65,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 750.0,
+    "min": 1.0,
     "max": 20740.0
   },
-  "median_price_usd": 1601.0,
-  "last_sale_date": "2026-07-28",
+  "median_price_usd": 1600.0,
+  "last_sale_date": "2026-08-16",
   "grade_distribution": {
     "XF": 10,
-    "MS": 24,
+    "MS": 25,
     "AU": 21,
     "G": 9
   },
   "thumbnail_url": "https://media.coinarchives.com/c8934870d18a2d412ae8dc4609cad3c0/img/heritage/61635/image23288.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 4,
+  "top_surface_score": 3,
   "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
@@ -387,6 +387,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/5785795005/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-d2cc60e8d66a",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13970/ancients-roman-imperial/12387378/basiliscus-and-marcus-eastern-roman",
+      "title": "Basiliscus and Marcus, Eastern Roman Empire (AD 475-476). AV solidus (21mm, 4.49 gm, 6h). NGC MS 5/5 - 3/5. Constantinople, late autumn AD 475-August AD 476, 9th officina. D N bASILISCI-Et MARC P AVG, pearl-diademed, helmeted, and cuirassed bust (of Basiliscus?) facing, head slightly right, spear over right shoulder, shield decorated with horseman motif in left / VICTORI-A AVGGG A, Victory standing facing, head left, long jeweled cross with diagonal crossbar in right hand; star in right field, CONOB in exergue. Depeyrot 105/2. RIC X 1024.  From the Dr. Charles Jay Deur Collection, for the charitable benefit of Calvin University and Peace Lutheran Church of Hurst. Ex Glenn W. Woods, private sale with old dealer's tag included.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61625']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
         "grading_service": "ngc"
       },
       "metadata": {

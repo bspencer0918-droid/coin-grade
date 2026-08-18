@@ -8,19 +8,19 @@
   "ruler_rarity": null,
   "denomination": "AV Tremissis",
   "metal": "gold",
-  "sale_count": 28,
-  "realized_count": 28,
+  "sale_count": 29,
+  "realized_count": 29,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 336.0,
+    "min": 1.0,
     "max": 7750.0
   },
-  "median_price_usd": 750.0,
-  "last_sale_date": "2026-07-28",
+  "median_price_usd": 720.0,
+  "last_sale_date": "2026-08-16",
   "grade_distribution": {
     "AU": 12,
-    "MS": 12,
+    "MS": 13,
     "XF": 2,
     "VF": 1,
     "G": 1
@@ -56,6 +56,39 @@
         "strike_score": 4,
         "surface_score": 3,
         "details_grade": "Clipped",
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-7755d3c267c4",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13970/ancients-roman-imperial/12387374/theodosius-ii-eastern-roman-empire",
+      "title": "Theodosius II, Eastern Roman Empire (AD 402-450). AV tremissis (14mm, 1.51 gm, 1h). NGC MS 5/5 - 3/5, brushed. Constantinople. D N THEODO-SIVS P F AVG, pearl-diademed, draped, and cuirassed bust of Theodosius II right, seen from front / VICTORIA-AVG-VSTORVM, Victory advancing to front, head left, wreath in outstretched right hand, globus cruciger in outstretched left hand; star in right field, CONOB in exergue. RIC X 213 or 249.  From the Dr. Charles Jay Deur Collection, for the charitable benefit of Calvin University and Peace Lutheran Church of Hurst. Ex Glenn W. Woods, private sale with old dealer's tag included.    HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61625']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
         "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
