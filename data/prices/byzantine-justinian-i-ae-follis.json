@@ -8,8 +8,8 @@
   "ruler_rarity": "common",
   "denomination": "AE Follis",
   "metal": "bronze",
-  "sale_count": 94,
-  "realized_count": 94,
+  "sale_count": 95,
+  "realized_count": 95,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,24 +17,57 @@
     "max": 1080.0
   },
   "median_price_usd": 169.0,
-  "last_sale_date": "2026-07-05",
+  "last_sale_date": "2026-08-16",
   "grade_distribution": {
+    "AU": 14,
     "VG": 1,
     "VF": 40,
     "XF": 29,
-    "F": 11,
-    "AU": 13
+    "F": 11
   },
-  "thumbnail_url": "https://media.coinarchives.com/9caf74cb15be8e25872d949f76378add/img/heritage/61633/image22007.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/c032056a2d90856bb4d6e66a6b0c6016/img/heritage/61625/image22263.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
-  "top_surface_score": 4,
+  "top_surface_score": 5,
   "top_grade_numeric": 4,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-e2d70d0b1714",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2789825&AucID=7257&Lot=22263&Val=0d6596fb7f9a0b4a7a82902b9ad7ba9f",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61625, Lot 22263 \u2014 Ancients\nJustinian I the Great (AD 527-565). AE follis or 40 nummi (41mm, 23.32 gm, 5h). NGC AU 4/5 - 5/5, die shift. Carthage, 6th officina, dated Regnal Year 13 (539/540). D N IVSTINI-ANVS PP AVG, p",
+      "description": "Ancients\nJustinian I the Great (AD 527-565). AE follis or 40 nummi (41mm, 23.32 gm, 5h). NGC AU 4/5 - 5/5, die shift. Carthage, 6th officina, dated Regnal Year 13 (539/540). D N IVSTINI-ANVS PP AVG, pearl-diademed, helmeted, cuirassed bust facing, globus cruciger in right hand, shield decorated with horseman motif in left; cross in right field / Large M (mark of value); A/N/N/O to left, X/III (date) to right, cross above, S (officina) below, CAR in exergue. Sear 261.\n\nFrom the Dr. Charles Jay ...",
+      "hammer_price_usd": 1000.0,
+      "currency_original": "USD",
+      "price_original": 1000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-16",
+      "image_url": "https://media.coinarchives.com/c032056a2d90856bb4d6e66a6b0c6016/img/heritage/61625/image22263.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-af1e9e8d3c9d",
       "source": "coinarchives",

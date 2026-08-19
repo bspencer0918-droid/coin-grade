@@ -19,14 +19,14 @@
   "median_price_usd": 204.0,
   "last_sale_date": "2026-07-28",
   "grade_distribution": {
-    "F": 27,
     "VF": 253,
+    "F": 27,
     "MS": 13,
     "AU": 128,
     "XF": 225,
     "VG": 2
   },
-  "thumbnail_url": "https://media.coinarchives.com/666cb927a29d8247d015d95eff846021/img/heritage/61635/image23088.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/c9360328b88df3339e81973fc0cdfd42/img/heritage/61605/image23072.jpg",
   "median_weight_g": null,
   "top_strike_score": null,
   "top_surface_score": null,
@@ -36,39 +36,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "coinarchives-ae54595c1000",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2796148&AucID=7267&Lot=23088&Val=9ec4f778051a9b1aa0f3e4e75da685aa",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61635, Lot 23088 \u2014 Ancients\nMarciana (ca. AD 105-112/4). AR denarius (18mm, 3.12 gm, 6h). NGC Fine 5/5 - 4/5. Rome, AD 112. MARCIANA AVG-SOROR IMP TRAIANI, draped bust of Marciana right, seen from front, wearing large d",
-      "description": "Ancients\nMarciana (ca. AD 105-112/4). AR denarius (18mm, 3.12 gm, 6h). NGC Fine 5/5 - 4/5. Rome, AD 112. MARCIANA AVG-SOROR IMP TRAIANI, draped bust of Marciana right, seen from front, wearing large double stephane, hair plaited and coiled on top at back of head/ CAES AVG GERMA DAC COS VI P P, Matidia enthroned left, patera in outstretched right hand over child standing before, left hand on head of child standing behind; MATIDIA AVG F in exergue. RIC II (Trajan) 742.\n\nEx The Morris Collection ...",
-      "hammer_price_usd": 750.0,
-      "currency_original": "USD",
-      "price_original": 750.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-07-28",
-      "image_url": "https://media.coinarchives.com/666cb927a29d8247d015d95eff846021/img/heritage/61635/image23088.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "F",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-d2ac4087a921",
       "source": "coinarchives",
@@ -89,6 +56,39 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-ae54595c1000",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2796148&AucID=7267&Lot=23088&Val=9ec4f778051a9b1aa0f3e4e75da685aa",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61635, Lot 23088 \u2014 Ancients\nMarciana (ca. AD 105-112/4). AR denarius (18mm, 3.12 gm, 6h). NGC Fine 5/5 - 4/5. Rome, AD 112. MARCIANA AVG-SOROR IMP TRAIANI, draped bust of Marciana right, seen from front, wearing large d",
+      "description": "Ancients\nMarciana (ca. AD 105-112/4). AR denarius (18mm, 3.12 gm, 6h). NGC Fine 5/5 - 4/5. Rome, AD 112. MARCIANA AVG-SOROR IMP TRAIANI, draped bust of Marciana right, seen from front, wearing large double stephane, hair plaited and coiled on top at back of head/ CAES AVG GERMA DAC COS VI P P, Matidia enthroned left, patera in outstretched right hand over child standing before, left hand on head of child standing behind; MATIDIA AVG F in exergue. RIC II (Trajan) 742.\n\nEx The Morris Collection ...",
+      "hammer_price_usd": 750.0,
+      "currency_original": "USD",
+      "price_original": 750.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-28",
+      "image_url": "https://media.coinarchives.com/666cb927a29d8247d015d95eff846021/img/heritage/61635/image23088.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 267,
-  "realized_count": 267,
+  "sale_count": 268,
+  "realized_count": 268,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,16 +17,16 @@
     "max": 14000.0
   },
   "median_price_usd": 150.0,
-  "last_sale_date": "2026-07-28",
+  "last_sale_date": "2026-08-16",
   "grade_distribution": {
     "G": 2,
+    "MS": 40,
     "AU": 154,
-    "MS": 39,
     "XF": 62,
     "VF": 9,
     "F": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/0354989f0b577fa7d51f9b1d5cf1efd0/img/heritage/61635/image23180.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/37e9277c55e95f2e47698cf20a2ad46f/img/heritage/61625/image22066.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 3,
@@ -96,6 +96,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-c761d9ed35dd",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2789628&AucID=7257&Lot=22066&Val=f6c46a3fe9b74e4ec96119e75e37a13e",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61625, Lot 22066 \u2014 Ancients\nElagabalus (AD 218-222). AR denarius (20mm, 3.10 gm, 1h). NGC MS 5/5 - 3/5, brushed. Rome. IMP ANTONINVS-PIVS AVG, horned, laureate, and draped bust of Elagabalus right, seen from front / SAC",
+      "description": "Ancients\nElagabalus (AD 218-222). AR denarius (20mm, 3.10 gm, 1h). NGC MS 5/5 - 3/5, brushed. Rome. IMP ANTONINVS-PIVS AVG, horned, laureate, and draped bust of Elagabalus right, seen from front / SACERD DEI SOLIS ELAGAB, Elagabalus standing facing, head right, sacrificing from patera in outstretched right hand over lit altar at feet before, club cradled in left arm; star in right field. RIC IV.II 131.\n\nFrom the Dr. Charles Jay Deur Collection, for the charitable benefit of Calvin University a...",
+      "hammer_price_usd": 550.0,
+      "currency_original": "USD",
+      "price_original": 550.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-16",
+      "image_url": "https://media.coinarchives.com/37e9277c55e95f2e47698cf20a2ad46f/img/heritage/61625/image22066.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

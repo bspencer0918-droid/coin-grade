@@ -8,20 +8,21 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "unknown",
-  "sale_count": 1,
-  "realized_count": 1,
+  "sale_count": 2,
+  "realized_count": 2,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 1800.0,
-    "max": 1800.0
+    "max": 2200.0
   },
-  "median_price_usd": 1800.0,
-  "last_sale_date": "2026-02-23",
+  "median_price_usd": 2000.0,
+  "last_sale_date": "2026-08-16",
   "grade_distribution": {
-    "MS": 1
+    "MS": 1,
+    "AU": 1
   },
-  "thumbnail_url": null,
+  "thumbnail_url": "https://media.coinarchives.com/b783f6eb8e7d21d50ceb66de8edac680/img/heritage/61625/image22190.jpg",
   "median_weight_g": null,
   "top_strike_score": null,
   "top_surface_score": null,
@@ -58,6 +59,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-987a1c356e6c",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2789752&AucID=7257&Lot=22190&Val=0c7948eee6b5b4afce82b31ef60da024",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61625, Lot 22190 \u2014 Ancients\nHonorius, Western Roman Empire (AD 393-423). AR light miliarensis (23mm, 4.36 gm, 1h). NGC AU 5/5 - 4/5, light marks. Constantinople, ca. AD 408-420. D N HONORI-VS P F AVG, pearl-diademed, dr",
+      "description": "Ancients\nHonorius, Western Roman Empire (AD 393-423). AR light miliarensis (23mm, 4.36 gm, 1h). NGC AU 5/5 - 4/5, light marks. Constantinople, ca. AD 408-420. D N HONORI-VS P F AVG, pearl-diademed, draped, and cuirassed bust of Honorius left / GLORIA-ROMANORVM, Honorius, standing facing, nimbate head left, draped, in military attire, gesturing with raised right hand, globe in left hand close to body; star in left field, CON in exergue. RIC X 369. Beautiful dichotomy of amber and aqua toning. \n...",
+      "hammer_price_usd": 2200.0,
+      "currency_original": "USD",
+      "price_original": 2200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-16",
+      "image_url": "https://media.coinarchives.com/b783f6eb8e7d21d50ceb66de8edac680/img/heritage/61625/image22190.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

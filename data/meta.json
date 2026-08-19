@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-18T07:03:58.777762+00:00",
-  "next_update": "2026-08-18T06:00:00+00:00",
-  "total_listings": 59530,
+  "last_updated": "2026-08-19T07:12:17.328736+00:00",
+  "next_update": "2026-08-19T06:00:00+00:00",
+  "total_listings": 59669,
   "ngc_verified_count": 0,
-  "ngc_mentioned_count": 59530,
+  "ngc_mentioned_count": 59669,
   "schema_version": "1.2",
   "sources": {
     "cng": {
@@ -33,7 +33,7 @@
     },
     "coinarchives": {
       "status": "ok",
-      "listings_scraped": 692,
+      "listings_scraped": 759,
       "last_error": null
     },
     "stacksbowers": {

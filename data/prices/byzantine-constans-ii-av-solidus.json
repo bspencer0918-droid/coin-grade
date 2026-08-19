@@ -19,13 +19,13 @@
   "median_price_usd": 780.0,
   "last_sale_date": "2026-07-05",
   "grade_distribution": {
-    "XF": 93,
     "MS": 537,
+    "XF": 93,
     "VF": 25,
     "AU": 221,
     "G": 5
   },
-  "thumbnail_url": "https://media.coinarchives.com/fd33a983ae2a3377b8093024d57d686d/img/heritage/61633/image22062.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/95ab2895d3837ec434f02eaeea59fca4/img/snmw/s1/image00297.jpg",
   "median_weight_g": null,
   "top_strike_score": null,
   "top_surface_score": null,
@@ -35,39 +35,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "coinarchives-285e3015e145",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2768037&AucID=7180&Lot=22062&Val=144547ff8cff2258682bd0b4cae12ff3",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61633, Lot 22062 \u2014 Ancients\nConstans II Pogonatus (AD 641-668). AV solidus (19mm, 4.47 gm, 7h). NGC Choice XF 5/5 - 2/5, graffito, brushed. Constantinople, 8th officina, ca. AD 649/650-651/652. d N CONStAN-tIN\u0427S P P AVG",
-      "description": "Ancients\nConstans II Pogonatus (AD 641-668). AV solidus (19mm, 4.47 gm, 7h). NGC Choice XF 5/5 - 2/5, graffito, brushed. Constantinople, 8th officina, ca. AD 649/650-651/652. d N CONStAN-tIN\u0427S P P AVG, draped bust of Constans II facing with long beard and mustache, wearing crown surmounted by cross, globus cruciger in right hand / VICTORIA-AV\u03da\u0427 H, cross potent with base on three steps; CONOB below. Sear 956.\n\nSporting the longest beard of all Byzantine emperors, Constans II ruled at the twilig...",
-      "hammer_price_usd": 800.0,
-      "currency_original": "USD",
-      "price_original": 800.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-07-05",
-      "image_url": "https://media.coinarchives.com/fd33a983ae2a3377b8093024d57d686d/img/heritage/61633/image22062.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": "Graffito",
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-e7b6a75b4ebd",
       "source": "coinarchives",
@@ -89,6 +56,39 @@
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-285e3015e145",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2768037&AucID=7180&Lot=22062&Val=144547ff8cff2258682bd0b4cae12ff3",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61633, Lot 22062 \u2014 Ancients\nConstans II Pogonatus (AD 641-668). AV solidus (19mm, 4.47 gm, 7h). NGC Choice XF 5/5 - 2/5, graffito, brushed. Constantinople, 8th officina, ca. AD 649/650-651/652. d N CONStAN-tIN\u0427S P P AVG",
+      "description": "Ancients\nConstans II Pogonatus (AD 641-668). AV solidus (19mm, 4.47 gm, 7h). NGC Choice XF 5/5 - 2/5, graffito, brushed. Constantinople, 8th officina, ca. AD 649/650-651/652. d N CONStAN-tIN\u0427S P P AVG, draped bust of Constans II facing with long beard and mustache, wearing crown surmounted by cross, globus cruciger in right hand / VICTORIA-AV\u03da\u0427 H, cross potent with base on three steps; CONOB below. Sear 956.\n\nSporting the longest beard of all Byzantine emperors, Constans II ruled at the twilig...",
+      "hammer_price_usd": 800.0,
+      "currency_original": "USD",
+      "price_original": 800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-05",
+      "image_url": "https://media.coinarchives.com/fd33a983ae2a3377b8093024d57d686d/img/heritage/61633/image22062.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": "Graffito",
         "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"

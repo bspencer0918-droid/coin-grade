@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 38,
-  "realized_count": 38,
+  "sale_count": 39,
+  "realized_count": 39,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,11 +17,11 @@
     "max": 204000.0
   },
   "median_price_usd": 16800.0,
-  "last_sale_date": "2026-04-29",
+  "last_sale_date": "2026-08-16",
   "grade_distribution": {
     "XF": 4,
+    "VF": 5,
     "AU": 22,
-    "VF": 4,
     "MS": 8
   },
   "thumbnail_url": "https://media.coinarchives.com/9334f02c436c72510329e543ed276580/img/heritage/3132/image31044.jpg",
@@ -51,6 +51,39 @@
         "verified": false,
         "cert_number": null,
         "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-b52658c62f5e",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2789703&AucID=7257&Lot=22141&Val=b90a9120ab705c33cac17a083e0582b0",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61625, Lot 22141 \u2014 Ancients\nConstantine I the Great, as Augustus (AD 307-337). AV solidus (17mm, 4.39 gm, 6h). NGC VF 5/5 - 2/5, edge bend, brushed. Trier, ca. AD 310-313. CONSTANTI-NVS P F AVG, laureate head of Constan",
+      "description": "Ancients\nConstantine I the Great, as Augustus (AD 307-337). AV solidus (17mm, 4.39 gm, 6h). NGC VF 5/5 - 2/5, edge bend, brushed. Trier, ca. AD 310-313. CONSTANTI-NVS P F AVG, laureate head of Constantine I right / GAVDIVM ROMANORVM, Francia seated left on ground in attitude of mourning, wearing pointed cap, supporting head with right hand with elbow resting on right knee, left hand resting on bow behind; trophy beyond in background, ALAMANNIA in exergue. RIC VI 824. Depeyrot 18/4. Rare type,\n...",
+      "hammer_price_usd": 5250.0,
+      "currency_original": "USD",
+      "price_original": 5250.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-16",
+      "image_url": "https://media.coinarchives.com/5d1314f0d87823f1dac8d044a259d4fd/img/heritage/61625/image22141.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 2,

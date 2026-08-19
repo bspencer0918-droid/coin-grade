@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 353,
-  "realized_count": 352,
+  "sale_count": 354,
+  "realized_count": 353,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -20,14 +20,14 @@
   "last_sale_date": "2026-08-10",
   "grade_distribution": {
     "F": 38,
-    "VF": 84,
+    "VF": 85,
     "XF": 76,
     "VG": 5,
     "AU": 80,
     "G": 2,
     "MS": 68
   },
-  "thumbnail_url": "https://media.coinarchives.com/30769570d246ea26c2e97b743454ad97/img/heritage/61605/image23185.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/46bb1c90cd06657489699e6323713edc/img/heritage/61644/image21380.jpg",
   "median_weight_g": null,
   "top_strike_score": null,
   "top_surface_score": null,
@@ -856,6 +856,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-3209fd8dc8e1",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2777808&AucID=7219&Lot=21380&Val=fd11b6ec4ba5c9dee9f3346624b272dd",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61644, Lot 21380 \u2014 Ancients\nSYRIA. Cyrrhus. Trajan (AD 98-117). AE (20mm, 7.96 gm, 12h). NGC VF 4/5 - 4/5.  \u0391\u03a5\u03a4\u039f\u039a\u03a1 \u039a\u0391\u0399 \u039d\u0395\u03a1 \u03a4\u03a1\u0391\u0399\u0391\u039d\u039f\u03f9 \u0391\u03a1\u0399\u03f9\u03a4 \u03f9\u0395\u0392 \u0393\u0395\u03a1\u039c \u0394\u0391\u039a \u03a0\u0391\u03a1\u0398\u0399, laureate, draped bust of Trajan right, seen from behind / \u039a\u03a5\u03a1",
+      "description": "Ancients\nSYRIA. Cyrrhus. Trajan (AD 98-117). AE (20mm, 7.96 gm, 12h). NGC VF 4/5 - 4/5.  \u0391\u03a5\u03a4\u039f\u039a\u03a1 \u039a\u0391\u0399 \u039d\u0395\u03a1 \u03a4\u03a1\u0391\u0399\u0391\u039d\u039f\u03f9 \u0391\u03a1\u0399\u03f9\u03a4 \u03f9\u0395\u0392 \u0393\u0395\u03a1\u039c \u0394\u0391\u039a \u03a0\u0391\u03a1\u0398\u0399, laureate, draped bust of Trajan right, seen from behind / \u039a\u03a5\u03a1\u03a1\u0397\u03f9/\u03a4\u03c9\u039d / \u0391, all within laurel wreath. RPC IIII 3439.\n\nFrom the Eyeappealing Collection. \n\nMarcus Ulpius Trajanus, better known as Trajan, carved his name in history as one of ancient Rome's most illustrious emperors, renowned for his military prowess and strategic brilliance. Born the son of a pr...",
+      "hammer_price_usd": 85.0,
+      "currency_original": "USD",
+      "price_original": 85.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-20",
+      "image_url": "https://media.coinarchives.com/46bb1c90cd06657489699e6323713edc/img/heritage/61644/image21380.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

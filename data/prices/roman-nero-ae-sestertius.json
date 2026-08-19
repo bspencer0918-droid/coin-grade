@@ -24,7 +24,7 @@
     "AU": 14,
     "F": 12
   },
-  "thumbnail_url": "https://media.coinarchives.com/5a61ac6251d790475cd6c83af9245f2d/img/heritage/61626/image23118.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/1743ff633a1ccc20087ff854244f2ff8/img/heritage/61635/image23051.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 3,
@@ -101,39 +101,6 @@
       }
     },
     {
-      "id": "coinarchives-ff65561d5bf8",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2756746&AucID=7130&Lot=23118&Val=1e84081912cad573cc3b7b0af0695bfd",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61626, Lot 23118 \u2014 Ancients\nNero (AD 54-68). AE sestertius (35mm, 25.72 gm, 6h). NGC Choice VF 5/5 - 2/5, Fine Style. Rome, ca. AD 64. NERO CLAVD CAESAR AVG GER P M TR P IMP P P, laureate head of Nero right, aegis on fa",
-      "description": "Ancients\nNero (AD 54-68). AE sestertius (35mm, 25.72 gm, 6h). NGC Choice VF 5/5 - 2/5, Fine Style. Rome, ca. AD 64. NERO CLAVD CAESAR AVG GER P M TR P IMP P P, laureate head of Nero right, aegis on far shoulder / ROMA, Roma seated left on cuirass, right foot on helmet, Victory right in outstretched right hand, left hand resting on parazonium; three shields behind, S-C across fields. RIC I 273. Impressively detailed on walnut patina. \n\nNero, born Lucius Domitius Ahenobarbus in 37 AD, ascended t...",
-      "hammer_price_usd": 1700.0,
-      "currency_original": "USD",
-      "price_original": 1700.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-06-07",
-      "image_url": "https://media.coinarchives.com/5a61ac6251d790475cd6c83af9245f2d/img/heritage/61626/image23118.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "fine_style": true,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-a4d2a1bae49e",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -155,6 +122,39 @@
         "surface_score": 3,
         "details_grade": null,
         "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-ff65561d5bf8",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2756746&AucID=7130&Lot=23118&Val=1e84081912cad573cc3b7b0af0695bfd",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61626, Lot 23118 \u2014 Ancients\nNero (AD 54-68). AE sestertius (35mm, 25.72 gm, 6h). NGC Choice VF 5/5 - 2/5, Fine Style. Rome, ca. AD 64. NERO CLAVD CAESAR AVG GER P M TR P IMP P P, laureate head of Nero right, aegis on fa",
+      "description": "Ancients\nNero (AD 54-68). AE sestertius (35mm, 25.72 gm, 6h). NGC Choice VF 5/5 - 2/5, Fine Style. Rome, ca. AD 64. NERO CLAVD CAESAR AVG GER P M TR P IMP P P, laureate head of Nero right, aegis on far shoulder / ROMA, Roma seated left on cuirass, right foot on helmet, Victory right in outstretched right hand, left hand resting on parazonium; three shields behind, S-C across fields. RIC I 273. Impressively detailed on walnut patina. \n\nNero, born Lucius Domitius Ahenobarbus in 37 AD, ascended t...",
+      "hammer_price_usd": 1700.0,
+      "currency_original": "USD",
+      "price_original": 1700.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-07",
+      "image_url": "https://media.coinarchives.com/5a61ac6251d790475cd6c83af9245f2d/img/heritage/61626/image23118.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": true,
         "certification_url": null,
         "grading_service": "ngc"
       },

@@ -8,18 +8,18 @@
   "ruler_rarity": null,
   "denomination": "AR Drachm",
   "metal": "silver",
-  "sale_count": 43,
-  "realized_count": 43,
+  "sale_count": 44,
+  "realized_count": 44,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 65.0,
     "max": 5760.0
   },
-  "median_price_usd": 288.0,
+  "median_price_usd": 294.6,
   "last_sale_date": "2026-07-20",
   "grade_distribution": {
-    "XF": 9,
+    "XF": 10,
     "VF": 19,
     "AU": 3,
     "F": 6,
@@ -27,7 +27,7 @@
     "G": 3,
     "MS": 2
   },
-  "thumbnail_url": "https://media.coinarchives.com/c6e7435a806d257af10cae1d66ead3cb/img/heritage/61644/image21382.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/64e204ca149cef98e0e018028fc48331/img/heritage/61644/image21354.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 3,
@@ -130,6 +130,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-ec662ad14c46",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2777782&AucID=7219&Lot=21354&Val=e50f196de6ac783de9c1f8c9205119a1",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61644, Lot 21354 \u2014 Ancients\nLYCIAN LEAGUE. Trajan (AD 98-117). AR drachm (19mm, 3.31 gm, 7h). NGC Choice XF 4/5 - 3/5. AD 98/99. \u0391\u03a5\u03a4 \u039a\u0391\u0399C \u039d\u0404\u03a1 \u03a4\u03a1\u0391\u0399\u0391-\u039d\u039fC C\u0404\u0392 \u0393\u0404\u03a1\u039c, laureate head of Trajan right / \u0394\u0397\u039c \u0404\u039e-\u03a5\u03a0\u0391\u03a4 \u0392, two lyres;",
+      "description": "Ancients\nLYCIAN LEAGUE. Trajan (AD 98-117). AR drachm (19mm, 3.31 gm, 7h). NGC Choice XF 4/5 - 3/5. AD 98/99. \u0391\u03a5\u03a4 \u039a\u0391\u0399C \u039d\u0404\u03a1 \u03a4\u03a1\u0391\u0399\u0391-\u039d\u039fC C\u0404\u0392 \u0393\u0404\u03a1\u039c, laureate head of Trajan right / \u0394\u0397\u039c \u0404\u039e-\u03a5\u03a0\u0391\u03a4 \u0392, two lyres; owl right above. RPC III 2676.\n\nFrom the Eyeappealing Collection. Ex Heritage Auctions, Auction 232204 (26 January 2022), lot 64209.\n\nMarcus Ulpius Trajanus, better known as Trajan, carved his name in history as one of ancient Rome's most illustrious emperors, renowned for his military prowess an...",
+      "hammer_price_usd": 320.0,
+      "currency_original": "USD",
+      "price_original": 320.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-20",
+      "image_url": "https://media.coinarchives.com/64e204ca149cef98e0e018028fc48331/img/heritage/61644/image21354.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

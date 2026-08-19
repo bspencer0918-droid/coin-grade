@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 90,
-  "realized_count": 90,
+  "sale_count": 91,
+  "realized_count": 91,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,15 +17,15 @@
     "max": 21600.0
   },
   "median_price_usd": 2400.0,
-  "last_sale_date": "2026-07-28",
+  "last_sale_date": "2026-08-16",
   "grade_distribution": {
+    "XF": 16,
     "AU": 38,
     "F": 2,
     "MS": 28,
-    "XF": 15,
     "VF": 7
   },
-  "thumbnail_url": "https://media.coinarchives.com/9939492fe2b3ff7b80616eb1b7ca0e56/img/heritage/61635/image23258.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/e1b367db7e150e835d02268d1d7c3bc5/img/heritage/61625/image22164.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -35,6 +35,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-0517aa6c66ab",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2789726&AucID=7257&Lot=22164&Val=636be80ab29e7a46f17ad62635db0d9a",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61625, Lot 22164 \u2014 Ancients\nConstantius II, as Augustus (AD 337-361). AV solidus (21mm, 4.47 gm, 5h). NGC Choice XF 5/5 - 3/5, slight bend. Antioch, 4th officina, ca. AD 337-347. FL IVL CONSTAN-TIVS PERP AVG, pearl-diad",
+      "description": "Ancients\nConstantius II, as Augustus (AD 337-361). AV solidus (21mm, 4.47 gm, 5h). NGC Choice XF 5/5 - 3/5, slight bend. Antioch, 4th officina, ca. AD 337-347. FL IVL CONSTAN-TIVS PERP AVG, pearl-diademed, draped, and cuirassed bust of Constantius II right, seen from front / FELICITAS ROMANORVM, legend surrounding wreath enclosing VOTIS / XV / MVLTIS / XX; SMAN\u0394 below. RIC VIII 31. Rare.\n\nFrom the Dr. Charles Jay Deur Collection, for the charitable benefit of Calvin University and Peace Luther...",
+      "hammer_price_usd": 2200.0,
+      "currency_original": "USD",
+      "price_original": 2200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-16",
+      "image_url": "https://media.coinarchives.com/e1b367db7e150e835d02268d1d7c3bc5/img/heritage/61625/image22164.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-57269239ccff",
       "source": "coinarchives",

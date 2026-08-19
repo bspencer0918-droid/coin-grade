@@ -19,15 +19,15 @@
   "median_price_usd": 156.5,
   "last_sale_date": "2026-07-28",
   "grade_distribution": {
-    "F": 13,
     "VF": 19,
     "XF": 15,
+    "F": 13,
     "MS": 1,
     "G": 1,
     "AU": 4,
     "VG": 3
   },
-  "thumbnail_url": "https://media.coinarchives.com/1cb7cae8467d3cda16c7ce0ae24cf479/img/heritage/61635/image23296.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/835f80a8ebc14e69f5e360ea930fc8a1/img/heritage/61644/image21377.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 3,
@@ -37,39 +37,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "coinarchives-71a76bd24ab6",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2796356&AucID=7267&Lot=23296&Val=f744a33d457753c4eb2353739f7e21a5",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61635, Lot 23296 \u2014 Ancients\nMOESIA. Nicopolis. Septimius Severus (AD 193-211), with Julia Domna. AE (37mm, 4.20 gm, 6h). NGC Choice Fine 5/5 - 3/5.  \u0391V KAI CE-CEVHPOC, laureate head of Septimius Severus right / \u0394OMNA NI",
-      "description": "Ancients\nMOESIA. Nicopolis. Septimius Severus (AD 193-211), with Julia Domna. AE (37mm, 4.20 gm, 6h). NGC Choice Fine 5/5 - 3/5.  \u0391V KAI CE-CEVHPOC, laureate head of Septimius Severus right / \u0394OMNA NIKO\u03a0\u039f\u039bIT \u03a0PO, draped bust of Julia Domna right, seen from front, wearing helmet-like wig of plaits with large chignon at back of head. RPC-. Cf. Classical Numismatic Group, Electronic Auction 361 (14 October 2015), lot 786 for same type.\n\nFrom the Eyeappealing Collection.   www.HA.com/TexasAuctione...",
-      "hammer_price_usd": 75.0,
-      "currency_original": "USD",
-      "price_original": 75.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-07-28",
-      "image_url": "https://media.coinarchives.com/1cb7cae8467d3cda16c7ce0ae24cf479/img/heritage/61635/image23296.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "F",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-ac01d53b4f4a",
       "source": "coinarchives",
@@ -121,6 +88,39 @@
         "cert_number": null,
         "grade": "XF",
         "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-71a76bd24ab6",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2796356&AucID=7267&Lot=23296&Val=f744a33d457753c4eb2353739f7e21a5",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61635, Lot 23296 \u2014 Ancients\nMOESIA. Nicopolis. Septimius Severus (AD 193-211), with Julia Domna. AE (37mm, 4.20 gm, 6h). NGC Choice Fine 5/5 - 3/5.  \u0391V KAI CE-CEVHPOC, laureate head of Septimius Severus right / \u0394OMNA NI",
+      "description": "Ancients\nMOESIA. Nicopolis. Septimius Severus (AD 193-211), with Julia Domna. AE (37mm, 4.20 gm, 6h). NGC Choice Fine 5/5 - 3/5.  \u0391V KAI CE-CEVHPOC, laureate head of Septimius Severus right / \u0394OMNA NIKO\u03a0\u039f\u039bIT \u03a0PO, draped bust of Julia Domna right, seen from front, wearing helmet-like wig of plaits with large chignon at back of head. RPC-. Cf. Classical Numismatic Group, Electronic Auction 361 (14 October 2015), lot 786 for same type.\n\nFrom the Eyeappealing Collection.   www.HA.com/TexasAuctione...",
+      "hammer_price_usd": 75.0,
+      "currency_original": "USD",
+      "price_original": 75.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-28",
+      "image_url": "https://media.coinarchives.com/1cb7cae8467d3cda16c7ce0ae24cf479/img/heritage/61635/image23296.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 3,
         "details_grade": null,

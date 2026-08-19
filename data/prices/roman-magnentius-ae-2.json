@@ -4,12 +4,12 @@
   "ruler": "Magnentius",
   "ruler_normalized": "magnentius",
   "dynasty": "Constantinian",
-  "ruler_dates": "AD 350\u00e2\u20ac\u201c353",
+  "ruler_dates": "AD 350\u2013353",
   "ruler_rarity": "scarce",
   "denomination": "AE 2",
   "metal": "unknown",
-  "sale_count": 38,
-  "realized_count": 38,
+  "sale_count": 39,
+  "realized_count": 39,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,23 +17,56 @@
     "max": 810.0
   },
   "median_price_usd": 180.0,
-  "last_sale_date": "2025-12-07",
+  "last_sale_date": "2026-08-16",
   "grade_distribution": {
+    "MS": 6,
     "AU": 21,
     "XF": 9,
-    "VF": 3,
-    "MS": 5
+    "VF": 3
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-3-4-1-1-33411986&w=120&h=300&it=product",
+  "thumbnail_url": "https://media.coinarchives.com/da20f77792726c91c352dcfcb4691d85/img/heritage/61625/image22179.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 4,
+  "top_surface_score": 2,
   "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-e2a4f76bd721",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2789741&AucID=7257&Lot=22179&Val=c5c61af08cff8bb89bf2368482308bad",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61625, Lot 22179 \u2014 Ancients\nMagnentius (AD 350-353). AE2 or BI centenionalis (21mm, 3.39 gm, 1h). NGC MS 5/5 - 2/5, edge chips. Trier, 1st officina. IM CAE MAGN-ENTIVS AVG, bare-headed, draped, and cuirassed bust of Mag",
+      "description": "Ancients\nMagnentius (AD 350-353). AE2 or BI centenionalis (21mm, 3.39 gm, 1h). NGC MS 5/5 - 2/5, edge chips. Trier, 1st officina. IM CAE MAGN-ENTIVS AVG, bare-headed, draped, and cuirassed bust of Magnentius right / FELICITAS-REI PVBLICE, Magnentius standing facing, head left, Victory standing right on globe in outstretched right hand, grounded labarum with Christogram on banner in left hand; A in right field, TRP crescent in exergue. RIC VIII 266.\n\nFrom the Dr. Charles Jay Deur Collection, fo...",
+      "hammer_price_usd": 55.0,
+      "currency_original": "USD",
+      "price_original": 55.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-16",
+      "image_url": "https://media.coinarchives.com/da20f77792726c91c352dcfcb4691d85/img/heritage/61625/image22179.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-3bd22ab8bd39",
       "source": "heritage",

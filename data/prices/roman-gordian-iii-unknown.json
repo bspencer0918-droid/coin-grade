@@ -27,7 +27,7 @@
     "F": 13,
     "VG": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/ba0d24c8020b46504356d42690c7c360/img/heritage/61635/image23308.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/7bb440d83269ad83e27713131aa40478/img/heritage/61605/image23005.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -302,39 +302,6 @@
       }
     },
     {
-      "id": "coinarchives-ddec20e4967d",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2796368&AucID=7267&Lot=23308&Val=1f69dd9713e701f7e80d67e821856833",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61635, Lot 23308 \u2014 Ancients\nCILICIA. Tarsus. Gordian III, as Augustus (AD 238-244). AE (36mm, 23.08 gm, 7h). NGC AU 5/5 - 2/5, smoothing. \u0391\u03a5\u03a4 \u039a \u039c \u0391\u039d\u03a4 \u0393-\u039f\u03a1\u0394\u0399\u0391\u039d\u039fC C\u0395\u0392, radiate, draped, and cuirassed bust of Gordian III ri",
-      "description": "Ancients\nCILICIA. Tarsus. Gordian III, as Augustus (AD 238-244). AE (36mm, 23.08 gm, 7h). NGC AU 5/5 - 2/5, smoothing. \u0391\u03a5\u03a4 \u039a \u039c \u0391\u039d\u03a4 \u0393-\u039f\u03a1\u0394\u0399\u0391\u039d\u039fC C\u0395\u0392, radiate, draped, and cuirassed bust of Gordian III right, seen from behind; \u03a0-\u03a0 across fields / \u03a4\u0391\u03a1C-\u039f\u03a5 \u039c-\u0397-P-T\u039f-\u03a0-\u039f-\u039b-\u0395-\u03c9-C, double crown of the Cilicarch, decorated with nine imperial busts on outer side and six imperial busts on inner side; \u0391 / \u039c / \u039a \u0393 / \u0392 throughout central field. RPC VII.2 3043 corr. (obverse legend, number of imperial busts). ...",
-      "hammer_price_usd": 650.0,
-      "currency_original": "USD",
-      "price_original": 650.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-07-28",
-      "image_url": "https://media.coinarchives.com/ba0d24c8020b46504356d42690c7c360/img/heritage/61635/image23308.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-3557e258bc00",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -486,6 +453,39 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-ddec20e4967d",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2796368&AucID=7267&Lot=23308&Val=1f69dd9713e701f7e80d67e821856833",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61635, Lot 23308 \u2014 Ancients\nCILICIA. Tarsus. Gordian III, as Augustus (AD 238-244). AE (36mm, 23.08 gm, 7h). NGC AU 5/5 - 2/5, smoothing. \u0391\u03a5\u03a4 \u039a \u039c \u0391\u039d\u03a4 \u0393-\u039f\u03a1\u0394\u0399\u0391\u039d\u039fC C\u0395\u0392, radiate, draped, and cuirassed bust of Gordian III ri",
+      "description": "Ancients\nCILICIA. Tarsus. Gordian III, as Augustus (AD 238-244). AE (36mm, 23.08 gm, 7h). NGC AU 5/5 - 2/5, smoothing. \u0391\u03a5\u03a4 \u039a \u039c \u0391\u039d\u03a4 \u0393-\u039f\u03a1\u0394\u0399\u0391\u039d\u039fC C\u0395\u0392, radiate, draped, and cuirassed bust of Gordian III right, seen from behind; \u03a0-\u03a0 across fields / \u03a4\u0391\u03a1C-\u039f\u03a5 \u039c-\u0397-P-T\u039f-\u03a0-\u039f-\u039b-\u0395-\u03c9-C, double crown of the Cilicarch, decorated with nine imperial busts on outer side and six imperial busts on inner side; \u0391 / \u039c / \u039a \u0393 / \u0392 throughout central field. RPC VII.2 3043 corr. (obverse legend, number of imperial busts). ...",
+      "hammer_price_usd": 650.0,
+      "currency_original": "USD",
+      "price_original": 650.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-28",
+      "image_url": "https://media.coinarchives.com/ba0d24c8020b46504356d42690c7c360/img/heritage/61635/image23308.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

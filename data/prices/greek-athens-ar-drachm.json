@@ -19,12 +19,12 @@
   "median_price_usd": 650.0,
   "last_sale_date": "2026-08-10",
   "grade_distribution": {
-    "F": 1,
     "VF": 3,
+    "F": 1,
     "XF": 3,
     "MS": 2
   },
-  "thumbnail_url": "https://media.coinarchives.com/a0aa22785a067c63803e64307e9ca408/img/heritage/61636/image21009.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/cfe8d13611f4abff2fc91ba62623aa8a/img/heritage/61611/image21065.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 2,
@@ -34,39 +34,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "coinarchives-d62268fd23b0",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2788147&AucID=7252&Lot=21009&Val=c23aaf492072567876ec8b5e1d9588ec",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61636, Lot 21009 \u2014 Ancients\nPHILISTIA. Gaza. Ca. mid 5th century-333 BC. AR drachm (15mm, 3.03 gm, 12h). NGC Fine 4/5 - 2/5, test cut. Imitating Athens. Head of Athena right, wearing earring and crested Attic helmet orn",
-      "description": "Ancients\nPHILISTIA. Gaza. Ca. mid 5th century-333 BC. AR drachm (15mm, 3.03 gm, 12h). NGC Fine 4/5 - 2/5, test cut. Imitating Athens. Head of Athena right, wearing earring and crested Attic helmet ornamented with laurel leaves / Forepart of horse right; OZ (Phoenician) behind; within dotted square border, all within incuse square. HGC-. Cf. Classical Numismatic Group, Electronic Auction 516 (18 May 2022), lot 324 for same type.   www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.ha.com/it...",
-      "hammer_price_usd": 420.0,
-      "currency_original": "USD",
-      "price_original": 420.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-08-10",
-      "image_url": "https://media.coinarchives.com/a0aa22785a067c63803e64307e9ca408/img/heritage/61636/image21009.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "F",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 2,
-        "details_grade": "Test Cut",
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-cf9685f5f6fc",
       "source": "coinarchives",
@@ -88,6 +55,39 @@
         "strike_score": 4,
         "surface_score": 2,
         "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-d62268fd23b0",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2788147&AucID=7252&Lot=21009&Val=c23aaf492072567876ec8b5e1d9588ec",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61636, Lot 21009 \u2014 Ancients\nPHILISTIA. Gaza. Ca. mid 5th century-333 BC. AR drachm (15mm, 3.03 gm, 12h). NGC Fine 4/5 - 2/5, test cut. Imitating Athens. Head of Athena right, wearing earring and crested Attic helmet orn",
+      "description": "Ancients\nPHILISTIA. Gaza. Ca. mid 5th century-333 BC. AR drachm (15mm, 3.03 gm, 12h). NGC Fine 4/5 - 2/5, test cut. Imitating Athens. Head of Athena right, wearing earring and crested Attic helmet ornamented with laurel leaves / Forepart of horse right; OZ (Phoenician) behind; within dotted square border, all within incuse square. HGC-. Cf. Classical Numismatic Group, Electronic Auction 516 (18 May 2022), lot 324 for same type.   www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.ha.com/it...",
+      "hammer_price_usd": 420.0,
+      "currency_original": "USD",
+      "price_original": 420.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-10",
+      "image_url": "https://media.coinarchives.com/a0aa22785a067c63803e64307e9ca408/img/heritage/61636/image21009.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": "Test Cut",
         "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
