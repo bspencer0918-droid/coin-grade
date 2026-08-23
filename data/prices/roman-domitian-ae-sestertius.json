@@ -36,39 +36,6 @@
   "mint_mark": null,
   "sales": [
     {
-      "id": "coinarchives-cb07463db0b4",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2756755&AucID=7130&Lot=23127&Val=93a4fe4f66d21a0a8160c7d922b49d21",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61626, Lot 23127 \u2014 Ancients\nDomitian, as Augustus (AD 81-96). AE sestertius (33mm, 30.48 gm, 7h). NGC Choice VF 5/5 - 2/5, Fine Style, smoothing. Rome, AD 92-94. IMP CAES DOMIT AVG GERM-COS XVI CENS PER P P, laureate he",
-      "description": "Ancients\nDomitian, as Augustus (AD 81-96). AE sestertius (33mm, 30.48 gm, 7h). NGC Choice VF 5/5 - 2/5, Fine Style, smoothing. Rome, AD 92-94. IMP CAES DOMIT AVG GERM-COS XVI CENS PER P P, laureate head of Domitian right / IOVI-VICTORI, Jupiter seated left, feet on stool, Victory left in outstretched right hand, grounded scepter in left; S C in exergue. RIC II.1, 751. Delicately detailed with palm patina. \n\nFrom the Eyeappealing Collection. Ex Heritage Auctions, Auction 231526 (25 June 2015), ...",
-      "hammer_price_usd": 650.0,
-      "currency_original": "USD",
-      "price_original": 650.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-06-07",
-      "image_url": "https://media.coinarchives.com/3d4d10e1d46dae6802ef077cde00acc9/img/heritage/61626/image23127.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "fine_style": true,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "sixbid-a5a3df703c0d",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -128,6 +95,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-cb07463db0b4",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2756755&AucID=7130&Lot=23127&Val=93a4fe4f66d21a0a8160c7d922b49d21",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61626, Lot 23127 \u2014 Ancients\nDomitian, as Augustus (AD 81-96). AE sestertius (33mm, 30.48 gm, 7h). NGC Choice VF 5/5 - 2/5, Fine Style, smoothing. Rome, AD 92-94. IMP CAES DOMIT AVG GERM-COS XVI CENS PER P P, laureate he",
+      "description": "Ancients\nDomitian, as Augustus (AD 81-96). AE sestertius (33mm, 30.48 gm, 7h). NGC Choice VF 5/5 - 2/5, Fine Style, smoothing. Rome, AD 92-94. IMP CAES DOMIT AVG GERM-COS XVI CENS PER P P, laureate head of Domitian right / IOVI-VICTORI, Jupiter seated left, feet on stool, Victory left in outstretched right hand, grounded scepter in left; S C in exergue. RIC II.1, 751. Delicately detailed with palm patina. \n\nFrom the Eyeappealing Collection. Ex Heritage Auctions, Auction 231526 (25 June 2015), ...",
+      "hammer_price_usd": 650.0,
+      "currency_original": "USD",
+      "price_original": 650.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-07",
+      "image_url": "https://media.coinarchives.com/3d4d10e1d46dae6802ef077cde00acc9/img/heritage/61626/image23127.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
