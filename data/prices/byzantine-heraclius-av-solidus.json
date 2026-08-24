@@ -466,39 +466,6 @@
       }
     },
     {
-      "id": "coinarchives-0f7779a0883b",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2768029&AucID=7180&Lot=22054&Val=2bf4ddb537b8822659e0f6fba1ef3662",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61633, Lot 22054 \u2014 Ancients\nHeraclius with Heraclius Constantine, and Heraclonas (AD 632-641). AV solidus (20mm, 4.42 gm, 7h). NGC AU 5/5 - 2/5, graffiti, brushed. Constantinople, 4th officina, dated Indictional Year 9 ",
-      "description": "Ancients\nHeraclius with Heraclius Constantine, and Heraclonas (AD 632-641). AV solidus (20mm, 4.42 gm, 7h). NGC AU 5/5 - 2/5, graffiti, brushed. Constantinople, 4th officina, dated Indictional Year 9 (AD 635-636). Heraclius (in center), with long beard and mustache, Heraclius Constantine (on right), beardless, and Heraclonas (on left), beardless, all standing facing, Heraclius and Heraclius Constantine each wearing crown surmounted by cross, Heraclonas uncrowned in plain cap with cross in fiel...",
-      "hammer_price_usd": 1200.0,
-      "currency_original": "USD",
-      "price_original": 1200.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-07-05",
-      "image_url": "https://media.coinarchives.com/6a668da57f2f72f67b4ca77ee568fcd3/img/heritage/61633/image22054.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": "Graffiti",
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-11bef1851594",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -519,6 +486,39 @@
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": "Clipped",
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-0f7779a0883b",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2768029&AucID=7180&Lot=22054&Val=2bf4ddb537b8822659e0f6fba1ef3662",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61633, Lot 22054 \u2014 Ancients\nHeraclius with Heraclius Constantine, and Heraclonas (AD 632-641). AV solidus (20mm, 4.42 gm, 7h). NGC AU 5/5 - 2/5, graffiti, brushed. Constantinople, 4th officina, dated Indictional Year 9 ",
+      "description": "Ancients\nHeraclius with Heraclius Constantine, and Heraclonas (AD 632-641). AV solidus (20mm, 4.42 gm, 7h). NGC AU 5/5 - 2/5, graffiti, brushed. Constantinople, 4th officina, dated Indictional Year 9 (AD 635-636). Heraclius (in center), with long beard and mustache, Heraclius Constantine (on right), beardless, and Heraclonas (on left), beardless, all standing facing, Heraclius and Heraclius Constantine each wearing crown surmounted by cross, Heraclonas uncrowned in plain cap with cross in fiel...",
+      "hammer_price_usd": 1200.0,
+      "currency_original": "USD",
+      "price_original": 1200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-05",
+      "image_url": "https://media.coinarchives.com/6a668da57f2f72f67b4ca77ee568fcd3/img/heritage/61633/image22054.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": "Graffiti",
         "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
