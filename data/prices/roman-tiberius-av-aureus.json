@@ -19,14 +19,14 @@
   "median_price_usd": 5520.0,
   "last_sale_date": "2026-07-28",
   "grade_distribution": {
-    "F": 25,
     "XF": 24,
+    "F": 25,
     "VG": 3,
     "AU": 44,
     "MS": 9,
     "VF": 32
   },
-  "thumbnail_url": "https://media.coinarchives.com/3ac6ab487fef4014cd4efc6d05cc4b64/img/heritage/61605/image23040.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/9b02bc6000a3926945af74e20142f829/img/heritage/61635/image23020.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 3,
@@ -36,39 +36,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "coinarchives-43275c677290",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2722354&AucID=7012&Lot=23040&Val=0d775ebd516e408e39f385624f557b37",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61605, Lot 23040 \u2014 Ancients\nTiberius (AD 14-37). AV aureus (19mm, 7.23 gm, 4h). NGC Fine 5/5 - 1/5, edge filing, brushed, edge scuff. Lugdunum, ca. AD 14-17. TI CAESAR DIVI-AVG F AVGVSTVS, laureate head of Tiberius righ",
-      "description": "Ancients\nTiberius (AD 14-37). AV aureus (19mm, 7.23 gm, 4h). NGC Fine 5/5 - 1/5, edge filing, brushed, edge scuff. Lugdunum, ca. AD 14-17. TI CAESAR DIVI-AVG F AVGVSTVS, laureate head of Tiberius right / PONTIF-MAXIM, Livia, as Pax, seated right, olive branch in outstretched left hand, grounded scepter in right, feet on stool; chair with ornate legs, single line below. Calic\u00f3 305b. RIC I 29 corr. (as 27). \n\nTiberius's cautious nature is reflected in his coinage - unlike the plethora of types e...",
-      "hammer_price_usd": 5250.0,
-      "currency_original": "USD",
-      "price_original": 5250.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-15",
-      "image_url": "https://media.coinarchives.com/3ac6ab487fef4014cd4efc6d05cc4b64/img/heritage/61605/image23040.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "F",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 1,
-        "details_grade": "Edge Filing",
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-9479cd080d96",
       "source": "coinarchives",
@@ -189,6 +156,39 @@
         "strike_score": 5,
         "surface_score": 3,
         "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-43275c677290",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2722354&AucID=7012&Lot=23040&Val=0d775ebd516e408e39f385624f557b37",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61605, Lot 23040 \u2014 Ancients\nTiberius (AD 14-37). AV aureus (19mm, 7.23 gm, 4h). NGC Fine 5/5 - 1/5, edge filing, brushed, edge scuff. Lugdunum, ca. AD 14-17. TI CAESAR DIVI-AVG F AVGVSTVS, laureate head of Tiberius righ",
+      "description": "Ancients\nTiberius (AD 14-37). AV aureus (19mm, 7.23 gm, 4h). NGC Fine 5/5 - 1/5, edge filing, brushed, edge scuff. Lugdunum, ca. AD 14-17. TI CAESAR DIVI-AVG F AVGVSTVS, laureate head of Tiberius right / PONTIF-MAXIM, Livia, as Pax, seated right, olive branch in outstretched left hand, grounded scepter in right, feet on stool; chair with ornate legs, single line below. Calic\u00f3 305b. RIC I 29 corr. (as 27). \n\nTiberius's cautious nature is reflected in his coinage - unlike the plethora of types e...",
+      "hammer_price_usd": 5250.0,
+      "currency_original": "USD",
+      "price_original": 5250.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-15",
+      "image_url": "https://media.coinarchives.com/3ac6ab487fef4014cd4efc6d05cc4b64/img/heritage/61605/image23040.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 1,
+        "details_grade": "Edge Filing",
         "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"

@@ -8,19 +8,19 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 33,
-  "realized_count": 33,
+  "sale_count": 34,
+  "realized_count": 34,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 110.0,
     "max": 9250.0
   },
-  "median_price_usd": 800.0,
+  "median_price_usd": 787.5,
   "last_sale_date": "2026-08-16",
   "grade_distribution": {
     "AU": 5,
-    "XF": 13,
+    "XF": 14,
     "VF": 10,
     "G": 3,
     "MS": 2
@@ -121,6 +121,39 @@
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-4516ee6c4cb1",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2730413&AucID=7035&Lot=21015&Val=5efde7395388c95e69f295b059a9c202",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61611, Lot 21015 \u2014 Ancients\nPERGAMENE KINGDOM. Attalus I (ca. 241-197 BC). AR tetradrachm (29mm, 16.67 gm, 11h). NGC Choice XF 5/5 - 2/5, edge chip, brushed. Pergamum, ca. 241-235 BC. Laureate head of Philetaerus right ",
+      "description": "Ancients\nPERGAMENE KINGDOM. Attalus I (ca. 241-197 BC). AR tetradrachm (29mm, 16.67 gm, 11h). NGC Choice XF 5/5 - 2/5, edge chip, brushed. Pergamum, ca. 241-235 BC. Laureate head of Philetaerus right / \u03a6I\u039bETAIPOY, Athena seated left, resting left arm on grounded shield decorated with gorgoneion boss, crowning name with wreath in right hand, transverse spear beyond; NAPX monogram in inner left field, bow right in right field. SNG France 5, 1626.  www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps:/...",
+      "hammer_price_usd": 775.0,
+      "currency_original": "USD",
+      "price_original": 775.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-06",
+      "image_url": "https://media.coinarchives.com/db5faaf43db26f5630b204b26ac2ac9f/img/heritage/61611/image21015.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

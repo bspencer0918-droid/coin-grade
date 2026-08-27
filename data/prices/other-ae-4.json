@@ -8,22 +8,22 @@
   "ruler_rarity": null,
   "denomination": "AE 4",
   "metal": "bronze",
-  "sale_count": 16,
-  "realized_count": 16,
+  "sale_count": 17,
+  "realized_count": 17,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 69.0,
-    "max": 432.0
+    "max": 750.0
   },
-  "median_price_usd": 177.0,
-  "last_sale_date": "2025-11-30",
+  "median_price_usd": 180.0,
+  "last_sale_date": "2026-08-10",
   "grade_distribution": {
-    "F": 8,
+    "F": 9,
     "VF": 7,
     "VG": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/463c409aae31871771b542997ae28fbc/img/heritage/61558/image23011.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/73a1adb30542cb0b3ede0ec0cf63c37e/img/heritage/61636/image21040.jpg",
   "median_weight_g": null,
   "top_strike_score": null,
   "top_surface_score": null,
@@ -33,6 +33,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-9223adfbd48f",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2788178&AucID=7252&Lot=21040&Val=4ef63e16f21dace5f4d5515f8df0c4fb",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61636, Lot 21040 \u2014 Ancients\nJUDAEA. Herodian Dynasty. Herod I the Great (40-4 BC). AE 4-prutot (24mm, 1h). NGC Fine. Samarian, dated Regnal Year 3 (40/39 or 38/37 BC). Facing helmet with star atop crest; palms to either",
+      "description": "Ancients\nJUDAEA. Herodian Dynasty. Herod I the Great (40-4 BC). AE 4-prutot (24mm, 1h). NGC Fine. Samarian, dated Regnal Year 3 (40/39 or 38/37 BC). Facing helmet with star atop crest; palms to either side / HP\u03a9\u0394OY BA\u03a3I\u039bE\u03a9\u03a3, tripod with ceremonial bowl above; L-\u0393 (date) to left, TP monogram to right. GBC 6, 6204.\n\nDavid Hendin, in his Sixth Edition of Guide to Biblical Coins, states on p. 202 \"Herod's dated coins were struck in four denominations, often described as 8, 4, 2, and 1 prutot. Howe...",
+      "hammer_price_usd": 750.0,
+      "currency_original": "USD",
+      "price_original": 750.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-10",
+      "image_url": "https://media.coinarchives.com/73a1adb30542cb0b3ede0ec0cf63c37e/img/heritage/61636/image21040.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-d8937b1a5474",
       "source": "coinarchives",

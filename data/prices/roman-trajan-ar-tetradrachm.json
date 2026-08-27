@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 161,
-  "realized_count": 161,
+  "sale_count": 162,
+  "realized_count": 162,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -21,7 +21,7 @@
   "grade_distribution": {
     "XF": 28,
     "VF": 32,
-    "F": 11,
+    "F": 12,
     "AU": 62,
     "VG": 2,
     "MS": 26
@@ -320,6 +320,39 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-bf47776b491b",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2777826&AucID=7219&Lot=21398&Val=8fee3956c4288a48c9b71694292b3628",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61644, Lot 21398 \u2014 Ancients\nEGYPT. Alexandria. Trajan (AD 98-117). BI tetradrachm (23mm, 12.50 gm, 11h). NGC Fine 5/5 - 4/5. Dated Regnal Year 5 (AD 101/102). AVT KAIC NEP-TPAIAN C\u0404B \u0393EPM, laureate head of Trajan right ",
+      "description": "Ancients\nEGYPT. Alexandria. Trajan (AD 98-117). BI tetradrachm (23mm, 12.50 gm, 11h). NGC Fine 5/5 - 4/5. Dated Regnal Year 5 (AD 101/102). AVT KAIC NEP-TPAIAN C\u0404B \u0393EPM, laureate head of Trajan right / Eagle standing right, wings closed; L-E (date) across fields. RPC III 4147.\n\nFrom the Eyeappealing Collection. \n\nMarcus Ulpius Trajanus, better known as Trajan, carved his name in history as one of ancient Rome's most illustrious emperors, renowned for his military prowess and strategic brillian...",
+      "hammer_price_usd": 175.0,
+      "currency_original": "USD",
+      "price_original": 175.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-20",
+      "image_url": "https://media.coinarchives.com/1098db25dd19bc3fe653e267f0ba0337/img/heritage/61644/image21398.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

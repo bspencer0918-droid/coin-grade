@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 14,
-  "realized_count": 14,
+  "sale_count": 15,
+  "realized_count": 15,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -19,21 +19,54 @@
   "median_price_usd": 400.0,
   "last_sale_date": "2026-08-02",
   "grade_distribution": {
+    "VF": 6,
     "AU": 4,
     "XF": 4,
-    "VF": 5,
     "F": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/958eec115e7afe646c158f673d505178/img/heritage/61641/image23041.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/eae78ab4fed08c1ffbf0da4fa0114e85/img/heritage/61611/image21016.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 3,
+  "top_surface_score": 2,
   "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-68be77698c5e",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2730414&AucID=7035&Lot=21016&Val=96963eed86c9b963ce8b48feb2aa0aea",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61611, Lot 21016 \u2014 Ancients\nAEOLIS. Temnus. Ca. 200-170 BC. AR tetradrachm (34mm, 15.98 gm, 12h). NGC Choice VF 5/5 - 2/5, scratches, brushed, edge bend. Late posthumous issue in the name and types of Alexander III the ",
+      "description": "Ancients\nAEOLIS. Temnus. Ca. 200-170 BC. AR tetradrachm (34mm, 15.98 gm, 12h). NGC Choice VF 5/5 - 2/5, scratches, brushed, edge bend. Late posthumous issue in the name and types of Alexander III the Great of Macedon. Head of Heracles right, wearing lion skin headdress, paws tied before neck / A\u039bE\u039eAN\u0394POY, Zeus enthroned left, right leg drawn back, feet on ground line, eagle in outstretched right hand, grounded scepter in left; \u03a0A monogram and E above oenochoe within vine tendril in left field....",
+      "hammer_price_usd": 400.0,
+      "currency_original": "USD",
+      "price_original": 400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-06",
+      "image_url": "https://media.coinarchives.com/eae78ab4fed08c1ffbf0da4fa0114e85/img/heritage/61611/image21016.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": "Scratche",
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-a690c7b2c74c",
       "source": "sixbid",

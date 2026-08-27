@@ -24,7 +24,7 @@
     "XF": 7,
     "F": 7
   },
-  "thumbnail_url": "https://media.coinarchives.com/e55fc49a916a3225fcf6380bacc31908/img/heritage/61605/image23058.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/ea16664c90babd21d4c1f57a9302e7f2/img/heritage/61626/image23123.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 5,
@@ -34,39 +34,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "coinarchives-52909aacff2e",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2722372&AucID=7012&Lot=23058&Val=4fc9e9880f7a246f4bbab55ba40a663e",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61605, Lot 23058 \u2014 Ancients\nVespasian (AD 69-79). AE dupondius (28mm, 12.88 gm, 7h). NGC Choice VF 4/5 - 3/5, Fine Style. Rome, AD 73. IMP CAES VESP AVG P M T P COS IIII CENS, radiate head of Vespasian left / FELICITA-S",
-      "description": "Ancients\nVespasian (AD 69-79). AE dupondius (28mm, 12.88 gm, 7h). NGC Choice VF 4/5 - 3/5, Fine Style. Rome, AD 73. IMP CAES VESP AVG P M T P COS IIII CENS, radiate head of Vespasian left / FELICITA-S-PVBLICA, Felicitas standing facing, head left, caduceus in outstretched right hand, cornucopia cradled in left arm; S-C across fields. RIC II.1 581. Wonderful pistachio patina. \n\nEx Numismatica Ars Classica, Auction 51 (5 March 2009), lot 223. \n\nDescended from a family of small-time entrepreneurs...",
-      "hammer_price_usd": 2600.0,
-      "currency_original": "USD",
-      "price_original": 2600.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-15",
-      "image_url": "https://media.coinarchives.com/e55fc49a916a3225fcf6380bacc31908/img/heritage/61605/image23058.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": true,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-4cf852085207",
       "source": "coinarchives",
@@ -87,6 +54,39 @@
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 5,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-52909aacff2e",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2722372&AucID=7012&Lot=23058&Val=4fc9e9880f7a246f4bbab55ba40a663e",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61605, Lot 23058 \u2014 Ancients\nVespasian (AD 69-79). AE dupondius (28mm, 12.88 gm, 7h). NGC Choice VF 4/5 - 3/5, Fine Style. Rome, AD 73. IMP CAES VESP AVG P M T P COS IIII CENS, radiate head of Vespasian left / FELICITA-S",
+      "description": "Ancients\nVespasian (AD 69-79). AE dupondius (28mm, 12.88 gm, 7h). NGC Choice VF 4/5 - 3/5, Fine Style. Rome, AD 73. IMP CAES VESP AVG P M T P COS IIII CENS, radiate head of Vespasian left / FELICITA-S-PVBLICA, Felicitas standing facing, head left, caduceus in outstretched right hand, cornucopia cradled in left arm; S-C across fields. RIC II.1 581. Wonderful pistachio patina. \n\nEx Numismatica Ars Classica, Auction 51 (5 March 2009), lot 223. \n\nDescended from a family of small-time entrepreneurs...",
+      "hammer_price_usd": 2600.0,
+      "currency_original": "USD",
+      "price_original": 2600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-15",
+      "image_url": "https://media.coinarchives.com/e55fc49a916a3225fcf6380bacc31908/img/heritage/61605/image23058.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
         "details_grade": null,
         "fine_style": true,
         "certification_url": null,
