@@ -17,7 +17,7 @@
     "max": 120000.0
   },
   "median_price_usd": 2280.0,
-  "last_sale_date": "2026-08-27",
+  "last_sale_date": "2026-08-28",
   "grade_distribution": {
     "F": 45,
     "XF": 481,
@@ -29,7 +29,7 @@
     "VG": 9,
     "AG": 2
   },
-  "thumbnail_url": "https://media.coinarchives.com/0d27d3add5df56db0b5ec133bb511d74/img/ponterio/cco_may26/image73095.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/7c6fd967a22639ee8f446448906149c5/img/heritage/61611/image21008.jpg",
   "median_weight_g": 8.0,
   "top_strike_score": 4,
   "top_surface_score": 4,
@@ -347,7 +347,7 @@
       "currency_original": "USD",
       "price_original": 3000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-08-27",
+      "sale_date": "2026-08-28",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc117552a.jpg",
       "ngc": {
         "verified": false,
@@ -364,39 +364,6 @@
       "metadata": {
         "mint": "",
         "weight_g": 8.0,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-eaa382dd77a7",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2753949&AucID=7120&Lot=73095&Val=6a283dea3532f77739cd8fd3ac1973df",
-      "title": "Stack's Bowers Galleries (& Ponterio) - May 2026 World CCO Auction, Lot 73095 \u2014 PAMPHYLIA. Aspendos. AR Stater (9.78 gms), ca. 330-250 B.C. NGC VF\u2605, Strike: 5/5 Surface: 5/5.\nSNG von Aulock-4576; SNG BN-122. Obverse: Two wrestlers grappling; E between; Reverse: Slinger in throwin",
-      "description": "PAMPHYLIA. Aspendos. AR Stater (9.78 gms), ca. 330-250 B.C. NGC VF\u2605, Strike: 5/5 Surface: 5/5.\nSNG von Aulock-4576; SNG BN-122. Obverse: Two wrestlers grappling; E between; Reverse: Slinger in throwing stance right; O between legs; to right, triskeles above club. A charming example displaying a commendable strike, mottled cabinet tone, and plenty of underlying luster.\n\nEstimate: 700 - 1000...",
-      "hammer_price_usd": 1150.0,
-      "currency_original": "USD",
-      "price_original": 1150.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-05-11",
-      "image_url": "https://media.coinarchives.com/0d27d3add5df56db0b5ec133bb511d74/img/ponterio/cco_may26/image73095.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
         "reverse_desc": null
@@ -851,6 +818,39 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-eaa382dd77a7",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2753949&AucID=7120&Lot=73095&Val=6a283dea3532f77739cd8fd3ac1973df",
+      "title": "Stack's Bowers Galleries (& Ponterio) - May 2026 World CCO Auction, Lot 73095 \u2014 PAMPHYLIA. Aspendos. AR Stater (9.78 gms), ca. 330-250 B.C. NGC VF\u2605, Strike: 5/5 Surface: 5/5.\nSNG von Aulock-4576; SNG BN-122. Obverse: Two wrestlers grappling; E between; Reverse: Slinger in throwin",
+      "description": "PAMPHYLIA. Aspendos. AR Stater (9.78 gms), ca. 330-250 B.C. NGC VF\u2605, Strike: 5/5 Surface: 5/5.\nSNG von Aulock-4576; SNG BN-122. Obverse: Two wrestlers grappling; E between; Reverse: Slinger in throwing stance right; O between legs; to right, triskeles above club. A charming example displaying a commendable strike, mottled cabinet tone, and plenty of underlying luster.\n\nEstimate: 700 - 1000...",
+      "hammer_price_usd": 1150.0,
+      "currency_original": "USD",
+      "price_original": 1150.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-11",
+      "image_url": "https://media.coinarchives.com/0d27d3add5df56db0b5ec133bb511d74/img/ponterio/cco_may26/image73095.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
