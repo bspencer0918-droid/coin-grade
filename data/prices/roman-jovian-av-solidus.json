@@ -19,21 +19,54 @@
   "median_price_usd": 4200.0,
   "last_sale_date": "2026-07-28",
   "grade_distribution": {
+    "XF": 2,
     "AU": 5,
     "MS": 3,
-    "XF": 2,
     "VF": 3
   },
   "thumbnail_url": "https://media.coinarchives.com/0c8663873d3c7b53a3d3d1c14e8f4eb7/img/heritage/61635/image23268.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 4,
-  "top_grade_numeric": null,
+  "top_surface_score": 3,
+  "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-c48e6c56253c",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2796328&AucID=7267&Lot=23268&Val=c9b67c97b76598e1bbdf1d14947ed62b",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61635, Lot 23268 \u2014 Ancients\nJovian (AD 363-364). AV solidus (21mm, 4.47 gm, 12h). NGC Choice XF 5/5 - 3/5, brushed. Thessalonica. D N IOVIA-NVS P F AVG, pearl-diademed, draped, and cuirassed bust of Jovian right, seen f",
+      "description": "Ancients\nJovian (AD 363-364). AV solidus (21mm, 4.47 gm, 12h). NGC Choice XF 5/5 - 3/5, brushed. Thessalonica. D N IOVIA-NVS P F AVG, pearl-diademed, draped, and cuirassed bust of Jovian right, seen from front / SECVRITAS-REIPVBLICE, Jovian standing facing in military attire, pearl-diademed head left, grounded labarum with Christogram on banner in outstretched right hand, globe in left hand under cloak, bound captive left before, head reverted; star TES\u2022 in exergue. RIC VIII 229.\n\nEx Numismati...",
+      "hammer_price_usd": 3100.0,
+      "currency_original": "USD",
+      "price_original": 3100.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-28",
+      "image_url": "https://media.coinarchives.com/0c8663873d3c7b53a3d3d1c14e8f4eb7/img/heritage/61635/image23268.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-4af5aadcd253",
       "source": "sixbid",
@@ -127,39 +160,6 @@
       },
       "metadata": {
         "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-c48e6c56253c",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2796328&AucID=7267&Lot=23268&Val=c9b67c97b76598e1bbdf1d14947ed62b",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61635, Lot 23268 \u2014 Ancients\nJovian (AD 363-364). AV solidus (21mm, 4.47 gm, 12h). NGC Choice XF 5/5 - 3/5, brushed. Thessalonica. D N IOVIA-NVS P F AVG, pearl-diademed, draped, and cuirassed bust of Jovian right, seen f",
-      "description": "Ancients\nJovian (AD 363-364). AV solidus (21mm, 4.47 gm, 12h). NGC Choice XF 5/5 - 3/5, brushed. Thessalonica. D N IOVIA-NVS P F AVG, pearl-diademed, draped, and cuirassed bust of Jovian right, seen from front / SECVRITAS-REIPVBLICE, Jovian standing facing in military attire, pearl-diademed head left, grounded labarum with Christogram on banner in outstretched right hand, globe in left hand under cloak, bound captive left before, head reverted; star TES\u2022 in exergue. RIC VIII 229.\n\nEx Numismati...",
-      "hammer_price_usd": 3100.0,
-      "currency_original": "USD",
-      "price_original": 3100.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-07-28",
-      "image_url": "https://media.coinarchives.com/0c8663873d3c7b53a3d3d1c14e8f4eb7/img/heritage/61635/image23268.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 546,
-  "realized_count": 546,
+  "sale_count": 547,
+  "realized_count": 547,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -19,7 +19,7 @@
   "median_price_usd": 312.0,
   "last_sale_date": "2026-07-28",
   "grade_distribution": {
-    "VF": 204,
+    "VF": 205,
     "AU": 85,
     "F": 74,
     "XF": 141,
@@ -60,39 +60,6 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-b29334708ebc",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/tcc-group-companies/13773/roman-empire/12200261/vespasian-ar-denarius-roman",
-      "title": "Vespasian AR Denarius <br> ROMAN EMPIRE. Vespasian. <br>Silver Denarius, AD 72-73. Antioch. <br>Obv: IMP CAES VESP AVG P M COS IIII, laureate head right. Rev: emperor driving slow quadriga right, holding branch and sceptre.<br><br><i>In secure plastic holder, graded NGC Ch VF Strike: 4/5 Surface: 2/5, certification number <a href=\"https://www.ngccoin.com/certlookup/3819341-011/Other/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">3819341-011</a>.</i><br><br>Ex Roma Numismatics Ltd, Auction XXIII (25/3/2022), lot 883;<br>Ex Gitbud & Naumann, Auction 2 (7/4/2013), lot 211.<br><br>Reference: RIC II.1-1559; RPC II-1931; BMCRE-512; RSC-643.<br>Weight: 3.24g.<br>Diameter: 17mm* based on average.<br><br>PLEASE NOTE: A 22.50% buyer's premium will be charged separately. VAT on the buyer's premium may apply in accordance with UK regulations. Payment can be made in EUR,  CHF, or USD for an exchange fee. Please contact us to find out more.",
-      "description": "The Coin Cabinet | ['Kallista IV']",
-      "hammer_price_usd": 414.09,
-      "currency_original": "USD",
-      "price_original": 414.09305,
-      "buyers_premium_included": false,
-      "sale_date": "2026-05-14",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "3819341-011",
-        "grade": "VF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 2,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/3819341011/",
         "grading_service": "ngc"
       },
       "metadata": {
@@ -163,6 +130,72 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-91b983b8a0ca",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2746678&AucID=7100&Lot=112&Val=41a8bb9cf7f8fd276edaeb4e00fa1c39",
+      "title": "The Coin Cabinet - Kallista Auction 4, Lot 112 \u2014 Vespasian AR Denarius\nROMAN EMPIRE. Vespasian. \nSilver Denarius, AD 72-73. Antioch. \nObv: IMP CAES VESP AVG P M COS IIII, laureate head right. Rev: emperor driving slow quadriga right, holding branch ",
+      "description": "Vespasian AR Denarius\nROMAN EMPIRE. Vespasian. \nSilver Denarius, AD 72-73. Antioch. \nObv: IMP CAES VESP AVG P M COS IIII, laureate head right. Rev: emperor driving slow quadriga right, holding branch and sceptre.\n\nIn secure plastic holder, graded NGC Ch VF Strike: 4/5 Surface: 2/5, certification number 3819341-011.\n\nEx Roma Numismatics Ltd, Auction XXIII (25/3/2022), lot 883;\nEx Gitbud & Naumann, Auction 2 (7/4/2013), lot 211.\n\nReference: RIC II.1-1559; RPC II-1931; BMCRE-512; RSC-643.\nWeight:...",
+      "hammer_price_usd": 393.7,
+      "currency_original": "GBP",
+      "price_original": 310.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-14",
+      "image_url": "https://media.coinarchives.com/2be6525c10e1e7bbac5f413ae57e8f01/img/tcc/kallista4/image00112.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "3819341-011",
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/3819341011/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-b29334708ebc",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/tcc-group-companies/13773/roman-empire/12200261/vespasian-ar-denarius-roman",
+      "title": "Vespasian AR Denarius <br> ROMAN EMPIRE. Vespasian. <br>Silver Denarius, AD 72-73. Antioch. <br>Obv: IMP CAES VESP AVG P M COS IIII, laureate head right. Rev: emperor driving slow quadriga right, holding branch and sceptre.<br><br><i>In secure plastic holder, graded NGC Ch VF Strike: 4/5 Surface: 2/5, certification number <a href=\"https://www.ngccoin.com/certlookup/3819341-011/Other/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">3819341-011</a>.</i><br><br>Ex Roma Numismatics Ltd, Auction XXIII (25/3/2022), lot 883;<br>Ex Gitbud & Naumann, Auction 2 (7/4/2013), lot 211.<br><br>Reference: RIC II.1-1559; RPC II-1931; BMCRE-512; RSC-643.<br>Weight: 3.24g.<br>Diameter: 17mm* based on average.<br><br>PLEASE NOTE: A 22.50% buyer's premium will be charged separately. VAT on the buyer's premium may apply in accordance with UK regulations. Payment can be made in EUR,  CHF, or USD for an exchange fee. Please contact us to find out more.",
+      "description": "The Coin Cabinet | ['Kallista IV']",
+      "hammer_price_usd": 414.09,
+      "currency_original": "USD",
+      "price_original": 414.09305,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-14",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "3819341-011",
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/3819341011/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

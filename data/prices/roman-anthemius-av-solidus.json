@@ -34,39 +34,6 @@
   "mint_mark": null,
   "sales": [
     {
-      "id": "sixbid-9bfc49b331a7",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13970/ancients-roman-imperial/12387365/anthemius-western-roman-empire-ad",
-      "title": "Anthemius, Western Roman Empire (AD 467-472). AV solidus (20mm, 4.42 gm, 7h). NGC Choice AU 5/5 - 3/5, edge filing. Rome, AD 467-472. D N ANTHE-MIVS P F AVG, pearl-diademed, helmeted, draped, and cuirassed bust of Anthemius facing, head slightly right, spear over right shoulder / SALVS R-EIP-VBLICAE, the emperors Anthemius and Leo standing facing in military dress, spear in outer hands, jointly holding globus cruciger between them; RM monogram above pellet in central field, COMOB in exergue. RIC X 2831.  From the Dr. Charles Jay Deur Collection, for the charitable benefit of Calvin University and Peace Lutheran Church of Hurst. Ex Harlan J. Berk, private sale with old dealer's tag included.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
-      "description": "Heritage Auctions, Inc. | ['Auction #61625']",
-      "hammer_price_usd": 9150.0,
-      "currency_original": "USD",
-      "price_original": 9150.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-08-16",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": "Edge Filing",
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-6ba698e3f838",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -93,6 +60,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-9bfc49b331a7",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13970/ancients-roman-imperial/12387365/anthemius-western-roman-empire-ad",
+      "title": "Anthemius, Western Roman Empire (AD 467-472). AV solidus (20mm, 4.42 gm, 7h). NGC Choice AU 5/5 - 3/5, edge filing. Rome, AD 467-472. D N ANTHE-MIVS P F AVG, pearl-diademed, helmeted, draped, and cuirassed bust of Anthemius facing, head slightly right, spear over right shoulder / SALVS R-EIP-VBLICAE, the emperors Anthemius and Leo standing facing in military dress, spear in outer hands, jointly holding globus cruciger between them; RM monogram above pellet in central field, COMOB in exergue. RIC X 2831.  From the Dr. Charles Jay Deur Collection, for the charitable benefit of Calvin University and Peace Lutheran Church of Hurst. Ex Harlan J. Berk, private sale with old dealer's tag included.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61625']",
+      "hammer_price_usd": 9150.0,
+      "currency_original": "USD",
+      "price_original": 9150.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": "Edge Filing",
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

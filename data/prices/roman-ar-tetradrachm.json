@@ -17,7 +17,7 @@
     "max": 10000.0
   },
   "median_price_usd": 144.0,
-  "last_sale_date": "2026-08-29",
+  "last_sale_date": "2026-08-30",
   "grade_distribution": {
     "F": 12,
     "XF": 94,
@@ -28,9 +28,9 @@
   },
   "thumbnail_url": "https://media.coinarchives.com/4d957edbf32baaa4b0542720c945b4d3/img/album/054/image00077.jpg",
   "median_weight_g": null,
-  "top_strike_score": 3,
-  "top_surface_score": 4,
-  "top_grade_numeric": 3,
+  "top_strike_score": 4,
+  "top_surface_score": 3,
+  "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
@@ -63,6 +63,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "hjb-058de01ac44f",
+      "source": "hjb",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/102201",
+      "title": "Macedonia under Roman Rule. Tetradrachm",
+      "description": "",
+      "hammer_price_usd": 1250.0,
+      "currency_original": "USD",
+      "price_original": 1250.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-30",
+      "image_url": "https://images.hjbltd.com/ancient-coins/cc102201a.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "27550580",
+        "grade": null,
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -162,39 +195,6 @@
       },
       "metadata": {
         "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "hjb-058de01ac44f",
-      "source": "hjb",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/102201",
-      "title": "Macedonia under Roman Rule. Tetradrachm",
-      "description": "",
-      "hammer_price_usd": 1250.0,
-      "currency_original": "USD",
-      "price_original": 1250.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-08-29",
-      "image_url": "https://images.hjbltd.com/ancient-coins/cc102201a.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": "27550580",
-        "grade": null,
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
