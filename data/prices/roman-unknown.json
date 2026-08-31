@@ -28,11 +28,11 @@
     "G": 20,
     "VG": 34
   },
-  "thumbnail_url": "https://media.coinarchives.com/4b1d6b4ee359c371964f287b883cf5ea/img/heritage/61625/image22083.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/9dbaab29742a548140b38cad874b4e7b/img/heritage/61611/image21014.jpg",
   "median_weight_g": null,
-  "top_strike_score": 5,
-  "top_surface_score": 5,
-  "top_grade_numeric": 5,
+  "top_strike_score": null,
+  "top_surface_score": null,
+  "top_grade_numeric": 62,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
@@ -7497,39 +7497,6 @@
       }
     },
     {
-      "id": "coinarchives-e704b4a26696",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2789645&AucID=7257&Lot=22083&Val=8568129ebac69ea6e83b2b621fb887fc",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61625, Lot 22083 \u2014 Ancients\nProbus (AD 276-282). BI antoninianus (23mm, 4.21 gm, 6h). NGC MS 5/5 - 5/5, Silvering. Rome, 2nd officina. IMP PRO-BVS AVG, radiate, cuirassed bust of Probus right, seen from front / ROMAE-AE",
-      "description": "Ancients\nProbus (AD 276-282). BI antoninianus (23mm, 4.21 gm, 6h). NGC MS 5/5 - 5/5, Silvering. Rome, 2nd officina. IMP PRO-BVS AVG, radiate, cuirassed bust of Probus right, seen from front / ROMAE-AETER, Roma seated facing in hexastyle temple, Victory in right hand, grounded scepter in left; R crescent B in exergue. RIC V.II 185.\n\nFrom the Dr. Charles Jay Deur Collection, for the charitable benefit of Calvin University and Peace Lutheran Church of Hurst. Collectors ticket included.  www.HA.co...",
-      "hammer_price_usd": 550.0,
-      "currency_original": "USD",
-      "price_original": 550.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-08-16",
-      "image_url": "https://media.coinarchives.com/4b1d6b4ee359c371964f287b883cf5ea/img/heritage/61625/image22083.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-51d26c4e2e4d",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -7783,6 +7750,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/8585319009/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-e704b4a26696",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2789645&AucID=7257&Lot=22083&Val=8568129ebac69ea6e83b2b621fb887fc",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61625, Lot 22083 \u2014 Ancients\nProbus (AD 276-282). BI antoninianus (23mm, 4.21 gm, 6h). NGC MS 5/5 - 5/5, Silvering. Rome, 2nd officina. IMP PRO-BVS AVG, radiate, cuirassed bust of Probus right, seen from front / ROMAE-AE",
+      "description": "Ancients\nProbus (AD 276-282). BI antoninianus (23mm, 4.21 gm, 6h). NGC MS 5/5 - 5/5, Silvering. Rome, 2nd officina. IMP PRO-BVS AVG, radiate, cuirassed bust of Probus right, seen from front / ROMAE-AETER, Roma seated facing in hexastyle temple, Victory in right hand, grounded scepter in left; R crescent B in exergue. RIC V.II 185.\n\nFrom the Dr. Charles Jay Deur Collection, for the charitable benefit of Calvin University and Peace Lutheran Church of Hurst. Collectors ticket included.  www.HA.co...",
+      "hammer_price_usd": 550.0,
+      "currency_original": "USD",
+      "price_original": 550.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-16",
+      "image_url": "https://media.coinarchives.com/4b1d6b4ee359c371964f287b883cf5ea/img/heritage/61625/image22083.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
         "grading_service": "ngc"
       },
       "metadata": {
