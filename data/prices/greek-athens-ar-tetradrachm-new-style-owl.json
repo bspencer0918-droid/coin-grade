@@ -8,20 +8,20 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 63,
-  "realized_count": 63,
+  "sale_count": 65,
+  "realized_count": 65,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 440.0,
+    "min": 1.0,
     "max": 6600.0
   },
   "median_price_usd": 1680.0,
-  "last_sale_date": "2026-07-20",
+  "last_sale_date": "2026-08-31",
   "grade_distribution": {
+    "XF": 23,
+    "VF": 7,
     "AU": 27,
-    "XF": 22,
-    "VF": 6,
     "MS": 7,
     "F": 1
   },
@@ -35,6 +35,72 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-33cca38a77e7",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13984/ancients-greek/12405342/attica-athens-2nd-1st-centuries-bc",
+      "title": "ATTICA. Athens. 2nd-1st Centuries BC. AR four\u00e9e tetradrachm (29mm, 13.91 gm, 11h). NGC XF 5/5 - 3/5, core visible, graffito.  Ancient imitation of New Style coinage, ca. 136/135 BC, 1st month, Hera-, Aristoph- and Aristok-, magistrates. Head of Athena right wearing triple-crested Attic helmet, ornamented with leaping Pegasus above upturned cheek flap, vine scroll on bowl, protomes of four horses on visor / A-\u0398E / HPA / API-\u03a3TO\u03a6 / API\u03a3T/OK, owl standing facing on overturned amphora engraved with A (month); lion skin on club and bow in case in left field, HP (engraver) below, all within olive wreath. Cf. HGC 4, 1602 for prototype. Cf. Thompson 339i/j var. (month) for prototype.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61541']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-31",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": "Graffito",
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-dc1744ad3f36",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13984/ancients-greek/12405386/attica-athens-ca-2nd-1st-centuries",
+      "title": "ATTICA. Athens. Ca. 2nd-1st centuries BC. AR four\u00e9e tetradrachm (30mm, 14.51 gm, 1h). NGC Choice VF 5/5 - 2/5, core visible, brushed. Ancient imitation of New Style coinage, ca. 124/123 BC, 5th month, Deinoc, Epigene, and Sosandrus, magistrates. Head of Athena right, wearing triple-crested Attic helmet decorated with a vine scroll, Pegasus above filled upturned cheek flap, protomes of four horses above visor / \u0391-\u0398\u0395 / MIK-I\u03a9N / EYP-YK\u039bE / \u03a3\u03a9/KPA/TH\u03a3, owl standing facing on overturned amphora decorated with E (month); the Dioscuri standing facing in right field, each with patera in outstretched right hand and grounded scepter in left, \u03a3\u03a6 (engraver) below, all within olive wreath. Cf. HGC 4, 1602 for prototype. Cf. Thompson 484 b/c for prototype.    HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61541']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-31",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-43438b6e1b2f",
       "source": "sixbid",
