@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Drachm",
   "metal": "silver",
-  "sale_count": 1031,
-  "realized_count": 1031,
+  "sale_count": 1032,
+  "realized_count": 1032,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,13 +17,13 @@
     "max": 40800.0
   },
   "median_price_usd": 169.0,
-  "last_sale_date": "2026-08-15",
+  "last_sale_date": "2026-09-01",
   "grade_distribution": {
     "XF": 202,
+    "AU": 300,
     "F": 28,
     "VF": 135,
     "MS": 347,
-    "AU": 299,
     "P": 7,
     "G": 8,
     "VG": 5
@@ -61,6 +61,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/4935553010/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-8132344aebfd",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/katz-coins-notes-and-supplies-corp/14030/coins-ancient-world/12446077/ancient-greece-thessaly-larissa-ar",
+      "title": "Ancient Greece Thessaly, Larissa AR Drachm 356 - 342 BC NGC Ch AU Strike: 3/5; Surface: 5/5 <br> BCD Thessaly II#\u202f320, HGC 4# 454, N# 171086; Silver 6.10 g.; Larissa Mint; Obv: Head of the nymph Larissa facing, turned slightly to the left, wearing ampyx, pendant earring, and simple necklace // Rev: Horse to right, preparing to roll over; \u039bAPI\u03a3-AI\u03a9N around; AUNC",
+      "description": "Katz Coins Notes & Supplies Corp. | ['Jubilee Auction 200']",
+      "hammer_price_usd": 116.81,
+      "currency_original": "USD",
+      "price_original": 116.81,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 3,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
         "grading_service": "ngc"
       },
       "metadata": {

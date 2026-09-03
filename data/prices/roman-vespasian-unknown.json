@@ -8,20 +8,20 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "gold",
-  "sale_count": 49,
-  "realized_count": 49,
+  "sale_count": 50,
+  "realized_count": 50,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 35.0,
     "max": 5280.0
   },
-  "median_price_usd": 190.0,
+  "median_price_usd": 188.0,
   "last_sale_date": "2026-08-10",
   "grade_distribution": {
     "XF": 10,
     "VF": 23,
-    "F": 12,
+    "F": 13,
     "AU": 4
   },
   "thumbnail_url": "https://media.coinarchives.com/31d65900f25fa6c73bc81a2e9101ce9c/img/heritage/61636/image21175.jpg",
@@ -220,6 +220,39 @@
         "strike_score": 3,
         "surface_score": 3,
         "details_grade": "Overstruck",
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-f6a5370d1e7c",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2788388&AucID=7252&Lot=21250&Val=7f152bea6a7240a35331366266afcd8c",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61636, Lot 21250 \u2014 Ancients\nGALILEE. Sepphoris. Trajan (AD 98-117). AE (19mm, 5.29 gm, 12h). NGC Fine 5/5 - 4/5.  \u03a4\u03a1\u0391\u0399\u0391\u039d\u039f\u03a3 \u0391\u03a5\u03a4\u039f\u039a\u03a1\u0391-\u03a4\u03a9\u03a1 \u0395\u0394\u03a9\u039a\u0395\u039d, laureate head of Trajan right / \u03a3\u0395\u03a0\u03a6\u03a9-\u03a1\u0397\u039d\u03a9\u039d, filleted caduceus. RPC III 3938",
+      "description": "Ancients\nGALILEE. Sepphoris. Trajan (AD 98-117). AE (19mm, 5.29 gm, 12h). NGC Fine 5/5 - 4/5.  \u03a4\u03a1\u0391\u0399\u0391\u039d\u039f\u03a3 \u0391\u03a5\u03a4\u039f\u039a\u03a1\u0391-\u03a4\u03a9\u03a1 \u0395\u0394\u03a9\u039a\u0395\u039d, laureate head of Trajan right / \u03a3\u0395\u03a0\u03a6\u03a9-\u03a1\u0397\u039d\u03a9\u039d, filleted caduceus. RPC III 3938.\n\nFrom the Eyeappealing Collection. \n\nMarcus Ulpius Trajanus, better known as Trajan, carved his name in history as one of ancient Rome's most illustrious emperors, renowned for his military prowess and strategic brilliance. Born the son of a prominent Roman senator under the reign of Vespasian, ...",
+      "hammer_price_usd": 130.0,
+      "currency_original": "USD",
+      "price_original": 130.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-10",
+      "image_url": "https://media.coinarchives.com/7913d580192ba84af03bda40e284fc14/img/heritage/61636/image21250.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
         "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
