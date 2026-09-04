@@ -19,13 +19,13 @@
   "median_price_usd": 109.0,
   "last_sale_date": "2026-08-10",
   "grade_distribution": {
-    "F": 11,
     "XF": 17,
+    "F": 11,
     "VF": 12,
     "AU": 1,
     "VG": 2
   },
-  "thumbnail_url": "https://media.coinarchives.com/4622177bed0dbf9ed5f88e6cd970f44c/img/heritage/61636/image21207.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/db1035cd407d7000930bc623038694d5/img/heritage/61626/image23083.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 3,
@@ -35,39 +35,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "coinarchives-76999457e84b",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2788345&AucID=7252&Lot=21207&Val=9065b03ccff57346ea3d78ce1f852b27",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61636, Lot 21207 \u2014 Ancients\nARABIA PETRAEA. Bostra. Severus Alexander, as Augustus (AD 222-235). AE (31mm, 13.24 gm, 5h). NGC Fine 5/5 - 3/5.  IMP CAES M AVB SEV-ALEXANDER AVG, laureate, draped, and cuirassed bust of Se",
-      "description": "Ancients\nARABIA PETRAEA. Bostra. Severus Alexander, as Augustus (AD 222-235). AE (31mm, 13.24 gm, 5h). NGC Fine 5/5 - 3/5.  IMP CAES M AVB SEV-ALEXANDER AVG, laureate, draped, and cuirassed bust of Severus Alexander right, seen from behind / N TR A-LEXANDRIANAE / COL BOSTR, the Emperor as founder ploughing right with two oxen, raising right hand; motab altar with staircase above, supporting three piles of holy stones. RPC VI online temporary 9336.\n\nFrom the Eyeappealing Collection. \n\nThe reign...",
-      "hammer_price_usd": 230.0,
-      "currency_original": "USD",
-      "price_original": 230.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-08-10",
-      "image_url": "https://media.coinarchives.com/4622177bed0dbf9ed5f88e6cd970f44c/img/heritage/61636/image21207.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "F",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-ec1f965ec5da",
       "source": "coinarchives",
@@ -85,6 +52,39 @@
         "verified": false,
         "cert_number": null,
         "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-76999457e84b",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2788345&AucID=7252&Lot=21207&Val=9065b03ccff57346ea3d78ce1f852b27",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61636, Lot 21207 \u2014 Ancients\nARABIA PETRAEA. Bostra. Severus Alexander, as Augustus (AD 222-235). AE (31mm, 13.24 gm, 5h). NGC Fine 5/5 - 3/5.  IMP CAES M AVB SEV-ALEXANDER AVG, laureate, draped, and cuirassed bust of Se",
+      "description": "Ancients\nARABIA PETRAEA. Bostra. Severus Alexander, as Augustus (AD 222-235). AE (31mm, 13.24 gm, 5h). NGC Fine 5/5 - 3/5.  IMP CAES M AVB SEV-ALEXANDER AVG, laureate, draped, and cuirassed bust of Severus Alexander right, seen from behind / N TR A-LEXANDRIANAE / COL BOSTR, the Emperor as founder ploughing right with two oxen, raising right hand; motab altar with staircase above, supporting three piles of holy stones. RPC VI online temporary 9336.\n\nFrom the Eyeappealing Collection. \n\nThe reign...",
+      "hammer_price_usd": 230.0,
+      "currency_original": "USD",
+      "price_original": 230.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-10",
+      "image_url": "https://media.coinarchives.com/4622177bed0dbf9ed5f88e6cd970f44c/img/heritage/61636/image21207.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 3,
