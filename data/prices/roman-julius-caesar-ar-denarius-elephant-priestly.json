@@ -8,22 +8,22 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 1012,
-  "realized_count": 1012,
+  "sale_count": 1014,
+  "realized_count": 1014,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 240.0,
+    "min": 1.0,
     "max": 41480.0
   },
   "median_price_usd": 1560.0,
-  "last_sale_date": "2026-06-14",
+  "last_sale_date": "2026-09-01",
   "grade_distribution": {
+    "XF": 289,
     "F": 84,
     "VG": 20,
     "VF": 296,
     "AU": 294,
-    "XF": 287,
     "AG": 3,
     "G": 2,
     "MS": 26
@@ -38,6 +38,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-abe21bb483bf",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13993/ancients-roman-republic/12409756/julius-caesar-as-dictator-perpetuo",
+      "title": "Julius Caesar, as Dictator Perpetuo (ca. February-March 44 BC), with Lucius Aemilius Buca, as Moneyer. AR denarius (19mm, 3.86 gm, 4h). NGC XF 4/5 - 2/5, bankers mark, brushed. Rome. DICT\u2022PERPETVO-CAESAR, laureate head of Julius Caesar right / L\u2022BVCA, Venus Victrix seated right, Victory right in outstretched right hand, transverse scepter in left. Crawford 480/7b. Sydenham 1062. Julia 36 and Aemilia 15.  Ex Forvm Ancient Coins, private sale with old dealer's tag included; Art of Money, private sale with old dealer's tag included.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction #3135']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": "Bankers Mark",
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-4da1583261e1",
       "source": "sixbid",
@@ -158,6 +191,39 @@
         "strike_score": 4,
         "surface_score": 2,
         "details_grade": "Graffito",
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-5bb57f08fc44",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13993/ancients-roman-republic/12408839/julius-caesar-as-imperator-ca",
+      "title": "Julius Caesar, as Imperator (ca. January-February 44 BC), with Marcus Mettius, as Moneyer. AR denarius (19mm, 3.83 gm, 4h). NGC XF S 5/5 - 4/5. Rome. CAESAR\u2022IMP, laureate head of Julius Caesar right; lituus in simpulum behind / M\u2022METTIVS, Venus standing facing, head left, Victory left in outstretched right hand, transverse scepter in left, left arm resting on shield set on globe with celestial bands; G in left field. Crawford 480/3. Sydenham 1056. Stunning iridescent highlights.  From the Randy & Best Collection. Ex Gemini, Auction II (11 January 2006), lot 287.  Born into the patrician Julii family in 100 BC, Gaius Julius Caesar emerged from a lineage steeped in Roman nobility and political influence, setting the stage for a life that would profoundly shape the trajectory of Roman history. His early life, marked by a traditional aristocratic upbringing, quickly diverged onto a path of military genius and unparalleled political strategy. Through his conquest of Gaul, characterized by over a dozen major battles including the decisive victory at Alesia, Caesar expanded Rome's borders and demonstrated his tactical superiority. His subsequent crossing of the Rubicon in 49 BC, igniting the Great Roman Civil War, led to his emergence as Rome's unrivaled leader and Dictator for Life by 44 BC. However, fears of his potential kingship among senators culminated in his assassination, a pivotal event that signaled the end of the Roman Republic and the establishment of the Empire under his heir, Octavian (Augustus).   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction #3135']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
         "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"

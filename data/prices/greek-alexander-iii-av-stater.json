@@ -8,19 +8,19 @@
   "ruler_rarity": null,
   "denomination": "AV Stater",
   "metal": "gold",
-  "sale_count": 404,
-  "realized_count": 404,
+  "sale_count": 406,
+  "realized_count": 406,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 1560.0,
+    "min": 1.0,
     "max": 132000.0
   },
   "median_price_usd": 7800.0,
-  "last_sale_date": "2026-08-02",
+  "last_sale_date": "2026-09-01",
   "grade_distribution": {
+    "AU": 162,
     "VF": 47,
-    "AU": 160,
     "MS": 110,
     "XF": 81,
     "G": 2,
@@ -36,6 +36,72 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-d37452cdab1d",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13993/ancients-greek/12409711/seleucid-kingdom-antiochus-i-281-261",
+      "title": "SELEUCID KINGDOM. Antiochus I (281-261 BC). AV stater (18mm, 8.49 gm, 7h). NGC Choice AU 3/5 - 3/5, die shift. A\u00ef Khanoum mint. Diademed head of Antiochus I right, rejuvenated and idealized, one diadem end waving upward, the other falling straight behind / \u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 / \u0391\u039d\u03a4\u0399\u039f\u03a7\u039f\u03a5, Apollo seated left on omphalus, testing arrow in right hand, resting left hand upon grounded bow behind; O\u0394 monogram in inner left field below the arrow. SC 436.1.  Antiochus I Soter reigned over the Seleucid Empire from 281 to 261 BC, inheriting a realm marked by internal discord and external threats following the assassination of his father, Seleucus I Nicator, who had founded the empire in the aftermath of Alexander the Great's conquest of the Achaemenid Empire. Stretching from Anatolia to the borders of India, the Seleucid Empire represented one of the largest Hellenistic states, blending Greek, Persian, Mesopotamian, and other cultural influences into its governance, artistic expressions, and societal norms. Antiochus invoked Akkadian and Babylonian history and religion to link his rule over the Near East with his Persian predecessors. The empire's geographic location allowed it to monopolize the trade of war elephants between east and west--elephants from the India were preferred to their African counterparts due to their larger size. The title Soter (savior) was given to him in 275 BC by grateful Greek city-state allies who had been saved from a massive Gallic invasion by his army of war elephants, an event known as the Battle of the Elephants. The Gauls were resettled in northern part of Anatolia, a region thereafter referred to as Galatia. Antiochus I also spent much of his reign confronting rival Hellenistic kingdoms such as Ptolemaic Egypt, Pergamon, and Macedon in a series of conflicts that often led to periods of instability within the empire. In the years following Antiochus I's death, a provincial rebellion brewing in the north would escalate into the rise of the Parthian Empire and the downfall of the Seleucid dynasty as the dominant power in West Asia.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction #3135']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 3,
+        "strike_score": 3,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-cafac6ff0b37",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13993/ancients-greek/12409657/macedonian-kingdom-alexander-iii-the",
+      "title": "MACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AV stater (18mm, 8.62 gm, 11h). NGC Choice AU 4/5 - 4/5. Lifetime issue, Salamis, ca. 332-323 BC. Head of Athena right, hair in four tight corkscrew curls and flowing over left shoulder, wearing beaded necklace and triple-crested Corinthian helmet pushed back on head, short divergent crest ends, bowl decorated with coiled serpent right / A\u039bE\u039eAN\u0394POY, Nike advancing left, wreath in outstretched right hand, stylis cradled in left arm; quiver in left field. Price 3135.  Alexander the Great, born in 356 BC in Pella, Macedonia, was one of the most renowned military leaders and conquerors in history. He ascended to the throne after the assassination of his father, Philip II, in 336 BC, and he embarked on an ambitious campaign of expansion. His conquests included the Persian Empire, Egypt, and large parts of Asia, reaching as far as the Indus River in India. Alexander's military genius, charismatic leadership, and ability to inspire loyalty among his troops were instrumental in his success. His kingdom brought about significant cultural and political change, spreading Greek culture throughout the known world. He died in 323 BC at the age of 32 under mysterious circumstances in Babylon, marking the end of his extraordinary reign.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction #3135']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-162ce1c49274",
       "source": "sixbid",

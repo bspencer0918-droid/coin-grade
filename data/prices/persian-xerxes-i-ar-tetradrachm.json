@@ -8,17 +8,18 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 1,
-  "realized_count": 1,
+  "sale_count": 2,
+  "realized_count": 2,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 26840.0,
+    "min": 20000.0,
     "max": 26840.0
   },
-  "median_price_usd": 26840.0,
-  "last_sale_date": "2026-04-29",
+  "median_price_usd": 23420.0,
+  "last_sale_date": "2026-09-01",
   "grade_distribution": {
+    "XF": 1,
     "AU": 1
   },
   "thumbnail_url": null,
@@ -31,6 +32,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-0618ef4ed1b2",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13993/ancients-greek/12409333/pontic-kingdom-mithradates-iv-169-150",
+      "title": "PONTIC KINGDOM. Mithradates IV (169-150 BC or 150-120 BC). AR tetradrachm (35mm, 16.99 gm, 11h). NGC Choice XF 5/5 - 2/5, Fine Style, brushed. Diademed and bearded head of Mithradates IV right, diadem ties falling behind / \u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 / \u039c\u0399\u0398\u03a1\u0391\u0394\u0391\u03a4\u039f\u03a5 / \u03a6\u0399\u039b\u039f\u03a0\u0391\u03a4\u039f\u03a1\u039f\u03a3 / \u039a\u0391\u0399 \u03a6\u0399\u039b\u0391\u0394\u0395\u039b\u03a6\u039f\u03a5 Perseus standing facing, nude save for cloak over shoulders, with pointed cap and winged shoes, head of Medusa in outstretched right hand, harpa cradled in left arm; eight-pointed star over upwards crescent above. SNG von Aulock 6674 var. (no monogram). HGC 7, 326. Only one other example of this type in sales archives. Crisp and bold devices on the broad flan.  Perseus appears on this reverse to highlight him as an ancestor of the Persians. The Persian King Xerxes I (486-465 BC) was aware of the etymology at the time of his invasion of mainland Greece in 480 BC and used it to convince the Argives to capitulate. The link between Perseus and the Persians was deeply entrenched by 2nd century BC and Mithradates IV, who was of Iranian descent, used it to associate the Pontic Mithradatic dynasty with the greatness of the Persic Achaemenid Empire. The irony of having a Greek hero to propagate a connection to an Iranian empire that was frequently in conflict with the states of Greece would be further cemented by the conscious Hellenizing of Mithradates IV's portrait.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction #3135']",
+      "hammer_price_usd": 20000.0,
+      "currency_original": "USD",
+      "price_original": 20000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-3f85604e6494",
       "source": "sixbid",

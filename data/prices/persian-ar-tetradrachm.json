@@ -8,29 +8,96 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 1,
-  "realized_count": 1,
+  "sale_count": 3,
+  "realized_count": 3,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 355.6,
-    "max": 355.6
+    "min": 1.0,
+    "max": 10000.0
   },
   "median_price_usd": 355.6,
-  "last_sale_date": "2025-12-07",
+  "last_sale_date": "2026-09-01",
   "grade_distribution": {
-    "XF": 1
+    "XF": 2,
+    "AU": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/615627b59037a5246bfb6850081d4967/img/naville/099/image00055.jpg",
   "median_weight_g": null,
-  "top_strike_score": 4,
-  "top_surface_score": 4,
-  "top_grade_numeric": null,
+  "top_strike_score": 5,
+  "top_surface_score": 3,
+  "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-0dc8778c5f48",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13993/ancients-greek/12409651/macedon-acanthus-ca-525-470-bc",
+      "title": "MACEDON. Acanthus. Ca. 525-470 BC. AR tetradrachm (30mm, 17.02 gm). NGC Choice XF 5/5 - 2/5, edge bend, brushed. Lion with long curved tail springing right, attacking bull kneeling to left with raised reverted head, and biting into his hind quarters; \u0398 above, stylized acanthus flower below dotted exergual line / Quadripartite incuse square, the interior compartments with irregular granulation. HGC 3.1, 383. Desneux 74-79.   Acanthus was a city situated on the western shore of the Chalcidice Peninsula, near the entrance to the Athos Peninsula. Founded as a Greek colony in the 7th century BC by settlers from the Greek city of Andrus, its location along the coastline and its proximity to a silver mine made it strategically important for maritime trade and defense. Of the Archaic Greek coinages, the imagery of Acanthus is among the most striking and influential, depicting a lion attacking a bull, a motif soon adopted by several other cities. Lions prowled the hinterlands of Thrace and Macedon in this era and Herodotus recounts an episode when the baggage train of the Persian King Xerxes's army was set upon by lions during its march from Asia Minor into Greece proper.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction #3135']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-d661821b862b",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13993/ancients-greek/12409316/macedon-acanthus-ca-470-430-bc",
+      "title": "MACEDON. Acanthus. Ca. 470-430 BC. AR tetradrachm (28mm, 17.04 gm, 5h). NGC Choice AU 5/5 - 3/5, Fine Style, scuff. Lion with long curved tail springing right, biting into hind quarters of bull kneeling to left with head raised; tunny fish left in exergue, thick beaded border / \u0391\u039a\u0391/\u039d/\u0398\u0399\u039f/\u039d, ethnic in raised letters on incuse band, around raised quadripartite square, all within shallow incuse square. Desneux 99. HGC 3.1, 385. Ambered dies with particularly high relief.  From the Ahlden Castle Collection. Ex Gorny & Mosch, Auction 185 (8 March 2010), lot 68.  Acanthus was a city situated on the western shore of the Chalcidice Peninsula, near the entrance to the Athos Peninsula. Founded as a Greek colony in the 7th century BC by settlers from the Greek city of Andrus, its location along the coastline and its proximity to a silver mine made it strategically important for maritime trade and defense. Of the Archaic Greek coinages, the imagery of Acanthus is among the most striking and influential, depicting a lion attacking a bull, a motif soon adopted by several other cities. Lions prowled the hinterlands of Thrace and Macedon in this era and Herodotus recounts an episode when the baggage train of the Persian King Xerxes's army was set upon by lions during its march from Asia Minor into Greece proper.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction #3135']",
+      "hammer_price_usd": 10000.0,
+      "currency_original": "USD",
+      "price_original": 10000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-826fb6c22647",
       "source": "coinarchives",

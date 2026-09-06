@@ -8,19 +8,19 @@
   "ruler_rarity": null,
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 65,
-  "realized_count": 65,
+  "sale_count": 66,
+  "realized_count": 66,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 750.0,
+    "min": 1.0,
     "max": 20740.0
   },
-  "median_price_usd": 1602.0,
-  "last_sale_date": "2026-08-16",
+  "median_price_usd": 1601.0,
+  "last_sale_date": "2026-09-01",
   "grade_distribution": {
     "XF": 10,
-    "MS": 25,
+    "MS": 26,
     "AU": 21,
     "G": 9
   },
@@ -121,6 +121,39 @@
         "strike_score": 5,
         "surface_score": 3,
         "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-2bffb760ab97",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13993/ancients-roman-imperial/12408872/marcian-eastern-roman-empire-ad",
+      "title": "Marcian, Eastern Roman Empire (AD 450-457). AV solidus (21mm, 4.48 gm, 6h). NGC MS 5/5 - 4/5, clipped. Constantinople, 7th officina. D N MARCIA-NVS P F AVG, pearl-diademed, helmeted, cuirassed bust of Marcian facing, head slightly right, spear in right hand over shoulder, shield decorated with horseman motif in left / VICTORI-A AVGGG Z, Victory standing facing, head left, grounded long jeweled cross with horizontal crossbar in right hand; star in right field, CONOB in exergue. RIC X 510.  From the Randy & Nancy Best Collection.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction #3135']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": "Clipped",
         "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"

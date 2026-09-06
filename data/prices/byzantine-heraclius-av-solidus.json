@@ -8,19 +8,19 @@
   "ruler_rarity": "common",
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 1355,
-  "realized_count": 1354,
+  "sale_count": 1356,
+  "realized_count": 1355,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 258.5,
+    "min": 1.0,
     "max": 26400.0
   },
   "median_price_usd": 750.0,
-  "last_sale_date": "2026-07-05",
+  "last_sale_date": "2026-09-01",
   "grade_distribution": {
     "G": 9,
-    "MS": 603,
+    "MS": 604,
     "XF": 201,
     "AU": 435,
     "VF": 103,
@@ -29,7 +29,7 @@
   "thumbnail_url": "https://media.coinarchives.com/a5c97e08665fb115ef255bc38f0d509a/img/heritage/61633/image22052.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 4,
+  "top_surface_score": 3,
   "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
@@ -59,6 +59,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/8362424002/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-37999580ac14",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13993/ancients-byzantine/12408875/heraclius-with-heraclius-constantine-ad",
+      "title": "Heraclius with Heraclius Constantine (AD 613-641). AV solidus (21mm, 4.49 gm, 6h). NGC MS 5/5 - 3/5, edge bend. Constantinople, 2nd officina, ca. AD 616-625. dd NN h\u0404RACLI\u0427S \u0404T h\u0404RA CONST PP AV, facing busts of Heraclius, bearded (on left), and Heraclius Constantine, smaller and beardless (on right), both wearing chlamys and ornate crown surmounted by cross; cross above between them / VICTORIA-AV\u03da\u0427 B, cross potent with base on three steps; CONOB below. Sear 734.  From the Randy & Nancy Best Collection.  Heraclius' reign began after he and his father, Heraclius the Elder, a prominent general, successfully revolted against Emperor Phocas in AD 608. After Heraclius killed Phocas in Constantinople, alliances easily shifted and he was crowned emperor in AD 610 - Heraclius the Elder dying soon after of natural causes. Heraclius quickly took control of the Byzantine-Sasanian War, turning the tides and defeating the Persians by AD 627. This was not without help from his eldest son, Heraclius Constantine, who was crowned co-emperor AD 613. Unfortunately, their victory would open the door for the Muslim Arab Caliphates, who used the Persians defeat to expand their territory. This would begin the Arab-Byzantine wars that would go on to last for three centuries. The reach of the Byzantines wanned, losing the Levant and most of Egypt to the Caliphates over the next decade. Shortly after, Heraclius would die of illness in AD 641, leaving Heraclius Constantine as sole emperor for three months before he too died of illness.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction #3135']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
         "grading_service": "ngc"
       },
       "metadata": {

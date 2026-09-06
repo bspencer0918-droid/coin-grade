@@ -8,19 +8,19 @@
   "ruler_rarity": null,
   "denomination": "AV Tremissis",
   "metal": "gold",
-  "sale_count": 9,
-  "realized_count": 9,
+  "sale_count": 10,
+  "realized_count": 10,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 564.0,
+    "min": 1.0,
     "max": 9455.0
   },
-  "median_price_usd": 960.0,
-  "last_sale_date": "2026-07-28",
+  "median_price_usd": 950.0,
+  "last_sale_date": "2026-09-01",
   "grade_distribution": {
+    "AU": 6,
     "MS": 1,
-    "AU": 5,
     "XF": 2,
     "VF": 1
   },
@@ -34,6 +34,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-99d9ff589729",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13993/ancients-roman-imperial/12408870/valentinian-iii-western-roman-empire",
+      "title": "Valentinian III, Western Roman Empire (AD 425-455). AV tremissis (14mm, 1.44 gm, 10h). NGC AU 4/5 - 3/5, scuffs, clipped. Rome or Ravenna, ca. AD 440-455. D N PLA VALENTINIANVS P F A, pearl-diademed, draped, and cuirassed bust of Valentinian III right, seen from front / Cross within wreath with IIXII base-ties; COMOB in exergue. RIC X 2072. Depeyrot 47/7.  From the Randy & Nancy Best Collection. Ex Marc Poncin Collection (Classical Numismatic Group, Mail Bid Sale 72, 14 June 2006), Lot 1915.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction #3135']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": "Clipped",
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-2a8452a8304d",
       "source": "sixbid",

@@ -8,30 +8,63 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 4,
-  "realized_count": 4,
+  "sale_count": 5,
+  "realized_count": 5,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 1350.0,
-    "max": 3600.0
+    "max": 10000.0
   },
   "median_price_usd": 3300.0,
-  "last_sale_date": "2026-01-16",
+  "last_sale_date": "2026-09-01",
   "grade_distribution": {
-    "XF": 1,
+    "XF": 2,
     "VF": 3
   },
   "thumbnail_url": "https://media.coinarchives.com/d4c1ecbb998938b59b7cefae290c6e8e/img/ponterio/236/image40019.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
-  "top_surface_score": 2,
-  "top_grade_numeric": null,
+  "top_surface_score": 4,
+  "top_grade_numeric": 4,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-ffd1793ec37d",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13993/ancients-greek/12409311/sicily-messana-ca-412-408-bc",
+      "title": "SICILY. Messana. Ca. 412-408 BC. AR tetradrachm (26mm, 17.24 gm, 8h). NGC XF 4/5 - 4/5, die shift. Nymph Messana driving biga of mules walking left; Nike flying right above to crown driver / \u039c\u0395\u03a3\u03a3\u0391\u039d\u0399O\u039d, hare springing right; Ketos swimming left below. Jameson 652. Caltabiano 599. Impressive and powerful obverse, struck in high-relief and sporting deep toning.  From the Ahlden Castle Collection. Ex Gorny & Mosch, Auction 169 (12 October 2008), lot 19.  The coins of Greek Sicily abound with symbolism, the meaning of which is not always obvious to the modern observer. Messana, located on the northwest corner of Sicily and the third most populous city on the island, chose as its civic badges a chariot pulled by a pair of mules (biga) and a leaping hare. On this pleasing tetradrachm, the mule biga is driven by a woman, most likely the nymph Messana, while the hare springs over Ketos. As to what it all means, we can surmise as follows: In 484 or 480 BC, a mule team from Messana won the Olympic Games in the event known as the anape (mule biga race); naturally, civic pride prompted the Messenians to advertise the victory on their coinage. The hare is an animal sacred to the god Pan, who had a temple in Messana and was widely worshipped there.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction #3135']",
+      "hammer_price_usd": 10000.0,
+      "currency_original": "USD",
+      "price_original": 10000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-a5ce5c8927ae",
       "source": "sixbid",
