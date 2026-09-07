@@ -4,24 +4,27 @@
   "ruler": "Mark Antony",
   "ruler_normalized": "mark-antony",
   "dynasty": "Roman Republic",
-  "ruler_dates": "83\u00e2\u20ac\u201c30 BC",
+  "ruler_dates": "83\u201330 BC",
   "ruler_rarity": null,
   "denomination": "AV Aureus",
   "metal": "gold",
-  "sale_count": 6,
-  "realized_count": 6,
+  "sale_count": 8,
+  "realized_count": 8,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 9000.0,
     "max": 114000.0
   },
-  "median_price_usd": 39600.0,
-  "last_sale_date": "2024-01-08",
+  "median_price_usd": 27000.0,
+  "last_sale_date": "2026-09-01",
   "grade_distribution": {
-    "XF": 1
+    "VF": 2,
+    "XF": 1,
+    "AU": 2,
+    "F": 3
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-9-3-7-4-29374431&w=120&h=300&it=product",
+  "thumbnail_url": "https://media.coinarchives.com/8916e154007fcfa8fdee67bdaf4a4304/img/heritage/3135/image30065.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 2,
@@ -31,6 +34,72 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-37dfceb809f9",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801577&AucID=7287&Lot=30065&Val=2a6a44e3733893c64f187033e9950deb",
+      "title": "Heritage World Coin Auctions - ANA Signature Sale 3135, Lot 30065 \u2014 Ancients\nMarc Antony and Octavian, as Imperators and Triumvirs (43-33 BC), with Marcus Barbatius Pollio, as Quaestor Propraetor. AV aureus (20mm, 8.05 gm, 12h). NGC Choice VF 5/5 - 2/5, bent, marks. E",
+      "description": "Ancients\nMarc Antony and Octavian, as Imperators and Triumvirs (43-33 BC), with Marcus Barbatius Pollio, as Quaestor Propraetor. AV aureus (20mm, 8.05 gm, 12h). NGC Choice VF 5/5 - 2/5, bent, marks. Ephesus, Spring-Summer 41 BC. M\u2022ANT\u2022IMP AVG III VIR\u2022R\u2022P C M BARBAT\u2022Q\u2022P (MP and AV ligate), bare head of Marc Antony right / CAESAR\u2022IMP\u2022PONT\u2022III\u2022VIR\u2022R\u2022P\u2022C\u2022, bare head of Octavian right with manicured hair and long sideburn. Calic\u00f3 109. Crawford 517/1a. Sydenham 1180. Rare. Minor distractions in the ...",
+      "hammer_price_usd": 26000.0,
+      "currency_original": "USD",
+      "price_original": 26000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": "https://media.coinarchives.com/8916e154007fcfa8fdee67bdaf4a4304/img/heritage/3135/image30065.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-11c258ff7472",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801653&AucID=7287&Lot=33040&Val=ea560ec70ade547cb280f7c9ab9ebd89",
+      "title": "Heritage World Coin Auctions - ANA Signature Sale 3135, Lot 33040 \u2014 Ancients\nMarc Antony, as Triumvir and Imperator (44-30 BC), with Octavia. AV aureus (20mm, 7.79 gm, 10h). NGC VF 4/5 - 3/5. Athens mint, 38 BC. M\u2022ANTONIVS\u2022M\u2022F\u2022M\u2022N\u2022AVGVR\u2022IMP\u2022T II RT, bare head of Mark ",
+      "description": "Ancients\nMarc Antony, as Triumvir and Imperator (44-30 BC), with Octavia. AV aureus (20mm, 7.79 gm, 10h). NGC VF 4/5 - 3/5. Athens mint, 38 BC. M\u2022ANTONIVS\u2022M\u2022F\u2022M\u2022N\u2022AVGVR\u2022IMP\u2022T II RT, bare head of Mark Antony right / COS\u2022DII SIG\u2022ITIIR\u2022IIT\u2022TIIRT\u2022III\u2022VIR\u2022R\u2022P\u2022C\u2022, head of Octavia right, her hair tied in a knot behind with one long plait arranged as a loop on top of her head; around. Calic\u00f3 116. Crawford 533/3b. Particularly veristic portraits. \n\nAs an attempt to ease the tension between Marc Antony ...",
+      "hammer_price_usd": 28000.0,
+      "currency_original": "USD",
+      "price_original": 28000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": "https://media.coinarchives.com/69276ee0c553224ef2349a4e6f0cdfb6/img/heritage/3135/image33040.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-12e5ee0a502e",
       "source": "heritage",

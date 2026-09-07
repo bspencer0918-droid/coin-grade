@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 1323,
-  "realized_count": 1323,
+  "sale_count": 1324,
+  "realized_count": 1324,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,17 +17,17 @@
     "max": 33600.0
   },
   "median_price_usd": 492.0,
-  "last_sale_date": "2026-07-28",
+  "last_sale_date": "2026-09-01",
   "grade_distribution": {
     "VG": 41,
+    "VF": 489,
     "XF": 394,
-    "VF": 488,
     "F": 166,
     "MS": 40,
     "AU": 191,
     "G": 3
   },
-  "thumbnail_url": "https://media.coinarchives.com/7f8847df7b2d3497afbd3ab784e0e3d9/img/heritage/61610/image25019.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/53972a64c089a055df304931e8eef989/img/heritage/3135/image30071.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 2,
@@ -64,6 +64,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-1a38e2e1e647",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801583&AucID=7287&Lot=30071&Val=5c4ba6ce3d5526414a1caada7df8ba7a",
+      "title": "Heritage World Coin Auctions - ANA Signature Sale 3135, Lot 30071 \u2014 Ancients\nAugustus (27 BC-AD 14). AR denarius (19mm, 3.73 gm, 7h). NGC Choice VF 4/5 - 4/5. Lugdunum, ca. 15-13 BC. AVGVSTVS-DIVI\u2022F, bare head of Augustus right / IMP\u2022X, bull charging right, head lower",
+      "description": "Ancients\nAugustus (27 BC-AD 14). AR denarius (19mm, 3.73 gm, 7h). NGC Choice VF 4/5 - 4/5. Lugdunum, ca. 15-13 BC. AVGVSTVS-DIVI\u2022F, bare head of Augustus right / IMP\u2022X, bull charging right, head lowered, thrashing tail. RIC I 167a. An aura of pastel, iridescent toning.\n\nFrom the Randy & Nancy Best Collection.\n\nBorn on 23 September 63 BC into a wealthy plebeian family, Augustus, originally Gaius Octavius, was the grandnephew and posthumously adopted son of Julius Caesar. This inheritance set hi...",
+      "hammer_price_usd": 1550.0,
+      "currency_original": "USD",
+      "price_original": 1550.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": "https://media.coinarchives.com/53972a64c089a055df304931e8eef989/img/heritage/3135/image30071.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

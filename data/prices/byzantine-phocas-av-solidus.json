@@ -8,8 +8,8 @@
   "ruler_rarity": "scarce",
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 563,
-  "realized_count": 563,
+  "sale_count": 564,
+  "realized_count": 564,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,18 +17,18 @@
     "max": 8400.0
   },
   "median_price_usd": 660.0,
-  "last_sale_date": "2026-07-05",
+  "last_sale_date": "2026-09-01",
   "grade_distribution": {
-    "MS": 324,
+    "MS": 325,
     "XF": 29,
     "G": 3,
     "AU": 175,
     "VF": 32
   },
-  "thumbnail_url": "https://media.coinarchives.com/043be0ef03d2e22de2c0c6279121dd48/img/heritage/61633/image22036.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/fb397f82414750a036b03f540eb1ad6f/img/heritage/3135/image34160.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 4,
+  "top_surface_score": 5,
   "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
@@ -95,6 +95,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-be9409288238",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801859&AucID=7287&Lot=34160&Val=21a9731d4ba8f4ddb40880c523883868",
+      "title": "Heritage World Coin Auctions - ANA Signature Sale 3135, Lot 34160 \u2014 Ancients\nPhocas (AD 602-610). AV solidus (21mm, 4.44 gm, 7h). NGC Choice MS 5/5 - 5/5. Constantinople, 5th officina, ca. AD 602-603. d N FOCAS-P\u0404RP AVG, draped, cuirassed bust of Phocas facing, wearin",
+      "description": "Ancients\nPhocas (AD 602-610). AV solidus (21mm, 4.44 gm, 7h). NGC Choice MS 5/5 - 5/5. Constantinople, 5th officina, ca. AD 602-603. d N FOCAS-P\u0404RP AVG, draped, cuirassed bust of Phocas facing, wearing crown with pendilia surmounted by cross, globus cruciger in right hand / VICTORI-A AV\u03da\u0427 \u0404, Angel standing facing, grounded staff surmounted by staurogram in right hand, globus cruciger in outstretched left; CONOB in exergue. Sear 616.  www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.ha.co...",
+      "hammer_price_usd": 4200.0,
+      "currency_original": "USD",
+      "price_original": 4200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": "https://media.coinarchives.com/fb397f82414750a036b03f540eb1ad6f/img/heritage/3135/image34160.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 39,
-  "realized_count": 39,
+  "sale_count": 41,
+  "realized_count": 41,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,23 +17,89 @@
     "max": 204000.0
   },
   "median_price_usd": 16800.0,
-  "last_sale_date": "2026-08-16",
+  "last_sale_date": "2026-09-01",
   "grade_distribution": {
+    "AU": 23,
+    "MS": 9,
     "XF": 4,
-    "VF": 5,
-    "AU": 22,
-    "MS": 8
+    "VF": 5
   },
-  "thumbnail_url": "https://media.coinarchives.com/9334f02c436c72510329e543ed276580/img/heritage/3132/image31044.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/a90c75b103268f55e3dc53b31a3f28ca/img/heritage/3135/image30090.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 2,
+  "top_surface_score": 3,
   "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-f4d2ec0e6206",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801602&AucID=7287&Lot=30090&Val=2f3dfdb2a9020d278f6a94dd9bdc6893",
+      "title": "Heritage World Coin Auctions - ANA Signature Sale 3135, Lot 30090 \u2014 Ancients\nConstantine I the Great (AD 307/310-337). AV solidus (22mm, 4.40 gm, 11h). NGC Choice AU\u2605 5/5 - 4/5. Antioch, late AD 324-early AD 325. CONSTANT-INVS P F AVG, laureate head of Constantine I r",
+      "description": "Ancients\nConstantine I the Great (AD 307/310-337). AV solidus (22mm, 4.40 gm, 11h). NGC Choice AU\u2605 5/5 - 4/5. Antioch, late AD 324-early AD 325. CONSTANT-INVS P F AVG, laureate head of Constantine I right / SOLI COMI-TI AVG N, Sol standing right (on left), nude save for chlamys hanging behind and over left arm, presenting Victory standing right on globe to Constantine I standing facing (on right), laureate head left, in military dress; SMAN star in exergue. RIC VII 49. Depeyrot 41/2. Incredibl...",
+      "hammer_price_usd": 38000.0,
+      "currency_original": "USD",
+      "price_original": 38000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": "https://media.coinarchives.com/a90c75b103268f55e3dc53b31a3f28ca/img/heritage/3135/image30090.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-0739bf7fda25",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801694&AucID=7287&Lot=33081&Val=5c69faa2db54ef3cda6670fd7120d349",
+      "title": "Heritage World Coin Auctions - ANA Signature Sale 3135, Lot 33081 \u2014 Ancients\nConstantine I the Great, as Augustus (AD 307-337). AV solidus (20mm, 4.57 gm, 6h). NGC MS 5/5 - 3/5, light marks, brushed. Thessalonica, ca. AD 326(?). CONSTAN-TINVS AVG, laureate head of Con",
+      "description": "Ancients\nConstantine I the Great, as Augustus (AD 307-337). AV solidus (20mm, 4.57 gm, 6h). NGC MS 5/5 - 3/5, light marks, brushed. Thessalonica, ca. AD 326(?). CONSTAN-TINVS AVG, laureate head of Constantine I right / VIRTVS CON-STANTINI AVG, Constantine I standing facing, head left, wearing military attire, grounded trophy in right hand; flanked by two captives facing outward, heads reverted, SMTS in exergue. RIC VII-. Depeyrot-, cf. 12/1 for reverse.\n\nEx Gorny & Mosch, Auction 207 (15 Octob...",
+      "hammer_price_usd": 28000.0,
+      "currency_original": "USD",
+      "price_original": 28000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": "https://media.coinarchives.com/c7a6469af62e1ed2cdfea2400cbd23d3/img/heritage/3135/image33081.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-37b1d6c3ca48",
       "source": "coinarchives",

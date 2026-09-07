@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Shekel",
   "metal": "silver",
-  "sale_count": 367,
-  "realized_count": 365,
+  "sale_count": 368,
+  "realized_count": 366,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,9 +17,9 @@
     "max": 90000.0
   },
   "median_price_usd": 4560.0,
-  "last_sale_date": "2026-05-13",
+  "last_sale_date": "2026-09-01",
   "grade_distribution": {
-    "XF": 116,
+    "XF": 117,
     "VF": 59,
     "AU": 144,
     "MS": 32,
@@ -27,7 +27,7 @@
     "VG": 1,
     "G": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/e9279d1aa7f71972ac74c1e47a42866f/img/ponterio/stacksbowers_mar26/image19033.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/042840cd41576ee00cc07bacaac387d8/img/heritage/3135/image34080.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -262,6 +262,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-ae30ecefe32f",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801779&AucID=7287&Lot=34080&Val=77ca75238922a918985232913e358842",
+      "title": "Heritage World Coin Auctions - ANA Signature Sale 3135, Lot 34080 \u2014 Ancients\nPHOENICIA. Tyre. Ca. 126/125 BC-AD 65/66. AR half-shekel (22mm, 6.92 gm, 1h). NGC Choice XF 4/5 - 3/5. Dated Civic Year 20 (107/106 BC). Laureate bust of Melqart right, lion skin tied around ",
+      "description": "Ancients\nPHOENICIA. Tyre. Ca. 126/125 BC-AD 65/66. AR half-shekel (22mm, 6.92 gm, 1h). NGC Choice XF 4/5 - 3/5. Dated Civic Year 20 (107/106 BC). Laureate bust of Melqart right, lion skin tied around neck; dotted border / \u03a4\u03a5P\u039f\u03a5 \u0399\u0395\u03a1\u0391\u03a3-\u039a\u0391\u0399 \u0391\u03a3\u03a5\u039b\u039f\u03a5, eagle standing left on prow, palm over right wing; LK (date) above club to left, ZB monogram to right, bet (Phoenician) between legs. DCA Tyre 59 (shekel).\n\nEx Harlan J. Berk, Buy or Bid Sale 81 (31 March 1994), lot 218.  www.HA.com/TexasAuctioneerLice...",
+      "hammer_price_usd": 3000.0,
+      "currency_original": "USD",
+      "price_original": 3000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": "https://media.coinarchives.com/042840cd41576ee00cc07bacaac387d8/img/heritage/3135/image34080.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

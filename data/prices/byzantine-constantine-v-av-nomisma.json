@@ -8,8 +8,8 @@
   "ruler_rarity": "common",
   "denomination": "AV Nomisma",
   "metal": "gold",
-  "sale_count": 81,
-  "realized_count": 81,
+  "sale_count": 82,
+  "realized_count": 82,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,15 +17,15 @@
     "max": 8400.0
   },
   "median_price_usd": 1560.0,
-  "last_sale_date": "2026-07-05",
+  "last_sale_date": "2026-09-01",
   "grade_distribution": {
-    "MS": 19,
+    "MS": 20,
     "AU": 34,
     "XF": 22,
     "G": 1,
     "VF": 5
   },
-  "thumbnail_url": "https://media.coinarchives.com/3920804081c9045c2a3f60541540aa74/img/heritage/61633/image22107.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/f1d9220133ee77f92b0f9e51cf2dc5df/img/heritage/3135/image34167.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -35,6 +35,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-b736741301ed",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801866&AucID=7287&Lot=34167&Val=7254c83fad20cfdb73d3f2a519023b9a",
+      "title": "Heritage World Coin Auctions - ANA Signature Sale 3135, Lot 34167 \u2014 Ancients\nConstantine VIII (AD 1025-1028). AV histamenon nomisma (23mm, 4.40 gm, 7h). NGC MS 5/5 - 4/5. Constantinople. + IhS XIS R\u0404X R\u0404\u03daNANTIhm, bust of Christ facing, wearing nimbus cruciger with ann",
+      "description": "Ancients\nConstantine VIII (AD 1025-1028). AV histamenon nomisma (23mm, 4.40 gm, 7h). NGC MS 5/5 - 4/5. Constantinople. + IhS XIS R\u0404X R\u0404\u03daNANTIhm, bust of Christ facing, wearing nimbus cruciger with annulets in upper quadrants, pallium, and colobium, right hand raised in benediction, Gospels cradled in left arm; triple border / +CwNStANtI bASIL\u0404\u0427S ROm, bust of Constantine VIII facing, wearing crown surmounted by cross with pendilia, and square-pattern loros with jeweled collar, labarum in right ...",
+      "hammer_price_usd": 3200.0,
+      "currency_original": "USD",
+      "price_original": 3200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": "https://media.coinarchives.com/f1d9220133ee77f92b0f9e51cf2dc5df/img/heritage/3135/image34167.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-61e4d6700708",
       "source": "coinarchives",

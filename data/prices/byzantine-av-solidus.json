@@ -8,23 +8,23 @@
   "ruler_rarity": null,
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 66,
-  "realized_count": 66,
+  "sale_count": 68,
+  "realized_count": 68,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 1.0,
+    "min": 750.0,
     "max": 20740.0
   },
-  "median_price_usd": 1601.0,
+  "median_price_usd": 1750.0,
   "last_sale_date": "2026-09-01",
   "grade_distribution": {
     "XF": 10,
-    "MS": 26,
+    "MS": 28,
     "AU": 21,
     "G": 9
   },
-  "thumbnail_url": "https://media.coinarchives.com/c8934870d18a2d412ae8dc4609cad3c0/img/heritage/61635/image23288.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/5cca39399010b1b2ff7de4ef9420e7c7/img/heritage/3135/image30097.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -68,39 +68,6 @@
       }
     },
     {
-      "id": "sixbid-511a62a2899a",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13580/empire-romain-roman/12006175/empire-romain-romanleon-ier",
-      "title": "EMPIRE ROMAIN - ROMAN<br>L\u00e9on Ier (457-474). Solidus ND (462 ou 466), Constantinople.<br>RIC.X.604 (R5) ; Or - 4,45 g - 20 mm - 6 h<br>NGC XF 5/5 1/5 scratches edge marks edge bend (8237525-006). <br>Avec le buste consulaire et tr\u00e8s rare pour l\u2019atelier de Constantinople alors que Thessalonique est moins rare. Traces de grattage \u00e0 l\u2019aiguille au droit et le portrait \u00e0 peine frott\u00e9. Belle patine dor\u00e9e. Superbe.",
-      "description": "MDC Monaco | ['E-AUCTION 16']",
-      "hammer_price_usd": 2080.98,
-      "currency_original": "USD",
-      "price_original": 2080.98,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-07",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "8237525-006",
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 1,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/8237525006/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "sixbid-e46d2e9d2deb",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -121,39 +88,6 @@
         "strike_score": 5,
         "surface_score": 3,
         "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-2bffb760ab97",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13993/ancients-roman-imperial/12408872/marcian-eastern-roman-empire-ad",
-      "title": "Marcian, Eastern Roman Empire (AD 450-457). AV solidus (21mm, 4.48 gm, 6h). NGC MS 5/5 - 4/5, clipped. Constantinople, 7th officina. D N MARCIA-NVS P F AVG, pearl-diademed, helmeted, cuirassed bust of Marcian facing, head slightly right, spear in right hand over shoulder, shield decorated with horseman motif in left / VICTORI-A AVGGG Z, Victory standing facing, head left, grounded long jeweled cross with horizontal crossbar in right hand; star in right field, CONOB in exergue. RIC X 510.  From the Randy & Nancy Best Collection.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
-      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction #3135']",
-      "hammer_price_usd": 1.0,
-      "currency_original": "USD",
-      "price_original": 1.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-09-01",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": "Clipped",
         "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
@@ -253,6 +187,39 @@
         "strike_score": 5,
         "surface_score": 5,
         "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-2bffb760ab97",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13993/ancients-roman-imperial/12408872/marcian-eastern-roman-empire-ad",
+      "title": "Marcian, Eastern Roman Empire (AD 450-457). AV solidus (21mm, 4.48 gm, 6h). NGC MS 5/5 - 4/5, clipped. Constantinople, 7th officina. D N MARCIA-NVS P F AVG, pearl-diademed, helmeted, cuirassed bust of Marcian facing, head slightly right, spear in right hand over shoulder, shield decorated with horseman motif in left / VICTORI-A AVGGG Z, Victory standing facing, head left, grounded long jeweled cross with horizontal crossbar in right hand; star in right field, CONOB in exergue. RIC X 510.  From the Randy & Nancy Best Collection.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction #3135']",
+      "hammer_price_usd": 2806.0,
+      "currency_original": "USD",
+      "price_original": 2806.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": "Clipped",
         "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
@@ -563,6 +530,39 @@
       }
     },
     {
+      "id": "coinarchives-104663f4a4a2",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801609&AucID=7287&Lot=30097&Val=bafd7300955f427c6af20649d43e1858",
+      "title": "Heritage World Coin Auctions - ANA Signature Sale 3135, Lot 30097 \u2014 Ancients\nJustin I (AD 518-527). AV solidus (20mm, 4.50 gm, 6h). NGC Choice MS 5/5 - 5/5. Constantinople, 10th officina. D N IVSTI-NVS PP AVG, pearl-diademed, helmeted, cuirassed bust of Justin I facin",
+      "description": "Ancients\nJustin I (AD 518-527). AV solidus (20mm, 4.50 gm, 6h). NGC Choice MS 5/5 - 5/5. Constantinople, 10th officina. D N IVSTI-NVS PP AVG, pearl-diademed, helmeted, cuirassed bust of Justin I facing, head slightly right, spear in right hand over shoulder, shield decorated with horseman motif in left / VICTORI-A AVGGG I, Angel standing facing, grounded jeweled cross in right hand, globus cruciger in outstretched left; star in right field, CONOB in exergue. Sear 56. Struck from fresh dies on ...",
+      "hammer_price_usd": 4600.0,
+      "currency_original": "USD",
+      "price_original": 4600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": "https://media.coinarchives.com/5cca39399010b1b2ff7de4ef9420e7c7/img/heritage/3135/image30097.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-a5f4fdd6039c",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -655,6 +655,72 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-326143ed18b7",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801608&AucID=7287&Lot=30096&Val=ae476e60f9c4b4523031189435f59683",
+      "title": "Heritage World Coin Auctions - ANA Signature Sale 3135, Lot 30096 \u2014 Ancients\nMarcian, Eastern Roman Empire (AD 450-457). AV solidus (21mm, 4.48 gm, 6h). NGC MS 5/5 - 4/5, clipped. Constantinople, 7th officina. D N MARCIA-NVS P F AVG, pearl-diademed, helmeted, cuirasse",
+      "description": "Ancients\nMarcian, Eastern Roman Empire (AD 450-457). AV solidus (21mm, 4.48 gm, 6h). NGC MS 5/5 - 4/5, clipped. Constantinople, 7th officina. D N MARCIA-NVS P F AVG, pearl-diademed, helmeted, cuirassed bust of Marcian facing, head slightly right, spear in right hand over shoulder, shield decorated with horseman motif in left / VICTORI-A AVGGG Z, Victory standing facing, head left, grounded long jeweled cross with horizontal crossbar in right hand; star in right field, CONOB in exergue. RIC X 5...",
+      "hammer_price_usd": 2300.0,
+      "currency_original": "USD",
+      "price_original": 2300.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": "https://media.coinarchives.com/5550c4c11d6575e9a56c170cd9e506d7/img/heritage/3135/image30096.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": "Clipped",
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-511a62a2899a",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13580/empire-romain-roman/12006175/empire-romain-romanleon-ier",
+      "title": "EMPIRE ROMAIN - ROMAN<br>L\u00e9on Ier (457-474). Solidus ND (462 ou 466), Constantinople.<br>RIC.X.604 (R5) ; Or - 4,45 g - 20 mm - 6 h<br>NGC XF 5/5 1/5 scratches edge marks edge bend (8237525-006). <br>Avec le buste consulaire et tr\u00e8s rare pour l\u2019atelier de Constantinople alors que Thessalonique est moins rare. Traces de grattage \u00e0 l\u2019aiguille au droit et le portrait \u00e0 peine frott\u00e9. Belle patine dor\u00e9e. Superbe.",
+      "description": "MDC Monaco | ['E-AUCTION 16']",
+      "hammer_price_usd": 2080.98,
+      "currency_original": "USD",
+      "price_original": 2080.98,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-07",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8237525-006",
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 1,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8237525006/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

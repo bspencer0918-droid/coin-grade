@@ -8,23 +8,23 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 31,
-  "realized_count": 31,
+  "sale_count": 32,
+  "realized_count": 32,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 43.0,
-    "max": 2200.0
+    "max": 4200.0
   },
   "median_price_usd": 186.0,
-  "last_sale_date": "2026-07-20",
+  "last_sale_date": "2026-09-01",
   "grade_distribution": {
     "F": 8,
+    "VF": 17,
     "XF": 4,
-    "VG": 3,
-    "VF": 16
+    "VG": 3
   },
-  "thumbnail_url": "https://media.coinarchives.com/5573c38cad7f14fa2f5aa724448c1aff/img/heritage/61644/image21313.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/b84163ccc57fe24c62f0cccb2d7ffd76/img/heritage/3135/image30069.jpg",
   "median_weight_g": null,
   "top_strike_score": 3,
   "top_surface_score": 3,
@@ -61,6 +61,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-38d2c6485a89",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801581&AucID=7287&Lot=30069&Val=54c32a3a271d928079c80657bef7d530",
+      "title": "Heritage World Coin Auctions - ANA Signature Sale 3135, Lot 30069 \u2014 Ancients\nMarc Antony, as Imperator and Triumvir (43-30 BC), with Octavia. AR cistophorus (26mm, 12.10 gm, 12h). NGC Choice VF 5/5 - 3/5, brushed. Ephesus, ca. summer-autumn 39 BC. M\u2022ANTONIVS\u2022IMP\u2022COS\u2022D",
+      "description": "Ancients\nMarc Antony, as Imperator and Triumvir (43-30 BC), with Octavia. AR cistophorus (26mm, 12.10 gm, 12h). NGC Choice VF 5/5 - 3/5, brushed. Ephesus, ca. summer-autumn 39 BC. M\u2022ANTONIVS\u2022IMP\u2022COS\u2022DESIG\u2022ITER ET TERT\u2022, jugate head of Marc Antony, wearing ivy wreath, and bust of Octavia right, draped / III\u2022VIR\u2022-R\u2022P\u2022C\u2022, Dionysus standing left on cista mystica, cantharus in right hand, scepter in left; flanked by interlaced serpents with heads erect. RPC I 2202.\n\nFrom the Randy & Nancy Best Coll...",
+      "hammer_price_usd": 4200.0,
+      "currency_original": "USD",
+      "price_original": 4200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": "https://media.coinarchives.com/b84163ccc57fe24c62f0cccb2d7ffd76/img/heritage/3135/image30069.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

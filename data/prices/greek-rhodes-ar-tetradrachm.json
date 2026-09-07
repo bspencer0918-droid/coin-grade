@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 52,
-  "realized_count": 52,
+  "sale_count": 54,
+  "realized_count": 54,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,24 +17,90 @@
     "max": 69000.0
   },
   "median_price_usd": 1530.0,
-  "last_sale_date": "2026-01-16",
+  "last_sale_date": "2026-09-01",
   "grade_distribution": {
-    "XF": 24,
+    "XF": 25,
+    "AU": 8,
     "MS": 3,
     "F": 1,
-    "VF": 17,
-    "AU": 7
+    "VF": 17
   },
-  "thumbnail_url": "https://media.coinarchives.com/918d15c559960ed281b37b301fb0fa37/img/ponterio/236/image40115.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/82be219e2a319ba6e547d138bbbf8818/img/heritage/3135/image34069.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
-  "top_surface_score": 4,
-  "top_grade_numeric": null,
+  "top_surface_score": 3,
+  "top_grade_numeric": 4,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-3b8b9ad7c46e",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801768&AucID=7287&Lot=34069&Val=fa6450b838cb278281bb04d8e557a3bd",
+      "title": "Heritage World Coin Auctions - ANA Signature Sale 3135, Lot 34069 \u2014 Ancients\nCARIAN ISLANDS. Rhodes. Ca. 230-205 BC. AR tetradrachm (23mm, 13.06 gm, 11h). NGC Choice XF 5/5 - 2/5, brushed, die shift. Ameinias, magistrate. Radiate facing head of Helios, turned slightly",
+      "description": "Ancients\nCARIAN ISLANDS. Rhodes. Ca. 230-205 BC. AR tetradrachm (23mm, 13.06 gm, 11h). NGC Choice XF 5/5 - 2/5, brushed, die shift. Ameinias, magistrate. Radiate facing head of Helios, turned slightly right, hair parted in middle and swept to either side / \u03a1\u039f\u0394\u0399\u039f\u039d, rose with single bud on tendril to right; AMEIN-IA\u03a3 flanking stem, galley prow in left field. HGC 6, 1432.\n\nEx Baldwin's, private sale with old dealer's tag included.  www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.ha.com/itm...",
+      "hammer_price_usd": 1500.0,
+      "currency_original": "USD",
+      "price_original": 1500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": "https://media.coinarchives.com/82be219e2a319ba6e547d138bbbf8818/img/heritage/3135/image34069.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-2c8b47f486ac",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801767&AucID=7287&Lot=34068&Val=293db7b11a916b74a7880b29e183e6cd",
+      "title": "Heritage World Coin Auctions - ANA Signature Sale 3135, Lot 34068 \u2014 Ancients\nCARIAN ISLANDS. Rhodes. Ca. 230-205 BC. AR tetradrachm (26mm, 12.59 gm, 11h). NGC AU 4/5 - 3/5, die shift. Ameinias, magistrate. Radiate facing head of Helios, turned slightly right, hair par",
+      "description": "Ancients\nCARIAN ISLANDS. Rhodes. Ca. 230-205 BC. AR tetradrachm (26mm, 12.59 gm, 11h). NGC AU 4/5 - 3/5, die shift. Ameinias, magistrate. Radiate facing head of Helios, turned slightly right, hair parted in middle and swept to either side / \u03a1\u039f\u0394\u0399\u039f\u039d, rose with single bud on tendril to right; AMEIN-IA\u03a3 flanking stem, galley prow in left field. HGC 6, 1432.\n\nFrom the Ahlden Castle Collection. Ex Fritz Rudolf K\u00fcnker GmbH, Auction 104 (27 September 2005), lot 264.  www.HA.com/TexasAuctioneerLicenseN...",
+      "hammer_price_usd": 4400.0,
+      "currency_original": "USD",
+      "price_original": 4400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": "https://media.coinarchives.com/7782e76c3d8b5605886f17a195a4ab86/img/heritage/3135/image34068.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-53a732168d75",
       "source": "sixbid",
