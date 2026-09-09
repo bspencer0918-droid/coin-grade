@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 31,
-  "realized_count": 31,
+  "sale_count": 32,
+  "realized_count": 32,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,9 +17,9 @@
     "max": 9150.0
   },
   "median_price_usd": 1200.0,
-  "last_sale_date": "2026-09-01",
+  "last_sale_date": "2026-09-08",
   "grade_distribution": {
-    "MS": 5,
+    "MS": 6,
     "XF": 11,
     "AU": 6,
     "F": 2,
@@ -28,11 +28,11 @@
     "P": 1,
     "VG": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/21296ba43cf94d9ec5b1e89d4b2c7719/img/heritage/3135/image34038.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/00b503db72f7b7943517229ba8bfa8e2/img/heritage/61649/image22048.jpg",
   "median_weight_g": null,
-  "top_strike_score": 4,
-  "top_surface_score": 5,
-  "top_grade_numeric": null,
+  "top_strike_score": 5,
+  "top_surface_score": 4,
+  "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
@@ -230,6 +230,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-7e91e9c671ba",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801407&AucID=7288&Lot=22048&Val=809289ca1912d802a0af7169d53608f4",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61649, Lot 22048 \u2014 Ancients\nMACEDON UNDER ROME. Aesillas, as Quaestor (ca. 95-65 BC). AR tetradrachm (32mm, 16.82 gm, 11h). NGC MS 5/5 - 4/5. Uncertain mint. MAKE\u0394ON\u03a9N, head of Alexander III the Great, with horn of Ammo",
+      "description": "Ancients\nMACEDON UNDER ROME. Aesillas, as Quaestor (ca. 95-65 BC). AR tetradrachm (32mm, 16.82 gm, 11h). NGC MS 5/5 - 4/5. Uncertain mint. MAKE\u0394ON\u03a9N, head of Alexander III the Great, with horn of Ammon; B\u0404 monogram below chin / AESILLAS, money chest, club and, quaestor's chair; Q in right field, all within wreath. SNG Copenhagen 1327. SNG ANS 22.\n\nFrom the LII Collection of Historical Coins and Medals Part II. Ex Frederick C. Schrang, Jr. Collection (Spink-Smythe, Collector's Series Auction 31...",
+      "hammer_price_usd": 2400.0,
+      "currency_original": "USD",
+      "price_original": 2400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-08",
+      "image_url": "https://media.coinarchives.com/00b503db72f7b7943517229ba8bfa8e2/img/heritage/61649/image22048.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

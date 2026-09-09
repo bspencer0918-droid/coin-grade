@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 363,
-  "realized_count": 362,
+  "sale_count": 364,
+  "realized_count": 363,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,17 +17,17 @@
     "max": 4320.0
   },
   "median_price_usd": 156.0,
-  "last_sale_date": "2026-08-10",
+  "last_sale_date": "2026-09-08",
   "grade_distribution": {
     "F": 45,
     "VF": 86,
     "XF": 76,
     "VG": 6,
-    "AU": 80,
+    "AU": 81,
     "G": 2,
     "MS": 68
   },
-  "thumbnail_url": "https://media.coinarchives.com/46bb1c90cd06657489699e6323713edc/img/heritage/61644/image21380.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/74769c9eb48ed5998cc3812da5bdc9db/img/heritage/61649/image22147.jpg",
   "median_weight_g": null,
   "top_strike_score": null,
   "top_surface_score": null,
@@ -856,6 +856,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-94df2cb065dd",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801506&AucID=7288&Lot=22147&Val=5b90b972e052d7d0b5e28dcfde082300",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61649, Lot 22147 \u2014 Ancients\nPHOENICIA. Tyre. Anonymous issue under Trajan (AD 98-117). AE (21mm, 11h). NGC AU\u2605. Dated Civic Year 238 (AD 112/113). Veiled head of Tyche right, wearing mural crown; palm to left, murex to ",
+      "description": "Ancients\nPHOENICIA. Tyre. Anonymous issue under Trajan (AD 98-117). AE (21mm, 11h). NGC AU\u2605. Dated Civic Year 238 (AD 112/113). Veiled head of Tyche right, wearing mural crown; palm to left, murex to right / \u03a4\u03a5\u03a1 (ligate) \u0399\u0395\u03a1 \u0391\u03a3 / \u039c\u0397\u03a4\u03a1\u039f\u03a0\u039f/\u039b\u0395W\u03a3, Phoenician pentekonter left; H\u039b\u03a3 (date) above, Of Tyre (Phoenician) in exergue. RPC 3889. BMC 315. Gorgeous deep forest green surfaces with light sandy toning around the devices.\n\nFrom the LII Collection of Historical Coins and Medals, Part II. Ex Herita...",
+      "hammer_price_usd": 1000.0,
+      "currency_original": "USD",
+      "price_original": 1000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-08",
+      "image_url": "https://media.coinarchives.com/74769c9eb48ed5998cc3812da5bdc9db/img/heritage/61649/image22147.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

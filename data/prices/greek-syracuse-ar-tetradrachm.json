@@ -8,21 +8,21 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 111,
-  "realized_count": 110,
+  "sale_count": 114,
+  "realized_count": 113,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 1050.0,
+    "min": 1.0,
     "max": 90000.0
   },
-  "median_price_usd": 4320.0,
-  "last_sale_date": "2026-09-01",
+  "median_price_usd": 4200.0,
+  "last_sale_date": "2026-09-08",
   "grade_distribution": {
-    "XF": 49,
+    "XF": 50,
     "MS": 8,
-    "VF": 25,
-    "AU": 29
+    "VF": 26,
+    "AU": 30
   },
   "thumbnail_url": "https://media.coinarchives.com/bb0709fc0612781c63ae0cd3cdfccd72/img/heritage/3135/image33006.jpg",
   "median_weight_g": null,
@@ -34,6 +34,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-4f6aad8710f3",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/14002/ancients-greek/12414326/siculo-punic-sicily-entella-ca-320-300",
+      "title": "SICULO-PUNIC. Sicily. Entella. Ca. 320-300 BC. AR tetradrachm (25mm, 17.51 gm, 3h). NGC Choice XF 4/5 - 4/5. Head of Arethusa left, wreathed with reeds, wearing pearl necklace and triple-pendant earring; four dolphins swimming around, triskele behind, dotted border / MMHNT' (Punic, \"People of the Camp\"), head and neck of horse left; palm tree with two clusters of dates behind, linear border. Jenkins 193.  From the LII Collection of Historical Coins and Medals Part II. Ex Spink, Auction 325 (21 June 2016), lot 10; Freeman & Sear, Mail Bid Sale 10 (11 February 2004), lot 98.  The location of the main Carthaginian mint in Sicily identified by Punic inscription as \"The Camp\" has long been a matter of conjecture and dispute. Recent research, adopted by Oliver Hoover in his Handbook of Coins of Sicily (CNG 2012), suggests the \"Camp\" mint to have been Entella, a fortress-like city located in central-west Sicily. Founded by the Trojans in the 500s BC, Entella was conquered by a group of Campanian mercenaries in about 410 BC who quickly sold their services to the Carthaginians (alternatively, the Campanians might have been employed by Carthage before they took the city). The city remained a Punic stronghold through most of the fourth century, although the Syracusan tyrant Timoleon briefly drove them out circa 342 BC (a peace treaty dividing Sicily, into Greek and Carthaginian spheres of interest in 338 BC, returned Entella to Punic control). The Siculo-Punic coinage of Entella seems to have been intended mainly to pay mercenary soldiers who were used to being paid in Greek coin, as the silver tetradrachms adhere closely to the Attic weight standard. Designs were usually based on the ubiquitous issues of Syracuse (obverse), but with reverses displaying their Carthaginian allegiance (the palm tree, phonix in Greek, is likely a canting pun on the term Phoenician). Horses also feature prominently, likely referring to the outstanding cavalry of the Carthaginians and their Campanian allies.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61649']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-08",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-822a1c3ae871",
       "source": "sixbid",
@@ -89,6 +122,39 @@
         "surface_score": 4,
         "details_grade": null,
         "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-10e15b3e9642",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801384&AucID=7288&Lot=22025&Val=8ed6e1d539897c7f489a735a2505d21d",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61649, Lot 22025 \u2014 Ancients\nSICILY. Syracuse. Agathocles (317-289 BC). AR tetradrachm (28mm, 17.00 gm, 1h). NGC VF 5/5 - 4/5. Ca. 310-306/305 BC. KOPA\u03a3, head of Kore-Persephone right, wreathed with grain, wearing single",
+      "description": "Ancients\nSICILY. Syracuse. Agathocles (317-289 BC). AR tetradrachm (28mm, 17.00 gm, 1h). NGC VF 5/5 - 4/5. Ca. 310-306/305 BC. KOPA\u03a3, head of Kore-Persephone right, wreathed with grain, wearing single pendant earring and necklace; dotted border / A\u0393A\u0398OK\u039bEIO\u03a3, Nike standing facing, head right, hammer in lowered right hand, nail in raised left, about to attach helmet to trophy at right; triskeles in lower left field, dotted border. SNG ANS 679. HGC 2, 1536. \n\nFrom the LII Collection of Historica...",
+      "hammer_price_usd": 2000.0,
+      "currency_original": "USD",
+      "price_original": 2000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-08",
+      "image_url": "https://media.coinarchives.com/6516abbe6672ccc83bcd9fa53c742855/img/heritage/61649/image22025.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
       },
@@ -188,6 +254,39 @@
         "surface_score": 3,
         "details_grade": null,
         "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-0df1844ed3a9",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801383&AucID=7288&Lot=22024&Val=39a5e0a13d4bb2198fa561812a65fb81",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61649, Lot 22024 \u2014 Ancients\nSICILY. Syracuse. Deinomenid Tyranny. Ca. 485-465 BC. AR tetradrachm (25mm, 17.58 gm, 12h). NGC AU 4/5 - 5/5. Struck under Hieron I (475-470 BC). Charioteer driving slow quadriga right, kentr",
+      "description": "Ancients\nSICILY. Syracuse. Deinomenid Tyranny. Ca. 485-465 BC. AR tetradrachm (25mm, 17.58 gm, 12h). NGC AU 4/5 - 5/5. Struck under Hieron I (475-470 BC). Charioteer driving slow quadriga right, kentron in right hand, reins in left; Nike flying right above crowning horses with wreath / \u03a3VRAKO\u03a3ION, compact head of Arethusa right, wearing wide plain taenia and pearl necklace, hair braided at brow, brushed straight with long loop tucked under diadem; surrounded by four dolphins swimming clockwise...",
+      "hammer_price_usd": 4200.0,
+      "currency_original": "USD",
+      "price_original": 4200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-08",
+      "image_url": "https://media.coinarchives.com/3349f21b4de231ea03cb3f012fde3911/img/heritage/61649/image22024.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
       },

@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 5780,
-  "realized_count": 5773,
+  "sale_count": 5781,
+  "realized_count": 5774,
   "fixed_price_count": 4,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,9 +17,9 @@
     "max": 720000.0
   },
   "median_price_usd": 264.0,
-  "last_sale_date": "2026-09-08",
+  "last_sale_date": "2026-09-09",
   "grade_distribution": {
-    "AU": 1168,
+    "AU": 1169,
     "P": 2,
     "XF": 1740,
     "VF": 2073,
@@ -50,7 +50,7 @@
       "currency_original": "USD",
       "price_original": 325.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-09-08",
+      "sale_date": "2026-09-09",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -83,7 +83,7 @@
       "currency_original": "USD",
       "price_original": 9500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-09-08",
+      "sale_date": "2026-09-09",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -116,7 +116,7 @@
       "currency_original": "USD",
       "price_original": 3500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-09-08",
+      "sale_date": "2026-09-09",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -149,7 +149,7 @@
       "currency_original": "USD",
       "price_original": 1100.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-09-08",
+      "sale_date": "2026-09-09",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -182,7 +182,7 @@
       "currency_original": "USD",
       "price_original": 950.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-09-08",
+      "sale_date": "2026-09-09",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -215,7 +215,7 @@
       "currency_original": "USD",
       "price_original": 650.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-09-08",
+      "sale_date": "2026-09-09",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1139,7 +1139,7 @@
       "currency_original": "USD",
       "price_original": 2250.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-09-08",
+      "sale_date": "2026-09-09",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc108783a.jpg",
       "ngc": {
         "verified": false,
@@ -1172,7 +1172,7 @@
       "currency_original": "USD",
       "price_original": 1800.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-09-08",
+      "sale_date": "2026-09-09",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc107402a.jpg",
       "ngc": {
         "verified": false,
@@ -1841,6 +1841,39 @@
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-486e114f96bf",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801508&AucID=7288&Lot=22149&Val=1be3072c44f8c769e9702708aa70f4b8",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61649, Lot 22149 \u2014 Ancients\nQ. Servilius Caepio (M. Junius) Brutus, as Moneyer (54 BC). AR denarius (20mm, 4.15 gm, 6h). NGC AU\u2605 5/5 - 5/5. Rome. LIBERTAS, head of Libertas right, wearing pendant earring and pendant nec",
+      "description": "Ancients\nQ. Servilius Caepio (M. Junius) Brutus, as Moneyer (54 BC). AR denarius (20mm, 4.15 gm, 6h). NGC AU\u2605 5/5 - 5/5. Rome. LIBERTAS, head of Libertas right, wearing pendant earring and pendant necklace / BRVTVS, the consul Lucius Junius Brutus, advancing left between two lictors with axes in left hand over shoulder, all preceded by an accensus. Crawford 433/1. Sydenham 906. Junia 30. Magnificently struck on good metal with gorgeous rainbow toning. Superior example of this popular issue.\n\nF...",
+      "hammer_price_usd": 8500.0,
+      "currency_original": "USD",
+      "price_original": 8500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-08",
+      "image_url": "https://media.coinarchives.com/935c823b5f1ade188e3cccf1a3f9eca4/img/heritage/61649/image22149.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

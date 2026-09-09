@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 61,
-  "realized_count": 61,
+  "sale_count": 62,
+  "realized_count": 62,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,23 +17,56 @@
     "max": 19200.0
   },
   "median_price_usd": 3120.0,
-  "last_sale_date": "2026-01-22",
+  "last_sale_date": "2026-09-08",
   "grade_distribution": {
-    "VF": 28,
+    "VF": 29,
     "XF": 19,
     "F": 3,
     "AU": 11
   },
-  "thumbnail_url": "https://media.coinarchives.com/cd21417a1e21641d5dd7bc09672a6248/img/heritage/3130/image36022.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/467bb629e53de88386740ff0d8ed36eb/img/heritage/61649/image22071.jpg",
   "median_weight_g": null,
-  "top_strike_score": 4,
-  "top_surface_score": 5,
-  "top_grade_numeric": 4,
+  "top_strike_score": 5,
+  "top_surface_score": 3,
+  "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-6b6f474407c3",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801430&AucID=7288&Lot=22071&Val=87d2f70e3940896286394f088ffa4ac4",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61649, Lot 22071 \u2014 Ancients\nATTICA. Athens. Ca. 510/500-480 BC. AR tetradrachm (25mm, 17.38 gm, 3h). NGC Choice VF\u2605 5/5 - 3/5. Pre-Persian Class. Head of Athena right, hair in waved loops along brow line, wearing creste",
+      "description": "Ancients\nATTICA. Athens. Ca. 510/500-480 BC. AR tetradrachm (25mm, 17.38 gm, 3h). NGC Choice VF\u2605 5/5 - 3/5. Pre-Persian Class. Head of Athena right, hair in waved loops along brow line, wearing crested Attic helmet, single spiral on bowl, the crest base decorated with short, spikey hairs / A\u0398\u0395, owl standing right with closed wings, head facing; olive sprig with four leaves and three berries behind, all within incuse square. HGC 4, 1588 (ca. 525-515 BC). Seltman Group H. Perfectly centered on b...",
+      "hammer_price_usd": 9500.0,
+      "currency_original": "USD",
+      "price_original": 9500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-08",
+      "image_url": "https://media.coinarchives.com/467bb629e53de88386740ff0d8ed36eb/img/heritage/61649/image22071.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-6a5d31eeba3f",
       "source": "coinarchives",
