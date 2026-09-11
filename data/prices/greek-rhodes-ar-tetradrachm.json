@@ -8,24 +8,24 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 54,
-  "realized_count": 54,
+  "sale_count": 55,
+  "realized_count": 55,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 504.0,
     "max": 69000.0
   },
-  "median_price_usd": 1530.0,
+  "median_price_usd": 1560.0,
   "last_sale_date": "2026-09-01",
   "grade_distribution": {
-    "XF": 25,
+    "XF": 26,
     "AU": 8,
     "MS": 3,
     "F": 1,
     "VF": 17
   },
-  "thumbnail_url": "https://media.coinarchives.com/82be219e2a319ba6e547d138bbbf8818/img/heritage/3135/image34069.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/2b90da24cf9a8c5d0c4ee9bde7e62aca/img/ponterio/238/image41087.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 3,
@@ -35,6 +35,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-f175c185fb97",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803260&AucID=7297&Lot=41087&Val=96a39d1587452f683e18eeaa63851e68",
+      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 41087 \u2014 CARIA. Islands off Caria. Rhodes. AR Tetradrachm (13.59 gms), ca. 229-205 B.C. NGC EF, Strike: 5/5 Surface: 4/5.\nHGC-6, 1432; Ashton-213; SNG Keckman-544; SNG Cop-753. Aristokritos, magistrate. Obvers",
+      "description": "CARIA. Islands off Caria. Rhodes. AR Tetradrachm (13.59 gms), ca. 229-205 B.C. NGC EF, Strike: 5/5 Surface: 4/5.\nHGC-6, 1432; Ashton-213; SNG Keckman-544; SNG Cop-753. Aristokritos, magistrate. Obverse: Radiate head of Helios facing slightly right; Reverse: Rose with bud to right; to left, prow of ship right; API\u03a3TOK-PITO\u03a3 below. A bold, high relief striking of this famed artistic type. Rich cabinet tone with lovely amber highlights around the devices.\n\nEx: Triton XIX (1/2016), Lot # 249.\n\nEx:...",
+      "hammer_price_usd": 2200.0,
+      "currency_original": "USD",
+      "price_original": 2200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-31",
+      "image_url": "https://media.coinarchives.com/2b90da24cf9a8c5d0c4ee9bde7e62aca/img/ponterio/238/image41087.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-3b8b9ad7c46e",
       "source": "coinarchives",

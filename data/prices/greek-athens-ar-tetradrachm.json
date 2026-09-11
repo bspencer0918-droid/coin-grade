@@ -8,21 +8,21 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 41,
-  "realized_count": 41,
+  "sale_count": 42,
+  "realized_count": 42,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 110.0,
     "max": 11590.0
   },
-  "median_price_usd": 1300.0,
+  "median_price_usd": 1200.0,
   "last_sale_date": "2026-09-08",
   "grade_distribution": {
     "AU": 9,
     "MS": 3,
     "VF": 11,
-    "XF": 15,
+    "XF": 16,
     "G": 3
   },
   "thumbnail_url": "https://media.coinarchives.com/b8e83d37ba24bd933d8e535c823d0d68/img/heritage/3135/image34065.jpg",
@@ -288,6 +288,39 @@
         "surface_score": 5,
         "details_grade": null,
         "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-4b01a35d78b2",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803255&AucID=7297&Lot=41082&Val=f811887a42ad68533c25414119fb340e",
+      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 41082 \u2014 MYSIA. Pergamon. Kingdom of Pergamon. Eumenes I, 263-241 B.C. AR Tetradrachm (16.76 gms), ca. 255/0-241 B.C. NGC EF, Strike: 5/5 Surface: 3/5. Fine Style, Marks.\nSNG BN-1610-16. Obverse: Laureate head",
+      "description": "MYSIA. Pergamon. Kingdom of Pergamon. Eumenes I, 263-241 B.C. AR Tetradrachm (16.76 gms), ca. 255/0-241 B.C. NGC EF, Strike: 5/5 Surface: 3/5. Fine Style, Marks.\nSNG BN-1610-16. Obverse: Laureate head of Philetairos right; Reverse: Athena seated left on throne, resting elbow upon shield to right and crowning dynastic name to left; transverse spear in background, ivy leaf to outer left, A to inner left, bow to right. An imposing portrayal of Philetairos, toned to a beautiful cabinet charcoal gr...",
+      "hammer_price_usd": 1100.0,
+      "currency_original": "USD",
+      "price_original": 1100.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-31",
+      "image_url": "https://media.coinarchives.com/ea98baee5e4da2357b4c55d7c80a35a3/img/ponterio/238/image41082.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": true,
         "certification_url": null,
         "grading_service": "ngc"
       },

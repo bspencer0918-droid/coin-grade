@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AE Sestertius",
   "metal": "bronze",
-  "sale_count": 299,
-  "realized_count": 299,
+  "sale_count": 300,
+  "realized_count": 300,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,9 +17,9 @@
     "max": 10370.0
   },
   "median_price_usd": 384.0,
-  "last_sale_date": "2026-07-28",
+  "last_sale_date": "2026-08-31",
   "grade_distribution": {
-    "XF": 54,
+    "XF": 55,
     "AU": 34,
     "F": 66,
     "VF": 131,
@@ -27,7 +27,7 @@
     "MS": 1,
     "G": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/af13f0fa93e84eb54caa397c54260709/img/heritage/61635/image23233.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/c1110834cbb0c6d818a19eb002b43b7e/img/ponterio/238/image41226.jpg",
   "median_weight_g": null,
   "top_strike_score": null,
   "top_surface_score": null,
@@ -97,6 +97,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-75f447181c8c",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803399&AucID=7297&Lot=41226&Val=4b28a85fc999c66bd754e1ce88fcfebf",
+      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 41226 \u2014 GORDIAN I, A.D. 238. AE Sestertius (20.72 gms), Rome Mint. NGC Ch EF, Strike: 5/5 Surface: 3/5.\nRIC-11. Obverse: Laureate, draped and cuirassed bust right; Reverse: Securitas seated left on throne, ho",
+      "description": "GORDIAN I, A.D. 238. AE Sestertius (20.72 gms), Rome Mint. NGC Ch EF, Strike: 5/5 Surface: 3/5.\nRIC-11. Obverse: Laureate, draped and cuirassed bust right; Reverse: Securitas seated left on throne, holding short scepter. A notoriously RARE emperor, with sharp expressive portraits like this particularly difficult to encounter. This handsome example provides a crisp, original look and good surfaces accented by black patina. A wonderful coin for any collector assembling a set of imperial portrait...",
+      "hammer_price_usd": 5000.0,
+      "currency_original": "USD",
+      "price_original": 5000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-31",
+      "image_url": "https://media.coinarchives.com/c1110834cbb0c6d818a19eb002b43b7e/img/ponterio/238/image41226.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

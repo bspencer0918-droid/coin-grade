@@ -8,8 +8,8 @@
   "ruler_rarity": "common",
   "denomination": "EL/BI Trachy",
   "metal": "electrum",
-  "sale_count": 258,
-  "realized_count": 258,
+  "sale_count": 259,
+  "realized_count": 259,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,23 +17,57 @@
     "max": 3840.0
   },
   "median_price_usd": 360.0,
-  "last_sale_date": "2026-02-12",
+  "last_sale_date": "2026-09-09",
   "grade_distribution": {
+    "P": 1,
     "MS": 199,
     "AU": 38,
     "XF": 10,
     "VF": 11
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-6-9-6-8-26968953&w=120&h=300&it=product",
+  "thumbnail_url": "https://media.coinarchives.com/9b1d8023a2bcb62256a9180e7b4993de/img/cng/e/keystone18/image00417.jpg",
   "median_weight_g": null,
-  "top_strike_score": 4,
-  "top_surface_score": 3,
-  "top_grade_numeric": 4,
+  "top_strike_score": null,
+  "top_surface_score": null,
+  "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-31ad0e0acd7e",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2809457&AucID=7313&Lot=417&Val=195a5d47c72af0711b3069ebf0537aed",
+      "title": "Classical Numismatic Group - Keystone Auction 18, Lot 417 \u2014 Manuel I Comnenus. 1143-1180. EL Aspron Trachy (30mm, 4.09 g, 6h). Constantinople mint. Struck circa 1160-circa 1164. Christ Pantokrator standing facing on suppedion, raising hand in benediction and h",
+      "description": "Manuel I Comnenus. 1143-1180. EL Aspron Trachy (30mm, 4.09 g, 6h). Constantinople mint. Struck circa 1160-circa 1164. Christ Pantokrator standing facing on suppedion, raising hand in benediction and holding Gospels; stars flanking / Facing figures of Manuel, wearing crown and loros, and St. Theodore, nimbate and wearing military attire, each resting hand on a sheathed sword and together holding patriarchal cross set on globus between them. DOC 4c; SB 1959. Toned. With NGC photo-cert 8560324-06...",
+      "hammer_price_usd": 350.0,
+      "currency_original": "USD",
+      "price_original": 350.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-09",
+      "image_url": "https://media.coinarchives.com/9b1d8023a2bcb62256a9180e7b4993de/img/cng/e/keystone18/image00417.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "8560324",
+        "grade": "P",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8560324/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-8377c8feff78",
       "source": "sixbid",

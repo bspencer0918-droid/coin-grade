@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AV Stater",
   "metal": "gold",
-  "sale_count": 251,
-  "realized_count": 251,
+  "sale_count": 252,
+  "realized_count": 252,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -20,7 +20,7 @@
   "last_sale_date": "2026-09-08",
   "grade_distribution": {
     "MS": 78,
-    "AU": 94,
+    "AU": 95,
     "VF": 22,
     "XF": 54,
     "F": 3
@@ -286,6 +286,39 @@
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-66bc30b45280",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803204&AucID=7297&Lot=41031&Val=bc7d7bcf045d79787b946b27fce2255e",
+      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 41031 \u2014 MACEDON. Kingdom of Macedon. Philip III, 323-317 B.C. AV Stater (8.62 gms), Miletos Mint, ca. 323-317 B.C. NGC Ch AU, Strike: 5/5 Surface: 4/5.\nSNG ANS-317; Thompson-ADM I, 23 (same dies). Obverse: La",
+      "description": "MACEDON. Kingdom of Macedon. Philip III, 323-317 B.C. AV Stater (8.62 gms), Miletos Mint, ca. 323-317 B.C. NGC Ch AU, Strike: 5/5 Surface: 4/5.\nSNG ANS-317; Thompson-ADM I, 23 (same dies). Obverse: Laureate bust of Apollo right; Reverse: Biga at right, monogram below horses. An EXTREMELY RARE issue from a seldom-encountered mint for Philip II-type Staters. This exemplary specimen flaunts a near-perfect strike on a broad round flan. Wonderful style and presentability coupled with fields that fl...",
+      "hammer_price_usd": 8500.0,
+      "currency_original": "USD",
+      "price_original": 8500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-31",
+      "image_url": "https://media.coinarchives.com/3115fc885a2228e1a3794430f48dd853/img/ponterio/238/image41031.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

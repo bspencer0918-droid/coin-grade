@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AV Nomisma",
   "metal": "unknown",
-  "sale_count": 94,
-  "realized_count": 94,
+  "sale_count": 95,
+  "realized_count": 95,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,14 +17,14 @@
     "max": 33600.0
   },
   "median_price_usd": 1680.0,
-  "last_sale_date": "2026-05-11",
+  "last_sale_date": "2026-08-31",
   "grade_distribution": {
-    "VF": 6,
+    "VF": 7,
     "XF": 21,
     "AU": 53,
     "MS": 14
   },
-  "thumbnail_url": "https://media.coinarchives.com/7954e24694dea52f248b6ee5bd2f7882/img/ponterio/cco_may26/image73271.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/11cfff2442d12778cff56587ca282ec3/img/ponterio/238/image41263.jpg",
   "median_weight_g": null,
   "top_strike_score": null,
   "top_surface_score": null,
@@ -226,6 +226,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-9435b9b52b83",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803436&AucID=7297&Lot=41263&Val=e74671da7fb3b9f4d943ca663ec68870",
+      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 41263 \u2014 ISAAC I, 1057-1059. AV Tetarteron Nomisma (3.99 gms), Constantinople Mint. NGC Ch VF, Strike: 5/5 Surface: 5/5.\nS-1845. Obverse: Facing bust of Christ Pantokrator; Reverse: Isaac standing facing, hold",
+      "description": "ISAAC I, 1057-1059. AV Tetarteron Nomisma (3.99 gms), Constantinople Mint. NGC Ch VF, Strike: 5/5 Surface: 5/5.\nS-1845. Obverse: Facing bust of Christ Pantokrator; Reverse: Isaac standing facing, holding globus cruciger and resting hand on sword in scabbard. Quite charming as a representative of this more compact denomination. Some even circulation wear and marks, but amply detailed with plenty of brilliance.\n\nEx: Dimitriadis Collection (Heritage 3035 - 9/2014), Lot # 29675.\n\nEstimate: 1000 - ...",
+      "hammer_price_usd": 1400.0,
+      "currency_original": "USD",
+      "price_original": 1400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-31",
+      "image_url": "https://media.coinarchives.com/11cfff2442d12778cff56587ca282ec3/img/ponterio/238/image41263.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

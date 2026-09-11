@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 1324,
-  "realized_count": 1324,
+  "sale_count": 1325,
+  "realized_count": 1325,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -20,7 +20,7 @@
   "last_sale_date": "2026-09-01",
   "grade_distribution": {
     "VG": 41,
-    "VF": 489,
+    "VF": 490,
     "XF": 394,
     "F": 166,
     "MS": 40,
@@ -257,6 +257,39 @@
         "surface_score": 2,
         "details_grade": null,
         "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-9ef1a4ce3181",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803349&AucID=7297&Lot=41176&Val=116a31b4ef3e8b632251672e676998bb",
+      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 41176 \u2014 CALIGULA WITH DIVUS AUGUSTUS, A.D. 37-41. AR Denarius (3.77 gms), Lugdunum Mint, A.D. 37. NGC VF, Strike: 5/5 Surface: 3/5.\nTo view all items from the Koopmann Collection, click  here.\nRIC-2; RSC-11. ",
+      "description": "CALIGULA WITH DIVUS AUGUSTUS, A.D. 37-41. AR Denarius (3.77 gms), Lugdunum Mint, A.D. 37. NGC VF, Strike: 5/5 Surface: 3/5.\nTo view all items from the Koopmann Collection, click  here.\nRIC-2; RSC-11. Obverse: Bare head of Caligula right; Reverse: Radiate head of Divus Augustus right; six-pointed star to left and right. An impressive Denarius of Caligula. Moderately circulated and with some light cleaning marks, but well-struck on a broad round flan of good metal quality. Great presentability f...",
+      "hammer_price_usd": 7500.0,
+      "currency_original": "USD",
+      "price_original": 7500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-31",
+      "image_url": "https://media.coinarchives.com/e3cde75b54581eab9a44c523aec664be/img/ponterio/238/image41176.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
       },

@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AE Sestertius",
   "metal": "bronze",
-  "sale_count": 27,
-  "realized_count": 27,
+  "sale_count": 28,
+  "realized_count": 28,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,24 +17,57 @@
     "max": 6300.0
   },
   "median_price_usd": 630.0,
-  "last_sale_date": "2026-07-28",
+  "last_sale_date": "2026-08-31",
   "grade_distribution": {
+    "XF": 10,
     "VF": 7,
     "F": 9,
-    "XF": 9,
     "AU": 1,
     "VG": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/3d4d10e1d46dae6802ef077cde00acc9/img/heritage/61626/image23127.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/b4626fff6a03b6d18f323c04930dd21c/img/ponterio/238/image41212.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 2,
-  "top_grade_numeric": 5,
+  "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-a5d99af96127",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803385&AucID=7297&Lot=41212&Val=da93d5fe4e7f3dd355d291d3de7f2a84",
+      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 41212 \u2014 DOMITIAN AS CAESAR, A.D. 69-81. AE Sestertius (21.95 gms), Rome Mint, Struck under Titus, A.D. 80-81. NGC EF, Strike: 5/5 Surface: 2/5. Fine Style, Smoothing.\nTo view all items from the Aspeni Reserve",
+      "description": "DOMITIAN AS CAESAR, A.D. 69-81. AE Sestertius (21.95 gms), Rome Mint, Struck under Titus, A.D. 80-81. NGC EF, Strike: 5/5 Surface: 2/5. Fine Style, Smoothing.\nTo view all items from the Aspeni Reserve Collection, click  here.\nRIC-288 (Titus). Obverse: Laureate head right; Reverse: Pax standing left, holding olive branch and cornucopia. A noble portrait of the young Domitian in fine style. Some smoothing noted in the fields, but this is largely overshadowed by the coin's attractive burnished br...",
+      "hammer_price_usd": 1100.0,
+      "currency_original": "USD",
+      "price_original": 1100.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-31",
+      "image_url": "https://media.coinarchives.com/b4626fff6a03b6d18f323c04930dd21c/img/ponterio/238/image41212.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-a5a3df703c0d",
       "source": "sixbid",

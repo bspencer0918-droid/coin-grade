@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AV Aureus",
   "metal": "gold",
-  "sale_count": 194,
-  "realized_count": 194,
+  "sale_count": 195,
+  "realized_count": 195,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -21,7 +21,7 @@
   "grade_distribution": {
     "VF": 34,
     "XF": 55,
-    "MS": 37,
+    "MS": 38,
     "AU": 65,
     "F": 3
   },
@@ -255,6 +255,39 @@
         "surface_score": 4,
         "details_grade": null,
         "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-19fb753acf01",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803392&AucID=7297&Lot=41219&Val=8407f9febbe9be5dedf119d6062e3d99",
+      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 41219 \u2014 - A Spectacular Aureus of Faustina\nFAUSTINA SENIOR (WIFE OF ANTONINUS PIUS). AV Aureus (7.34 gms), Rome Mint, ca A.D. 141-146. NGC Ch MS, Strike: 5/5 Surface: 5/5.\nTo view all items from the Charles \"",
+      "description": "- A Spectacular Aureus of Faustina\nFAUSTINA SENIOR (WIFE OF ANTONINUS PIUS). AV Aureus (7.34 gms), Rome Mint, ca A.D. 141-146. NGC Ch MS, Strike: 5/5 Surface: 5/5.\nTo view all items from the Charles \"Cheech\" Litman Collection, click  here.\nRIC-349B (Pius); Calico-1746 (this coin illustrated). Obverse: Draped bust right, wearing hair bound in pearls on top of her head; Reverse: Fortuna, draped, standing left, holding patera and rudder set upon globus. This astonishing survivor was masterfully s...",
+      "hammer_price_usd": 19000.0,
+      "currency_original": "USD",
+      "price_original": 19000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-31",
+      "image_url": "https://media.coinarchives.com/add5be8a61cbe23bd487d6a93af4ecc7/img/ponterio/238/image41219.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
       },

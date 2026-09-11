@@ -7,30 +7,64 @@
   "ruler_dates": null,
   "ruler_rarity": null,
   "denomination": "Unknown",
-  "metal": "silver",
-  "sale_count": 1,
-  "realized_count": 1,
+  "metal": "gold",
+  "sale_count": 2,
+  "realized_count": 2,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 4100.0,
-    "max": 4100.0
+    "max": 13000.0
   },
-  "median_price_usd": 4100.0,
-  "last_sale_date": "2026-03-26",
+  "median_price_usd": 8550.0,
+  "last_sale_date": "2026-08-31",
   "grade_distribution": {
+    "AU": 1,
     "XF": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/ba08542ba8fb360d1a3394f43d072b62/img/ponterio/stacksbowers_mar26/image19041.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/6dd31d65b1d652245ce09a3154a6166b/img/ponterio/238/image41143.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 1,
+  "top_surface_score": 2,
   "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-59f8f6d8add1",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803316&AucID=7297&Lot=41143&Val=6858d1b1acd9d57ae89faf1fda2509d8",
+      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 41143 \u2014 - A Striking Stylized Portrait of Arsinoe\nPTOLEMAIC EGYPT. Arsinoe II Philadelphos, Died 270/268 B.C. AV Mnaieion (Oktadrachm) (27.18 gms), Alexandreia Mint, struck under Ptolemy VI-VIII, ca. 180-116 ",
+      "description": "- A Striking Stylized Portrait of Arsinoe\nPTOLEMAIC EGYPT. Arsinoe II Philadelphos, Died 270/268 B.C. AV Mnaieion (Oktadrachm) (27.18 gms), Alexandreia Mint, struck under Ptolemy VI-VIII, ca. 180-116 B.C. NGC Ch AU, Strike: 5/5 Surface: 2/5. Brushed, Scratches, Scuffs, Edge Filing.\nTo view all items from the Aspeni Reserve Collection, click  here.\nSvor-1499; SNG Cop-322. Obverse: Veiled head right, wearing stephanos and ram's horn; lotus-tipped scepter in background, K to left; Reverse: Fillet...",
+      "hammer_price_usd": 13000.0,
+      "currency_original": "USD",
+      "price_original": 13000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-31",
+      "image_url": "https://media.coinarchives.com/6dd31d65b1d652245ce09a3154a6166b/img/ponterio/238/image41143.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": "Edge Filing",
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-caf02454de5c",
       "source": "coinarchives",

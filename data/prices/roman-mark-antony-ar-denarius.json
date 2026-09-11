@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 527,
-  "realized_count": 527,
+  "sale_count": 529,
+  "realized_count": 529,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -20,9 +20,9 @@
   "last_sale_date": "2026-09-01",
   "grade_distribution": {
     "F": 108,
-    "XF": 100,
+    "XF": 101,
+    "VF": 200,
     "AU": 61,
-    "VF": 199,
     "MS": 7,
     "VG": 39,
     "G": 9,
@@ -105,6 +105,39 @@
       }
     },
     {
+      "id": "coinarchives-4aee6d9b525f",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803340&AucID=7297&Lot=41167&Val=ac6376bec3cee295a59aa2a12f8a4830",
+      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 41167 \u2014 MARC ANTONY. AR Denarius (4.08 gms), Military mint traveling with Antony in Greece, 42 B.C. NGC Ch VF, Strike: 4/5 Surface: 4/5.\nCr-496/1; S-1467; Syd-1168. Obverse: Bare head of Mark Antony right; Re",
+      "description": "MARC ANTONY. AR Denarius (4.08 gms), Military mint traveling with Antony in Greece, 42 B.C. NGC Ch VF, Strike: 4/5 Surface: 4/5.\nCr-496/1; S-1467; Syd-1168. Obverse: Bare head of Mark Antony right; Reverse: Distyle temple containing facing bust of Sol on disk. A distinctive Imperatorial issue featuring a charming scowling portrait of Antony. Nicely preserved surfaces with a deep cabinet tone commensurate with its many years in private collections.\n\nEx: Peus 357 (10/1998), Lot # 404.\n\nEx: Peus ...",
+      "hammer_price_usd": 950.0,
+      "currency_original": "USD",
+      "price_original": 950.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-31",
+      "image_url": "https://media.coinarchives.com/d7839a153e5b58e95a97be709224ec49/img/ponterio/238/image41167.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-2c9940ffccdd",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -157,6 +190,39 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-11cc997be39b",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803338&AucID=7297&Lot=41165&Val=cc5d6169c9aea88b56ef92e3dc5fb22b",
+      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 41165 \u2014 MARC ANTONY & OCTAVIAN. AR Denarius (3.84 gms), Ephesus Mint, M. Barbatius Pollio Moneyer, ca. Spring-Summer 41 B.C. NGC Ch EF\u2605, Strike: 5/5 Surface: 5/5.\nTo view all items from the Bella Roma Collect",
+      "description": "MARC ANTONY & OCTAVIAN. AR Denarius (3.84 gms), Ephesus Mint, M. Barbatius Pollio Moneyer, ca. Spring-Summer 41 B.C. NGC Ch EF\u2605, Strike: 5/5 Surface: 5/5.\nTo view all items from the Bella Roma Collection, click  here.\nCr-517/2; CRI-243; Syd-1181. Obverse: Bare head of Mark Antony right; Reverse: Bare head of Octavian right, with slight beard. An outstanding example in silver with both Triumvirs given bold, impressive portrayals. Strong surface quality accented by a rich cabinet tone while reta...",
+      "hammer_price_usd": 4600.0,
+      "currency_original": "USD",
+      "price_original": 4600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-31",
+      "image_url": "https://media.coinarchives.com/7ba38e33b7b8be0d56d614defcf6d8af/img/ponterio/238/image41165.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

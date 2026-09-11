@@ -8,23 +8,23 @@
   "ruler_rarity": "scarce",
   "denomination": "EL/BI Trachy",
   "metal": "silver",
-  "sale_count": 16,
-  "realized_count": 16,
+  "sale_count": 17,
+  "realized_count": 17,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 99.0,
     "max": 5520.0
   },
-  "median_price_usd": 366.0,
-  "last_sale_date": "2026-01-16",
+  "median_price_usd": 468.0,
+  "last_sale_date": "2026-08-31",
   "grade_distribution": {
-    "MS": 6,
+    "MS": 7,
     "AU": 5,
     "XF": 4,
     "VF": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/bce57f67bd59a6aa7d57713bda531ba2/img/ponterio/236/image40310.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/2ae56bf7843c0762dc79af30042ae189/img/ponterio/238/image41265.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 4,
@@ -34,6 +34,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-c9fddff42452",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803438&AucID=7297&Lot=41265&Val=d0c7a80b7fb8f7aaa95b6069247617da",
+      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 41265 \u2014 ANDRONICUS I (OF TREBIZOND), 1225-1235. AR Aspron Trachy (2.17 gms). NGC MS, Strike: 4/5 Surface: 4/5.\nS-2148 (Uncertain Nicaea); DOC IV, pg. 537, 1 (Anonymous/Uncertain); S. Bendall, \"An Early Coinag",
+      "description": "ANDRONICUS I (OF TREBIZOND), 1225-1235. AR Aspron Trachy (2.17 gms). NGC MS, Strike: 4/5 Surface: 4/5.\nS-2148 (Uncertain Nicaea); DOC IV, pg. 537, 1 (Anonymous/Uncertain); S. Bendall, \"An Early Coinage of the Empire of Trebizond\" (Numismatic Circular CX.3; 6/2002). Obverse: Virgin Mary standing facing, placing right hand on chest and raising the other in benediction; Reverse: Christ Chalcites standing facing, placing hand on chest and holding Gospels. Extremely fresh, silvery surfaces possessi...",
+      "hammer_price_usd": 1300.0,
+      "currency_original": "USD",
+      "price_original": 1300.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-31",
+      "image_url": "https://media.coinarchives.com/2ae56bf7843c0762dc79af30042ae189/img/ponterio/238/image41265.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-ff64fa24694e",
       "source": "sixbid",

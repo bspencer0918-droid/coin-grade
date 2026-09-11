@@ -8,19 +8,19 @@
   "ruler_rarity": null,
   "denomination": "AV Aureus",
   "metal": "gold",
-  "sale_count": 100,
-  "realized_count": 100,
+  "sale_count": 101,
+  "realized_count": 101,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 1320.0,
     "max": 168000.0
   },
-  "median_price_usd": 5937.5,
+  "median_price_usd": 6000.0,
   "last_sale_date": "2026-09-01",
   "grade_distribution": {
     "AU": 14,
-    "XF": 19,
+    "XF": 20,
     "VF": 24,
     "MS": 5,
     "G": 1,
@@ -92,6 +92,39 @@
         "surface_score": 4,
         "details_grade": null,
         "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-065ed012a160",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803374&AucID=7297&Lot=41201&Val=7e4334c235aa1ffd6c2363c803c7748b",
+      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 41201 \u2014 - A Magnificent Boscoreale Aureus\nVESPASIAN, A.D. 69-79. AV Aureus (7.17 gms), Lugdunum Mint, A.D. 72. NGC Ch EF, Strike: 4/5 Surface: 4/5.\nTo view all items from the Bella Roma Collection, click  her",
+      "description": "- A Magnificent Boscoreale Aureus\nVESPASIAN, A.D. 69-79. AV Aureus (7.17 gms), Lugdunum Mint, A.D. 72. NGC Ch EF, Strike: 4/5 Surface: 4/5.\nTo view all items from the Bella Roma Collection, click  here.\nRIC-1180; Calico-656. Obverse: Laureate head right; Reverse: Nemesis advancing right with caduceus over snake. Bearing a portrait of expressive veristic style, this Aureus makes an ideal representative of Vespasian for a high-end \"Twelve Caesars\" set. It remains resoundingly original, with just...",
+      "hammer_price_usd": 32000.0,
+      "currency_original": "USD",
+      "price_original": 32000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-31",
+      "image_url": "https://media.coinarchives.com/f53fadb5ccd275f5b4cf8209a0401482/img/ponterio/238/image41201.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
       },

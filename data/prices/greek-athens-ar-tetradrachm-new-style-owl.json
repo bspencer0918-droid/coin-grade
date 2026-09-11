@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 67,
-  "realized_count": 67,
+  "sale_count": 69,
+  "realized_count": 69,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -19,9 +19,9 @@
   "median_price_usd": 1680.0,
   "last_sale_date": "2026-09-08",
   "grade_distribution": {
-    "XF": 23,
+    "XF": 24,
     "VF": 7,
-    "AU": 29,
+    "AU": 30,
     "MS": 7,
     "F": 1
   },
@@ -156,6 +156,72 @@
         "surface_score": 3,
         "details_grade": null,
         "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-34d6584bf636",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803241&AucID=7297&Lot=41068&Val=b121dbd0d9e2751d2f855f933968fd87",
+      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 41068 \u2014 ATTICA. Athens. AR Tetradrachm (16.75 gms), ca. 93/92 B.C. NGC AU, Strike: 4/5 Surface: 4/5. Die Shift.\nHGC-4, 1602; Thompson-1065b. New style coinage. Ermocles, and Plestias, magistrates. Obverse: He",
+      "description": "ATTICA. Athens. AR Tetradrachm (16.75 gms), ca. 93/92 B.C. NGC AU, Strike: 4/5 Surface: 4/5. Die Shift.\nHGC-4, 1602; Thompson-1065b. New style coinage. Ermocles, and Plestias, magistrates. Obverse: Head of Athena right, wearing triple crested Attic helmet; Reverse: Owl standing right on amphora, head facing; headdress of Isis to right; \u0393 on amphora; \u039bH below. This Tetradrachm offers lovely original surfaces with cabinet gray tone and much underlying luster. Some reverse die shift, but a striki...",
+      "hammer_price_usd": 1600.0,
+      "currency_original": "USD",
+      "price_original": 1600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-31",
+      "image_url": "https://media.coinarchives.com/cf02517baaf8e5fdaff67ef181b00066/img/ponterio/238/image41068.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-9fb9a7c90820",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803217&AucID=7297&Lot=41044&Val=ed69427c8789e4aedd920d714d8983b7",
+      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 41044 \u2014 THRACE. Kingdom of Thrace. Lysimachos, 323-281 B.C. AR Tetradrachm (16.75 gms), Lampsakos mint, ca. 297/6-282/1 B.C. NGC EF, Strike: 4/5 Surface: 3/5. Fine Style, Brushed.\nHGC-3.2, 1750b; Thompson-47;",
+      "description": "THRACE. Kingdom of Thrace. Lysimachos, 323-281 B.C. AR Tetradrachm (16.75 gms), Lampsakos mint, ca. 297/6-282/1 B.C. NGC EF, Strike: 4/5 Surface: 3/5. Fine Style, Brushed.\nHGC-3.2, 1750b; Thompson-47; Muller-401. Obverse: Diademed head of the deified Alexander right, with horn of Ammon; Reverse: Athena seated left on throne, holding crowning Nike and resting elbow upon shield; monogram to inner left; [crescent in exergue]. A glossy, handsomely toned example bearing a striking portrait in high ...",
+      "hammer_price_usd": 1300.0,
+      "currency_original": "USD",
+      "price_original": 1300.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-31",
+      "image_url": "https://media.coinarchives.com/5a6fae329d229090d5f8c728a56c6f04/img/ponterio/238/image41044.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": true,
         "certification_url": null,
         "grading_service": "ngc"
       },

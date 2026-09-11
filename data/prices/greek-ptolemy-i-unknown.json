@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 76,
-  "realized_count": 75,
+  "sale_count": 77,
+  "realized_count": 76,
   "fixed_price_count": 1,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,12 +17,12 @@
     "max": 114000.0
   },
   "median_price_usd": 16800.0,
-  "last_sale_date": "2026-09-10",
+  "last_sale_date": "2026-09-11",
   "grade_distribution": {
     "VF": 16,
     "AU": 35,
     "F": 3,
-    "XF": 17,
+    "XF": 18,
     "MS": 4,
     "VG": 1
   },
@@ -47,7 +47,7 @@
       "currency_original": "USD",
       "price_original": 120.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-09-10",
+      "sale_date": "2026-09-11",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -179,7 +179,7 @@
       "currency_original": "USD",
       "price_original": 18500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-09-10",
+      "sale_date": "2026-09-11",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc107707a.jpg",
       "ngc": {
         "verified": false,
@@ -320,6 +320,39 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 4,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-548533fbcb7c",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803310&AucID=7297&Lot=41137&Val=c020717fdea895d010b7d4c6bae470b0",
+      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 41137 \u2014 - A Bold Mnaieion of the Deified Arsinoe II\nPTOLEMAIC EGYPT. Arsinoe II, Died 270/268 B.C. AV Mnaieion (Oktadrachm) (27.17 gms), Alexandreia Mint, struck under Ptolemy II, ca. 253/2-246 B.C. NGC Ch EF",
+      "description": "- A Bold Mnaieion of the Deified Arsinoe II\nPTOLEMAIC EGYPT. Arsinoe II, Died 270/268 B.C. AV Mnaieion (Oktadrachm) (27.17 gms), Alexandreia Mint, struck under Ptolemy II, ca. 253/2-246 B.C. NGC Ch EF, Strike: 5/5 Surface: 3/5. Fine Style, Brushed.\nSvor-460; SNG Cop-134; CPE-388. Obverse: Veiled head right, with ram's horn and wearing stephanos; lotus-tipped scepter in background, \u0398 to left; Reverse: Filleted double cornucopia, with grape bunches hanging at sides. An excellent, centered strike...",
+      "hammer_price_usd": 15000.0,
+      "currency_original": "USD",
+      "price_original": 15000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-31",
+      "image_url": "https://media.coinarchives.com/b73852ea59e1d4a760c9bfc093b602f4/img/ponterio/238/image41137.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
         "details_grade": null,
         "fine_style": true,
         "certification_url": null,

@@ -8,19 +8,19 @@
   "ruler_rarity": null,
   "denomination": "AV Stater",
   "metal": "gold",
-  "sale_count": 103,
-  "realized_count": 103,
+  "sale_count": 105,
+  "realized_count": 105,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 1700.0,
     "max": 46000.0
   },
-  "median_price_usd": 7750.0,
+  "median_price_usd": 8250.0,
   "last_sale_date": "2026-09-08",
   "grade_distribution": {
-    "AU": 40,
-    "MS": 26,
+    "AU": 41,
+    "MS": 27,
     "VF": 18,
     "XF": 18,
     "F": 1
@@ -498,6 +498,39 @@
       }
     },
     {
+      "id": "coinarchives-2574b3c5455d",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803212&AucID=7297&Lot=41039&Val=7d963431ca5cb951feb98f5d8886b78e",
+      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 41039 \u2014 THRACE. Byzantion. AV Stater (8.50 gms), ca. 260-245 B.C. NGC Ch AU, Strike: 5/5 Surface: 4/5. Fine Style.\nTo view all items from the Koopmann Collection, click  here.\nHGC-3.2, 1374; cf. Gorny & Mosch",
+      "description": "THRACE. Byzantion. AV Stater (8.50 gms), ca. 260-245 B.C. NGC Ch AU, Strike: 5/5 Surface: 4/5. Fine Style.\nTo view all items from the Koopmann Collection, click  here.\nHGC-3.2, 1374; cf. Gorny & Mosch 118, Lot # 1193 (same dies). In the name and types of Lysimachos. Obverse: Diademed head of Alexander III (the Great) right, wearing horn of Ammon; Reverse: Athena seated left on throne, holding crowning Nike and resting arm on shield; monogram to inner left. A VERY RARE unpublished issue. Perfec...",
+      "hammer_price_usd": 8500.0,
+      "currency_original": "USD",
+      "price_original": 8500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-31",
+      "image_url": "https://media.coinarchives.com/75206d08619a19cb111c86446e9d60c6/img/ponterio/238/image41039.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-45c8a352be28",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -585,6 +618,39 @@
         "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-e4061e76a54b",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803271&AucID=7297&Lot=41098&Val=24ff1164381aecb312aa367707bdd428",
+      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 41098 \u2014 - A Published Seleukid Stater in Mint Stater\nSYRIA. Seleukid Kingdom. Seleukos I Nikator, 312-281 B.C. AV Stater (8.61 gms), Seleukeia on the Tigris Mint, ca. 300-290 B.C. NGC MS, Strike: 5/5 Surface:",
+      "description": "- A Published Seleukid Stater in Mint Stater\nSYRIA. Seleukid Kingdom. Seleukos I Nikator, 312-281 B.C. AV Stater (8.61 gms), Seleukeia on the Tigris Mint, ca. 300-290 B.C. NGC MS, Strike: 5/5 Surface: 3/5. Fine Style.\nTo view all items from the Koopmann Collection, click  here.\nHGC-9, 4d; SC-115.2; CSE-939 (This coin); Sunrise-170 (This coin). Obverse: Helmeted head of Athena right; Reverse: Nike standing right, holding wreath and cradling stylis; monogram below right wing. An exquisite gold S...",
+      "hammer_price_usd": 14500.0,
+      "currency_original": "USD",
+      "price_original": 14500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-31",
+      "image_url": "https://media.coinarchives.com/6f377ba929b09b447b09ff79665b7ffe/img/ponterio/238/image41098.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": true,
         "certification_url": null,
         "grading_service": "ngc"
       },

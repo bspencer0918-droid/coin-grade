@@ -8,21 +8,21 @@
   "ruler_rarity": null,
   "denomination": "AV Nomisma",
   "metal": "gold",
-  "sale_count": 8,
-  "realized_count": 8,
+  "sale_count": 10,
+  "realized_count": 10,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 1400.0,
     "max": 4600.0
   },
-  "median_price_usd": 1850.0,
-  "last_sale_date": "2026-07-05",
+  "median_price_usd": 1800.0,
+  "last_sale_date": "2026-08-31",
   "grade_distribution": {
-    "AU": 6,
+    "AU": 8,
     "MS": 2
   },
-  "thumbnail_url": "https://media.coinarchives.com/d0d421f0ead209b685346ae23571872c/img/heritage/61633/image22113.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/5f72c476d7c0134edc6db8ca83d0bed1/img/ponterio/238/image41261.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -32,6 +32,72 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-7b927b454a88",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803434&AucID=7297&Lot=41261&Val=a844a4a517d0b7c2be3326d9c9bbe072",
+      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 41261 \u2014 CONSTANTINE IX, 1042-1055. AV Histamenon Nomisma (4.32 gms), Constantinople Mint. NGC AU, Strike: 4/5 Surface: 4/5. Die Shift.\nS-1829. Obverse: Christ Pantokrator seated facing on throne; Reverse: Cro",
+      "description": "CONSTANTINE IX, 1042-1055. AV Histamenon Nomisma (4.32 gms), Constantinople Mint. NGC AU, Strike: 4/5 Surface: 4/5. Die Shift.\nS-1829. Obverse: Christ Pantokrator seated facing on throne; Reverse: Crowned facing bust of Constantine, holding labarum and globus cruciger. An attractive example of the issue, exhibiting problem-free rich golden surfaces with only a hint of obverse die shift.\n\nEx: Peter Jones M.D. Collection.\n\nEx: Kunker 288 (3/2017) Lot # 288.\n\nEx: Emporium Hamburg 38 (1997) Lot # ...",
+      "hammer_price_usd": 1650.0,
+      "currency_original": "USD",
+      "price_original": 1650.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-31",
+      "image_url": "https://media.coinarchives.com/5f72c476d7c0134edc6db8ca83d0bed1/img/ponterio/238/image41261.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-ce4bc2296934",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803435&AucID=7297&Lot=41262&Val=092f0fe4ea85111fe48f98d302d5a74f",
+      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 41262 \u2014 CONSTANTINE IX, 1042-1055. AV Histamenon Nomisma, Constantinople Mint. NGC Ch AU.\nS-1830. Obverse: Facing bust of Christ Pantokrator; Reverse: Crowned facing bust of Constantine, holding long cross an",
+      "description": "CONSTANTINE IX, 1042-1055. AV Histamenon Nomisma, Constantinople Mint. NGC Ch AU.\nS-1830. Obverse: Facing bust of Christ Pantokrator; Reverse: Crowned facing bust of Constantine, holding long cross and globus cruciger. This remarkably fresh striking is replete with silky luster unmarred by any detectable wear or post-mint defects. A fully satisfying example of the type.\n\nEstimate: 800 - 1200...",
+      "hammer_price_usd": 1800.0,
+      "currency_original": "USD",
+      "price_original": 1800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-31",
+      "image_url": "https://media.coinarchives.com/c70626a1bfacafeb1e9efc8bb6d7b7df/img/ponterio/238/image41262.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-5843da355867",
       "source": "coinarchives",
