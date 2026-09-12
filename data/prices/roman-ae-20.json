@@ -8,18 +8,18 @@
   "ruler_rarity": null,
   "denomination": "AE 20",
   "metal": "bronze",
-  "sale_count": 1,
-  "realized_count": 1,
+  "sale_count": 2,
+  "realized_count": 2,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 40.0,
+    "min": 20.0,
     "max": 40.0
   },
-  "median_price_usd": 40.0,
-  "last_sale_date": "2026-05-11",
+  "median_price_usd": 30.0,
+  "last_sale_date": "2026-08-31",
   "grade_distribution": {
-    "F": 1
+    "F": 2
   },
   "thumbnail_url": null,
   "median_weight_g": null,
@@ -43,6 +43,39 @@
       "price_original": 40.0,
       "buyers_premium_included": false,
       "sale_date": "2026-05-11",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-2427a528b68e",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/14015/antioch/12433698/syria-antioch-roman-rule-ae",
+      "title": "SYRIA. Antioch. Roman Rule. AE 20mm, dated year 13 of the Pompeian Era (54/3 B.C.). NGC Ch F. <br> RPC-I, 4213. Obverse: Laureate head of Zeus right; Reverse: Zeus seated left on throne, holding Nike and scepter; date in exergue.",
+      "description": "Stack\u2019s Bowers and Ponterio | ['Summer 2026 Global Showcase Auction']",
+      "hammer_price_usd": 20.0,
+      "currency_original": "USD",
+      "price_original": 20.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-31",
       "image_url": null,
       "ngc": {
         "verified": false,

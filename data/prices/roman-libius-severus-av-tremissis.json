@@ -33,39 +33,6 @@
   "mint_mark": null,
   "sales": [
     {
-      "id": "sixbid-dac6e847a07a",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13970/ancients-roman-imperial/12387364/libius-severus-severus-iii-western",
-      "title": "Libius Severus (Severus III), Western Roman Empire (AD 461-465). AV tremissis (14mm, 1.46 gm, 5h). NGC AU 5/5 - 2/5, edge chip. Milan. D N LIBIVS SEV-EVERVS P F AVG (AV ligate), pearl-diademed, draped, and cuirassed bust of Libius Severus right, seen from front / Cross within wreath; COMOB below. RIC X 2726.   From the Dr. Charles Jay Deur Collection, for the charitable benefit of Calvin University and Peace Lutheran Church of Hurst. Ex Classical Numismatic Group/Numismatic Ars Classica/Freeman & Sear, Triton III (30 November 1999), lot 1278; Pegasi, private sale with old dealer's tag included.    HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
-      "description": "Heritage Auctions, Inc. | ['Auction #61625']",
-      "hammer_price_usd": 2928.0,
-      "currency_original": "USD",
-      "price_original": 2928.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-08-16",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-fc54e2f6bae1",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -92,6 +59,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-dac6e847a07a",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13970/ancients-roman-imperial/12387364/libius-severus-severus-iii-western",
+      "title": "Libius Severus (Severus III), Western Roman Empire (AD 461-465). AV tremissis (14mm, 1.46 gm, 5h). NGC AU 5/5 - 2/5, edge chip. Milan. D N LIBIVS SEV-EVERVS P F AVG (AV ligate), pearl-diademed, draped, and cuirassed bust of Libius Severus right, seen from front / Cross within wreath; COMOB below. RIC X 2726.   From the Dr. Charles Jay Deur Collection, for the charitable benefit of Calvin University and Peace Lutheran Church of Hurst. Ex Classical Numismatic Group/Numismatic Ars Classica/Freeman & Sear, Triton III (30 November 1999), lot 1278; Pegasi, private sale with old dealer's tag included.    HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61625']",
+      "hammer_price_usd": 2928.0,
+      "currency_original": "USD",
+      "price_original": 2928.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

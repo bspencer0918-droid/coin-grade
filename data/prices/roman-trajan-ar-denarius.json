@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 648,
-  "realized_count": 648,
+  "sale_count": 649,
+  "realized_count": 649,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,10 +17,10 @@
     "max": 10800.0
   },
   "median_price_usd": 204.0,
-  "last_sale_date": "2026-07-28",
+  "last_sale_date": "2026-08-31",
   "grade_distribution": {
+    "F": 28,
     "VF": 253,
-    "F": 27,
     "MS": 13,
     "AU": 128,
     "XF": 225,
@@ -36,6 +36,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-4ce37e38a4c9",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/14015/mixed-lots/12434000/mixed-lots-quintet-of-mixed",
+      "title": "MIXED LOTS. Quintet of Mixed Denominations (5 Pieces), ca. A.D. 1st-6th Centuries. All NGC Certified. <br> 1) ROMAN EMPIRE. Trajan, A.D. 98-117. AR Denarius, A.D. 112-14. NGC FINE. RIC-245.<p>2) ROMAN EMPIRE. Postumus, A.D. 260-269. BI Double-Denarius. NGC Ch VF. RIC-75.</p><p>3) ROMAN EMPIRE. Licinius I, A.D. 308-324. BI Reduced Nummus. Cyzicus Mint. NGC Ch VF. RIC-15.</p><p>4) ROMAN EMPIRE. Constantine II, A.D. 337-340. BI Nummus. Nicomedia Mint. NGC Ch FINE. RIC-93.</p><p>5) OSTROGOTHS. Athalaric, A.D. 526-534. AE Nummus. NGC Ch FINE. MEC-1, 136. In the name of Justinian.</p>",
+      "description": "Stack\u2019s Bowers and Ponterio | ['Summer 2026 Global Showcase Auction']",
+      "hammer_price_usd": 150.0,
+      "currency_original": "USD",
+      "price_original": 150.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-31",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-d2ac4087a921",
       "source": "coinarchives",

@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 527,
-  "realized_count": 527,
+  "sale_count": 528,
+  "realized_count": 528,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,11 +17,11 @@
     "max": 3840.0
   },
   "median_price_usd": 186.0,
-  "last_sale_date": "2026-07-28",
+  "last_sale_date": "2026-09-11",
   "grade_distribution": {
+    "AU": 136,
     "G": 10,
     "XF": 204,
-    "AU": 135,
     "MS": 49,
     "VF": 117,
     "F": 12
@@ -36,6 +36,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-683483e4929c",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/antium-aurum/13950/ancient-coins/12361811/roman-empire-antoninus-pius-nbsp-denarius-138",
+      "title": "ROMAN EMPIRE, ANTONINUS PIUS&nbsp;<br>Denarius (138 - 161 AD), Antoninus Pius, RIC 136&nbsp;<br><br>NGC Ch AU , flan flaw | vada st\u0159\u00ed\u017eku<br><br><br>\u0158\u00cdM, ANTONINUS PIUS&nbsp;<br>Denar (138 - 161 n. l.), Antoninus Pius, RIC 136&nbsp;<br><br>NGC Ch AU , flan",
+      "description": "ANTIUM AURUM s.r.o. | ['FLOOR AUCTION XXV with Live Bidding']",
+      "hammer_price_usd": 114.15,
+      "currency_original": "USD",
+      "price_original": 114.15,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-11",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-61bf6027fce6",
       "source": "sixbid",

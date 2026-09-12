@@ -8,21 +8,21 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 201,
-  "realized_count": 201,
+  "sale_count": 202,
+  "realized_count": 202,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 39.0,
     "max": 82278.0
   },
-  "median_price_usd": 1744.2,
-  "last_sale_date": "2026-09-11",
+  "median_price_usd": 1735.875,
+  "last_sale_date": "2026-09-12",
   "grade_distribution": {
     "VF": 43,
     "F": 13,
     "XF": 54,
-    "AU": 51,
+    "AU": 52,
     "MS": 31,
     "P": 1,
     "G": 1,
@@ -50,7 +50,7 @@
       "currency_original": "USD",
       "price_original": 275.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-09-11",
+      "sale_date": "2026-09-12",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -83,7 +83,7 @@
       "currency_original": "USD",
       "price_original": 180.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-09-11",
+      "sale_date": "2026-09-12",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -116,7 +116,7 @@
       "currency_original": "USD",
       "price_original": 800.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-09-11",
+      "sale_date": "2026-09-12",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -149,7 +149,7 @@
       "currency_original": "USD",
       "price_original": 160.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-09-11",
+      "sale_date": "2026-09-12",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -182,7 +182,7 @@
       "currency_original": "USD",
       "price_original": 250.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-09-11",
+      "sale_date": "2026-09-12",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -215,7 +215,7 @@
       "currency_original": "USD",
       "price_original": 140.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-09-11",
+      "sale_date": "2026-09-12",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -248,7 +248,7 @@
       "currency_original": "USD",
       "price_original": 140.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-09-11",
+      "sale_date": "2026-09-12",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -281,7 +281,7 @@
       "currency_original": "USD",
       "price_original": 120.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-09-11",
+      "sale_date": "2026-09-12",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -353,6 +353,39 @@
         "verified": false,
         "cert_number": null,
         "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-02a58ef31b25",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/14015/louis-xv-and-earlier-through/12432225/france-ecu-d-or-nd-1515-47",
+      "title": "FRANCE. Ecu d'Or, ND (1515-47). Lyon Mint. Francis I. NGC AU-55. <br> Fr-351; Dup-889; Ciani-1091. Weight: 3.39 gms. Obverse: Crowned coat-of-arms; Reverse: Greek cross within tressure of arches with inward-facing lis on cusps.",
+      "description": "Stack\u2019s Bowers and Ponterio | ['Summer 2026 Global Showcase Auction']",
+      "hammer_price_usd": 1000.0,
+      "currency_original": "USD",
+      "price_original": 1000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-31",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,

@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Drachm",
   "metal": "silver",
-  "sale_count": 1039,
-  "realized_count": 1039,
+  "sale_count": 1040,
+  "realized_count": 1040,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,9 +17,9 @@
     "max": 40800.0
   },
   "median_price_usd": 169.0,
-  "last_sale_date": "2026-09-11",
+  "last_sale_date": "2026-09-12",
   "grade_distribution": {
-    "XF": 204,
+    "XF": 205,
     "AU": 304,
     "F": 28,
     "VF": 136,
@@ -49,7 +49,7 @@
       "currency_original": "USD",
       "price_original": 1600.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-09-11",
+      "sale_date": "2026-09-12",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -223,6 +223,39 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-2244ed942d13",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/14015/mixed-lots/12433761/mixed-lots-oriental-greek-quartet",
+      "title": "MIXED LOTS. Oriental Greek. Quartet of Silver Denominations (4 Pieces), ca. 1st Century B.C. to A.D. 8th Century. All NGC Certified. <br> 1) INDO-SKYTHIANS. Azes II, ca. 35-12 B.C. AR Drachm. NGC EF.<p></p><p>2) PERSIS. Uncertain King. AR Obol, ca. 1st Century B.C. NGC VF.</p><p></p><p>3) SASSANIAN EMPIRE. Peroz I, A.D. 457/9-484. AR Drachm. NGC VF. Brushed.</p><p></p><p>4) TABARISTAN. AR Hemidrachm, ca. 780-793. NGC Ch AU.</p>",
+      "description": "Stack\u2019s Bowers and Ponterio | ['Summer 2026 Global Showcase Auction']",
+      "hammer_price_usd": 100.0,
+      "currency_original": "USD",
+      "price_original": 100.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-31",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

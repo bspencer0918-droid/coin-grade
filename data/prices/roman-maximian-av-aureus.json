@@ -8,19 +8,19 @@
   "ruler_rarity": null,
   "denomination": "AV Aureus",
   "metal": "gold",
-  "sale_count": 33,
-  "realized_count": 33,
+  "sale_count": 34,
+  "realized_count": 34,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 2640.0,
     "max": 78000.0
   },
-  "median_price_usd": 18000.0,
-  "last_sale_date": "2026-09-01",
+  "median_price_usd": 16320.0,
+  "last_sale_date": "2026-09-11",
   "grade_distribution": {
+    "AU": 14,
     "MS": 17,
-    "AU": 13,
     "XF": 1,
     "VF": 2
   },
@@ -34,6 +34,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-424e0f910139",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/antium-aurum/13950/ancient-coins/12361812/roman-empire-maximianus-nbsp-aureus-286",
+      "title": "ROMAN EMPIRE, MAXIMIANUS&nbsp;<br>Aureus (286 - 310 AD), Maximian, Ticinum, Kamp. 120.34 &nbsp;<br><br>NGC AU , scuffs | \u0161kr\u00e1bance, Strike 5/5 , Surface 2/5  <br><br><br>\u0158\u00cdM, MAXIMIANUS&nbsp;<br>Aureus (286 - 310 n. l.), Maximianus, Ticinum, Kamp. 120.34",
+      "description": "ANTIUM AURUM s.r.o. | ['FLOOR AUCTION XXV with Live Bidding']",
+      "hammer_price_usd": 11415.0,
+      "currency_original": "USD",
+      "price_original": 11415.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-11",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-c5e668222258",
       "source": "sixbid",

@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Stater",
   "metal": "electrum",
-  "sale_count": 39,
-  "realized_count": 39,
+  "sale_count": 40,
+  "realized_count": 40,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -19,7 +19,7 @@
   "median_price_usd": 1750.0,
   "last_sale_date": "2026-09-08",
   "grade_distribution": {
-    "VF": 14,
+    "VF": 15,
     "XF": 21,
     "AU": 2,
     "F": 2
@@ -54,6 +54,39 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-664f5e2db5a7",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/14015/alexander-iii-the-great-336-323/12433605/macedon-kingdom-of-macedon-alexander",
+      "title": "MACEDON. Kingdom of Macedon. Alexander III (the Great), 336-323 B.C. Plated Stater, ca. 336-323 B.C. NGC VF. Core Visible, Marks. <br> cf. HGC 3.1, 893. An ancient forgery. Obverse: Head of Athena facing right; Reverse: Nike standing holding wreath. Core visible on reverse. <br> From the John P. Burnham Collection. <br> <strong>To view all items from the John P. Burnham Collection, click <a href=\"https://auctions.stacksbowers.com/lots?sort=auction_date_lot_number_asc&search=From+the+John+P.+Burnham+Collection.&limit=96&lots_range=upcoming\" rel=\"noopener noreferrer nofollow\"> here.</a></strong>",
+      "description": "Stack\u2019s Bowers and Ponterio | ['Summer 2026 Global Showcase Auction']",
+      "hammer_price_usd": 300.0,
+      "currency_original": "USD",
+      "price_original": 300.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-31",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

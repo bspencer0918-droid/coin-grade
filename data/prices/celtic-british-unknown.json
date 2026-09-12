@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "unknown",
-  "sale_count": 70,
-  "realized_count": 67,
+  "sale_count": 71,
+  "realized_count": 68,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,10 +17,10 @@
     "max": 371428.56
   },
   "median_price_usd": 276.0,
-  "last_sale_date": "2026-06-07",
+  "last_sale_date": "2026-08-31",
   "grade_distribution": {
     "AU": 20,
-    "MS": 14,
+    "MS": 15,
     "G": 2,
     "P": 3,
     "XF": 11,
@@ -57,6 +57,39 @@
         "grade_numeric": null,
         "strike_score": 2,
         "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-4949e30f0392",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/14015/victoria-1837-1901/12434297/great-britain-double-florin-4",
+      "title": "GREAT BRITAIN. Double Florin (4 Shillings), 1887. London Mint. Victoria. NGC MS-63. <br> S-3922; KM-763. Roman \"1\" variety.",
+      "description": "Stack\u2019s Bowers and Ponterio | ['Summer 2026 Global Showcase Auction']",
+      "hammer_price_usd": 200.0,
+      "currency_original": "USD",
+      "price_original": 200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-31",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

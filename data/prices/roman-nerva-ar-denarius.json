@@ -8,18 +8,18 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 215,
-  "realized_count": 215,
+  "sale_count": 216,
+  "realized_count": 216,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 99.0,
     "max": 4400.0
   },
-  "median_price_usd": 312.0,
-  "last_sale_date": "2026-07-28",
+  "median_price_usd": 306.0,
+  "last_sale_date": "2026-08-31",
   "grade_distribution": {
-    "VF": 98,
+    "VF": 99,
     "AU": 17,
     "MS": 1,
     "G": 1,
@@ -37,6 +37,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-2818b510140a",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/14015/roman-republic/12433773/roman-republic-p-licinius-nerva",
+      "title": "ROMAN REPUBLIC. P. Licinius Nerva. AR Denarius, Rome Mint, ca. 113-112 B.C. NGC Ch VF. <br> Cr-292/1; S-169; Syd-548. Obverse: Helmeted head of Roma facing left, holding spear and shield, monogram before, crescent above, \"ROMA\" behind; Reverse: Voting scene at the Comitium, showing two citizens voting and an attendant receiving their ballot.<p> <br> From the John P. Burnham Collection. <br> <strong>To view all items from the John P. Burnham Collection, click <a href=\"https://auctions.stacksbowers.com/lots?sort=auction_date_lot_number_asc&search=From+the+John+P.+Burnham+Collection.&limit=96&lots_range=upcoming\" rel=\"noopener noreferrer nofollow\"> here.</a></strong></p>",
+      "description": "Stack\u2019s Bowers and Ponterio | ['Summer 2026 Global Showcase Auction']",
+      "hammer_price_usd": 200.0,
+      "currency_original": "USD",
+      "price_original": 200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-31",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-9dbef93a5356",
       "source": "coinarchives",

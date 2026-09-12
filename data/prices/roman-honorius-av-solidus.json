@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 213,
-  "realized_count": 213,
+  "sale_count": 214,
+  "realized_count": 214,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -19,12 +19,12 @@
   "median_price_usd": 1080.0,
   "last_sale_date": "2026-05-13",
   "grade_distribution": {
-    "MS": 41,
+    "MS": 42,
     "XF": 61,
     "AU": 99,
     "VF": 12
   },
-  "thumbnail_url": "https://media.coinarchives.com/72350ef907db6d5b995e739640d500b4/img/heritage/61605/image23245.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/40fdb89bb9739cf1563f95bc34ae794e/img/mdc/018/image00265.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -61,6 +61,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-65ab7f2e8070",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2732487&AucID=7041&Lot=265&Val=b9ce00e3d56da5a23f1b9b2bcdc5900e",
+      "title": "MDC Monnaies de Collection sarl - Auction 18, Lot 265 \u2014 EMPIRE ROMAIN - ROMAN\nHonorius (393-423). Solidus ND (397-402), Thessalonique. NGC MS 5/5 4/5 (8585318-011).\nAv. D N HONORI - VS P F AVG. Buste casqu\u00e9 et diad\u00e9m\u00e9 de face, tenant une lance sur l'\u00e9paule",
+      "description": "EMPIRE ROMAIN - ROMAN\nHonorius (393-423). Solidus ND (397-402), Thessalonique. NGC MS 5/5 4/5 (8585318-011).\nAv. D N HONORI - VS P F AVG. Buste casqu\u00e9 et diad\u00e9m\u00e9 de face, tenant une lance sur l'\u00e9paule droite et un bouclier orn\u00e9 d'un cavalier. \nRv. CONCORDI - A AVGG / COMOB. Constantinople assise \u00e0 droite sur un tr\u00f4ne, tenant une victoriola de la main gauche, une lance de la main droite ; \u00e0 sa droite, une proue de navire (prora) avec figure de proue (stolos) en forme de t\u00eate d'aigle.\nRIC.38 ; O...",
+      "hammer_price_usd": 2808.0,
+      "currency_original": "EUR",
+      "price_original": 2600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-13",
+      "image_url": "https://media.coinarchives.com/40fdb89bb9739cf1563f95bc34ae794e/img/mdc/018/image00265.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "8585318-011",
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8585318011/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

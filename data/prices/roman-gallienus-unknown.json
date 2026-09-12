@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 320,
-  "realized_count": 320,
+  "sale_count": 321,
+  "realized_count": 321,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -22,8 +22,8 @@
     "VF": 47,
     "XF": 74,
     "AU": 81,
-    "MS": 115,
-    "F": 3
+    "F": 4,
+    "MS": 115
   },
   "thumbnail_url": "https://media.coinarchives.com/63b662b850fe7ec55dd92c3d200e7104/img/heritage/3135/image33073.jpg",
   "median_weight_g": null,
@@ -1372,6 +1372,39 @@
         "verified": false,
         "cert_number": null,
         "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-9e9e65390153",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/14015/roman-empire/12433808/roman-empire-trio-of-bi",
+      "title": "ROMAN EMPIRE. Trio of BI Antoniniani (3 Pieces), ca. A.D. 3rd Century. All NGC Certified. <br> 1) TETRICUS II AS CAESAR, A.D. 273-274. NGC FINE. RIC-270.<p></p><p>2) GALLIENUS, A.D. 253-268. NGC Ch VF. RIC-180.</p><p></p><p>3) GALLIENUS, A.D. 253-268. NGC Ch VF. RIC-164.</p>",
+      "description": "Stack\u2019s Bowers and Ponterio | ['Summer 2026 Global Showcase Auction']",
+      "hammer_price_usd": 75.0,
+      "currency_original": "USD",
+      "price_original": 75.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-31",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
