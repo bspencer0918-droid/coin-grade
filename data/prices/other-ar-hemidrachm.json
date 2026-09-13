@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Hemidrachm",
   "metal": "silver",
-  "sale_count": 116,
-  "realized_count": 116,
+  "sale_count": 119,
+  "realized_count": 119,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,15 +17,15 @@
     "max": 5760.0
   },
   "median_price_usd": 89.0,
-  "last_sale_date": "2026-07-20",
+  "last_sale_date": "2026-09-08",
   "grade_distribution": {
     "AU": 42,
+    "F": 4,
+    "VF": 19,
     "XF": 17,
-    "MS": 37,
-    "VF": 17,
-    "F": 3
+    "MS": 37
   },
-  "thumbnail_url": "https://media.coinarchives.com/e1447c074b479fc68f4b8b009cd1e8b6/img/heritage/61644/image21341.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/834ac0d36bad1c915d17c525939fb627/img/ponterio/238online/image44088.jpg",
   "median_weight_g": null,
   "top_strike_score": null,
   "top_surface_score": null,
@@ -194,6 +194,105 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-269a6c75fdfc",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803528&AucID=7298&Lot=44088&Val=8a0d574cadd55016bffd2ac32bb6e565",
+      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 44088 \u2014 AEGINA. AR Hemidrachm, ca. 525-480 B.C. NGC FINE.\nTo view all items from the John P. Burnham Collection, click  here.\nHGC-6, 447. Obverse: Turtle; Reverse: Incuse punch.\n\nFrom the John P. Burnham Coll",
+      "description": "AEGINA. AR Hemidrachm, ca. 525-480 B.C. NGC FINE.\nTo view all items from the John P. Burnham Collection, click  here.\nHGC-6, 447. Obverse: Turtle; Reverse: Incuse punch.\n\nFrom the John P. Burnham Collection.\n\nEstimate: 150 - 250...",
+      "hammer_price_usd": 420.0,
+      "currency_original": "USD",
+      "price_original": 420.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-08",
+      "image_url": "https://media.coinarchives.com/834ac0d36bad1c915d17c525939fb627/img/ponterio/238online/image44088.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-46b11c5dd869",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803529&AucID=7298&Lot=44089&Val=9fb0028073530dccd59027a90a7cc445",
+      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 44089 \u2014 AEGINA. AR Hemidrachm, ca. 480-457 B.C. NGC VF.\nTo view all items from the John P. Burnham Collection, click  here.\nHGC-6, 448. Obverse: Turtle; Reverse: Incuse punch.\n\nFrom the John P. Burnham Collec",
+      "description": "AEGINA. AR Hemidrachm, ca. 480-457 B.C. NGC VF.\nTo view all items from the John P. Burnham Collection, click  here.\nHGC-6, 448. Obverse: Turtle; Reverse: Incuse punch.\n\nFrom the John P. Burnham Collection.\n\nEstimate: 250 - 400...",
+      "hammer_price_usd": 440.0,
+      "currency_original": "USD",
+      "price_original": 440.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-08",
+      "image_url": "https://media.coinarchives.com/0c0b73eff2e707e02c632e59a0099228/img/ponterio/238online/image44089.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-04378d549721",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803534&AucID=7298&Lot=44094&Val=d408edb4dbdde66efc1a06a694b66904",
+      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 44094 \u2014 PELOPONNESOS. Arkadian League. Mantineia. AR Hemidrachm (2.92 gms), ca. 470-450 B.C. NGC VF, Strike: 5/5 Surface: 3/5.\nTo view all items from the John P. Burnham Collection, click  here.\nHGC-5, 912; W",
+      "description": "PELOPONNESOS. Arkadian League. Mantineia. AR Hemidrachm (2.92 gms), ca. 470-450 B.C. NGC VF, Strike: 5/5 Surface: 3/5.\nTo view all items from the John P. Burnham Collection, click  here.\nHGC-5, 912; Williams-112. Obverse: Zeus seated left on throne, holding scepter extending arm from which eagle flies; Reverse: Head of Kallisto right, wearing tainia; all within incuse square. NGC slab has incorrect denomination.\n\nFrom the John P. Burnham Collection.\n\nEx: Coin Galleries (3/1977), Lot # 435 (par...",
+      "hammer_price_usd": 1900.0,
+      "currency_original": "USD",
+      "price_original": 1900.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-08",
+      "image_url": "https://media.coinarchives.com/0053841efbbba87c1c5fed568488bce2/img/ponterio/238online/image44094.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

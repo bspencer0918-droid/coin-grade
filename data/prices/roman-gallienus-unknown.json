@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 321,
-  "realized_count": 321,
+  "sale_count": 323,
+  "realized_count": 323,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,12 +17,12 @@
     "max": 19000.0
   },
   "median_price_usd": 99.0,
-  "last_sale_date": "2026-09-01",
+  "last_sale_date": "2026-09-08",
   "grade_distribution": {
     "VF": 47,
-    "XF": 74,
+    "XF": 75,
     "AU": 81,
-    "F": 4,
+    "F": 5,
     "MS": 115
   },
   "thumbnail_url": "https://media.coinarchives.com/63b662b850fe7ec55dd92c3d200e7104/img/heritage/3135/image33073.jpg",
@@ -2366,6 +2366,72 @@
         "strike_score": 5,
         "surface_score": 2,
         "details_grade": "Scratche",
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-05ed18daa11d",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803782&AucID=7298&Lot=44342&Val=d6986829aa6526754198923bcffb8ac4",
+      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 44342 \u2014 GALLIENUS A.D. 253-268. Quartet of BI Antoniniani (4 Pieces), Rome Mint. All NGC Certified.\n1) NGC Ch EF. RIC-236.\n\n2) NGC Ch EF. RIC-165.\n\n3) NGC FINE. Ex: English Bicknor Hoard.\n\n4) NGC VF. RIC-49.\n",
+      "description": "GALLIENUS A.D. 253-268. Quartet of BI Antoniniani (4 Pieces), Rome Mint. All NGC Certified.\n1) NGC Ch EF. RIC-236.\n\n2) NGC Ch EF. RIC-165.\n\n3) NGC FINE. Ex: English Bicknor Hoard.\n\n4) NGC VF. RIC-49.\n\nEstimate: 100 - 200...",
+      "hammer_price_usd": 200.0,
+      "currency_original": "USD",
+      "price_original": 200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-08",
+      "image_url": "https://media.coinarchives.com/6185da83fb7252d1f0970b55e61c603b/img/ponterio/238online/image44342.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-b11db801128a",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803672&AucID=7298&Lot=44232&Val=01aad4ad1e49ed9c8e230b1bc580911f",
+      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 44232 \u2014 ROMAN EMPIRE. Trio of BI Antoniniani (3 Pieces), ca. A.D. 3rd Century. All NGC Certified.\n1) TETRICUS II AS CAESAR, A.D. 273-274. NGC FINE. RIC-270.\n\n2) GALLIENUS, A.D. 253-268. NGC Ch VF. RIC-180.\n\n3",
+      "description": "ROMAN EMPIRE. Trio of BI Antoniniani (3 Pieces), ca. A.D. 3rd Century. All NGC Certified.\n1) TETRICUS II AS CAESAR, A.D. 273-274. NGC FINE. RIC-270.\n\n2) GALLIENUS, A.D. 253-268. NGC Ch VF. RIC-180.\n\n3) GALLIENUS, A.D. 253-268. NGC Ch VF. RIC-164.\n\nEstimate: 75 - 150...",
+      "hammer_price_usd": 100.0,
+      "currency_original": "USD",
+      "price_original": 100.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-08",
+      "image_url": "https://media.coinarchives.com/5a3f23e4e57192cb2d407ab15e73ec0a/img/ponterio/238online/image44232.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
         "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"

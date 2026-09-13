@@ -8,23 +8,23 @@
   "ruler_rarity": null,
   "denomination": "AR Obol",
   "metal": "silver",
-  "sale_count": 53,
-  "realized_count": 51,
+  "sale_count": 55,
+  "realized_count": 53,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 47.0,
     "max": 1920.0
   },
-  "median_price_usd": 132.0,
-  "last_sale_date": "2026-08-31",
+  "median_price_usd": 138.0,
+  "last_sale_date": "2026-09-08",
   "grade_distribution": {
-    "VF": 14,
+    "VF": 15,
+    "F": 5,
     "G": 3,
     "XF": 19,
     "MS": 1,
-    "AU": 12,
-    "F": 4
+    "AU": 12
   },
   "thumbnail_url": "https://media.coinarchives.com/13b435dc57f29e4651efe07bc6ee5020/img/ponterio/238/image41070.jpg",
   "median_weight_g": null,
@@ -49,6 +49,72 @@
       "buyers_premium_included": false,
       "sale_date": "2026-08-31",
       "image_url": "https://media.coinarchives.com/13b435dc57f29e4651efe07bc6ee5020/img/ponterio/238/image41070.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-564e051eaeda",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803530&AucID=7298&Lot=44090&Val=a41c80ca30df1e2ef61186de958703aa",
+      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 44090 \u2014 AEGINA. AR Obol, ca. 480-457 B.C. NGC Ch FINE.\nTo view all items from the John P. Burnham Collection, click  here.\nHGC-6, 450. Obverse: Turtle; Reverse: Incuse punch.\n\nFrom the John P. Burnham Collect",
+      "description": "AEGINA. AR Obol, ca. 480-457 B.C. NGC Ch FINE.\nTo view all items from the John P. Burnham Collection, click  here.\nHGC-6, 450. Obverse: Turtle; Reverse: Incuse punch.\n\nFrom the John P. Burnham Collection.\n\nEstimate: 300 - 500...",
+      "hammer_price_usd": 650.0,
+      "currency_original": "USD",
+      "price_original": 650.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-08",
+      "image_url": "https://media.coinarchives.com/7d0d2d21f148848841f1774723df4d69/img/ponterio/238online/image44090.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-80db615f9b9a",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803531&AucID=7298&Lot=44091&Val=13d04f4a5823665d5b9e00704842ee83",
+      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 44091 \u2014 AEGINA. AR Obol, ca. 350-338 B.C. NGC VF.\nTo view all items from the John P. Burnham Collection, click  here.\nHGC-6, 452. Obverse: Tortoise; Reverse: Incuse punch with letters in upper two squares.\n\nF",
+      "description": "AEGINA. AR Obol, ca. 350-338 B.C. NGC VF.\nTo view all items from the John P. Burnham Collection, click  here.\nHGC-6, 452. Obverse: Tortoise; Reverse: Incuse punch with letters in upper two squares.\n\nFrom the John P. Burnham Collection.\n\nEstimate: 300 - 500...",
+      "hammer_price_usd": 800.0,
+      "currency_original": "USD",
+      "price_original": 800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-08",
+      "image_url": "https://media.coinarchives.com/f182851acd5a52c4740aaf34f1a4a15b/img/ponterio/238online/image44091.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,
