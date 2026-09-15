@@ -19,10 +19,10 @@
   "median_price_usd": 169.0,
   "last_sale_date": "2026-07-28",
   "grade_distribution": {
-    "AU": 236,
     "MS": 53,
     "XF": 183,
     "VF": 37,
+    "AU": 236,
     "F": 1
   },
   "thumbnail_url": "https://media.coinarchives.com/c95abd0c071fed0869da385ce76b7413/img/heritage/61635/image23140.jpg",
@@ -35,39 +35,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-88bcea0f2ca3",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13634/ancients-roman-imperial/12049084/julia-soaemias-ad-218-222-ar",
-      "title": "Julia Soaemias (AD 218-222). AR denarius (21mm, 3.35 gm, 1h). NGC AU 4/5 - 3/5, brushed, flan flaw. Rome. IVLIA SOAEMIAS AVG, draped bust of Julia Soaemias right, seen from front, hair waved and tucked in small chignon at base of head / VENVS CAE-LESTIS, Venus enthroned left, apple in outstretched right hand, grounded scepter in left; Cupid standing right at feet before, reaching up towards Venus. RIC IV.II (Elagabalus) 241.  Ex, Ancient Byways, private sale with old dealer's tag included.  Julia Soaemias was the daughter of Julia Maesa and maternal cousin of Caracalla and Geta. In AD 217 when Caracalla was murdered, Macrinus allowed Julia Soaemias and her family - including Elagabalus, Julia Mamaea, and Severus Alexander - to return to their hometown of Emesa, Syria along with their riches. Back in Emesa, her son ascended as the chief priest of the Syrian deity, Elagabalus, his posthumous namesake. It wasn't until Macrinus's demise that Julia Soaemias and her family returned to power in Rome. When her son was installed as emperor, she became Augusta. She tried to manage Elagabalus during his tumultuous tenure as emperor but failed to do so. She was killed along with him by the Praetorian Guard in AD 222 and subsequently struck from all records under an order of damnatio memoriae.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
-      "description": "Heritage Auctions, Inc. | ['Auction #61605']",
-      "hammer_price_usd": 180.0,
-      "currency_original": "USD",
-      "price_original": 180.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-15",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-13bd2e78f5eb",
       "source": "coinarchives",
@@ -194,6 +161,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-88bcea0f2ca3",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13634/ancients-roman-imperial/12049084/julia-soaemias-ad-218-222-ar",
+      "title": "Julia Soaemias (AD 218-222). AR denarius (21mm, 3.35 gm, 1h). NGC AU 4/5 - 3/5, brushed, flan flaw. Rome. IVLIA SOAEMIAS AVG, draped bust of Julia Soaemias right, seen from front, hair waved and tucked in small chignon at base of head / VENVS CAE-LESTIS, Venus enthroned left, apple in outstretched right hand, grounded scepter in left; Cupid standing right at feet before, reaching up towards Venus. RIC IV.II (Elagabalus) 241.  Ex, Ancient Byways, private sale with old dealer's tag included.  Julia Soaemias was the daughter of Julia Maesa and maternal cousin of Caracalla and Geta. In AD 217 when Caracalla was murdered, Macrinus allowed Julia Soaemias and her family - including Elagabalus, Julia Mamaea, and Severus Alexander - to return to their hometown of Emesa, Syria along with their riches. Back in Emesa, her son ascended as the chief priest of the Syrian deity, Elagabalus, his posthumous namesake. It wasn't until Macrinus's demise that Julia Soaemias and her family returned to power in Rome. When her son was installed as emperor, she became Augusta. She tried to manage Elagabalus during his tumultuous tenure as emperor but failed to do so. She was killed along with him by the Praetorian Guard in AD 222 and subsequently struck from all records under an order of damnatio memoriae.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61605']",
+      "hammer_price_usd": 180.0,
+      "currency_original": "USD",
+      "price_original": 180.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-15",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

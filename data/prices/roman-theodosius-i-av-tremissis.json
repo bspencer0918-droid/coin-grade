@@ -36,39 +36,6 @@
   "mint_mark": null,
   "sales": [
     {
-      "id": "sixbid-98dd711ede9a",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13634/ancients-roman-imperial/12049194/theodosius-ii-eastern-roman-empire",
-      "title": "Theodosius II, Eastern Roman Empire (AD 402-450). AV tremissis (14mm, 1.45 gm, 5h). NGC AU 4/5 - 3/5, flan flaw, clipped. Constantinople. D N THEODO-SIVS P F AVG, pearl-diademed, draped, and cuirassed bust of Theodosius II right, seen from front / VICTORIA-AVG-VSTORVM, Victory advancing to front, head left, wreath in outstretched right hand, globus cruciger in outstretched left hand; star in right field, CONOB in exergue. RIC X 213 or 249.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
-      "description": "Heritage Auctions, Inc. | ['Auction #61605']",
-      "hammer_price_usd": 800.0,
-      "currency_original": "USD",
-      "price_original": 800.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-03-15",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 3,
-        "details_grade": "Clipped",
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "sixbid-c143ff201eb1",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -128,6 +95,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-98dd711ede9a",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13634/ancients-roman-imperial/12049194/theodosius-ii-eastern-roman-empire",
+      "title": "Theodosius II, Eastern Roman Empire (AD 402-450). AV tremissis (14mm, 1.45 gm, 5h). NGC AU 4/5 - 3/5, flan flaw, clipped. Constantinople. D N THEODO-SIVS P F AVG, pearl-diademed, draped, and cuirassed bust of Theodosius II right, seen from front / VICTORIA-AVG-VSTORVM, Victory advancing to front, head left, wreath in outstretched right hand, globus cruciger in outstretched left hand; star in right field, CONOB in exergue. RIC X 213 or 249.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61605']",
+      "hammer_price_usd": 800.0,
+      "currency_original": "USD",
+      "price_original": 800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-03-15",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": "Clipped",
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
