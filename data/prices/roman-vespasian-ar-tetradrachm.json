@@ -19,55 +19,22 @@
   "median_price_usd": 172.0,
   "last_sale_date": "2026-04-13",
   "grade_distribution": {
-    "AU": 4,
     "F": 13,
+    "AU": 4,
     "XF": 3,
     "VF": 15,
     "VG": 2
   },
   "thumbnail_url": "https://media.coinarchives.com/d7020b3d2f561cc6d1d6f53662bb9b33/img/heritage/61609/image23003.jpg",
   "median_weight_g": null,
-  "top_strike_score": 4,
-  "top_surface_score": 4,
+  "top_strike_score": null,
+  "top_surface_score": null,
   "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-ba954b331cdc",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13531/bar-kochba-revolt-a-d-132-135/11952883/judaea-bar-kochba-revolt-132-135",
-      "title": "JUDAEA. Bar Kochba Revolt, 132-135 C.E. AR Sela (Tetrarachm) (14.45 gms), Jerusalem Mint, attributed to year 3 (134/5 C.E.). NGC Ch AU, Strike: 4/5 Surface: 4/5. Overstruck, Light Marks. <br> Mildenberg-91 (O17/R70); Meshorer-269c; Hendin-6441. Obverse: Facade of the Jerusalem Temple, containing showbread table; \"Simon\" around; Reverse: Lulav; etrog to left; \"for the freedom of Israel\" around. Overstruck on a Roman provincial Tetradrachm of Vespasian, with the emperor's silhouette still faintly visible. An exceedingly well-struck and attractive example, showcasing fresh detail throughout. Impressive surface quality sporting a light tone with an understated lustrous sheen that makes the coin easily among the more beautiful examples a collector could hope to encounter.",
-      "description": "Stack\u2019s Bowers and Ponterio | ['January 2026 NYINC Showcase Auction']",
-      "hammer_price_usd": 7000.0,
-      "currency_original": "USD",
-      "price_original": 7000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-01-16",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-f6af02809e03",
       "source": "coinarchives",
@@ -95,6 +62,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-ba954b331cdc",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/13531/bar-kochba-revolt-a-d-132-135/11952883/judaea-bar-kochba-revolt-132-135",
+      "title": "JUDAEA. Bar Kochba Revolt, 132-135 C.E. AR Sela (Tetrarachm) (14.45 gms), Jerusalem Mint, attributed to year 3 (134/5 C.E.). NGC Ch AU, Strike: 4/5 Surface: 4/5. Overstruck, Light Marks. <br> Mildenberg-91 (O17/R70); Meshorer-269c; Hendin-6441. Obverse: Facade of the Jerusalem Temple, containing showbread table; \"Simon\" around; Reverse: Lulav; etrog to left; \"for the freedom of Israel\" around. Overstruck on a Roman provincial Tetradrachm of Vespasian, with the emperor's silhouette still faintly visible. An exceedingly well-struck and attractive example, showcasing fresh detail throughout. Impressive surface quality sporting a light tone with an understated lustrous sheen that makes the coin easily among the more beautiful examples a collector could hope to encounter.",
+      "description": "Stack\u2019s Bowers and Ponterio | ['January 2026 NYINC Showcase Auction']",
+      "hammer_price_usd": 7000.0,
+      "currency_original": "USD",
+      "price_original": 7000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-01-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

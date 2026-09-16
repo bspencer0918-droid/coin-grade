@@ -202,39 +202,6 @@
       }
     },
     {
-      "id": "coinarchives-f25497b817c0",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2730648&AucID=7035&Lot=21250&Val=071834e083e73b1fb4c108be76938357",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61611, Lot 21250 \u2014 Ancients\nEGYPT. Alexandria. Trajan (AD 98-117). BI tetradrachm (25mm, 12.98 gm, 1h). NGC XF 5/5 - 4/5. Dated Regnal Year 5 (AD 101/102). AVT KAIC NEP-TPAIAN C\u0404B \u0393EPM, laureate head of Trajan right / E",
-      "description": "Ancients\nEGYPT. Alexandria. Trajan (AD 98-117). BI tetradrachm (25mm, 12.98 gm, 1h). NGC XF 5/5 - 4/5. Dated Regnal Year 5 (AD 101/102). AVT KAIC NEP-TPAIAN C\u0404B \u0393EPM, laureate head of Trajan right / Eagle standing right, wings closed; L-E (date) across fields. RPC III 4147.\n\nMarcus Ulpius Trajanus, better known as Trajan, carved his name in history as one of ancient Rome's most illustrious emperors, renowned for his military prowess and strategic brilliance. Born the son of a prominent Roman s...",
-      "hammer_price_usd": 380.0,
-      "currency_original": "USD",
-      "price_original": 380.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-04-06",
-      "image_url": "https://media.coinarchives.com/24c5d9419a8d854ff061d66373720770/img/heritage/61611/image21250.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-8c6910904355",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -318,6 +285,39 @@
         "cert_number": null,
         "grade": "F",
         "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-f25497b817c0",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2730648&AucID=7035&Lot=21250&Val=071834e083e73b1fb4c108be76938357",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61611, Lot 21250 \u2014 Ancients\nEGYPT. Alexandria. Trajan (AD 98-117). BI tetradrachm (25mm, 12.98 gm, 1h). NGC XF 5/5 - 4/5. Dated Regnal Year 5 (AD 101/102). AVT KAIC NEP-TPAIAN C\u0404B \u0393EPM, laureate head of Trajan right / E",
+      "description": "Ancients\nEGYPT. Alexandria. Trajan (AD 98-117). BI tetradrachm (25mm, 12.98 gm, 1h). NGC XF 5/5 - 4/5. Dated Regnal Year 5 (AD 101/102). AVT KAIC NEP-TPAIAN C\u0404B \u0393EPM, laureate head of Trajan right / Eagle standing right, wings closed; L-E (date) across fields. RPC III 4147.\n\nMarcus Ulpius Trajanus, better known as Trajan, carved his name in history as one of ancient Rome's most illustrious emperors, renowned for his military prowess and strategic brilliance. Born the son of a prominent Roman s...",
+      "hammer_price_usd": 380.0,
+      "currency_original": "USD",
+      "price_original": 380.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-06",
+      "image_url": "https://media.coinarchives.com/24c5d9419a8d854ff061d66373720770/img/heritage/61611/image21250.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,

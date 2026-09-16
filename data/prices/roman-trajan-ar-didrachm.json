@@ -8,18 +8,18 @@
   "ruler_rarity": null,
   "denomination": "AR Didrachm",
   "metal": "silver",
-  "sale_count": 7,
-  "realized_count": 7,
+  "sale_count": 8,
+  "realized_count": 8,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 124.0,
     "max": 463.0
   },
-  "median_price_usd": 207.0,
+  "median_price_usd": 233.5,
   "last_sale_date": "2026-08-16",
   "grade_distribution": {
-    "F": 4,
+    "F": 5,
     "VF": 3
   },
   "thumbnail_url": "https://media.coinarchives.com/43c4c737ed5c4e022143c93b98f4da22/img/heritage/61626/image23088.jpg",
@@ -184,6 +184,39 @@
         "grade_numeric": null,
         "strike_score": 4,
         "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-f37051660073",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2789610&AucID=7257&Lot=22048&Val=bfab5e4c2af6f5906b39ca7e538ff25c",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61625, Lot 22048 \u2014 Ancients\nCAPPADOCIA. Caesarea. Trajan (AD 98-117). AR didrachm (22mm, 6.73 gm, 7h). NGC Fine 5/5 - 4/5. AD 112-114. \u0391\u03a5\u03a4\u039f\u039a\u03a1 \u039a\u0391\u0399\u03f9 \u039d\u0395\u03a1 \u03a4\u03a1\u0391\u0399\u0391\u039d\u039f\u03f9 \u03f9\u0395\u0392 \u0393\u0395\u03a1\u039c \u0394\u0391\u039a, laureate, draped bust of Trajan right, seen f",
+      "description": "Ancients\nCAPPADOCIA. Caesarea. Trajan (AD 98-117). AR didrachm (22mm, 6.73 gm, 7h). NGC Fine 5/5 - 4/5. AD 112-114. \u0391\u03a5\u03a4\u039f\u039a\u03a1 \u039a\u0391\u0399\u03f9 \u039d\u0395\u03a1 \u03a4\u03a1\u0391\u0399\u0391\u039d\u039f\u03f9 \u03f9\u0395\u0392 \u0393\u0395\u03a1\u039c \u0394\u0391\u039a, laureate, draped bust of Trajan right, seen from behind / \u0394\u0397\u039c\u0391\u03a1\u03a7 \u0395\u039e \u03a5\u03a0\u0391\u03a4\u039f \u03da, female bust (Artemis?) left, in chiton, spear in right hand, patera in left hand. RPC III 3004.\n\nFrom the Dr. Charles Jay Deur Collection, for the charitable benefit of Calvin University and Peace Lutheran Church of Hurst. Collectors ticket included.\n\nMarcus Ulpius ...",
+      "hammer_price_usd": 260.0,
+      "currency_original": "USD",
+      "price_original": 260.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-16",
+      "image_url": "https://media.coinarchives.com/cf88a945404ac9cbb8710db8e9f9f2ab/img/heritage/61625/image22048.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
