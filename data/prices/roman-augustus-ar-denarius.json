@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 1327,
-  "realized_count": 1327,
+  "sale_count": 1329,
+  "realized_count": 1329,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,11 +17,11 @@
     "max": 33600.0
   },
   "median_price_usd": 492.0,
-  "last_sale_date": "2026-09-01",
+  "last_sale_date": "2026-09-14",
   "grade_distribution": {
+    "F": 168,
     "VG": 41,
     "VF": 492,
-    "F": 166,
     "MS": 40,
     "XF": 394,
     "AU": 191,
@@ -37,6 +37,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-e6126a63efc6",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/14048/ancientcoin-octavian/12462797/september-2026-world-premier-collectors",
+      "title": "September 2026 World Premier Collectors Choice Auction - Ancients, World Coins & Paper Money <br> OCTAVIAN. AR Denarius (3.60 gms), Military Mint traveling with Octavian in Italy. Q. Salvius, moneyer, 40 B.C. NGC Ch F, Strike: 5/5 Surface: 2/5. Graffito, Banker's Marks. <br> Cr-523/1a; CRI-300; Syd-1326b. Obverse: Bare head right, wearing slight beard; Reverse: Winged thunderbolt. <br> Ex: Baldwin's of St. James's 48 (9/2020), Lot # 520. <br> NGC CHOICE ALMOST UNCIRCULATED, Strike: 5/5 Surface: 2/5. Graffito, Banker's Marks.",
+      "description": "Stack\u2019s Bowers and Ponterio | ['September 2026 World Premier Collectors Choice Auction \u2013 Ancient, World Coins & Paper Money Schedule']",
+      "hammer_price_usd": 400.0,
+      "currency_original": "USD",
+      "price_original": 400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-14",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": "Banker'S Mark",
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-8517a9722c58",
       "source": "sixbid",
@@ -91,6 +124,39 @@
         "strike_score": 4,
         "surface_score": 4,
         "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-f5f60066cd95",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2811131&AucID=7319&Lot=73068&Val=becbc1fe0350628d541d53df46761fa6",
+      "title": "Stack's Bowers Galleries (& Ponterio) - September 2026 World CCO Auction, Lot 73068 \u2014 OCTAVIAN. AR Denarius (3.60 gms), Military Mint traveling with Octavian in Italy. Q. Salvius, moneyer, 40 B.C. NGC Ch F, Strike: 5/5 Surface: 2/5. Graffito, Banker's Marks.\nNGC CHOICE ALMOST UNCIRCULA",
+      "description": "OCTAVIAN. AR Denarius (3.60 gms), Military Mint traveling with Octavian in Italy. Q. Salvius, moneyer, 40 B.C. NGC Ch F, Strike: 5/5 Surface: 2/5. Graffito, Banker's Marks.\nNGC CHOICE ALMOST UNCIRCULATED, Strike: 5/5 Surface: 2/5. Graffito, Banker's Marks.\nCr-523/1a; CRI-300; Syd-1326b. Obverse: Bare head right, wearing slight beard; Reverse: Winged thunderbolt.\n\nEx: Baldwin's of St. James's 48 (9/2020), Lot # 520.\n\nEstimate: 400 - 600...",
+      "hammer_price_usd": 380.0,
+      "currency_original": "USD",
+      "price_original": 380.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-14",
+      "image_url": "https://media.coinarchives.com/66d5591eca26378c915e5ce4dea1a8b7/img/ponterio/cco_sep26/image73068.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": "Banker'S Mark",
         "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"

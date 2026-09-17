@@ -7,9 +7,9 @@
   "ruler_dates": "AD 244\u2013249",
   "ruler_rarity": null,
   "denomination": "Unknown",
-  "metal": "silver",
-  "sale_count": 870,
-  "realized_count": 869,
+  "metal": "unknown",
+  "sale_count": 871,
+  "realized_count": 870,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,14 +17,14 @@
     "max": 470476.2
   },
   "median_price_usd": 139.0,
-  "last_sale_date": "2026-08-02",
+  "last_sale_date": "2026-09-14",
   "grade_distribution": {
+    "F": 10,
     "G": 5,
     "AU": 380,
     "MS": 331,
     "XF": 105,
-    "VF": 40,
-    "F": 9
+    "VF": 40
   },
   "thumbnail_url": "https://media.coinarchives.com/ebdddd230acc338a2990669e2fffd644/img/heritage/61635/image23195.jpg",
   "median_weight_g": null,
@@ -36,6 +36,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-418ce5315244",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/14048/worldcoin-spanish-netherlands/12464290/september-2026-world-premier-collectors",
+      "title": "September 2026 World Premier Collectors Choice Auction - Ancients, World Coins & Paper Money <br> SPANISH NETHERLANDS. Duo of Mixed Denominations (2 Pieces), 1622. Philip IV. Both NGC Certified. <br> 1) Brabant. Escalin. Antwerp Mint. NGC FINE-12. KM-52.1.<p>2) Burgundy. 1/32 Patagon. Dole Mint. NGC FINE-15. Vanhoudt-664. Weight: 1.97 gms.</p>",
+      "description": "Stack\u2019s Bowers and Ponterio | ['September 2026 World Premier Collectors Choice Auction \u2013 Ancient, World Coins & Paper Money Schedule']",
+      "hammer_price_usd": 80.0,
+      "currency_original": "USD",
+      "price_original": 80.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-14",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-122244ca851f",
       "source": "sixbid",

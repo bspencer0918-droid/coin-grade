@@ -8,20 +8,20 @@
   "ruler_rarity": null,
   "denomination": "AR Drachm",
   "metal": "silver",
-  "sale_count": 21,
-  "realized_count": 21,
+  "sale_count": 22,
+  "realized_count": 22,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 186.0,
+    "min": 100.0,
     "max": 1320.0
   },
   "median_price_usd": 700.0,
-  "last_sale_date": "2026-09-08",
+  "last_sale_date": "2026-09-14",
   "grade_distribution": {
+    "XF": 3,
     "MS": 14,
     "VF": 3,
-    "XF": 2,
     "AU": 2
   },
   "thumbnail_url": "https://media.coinarchives.com/749c39ecd6db88530ac96a97c2b39df4/img/ponterio/238online/image44042.jpg",
@@ -34,6 +34,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-5d1d6d15e70f",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/14048/ancientcoin-rhodes/12462766/september-2026-world-premier-collectors",
+      "title": "September 2026 World Premier Collectors Choice Auction - Ancients, World Coins & Paper Money <br> CARIA. Islands off Caria. Rhodes. AR Drachm, ca. 188-84 B.C. NGC Ch EF. <br> HGC-6, 1461. Philostratos, magistrate. Obverse: Radiate head of Helios right; Reverse: Rose with bud to left; headdress of Isis to lower right; all within incuse square.<p> <br> NGC Ch EF.</p>",
+      "description": "Stack\u2019s Bowers and Ponterio | ['September 2026 World Premier Collectors Choice Auction \u2013 Ancient, World Coins & Paper Money Schedule']",
+      "hammer_price_usd": 100.0,
+      "currency_original": "USD",
+      "price_original": 100.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-14",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-01e536a6efe0",
       "source": "coinarchives",

@@ -8,8 +8,8 @@
   "ruler_rarity": "scarce",
   "denomination": "Unknown",
   "metal": "gold",
-  "sale_count": 169,
-  "realized_count": 169,
+  "sale_count": 171,
+  "realized_count": 171,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,15 +17,15 @@
     "max": 3800.0
   },
   "median_price_usd": 504.0,
-  "last_sale_date": "2026-07-05",
+  "last_sale_date": "2026-09-14",
   "grade_distribution": {
+    "VF": 21,
     "AU": 80,
     "MS": 35,
     "XF": 33,
-    "VF": 19,
     "F": 2
   },
-  "thumbnail_url": "https://media.coinarchives.com/6d33a6f7270752967758d7c8d064e875/img/heritage/61633/image22131.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/ad09a8da1e0f31d6b78a19e5988d33f3/img/ponterio/cco_sep26/image73115.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 2,
@@ -35,6 +35,72 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-4379960b6b89",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/14048/ancientcoin-john-iii-of-nicaea/12462844/september-2026-world-premier-collectors",
+      "title": "September 2026 World Premier Collectors Choice Auction - Ancients, World Coins & Paper Money <br> JOHN III (OF NICAEA), 1222-1254. AV Hyperpyron (3.87 gms), Magnesia Mint, ca. 1232-1254. NGC Ch VF, Strike: 4/5 Surface: 2/5. Brushed, Clipped, Graffito. <br> S-2073. Obverse: Christ Pantokrator seated facing on throne; Reverse: John standing facing, holding labarum and akakia, and being crowned by the Theotokos to right. <br> NGC Ch VF, Strike: 4/5 Surface: 2/5. Brushed, Clipped, Graffito.",
+      "description": "Stack\u2019s Bowers and Ponterio | ['September 2026 World Premier Collectors Choice Auction \u2013 Ancient, World Coins & Paper Money Schedule']",
+      "hammer_price_usd": 400.0,
+      "currency_original": "USD",
+      "price_original": 400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-14",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": "Graffito",
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-588837af407a",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2811178&AucID=7319&Lot=73115&Val=8e4d73db70667132628133239249dbdb",
+      "title": "Stack's Bowers Galleries (& Ponterio) - September 2026 World CCO Auction, Lot 73115 \u2014 JOHN III (OF NICAEA), 1222-1254. AV Hyperpyron (3.87 gms), Magnesia Mint, ca. 1232-1254. NGC Ch VF, Strike: 4/5 Surface: 2/5. Brushed, Clipped, Graffito.\nNGC Ch VF, Strike: 4/5 Surface: 2/5. Brushed, ",
+      "description": "JOHN III (OF NICAEA), 1222-1254. AV Hyperpyron (3.87 gms), Magnesia Mint, ca. 1232-1254. NGC Ch VF, Strike: 4/5 Surface: 2/5. Brushed, Clipped, Graffito.\nNGC Ch VF, Strike: 4/5 Surface: 2/5. Brushed, Clipped, Graffito.\nS-2073. Obverse: Christ Pantokrator seated facing on throne; Reverse: John standing facing, holding labarum and akakia, and being crowned by the Theotokos to right.\n\nEstimate: 400 - 600...",
+      "hammer_price_usd": 600.0,
+      "currency_original": "USD",
+      "price_original": 600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-14",
+      "image_url": "https://media.coinarchives.com/ad09a8da1e0f31d6b78a19e5988d33f3/img/ponterio/cco_sep26/image73115.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": "Graffito",
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-8062d7a3a357",
       "source": "coinarchives",

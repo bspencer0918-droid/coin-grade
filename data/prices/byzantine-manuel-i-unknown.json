@@ -7,19 +7,19 @@
   "ruler_dates": "AD 1143\u20131180",
   "ruler_rarity": "common",
   "denomination": "Unknown",
-  "metal": "silver",
-  "sale_count": 65,
-  "realized_count": 65,
+  "metal": "unknown",
+  "sale_count": 66,
+  "realized_count": 66,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 45.91,
     "max": 3400.0
   },
-  "median_price_usd": 480.0,
-  "last_sale_date": "2026-07-05",
+  "median_price_usd": 475.0,
+  "last_sale_date": "2026-09-14",
   "grade_distribution": {
-    "XF": 19,
+    "XF": 20,
     "G": 1,
     "MS": 7,
     "AU": 31,
@@ -35,6 +35,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-e7923a7578bf",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/14048/worldcoin-portuguese-india/12463893/september-2026-world-premier-collectors",
+      "title": "September 2026 World Premier Collectors Choice Auction - Ancients, World Coins & Paper Money <br> INDIA. Portuguese India. Bastardo, ND (1512-21). Manuel I. NGC EF Details--Environmental Damage. <br> Gomes-21.01.",
+      "description": "Stack\u2019s Bowers and Ponterio | ['September 2026 World Premier Collectors Choice Auction \u2013 Ancient, World Coins & Paper Money Schedule']",
+      "hammer_price_usd": 60.0,
+      "currency_original": "USD",
+      "price_original": 60.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-14",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-4c9ad360c0dc",
       "source": "coinarchives",

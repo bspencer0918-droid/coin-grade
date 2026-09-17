@@ -7,22 +7,22 @@
   "ruler_dates": null,
   "ruler_rarity": null,
   "denomination": "AR Obol",
-  "metal": "silver",
-  "sale_count": 55,
-  "realized_count": 53,
+  "metal": "unknown",
+  "sale_count": 56,
+  "realized_count": 54,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 47.0,
     "max": 1920.0
   },
-  "median_price_usd": 138.0,
-  "last_sale_date": "2026-09-08",
+  "median_price_usd": 135.0,
+  "last_sale_date": "2026-09-14",
   "grade_distribution": {
+    "XF": 20,
     "VF": 15,
     "F": 5,
     "G": 3,
-    "XF": 19,
     "MS": 1,
     "AU": 12
   },
@@ -36,6 +36,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-71894ce8f6a4",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/14048/worldcoin-hungary/12463842/september-2026-world-premier-collectors",
+      "title": "September 2026 World Premier Collectors Choice Auction - Ancients, World Coins & Paper Money <br> HUNGARY. Quintet of Mixed Denominations (5 Pieces), ND (1235-1437). All NGC Certified. <br> 1) Denar, ND (1235-70). Bela IV. NGC EF-45. Huszar-339.<p></p><p>2) Obol, ND (1270-72). Stephen V. NGC AU-55. Huszar-358.</p><p></p><p>3) Denar, ND (1308-42). Karl Robert. NGC AU Details--Cleaned. Huszar-476. Weight: 0.67 gms.</p><p></p><p>4) Denar, ND (1342-72). Ludwig I. NGC AU-55. Huszar-547. Weight: 0.46 gms.</p><p></p><p>5) Denar, ND (1387-1437). Sigismund. NGC AU-55. Huszar-578.</p>",
+      "description": "Stack\u2019s Bowers and Ponterio | ['September 2026 World Premier Collectors Choice Auction \u2013 Ancient, World Coins & Paper Money Schedule']",
+      "hammer_price_usd": 100.0,
+      "currency_original": "USD",
+      "price_original": 100.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-14",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-fbf477bc3f96",
       "source": "coinarchives",

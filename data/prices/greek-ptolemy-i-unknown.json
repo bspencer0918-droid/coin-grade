@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 77,
-  "realized_count": 76,
+  "sale_count": 79,
+  "realized_count": 78,
   "fixed_price_count": 1,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,11 +17,11 @@
     "max": 114000.0
   },
   "median_price_usd": 16800.0,
-  "last_sale_date": "2026-09-16",
+  "last_sale_date": "2026-09-17",
   "grade_distribution": {
     "VF": 16,
     "AU": 35,
-    "F": 3,
+    "F": 5,
     "XF": 18,
     "MS": 4,
     "VG": 1
@@ -47,7 +47,7 @@
       "currency_original": "USD",
       "price_original": 120.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-09-16",
+      "sale_date": "2026-09-17",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -86,6 +86,39 @@
         "verified": false,
         "cert_number": null,
         "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-f20078d17024",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/14048/ancientcoin-mixed-lots/12462787/september-2026-world-premier-collectors",
+      "title": "September 2026 World Premier Collectors Choice Auction - Ancients, World Coins & Paper Money <br> MIXED LOTS. Quartet of AR Tetradrachms (4 Pieces), ca. 3rd Century B.C. All NGC Certified. <br> 1) PAMPHYLIA, Perge. NGC FINE. Artemidos, magistrate.<p></p><p>2) MYSIA. Pergamon. Kingdom of Pergamon. Attalos I, 241-197 B.C. NGC VG.</p><p></p><p>3) SYRIA. Seleukid Kingdom. Antiochos I Soter, 281-261 B.C. NGC FINE.</p><p></p><p>4) SYRIA. Seleukid Kingdom. Antiochos I Soter, 281-261 B.C. NGC VG. <br> NGC.</p>",
+      "description": "Stack\u2019s Bowers and Ponterio | ['September 2026 World Premier Collectors Choice Auction \u2013 Ancient, World Coins & Paper Money Schedule']",
+      "hammer_price_usd": 150.0,
+      "currency_original": "USD",
+      "price_original": 150.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-14",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
@@ -179,7 +212,7 @@
       "currency_original": "USD",
       "price_original": 18500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-09-16",
+      "sale_date": "2026-09-17",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc107707a.jpg",
       "ngc": {
         "verified": false,
@@ -222,6 +255,39 @@
         "strike_score": 4,
         "surface_score": 2,
         "details_grade": "Graffito",
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-ab34ad5e3d02",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2811121&AucID=7319&Lot=73058&Val=b9c83426d0d96a6773373674716c74ba",
+      "title": "Stack's Bowers Galleries (& Ponterio) - September 2026 World CCO Auction, Lot 73058 \u2014 MIXED LOTS. Quartet of AR Tetradrachms (4 Pieces), ca. 3rd Century B.C. All NGC Certified.\nNGC.\n1) PAMPHYLIA, Perge. NGC FINE. Artemidos, magistrate.\n\n2) MYSIA. Pergamon. Kingdom of Pergamon. Attalos ",
+      "description": "MIXED LOTS. Quartet of AR Tetradrachms (4 Pieces), ca. 3rd Century B.C. All NGC Certified.\nNGC.\n1) PAMPHYLIA, Perge. NGC FINE. Artemidos, magistrate.\n\n2) MYSIA. Pergamon. Kingdom of Pergamon. Attalos I, 241-197 B.C. NGC VG.\n\n3) SYRIA. Seleukid Kingdom. Antiochos I Soter, 281-261 B.C. NGC FINE.\n\n4) SYRIA. Seleukid Kingdom. Antiochos I Soter, 281-261 B.C. NGC VG.\n\nEstimate: 150 - 300...",
+      "hammer_price_usd": 480.0,
+      "currency_original": "USD",
+      "price_original": 480.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-14",
+      "image_url": "https://media.coinarchives.com/6924bf4638c03d481d9aec84154a0d46/img/ponterio/cco_sep26/image73058.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
         "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"

@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AV Stater",
   "metal": "gold",
-  "sale_count": 406,
-  "realized_count": 406,
+  "sale_count": 410,
+  "realized_count": 410,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,16 +17,16 @@
     "max": 132000.0
   },
   "median_price_usd": 7800.0,
-  "last_sale_date": "2026-09-01",
+  "last_sale_date": "2026-09-14",
   "grade_distribution": {
-    "AU": 162,
-    "VF": 47,
+    "VF": 49,
+    "AU": 164,
     "MS": 110,
     "XF": 81,
     "G": 2,
     "F": 4
   },
-  "thumbnail_url": "https://media.coinarchives.com/04271f6f5c91986483d634ac8b980276/img/goldberg/150/image00454.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/a0a0dba0f6126c8e51b9edf8356434d9/img/ponterio/cco_sep26/image73014.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -36,6 +36,72 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-d3ee5978e019",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/14048/ancientcoin-alexander-iii-the-great/12462744/september-2026-world-premier-collectors",
+      "title": "September 2026 World Premier Collectors Choice Auction - Ancients, World Coins & Paper Money <br> MACEDON. Kingdom of Macedon. Alexander III (the Great), 336-323 B.C. AV Stater (8.55 gms), Babylon Mint, ca. 324/3 B.C. NGC Ch VF, Strike: 4/5 Surface: 5/5. <br> Pr-3671. Lifetime to early posthumous issue. Obverse: Helmeted head of Athena right, serpent on helm; Reverse: Nike standing left extending wreath; M and monogram below left wing. The obverse a little bit off-center, but not missing any detail and offering problem-free surfaces with even honest circulation. Plenty of surviving luster beneath a slight tone. <br> NGC Ch VF, Strike: 4/5 Surface: 5/5.",
+      "description": "Stack\u2019s Bowers and Ponterio | ['September 2026 World Premier Collectors Choice Auction \u2013 Ancient, World Coins & Paper Money Schedule']",
+      "hammer_price_usd": 3000.0,
+      "currency_original": "USD",
+      "price_original": 3000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-14",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-16bb9ac3fc45",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/14048/ancientcoin-alexander-iii-the-great/12462743/september-2026-world-premier-collectors",
+      "title": "September 2026 World Premier Collectors Choice Auction - Ancients, World Coins & Paper Money <br> MACEDON. Kingdom of Macedon. Alexander III (the Great), 336-323 B.C. AV Stater (8.61 gms), Miletos Mint, ca. 325-323 B.C. NGC Ch AU, Strike: 5/5 Surface: 5/5. <br> HGC-3.1f, 893f; Pr-2079; Muller-759. Lifetime issue. Obverse: Helmeted head of Athena facing right, serpent on helm, thunderbolt below; Reverse: Nike standing left extending wreath, monogram below left wing. Perfectly centered on a round flan, this Stater is nearly flawless in execution and preservation. Razor-sharp strike evident on both sides and intense luster throughout. <br> NGC Ch AU, Strike: 5/5 Surface: 5/5. <br> Stellar Gold Stater of Alexander the Great",
+      "description": "Stack\u2019s Bowers and Ponterio | ['September 2026 World Premier Collectors Choice Auction \u2013 Ancient, World Coins & Paper Money Schedule']",
+      "hammer_price_usd": 7000.0,
+      "currency_original": "USD",
+      "price_original": 7000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-14",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-d37452cdab1d",
       "source": "sixbid",
@@ -888,6 +954,72 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-3d23c5b48e11",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2811077&AucID=7319&Lot=73014&Val=d8e8bca5e3f91508b6f41546b84f577e",
+      "title": "Stack's Bowers Galleries (& Ponterio) - September 2026 World CCO Auction, Lot 73014 \u2014 - Stellar Gold Stater of Alexander the Great\nMACEDON. Kingdom of Macedon. Alexander III (the Great), 336-323 B.C. AV Stater (8.61 gms), Miletos Mint, ca. 325-323 B.C. NGC Ch AU, Strike: 5/5 Surface: 5",
+      "description": "- Stellar Gold Stater of Alexander the Great\nMACEDON. Kingdom of Macedon. Alexander III (the Great), 336-323 B.C. AV Stater (8.61 gms), Miletos Mint, ca. 325-323 B.C. NGC Ch AU, Strike: 5/5 Surface: 5/5.\nNGC Ch AU, Strike: 5/5 Surface: 5/5.\nHGC-3.1f, 893f; Pr-2079; Muller-759. Lifetime issue. Obverse: Helmeted head of Athena facing right, serpent on helm, thunderbolt below; Reverse: Nike standing left extending wreath, monogram below left wing. Perfectly centered on a round flan, this Stater i...",
+      "hammer_price_usd": 10000.0,
+      "currency_original": "USD",
+      "price_original": 10000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-14",
+      "image_url": "https://media.coinarchives.com/a0a0dba0f6126c8e51b9edf8356434d9/img/ponterio/cco_sep26/image73014.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-88c757ec5724",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2811078&AucID=7319&Lot=73015&Val=0076b3e509558f6d9ba1b5441ed24f69",
+      "title": "Stack's Bowers Galleries (& Ponterio) - September 2026 World CCO Auction, Lot 73015 \u2014 MACEDON. Kingdom of Macedon. Alexander III (the Great), 336-323 B.C. AV Stater (8.55 gms), Babylon Mint, ca. 324/3 B.C. NGC Ch VF, Strike: 4/5 Surface: 5/5.\nNGC Ch VF, Strike: 4/5 Surface: 5/5.\nPr-367",
+      "description": "MACEDON. Kingdom of Macedon. Alexander III (the Great), 336-323 B.C. AV Stater (8.55 gms), Babylon Mint, ca. 324/3 B.C. NGC Ch VF, Strike: 4/5 Surface: 5/5.\nNGC Ch VF, Strike: 4/5 Surface: 5/5.\nPr-3671. Lifetime to early posthumous issue. Obverse: Helmeted head of Athena right, serpent on helm; Reverse: Nike standing left extending wreath; M and monogram below left wing. The obverse a little bit off-center, but not missing any detail and offering problem-free surfaces with even honest circulat...",
+      "hammer_price_usd": 4100.0,
+      "currency_original": "USD",
+      "price_original": 4100.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-14",
+      "image_url": "https://media.coinarchives.com/9e7df72b9b773a03eb95c2224faa60b3/img/ponterio/cco_sep26/image73015.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

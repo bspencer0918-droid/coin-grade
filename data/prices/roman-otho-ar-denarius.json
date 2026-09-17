@@ -19,9 +19,9 @@
   "median_price_usd": 1200.0,
   "last_sale_date": "2026-09-11",
   "grade_distribution": {
-    "F": 31,
     "XF": 27,
     "VF": 41,
+    "F": 31,
     "P": 1,
     "AU": 12,
     "VG": 10,
@@ -37,39 +37,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-61751a4eef37",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13941/ancients-roman-imperial/12355785/otho-january-april-ad-69-ar-ae",
-      "title": "Otho (January-April AD 69). AR/AE four\u00e9e denarius (18mm, 5h). NGC Fine, scuffs.  Ancient forgery of Rome. IMP OTHO CAESAR AVG TR P, bare, bewigged head of Otho right / PONT-MAX, Vesta enthroned left, patera in outstretched right hand, transverse scepter cradled in left arm. Cf. RIC I 24 for prototype.  From the Eyeappealing Collection.   Born in AD 32 to a nouveau riche family, Marcus Salvius Otho grew up as a pampered playboy with a taste for the finer things in life. He had a peculiar abhorrence for body hair and depilated every part of his body, including his head. To cover his baldness, he then wore a carefully made wig. Otho became one of the Emperor Nero's high-living friends, but this changed abruptly when Nero took a fancy to his beautiful wife, Poppaea. Otho was thus packed off to govern Lusitania (modern Portugal), where he stewed and plotted revenge. When Nero's regime collapsed in AD 68, Otho was one of Galba's earliest supporters and fully expected to be named the old man's heir apparent. Instead, Galba chose a young aristocrat of better breeding, and the furious Otho began plotting his removal. He bribed the Praetorian Guards to murder Galba on 15 January AD 69, after which the Senate reluctantly confirmed Otho as emperor. But he immediately faced another rebellion, this time by Vitellius, governor of lower Germany, whose sizeable army marched on Italy. Otho hurried north to the River Po; his generals urged him to wait for reinforcements, but Otho was afraid of defections and ordered a premature attack. The sharp clash at Cremona in northern Italy went decisively against him, and he stabbed himself in the heart the morning of 16 or 17 April AD 69, ending a brief reign of about 90 days. His noble end gained him a respect that had eluded him in life.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
-      "description": "Heritage Auctions, Inc. | ['Auction #61635']",
-      "hammer_price_usd": 390.0,
-      "currency_original": "USD",
-      "price_original": 390.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-07-28",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "F",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "sixbid-dbc0174742b0",
       "source": "sixbid",
@@ -229,6 +196,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-61751a4eef37",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13941/ancients-roman-imperial/12355785/otho-january-april-ad-69-ar-ae",
+      "title": "Otho (January-April AD 69). AR/AE four\u00e9e denarius (18mm, 5h). NGC Fine, scuffs.  Ancient forgery of Rome. IMP OTHO CAESAR AVG TR P, bare, bewigged head of Otho right / PONT-MAX, Vesta enthroned left, patera in outstretched right hand, transverse scepter cradled in left arm. Cf. RIC I 24 for prototype.  From the Eyeappealing Collection.   Born in AD 32 to a nouveau riche family, Marcus Salvius Otho grew up as a pampered playboy with a taste for the finer things in life. He had a peculiar abhorrence for body hair and depilated every part of his body, including his head. To cover his baldness, he then wore a carefully made wig. Otho became one of the Emperor Nero's high-living friends, but this changed abruptly when Nero took a fancy to his beautiful wife, Poppaea. Otho was thus packed off to govern Lusitania (modern Portugal), where he stewed and plotted revenge. When Nero's regime collapsed in AD 68, Otho was one of Galba's earliest supporters and fully expected to be named the old man's heir apparent. Instead, Galba chose a young aristocrat of better breeding, and the furious Otho began plotting his removal. He bribed the Praetorian Guards to murder Galba on 15 January AD 69, after which the Senate reluctantly confirmed Otho as emperor. But he immediately faced another rebellion, this time by Vitellius, governor of lower Germany, whose sizeable army marched on Italy. Otho hurried north to the River Po; his generals urged him to wait for reinforcements, but Otho was afraid of defections and ordered a premature attack. The sharp clash at Cremona in northern Italy went decisively against him, and he stabbed himself in the heart the morning of 16 or 17 April AD 69, ending a brief reign of about 90 days. His noble end gained him a respect that had eluded him in life.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61635']",
+      "hammer_price_usd": 390.0,
+      "currency_original": "USD",
+      "price_original": 390.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-28",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

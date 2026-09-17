@@ -8,18 +8,19 @@
   "ruler_rarity": "common",
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 208,
-  "realized_count": 208,
+  "sale_count": 209,
+  "realized_count": 209,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 408.0,
     "max": 15600.0
   },
-  "median_price_usd": 1310.0,
-  "last_sale_date": "2026-09-01",
+  "median_price_usd": 1320.0,
+  "last_sale_date": "2026-09-15",
   "grade_distribution": {
     "MS": 41,
+    "P": 1,
     "AU": 100,
     "VF": 16,
     "XF": 50,
@@ -58,6 +59,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-dec7d2fa44a7",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/classical-numismatic-group/14023/byzantine/12442717/constantine-vii-porphyrogenitus-with-romanus",
+      "title": "<b>Constantine VII Porphyrogenitus, with Romanus I and Christopher. </b>913-959. AV Solidus (19mm, 4.25 g, 6h). Constantinople mint. Struck 921. Crowned facing figure of Romanus, wearing loros decorated with a cross at end and holding globus cruciger, being crowned by Christ, to right, holding Gospels / Crowned facing busts of Constantine, wearing loros, and Christopher, wearing chlamys, together holding long patriarchal cross between them. DOC 6; F\u00fceg 6 (<i>this coin cited in corpus</i>); SB 1743. Toned. NGC Photo Certificate 4375568-005, graded VF, Strike: 5/5, Surface: 3/5, marks. Rare. <br><br><br><i>From the Best Collection of Byzantine Coins. Ex Goldberg 120 (2 February 2021), lot 1194; William Oldknow Collection; \u201cLate Foreign Ambassador\u201d Collection (Glendining, 7 March 1957), lot 637.</i><br><br>Constantine VII\u2019s tenure as emperor had a very complex path to his eventual sole reign. Following the death of his uncle Alexander, Constantine began his reign under the regency of the Patriarch of Constantinople, Nicolas Mystikos. However, Nicolas\u2019 regency was short-lived. After the Tsar of Bulgaria, Symeon, appeared outside Constantinople with a massive army, Nicolas capitulated to the Bulgarians\u2019 demands and granted them numerous concessions. This lack of strength by Nicolas led to a palace revolt in which Nicolas\u2019 regency was removed and replaced with that of Constantine\u2019s mother, Zoe Karbonopsina. This change in government led Symeon to invade the Byzantine empire and lay waste to numerous provinces. His destructive campaign was eventually stymied by the capable general Romanus Lecapenus. Upon Romanus\u2019 initial victories, he assumed the regency from Zoe, whom he forced into a convent. Romanus additionally married his daughter Helena to Constantine. In December of 920, Romanus assumed the title of co-Augustus and, though he did not depose Constantine, he kept all the power for himself. Romanus and Symeon continued to war against each other until Symeon\u2019s death in 927, which seriously diminished the Bulgarians\u2019 power and left Romanus free to turn his attention towards matters of state.<br><br>Between 921 and 945, Romanus elevated his three sons, Christopher, Stephen, and Constantine, as co-Augusti. The former senior Augustus, Constantine VII, was sidelined for over thirty years. Romanus officially displaced Constantine as senior Augustus around 921. This solidus, struck in 921, features Romanus, who appears on the obverse as senior Augustus, with Constantine VII as his associate along with the newly elevated Christopher. This multi-ruler status quo eventually changed, however, when Stephen and Constantine turned on their father and deposed him in December 944 (Christopher had predeceased his father at this point). This revolt by Romanus\u2019 surviving sons was precipitated by Romanus drafting a will in which he intended to leave Constantine VII as sole Augusutus following his death. Constantine VII seized his chance and in turn successfully deposed Stephen and Constantine that following January. Finally, in the thirty-first year of his reign in 945, Constantine VII was free of his domineering associates and became sole Augustus. Later that year, he added his own son Romanus II as co-Augustus. Constantine reigned for an additional fourteen years after he finally deposed the Lecapeni before dying in 959 after reigning for a total of forty-six years.",
+      "description": "Classical Numismatic Group, LLC | ['Feature Auction 133']",
+      "hammer_price_usd": 2000.0,
+      "currency_original": "USD",
+      "price_original": 2000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-15",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "4375568-005",
+        "grade": "P",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/4375568005/",
         "grading_service": "ngc"
       },
       "metadata": {
