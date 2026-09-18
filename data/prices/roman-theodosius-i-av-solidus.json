@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 588,
-  "realized_count": 588,
+  "sale_count": 589,
+  "realized_count": 589,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -19,14 +19,14 @@
   "median_price_usd": 1140.0,
   "last_sale_date": "2026-09-12",
   "grade_distribution": {
-    "AU": 246,
+    "AU": 247,
     "MS": 197,
     "G": 9,
     "XF": 104,
     "VF": 31,
     "F": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/fb432f30cdb2d92bd57e6f57981e9419/img/heritage/61635/image23277.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/380dbc814cde7a3e6ec859111e1f117d/img/niemczyk/055/image00019.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -261,6 +261,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-11b73d809f0a",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2805995&AucID=7302&Lot=19&Val=5e2d1e97336493e68f41ff3a4d33379d",
+      "title": "Antykwariat Numizmatyczny - Michal Niemczyk - Premium Auction 55, Lot 19 \u2014 Ancient Coins\nR\u00d6MISCHEN REPUBLIK / GRIECHISCHE M\u00dcNZEN / BYZANZ / ANTIK / ANCIENT / ROME / GREECE\n\nRoman Empire. Theodosius I the Great (379395). Solidus 383388, Constantinople, NGC Ch AU 5/5 3/5\nAW: P",
+      "description": "Ancient Coins\nR\u00d6MISCHEN REPUBLIK / GRIECHISCHE M\u00dcNZEN / BYZANZ / ANTIK / ANCIENT / ROME / GREECE\n\nRoman Empire. Theodosius I the Great (379395). Solidus 383388, Constantinople, NGC Ch AU 5/5 3/5\nAW: Popiersie Teodozjusza I w prawo, w diademie pere\u0142kowym, zbroi. W otoku: D N THEODOSIVS P F AVG\nRW: Konstantynopolis siedz\u0105ca na tronie na wprost, z g\u0142ow\u0105 w he\u0142mie zwr\u00f3con\u0105 w prawo, z ber\u0142em i tarcz\u0105 z napisem VOT X MVLT XV, stopa oparta na dziobie okr\u0119tu. W odcinku: CONOB, w otoku: CONCORDIA AVGGG ...",
+      "hammer_price_usd": 6500.0,
+      "currency_original": "USD",
+      "price_original": 6500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-12",
+      "image_url": "https://media.coinarchives.com/380dbc814cde7a3e6ec859111e1f117d/img/niemczyk/055/image00019.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

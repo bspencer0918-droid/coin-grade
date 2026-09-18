@@ -201,39 +201,6 @@
       }
     },
     {
-      "id": "coinarchives-56dd1f7f18d6",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801734&AucID=7287&Lot=34035&Val=5d14925af0d76e6ff901a4960f318aaa",
-      "title": "Heritage World Coin Auctions - ANA Signature Sale 3135, Lot 34035 \u2014 Ancients\nMACEDONIAN KINGDOM. Philip III Arrhidaeus (323-317 BC). AV stater (17mm, 8.62 gm, 6h). NGC MS 4/5 - 4/5. Aradus, ca. 323-316 BC. Head of Athena right, hair in three tight corkscrew curls and ",
-      "description": "Ancients\nMACEDONIAN KINGDOM. Philip III Arrhidaeus (323-317 BC). AV stater (17mm, 8.62 gm, 6h). NGC MS 4/5 - 4/5. Aradus, ca. 323-316 BC. Head of Athena right, hair in three tight corkscrew curls and upswept at temple, wearing triple-crested Corinthian helmet pushed back on head, long diverging crest ends, the bowl decorated with leaping griffin right / \u03a6\u0399\u039b\u0399\u03a0\u03a0OY, Nike standing facing, head left, wreath in outstretched right hand, stylis cradled in left arm; complex monogram under wing in left ...",
-      "hammer_price_usd": 9500.0,
-      "currency_original": "USD",
-      "price_original": 9500.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-09-01",
-      "image_url": "https://media.coinarchives.com/6b5bf1349a33ac299012674a63db53d1/img/heritage/3135/image34035.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-48885b9424c5",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -318,6 +285,39 @@
         "grade": "AU",
         "grade_numeric": null,
         "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-56dd1f7f18d6",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801734&AucID=7287&Lot=34035&Val=5d14925af0d76e6ff901a4960f318aaa",
+      "title": "Heritage World Coin Auctions - ANA Signature Sale 3135, Lot 34035 \u2014 Ancients\nMACEDONIAN KINGDOM. Philip III Arrhidaeus (323-317 BC). AV stater (17mm, 8.62 gm, 6h). NGC MS 4/5 - 4/5. Aradus, ca. 323-316 BC. Head of Athena right, hair in three tight corkscrew curls and ",
+      "description": "Ancients\nMACEDONIAN KINGDOM. Philip III Arrhidaeus (323-317 BC). AV stater (17mm, 8.62 gm, 6h). NGC MS 4/5 - 4/5. Aradus, ca. 323-316 BC. Head of Athena right, hair in three tight corkscrew curls and upswept at temple, wearing triple-crested Corinthian helmet pushed back on head, long diverging crest ends, the bowl decorated with leaping griffin right / \u03a6\u0399\u039b\u0399\u03a0\u03a0OY, Nike standing facing, head left, wreath in outstretched right hand, stylis cradled in left arm; complex monogram under wing in left ...",
+      "hammer_price_usd": 9500.0,
+      "currency_original": "USD",
+      "price_original": 9500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": "https://media.coinarchives.com/6b5bf1349a33ac299012674a63db53d1/img/heritage/3135/image34035.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 4,
+        "strike_score": 4,
         "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
