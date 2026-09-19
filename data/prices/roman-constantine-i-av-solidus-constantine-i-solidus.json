@@ -20,8 +20,8 @@
   "last_sale_date": "2026-09-01",
   "grade_distribution": {
     "AU": 24,
-    "MS": 9,
     "XF": 4,
+    "MS": 9,
     "VF": 5
   },
   "thumbnail_url": "https://media.coinarchives.com/a90c75b103268f55e3dc53b31a3f28ca/img/heritage/3135/image30090.jpg",
@@ -68,39 +68,6 @@
       }
     },
     {
-      "id": "coinarchives-0739bf7fda25",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801694&AucID=7287&Lot=33081&Val=5c69faa2db54ef3cda6670fd7120d349",
-      "title": "Heritage World Coin Auctions - ANA Signature Sale 3135, Lot 33081 \u2014 Ancients\nConstantine I the Great, as Augustus (AD 307-337). AV solidus (20mm, 4.57 gm, 6h). NGC MS 5/5 - 3/5, light marks, brushed. Thessalonica, ca. AD 326(?). CONSTAN-TINVS AVG, laureate head of Con",
-      "description": "Ancients\nConstantine I the Great, as Augustus (AD 307-337). AV solidus (20mm, 4.57 gm, 6h). NGC MS 5/5 - 3/5, light marks, brushed. Thessalonica, ca. AD 326(?). CONSTAN-TINVS AVG, laureate head of Constantine I right / VIRTVS CON-STANTINI AVG, Constantine I standing facing, head left, wearing military attire, grounded trophy in right hand; flanked by two captives facing outward, heads reverted, SMTS in exergue. RIC VII-. Depeyrot-, cf. 12/1 for reverse.\n\nEx Gorny & Mosch, Auction 207 (15 Octob...",
-      "hammer_price_usd": 28000.0,
-      "currency_original": "USD",
-      "price_original": 28000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-09-01",
-      "image_url": "https://media.coinarchives.com/c7a6469af62e1ed2cdfea2400cbd23d3/img/heritage/3135/image33081.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-37b1d6c3ca48",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -120,6 +87,39 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-0739bf7fda25",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801694&AucID=7287&Lot=33081&Val=5c69faa2db54ef3cda6670fd7120d349",
+      "title": "Heritage World Coin Auctions - ANA Signature Sale 3135, Lot 33081 \u2014 Ancients\nConstantine I the Great, as Augustus (AD 307-337). AV solidus (20mm, 4.57 gm, 6h). NGC MS 5/5 - 3/5, light marks, brushed. Thessalonica, ca. AD 326(?). CONSTAN-TINVS AVG, laureate head of Con",
+      "description": "Ancients\nConstantine I the Great, as Augustus (AD 307-337). AV solidus (20mm, 4.57 gm, 6h). NGC MS 5/5 - 3/5, light marks, brushed. Thessalonica, ca. AD 326(?). CONSTAN-TINVS AVG, laureate head of Constantine I right / VIRTVS CON-STANTINI AVG, Constantine I standing facing, head left, wearing military attire, grounded trophy in right hand; flanked by two captives facing outward, heads reverted, SMTS in exergue. RIC VII-. Depeyrot-, cf. 12/1 for reverse.\n\nEx Gorny & Mosch, Auction 207 (15 Octob...",
+      "hammer_price_usd": 28000.0,
+      "currency_original": "USD",
+      "price_original": 28000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": "https://media.coinarchives.com/c7a6469af62e1ed2cdfea2400cbd23d3/img/heritage/3135/image33081.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

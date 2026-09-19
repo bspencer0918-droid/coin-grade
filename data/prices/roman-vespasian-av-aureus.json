@@ -19,15 +19,15 @@
   "median_price_usd": 6000.0,
   "last_sale_date": "2026-09-01",
   "grade_distribution": {
+    "VF": 24,
     "AU": 14,
     "XF": 20,
-    "VF": 24,
     "MS": 5,
     "G": 1,
     "F": 32,
     "VG": 5
   },
-  "thumbnail_url": "https://media.coinarchives.com/56d6e78bb690d3d598aba9b07191a815/img/heritage/3135/image33046.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/5ac179ad4611e186c7f812f5c029d228/img/heritage/3132/image31033.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -37,6 +37,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-ce1f795c9180",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739693&AucID=7076&Lot=31033&Val=dc030dc79f3e9fc9fb917671930475ca",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 31033 \u2014 Ancients\nDomitian, as Caesar (AD 81-96). AV aureus (20mm, 7.21 gm, 7h). NGC Choice VF 5/5 - 2/5, ex-jewelry, scuffs, brushed. Rome (and Tarraco?), AD 73. CAES AVG F-DOMIT COS II, laureate head of Domi",
+      "description": "Ancients\nDomitian, as Caesar (AD 81-96). AV aureus (20mm, 7.21 gm, 7h). NGC Choice VF 5/5 - 2/5, ex-jewelry, scuffs, brushed. Rome (and Tarraco?), AD 73. CAES AVG F-DOMIT COS II, laureate head of Domitian right / Domitian on horse rearing left, right hand raised in gesture of adlocutio, scepter with human head cradled in left arm. Calic\u00f3 812. RIC II (Vespasian) 232. Attractive, youthful portrait.\n\nDomitian, often remembered as a controversial figure in Roman history, lived a complex life marke...",
+      "hammer_price_usd": 4800.0,
+      "currency_original": "USD",
+      "price_original": 4800.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/5ac179ad4611e186c7f812f5c029d228/img/heritage/3132/image31033.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-4e46d1fa7119",
       "source": "coinarchives",
@@ -290,39 +323,6 @@
         "surface_score": 3,
         "details_grade": null,
         "fine_style": true,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-ce1f795c9180",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739693&AucID=7076&Lot=31033&Val=dc030dc79f3e9fc9fb917671930475ca",
-      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 31033 \u2014 Ancients\nDomitian, as Caesar (AD 81-96). AV aureus (20mm, 7.21 gm, 7h). NGC Choice VF 5/5 - 2/5, ex-jewelry, scuffs, brushed. Rome (and Tarraco?), AD 73. CAES AVG F-DOMIT COS II, laureate head of Domi",
-      "description": "Ancients\nDomitian, as Caesar (AD 81-96). AV aureus (20mm, 7.21 gm, 7h). NGC Choice VF 5/5 - 2/5, ex-jewelry, scuffs, brushed. Rome (and Tarraco?), AD 73. CAES AVG F-DOMIT COS II, laureate head of Domitian right / Domitian on horse rearing left, right hand raised in gesture of adlocutio, scepter with human head cradled in left arm. Calic\u00f3 812. RIC II (Vespasian) 232. Attractive, youthful portrait.\n\nDomitian, often remembered as a controversial figure in Roman history, lived a complex life marke...",
-      "hammer_price_usd": 4800.0,
-      "currency_original": "USD",
-      "price_original": 4800.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-04-29",
-      "image_url": "https://media.coinarchives.com/5ac179ad4611e186c7f812f5c029d228/img/heritage/3132/image31033.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
       },

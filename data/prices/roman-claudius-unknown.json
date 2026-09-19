@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 367,
-  "realized_count": 367,
+  "sale_count": 368,
+  "realized_count": 368,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -22,9 +22,9 @@
     "XF": 47,
     "VF": 63,
     "MS": 129,
+    "AU": 53,
     "VG": 14,
-    "F": 62,
-    "AU": 52
+    "F": 62
   },
   "thumbnail_url": "https://media.coinarchives.com/cdd7f54c2a482890540b550b45d18a7d/img/ponterio/238online/image44251.jpg",
   "median_weight_g": null,
@@ -482,6 +482,39 @@
         "verified": false,
         "cert_number": null,
         "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-6e389d5c099d",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2796106&AucID=7267&Lot=23046&Val=59f4f61776192dd2071c3dd02391c0bb",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61635, Lot 23046 \u2014 Ancients\nClaudius I (AD 41-54). AE as (30mm, 11.45 gm, 7h). NGC AU 5/5 - 2/5. Rome, ca. AD 50-54. TI CLAVDIVS CAESAR AVG P M TR P IMP P P, bare head of Claudius left / Minerva advancing right, brandis",
+      "description": "Ancients\nClaudius I (AD 41-54). AE as (30mm, 11.45 gm, 7h). NGC AU 5/5 - 2/5. Rome, ca. AD 50-54. TI CLAVDIVS CAESAR AVG P M TR P IMP P P, bare head of Claudius left / Minerva advancing right, brandishing spear in right hand, shield on left arm; S-C across field. RIC I 116.\n\nFrom The LaLonde Family Collection. Ex the Robert S. Sloan Collection (Heritage Auctions, Auction 61316, 14 May 2023), lot 22064; Schweizerischen Kreditanstalt (Bern), private sale with old dealer's tag included.\n\nSon of t...",
+      "hammer_price_usd": 1200.0,
+      "currency_original": "USD",
+      "price_original": 1200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-28",
+      "image_url": "https://media.coinarchives.com/3e97f3d821e766c346018850fb1b1d75/img/heritage/61635/image23046.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 2,

@@ -19,14 +19,14 @@
   "median_price_usd": 366.0,
   "last_sale_date": "2026-08-31",
   "grade_distribution": {
-    "AU": 31,
     "XF": 68,
+    "AU": 31,
     "MS": 3,
     "F": 81,
     "VF": 80,
     "VG": 13
   },
-  "thumbnail_url": "https://media.coinarchives.com/fc1a5a438e18260aac5e77ee322b0f01/img/ponterio/238/image41207.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/fae73fa875a67ad96e605678799f7457/img/ponterio/238/image41206.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -36,39 +36,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "coinarchives-b785dce18ef0",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803380&AucID=7297&Lot=41207&Val=a09fcbfbc35f25ab3eda3cc0c7fd157b",
-      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 41207 \u2014 TITUS, A.D. 79-81. AR Denarius (3.06 gms), Rome Mint, A.D. 80. NGC AU\u2605, Strike: 5/5 Surface: 4/5.\nTo view all items from the Bella Roma Collection, click  here.\nRIC-128; RSC-321. Obverse: Laureate hea",
-      "description": "TITUS, A.D. 79-81. AR Denarius (3.06 gms), Rome Mint, A.D. 80. NGC AU\u2605, Strike: 5/5 Surface: 4/5.\nTo view all items from the Bella Roma Collection, click  here.\nRIC-128; RSC-321. Obverse: Laureate head right; Reverse: Filleted tripod surmounted by dolphin right. Exhibiting a perfectly centered strike on its round flan, this piece would be a stunning representative for a collector in search of a top-quality Titus. The full, sharply defined legends frame an exceptional portrait of the emperor. S...",
-      "hammer_price_usd": 4000.0,
-      "currency_original": "USD",
-      "price_original": 4000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-08-31",
-      "image_url": "https://media.coinarchives.com/fc1a5a438e18260aac5e77ee322b0f01/img/ponterio/238/image41207.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-a505c186104a",
       "source": "coinarchives",
@@ -86,6 +53,39 @@
         "verified": false,
         "cert_number": null,
         "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-b785dce18ef0",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803380&AucID=7297&Lot=41207&Val=a09fcbfbc35f25ab3eda3cc0c7fd157b",
+      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 41207 \u2014 TITUS, A.D. 79-81. AR Denarius (3.06 gms), Rome Mint, A.D. 80. NGC AU\u2605, Strike: 5/5 Surface: 4/5.\nTo view all items from the Bella Roma Collection, click  here.\nRIC-128; RSC-321. Obverse: Laureate hea",
+      "description": "TITUS, A.D. 79-81. AR Denarius (3.06 gms), Rome Mint, A.D. 80. NGC AU\u2605, Strike: 5/5 Surface: 4/5.\nTo view all items from the Bella Roma Collection, click  here.\nRIC-128; RSC-321. Obverse: Laureate head right; Reverse: Filleted tripod surmounted by dolphin right. Exhibiting a perfectly centered strike on its round flan, this piece would be a stunning representative for a collector in search of a top-quality Titus. The full, sharply defined legends frame an exceptional portrait of the emperor. S...",
+      "hammer_price_usd": 4000.0,
+      "currency_original": "USD",
+      "price_original": 4000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-31",
+      "image_url": "https://media.coinarchives.com/fc1a5a438e18260aac5e77ee322b0f01/img/ponterio/238/image41207.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 4,

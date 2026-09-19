@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 166,
-  "realized_count": 165,
+  "sale_count": 167,
+  "realized_count": 166,
   "fixed_price_count": 1,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,9 +17,9 @@
     "max": 3720.0
   },
   "median_price_usd": 264.0,
-  "last_sale_date": "2026-09-18",
+  "last_sale_date": "2026-09-19",
   "grade_distribution": {
-    "VF": 83,
+    "VF": 84,
     "AU": 14,
     "XF": 41,
     "F": 23,
@@ -234,6 +234,39 @@
       }
     },
     {
+      "id": "sixbid-56d738464eb1",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/14018/ancients-judaea/12437650/judaea-roman-procurators-porcius-festus",
+      "title": "JUDAEA. Roman Procurators. Porcius Festus (AD 59-62). AE prutah (16mm, 1.37 gm, 1h). NGC Choice VF 4/5 - 2/5, scratches. Jerusalem, dated Regnal Year 5 of Nero (AD 58/59). KAIC-APOC, vertical palm frond; L \u0404 (date) upward to left / KAIC-APOC, vertical palm frond; L \u0404 (date) upward to left. Cf. GBC 6, 6380 for regular type. A fascinating mint error using two reverse dies.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61675']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-18",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": "Scratche",
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "sixbid-674f03bc3004",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -310,7 +343,7 @@
       "currency_original": "USD",
       "price_original": 950.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-09-18",
+      "sale_date": "2026-09-19",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc110107a.jpg",
       "ngc": {
         "verified": false,

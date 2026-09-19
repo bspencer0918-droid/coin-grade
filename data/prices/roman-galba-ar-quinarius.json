@@ -4,25 +4,25 @@
   "ruler": "Galba",
   "ruler_normalized": "galba",
   "dynasty": "Year of Four Emperors",
-  "ruler_dates": "AD 68\u00e2\u20ac\u201c69",
+  "ruler_dates": "AD 68\u201369",
   "ruler_rarity": "scarce",
   "denomination": "AR Quinarius",
   "metal": "silver",
-  "sale_count": 5,
-  "realized_count": 5,
+  "sale_count": 6,
+  "realized_count": 6,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 480.0,
     "max": 840.0
   },
-  "median_price_usd": 840.0,
-  "last_sale_date": "2024-12-01",
+  "median_price_usd": 720.0,
+  "last_sale_date": "2026-07-28",
   "grade_distribution": {
-    "XF": 2,
-    "VF": 3
+    "VF": 4,
+    "XF": 2
   },
-  "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=2-9-3-6-3-29363618&w=120&h=300&it=product",
+  "thumbnail_url": "https://media.coinarchives.com/f8d46bbf48e507bca8529ad2427799a9/img/heritage/61635/image23054.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 3,
@@ -32,6 +32,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-e25f340ed2f4",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2796114&AucID=7267&Lot=23054&Val=9d95607f4fde217db6dd69c645fa9937",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61635, Lot 23054 \u2014 Ancients\nGalba (July AD 68-January AD 69). AR quinarius (15mm, 1.62 gm, 7h). NGC Choice VF 5/5 - 3/5. Lugdunum, November AD 68-15 January AD 69. SER GALBA IMP-CAESAR AVG P M T P, laureate head of Galb",
+      "description": "Ancients\nGalba (July AD 68-January AD 69). AR quinarius (15mm, 1.62 gm, 7h). NGC Choice VF 5/5 - 3/5. Lugdunum, November AD 68-15 January AD 69. SER GALBA IMP-CAESAR AVG P M T P, laureate head of Galba right / VICTORIA-GALBAE AVG, Victory standing right on globe, wreath in outstretched right hand, palm over left shoulder. RIC I 132.\n\nEx Heritage Auctions, Auction 61416 (1 December 2024), lot 24149.\n\nServius Sulpicius Galba was born in 3 BC, and early on displayed a gift for cultivating the rig...",
+      "hammer_price_usd": 600.0,
+      "currency_original": "USD",
+      "price_original": 600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-28",
+      "image_url": "https://media.coinarchives.com/f8d46bbf48e507bca8529ad2427799a9/img/heritage/61635/image23054.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "heritage-e2832b570d30",
       "source": "heritage",
