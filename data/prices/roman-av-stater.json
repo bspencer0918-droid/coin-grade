@@ -8,21 +8,21 @@
   "ruler_rarity": null,
   "denomination": "AV Stater",
   "metal": "gold",
-  "sale_count": 94,
-  "realized_count": 94,
+  "sale_count": 95,
+  "realized_count": 95,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 1260.0,
     "max": 97600.0
   },
-  "median_price_usd": 2536.0,
-  "last_sale_date": "2026-09-08",
+  "median_price_usd": 2510.0,
+  "last_sale_date": "2026-09-17",
   "grade_distribution": {
     "MS": 62,
+    "G": 7,
     "AU": 21,
-    "XF": 5,
-    "G": 6
+    "XF": 5
   },
   "thumbnail_url": "https://media.coinarchives.com/a75d9f5278d5b343984f85c4ea645b05/img/heritage/3135/image30055.jpg",
   "median_weight_g": null,
@@ -120,6 +120,39 @@
         "grade_numeric": null,
         "strike_score": 3,
         "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-5fd91d586d4d",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stephen-album-rare-coins/14031/ancient-roman-imperatorial/12447034/dacia-koson-ca-mid-1st-century",
+      "title": "DACIA: Koson, ca. mid-1st century BC, AV stater (8.35g), BMC Thrace 1, BMCRR-48, Roman consul (L. Junius Brutus) and two lictors advancing left, BR monogram to left, KO\u03a3\u03a9N in exergue // eagle standing left on scepter, holding wreath, beautiful golden luster, Strike 5/5, Surface 5/5, NGC graded Mint State, ex Heritage Auction 3040, Lot 29056.",
+      "description": "Stephen Album Rare Coins | ['Auction 56']",
+      "hammer_price_usd": 2200.0,
+      "currency_original": "USD",
+      "price_original": 2200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-17",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

@@ -8,23 +8,23 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 366,
-  "realized_count": 365,
+  "sale_count": 367,
+  "realized_count": 366,
   "fixed_price_count": 1,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 54.0,
     "max": 10000.0
   },
-  "median_price_usd": 144.0,
-  "last_sale_date": "2026-09-20",
+  "median_price_usd": 145.44,
+  "last_sale_date": "2026-09-21",
   "grade_distribution": {
+    "G": 4,
     "AU": 121,
     "MS": 50,
     "F": 12,
     "XF": 95,
-    "VF": 84,
-    "G": 3
+    "VF": 84
   },
   "thumbnail_url": "https://media.coinarchives.com/4d957edbf32baaa4b0542720c945b4d3/img/album/054/image00077.jpg",
   "median_weight_g": null,
@@ -36,6 +36,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-adf474c59414",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stephen-album-rare-coins/14031/ancient-greek/12447019/mysia-pergamon-roman-rule-ar",
+      "title": "MYSIA: Pergamon, Roman Rule, AR cistophoric tetradrachm (12.59g), ca. 96-92 BC, SNG BN-1718, cista mystica within ivy wreath // two serpents entwined around bow and bowcase decorated with aphlaston, BO above, civic monogram to left, thyrsos with coiled serpent to right, lovely gray toning with iridescent notes, Strike 5/5, Surface 4/5, NGC graded Choice XF.",
+      "description": "Stephen Album Rare Coins | ['Auction 56']",
+      "hammer_price_usd": 300.0,
+      "currency_original": "USD",
+      "price_original": 300.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-17",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-6560f2fb0387",
       "source": "sixbid",
@@ -103,6 +136,39 @@
       }
     },
     {
+      "id": "hjb-058de01ac44f",
+      "source": "hjb",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/102201",
+      "title": "Macedonia under Roman Rule. Tetradrachm",
+      "description": "",
+      "hammer_price_usd": 1250.0,
+      "currency_original": "USD",
+      "price_original": 1250.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-21",
+      "image_url": "https://images.hjbltd.com/ancient-coins/cc102201a.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "27550580",
+        "grade": null,
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "sixbid-b9d0cb3e2622",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -162,39 +228,6 @@
       },
       "metadata": {
         "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "hjb-058de01ac44f",
-      "source": "hjb",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/102201",
-      "title": "Macedonia under Roman Rule. Tetradrachm",
-      "description": "",
-      "hammer_price_usd": 1250.0,
-      "currency_original": "USD",
-      "price_original": 1250.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-09-20",
-      "image_url": "https://images.hjbltd.com/ancient-coins/cc102201a.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": "27550580",
-        "grade": null,
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

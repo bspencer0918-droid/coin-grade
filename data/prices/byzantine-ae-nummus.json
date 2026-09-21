@@ -8,20 +8,20 @@
   "ruler_rarity": null,
   "denomination": "AE Nummus",
   "metal": "bronze",
-  "sale_count": 355,
-  "realized_count": 355,
+  "sale_count": 358,
+  "realized_count": 358,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 35.0,
+    "min": 1.0,
     "max": 1080.0
   },
   "median_price_usd": 156.0,
-  "last_sale_date": "2026-08-16",
+  "last_sale_date": "2026-09-20",
   "grade_distribution": {
+    "XF": 22,
+    "VF": 11,
     "AU": 80,
-    "VF": 10,
-    "XF": 20,
     "MS": 245
   },
   "thumbnail_url": "https://media.coinarchives.com/65144559a5ca08a4aa4674c017edf6c1/img/heritage/61625/image22177.jpg",
@@ -34,6 +34,105 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-cd2fad93d137",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/14033/ancients-roman-imperial/12450926/constantinople-commemorative-ca-ad-330-340",
+      "title": "Constantinople Commemorative (ca. AD 330-340). AE4 or BI nummus (13mm, 1.22 gm, 6h). NGC XF 5/5 - 5/5. Constantinople, ca. 330 AD, struck under Constantine I to commemorate the moving of the Roman capitol from Rome to Constantinople. POP ROMANVS, draped bust of Constantinian left, cornucopia on left shoulder / star above CONSA within wreath. RIC VIII 22.  From the Dr. Charles Jay Deur Collection, for the charitable benefit of Calvin University and Peace Lutheran Church of Hurst. Ex Glenn W. Woods, private sale with dealer tags included.    HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61638']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-20",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-ace06f4e7323",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/14033/ancients-roman-imperial/12450964/leo-i-eastern-roman-empire",
+      "title": "Leo I, Eastern Roman Empire (AD 457-474). AE4 or nummus (11mm, 1.29 gm, 7h). NGC Choice VF 4/5 - 4/5. Constantinople. D N L-EO, pearl-diademed, draped, and cuirassed bust of Leo I right / CN, emperor standing acing, head right, grounded scepter in right hand, left hand on head of captive kneeling left before; star in left field. RIC X 703.  From the Dr. Charles Jay Deur Collection, for the charitable benefit of Calvin University and Peace Lutheran Church of Hurst. Collectors tickets included.    HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61638']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-20",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-fad38204aef1",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/14033/ancients-roman-imperial/12450931/constantinople-commemorative-ca-ad-330-340",
+      "title": "Constantinople Commemorative (ca. AD 330-340). AE3/4 or BI nummus (18mm, 2.66 gm, 7h). NGC Choice XF 5/5 - 4/5. Alexandria, 1st officina, AD 337-340, struck under Constantine I to commemorate the moving of the Roman capital from Rome to Constantinople. VRBS-ROMA, helmeted bust of Constantinopolis left, wearing imperial cloak / She-wolf standing left, head reverted, suckling twins Romulus and Remus below; two stars above, SMALA in exergue. RIC VIII 16.  From the Dr. Charles Jay Deur Collection, for the charitable benefit of Calvin University and Peace Lutheran Church of Hurst. Collectors ticket included.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61638']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-20",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-b7e7d57c6ea8",
       "source": "sixbid",
