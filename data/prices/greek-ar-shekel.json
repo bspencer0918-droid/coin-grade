@@ -8,18 +8,18 @@
   "ruler_rarity": null,
   "denomination": "AR Shekel",
   "metal": "silver",
-  "sale_count": 381,
-  "realized_count": 379,
+  "sale_count": 382,
+  "realized_count": 380,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 154.0,
     "max": 90000.0
   },
-  "median_price_usd": 4560.0,
-  "last_sale_date": "2026-09-18",
+  "median_price_usd": 4530.0,
+  "last_sale_date": "2026-09-22",
   "grade_distribution": {
-    "XF": 122,
+    "XF": 123,
     "F": 15,
     "VF": 62,
     "AU": 148,
@@ -37,6 +37,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "cng-19277587f121",
+      "source": "cng",
+      "listing_type": "auction_realized",
+      "lot_url": "https://auctions.cngcoins.com/lots/view/4-MHSOST",
+      "title": "Keystone Auction 18 \u2013 The Gasvoda Collection Lot: 19. PHOENICIA, Tyre. \u2018Ozmilk (Azemilkos). Circa 349-311/0 BC. AR Shekel (20.5mm, 8.68 g, 12h). Dated RY 7 (343/2 BC). NGC Ch XF, 5/5, 4/5.",
+      "description": "Greek, 12h, Coin-in-Hand Video, Silver Estimated:\u00a0$  1 000 Sold\u00a0Price:\u00a0$  3 250",
+      "hammer_price_usd": 3250.0,
+      "currency_original": "USD",
+      "price_original": 3250.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-22",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-7dfe8550bd89",
       "source": "sixbid",

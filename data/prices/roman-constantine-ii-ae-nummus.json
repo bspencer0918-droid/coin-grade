@@ -8,8 +8,8 @@
   "ruler_rarity": "scarce",
   "denomination": "AE Nummus",
   "metal": "bronze",
-  "sale_count": 283,
-  "realized_count": 283,
+  "sale_count": 285,
+  "realized_count": 285,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,14 +17,14 @@
     "max": 2400.0
   },
   "median_price_usd": 109.0,
-  "last_sale_date": "2026-08-16",
+  "last_sale_date": "2026-09-20",
   "grade_distribution": {
+    "XF": 13,
     "AU": 54,
     "MS": 216,
-    "XF": 11,
     "VF": 2
   },
-  "thumbnail_url": "https://media.coinarchives.com/795ea6ca463b1b9ba205d8309cf68eaf/img/heritage/61625/image22161.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/f66fa55eb2a358002d2407a8e89abcc4/img/heritage/61638/image21189.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -34,6 +34,72 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-82696981f595",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2810104&AucID=7316&Lot=21189&Val=22ed3c4776ebcd6e45ec6e4d64018d69",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61638, Lot 21189 \u2014 Ancients\nConstantine II, as Caesar (AD 337-340). AE3 or BI nummus (19mm, 2.54 gm, 7h). NGC Choice XF 5/5 - 4/5. Trier, 2nd officina, AD 322-323. CONSTANTINVS IVN NOB C, laureate, draped, and cuirassed",
+      "description": "Ancients\nConstantine II, as Caesar (AD 337-340). AE3 or BI nummus (19mm, 2.54 gm, 7h). NGC Choice XF 5/5 - 4/5. Trier, 2nd officina, AD 322-323. CONSTANTINVS IVN NOB C, laureate, draped, and cuirassed bust of Constantine II left, Victory on globe in right hand, mappa in left hand / BEATA TRAN-QVILLITAS, globe set on altar inscribed VO / TIS / XX; three stars above, \u2022STR\u2022 below. RIC VII 382 var. (bust type).\n\nFrom the Dr. Charles Jay Deur Collection, for the charitable benefit of Calvin Univers...",
+      "hammer_price_usd": 140.0,
+      "currency_original": "USD",
+      "price_original": 140.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-20",
+      "image_url": "https://media.coinarchives.com/f66fa55eb2a358002d2407a8e89abcc4/img/heritage/61638/image21189.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-333fdd281357",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2810106&AucID=7316&Lot=21191&Val=02b84e2af0e722551d6990cc916b7f04",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61638, Lot 21191 \u2014 Ancients\nConstantine II, as Caesar (AD 337-340). AE3 or BI nummus (19mm, 3.20 gm, 7h). NGC XF 5/5 - 3/5. London, 1st officina, AD 321. CONSTANT-INVS IVN NC, radiate, draped, and cuirassed bust of Cons",
+      "description": "Ancients\nConstantine II, as Caesar (AD 337-340). AE3 or BI nummus (19mm, 3.20 gm, 7h). NGC XF 5/5 - 3/5. London, 1st officina, AD 321. CONSTANT-INVS IVN NC, radiate, draped, and cuirassed bust of Constantine II left, seen from front / BEAT TRAN-QLITAS, globe on altar inscribed VOT / IS / XX; three stars above, P-A across fields, PLON in exergue. RIC VII 219.\n\nFrom the Dr. Charles Jay Deur Collection, for the charitable benefit of Calvin University and Peace Lutheran Church of Hurst. Collectors...",
+      "hammer_price_usd": 60.0,
+      "currency_original": "USD",
+      "price_original": 60.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-20",
+      "image_url": "https://media.coinarchives.com/d05736538b7f317e6fdd338d9143182b/img/heritage/61638/image21191.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-cc6bd3c40c6f",
       "source": "coinarchives",

@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "gold",
-  "sale_count": 117,
-  "realized_count": 117,
+  "sale_count": 118,
+  "realized_count": 118,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,15 +17,15 @@
     "max": 120000.0
   },
   "median_price_usd": 20400.0,
-  "last_sale_date": "2026-09-01",
+  "last_sale_date": "2026-09-20",
   "grade_distribution": {
     "MS": 24,
+    "VF": 13,
     "AU": 44,
     "XF": 35,
-    "VF": 12,
     "F": 2
   },
-  "thumbnail_url": "https://media.coinarchives.com/cb8f6901f05cb71378f4c45c1da3e967/img/heritage/3132/image31022.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/ccae9647fb7bf47c8d91f5ff77ffa5d3/img/heritage/61638/image21004.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 2,
@@ -62,6 +62,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-fdfd408b2395",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2809919&AucID=7316&Lot=21004&Val=cb0ec2d4c22d7f67f8c894be2c17dfcc",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61638, Lot 21004 \u2014 Ancients\nMACEDONIAN KINGDOM. Ptolemy Ceraunus (281-279 BC). AE (18mm, 4.37 gm, 8h). NGC Choice VF 4/5 - 3/5, edge chips Cassandrea(?). Laureate head of Zeus; dotted border / Eagle standing right, clos",
+      "description": "Ancients\nMACEDONIAN KINGDOM. Ptolemy Ceraunus (281-279 BC). AE (18mm, 4.37 gm, 8h). NGC Choice VF 4/5 - 3/5, edge chips Cassandrea(?). Laureate head of Zeus; dotted border / Eagle standing right, closed wings; \u0398 behind, \u03a0AP monogram before. CPE B160. Rare, not found in sales archives. \n\nFrom the Dr. Charles Jay Deur Collection, for the charitable benefit of Calvin University and Peace Lutheran Church of Hurst.   www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.ha.com/itm/ancients/greek/m...",
+      "hammer_price_usd": 180.0,
+      "currency_original": "USD",
+      "price_original": 180.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-20",
+      "image_url": "https://media.coinarchives.com/ccae9647fb7bf47c8d91f5ff77ffa5d3/img/heritage/61638/image21004.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

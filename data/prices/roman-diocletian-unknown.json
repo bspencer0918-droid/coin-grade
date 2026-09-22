@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "silver",
-  "sale_count": 134,
-  "realized_count": 134,
+  "sale_count": 135,
+  "realized_count": 135,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,15 +17,15 @@
     "max": 5280.0
   },
   "median_price_usd": 264.0,
-  "last_sale_date": "2026-09-14",
+  "last_sale_date": "2026-09-20",
   "grade_distribution": {
     "AU": 51,
-    "XF": 22,
+    "XF": 23,
     "VF": 6,
     "MS": 54,
     "G": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/ac3901224c6608174a87a5e46f916767/img/ponterio/238/image41227.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/8bd52702b61614f4701df353140dcacc/img/heritage/61638/image21115.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 3,
@@ -392,6 +392,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-53c8bf942fed",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2810030&AucID=7316&Lot=21115&Val=1e150550ef97fb5028ae222ce122b9cc",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61638, Lot 21115 \u2014 Ancients\nDiocletian (AD 284-305). AE Post-Reform Radiate (19mm, 3.13 gm, 11h). NGC XF 5/5 - 4/5. Rome, ca. 296-297 AD. IMP DIOCLETIANVS AVG, radiate, draped and cuirassed bust of Diocletian right / VO",
+      "description": "Ancients\nDiocletian (AD 284-305). AE Post-Reform Radiate (19mm, 3.13 gm, 11h). NGC XF 5/5 - 4/5. Rome, ca. 296-297 AD. IMP DIOCLETIANVS AVG, radiate, draped and cuirassed bust of Diocletian right / VOT XX \u0394, within wreath. RIC VI 86 var. (mint mark unrecorded).\n\nFrom the Dr. Charles Jay Deur Collection, for the charitable benefit of Calvin University and Peace Lutheran Church of Hurst. Collectors tag included.\n\n\n\n  www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.ha.com/itm/ancients/roma...",
+      "hammer_price_usd": 125.0,
+      "currency_original": "USD",
+      "price_original": 125.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-20",
+      "image_url": "https://media.coinarchives.com/8bd52702b61614f4701df353140dcacc/img/heritage/61638/image21115.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

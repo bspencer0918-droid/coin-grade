@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "unknown",
-  "sale_count": 321,
-  "realized_count": 320,
+  "sale_count": 323,
+  "realized_count": 322,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,15 +17,15 @@
     "max": 292800.0
   },
   "median_price_usd": 119.0,
-  "last_sale_date": "2026-09-14",
+  "last_sale_date": "2026-09-20",
   "grade_distribution": {
     "AU": 22,
     "MS": 6,
     "XF": 85,
-    "VF": 187,
+    "VF": 189,
     "F": 21
   },
-  "thumbnail_url": "https://media.coinarchives.com/443404b6a00e9c0d191775016a789f1c/img/naville/101/image00040.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/3ff528838381ab2e0cf181617894470a/img/heritage/61638/image21002.jpg",
   "median_weight_g": null,
   "top_strike_score": null,
   "top_surface_score": null,
@@ -491,6 +491,72 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-40922b66e7f9",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2809917&AucID=7316&Lot=21002&Val=70f917732218f6b48388d210b14d3fa5",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61638, Lot 21002 \u2014 Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AE unit (17mm, 4.38 gm, 5h). NGC Choice VF 5/5 - 3/5. Lifetime-early posthumous issue, ca. 325-310 BC, uncertain mint in Macedon. Hea",
+      "description": "Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AE unit (17mm, 4.38 gm, 5h). NGC Choice VF 5/5 - 3/5. Lifetime-early posthumous issue, ca. 325-310 BC, uncertain mint in Macedon. Head of Heracles right, wearing lion skin headdress, paws tied before neck / B-A, club right above, thunderbolt, bow-in-bowcase left below. Price 375 (described as club left and bow-in-bowcase right).\n\nFrom the Dr. Charles Jay Deur Collection, for the charitable benefit of Calvin University and Peace...",
+      "hammer_price_usd": 150.0,
+      "currency_original": "USD",
+      "price_original": 150.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-20",
+      "image_url": "https://media.coinarchives.com/3ff528838381ab2e0cf181617894470a/img/heritage/61638/image21002.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-d41adda39365",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2809918&AucID=7316&Lot=21003&Val=23351cbdf5c753da6d2a0253bc9481ae",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61638, Lot 21003 \u2014 Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AE unit (17mm, 5.50 gm, 2h). NGC Choice VF 5/5 - 3/5, edge chip. Lifetime issue, ca. 336-323 BC, uncertain mint in Macedon. Head of H",
+      "description": "Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AE unit (17mm, 5.50 gm, 2h). NGC Choice VF 5/5 - 3/5, edge chip. Lifetime issue, ca. 336-323 BC, uncertain mint in Macedon. Head of Heracles right, wearing lion skin headdress, paws tied before neck / A\u039bE\u039eAN\u0394POY, club right above, quiver and bow left below; E in exergue. Price 304 (club described as left).\n\nFrom the Dr. Charles Jay Deur Collection, for the charitable benefit of Calvin University and Peace Lutheran Church of Hur...",
+      "hammer_price_usd": 145.0,
+      "currency_original": "USD",
+      "price_original": 145.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-20",
+      "image_url": "https://media.coinarchives.com/ca858608cc1c2d63ba0ac3868f093a7d/img/heritage/61638/image21003.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

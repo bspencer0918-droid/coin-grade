@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AE Sestertius",
   "metal": "bronze",
-  "sale_count": 79,
-  "realized_count": 79,
+  "sale_count": 80,
+  "realized_count": 80,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,24 +17,57 @@
     "max": 4440.0
   },
   "median_price_usd": 336.0,
-  "last_sale_date": "2026-08-31",
+  "last_sale_date": "2026-09-20",
   "grade_distribution": {
+    "XF": 20,
     "VF": 40,
-    "XF": 19,
     "AU": 9,
     "VG": 1,
     "F": 10
   },
-  "thumbnail_url": "https://media.coinarchives.com/e7841b40bc41e06a7302198a68be384d/img/heritage/61635/image23121.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/da20cc7d85a41ec0d9bb1a4d5215fe58/img/heritage/61638/image21052.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 3,
-  "top_grade_numeric": null,
+  "top_surface_score": 4,
+  "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-4d6074b5445b",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2809967&AucID=7316&Lot=21052&Val=4cb5a9ecc39164a87172af07cfd8f302",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61638, Lot 21052 \u2014 Ancients\nMarcus Aurelius, as Augustus (AD 161-180). AE sestertius (31mm, 20.30 gm, 11h). NGC XF 5/5 - 4/5. Rome, AD 165-166. M AVREL ANTONINVS A-V-G ARMENIACVS P M, laureate head of Marcus Aurelius ri",
+      "description": "Ancients\nMarcus Aurelius, as Augustus (AD 161-180). AE sestertius (31mm, 20.30 gm, 11h). NGC XF 5/5 - 4/5. Rome, AD 165-166. M AVREL ANTONINVS A-V-G ARMENIACVS P M, laureate head of Marcus Aurelius right / TR POT XX-IMP III COS III, Providentia standing facing, head left, wand in outstretched right hand above globe at feet before, grounded scepter in left hand; S-C across fields. RIC III 923.\n\nFrom the Dr. Charles Jay Deur Collection, for the charitable benefit of Calvin University and Peace L...",
+      "hammer_price_usd": 1050.0,
+      "currency_original": "USD",
+      "price_original": 1050.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-20",
+      "image_url": "https://media.coinarchives.com/da20cc7d85a41ec0d9bb1a4d5215fe58/img/heritage/61638/image21052.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-bf55e62bf52d",
       "source": "coinarchives",

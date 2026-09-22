@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "silver",
-  "sale_count": 323,
-  "realized_count": 323,
+  "sale_count": 324,
+  "realized_count": 324,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,15 +17,15 @@
     "max": 19000.0
   },
   "median_price_usd": 99.0,
-  "last_sale_date": "2026-09-08",
+  "last_sale_date": "2026-09-20",
   "grade_distribution": {
-    "XF": 75,
+    "XF": 76,
     "VF": 47,
     "AU": 81,
     "F": 5,
     "MS": 115
   },
-  "thumbnail_url": "https://media.coinarchives.com/6185da83fb7252d1f0970b55e61c603b/img/ponterio/238online/image44342.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/35c183b81a35f22c878f3fb9de9396bb/img/heritage/61638/image21061.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 2,
@@ -2306,6 +2306,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-1734423a2983",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2809976&AucID=7316&Lot=21061&Val=eef556b38668655014b1056270f72526",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61638, Lot 21061 \u2014 Ancients\nGallienus, Joint Reign (AD 253-268). BI antoninianus (22mm, 3.19 gm, 1h). NGC Choice XF 4/5 - 4/5. Rome, AD 254. IMP C P LIC GALLIENVS AVG, radiate, cuirassed bust of Gallienus right, seen fr",
+      "description": "Ancients\nGallienus, Joint Reign (AD 253-268). BI antoninianus (22mm, 3.19 gm, 1h). NGC Choice XF 4/5 - 4/5. Rome, AD 254. IMP C P LIC GALLIENVS AVG, radiate, cuirassed bust of Gallienus right, seen from front / VIRTVS-AVGG, Virtus standing facing, helmeted head left, right hand resting on grounded shield, reversed grounded spear in left hand. RIC V.I 181.\n\nFrom the Dr. Charles Jay Deur Collection, for the charitable benefit of Calvin University and Peace Lutheran Church of Hurst.   www.HA.com/...",
+      "hammer_price_usd": 140.0,
+      "currency_original": "USD",
+      "price_original": 140.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-20",
+      "image_url": "https://media.coinarchives.com/35c183b81a35f22c878f3fb9de9396bb/img/heritage/61638/image21061.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

@@ -8,18 +8,18 @@
   "ruler_rarity": null,
   "denomination": "AE Sestertius",
   "metal": "bronze",
-  "sale_count": 129,
-  "realized_count": 129,
+  "sale_count": 130,
+  "realized_count": 130,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 1.0,
     "max": 16800.0
   },
-  "median_price_usd": 408.0,
+  "median_price_usd": 396.0,
   "last_sale_date": "2026-09-20",
   "grade_distribution": {
-    "XF": 36,
+    "XF": 37,
     "MS": 1,
     "AU": 23,
     "VF": 48,
@@ -27,7 +27,7 @@
     "VG": 5,
     "G": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/3d4ff641217f7b48597d7532d905a77a/img/heritage/61625/image22064.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/d424bd67135d4375ab93b98dad034f0f/img/heritage/61638/image21059.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -130,6 +130,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-a07003d66dfc",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2809974&AucID=7316&Lot=21059&Val=3a6d3e330a176909a179e28c4c7f614f",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61638, Lot 21059 \u2014 Ancients\nTrajan Decius (AD 249-251). AE sestertius (30mm, 17.12 gm, 1h). NGC XF 4/5 - 4/5. Rome. IMP C M Q TRAIANVS DECIVS AVG, laureate, cuirassed bust of Trajan Decius right, seen from behind / D-A-",
+      "description": "Ancients\nTrajan Decius (AD 249-251). AE sestertius (30mm, 17.12 gm, 1h). NGC XF 4/5 - 4/5. Rome. IMP C M Q TRAIANVS DECIVS AVG, laureate, cuirassed bust of Trajan Decius right, seen from behind / D-A-CIA, Dacia standing facing, head left, grounded draco battle standard in right hand; S-C across fields. RIC IV.III 112a. \n\nFrom the Dr. Charles Jay Deur Collection, for the charitable benefit of Calvin University and Peace Lutheran Church of Hurst. Ex Pegasi Numismatics, private sale with dealer's...",
+      "hammer_price_usd": 120.0,
+      "currency_original": "USD",
+      "price_original": 120.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-20",
+      "image_url": "https://media.coinarchives.com/d424bd67135d4375ab93b98dad034f0f/img/heritage/61638/image21059.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
