@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 1732,
-  "realized_count": 1692,
+  "sale_count": 1733,
+  "realized_count": 1693,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,12 +17,12 @@
     "max": 312000.0
   },
   "median_price_usd": 600.0,
-  "last_sale_date": "2026-09-22",
+  "last_sale_date": "2026-09-23",
   "grade_distribution": {
     "VF": 366,
     "XF": 243,
     "P": 42,
-    "MS": 579,
+    "MS": 580,
     "AU": 344,
     "F": 110,
     "AG": 1,
@@ -50,7 +50,7 @@
       "currency_original": "USD",
       "price_original": 6000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-09-22",
+      "sale_date": "2026-09-23",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -83,7 +83,7 @@
       "currency_original": "USD",
       "price_original": 550.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-09-22",
+      "sale_date": "2026-09-23",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -116,7 +116,7 @@
       "currency_original": "USD",
       "price_original": 13000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-09-22",
+      "sale_date": "2026-09-23",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -149,7 +149,7 @@
       "currency_original": "USD",
       "price_original": 14000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-09-22",
+      "sale_date": "2026-09-23",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -182,7 +182,7 @@
       "currency_original": "USD",
       "price_original": 1600.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-09-22",
+      "sale_date": "2026-09-23",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -215,7 +215,7 @@
       "currency_original": "USD",
       "price_original": 1500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-09-22",
+      "sale_date": "2026-09-23",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -9159,6 +9159,39 @@
       "price_original": 1800.0,
       "buyers_premium_included": false,
       "sale_date": "2026-03-24",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-dcc44aff4465",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/14078/worldcoin-great-britain/12488305/hauberg-28-hauberg-collection-997-bruun-1849-weight",
+      "title": "Hauberg-28; Hauberg Collection-997; Bruun-1849. Weight: 1.13 gms. Moneyer: Warhus. A nice problem-free example that is fully legible and well-struck on an even flan; obverse double-struck.<p><em>Of Byzantine inspiration, the obverse features Christ, nimbate, with His right hand in blessing, carrying the Gospels in His left. </em> <br> DENMARK. Penny, ND (1047-75). Lund Mint. Svend II Estridsen. NGC MS-62. <br> From the L.E. Bruun Collection.</p><p>Ex: Countship of Brahesminde Collection (Private Sale - 1922).</p>",
+      "description": "Stack\u2019s Bowers and Ponterio | ['September 2026 World Premier Collectors Choice Auction - Selections from the L. E. Bruun Collection']",
+      "hammer_price_usd": 346.53,
+      "currency_original": "USD",
+      "price_original": 346.53,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-21",
       "image_url": null,
       "ngc": {
         "verified": false,
