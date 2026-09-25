@@ -1,7 +1,48 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-09-24T11:29:23.906235+00:00",
+  "generated_at": "2026-09-25T11:32:55.849626+00:00",
   "coins": [
+    {
+      "slug": "roman-ar-denarius",
+      "category": "roman",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "ruler_dates": null,
+      "ruler_rarity": null,
+      "denomination": "AR Denarius",
+      "metal": "silver",
+      "sale_count": 5854,
+      "realized_count": 5847,
+      "fixed_price_count": 4,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 31.0,
+        "max": 720000.0
+      },
+      "median_price_usd": 264.0,
+      "last_sale_date": "2026-09-25",
+      "grade_distribution": {
+        "XF": 1764,
+        "MS": 361,
+        "AU": 1193,
+        "P": 2,
+        "VF": 2095,
+        "F": 382,
+        "VG": 38,
+        "G": 18,
+        "AG": 1
+      },
+      "thumbnail_url": "https://media.coinarchives.com/c0f4e35685d72b55edce36bbf1500d1d/img/heritage/61638/image21054.jpg",
+      "median_weight_g": null,
+      "top_strike_score": 4,
+      "top_surface_score": 5,
+      "top_grade_numeric": null,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
     {
       "slug": "greek-unknown",
       "category": "greek",
@@ -21,7 +62,7 @@
         "max": 82278.0
       },
       "median_price_usd": 1727.55,
-      "last_sale_date": "2026-09-24",
+      "last_sale_date": "2026-09-25",
       "grade_distribution": {
         "VF": 43,
         "AU": 53,
@@ -62,7 +103,7 @@
         "max": 1100.0
       },
       "median_price_usd": 950.0,
-      "last_sale_date": "2026-09-24",
+      "last_sale_date": "2026-09-25",
       "grade_distribution": {
         "XF": 1,
         "AU": 1
@@ -96,7 +137,7 @@
         "max": 40800.0
       },
       "median_price_usd": 174.0,
-      "last_sale_date": "2026-09-24",
+      "last_sale_date": "2026-09-25",
       "grade_distribution": {
         "XF": 210,
         "AU": 307,
@@ -136,7 +177,7 @@
         "max": 120000.0
       },
       "median_price_usd": 2280.0,
-      "last_sale_date": "2026-09-24",
+      "last_sale_date": "2026-09-25",
       "grade_distribution": {
         "XF": 498,
         "F": 46,
@@ -177,7 +218,7 @@
         "max": 3240.0
       },
       "median_price_usd": 855.855,
-      "last_sale_date": "2026-09-24",
+      "last_sale_date": "2026-09-25",
       "grade_distribution": {
         "AU": 1,
         "VF": 3,
@@ -215,7 +256,7 @@
         "max": 2640.0
       },
       "median_price_usd": 564.0,
-      "last_sale_date": "2026-09-24",
+      "last_sale_date": "2026-09-25",
       "grade_distribution": {
         "VF": 3,
         "AU": 6,
@@ -253,7 +294,7 @@
         "max": 114000.0
       },
       "median_price_usd": 16800.0,
-      "last_sale_date": "2026-09-24",
+      "last_sale_date": "2026-09-25",
       "grade_distribution": {
         "VF": 16,
         "AU": 35,
@@ -291,7 +332,7 @@
         "max": 90000.0
       },
       "median_price_usd": 4530.0,
-      "last_sale_date": "2026-09-24",
+      "last_sale_date": "2026-09-25",
       "grade_distribution": {
         "XF": 123,
         "F": 15,
@@ -330,7 +371,7 @@
         "max": 195000.0
       },
       "median_price_usd": 500.0,
-      "last_sale_date": "2026-09-24",
+      "last_sale_date": "2026-09-25",
       "grade_distribution": {
         "XF": 38,
         "VF": 43,
@@ -369,7 +410,7 @@
         "max": 21600.0
       },
       "median_price_usd": 810.0,
-      "last_sale_date": "2026-09-24",
+      "last_sale_date": "2026-09-25",
       "grade_distribution": {
         "VF": 37,
         "XF": 33,
@@ -381,47 +422,6 @@
       "median_weight_g": null,
       "top_strike_score": 5,
       "top_surface_score": 5,
-      "top_grade_numeric": null,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
-      "slug": "roman-ar-denarius",
-      "category": "roman",
-      "ruler": null,
-      "ruler_normalized": null,
-      "dynasty": null,
-      "ruler_dates": null,
-      "ruler_rarity": null,
-      "denomination": "AR Denarius",
-      "metal": "silver",
-      "sale_count": 5852,
-      "realized_count": 5845,
-      "fixed_price_count": 4,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 31.0,
-        "max": 720000.0
-      },
-      "median_price_usd": 264.0,
-      "last_sale_date": "2026-09-24",
-      "grade_distribution": {
-        "AU": 1193,
-        "P": 2,
-        "XF": 1763,
-        "VF": 2095,
-        "F": 382,
-        "MS": 360,
-        "VG": 38,
-        "G": 18,
-        "AG": 1
-      },
-      "thumbnail_url": "https://media.coinarchives.com/c0f4e35685d72b55edce36bbf1500d1d/img/heritage/61638/image21054.jpg",
-      "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 4,
       "top_grade_numeric": null,
       "dominant_service": "ngc",
       "series": null,
@@ -447,7 +447,7 @@
         "max": 850.0
       },
       "median_price_usd": 114.0,
-      "last_sale_date": "2026-09-24",
+      "last_sale_date": "2026-09-25",
       "grade_distribution": {
         "XF": 114,
         "AU": 20,
@@ -483,7 +483,7 @@
         "max": 600000.0
       },
       "median_price_usd": 117000.0,
-      "last_sale_date": "2026-09-24",
+      "last_sale_date": "2026-09-25",
       "grade_distribution": {
         "P": 2,
         "AU": 1,
@@ -521,7 +521,7 @@
         "max": 19200.0
       },
       "median_price_usd": 4356.0,
-      "last_sale_date": "2026-09-24",
+      "last_sale_date": "2026-09-25",
       "grade_distribution": {
         "MS": 75,
         "AU": 125,
@@ -559,7 +559,7 @@
         "max": 300.0
       },
       "median_price_usd": 230.0,
-      "last_sale_date": "2026-09-24",
+      "last_sale_date": "2026-09-25",
       "grade_distribution": {
         "XF": 2
       },
@@ -592,7 +592,7 @@
         "max": 536800.0
       },
       "median_price_usd": 5160.0,
-      "last_sale_date": "2026-09-24",
+      "last_sale_date": "2026-09-25",
       "grade_distribution": {
         "AU": 183,
         "MS": 270,
@@ -630,7 +630,7 @@
         "max": 960.0
       },
       "median_price_usd": 325.0,
-      "last_sale_date": "2026-09-24",
+      "last_sale_date": "2026-09-25",
       "grade_distribution": {
         "XF": 10,
         "MS": 20,
@@ -668,7 +668,7 @@
         "max": 4320.0
       },
       "median_price_usd": 264.0,
-      "last_sale_date": "2026-09-24",
+      "last_sale_date": "2026-09-25",
       "grade_distribution": {
         "XF": 17,
         "VF": 20,
@@ -707,7 +707,7 @@
         "max": 1700.0
       },
       "median_price_usd": 1450.0,
-      "last_sale_date": "2026-09-24",
+      "last_sale_date": "2026-09-25",
       "grade_distribution": {
         "XF": 2,
         "VF": 1
@@ -741,7 +741,7 @@
         "max": 8400.0
       },
       "median_price_usd": 169.0,
-      "last_sale_date": "2026-09-24",
+      "last_sale_date": "2026-09-25",
       "grade_distribution": {
         "VF": 51,
         "XF": 182,
@@ -781,7 +781,7 @@
         "max": 350.0
       },
       "median_price_usd": 350.0,
-      "last_sale_date": "2026-09-24",
+      "last_sale_date": "2026-09-25",
       "grade_distribution": {
         "XF": 1
       },
@@ -814,7 +814,7 @@
         "max": 292800.0
       },
       "median_price_usd": 1920.0,
-      "last_sale_date": "2026-09-24",
+      "last_sale_date": "2026-09-25",
       "grade_distribution": {
         "VF": 287,
         "XF": 390,
@@ -854,7 +854,7 @@
         "max": 312000.0
       },
       "median_price_usd": 600.0,
-      "last_sale_date": "2026-09-24",
+      "last_sale_date": "2026-09-25",
       "grade_distribution": {
         "VF": 366,
         "XF": 243,
@@ -871,44 +871,6 @@
       "top_strike_score": 4,
       "top_surface_score": 5,
       "top_grade_numeric": 4,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
-      "slug": "greek-syracuse-unknown",
-      "category": "greek",
-      "ruler": "Syracuse",
-      "ruler_normalized": "syracuse",
-      "dynasty": "City-State",
-      "ruler_dates": null,
-      "ruler_rarity": null,
-      "denomination": "Unknown",
-      "metal": "bronze",
-      "sale_count": 125,
-      "realized_count": 123,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 110.0,
-        "max": 268400.0
-      },
-      "median_price_usd": 8400.0,
-      "last_sale_date": "2026-09-24",
-      "grade_distribution": {
-        "VF": 12,
-        "F": 2,
-        "XF": 45,
-        "AU": 53,
-        "MS": 12,
-        "VG": 1
-      },
-      "thumbnail_url": "https://media.coinarchives.com/9b482b48d3694f50c3c16602c4262c80/img/heritage/61638/image21253.jpg",
-      "median_weight_g": null,
-      "top_strike_score": 5,
-      "top_surface_score": 5,
-      "top_grade_numeric": null,
       "dominant_service": "ngc",
       "series": null,
       "date_struck": null,
@@ -1192,7 +1154,7 @@
         "max": 50400.0
       },
       "median_price_usd": 1680.0,
-      "last_sale_date": "2026-09-24",
+      "last_sale_date": "2026-09-25",
       "grade_distribution": {
         "VF": 11,
         "G": 2,
@@ -1378,7 +1340,7 @@
         "max": 7000.0
       },
       "median_price_usd": 930.0,
-      "last_sale_date": "2026-09-24",
+      "last_sale_date": "2026-09-25",
       "grade_distribution": {
         "VF": 5,
         "P": 1,
@@ -4792,7 +4754,7 @@
         "max": 3720.0
       },
       "median_price_usd": 264.0,
-      "last_sale_date": "2026-09-24",
+      "last_sale_date": "2026-09-25",
       "grade_distribution": {
         "VF": 85,
         "AU": 14,
@@ -4829,7 +4791,7 @@
         "max": 10000.0
       },
       "median_price_usd": 146.88,
-      "last_sale_date": "2026-09-24",
+      "last_sale_date": "2026-09-25",
       "grade_distribution": {
         "G": 4,
         "AU": 121,
@@ -6500,6 +6462,44 @@
       "mint_mark": null
     },
     {
+      "slug": "greek-syracuse-unknown",
+      "category": "greek",
+      "ruler": "Syracuse",
+      "ruler_normalized": "syracuse",
+      "dynasty": "City-State",
+      "ruler_dates": null,
+      "ruler_rarity": null,
+      "denomination": "Unknown",
+      "metal": "gold",
+      "sale_count": 125,
+      "realized_count": 123,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 110.0,
+        "max": 268400.0
+      },
+      "median_price_usd": 8400.0,
+      "last_sale_date": "2026-09-24",
+      "grade_distribution": {
+        "F": 2,
+        "VF": 12,
+        "XF": 45,
+        "AU": 53,
+        "MS": 12,
+        "VG": 1
+      },
+      "thumbnail_url": "https://media.coinarchives.com/9b482b48d3694f50c3c16602c4262c80/img/heritage/61638/image21253.jpg",
+      "median_weight_g": null,
+      "top_strike_score": 5,
+      "top_surface_score": 5,
+      "top_grade_numeric": null,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
+    {
       "slug": "persian-ar-tetradrachm",
       "category": "persian",
       "ruler": null,
@@ -7510,7 +7510,7 @@
         "max": 216000.0
       },
       "median_price_usd": 960.0,
-      "last_sale_date": "2026-09-24",
+      "last_sale_date": "2026-09-25",
       "grade_distribution": {
         "AU": 85,
         "MS": 162,
@@ -7794,7 +7794,7 @@
         "max": 1950.0
       },
       "median_price_usd": 1950.0,
-      "last_sale_date": "2026-09-24",
+      "last_sale_date": "2026-09-25",
       "grade_distribution": {
         "P": 1
       },
@@ -7827,7 +7827,7 @@
         "max": 5040.0
       },
       "median_price_usd": 528.0,
-      "last_sale_date": "2026-09-24",
+      "last_sale_date": "2026-09-25",
       "grade_distribution": {
         "P": 1,
         "VF": 50,
@@ -7867,7 +7867,7 @@
         "max": 3240.0
       },
       "median_price_usd": 504.0,
-      "last_sale_date": "2026-09-24",
+      "last_sale_date": "2026-09-25",
       "grade_distribution": {
         "F": 1,
         "AU": 1,
