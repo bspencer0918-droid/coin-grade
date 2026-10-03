@@ -8,19 +8,19 @@
   "ruler_rarity": null,
   "denomination": "AV Aureus",
   "metal": "gold",
-  "sale_count": 195,
-  "realized_count": 195,
+  "sale_count": 196,
+  "realized_count": 196,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 1920.0,
     "max": 26400.0
   },
-  "median_price_usd": 5520.0,
+  "median_price_usd": 5521.25,
   "last_sale_date": "2026-09-01",
   "grade_distribution": {
     "VF": 34,
-    "XF": 55,
+    "XF": 56,
     "MS": 38,
     "AU": 65,
     "F": 3
@@ -201,6 +201,72 @@
       }
     },
     {
+      "id": "coinarchives-1826843344c5",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803390&AucID=7297&Lot=41217&Val=5af99e85a30bff200a2d8d366d98443e",
+      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 41217 \u2014 - Illustrated in Calico\nANTONINUS PIUS, A.D. 138-161. AV Aureus (7.57 gms), Rome Mint, ca. A.D. 140-143. NGC Ch EF, Strike: 5/5 Surface: 3/5. Fine Style.\nTo view all items from the Koopmann Collection",
+      "description": "- Illustrated in Calico\nANTONINUS PIUS, A.D. 138-161. AV Aureus (7.57 gms), Rome Mint, ca. A.D. 140-143. NGC Ch EF, Strike: 5/5 Surface: 3/5. Fine Style.\nTo view all items from the Koopmann Collection, click  here.\nRIC-105b; Calico-1463 (this coin illustrated). Obverse: Bareheaded, draped, and cuirassed bust right; Reverse: Emperor standing right, holding spear and parazonium. A richly detailed portrait of Antoninus rendered in fine style. Glorious golden surfaces beaming with tremendous luste...",
+      "hammer_price_usd": 8000.0,
+      "currency_original": "USD",
+      "price_original": 8000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-31",
+      "image_url": "https://media.coinarchives.com/f5406402ec398e9df70b17f9efce8124/img/ponterio/238/image41217.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-9547c82df4d3",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801842&AucID=7287&Lot=34143&Val=016d9993330b1cb95f427acbe25147cb",
+      "title": "Heritage World Coin Auctions - ANA Signature Sale 3135, Lot 34143 \u2014 Ancients\nDiva Faustina Senior (AD 138-140/141). AV aureus (20mm, 7.19 gm, 5h). NGC Choice AU 5/5 - 4/5. Rome, AD 147-161. DIVA-FAVSTINA, draped bust of Diva Faustina Senior right, seen from front, hai",
+      "description": "Ancients\nDiva Faustina Senior (AD 138-140/141). AV aureus (20mm, 7.19 gm, 5h). NGC Choice AU 5/5 - 4/5. Rome, AD 147-161. DIVA-FAVSTINA, draped bust of Diva Faustina Senior right, seen from front, hair elaborately waved in several loops around head, braided, drawn up and coiled on top with pearls / CONSECRA-TIO, peacock walking right on ground line, wings closed, head reverted. Calic\u00f3 1783. RIC III (Antoninus Pius) 384. \n\nSelections from the Montblanc Collection. Ex Pecunem/Numismatik Naumann,...",
+      "hammer_price_usd": 12000.0,
+      "currency_original": "USD",
+      "price_original": 12000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": "https://media.coinarchives.com/3fa877977e8fc47dc4968bc50522fdca/img/heritage/3135/image34143.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-21ced8a5eb35",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -319,39 +385,6 @@
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 5,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-9547c82df4d3",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801842&AucID=7287&Lot=34143&Val=016d9993330b1cb95f427acbe25147cb",
-      "title": "Heritage World Coin Auctions - ANA Signature Sale 3135, Lot 34143 \u2014 Ancients\nDiva Faustina Senior (AD 138-140/141). AV aureus (20mm, 7.19 gm, 5h). NGC Choice AU 5/5 - 4/5. Rome, AD 147-161. DIVA-FAVSTINA, draped bust of Diva Faustina Senior right, seen from front, hai",
-      "description": "Ancients\nDiva Faustina Senior (AD 138-140/141). AV aureus (20mm, 7.19 gm, 5h). NGC Choice AU 5/5 - 4/5. Rome, AD 147-161. DIVA-FAVSTINA, draped bust of Diva Faustina Senior right, seen from front, hair elaborately waved in several loops around head, braided, drawn up and coiled on top with pearls / CONSECRA-TIO, peacock walking right on ground line, wings closed, head reverted. Calic\u00f3 1783. RIC III (Antoninus Pius) 384. \n\nSelections from the Montblanc Collection. Ex Pecunem/Numismatik Naumann,...",
-      "hammer_price_usd": 12000.0,
-      "currency_original": "USD",
-      "price_original": 12000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-09-01",
-      "image_url": "https://media.coinarchives.com/3fa877977e8fc47dc4968bc50522fdca/img/heritage/3135/image34143.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

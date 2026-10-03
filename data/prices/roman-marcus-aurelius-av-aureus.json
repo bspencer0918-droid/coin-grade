@@ -20,8 +20,8 @@
   "last_sale_date": "2026-09-01",
   "grade_distribution": {
     "MS": 21,
-    "VF": 12,
     "AU": 27,
+    "VF": 12,
     "XF": 20,
     "G": 2
   },
@@ -55,6 +55,39 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 4,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-88ac22f8edfb",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801672&AucID=7287&Lot=33059&Val=4caabbdf1a512c2feecd4aaa5b6ca0f2",
+      "title": "Heritage World Coin Auctions - ANA Signature Sale 3135, Lot 33059 \u2014 Ancients\nLucius Verus (AD 161-169). AV aureus (18mm, 7.30 gm, 7h). NGC Choice AU 5/5 - 3/5, Fine Style, brushed. Rome, December AD 163-December AD 164. \u2022L\u2022VERVS AVG-ARMENIACVS, bare head of Lucius Ver",
+      "description": "Ancients\nLucius Verus (AD 161-169). AV aureus (18mm, 7.30 gm, 7h). NGC Choice AU 5/5 - 3/5, Fine Style, brushed. Rome, December AD 163-December AD 164. \u2022L\u2022VERVS AVG-ARMENIACVS, bare head of Lucius Verus right / TR P IIII\u2022IMP II COS II, Victory standing facing, head right, half-draped, inscribing VIC / AVG on shield placed on palm tree. Calic\u00f3 2174 (this coin). RIC III (Marcus Aurelius) 522. Bold and brilliant with flashing surfaces that complement the sharp designs.\n\nSelections from the Montbl...",
+      "hammer_price_usd": 15000.0,
+      "currency_original": "USD",
+      "price_original": 15000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": "https://media.coinarchives.com/730a3cf1ccae59f5116a3e1381404624/img/heritage/3135/image33059.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
         "details_grade": null,
         "fine_style": true,
         "certification_url": null,
@@ -123,39 +156,6 @@
         "surface_score": 3,
         "details_grade": null,
         "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-88ac22f8edfb",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801672&AucID=7287&Lot=33059&Val=4caabbdf1a512c2feecd4aaa5b6ca0f2",
-      "title": "Heritage World Coin Auctions - ANA Signature Sale 3135, Lot 33059 \u2014 Ancients\nLucius Verus (AD 161-169). AV aureus (18mm, 7.30 gm, 7h). NGC Choice AU 5/5 - 3/5, Fine Style, brushed. Rome, December AD 163-December AD 164. \u2022L\u2022VERVS AVG-ARMENIACVS, bare head of Lucius Ver",
-      "description": "Ancients\nLucius Verus (AD 161-169). AV aureus (18mm, 7.30 gm, 7h). NGC Choice AU 5/5 - 3/5, Fine Style, brushed. Rome, December AD 163-December AD 164. \u2022L\u2022VERVS AVG-ARMENIACVS, bare head of Lucius Verus right / TR P IIII\u2022IMP II COS II, Victory standing facing, head right, half-draped, inscribing VIC / AVG on shield placed on palm tree. Calic\u00f3 2174 (this coin). RIC III (Marcus Aurelius) 522. Bold and brilliant with flashing surfaces that complement the sharp designs.\n\nSelections from the Montbl...",
-      "hammer_price_usd": 15000.0,
-      "currency_original": "USD",
-      "price_original": 15000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-09-01",
-      "image_url": "https://media.coinarchives.com/730a3cf1ccae59f5116a3e1381404624/img/heritage/3135/image33059.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": true,
         "certification_url": null,
         "grading_service": "ngc"
       },

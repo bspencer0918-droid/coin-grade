@@ -235,39 +235,6 @@
       }
     },
     {
-      "id": "coinarchives-d507d1b727f9",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2796202&AucID=7267&Lot=23142&Val=74fb4aec464de30edfdbfbe049797baa",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61635, Lot 23142 \u2014 Ancients\nCaracalla, as Augustus (AD 198-217). AR denarius (19mm, 3.26 gm, 1h). NGC Choice AU 5/5 - 4/5. Rome, AD 210. ANTONINVS PIVS-AVG BRIT, laureate head of Caracalla right / PONTIF TR P XIII-COS I",
-      "description": "Ancients\nCaracalla, as Augustus (AD 198-217). AR denarius (19mm, 3.26 gm, 1h). NGC Choice AU 5/5 - 4/5. Rome, AD 210. ANTONINVS PIVS-AVG BRIT, laureate head of Caracalla right / PONTIF TR P XIII-COS III, Concordia enthroned left, patera in outstretched right hand, double cornucopia cradled in left arm. RIC IV.I 116b.\n\nEx the L. William Libbert Collection (Heritage Auctions, Auction 61444, 23 December 2024), lot 21054; Gorny & Mosch, Online Auction 278 (21 April 2021), lot 3665.\n\nBorn in Lugdun...",
-      "hammer_price_usd": 380.0,
-      "currency_original": "USD",
-      "price_original": 380.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-07-28",
-      "image_url": "https://media.coinarchives.com/a7e43eb460d032340cedfe1a1e5db60f/img/heritage/61635/image23142.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-efefff32e889",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -294,6 +261,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-d507d1b727f9",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2796202&AucID=7267&Lot=23142&Val=74fb4aec464de30edfdbfbe049797baa",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61635, Lot 23142 \u2014 Ancients\nCaracalla, as Augustus (AD 198-217). AR denarius (19mm, 3.26 gm, 1h). NGC Choice AU 5/5 - 4/5. Rome, AD 210. ANTONINVS PIVS-AVG BRIT, laureate head of Caracalla right / PONTIF TR P XIII-COS I",
+      "description": "Ancients\nCaracalla, as Augustus (AD 198-217). AR denarius (19mm, 3.26 gm, 1h). NGC Choice AU 5/5 - 4/5. Rome, AD 210. ANTONINVS PIVS-AVG BRIT, laureate head of Caracalla right / PONTIF TR P XIII-COS III, Concordia enthroned left, patera in outstretched right hand, double cornucopia cradled in left arm. RIC IV.I 116b.\n\nEx the L. William Libbert Collection (Heritage Auctions, Auction 61444, 23 December 2024), lot 21054; Gorny & Mosch, Online Auction 278 (21 April 2021), lot 3665.\n\nBorn in Lugdun...",
+      "hammer_price_usd": 380.0,
+      "currency_original": "USD",
+      "price_original": 380.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-28",
+      "image_url": "https://media.coinarchives.com/a7e43eb460d032340cedfe1a1e5db60f/img/heritage/61635/image23142.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

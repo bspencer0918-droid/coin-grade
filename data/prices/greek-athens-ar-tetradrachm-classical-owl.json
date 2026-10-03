@@ -26,7 +26,7 @@
     "G": 1,
     "F": 2
   },
-  "thumbnail_url": "https://media.coinarchives.com/f3ca7894f808fb2d11092df43c06ad45/img/ponterio/238/image41061.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/63ab6a5bec331183dd3f5fd0ceb0079f/img/heritage/3132/image32022.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 5,
@@ -433,39 +433,6 @@
       }
     },
     {
-      "id": "coinarchives-9ec80b61af75",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803234&AucID=7297&Lot=41061&Val=c20c9b76f171c126230526999d779854",
-      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 41061 \u2014 ATTICA. Athens. AR Tetradrachm (17.12 gms), ca. 454-404 B.C. NGC Ch EF, Strike: 5/5 Surface: 4/5.\nHGC-4, 1597; Kroll-8. Obverse: Helmeted head of Athena right; Reverse: Owl standing right, head facing",
-      "description": "ATTICA. Athens. AR Tetradrachm (17.12 gms), ca. 454-404 B.C. NGC Ch EF, Strike: 5/5 Surface: 4/5.\nHGC-4, 1597; Kroll-8. Obverse: Helmeted head of Athena right; Reverse: Owl standing right, head facing; olive sprig and crescent to left; all within incuse square. A perfect strike on an exceptionally broad round flan, resulting in a wonderful obverse strike that provides a nearly-full crest on Athena's helmet. Further adding to the coin's allure is a beautiful cabinet tone with gentle pastel acce...",
-      "hammer_price_usd": 1350.0,
-      "currency_original": "USD",
-      "price_original": 1350.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-08-31",
-      "image_url": "https://media.coinarchives.com/f3ca7894f808fb2d11092df43c06ad45/img/ponterio/238/image41061.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-286021fdb4af",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -582,6 +549,39 @@
         "cert_number": null,
         "grade": "XF",
         "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-9ec80b61af75",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803234&AucID=7297&Lot=41061&Val=c20c9b76f171c126230526999d779854",
+      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 41061 \u2014 ATTICA. Athens. AR Tetradrachm (17.12 gms), ca. 454-404 B.C. NGC Ch EF, Strike: 5/5 Surface: 4/5.\nHGC-4, 1597; Kroll-8. Obverse: Helmeted head of Athena right; Reverse: Owl standing right, head facing",
+      "description": "ATTICA. Athens. AR Tetradrachm (17.12 gms), ca. 454-404 B.C. NGC Ch EF, Strike: 5/5 Surface: 4/5.\nHGC-4, 1597; Kroll-8. Obverse: Helmeted head of Athena right; Reverse: Owl standing right, head facing; olive sprig and crescent to left; all within incuse square. A perfect strike on an exceptionally broad round flan, resulting in a wonderful obverse strike that provides a nearly-full crest on Athena's helmet. Further adding to the coin's allure is a beautiful cabinet tone with gentle pastel acce...",
+      "hammer_price_usd": 1350.0,
+      "currency_original": "USD",
+      "price_original": 1350.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-08-31",
+      "image_url": "https://media.coinarchives.com/f3ca7894f808fb2d11092df43c06ad45/img/ponterio/238/image41061.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,

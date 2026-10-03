@@ -20,14 +20,14 @@
   "last_sale_date": "2026-09-08",
   "grade_distribution": {
     "VF": 207,
-    "XF": 145,
     "AU": 85,
+    "XF": 145,
     "F": 75,
     "MS": 11,
     "G": 3,
     "VG": 28
   },
-  "thumbnail_url": "https://media.coinarchives.com/24149a271579c697d3c7a684588e6071/img/ponterio/238online/image44263.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/a84050b4fa78ff9ce90a573b724c1843/img/heritage/61626/image23124.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 5,
@@ -104,39 +104,6 @@
       }
     },
     {
-      "id": "coinarchives-0849764a51b7",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803703&AucID=7298&Lot=44263&Val=f34957335fbeee3fc47319a50b493eac",
-      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 44263 \u2014 VESPASIAN, A.D. 69-79. AR Denarius (3.20 gms), Rome Mint. NGC EF, Strike: 5/5 Surface: 3/5. Flan Flaw.\nRIC-357. Obverse: Laureate head facing right; Reverse: Foreparts of two Capricorns left and right",
-      "description": "VESPASIAN, A.D. 69-79. AR Denarius (3.20 gms), Rome Mint. NGC EF, Strike: 5/5 Surface: 3/5. Flan Flaw.\nRIC-357. Obverse: Laureate head facing right; Reverse: Foreparts of two Capricorns left and right, with a globe and a shield with SC in between.\n\nEx: Classical Numismatic Group (9/2001) Lot # 1145 (with ticket).\n\nEstimate: 200 - 400...",
-      "hammer_price_usd": 460.0,
-      "currency_original": "USD",
-      "price_original": 460.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-09-08",
-      "image_url": "https://media.coinarchives.com/24149a271579c697d3c7a684588e6071/img/ponterio/238online/image44263.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-18e6f4377c46",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -158,6 +125,39 @@
         "surface_score": 5,
         "details_grade": null,
         "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-0849764a51b7",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803703&AucID=7298&Lot=44263&Val=f34957335fbeee3fc47319a50b493eac",
+      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 44263 \u2014 VESPASIAN, A.D. 69-79. AR Denarius (3.20 gms), Rome Mint. NGC EF, Strike: 5/5 Surface: 3/5. Flan Flaw.\nRIC-357. Obverse: Laureate head facing right; Reverse: Foreparts of two Capricorns left and right",
+      "description": "VESPASIAN, A.D. 69-79. AR Denarius (3.20 gms), Rome Mint. NGC EF, Strike: 5/5 Surface: 3/5. Flan Flaw.\nRIC-357. Obverse: Laureate head facing right; Reverse: Foreparts of two Capricorns left and right, with a globe and a shield with SC in between.\n\nEx: Classical Numismatic Group (9/2001) Lot # 1145 (with ticket).\n\nEstimate: 200 - 400...",
+      "hammer_price_usd": 460.0,
+      "currency_original": "USD",
+      "price_original": 460.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-08",
+      "image_url": "https://media.coinarchives.com/24149a271579c697d3c7a684588e6071/img/ponterio/238online/image44263.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
       },
