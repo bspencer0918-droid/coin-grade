@@ -203,39 +203,6 @@
       }
     },
     {
-      "id": "coinarchives-60cbf3e5cf4e",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801596&AucID=7287&Lot=30084&Val=afa2aed2b32ac2d5f7dcd4eac44ad1e7",
-      "title": "Heritage World Coin Auctions - ANA Signature Sale 3135, Lot 30084 \u2014 Ancients\nSeptimius Severus (AD 193-211). AV aureus (20mm, 7.26 gm, 11h). NGC Choice AU\u2605 5/5 - 5/5, Fine Style. Rome, AD 198-200. L SEPT SEV AVG IMP XI-PART MAX, laureate head of Septimius Severus righ",
-      "description": "Ancients\nSeptimius Severus (AD 193-211). AV aureus (20mm, 7.26 gm, 11h). NGC Choice AU\u2605 5/5 - 5/5, Fine Style. Rome, AD 198-200. L SEPT SEV AVG IMP XI-PART MAX, laureate head of Septimius Severus right, slight drapery visible on far shoulder / P M TR P VII-COS II P P, Fortuna standing facing, modius on head right, cornucopia cradled in right arm, grounded rudder in left hand; prow behind to left. Calic\u00f3 2502 corr. (Annona). RIC IV.I 135b corr. (same, this coin cited). Struck from fresh, artist...",
-      "hammer_price_usd": 24000.0,
-      "currency_original": "USD",
-      "price_original": 24000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-09-01",
-      "image_url": "https://media.coinarchives.com/f901789aceb6484cab59fb15417085c6/img/heritage/3135/image30084.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "fine_style": true,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-b3538fe68eb7",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -257,6 +224,39 @@
         "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-60cbf3e5cf4e",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801596&AucID=7287&Lot=30084&Val=afa2aed2b32ac2d5f7dcd4eac44ad1e7",
+      "title": "Heritage World Coin Auctions - ANA Signature Sale 3135, Lot 30084 \u2014 Ancients\nSeptimius Severus (AD 193-211). AV aureus (20mm, 7.26 gm, 11h). NGC Choice AU\u2605 5/5 - 5/5, Fine Style. Rome, AD 198-200. L SEPT SEV AVG IMP XI-PART MAX, laureate head of Septimius Severus righ",
+      "description": "Ancients\nSeptimius Severus (AD 193-211). AV aureus (20mm, 7.26 gm, 11h). NGC Choice AU\u2605 5/5 - 5/5, Fine Style. Rome, AD 198-200. L SEPT SEV AVG IMP XI-PART MAX, laureate head of Septimius Severus right, slight drapery visible on far shoulder / P M TR P VII-COS II P P, Fortuna standing facing, modius on head right, cornucopia cradled in right arm, grounded rudder in left hand; prow behind to left. Calic\u00f3 2502 corr. (Annona). RIC IV.I 135b corr. (same, this coin cited). Struck from fresh, artist...",
+      "hammer_price_usd": 24000.0,
+      "currency_original": "USD",
+      "price_original": 24000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": "https://media.coinarchives.com/f901789aceb6484cab59fb15417085c6/img/heritage/3135/image30084.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": true,
         "certification_url": null,
         "grading_service": "ngc"
       },

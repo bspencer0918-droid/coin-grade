@@ -17,13 +17,13 @@
     "max": 10000.0
   },
   "median_price_usd": 146.88,
-  "last_sale_date": "2026-10-03",
+  "last_sale_date": "2026-10-04",
   "grade_distribution": {
     "G": 4,
     "AU": 121,
     "MS": 50,
-    "F": 12,
     "XF": 96,
+    "F": 12,
     "VF": 84
   },
   "thumbnail_url": "https://media.coinarchives.com/e1391ea87ad843a96d903d21e7cd543e/img/heritage/61638/image21035.jpg",
@@ -136,6 +136,72 @@
       }
     },
     {
+      "id": "hjb-058de01ac44f",
+      "source": "hjb",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/102201",
+      "title": "Macedonia under Roman Rule. Tetradrachm",
+      "description": "",
+      "hammer_price_usd": 1250.0,
+      "currency_original": "USD",
+      "price_original": 1250.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-04",
+      "image_url": "https://images.hjbltd.com/ancient-coins/cc102201a.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "27550580",
+        "grade": null,
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-d64922cf8e7f",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2809950&AucID=7316&Lot=21035&Val=13acf32f20d17450c83e91bc30a60de8",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61638, Lot 21035 \u2014 Ancients\nEGYPT. Alexandria. Carinus, as Augustus (AD 283-285). BI tetradrachm (19mm, 7.54 gm, 1h). NGC XF 5/5 - 4/5. Dated Regnal Year 2 (AD 283/284). \u0391 \u039a \u039c \u0391 \u039a\u0391-\u03a1\u0399\u039d\u039fC C\u0395\u0392, laureate, cuirassed bust of",
+      "description": "Ancients\nEGYPT. Alexandria. Carinus, as Augustus (AD 283-285). BI tetradrachm (19mm, 7.54 gm, 1h). NGC XF 5/5 - 4/5. Dated Regnal Year 2 (AD 283/284). \u0391 \u039a \u039c \u0391 \u039a\u0391-\u03a1\u0399\u039d\u039fC C\u0395\u0392, laureate, cuirassed bust of Carinus right, seen from front / Elpis advancing left, flower in raised right hand, fold of stola in left hand; L-B across fields. RPC X online unassigned 75851.\n\nFrom the Dr. Charles Jay Deur Collection, for the charitable benefit of Calvin University and Peace Lutheran Church of Hurst. Ex Olymp...",
+      "hammer_price_usd": 150.0,
+      "currency_original": "USD",
+      "price_original": 150.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-20",
+      "image_url": "https://media.coinarchives.com/e1391ea87ad843a96d903d21e7cd543e/img/heritage/61638/image21035.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "sixbid-b9d0cb3e2622",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -195,72 +261,6 @@
       },
       "metadata": {
         "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "hjb-058de01ac44f",
-      "source": "hjb",
-      "listing_type": "fixed_price",
-      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/102201",
-      "title": "Macedonia under Roman Rule. Tetradrachm",
-      "description": "",
-      "hammer_price_usd": 1250.0,
-      "currency_original": "USD",
-      "price_original": 1250.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-10-03",
-      "image_url": "https://images.hjbltd.com/ancient-coins/cc102201a.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": "27550580",
-        "grade": null,
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-d64922cf8e7f",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2809950&AucID=7316&Lot=21035&Val=13acf32f20d17450c83e91bc30a60de8",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61638, Lot 21035 \u2014 Ancients\nEGYPT. Alexandria. Carinus, as Augustus (AD 283-285). BI tetradrachm (19mm, 7.54 gm, 1h). NGC XF 5/5 - 4/5. Dated Regnal Year 2 (AD 283/284). \u0391 \u039a \u039c \u0391 \u039a\u0391-\u03a1\u0399\u039d\u039fC C\u0395\u0392, laureate, cuirassed bust of",
-      "description": "Ancients\nEGYPT. Alexandria. Carinus, as Augustus (AD 283-285). BI tetradrachm (19mm, 7.54 gm, 1h). NGC XF 5/5 - 4/5. Dated Regnal Year 2 (AD 283/284). \u0391 \u039a \u039c \u0391 \u039a\u0391-\u03a1\u0399\u039d\u039fC C\u0395\u0392, laureate, cuirassed bust of Carinus right, seen from front / Elpis advancing left, flower in raised right hand, fold of stola in left hand; L-B across fields. RPC X online unassigned 75851.\n\nFrom the Dr. Charles Jay Deur Collection, for the charitable benefit of Calvin University and Peace Lutheran Church of Hurst. Ex Olymp...",
-      "hammer_price_usd": 150.0,
-      "currency_original": "USD",
-      "price_original": 150.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-09-20",
-      "image_url": "https://media.coinarchives.com/e1391ea87ad843a96d903d21e7cd543e/img/heritage/61638/image21035.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
