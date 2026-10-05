@@ -8,26 +8,26 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 218,
-  "realized_count": 218,
+  "sale_count": 220,
+  "realized_count": 220,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 99.0,
+    "min": 1.0,
     "max": 4400.0
   },
   "median_price_usd": 312.0,
-  "last_sale_date": "2026-09-08",
+  "last_sale_date": "2026-10-04",
   "grade_distribution": {
+    "XF": 52,
     "VF": 101,
     "AU": 17,
     "MS": 1,
     "G": 1,
-    "XF": 50,
     "F": 47,
     "VG": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/3e30779eec03984bf10c046818e9b4f2/img/ponterio/238online/image44197.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/7a13c779199b14f54c0e792d9cdb357d/img/heritage/61658/image21014.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 5,
@@ -37,6 +37,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-0771f08f5d4f",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/14062/ancients-roman-imperial/12476843/ancients-nerva-ad-96-98",
+      "title": "Ancients <br> Nerva (AD 96-98). AR denarius (18mm, 3.39 gm, 7h). NGC Choice XF 5/5 - 4/5. Rome, AD 97. IMP NERVA CAES AVG-P M TR P COS III P P, laureate head of Nerva right / AEQVITAS-AVGVST, Aequitas standing facing, head left, scales in outstretched right hand, cornucopia cradled in left arm. RIC II 13.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61658']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-04",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-2818b510140a",
       "source": "sixbid",
@@ -64,6 +97,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-c8618297b747",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2814134&AucID=7334&Lot=21014&Val=62f92ee70ad76f04c7ccfd2fa91c1e2c",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61658, Lot 21014 \u2014 Ancients\nNerva (AD 96-98). AR denarius (18mm, 3.39 gm, 7h). NGC Choice XF 5/5 - 4/5. Rome, AD 97. IMP NERVA CAES AVG-P M TR P COS III P P, laureate head of Nerva right / AEQVITAS-AVGVST, Aequitas stan",
+      "description": "Ancients\nNerva (AD 96-98). AR denarius (18mm, 3.39 gm, 7h). NGC Choice XF 5/5 - 4/5. Rome, AD 97. IMP NERVA CAES AVG-P M TR P COS III P P, laureate head of Nerva right / AEQVITAS-AVGVST, Aequitas standing facing, head left, scales in outstretched right hand, cornucopia cradled in left arm. RIC II 13.  www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.ha.com/itm/ancients/roman-imperial/nerva-ad-96-98-ar-denarius-18mm-339-gm-7h-ngc-choice-xf-5-5-4-5/p/61658-69006.s?type=DA-DMC-CoinArchives-...",
+      "hammer_price_usd": 750.0,
+      "currency_original": "USD",
+      "price_original": 750.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-04",
+      "image_url": "https://media.coinarchives.com/7a13c779199b14f54c0e792d9cdb357d/img/heritage/61658/image21014.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
