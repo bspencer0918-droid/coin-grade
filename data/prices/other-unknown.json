@@ -17,7 +17,7 @@
     "max": 312000.0
   },
   "median_price_usd": 600.0,
-  "last_sale_date": "2026-10-05",
+  "last_sale_date": "2026-10-06",
   "grade_distribution": {
     "VF": 366,
     "XF": 247,
@@ -50,7 +50,7 @@
       "currency_original": "USD",
       "price_original": 6000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-05",
+      "sale_date": "2026-10-06",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -83,7 +83,7 @@
       "currency_original": "USD",
       "price_original": 550.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-05",
+      "sale_date": "2026-10-06",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -116,7 +116,7 @@
       "currency_original": "USD",
       "price_original": 13000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-05",
+      "sale_date": "2026-10-06",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -149,7 +149,7 @@
       "currency_original": "USD",
       "price_original": 14000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-05",
+      "sale_date": "2026-10-06",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -182,7 +182,7 @@
       "currency_original": "USD",
       "price_original": 1600.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-05",
+      "sale_date": "2026-10-06",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -215,7 +215,7 @@
       "currency_original": "USD",
       "price_original": 1500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-05",
+      "sale_date": "2026-10-06",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -9115,6 +9115,39 @@
       }
     },
     {
+      "id": "sixbid-b1b479d8d413",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/katz-coins-notes-and-supplies-corp/14030/coins-europe/12446289/romania-20-lei-1868-2005",
+      "title": "Romania 20 Lei 1868 (2005) BNR Restrike NGC PF66 <br> KM# 5, N# 49139; Gold (.900) 6.45 g.; Proof; Mintage: 250 pcs.; with certificate 213/250.",
+      "description": "Katz Coins Notes & Supplies Corp. | ['Jubilee Auction 200']",
+      "hammer_price_usd": 2026.15,
+      "currency_original": "USD",
+      "price_original": 2026.15,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "P",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "sixbid-dcc44aff4465",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -11210,39 +11243,6 @@
         "verified": false,
         "cert_number": null,
         "grade": "MS",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-b1b479d8d413",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/katz-coins-notes-and-supplies-corp/14030/coins-europe/12446289/romania-20-lei-1868-2005",
-      "title": "Romania 20 Lei 1868 (2005) BNR Restrike NGC PF66 <br> KM# 5, N# 49139; Gold (.900) 6.45 g.; Proof; Mintage: 250 pcs.; with certificate 213/250.",
-      "description": "Katz Coins Notes & Supplies Corp. | ['Jubilee Auction 200']",
-      "hammer_price_usd": 2026.15,
-      "currency_original": "USD",
-      "price_original": 2026.15,
-      "buyers_premium_included": false,
-      "sale_date": "2026-09-01",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "P",
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
