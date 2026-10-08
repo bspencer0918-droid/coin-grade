@@ -1,7 +1,46 @@
 {
   "schema_version": "1.2",
-  "generated_at": "2026-10-07T12:59:13.899611+00:00",
+  "generated_at": "2026-10-08T13:15:28.425912+00:00",
   "coins": [
+    {
+      "slug": "greek-ar-nomos",
+      "category": "greek",
+      "ruler": null,
+      "ruler_normalized": null,
+      "dynasty": null,
+      "ruler_dates": null,
+      "ruler_rarity": null,
+      "denomination": "AR Nomos",
+      "metal": "silver",
+      "sale_count": 131,
+      "realized_count": 128,
+      "fixed_price_count": 0,
+      "ngc_verified_count": 0,
+      "price_range_usd": {
+        "min": 5.0,
+        "max": 195000.0
+      },
+      "median_price_usd": 525.0,
+      "last_sale_date": "2026-10-08",
+      "grade_distribution": {
+        "XF": 39,
+        "VF": 47,
+        "F": 11,
+        "AU": 25,
+        "VG": 1,
+        "MS": 7,
+        "G": 1
+      },
+      "thumbnail_url": "https://media.coinarchives.com/646473ed1c8aeb7a0fe2f3927fa89c97/img/ponterio/238online/image44018.jpg",
+      "median_weight_g": null,
+      "top_strike_score": 4,
+      "top_surface_score": 5,
+      "top_grade_numeric": null,
+      "dominant_service": "ngc",
+      "series": null,
+      "date_struck": null,
+      "mint_mark": null
+    },
     {
       "slug": "roman-ar-denarius",
       "category": "roman",
@@ -12,8 +51,8 @@
       "ruler_rarity": null,
       "denomination": "AR Denarius",
       "metal": "silver",
-      "sale_count": 5854,
-      "realized_count": 5847,
+      "sale_count": 5855,
+      "realized_count": 5848,
       "fixed_price_count": 4,
       "ngc_verified_count": 0,
       "price_range_usd": {
@@ -21,12 +60,12 @@
         "max": 720000.0
       },
       "median_price_usd": 264.0,
-      "last_sale_date": "2026-10-07",
+      "last_sale_date": "2026-10-08",
       "grade_distribution": {
         "XF": 1764,
         "MS": 361,
         "AU": 1193,
-        "P": 2,
+        "P": 3,
         "VF": 2095,
         "F": 382,
         "VG": 38,
@@ -62,7 +101,7 @@
         "max": 82278.0
       },
       "median_price_usd": 1727.55,
-      "last_sale_date": "2026-10-07",
+      "last_sale_date": "2026-10-08",
       "grade_distribution": {
         "VF": 43,
         "AU": 53,
@@ -103,7 +142,7 @@
         "max": 1100.0
       },
       "median_price_usd": 950.0,
-      "last_sale_date": "2026-10-07",
+      "last_sale_date": "2026-10-08",
       "grade_distribution": {
         "XF": 1,
         "AU": 1
@@ -137,7 +176,7 @@
         "max": 40800.0
       },
       "median_price_usd": 174.0,
-      "last_sale_date": "2026-10-07",
+      "last_sale_date": "2026-10-08",
       "grade_distribution": {
         "XF": 210,
         "AU": 307,
@@ -177,7 +216,7 @@
         "max": 120000.0
       },
       "median_price_usd": 2280.0,
-      "last_sale_date": "2026-10-07",
+      "last_sale_date": "2026-10-08",
       "grade_distribution": {
         "XF": 498,
         "AU": 451,
@@ -218,7 +257,7 @@
         "max": 3240.0
       },
       "median_price_usd": 855.855,
-      "last_sale_date": "2026-10-07",
+      "last_sale_date": "2026-10-08",
       "grade_distribution": {
         "AU": 1,
         "VF": 3,
@@ -256,7 +295,7 @@
         "max": 2640.0
       },
       "median_price_usd": 564.0,
-      "last_sale_date": "2026-10-07",
+      "last_sale_date": "2026-10-08",
       "grade_distribution": {
         "VF": 3,
         "AU": 6,
@@ -294,7 +333,7 @@
         "max": 114000.0
       },
       "median_price_usd": 16800.0,
-      "last_sale_date": "2026-10-07",
+      "last_sale_date": "2026-10-08",
       "grade_distribution": {
         "VF": 16,
         "AU": 35,
@@ -332,7 +371,7 @@
         "max": 90000.0
       },
       "median_price_usd": 4530.0,
-      "last_sale_date": "2026-10-07",
+      "last_sale_date": "2026-10-08",
       "grade_distribution": {
         "XF": 123,
         "F": 15,
@@ -345,45 +384,6 @@
       "thumbnail_url": "https://media.coinarchives.com/3afb3368392e6f4bf93ed75b55e299e8/img/heritage/61675/image25037.jpg",
       "median_weight_g": null,
       "top_strike_score": 5,
-      "top_surface_score": 5,
-      "top_grade_numeric": null,
-      "dominant_service": "ngc",
-      "series": null,
-      "date_struck": null,
-      "mint_mark": null
-    },
-    {
-      "slug": "greek-ar-nomos",
-      "category": "greek",
-      "ruler": null,
-      "ruler_normalized": null,
-      "dynasty": null,
-      "ruler_dates": null,
-      "ruler_rarity": null,
-      "denomination": "AR Nomos",
-      "metal": "silver",
-      "sale_count": 126,
-      "realized_count": 123,
-      "fixed_price_count": 0,
-      "ngc_verified_count": 0,
-      "price_range_usd": {
-        "min": 5.0,
-        "max": 195000.0
-      },
-      "median_price_usd": 550.0,
-      "last_sale_date": "2026-10-07",
-      "grade_distribution": {
-        "XF": 38,
-        "VF": 43,
-        "F": 11,
-        "AU": 25,
-        "VG": 1,
-        "MS": 7,
-        "G": 1
-      },
-      "thumbnail_url": "https://media.coinarchives.com/646473ed1c8aeb7a0fe2f3927fa89c97/img/ponterio/238online/image44018.jpg",
-      "median_weight_g": null,
-      "top_strike_score": 4,
       "top_surface_score": 5,
       "top_grade_numeric": null,
       "dominant_service": "ngc",
@@ -410,7 +410,7 @@
         "max": 21600.0
       },
       "median_price_usd": 810.0,
-      "last_sale_date": "2026-10-07",
+      "last_sale_date": "2026-10-08",
       "grade_distribution": {
         "VF": 37,
         "XF": 33,
@@ -447,7 +447,7 @@
         "max": 850.0
       },
       "median_price_usd": 114.0,
-      "last_sale_date": "2026-10-07",
+      "last_sale_date": "2026-10-08",
       "grade_distribution": {
         "XF": 114,
         "AU": 20,
@@ -483,7 +483,7 @@
         "max": 600000.0
       },
       "median_price_usd": 117000.0,
-      "last_sale_date": "2026-10-07",
+      "last_sale_date": "2026-10-08",
       "grade_distribution": {
         "P": 2,
         "AU": 1,
@@ -521,7 +521,7 @@
         "max": 19200.0
       },
       "median_price_usd": 4392.0,
-      "last_sale_date": "2026-10-07",
+      "last_sale_date": "2026-10-08",
       "grade_distribution": {
         "MS": 75,
         "AU": 128,
@@ -559,7 +559,7 @@
         "max": 300.0
       },
       "median_price_usd": 230.0,
-      "last_sale_date": "2026-10-07",
+      "last_sale_date": "2026-10-08",
       "grade_distribution": {
         "XF": 2
       },
@@ -592,20 +592,20 @@
         "max": 536800.0
       },
       "median_price_usd": 5220.0,
-      "last_sale_date": "2026-10-07",
+      "last_sale_date": "2026-10-08",
       "grade_distribution": {
         "AU": 184,
-        "MS": 270,
         "VF": 33,
+        "MS": 270,
         "XF": 51,
         "G": 15,
         "F": 2
       },
       "thumbnail_url": "https://media.coinarchives.com/f6b80d17ca44a4feb134ac1f83995a66/img/heritage/61649/image22033.jpg",
       "median_weight_g": null,
-      "top_strike_score": 4,
+      "top_strike_score": 5,
       "top_surface_score": 4,
-      "top_grade_numeric": null,
+      "top_grade_numeric": 5,
       "dominant_service": "ngc",
       "series": null,
       "date_struck": null,
@@ -630,7 +630,7 @@
         "max": 960.0
       },
       "median_price_usd": 325.0,
-      "last_sale_date": "2026-10-07",
+      "last_sale_date": "2026-10-08",
       "grade_distribution": {
         "XF": 10,
         "MS": 20,
@@ -668,7 +668,7 @@
         "max": 4320.0
       },
       "median_price_usd": 264.0,
-      "last_sale_date": "2026-10-07",
+      "last_sale_date": "2026-10-08",
       "grade_distribution": {
         "XF": 17,
         "VF": 20,
@@ -707,7 +707,7 @@
         "max": 1700.0
       },
       "median_price_usd": 1450.0,
-      "last_sale_date": "2026-10-07",
+      "last_sale_date": "2026-10-08",
       "grade_distribution": {
         "XF": 2,
         "VF": 1
@@ -741,7 +741,7 @@
         "max": 8400.0
       },
       "median_price_usd": 169.0,
-      "last_sale_date": "2026-10-07",
+      "last_sale_date": "2026-10-08",
       "grade_distribution": {
         "VF": 51,
         "XF": 182,
@@ -781,7 +781,7 @@
         "max": 350.0
       },
       "median_price_usd": 350.0,
-      "last_sale_date": "2026-10-07",
+      "last_sale_date": "2026-10-08",
       "grade_distribution": {
         "XF": 1
       },
@@ -805,22 +805,23 @@
       "ruler_rarity": null,
       "denomination": "AR Tetradrachm",
       "metal": "silver",
-      "sale_count": 1418,
+      "sale_count": 1419,
       "realized_count": 1415,
-      "fixed_price_count": 1,
+      "fixed_price_count": 2,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 75.0,
         "max": 292800.0
       },
       "median_price_usd": 1920.0,
-      "last_sale_date": "2026-10-07",
+      "last_sale_date": "2026-10-08",
       "grade_distribution": {
         "VF": 287,
         "XF": 391,
         "G": 19,
         "F": 32,
         "AU": 499,
+        "P": 1,
         "AG": 1,
         "MS": 183,
         "VG": 6
@@ -845,16 +846,16 @@
       "ruler_rarity": null,
       "denomination": "Unknown",
       "metal": "bronze",
-      "sale_count": 1742,
+      "sale_count": 1743,
       "realized_count": 1702,
-      "fixed_price_count": 0,
+      "fixed_price_count": 1,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 30.0,
         "max": 312000.0
       },
       "median_price_usd": 600.0,
-      "last_sale_date": "2026-10-07",
+      "last_sale_date": "2026-10-08",
       "grade_distribution": {
         "VF": 366,
         "XF": 247,
@@ -862,7 +863,7 @@
         "MS": 581,
         "AU": 348,
         "F": 110,
-        "AG": 1,
+        "AG": 2,
         "G": 36,
         "VG": 11
       },
@@ -961,21 +962,21 @@
       "ruler_rarity": null,
       "denomination": "AV Daric",
       "metal": "gold",
-      "sale_count": 28,
+      "sale_count": 29,
       "realized_count": 28,
-      "fixed_price_count": 0,
+      "fixed_price_count": 1,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 2160.0,
         "max": 67100.0
       },
       "median_price_usd": 7950.0,
-      "last_sale_date": "2026-05-30",
+      "last_sale_date": "2026-10-08",
       "grade_distribution": {
         "AU": 5,
+        "F": 2,
         "MS": 3,
         "VF": 16,
-        "F": 1,
         "XF": 3
       },
       "thumbnail_url": "https://media.coinarchives.com/0f6d0a4f8524c00f95027d0111b940ee/img/heritage/3129/image33007.jpg",
@@ -1154,7 +1155,7 @@
         "max": 50400.0
       },
       "median_price_usd": 1680.0,
-      "last_sale_date": "2026-10-07",
+      "last_sale_date": "2026-10-08",
       "grade_distribution": {
         "VF": 11,
         "G": 2,
@@ -1340,7 +1341,7 @@
         "max": 7000.0
       },
       "median_price_usd": 930.0,
-      "last_sale_date": "2026-10-07",
+      "last_sale_date": "2026-10-08",
       "grade_distribution": {
         "VF": 5,
         "P": 1,
@@ -4943,7 +4944,7 @@
         "max": 3720.0
       },
       "median_price_usd": 264.0,
-      "last_sale_date": "2026-10-07",
+      "last_sale_date": "2026-10-08",
       "grade_distribution": {
         "VF": 85,
         "AU": 14,
@@ -4980,7 +4981,7 @@
         "max": 10000.0
       },
       "median_price_usd": 146.88,
-      "last_sale_date": "2026-10-07",
+      "last_sale_date": "2026-10-08",
       "grade_distribution": {
         "G": 4,
         "AU": 121,
@@ -6653,18 +6654,19 @@
       "ruler_rarity": null,
       "denomination": "AR Tetradrachm",
       "metal": "silver",
-      "sale_count": 114,
+      "sale_count": 115,
       "realized_count": 113,
-      "fixed_price_count": 0,
+      "fixed_price_count": 1,
       "ngc_verified_count": 0,
       "price_range_usd": {
         "min": 1050.0,
         "max": 90000.0
       },
       "median_price_usd": 4320.0,
-      "last_sale_date": "2026-09-08",
+      "last_sale_date": "2026-10-08",
       "grade_distribution": {
         "XF": 50,
+        "P": 1,
         "MS": 8,
         "VF": 26,
         "AU": 30
@@ -7373,7 +7375,7 @@
         "max": 216000.0
       },
       "median_price_usd": 960.0,
-      "last_sale_date": "2026-10-07",
+      "last_sale_date": "2026-10-08",
       "grade_distribution": {
         "MS": 164,
         "AU": 85,
@@ -7620,7 +7622,7 @@
         "max": 1950.0
       },
       "median_price_usd": 1950.0,
-      "last_sale_date": "2026-10-07",
+      "last_sale_date": "2026-10-08",
       "grade_distribution": {
         "P": 1
       },
@@ -7653,7 +7655,7 @@
         "max": 5040.0
       },
       "median_price_usd": 528.0,
-      "last_sale_date": "2026-10-07",
+      "last_sale_date": "2026-10-08",
       "grade_distribution": {
         "P": 1,
         "VF": 50,
@@ -7693,7 +7695,7 @@
         "max": 3240.0
       },
       "median_price_usd": 504.0,
-      "last_sale_date": "2026-10-07",
+      "last_sale_date": "2026-10-08",
       "grade_distribution": {
         "F": 1,
         "AU": 1,

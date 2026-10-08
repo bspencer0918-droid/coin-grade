@@ -8,16 +8,16 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 1742,
+  "sale_count": 1743,
   "realized_count": 1702,
-  "fixed_price_count": 0,
+  "fixed_price_count": 1,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 30.0,
     "max": 312000.0
   },
   "median_price_usd": 600.0,
-  "last_sale_date": "2026-10-07",
+  "last_sale_date": "2026-10-08",
   "grade_distribution": {
     "VF": 366,
     "XF": 247,
@@ -25,7 +25,7 @@
     "MS": 581,
     "AU": 348,
     "F": 110,
-    "AG": 1,
+    "AG": 2,
     "G": 36,
     "VG": 11
   },
@@ -50,7 +50,7 @@
       "currency_original": "USD",
       "price_original": 6000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-07",
+      "sale_date": "2026-10-08",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -83,7 +83,7 @@
       "currency_original": "USD",
       "price_original": 550.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-07",
+      "sale_date": "2026-10-08",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -116,7 +116,7 @@
       "currency_original": "USD",
       "price_original": 13000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-07",
+      "sale_date": "2026-10-08",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -149,7 +149,7 @@
       "currency_original": "USD",
       "price_original": 14000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-07",
+      "sale_date": "2026-10-08",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -182,7 +182,7 @@
       "currency_original": "USD",
       "price_original": 1600.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-07",
+      "sale_date": "2026-10-08",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -215,7 +215,7 @@
       "currency_original": "USD",
       "price_original": 1500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-07",
+      "sale_date": "2026-10-08",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -9207,6 +9207,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "hjb-b49e34a563a4",
+      "source": "hjb",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/118389",
+      "title": "Judaea, Yehud Era, Macedonian Period.",
+      "description": "",
+      "hammer_price_usd": 285.0,
+      "currency_original": "USD",
+      "price_original": 285.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-08",
+      "image_url": "https://images.hjbltd.com/ancient-coins/cc118389a.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AG",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "PHIME LS A. OR CNN",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

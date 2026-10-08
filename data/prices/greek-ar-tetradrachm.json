@@ -8,22 +8,23 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 1418,
+  "sale_count": 1419,
   "realized_count": 1415,
-  "fixed_price_count": 1,
+  "fixed_price_count": 2,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 75.0,
     "max": 292800.0
   },
   "median_price_usd": 1920.0,
-  "last_sale_date": "2026-10-07",
+  "last_sale_date": "2026-10-08",
   "grade_distribution": {
     "VF": 287,
     "XF": 391,
     "G": 19,
     "F": 32,
     "AU": 499,
+    "P": 1,
     "AG": 1,
     "MS": 183,
     "VG": 6
@@ -49,7 +50,7 @@
       "currency_original": "USD",
       "price_original": 1300.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-07",
+      "sale_date": "2026-10-08",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -666,6 +667,39 @@
       }
     },
     {
+      "id": "hjb-a986b214b13b",
+      "source": "hjb",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/119525",
+      "title": "Thrace, Lysimachus. Tetradrachm",
+      "description": "",
+      "hammer_price_usd": 1650.0,
+      "currency_original": "USD",
+      "price_original": 1650.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-08",
+      "image_url": "https://images.hjbltd.com/ancient-coins/cc119525a.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "P",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "hjb-be0a579a44ce",
       "source": "hjb",
       "listing_type": "fixed_price",
@@ -676,7 +710,7 @@
       "currency_original": "USD",
       "price_original": 2750.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-07",
+      "sale_date": "2026-10-08",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc101757a.jpg",
       "ngc": {
         "verified": false,

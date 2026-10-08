@@ -8,18 +8,19 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 114,
+  "sale_count": 115,
   "realized_count": 113,
-  "fixed_price_count": 0,
+  "fixed_price_count": 1,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 1050.0,
     "max": 90000.0
   },
   "median_price_usd": 4320.0,
-  "last_sale_date": "2026-09-08",
+  "last_sale_date": "2026-10-08",
   "grade_distribution": {
     "XF": 50,
+    "P": 1,
     "MS": 8,
     "VF": 26,
     "AU": 30
@@ -94,6 +95,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "hjb-f8dcc720e275",
+      "source": "hjb",
+      "listing_type": "fixed_price",
+      "lot_url": "https://www.hjbltd.com/#!/inventory/item-detail/cc/120175",
+      "title": "Sicily, Syracuse. Tetradrachm",
+      "description": "",
+      "hammer_price_usd": 2150.0,
+      "currency_original": "USD",
+      "price_original": 2150.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-08",
+      "image_url": "https://images.hjbltd.com/ancient-coins/cc120175a.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "P",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
