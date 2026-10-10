@@ -19,13 +19,13 @@
   "median_price_usd": 492.0,
   "last_sale_date": "2026-09-08",
   "grade_distribution": {
-    "AU": 3,
     "VF": 5,
+    "AU": 3,
     "XF": 3,
     "VG": 1,
     "F": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/c2c85d37e1fc4bae4c31a9753bb60ce9/img/heritage/61635/image23310.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/f3ff0d995514510e04845165bf973ca6/img/ponterio/238online/image44245.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 3,
@@ -35,39 +35,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "coinarchives-1e33f8925f51",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2796370&AucID=7267&Lot=23310&Val=7665b6c7c6da3f6a000f213219eaa7d6",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61635, Lot 23310 \u2014 Ancients\nCAPPADOCIA. Caesarea. Germanicus Caesar (AD 14-19), with Divus Augustus. AR drachm (18mm, 3.62 gm, 12h). NGC AU 4/5 - 3/5. Ca. AD 33/34 or 37/38. GERMANICVS CAES TI AVGF COS II \u0393 M, bare head",
-      "description": "Ancients\nCAPPADOCIA. Caesarea. Germanicus Caesar (AD 14-19), with Divus Augustus. AR drachm (18mm, 3.62 gm, 12h). NGC AU 4/5 - 3/5. Ca. AD 33/34 or 37/38. GERMANICVS CAES TI AVGF COS II \u0393 M, bare head of Germanicus right, wearing beard / DIVVS-AVGVSTVS, radiate head of Divus Augustus left. RIC I (Gaius) 62 RPC I (Tiberius) 3623b var. (obverse legend).\n\nEx Heritage Auctions, Auction 3073 (29 April 2019), lot 32257.\n\nThe grandson of Augustus' wife Livia, Germanicus was so named for his father Dr...",
-      "hammer_price_usd": 750.0,
-      "currency_original": "USD",
-      "price_original": 750.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-07-28",
-      "image_url": "https://media.coinarchives.com/c2c85d37e1fc4bae4c31a9753bb60ce9/img/heritage/61635/image23310.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-77ab68a427e7",
       "source": "coinarchives",
@@ -88,6 +55,39 @@
         "grade_numeric": null,
         "strike_score": 3,
         "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-1e33f8925f51",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2796370&AucID=7267&Lot=23310&Val=7665b6c7c6da3f6a000f213219eaa7d6",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61635, Lot 23310 \u2014 Ancients\nCAPPADOCIA. Caesarea. Germanicus Caesar (AD 14-19), with Divus Augustus. AR drachm (18mm, 3.62 gm, 12h). NGC AU 4/5 - 3/5. Ca. AD 33/34 or 37/38. GERMANICVS CAES TI AVGF COS II \u0393 M, bare head",
+      "description": "Ancients\nCAPPADOCIA. Caesarea. Germanicus Caesar (AD 14-19), with Divus Augustus. AR drachm (18mm, 3.62 gm, 12h). NGC AU 4/5 - 3/5. Ca. AD 33/34 or 37/38. GERMANICVS CAES TI AVGF COS II \u0393 M, bare head of Germanicus right, wearing beard / DIVVS-AVGVSTVS, radiate head of Divus Augustus left. RIC I (Gaius) 62 RPC I (Tiberius) 3623b var. (obverse legend).\n\nEx Heritage Auctions, Auction 3073 (29 April 2019), lot 32257.\n\nThe grandson of Augustus' wife Livia, Germanicus was so named for his father Dr...",
+      "hammer_price_usd": 750.0,
+      "currency_original": "USD",
+      "price_original": 750.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-28",
+      "image_url": "https://media.coinarchives.com/c2c85d37e1fc4bae4c31a9753bb60ce9/img/heritage/61635/image23310.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

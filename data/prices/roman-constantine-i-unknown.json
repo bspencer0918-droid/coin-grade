@@ -19,14 +19,14 @@
   "median_price_usd": 200.0,
   "last_sale_date": "2026-09-01",
   "grade_distribution": {
-    "MS": 8,
     "AU": 29,
+    "MS": 8,
     "VF": 4,
     "VG": 2,
     "XF": 2,
     "F": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/10e6a06a5b5f8316ceffc0151146b284/img/ponterio/238/image41231.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/6b7dce4eb74e9b4cf8885b681c1165fb/img/heritage/3135/image33080.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 3,
@@ -36,6 +36,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-f2f26f7f472f",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801693&AucID=7287&Lot=33080&Val=a38acccf82f342fd668a4566364956fd",
+      "title": "Heritage World Coin Auctions - ANA Signature Sale 3135, Lot 33080 \u2014 Ancients\nConstantine I the Great, as Augustus (AD 307-337), with Constantine II and Constantius II, as Caesars. AV medallion of 1-1/2 solidi (22mm, 6.69 gm, 11h). NGC AU 5/5 - 2/5, scuffs, marks. Anti",
+      "description": "Ancients\nConstantine I the Great, as Augustus (AD 307-337), with Constantine II and Constantius II, as Caesars. AV medallion of 1-1/2 solidi (22mm, 6.69 gm, 11h). NGC AU 5/5 - 2/5, scuffs, marks. Antioch, ca. AD 326. D N CONSTANTINVS MAX AVG, radiate, consular bust of Constantine I left, right hand raised, globe in left hand / CONSTANTINVS ET CONSTANTIVS NOBB CAESS, confronted, laureate, and consular busts of Constantine II and Constantius II, each with eagle-tipped scepter in inner hand and g...",
+      "hammer_price_usd": 70000.0,
+      "currency_original": "USD",
+      "price_original": 70000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": "https://media.coinarchives.com/6b7dce4eb74e9b4cf8885b681c1165fb/img/heritage/3135/image33080.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-d1e084d7d5b7",
       "source": "coinarchives",
@@ -89,39 +122,6 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-f2f26f7f472f",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801693&AucID=7287&Lot=33080&Val=a38acccf82f342fd668a4566364956fd",
-      "title": "Heritage World Coin Auctions - ANA Signature Sale 3135, Lot 33080 \u2014 Ancients\nConstantine I the Great, as Augustus (AD 307-337), with Constantine II and Constantius II, as Caesars. AV medallion of 1-1/2 solidi (22mm, 6.69 gm, 11h). NGC AU 5/5 - 2/5, scuffs, marks. Anti",
-      "description": "Ancients\nConstantine I the Great, as Augustus (AD 307-337), with Constantine II and Constantius II, as Caesars. AV medallion of 1-1/2 solidi (22mm, 6.69 gm, 11h). NGC AU 5/5 - 2/5, scuffs, marks. Antioch, ca. AD 326. D N CONSTANTINVS MAX AVG, radiate, consular bust of Constantine I left, right hand raised, globe in left hand / CONSTANTINVS ET CONSTANTIVS NOBB CAESS, confronted, laureate, and consular busts of Constantine II and Constantius II, each with eagle-tipped scepter in inner hand and g...",
-      "hammer_price_usd": 70000.0,
-      "currency_original": "USD",
-      "price_original": 70000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-09-01",
-      "image_url": "https://media.coinarchives.com/6b7dce4eb74e9b4cf8885b681c1165fb/img/heritage/3135/image33080.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 2,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

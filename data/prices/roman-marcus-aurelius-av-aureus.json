@@ -102,6 +102,39 @@
       }
     },
     {
+      "id": "coinarchives-8c386c898152",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801669&AucID=7287&Lot=33056&Val=ef1156a9533ae595ccbfef5c54c35b52",
+      "title": "Heritage World Coin Auctions - ANA Signature Sale 3135, Lot 33056 \u2014 Ancients\nMarcus Aurelius, as Augustus (AD 161-180). AV aureus (20mm, 7.26 gm, 5h). NGC AU 5/5 - 4/5, Fine Style, flan flaw. Rome, ca. AD 171-172. M\u06f0ANTONINVS-AVG\u06f0TR\u06f0P\u06f0XXVI\u06f0, laureate, draped, and cuir",
+      "description": "Ancients\nMarcus Aurelius, as Augustus (AD 161-180). AV aureus (20mm, 7.26 gm, 5h). NGC AU 5/5 - 4/5, Fine Style, flan flaw. Rome, ca. AD 171-172. M\u06f0ANTONINVS-AVG\u06f0TR\u06f0P\u06f0XXVI\u06f0, laureate, draped, and cuirassed bust of Marcus Aurelius right, seen from behind / IMP VI-COS III, Marcus Aurelius (on left) standing facing, head left, thunderbolt in raised right hand, grounded scepter cradled in left arm, being crowned by Victory standing facing, head left, palm cradled in left arm. Calic\u00f3 1873. RIC III ...",
+      "hammer_price_usd": 19000.0,
+      "currency_original": "USD",
+      "price_original": 19000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": "https://media.coinarchives.com/e2da3bdc43d5dbb35ef0cff350cb9a44/img/heritage/3135/image33056.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-df583326cdf4",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -156,39 +189,6 @@
         "surface_score": 3,
         "details_grade": null,
         "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-8c386c898152",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801669&AucID=7287&Lot=33056&Val=ef1156a9533ae595ccbfef5c54c35b52",
-      "title": "Heritage World Coin Auctions - ANA Signature Sale 3135, Lot 33056 \u2014 Ancients\nMarcus Aurelius, as Augustus (AD 161-180). AV aureus (20mm, 7.26 gm, 5h). NGC AU 5/5 - 4/5, Fine Style, flan flaw. Rome, ca. AD 171-172. M\u06f0ANTONINVS-AVG\u06f0TR\u06f0P\u06f0XXVI\u06f0, laureate, draped, and cuir",
-      "description": "Ancients\nMarcus Aurelius, as Augustus (AD 161-180). AV aureus (20mm, 7.26 gm, 5h). NGC AU 5/5 - 4/5, Fine Style, flan flaw. Rome, ca. AD 171-172. M\u06f0ANTONINVS-AVG\u06f0TR\u06f0P\u06f0XXVI\u06f0, laureate, draped, and cuirassed bust of Marcus Aurelius right, seen from behind / IMP VI-COS III, Marcus Aurelius (on left) standing facing, head left, thunderbolt in raised right hand, grounded scepter cradled in left arm, being crowned by Victory standing facing, head left, palm cradled in left arm. Calic\u00f3 1873. RIC III ...",
-      "hammer_price_usd": 19000.0,
-      "currency_original": "USD",
-      "price_original": 19000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-09-01",
-      "image_url": "https://media.coinarchives.com/e2da3bdc43d5dbb35ef0cff350cb9a44/img/heritage/3135/image33056.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": true,
         "certification_url": null,
         "grading_service": "ngc"
       },

@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 779,
-  "realized_count": 779,
+  "sale_count": 780,
+  "realized_count": 780,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -21,7 +21,7 @@
   "grade_distribution": {
     "XF": 249,
     "AU": 119,
-    "VF": 286,
+    "VF": 287,
     "MS": 31,
     "F": 92,
     "VG": 2
@@ -322,6 +322,39 @@
         "surface_score": 3,
         "details_grade": null,
         "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-4d02fe19add3",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2796152&AucID=7267&Lot=23092&Val=afa2b2d9dae0f79e9f67a2dd9fb94bbb",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61635, Lot 23092 \u2014 Ancients\nBARBAROUS ISSUE. Hadrian (AD 117-138). AR denarius (19mm, 3.20 gm, 5h). NGC Choice VF 4/5 - 3/5. Barbarous issue imitating Rome, AD 117. IMP \u0393A\u0393S TRAIAN H[...] AVG SPI TR\u039b, laureate, cuirasse",
+      "description": "Ancients\nBARBAROUS ISSUE. Hadrian (AD 117-138). AR denarius (19mm, 3.20 gm, 5h). NGC Choice VF 4/5 - 3/5. Barbarous issue imitating Rome, AD 117. IMP \u0393A\u0393S TRAIAN H[...] AVG SPI TR\u039b, laureate, cuirassed bust of Hadrian right, seen from front, strap over right shoulder, drapery on left / RARTII E OVII-NEP P M IR P S (S retrograde), Justitia enthroned left, patera in outstretched right hand, grounded scepter in left, IVSTITI\u039b (S retrograde) in exergue. Cf. RIC II.3 61 for prototype.\n\nFrom the Eye...",
+      "hammer_price_usd": 340.0,
+      "currency_original": "USD",
+      "price_original": 340.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-28",
+      "image_url": "https://media.coinarchives.com/c5bf083a5acef6df05cf143bfb937d84/img/heritage/61635/image23092.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
       },

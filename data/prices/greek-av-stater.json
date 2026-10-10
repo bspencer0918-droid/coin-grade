@@ -17,7 +17,7 @@
     "max": 536800.0
   },
   "median_price_usd": 5220.0,
-  "last_sale_date": "2026-10-09",
+  "last_sale_date": "2026-10-10",
   "grade_distribution": {
     "AU": 184,
     "VF": 33,
@@ -47,7 +47,7 @@
       "currency_original": "USD",
       "price_original": 55000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-09",
+      "sale_date": "2026-10-10",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -136,6 +136,39 @@
       }
     },
     {
+      "id": "coinarchives-457088486f6c",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2810922&AucID=7322&Lot=1&Val=c9e1bf00cb88835f473864367cd30614",
+      "title": "Harmers of London - Auction 8, Lot 1 \u2014 Greek Coins\nCalabria\nTarentum - Gold Stater circa 276-272 BC, struck under Pyrrhus of Epirus, NGC Ch AU Strike 4/5 Surface 4/5 \"fine style\" - Obverse: Laureate head of Zeus right; behind, monogram NK ",
+      "description": "Greek Coins\nCalabria\nTarentum - Gold Stater circa 276-272 BC, struck under Pyrrhus of Epirus, NGC Ch AU Strike 4/5 Surface 4/5 \"fine style\" - Obverse: Laureate head of Zeus right; behind, monogram NK - Reverse: Eagle with open wings standing left on thunderbolt; to left, monogram of AP - Very rare. A very attractive portrait of fine style and struck in high relief with a lovely reddish tone - NGC certification #8732110-001 (\"light marks\") Vlasto 36. Gulbenkian 44. HN Italy 983\n\nStarting price:...",
+      "hammer_price_usd": 35560.0,
+      "currency_original": "GBP",
+      "price_original": 28000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-28",
+      "image_url": "https://media.coinarchives.com/72f39d4726e4d958913572bb0b90cdcb/img/harmers/008/image00001.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "8732110-001",
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": "https://www.ngccoin.com/certlookup/8732110001/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-0e75986f344d",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -191,39 +224,6 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-457088486f6c",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2810922&AucID=7322&Lot=1&Val=c9e1bf00cb88835f473864367cd30614",
-      "title": "Harmers of London - Auction 8, Lot 1 \u2014 Greek Coins\nCalabria\nTarentum - Gold Stater circa 276-272 BC, struck under Pyrrhus of Epirus, NGC Ch AU Strike 4/5 Surface 4/5 \"fine style\" - Obverse: Laureate head of Zeus right; behind, monogram NK ",
-      "description": "Greek Coins\nCalabria\nTarentum - Gold Stater circa 276-272 BC, struck under Pyrrhus of Epirus, NGC Ch AU Strike 4/5 Surface 4/5 \"fine style\" - Obverse: Laureate head of Zeus right; behind, monogram NK - Reverse: Eagle with open wings standing left on thunderbolt; to left, monogram of AP - Very rare. A very attractive portrait of fine style and struck in high relief with a lovely reddish tone - NGC certification #8732110-001 (\"light marks\") Vlasto 36. Gulbenkian 44. HN Italy 983\n\nStarting price:...",
-      "hammer_price_usd": 35560.0,
-      "currency_original": "GBP",
-      "price_original": 28000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-09-28",
-      "image_url": "https://media.coinarchives.com/72f39d4726e4d958913572bb0b90cdcb/img/harmers/008/image00001.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": "8732110-001",
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": true,
-        "certification_url": "https://www.ngccoin.com/certlookup/8732110001/",
         "grading_service": "ngc"
       },
       "metadata": {

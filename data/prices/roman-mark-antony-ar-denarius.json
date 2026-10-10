@@ -20,15 +20,15 @@
   "last_sale_date": "2026-09-01",
   "grade_distribution": {
     "F": 108,
-    "VF": 200,
     "AU": 61,
     "XF": 102,
+    "VF": 200,
     "MS": 7,
     "VG": 39,
     "G": 9,
     "AG": 4
   },
-  "thumbnail_url": "https://media.coinarchives.com/79bd137985dd146ca24e3713977d649e/img/heritage/3132/image31031.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/5ab7961b4dcef73caf6e1edf63835441/img/heritage/3135/image30066.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -65,39 +65,6 @@
       },
       "metadata": {
         "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-9751fe4a41e2",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739691&AucID=7076&Lot=31031&Val=bdd0561a5c7779b988e66d4e7519c73c",
-      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 31031 \u2014 Ancients\nCleopatra VII and Marc Antony, as Rulers of the East (37-30 BC). AR denarius (18mm, 3.70 gm, 1h). NGC VF 4/5 - 2/5, bankers marks. Alexandria, 34-32 BC. ANTONI\u2022ARMENIA\u2022DEVICTA, bare head of M",
-      "description": "Ancients\nCleopatra VII and Marc Antony, as Rulers of the East (37-30 BC). AR denarius (18mm, 3.70 gm, 1h). NGC VF 4/5 - 2/5, bankers marks. Alexandria, 34-32 BC. ANTONI\u2022ARMENIA\u2022DEVICTA, bare head of Marc Antony right; Armenian tiara behind / CLEOPATRAE-REGINAE\u2022REGVM\u2022FILIORVM\u2022-REGVM, diademed, draped bust of Cleopatra right, seen from front; prow right below. Crawford 543/1. Sydenham 1210. Peach backlight. \n\nThis particular type reflects an important period in the history between Rome and Egypt...",
-      "hammer_price_usd": 6000.0,
-      "currency_original": "USD",
-      "price_original": 6000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-04-29",
-      "image_url": "https://media.coinarchives.com/79bd137985dd146ca24e3713977d649e/img/heritage/3132/image31031.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 2,
-        "details_grade": "Bankers Mark",
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -290,6 +257,39 @@
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-9751fe4a41e2",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2739691&AucID=7076&Lot=31031&Val=bdd0561a5c7779b988e66d4e7519c73c",
+      "title": "Heritage World Coin Auctions - CSNS Signature Sale 3132, Lot 31031 \u2014 Ancients\nCleopatra VII and Marc Antony, as Rulers of the East (37-30 BC). AR denarius (18mm, 3.70 gm, 1h). NGC VF 4/5 - 2/5, bankers marks. Alexandria, 34-32 BC. ANTONI\u2022ARMENIA\u2022DEVICTA, bare head of M",
+      "description": "Ancients\nCleopatra VII and Marc Antony, as Rulers of the East (37-30 BC). AR denarius (18mm, 3.70 gm, 1h). NGC VF 4/5 - 2/5, bankers marks. Alexandria, 34-32 BC. ANTONI\u2022ARMENIA\u2022DEVICTA, bare head of Marc Antony right; Armenian tiara behind / CLEOPATRAE-REGINAE\u2022REGVM\u2022FILIORVM\u2022-REGVM, diademed, draped bust of Cleopatra right, seen from front; prow right below. Crawford 543/1. Sydenham 1210. Peach backlight. \n\nThis particular type reflects an important period in the history between Rome and Egypt...",
+      "hammer_price_usd": 6000.0,
+      "currency_original": "USD",
+      "price_original": 6000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": "https://media.coinarchives.com/79bd137985dd146ca24e3713977d649e/img/heritage/3132/image31031.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": "Bankers Mark",
         "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
