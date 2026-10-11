@@ -21,11 +21,11 @@
   "grade_distribution": {
     "G": 3,
     "AU": 365,
-    "XF": 99,
     "MS": 124,
+    "XF": 99,
     "VF": 8
   },
-  "thumbnail_url": "https://media.coinarchives.com/29c0d9ac3dd16e3016a0145a312fa983/img/heritage/61638/image21057.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/8f7c5ef6f00b97c86ae7ff442ba5b1d1/img/ponterio/238online/image44320.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 2,
@@ -201,39 +201,6 @@
       }
     },
     {
-      "id": "coinarchives-18c97a0de7f9",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2809972&AucID=7316&Lot=21057&Val=1c3f7bde0f3515cafe4e5f03a8c64ec5",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61638, Lot 21057 \u2014 Ancients\nSeverus Alexander (AD 222-235). AR denarius (19mm, 2.17 gm, 12h). NGC Choice XF 5/5 - 3/5, brushed. Rome, AD 230. IMP SEV ALE-XAND AVG, laureate head of Severus Alexander right, slight draper",
-      "description": "Ancients\nSeverus Alexander (AD 222-235). AR denarius (19mm, 2.17 gm, 12h). NGC Choice XF 5/5 - 3/5, brushed. Rome, AD 230. IMP SEV ALE-XAND AVG, laureate head of Severus Alexander right, slight drapery visible on far shoulder / P M TR P VIIII-COS III P P, Sol standing facing, radiate head left, nude save for chlamys over left shoulder, right hand raised in gesture of adlocutio, globe in outstretched left hand. RIC IV.II 102.\n\nFrom the Dr. Charles Jay Deur Collection, for the charitable benefit...",
-      "hammer_price_usd": 115.0,
-      "currency_original": "USD",
-      "price_original": 115.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-09-20",
-      "image_url": "https://media.coinarchives.com/29c0d9ac3dd16e3016a0145a312fa983/img/heritage/61638/image21057.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-166fa29d07f5",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -352,6 +319,39 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-18c97a0de7f9",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2809972&AucID=7316&Lot=21057&Val=1c3f7bde0f3515cafe4e5f03a8c64ec5",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61638, Lot 21057 \u2014 Ancients\nSeverus Alexander (AD 222-235). AR denarius (19mm, 2.17 gm, 12h). NGC Choice XF 5/5 - 3/5, brushed. Rome, AD 230. IMP SEV ALE-XAND AVG, laureate head of Severus Alexander right, slight draper",
+      "description": "Ancients\nSeverus Alexander (AD 222-235). AR denarius (19mm, 2.17 gm, 12h). NGC Choice XF 5/5 - 3/5, brushed. Rome, AD 230. IMP SEV ALE-XAND AVG, laureate head of Severus Alexander right, slight drapery visible on far shoulder / P M TR P VIIII-COS III P P, Sol standing facing, radiate head left, nude save for chlamys over left shoulder, right hand raised in gesture of adlocutio, globe in outstretched left hand. RIC IV.II 102.\n\nFrom the Dr. Charles Jay Deur Collection, for the charitable benefit...",
+      "hammer_price_usd": 115.0,
+      "currency_original": "USD",
+      "price_original": 115.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-20",
+      "image_url": "https://media.coinarchives.com/29c0d9ac3dd16e3016a0145a312fa983/img/heritage/61638/image21057.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

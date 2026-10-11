@@ -201,39 +201,6 @@
       }
     },
     {
-      "id": "coinarchives-b89002f028cd",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801435&AucID=7288&Lot=22076&Val=845bc0154f0883109cfd546f95beb7f3",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61649, Lot 22076 \u2014 Ancients\nCORINTHIA. Corinth. Ca. 515-450 BC. AR stater (19mm, 8.33 gm, 4h). NGC VF 5/5 - 5/5. Pegasus flying left, wings curved, koppa below / Archaic style head of Athena right, wearing uncrested Cor",
-      "description": "Ancients\nCORINTHIA. Corinth. Ca. 515-450 BC. AR stater (19mm, 8.33 gm, 4h). NGC VF 5/5 - 5/5. Pegasus flying left, wings curved, koppa below / Archaic style head of Athena right, wearing uncrested Corinthian helmet pushed back on head, hair in long queue down neck; all within incuse square. Pegasi I 52.\n\nFrom the LII Collection of Historical Coins and Medals Part II. Ex the Salton Collection (Stack's, January 2023 NYINC Auction, 13 January 2023), lot 26197.  www.HA.com/TexasAuctioneerLicenseNo...",
-      "hammer_price_usd": 900.0,
-      "currency_original": "USD",
-      "price_original": 900.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-09-08",
-      "image_url": "https://media.coinarchives.com/c6cfed761250e8b9944fc9d14b8cd754/img/heritage/61649/image22076.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-fb402cbf1806",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -550,6 +517,39 @@
         "grade_numeric": 4,
         "strike_score": 4,
         "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-b89002f028cd",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801435&AucID=7288&Lot=22076&Val=845bc0154f0883109cfd546f95beb7f3",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61649, Lot 22076 \u2014 Ancients\nCORINTHIA. Corinth. Ca. 515-450 BC. AR stater (19mm, 8.33 gm, 4h). NGC VF 5/5 - 5/5. Pegasus flying left, wings curved, koppa below / Archaic style head of Athena right, wearing uncrested Cor",
+      "description": "Ancients\nCORINTHIA. Corinth. Ca. 515-450 BC. AR stater (19mm, 8.33 gm, 4h). NGC VF 5/5 - 5/5. Pegasus flying left, wings curved, koppa below / Archaic style head of Athena right, wearing uncrested Corinthian helmet pushed back on head, hair in long queue down neck; all within incuse square. Pegasi I 52.\n\nFrom the LII Collection of Historical Coins and Medals Part II. Ex the Salton Collection (Stack's, January 2023 NYINC Auction, 13 January 2023), lot 26197.  www.HA.com/TexasAuctioneerLicenseNo...",
+      "hammer_price_usd": 900.0,
+      "currency_original": "USD",
+      "price_original": 900.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-08",
+      "image_url": "https://media.coinarchives.com/c6cfed761250e8b9944fc9d14b8cd754/img/heritage/61649/image22076.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
