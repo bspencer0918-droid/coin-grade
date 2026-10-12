@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AE Follis",
   "metal": "bronze",
-  "sale_count": 93,
-  "realized_count": 93,
+  "sale_count": 95,
+  "realized_count": 95,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,16 +17,16 @@
     "max": 6600.0
   },
   "median_price_usd": 180.0,
-  "last_sale_date": "2026-09-20",
+  "last_sale_date": "2026-10-11",
   "grade_distribution": {
-    "VF": 31,
+    "VF": 32,
     "XF": 16,
-    "AU": 32,
+    "AU": 33,
     "MS": 4,
     "F": 9,
     "VG": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/18f683c095ca11d28eac8a47fe981795/img/heritage/61638/image21138.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/cf457b95a9aaac8e221a820a9be824de/img/heritage/61659/image24058.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 3,
@@ -70,6 +70,39 @@
       }
     },
     {
+      "id": "coinarchives-82cf93b4e484",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2816538&AucID=7351&Lot=24058&Val=c0f52e03d1fd351879c19aa01b75b1ea",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61659, Lot 24058 \u2014 Ancients\nConstantius I, as Caesar (AD 305-306). BI follis or nummus (28mm, 6h). NGC Choice VF, Silvering. Ticinum, AD 296-297(?). CONSTANTIVS NOB CAES, laureate head of Constantius I right / GENIO POP",
+      "description": "Ancients\nConstantius I, as Caesar (AD 305-306). BI follis or nummus (28mm, 6h). NGC Choice VF, Silvering. Ticinum, AD 296-297(?). CONSTANTIVS NOB CAES, laureate head of Constantius I right / GENIO POPV-LI ROMANI, Genius standing facing, polos on head left, nude save for chlamys across left shoulder, patera in outstretched right hand, cornucopia cradled in left arm; T star in exergue. RIC VI-, cf. 32a for same type with different mint mark arrangement. Hematite dies with sage highlights. \n\nCons...",
+      "hammer_price_usd": 140.0,
+      "currency_original": "USD",
+      "price_original": 140.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-11",
+      "image_url": "https://media.coinarchives.com/cf457b95a9aaac8e221a820a9be824de/img/heritage/61659/image24058.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-18c68eb7ba68",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -89,6 +122,39 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-3537cb9d497e",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2816537&AucID=7351&Lot=24057&Val=a89829c2f657df1e04dda89a6bc42ce3",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61659, Lot 24057 \u2014 Ancients\nConstantius I, as Caesar (AD 305-306). BI follis or nummus (28mm, 6h). NGC AU, Silvering. Ticinum, 3rd officina, AD 296-297. CONSTANTIVS NOB CAES, laureate head of Constantius I right / GENIO",
+      "description": "Ancients\nConstantius I, as Caesar (AD 305-306). BI follis or nummus (28mm, 6h). NGC AU, Silvering. Ticinum, 3rd officina, AD 296-297. CONSTANTIVS NOB CAES, laureate head of Constantius I right / GENIO POPV-LI ROMANI, Genius standing facing, polos on head left, nude save for chlamys across left shoulder, patera in outstretched right hand, cornucopia cradled in left arm; R in left field, \u0393 in exergue. RIC VI 67a. Splendid linework on a large flan. \n\nConstantius I, also known as Constantius Chlor...",
+      "hammer_price_usd": 200.0,
+      "currency_original": "USD",
+      "price_original": 200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-11",
+      "image_url": "https://media.coinarchives.com/c71071ee73de1342d6e3a5605bcd62f1/img/heritage/61659/image24057.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

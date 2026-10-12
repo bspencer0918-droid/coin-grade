@@ -8,24 +8,24 @@
   "ruler_rarity": null,
   "denomination": "AR Drachm",
   "metal": "gold",
-  "sale_count": 69,
-  "realized_count": 69,
+  "sale_count": 71,
+  "realized_count": 71,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 79.0,
+    "min": 1.0,
     "max": 6600.0
   },
   "median_price_usd": 180.0,
-  "last_sale_date": "2026-07-20",
+  "last_sale_date": "2026-10-11",
   "grade_distribution": {
-    "VF": 23,
+    "VF": 25,
     "MS": 8,
     "AU": 12,
     "XF": 23,
     "F": 3
   },
-  "thumbnail_url": "https://media.coinarchives.com/3e29e8b7b799c823cc8f8fdf9f7f1ef0/img/ponterio/236/image45194.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/5a7a5e660333d76990a1281bf9f4aa63/img/heritage/61659/image24029.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 3,
@@ -69,6 +69,39 @@
       }
     },
     {
+      "id": "sixbid-ae88d8f5220e",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/14068/ancients-greek/12477874/ancients-ptolemaic-egypt-ptolemy",
+      "title": "Ancients <br> PTOLEMAIC EGYPT. Ptolemy IV Philopator (222-205/204 BC). AE drachm (34mm, 35.57 gm, 11h). NGC VF S 4/5 - 5/5, die shift. Alexandria, ca. 219 BC. Horned head of Zeus-Ammon right, wearing taenia with basileion above forehead; dotted border / \u03a0TO\u039bEMAIOY-BA\u03a3I\u039bE\u03a9\u03a3, eagle standing left on thunderbolt, wings closed; cornucopia bound with royal diadem to left, \u03a3 between legs, dotted border. CPE B497. Svoronos 992. Handsome portrait with walnut patina.    HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61659']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-11",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "sixbid-9d86cbdc5426",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -95,6 +128,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-810d677db23a",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2816509&AucID=7351&Lot=24029&Val=6e9d31744b0a6bcebd2c7b5099b3c722",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61659, Lot 24029 \u2014 Ancients\nPTOLEMAIC EGYPT. Ptolemy IV Philopator (222-205/204 BC). AE drachm (34mm, 35.57 gm, 11h). NGC VF\u2605 4/5 - 5/5, die shift. Alexandria, ca. 219 BC. Horned head of Zeus-Ammon right, wearing taenia",
+      "description": "Ancients\nPTOLEMAIC EGYPT. Ptolemy IV Philopator (222-205/204 BC). AE drachm (34mm, 35.57 gm, 11h). NGC VF\u2605 4/5 - 5/5, die shift. Alexandria, ca. 219 BC. Horned head of Zeus-Ammon right, wearing taenia with basileion above forehead; dotted border / \u03a0TO\u039bEMAIOY-BA\u03a3I\u039bE\u03a9\u03a3, eagle standing left on thunderbolt, wings closed; cornucopia bound with royal diadem to left, \u03a3 between legs, dotted border. CPE B497. Svoronos 992. Handsome portrait with walnut patina.   www.HA.com/TexasAuctioneerLicenseNotice\n...",
+      "hammer_price_usd": 625.0,
+      "currency_original": "USD",
+      "price_original": 625.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-11",
+      "image_url": "https://media.coinarchives.com/5a7a5e660333d76990a1281bf9f4aa63/img/heritage/61659/image24029.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 651,
-  "realized_count": 651,
+  "sale_count": 653,
+  "realized_count": 653,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,16 +17,16 @@
     "max": 10800.0
   },
   "median_price_usd": 204.0,
-  "last_sale_date": "2026-10-04",
+  "last_sale_date": "2026-10-11",
   "grade_distribution": {
     "AU": 130,
     "F": 28,
+    "XF": 227,
     "VF": 253,
     "MS": 13,
-    "XF": 225,
     "VG": 2
   },
-  "thumbnail_url": "https://media.coinarchives.com/983e38231d0153b810b7c8b09c64b364/img/heritage/61635/image23081.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/227cf0ddce5016ad0896095614264c61/img/heritage/61659/image24040.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -129,6 +129,72 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-1531907f5df9",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2816520&AucID=7351&Lot=24040&Val=381c6b07345d0ae3b9018d48d3fff335",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61659, Lot 24040 \u2014 Ancients\nTrajan (AD 98-117). AR denarius (19mm, 3.59 gm, 7h). NGC Choice XF 5/5 - 4/5, Fine Style. Rome, AD 114-117. IMP CAES NER TRAIANO OPTIMO AVG GER DAC PARTHICO, laureate, draped, and cuirassed b",
+      "description": "Ancients\nTrajan (AD 98-117). AR denarius (19mm, 3.59 gm, 7h). NGC Choice XF 5/5 - 4/5, Fine Style. Rome, AD 114-117. IMP CAES NER TRAIANO OPTIMO AVG GER DAC PARTHICO, laureate, draped, and cuirassed bust of Trajan right, seen from behind / P M TR P CO-S VI P P S P Q R, Virtus standing right, foot on helmet, grounded reversed spear in right hand, parazonium cradled in left arm. RIC II 350 var. (bust type). Impressively intricate detailing. \n\nMarcus Ulpius Trajanus, better known as Trajan, carve...",
+      "hammer_price_usd": 675.0,
+      "currency_original": "USD",
+      "price_original": 675.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-11",
+      "image_url": "https://media.coinarchives.com/227cf0ddce5016ad0896095614264c61/img/heritage/61659/image24040.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-704fa8fb7c40",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2816521&AucID=7351&Lot=24041&Val=73b5b630b90cc83fab6633ae9b6202e6",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61659, Lot 24041 \u2014 Ancients\nTrajan (AD 98-117). AR denarius (19mm, 3.46 gm, 7h). NGC XF 4/5 - 3/5, Fine Style. Rome, ca. AD 103-111. IMP TRAIANO AVG G-ER DAC P M TR P, laureate, bust, and cuirassed bust of Trajan right,",
+      "description": "Ancients\nTrajan (AD 98-117). AR denarius (19mm, 3.46 gm, 7h). NGC XF 4/5 - 3/5, Fine Style. Rome, ca. AD 103-111. IMP TRAIANO AVG G-ER DAC P M TR P, laureate, bust, and cuirassed bust of Trajan right, seen from front / COS V P P S P Q R OPTIMO PRINC, Victory standing facing, head left, wreath in outstretched right hand, palm cradled in left arm. RIC II 128 var. (bust type). A realistically rendered portrait of the emperor. \n\nMarcus Ulpius Trajanus, better known as Trajan, carved his name in hi...",
+      "hammer_price_usd": 440.0,
+      "currency_original": "USD",
+      "price_original": 440.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-11",
+      "image_url": "https://media.coinarchives.com/0bdb5a539bd3e3275cb4f4d640dfdfca/img/heritage/61659/image24041.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

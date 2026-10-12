@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "silver",
-  "sale_count": 324,
-  "realized_count": 324,
+  "sale_count": 325,
+  "realized_count": 325,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,19 +17,19 @@
     "max": 19000.0
   },
   "median_price_usd": 99.0,
-  "last_sale_date": "2026-09-20",
+  "last_sale_date": "2026-10-11",
   "grade_distribution": {
     "XF": 76,
     "VF": 47,
     "AU": 81,
     "F": 5,
-    "MS": 115
+    "MS": 116
   },
-  "thumbnail_url": "https://media.coinarchives.com/6185da83fb7252d1f0970b55e61c603b/img/ponterio/238online/image44342.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/5b2be0db0a0012cd0b14074a33ff7ada/img/heritage/61659/image24051.jpg",
   "median_weight_g": null,
-  "top_strike_score": 5,
-  "top_surface_score": 2,
-  "top_grade_numeric": 5,
+  "top_strike_score": 4,
+  "top_surface_score": 4,
+  "top_grade_numeric": 4,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
@@ -2306,6 +2306,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-3ac7ab1df1f3",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2816531&AucID=7351&Lot=24051&Val=eb933f2663085f1979502f67a96e7ee8",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61659, Lot 24051 \u2014 Ancients\nGallienus (AD 253-268). BI antoninianus (22mm, 3.56 gm, 6h). NGC MS 4/5 - 4/5, Silvering, die shift. Uncertain mint and date. GALLIENVS P F AVG, radiate, cuirassed bust of Gallienus right, se",
+      "description": "Ancients\nGallienus (AD 253-268). BI antoninianus (22mm, 3.56 gm, 6h). NGC MS 4/5 - 4/5, Silvering, die shift. Uncertain mint and date. GALLIENVS P F AVG, radiate, cuirassed bust of Gallienus right, seen from front / ORIENS-AVG, turreted Orient standing right (on left), presenting wreath in outstretched right hand to emperor standing facing (on right), head left, in military attire, grounded spear in left hand; wreath above. RIC V.I-, cf. 445 corr. (Sol) for reverse type. Seemingly unlisted and...",
+      "hammer_price_usd": 900.0,
+      "currency_original": "USD",
+      "price_original": 900.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-11",
+      "image_url": "https://media.coinarchives.com/5b2be0db0a0012cd0b14074a33ff7ada/img/heritage/61659/image24051.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
