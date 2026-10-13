@@ -13,15 +13,15 @@
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 1.0,
+    "min": 35.0,
     "max": 1080.0
   },
   "median_price_usd": 156.0,
   "last_sale_date": "2026-10-11",
   "grade_distribution": {
-    "AU": 83,
     "XF": 25,
     "VF": 12,
+    "AU": 83,
     "MS": 245
   },
   "thumbnail_url": "https://media.coinarchives.com/b91dd0c9c7249e99a941746d518a01c6/img/heritage/61638/image21245.jpg",
@@ -34,39 +34,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-995680e8babe",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/14068/ancients-roman-imperial/12477909/ancients-constantinople-commemorative-ca",
-      "title": "Ancients <br> Constantinople Commemorative (ca. AD 330-340). AE3 or BI nummus (15mm, 2.08 gm, 11h). NGC AU S 5/5 - 5/5. Alexandria, 1st officina, AD 337-340, struck under Constantine I to commemorate the moving of the Roman capital from Rome to Constantinople. VRBS-ROMA, helmeted bust of Constantinopolis left, wearing imperial cloak / She-wolf standing left, head reverted, suckling twins Romulus and Remus below; two stars between S-R above, SMALA\u2022 in exergue. RIC VIII 10. Crisp and well-centered dies with champagne backlight.    HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
-      "description": "Heritage Auctions, Inc. | ['Auction #61659']",
-      "hammer_price_usd": 1.0,
-      "currency_original": "USD",
-      "price_original": 1.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-10-11",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "sixbid-cd2fad93d137",
       "source": "sixbid",
@@ -120,6 +87,39 @@
         "grade_numeric": 4,
         "strike_score": 4,
         "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-995680e8babe",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/14068/ancients-roman-imperial/12477909/ancients-constantinople-commemorative-ca",
+      "title": "Ancients <br> Constantinople Commemorative (ca. AD 330-340). AE3 or BI nummus (15mm, 2.08 gm, 11h). NGC AU S 5/5 - 5/5. Alexandria, 1st officina, AD 337-340, struck under Constantine I to commemorate the moving of the Roman capital from Rome to Constantinople. VRBS-ROMA, helmeted bust of Constantinopolis left, wearing imperial cloak / She-wolf standing left, head reverted, suckling twins Romulus and Remus below; two stars between S-R above, SMALA\u2022 in exergue. RIC VIII 10. Crisp and well-centered dies with champagne backlight.    HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61659']",
+      "hammer_price_usd": 854.0,
+      "currency_original": "USD",
+      "price_original": 854.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-11",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

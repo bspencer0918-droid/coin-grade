@@ -8,8 +8,8 @@
   "ruler_rarity": "common",
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 209,
-  "realized_count": 209,
+  "sale_count": 210,
+  "realized_count": 210,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,16 +17,16 @@
     "max": 15600.0
   },
   "median_price_usd": 1320.0,
-  "last_sale_date": "2026-09-15",
+  "last_sale_date": "2026-10-12",
   "grade_distribution": {
     "MS": 41,
     "P": 1,
-    "AU": 100,
+    "AU": 101,
     "VF": 16,
     "XF": 50,
     "F": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/c02660ef2409c80d27528af433c3bce0/img/heritage/3135/image34166.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/21fa0bdce8caaa8898bde704fc8a93fc/img/heritage/61662/image25076.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 4,
@@ -96,6 +96,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-001f7f5031f4",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2816622&AucID=7350&Lot=25076&Val=4835887c3992b982d29111ae1ccb7251",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61662, Lot 25076 \u2014 Ancients\nConstantine VI and Irene (AD 780-797). AV solidus (19mm, 4.44 gm, 6h). NGC AU 5/5 - 3/5. Constantinople, AD 792-797. IRIhH-A\u0393OVStI, bust of Irene facing, wearing loros and crown with pendilia",
+      "description": "Ancients\nConstantine VI and Irene (AD 780-797). AV solidus (19mm, 4.44 gm, 6h). NGC AU 5/5 - 3/5. Constantinople, AD 792-797. IRIhH-A\u0393OVStI, bust of Irene facing, wearing loros and crown with pendilia, four pinnacles and cross in center, globus cruciger in right hand, cruciform scepter in left / COhStAh-tIhOS bAS' \u0398, bust of Constantine VI facing, wearing crown and chlamys pinned at right shoulder, globus cruciger in right hand, acacia in left. Sear 1594.\n\nEx Heritage Auctions, Auction 3030 (6...",
+      "hammer_price_usd": 3000.0,
+      "currency_original": "USD",
+      "price_original": 3000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-12",
+      "image_url": "https://media.coinarchives.com/21fa0bdce8caaa8898bde704fc8a93fc/img/heritage/61662/image25076.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

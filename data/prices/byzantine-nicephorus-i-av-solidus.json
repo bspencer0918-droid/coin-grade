@@ -8,8 +8,8 @@
   "ruler_rarity": "scarce",
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 57,
-  "realized_count": 57,
+  "sale_count": 58,
+  "realized_count": 58,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,23 +17,56 @@
     "max": 6900.0
   },
   "median_price_usd": 1320.0,
-  "last_sale_date": "2026-07-05",
+  "last_sale_date": "2026-10-12",
   "grade_distribution": {
+    "MS": 32,
     "AU": 21,
-    "MS": 31,
     "XF": 4,
     "VF": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/dd8cc66df380719b4b3d5165f9825294/img/heritage/61633/image22098.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/2f8bc37989312761bd13d77df22304a9/img/heritage/61662/image25078.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
-  "top_surface_score": 4,
+  "top_surface_score": 3,
   "top_grade_numeric": 4,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-d2cd2d996f8e",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2816624&AucID=7350&Lot=25078&Val=28e1ad7f24a977633ac51bd9b4f66c29",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61662, Lot 25078 \u2014 Ancients\nNicephorus I and Stauracius (AD 803-811). AV solidus (20mm, 4.42 gm, 6h). NGC MS 4/5- 3/5, brushed, light marks. Constantinople, AD 803-811. hICI-FOROS bASIL\u0404', crowned facing bust of Nicepho",
+      "description": "Ancients\nNicephorus I and Stauracius (AD 803-811). AV solidus (20mm, 4.42 gm, 6h). NGC MS 4/5- 3/5, brushed, light marks. Constantinople, AD 803-811. hICI-FOROS bASIL\u0404', crowned facing bust of Nicephorus I, wearing mustache and short beard, chlamys pinned at right shoulder, cross potent with base in right hand, akakia in left; pellet in left field / StAVRA-CIS d\u0404SPO' \u0404, crowned facing bust of Stauracius, beardless, chlamys pinned at right shoulder, globus cruciger in right hand, akakia in left...",
+      "hammer_price_usd": 2100.0,
+      "currency_original": "USD",
+      "price_original": 2100.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-12",
+      "image_url": "https://media.coinarchives.com/2f8bc37989312761bd13d77df22304a9/img/heritage/61662/image25078.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-556c5ca264c4",
       "source": "coinarchives",

@@ -38,39 +38,6 @@
   "mint_mark": null,
   "sales": [
     {
-      "id": "sixbid-30bef949f03f",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/14068/ancients-greek/12477866/ancients-achaemenid-persia-xerxes",
-      "title": "Ancients <br> ACHAEMENID PERSIA. Xerxes I-Darius II (ca. 5th century BC). AV daric (15mm, 8.36 gm). NGC Choice XF S 5/5 - 4/5. Lydo-Milesian standard, Sardes, ca. 485-420 BC. Persian king or hero, wearing cidaris and candys, quiver over shoulder, in kneeling-running stance right, drapery in angular form from left knee to ground, right knee obscured by drapery, transverse spear in right hand, bow forward in left / Irregular rectangular incuse punch. Carradice Type IIIb, Group A/B. Sunrise 24. Flashy, sunny flan.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
-      "description": "Heritage Auctions, Inc. | ['Auction #61659']",
-      "hammer_price_usd": 1.0,
-      "currency_original": "USD",
-      "price_original": 1.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-10-11",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-a27d656e0462",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -163,6 +130,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-30bef949f03f",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/14068/ancients-greek/12477866/ancients-achaemenid-persia-xerxes",
+      "title": "Ancients <br> ACHAEMENID PERSIA. Xerxes I-Darius II (ca. 5th century BC). AV daric (15mm, 8.36 gm). NGC Choice XF S 5/5 - 4/5. Lydo-Milesian standard, Sardes, ca. 485-420 BC. Persian king or hero, wearing cidaris and candys, quiver over shoulder, in kneeling-running stance right, drapery in angular form from left knee to ground, right knee obscured by drapery, transverse spear in right hand, bow forward in left / Irregular rectangular incuse punch. Carradice Type IIIb, Group A/B. Sunrise 24. Flashy, sunny flan.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61659']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-11",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
