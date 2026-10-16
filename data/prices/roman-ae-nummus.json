@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AE Nummus",
   "metal": "bronze",
-  "sale_count": 499,
-  "realized_count": 499,
+  "sale_count": 500,
+  "realized_count": 500,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,13 +17,13 @@
     "max": 6000.0
   },
   "median_price_usd": 149.0,
-  "last_sale_date": "2026-10-11",
+  "last_sale_date": "2026-10-15",
   "grade_distribution": {
     "AU": 167,
+    "XF": 62,
     "G": 5,
     "MS": 215,
     "VF": 34,
-    "XF": 61,
     "VG": 4,
     "F": 13
   },
@@ -54,6 +54,39 @@
         "verified": false,
         "cert_number": null,
         "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-8248dc43059b",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/coinsnb/14139/ancient-coins/12550165/rome-roman-empire-320",
+      "title": "Rome Roman Empire 320 - 321 TT AE Nummus - Licinius I (DN LICINI INVICT AVG) Bronze Ticinium Mint NGC CH XF  RIC VII 146 OCRE ric.7.tic.146 <br> RIC VII 146 OCRE ric.7.tic.146",
+      "description": "Coins Numismatic Barcelona | ['E-Auction 66']",
+      "hammer_price_usd": 95.79,
+      "currency_original": "USD",
+      "price_original": 95.7865,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-15",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,

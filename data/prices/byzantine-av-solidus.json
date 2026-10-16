@@ -8,26 +8,26 @@
   "ruler_rarity": null,
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 69,
-  "realized_count": 69,
+  "sale_count": 71,
+  "realized_count": 71,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 750.0,
+    "min": 700.86,
     "max": 20740.0
   },
   "median_price_usd": 1700.0,
-  "last_sale_date": "2026-09-01",
+  "last_sale_date": "2026-10-13",
   "grade_distribution": {
     "XF": 10,
-    "MS": 29,
-    "AU": 21,
+    "MS": 30,
+    "AU": 22,
     "G": 9
   },
   "thumbnail_url": "https://media.coinarchives.com/5cca39399010b1b2ff7de4ef9420e7c7/img/heritage/3135/image30097.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 4,
+  "top_surface_score": 5,
   "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
@@ -332,6 +332,39 @@
       }
     },
     {
+      "id": "sixbid-8d84e54f513d",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/14026/empire-romain-roman/12443861/empire-romain-romantheodose-ier",
+      "title": "EMPIRE ROMAIN - ROMAN<br>Th\u00e9odose Ier (379-395). Solidus ND (383-388), Constantinople, 1\u00e8re officine.<br>Av. D N THEODO - SIVS P F AVG. Buste diad\u00e9m\u00e9, drap\u00e9 et cuirass\u00e9, \u00e0 droite. <br>Rv. CONCORDI - A AVGGGG (officine). Constantinople assise de face sur un tr\u00f4ne avec t\u00eates de lion, t\u00eate \u00e0 droite, tenant une lance et un bouclier inscrit VOT / V / MVL / X, une proue de navire \u00e0 ses pieds  ; \u00e0 l\u2019exergue CONOB.<br>RIC.IX.70b ; Or - 4,42 g - 21 mm - 11 h<br>NGC Ch MS 5/5 5/5 (3928170-036). <br>Avec AVGGGG. Proche de son \u00e9tat de frappe, avec une d\u00e9licate patine. Presque Fleur de coin.",
+      "description": "MDC Monaco | ['Auction 19']",
+      "hammer_price_usd": 2336.2,
+      "currency_original": "USD",
+      "price_original": 2336.2,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "3928170-036",
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/3928170036/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "sixbid-d4977cb753a7",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -453,6 +486,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/8585318024/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-dd8884155dd0",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/14026/empire-byzantin-byzantine/12443864/empire-byzantin-byzantineconstant-ii",
+      "title": "EMPIRE BYZANTIN - BYZANTINE<br>Constant II (641-668). Solidus globulaire ND (659-660), Carthage.<br>Av. [D N COT Y]. Bustes de face de Constant II, avec longue barbe et de Constantin IV, portant le stemma. <br>Rv. VICTO - A AG \u0393. Croix potenc\u00e9e, une \u00e9toile dans le champ \u00e0 gauche ; au-dessous COMOB.<br>BC.1039 - Sommers 12.69 - BN.13-07 = Ratto 1595 ; Or - 4,32 g - 11,8 mm - 6 h<br>NGC AU 4/5 5/5 (8769658-030). <br>Rare vari\u00e9t\u00e9 avec \u00e9toile et \u0393 au revers. De bon centrage avec une belle patine dor\u00e9e. Superbe.",
+      "description": "MDC Monaco | ['Auction 19']",
+      "hammer_price_usd": 700.86,
+      "currency_original": "USD",
+      "price_original": 700.86,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8769658-030",
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8769658030/",
         "grading_service": "ngc"
       },
       "metadata": {

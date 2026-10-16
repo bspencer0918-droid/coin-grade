@@ -8,21 +8,21 @@
   "ruler_rarity": null,
   "denomination": "AR Shekel",
   "metal": "silver",
-  "sale_count": 382,
-  "realized_count": 380,
+  "sale_count": 385,
+  "realized_count": 383,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 154.0,
     "max": 90000.0
   },
-  "median_price_usd": 4530.0,
-  "last_sale_date": "2026-10-15",
+  "median_price_usd": 4440.0,
+  "last_sale_date": "2026-10-16",
   "grade_distribution": {
     "XF": 123,
     "F": 15,
     "VF": 62,
-    "AU": 148,
+    "AU": 151,
     "MS": 32,
     "VG": 1,
     "G": 1
@@ -30,8 +30,8 @@
   "thumbnail_url": "https://media.coinarchives.com/3afb3368392e6f4bf93ed75b55e299e8/img/heritage/61675/image25037.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 5,
-  "top_grade_numeric": null,
+  "top_surface_score": 4,
+  "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
@@ -48,7 +48,7 @@
       "currency_original": "USD",
       "price_original": 3250.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-15",
+      "sale_date": "2026-10-16",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -302,6 +302,39 @@
       }
     },
     {
+      "id": "sixbid-dac9ad16450d",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/14026/grece-antique-greek/12443727/grece-antique-greekjudee-premiere",
+      "title": "GR\u00c8CE ANTIQUE - GREEK<br>Jud\u00e9e, Premi\u00e8re guerre jud\u00e9o-romaine ou Grande R\u00e9volte (66-73). Shekel An 2 (67/68), J\u00e9rusalem.<br>Av. L\u00e9gende en h\u00e9breu (shekel d'Isra\u00ebl). Calice ; au-dessus (date). <br>Rv. L\u00e9gende en h\u00e9breu (J\u00e9rusalem la sacr\u00e9e). Bouquet avec trois fleurs.<br>Meshorer 193 - Hendin 6387 ; Argent - 14,13 g - 23,5 mm - 12 h<br>NGC AU 5/5 4/5 (2183766-018). <br>De frappe vigoureuse et faible usure de circulation. La patine est grise avec quelques reflets dor\u00e9s ou bleut\u00e9s. Superbe \u00e0 Fleur de coin.",
+      "description": "MDC Monaco | ['Auction 19']",
+      "hammer_price_usd": 1752.15,
+      "currency_original": "USD",
+      "price_original": 1752.15,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "2183766-018",
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/2183766018/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "sixbid-a19efb6597a4",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -357,6 +390,72 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/8585318018/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-c2bf3df1a4b4",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/14026/grece-antique-greek/12443686/grece-antique-greeksicile-emissions",
+      "title": "GR\u00c8CE ANTIQUE - GREEK<br>Sicile, \u00e9missions siculo-puniques. Demi-shekel ND (213-211 av. J.-C.), Agrigente (Akragas).<br>Av. T\u00eate masculine (Triptolemos ?) \u00e0 droite, avec la couronne d\u2019\u00e9pis de bl\u00e9s. <br>Rv. Dans une couronne de laurier, un cheval galopant \u00e0 droite, au-dessous lettre punique H.<br>HGC 2, - (cf. 172, 1/4 shekel) - Walker, 1984, II/7 - Burnett, Enna Hoard, SNR 62, 143 (m\u00eame poids) ; Argent - 4,32 g - 22 mm - 12 h<br>Provient d\u2019une vente Jean Vinchon Numismatique, 28 avril 1997, n\u00b0 42.<br>NGC Ch AU 5/5 4/5 (8769658-011). <br>De poids lourd, correspondant au Tr\u00e9sor d\u2019Enna n\u00b0 143. Assez rare et de qualit\u00e9 exceptionnelle pour ce type, sur un flan tr\u00e8s large. La patine est ancienne et profonde. Superbe \u00e0 Fleur de coin.",
+      "description": "MDC Monaco | ['Auction 19']",
+      "hammer_price_usd": 3504.3,
+      "currency_original": "USD",
+      "price_original": 3504.3,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8769658-011",
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8769658011/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-d5997fff8d2c",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/14026/grece-antique-greek/12443665/grece-antique-greekcalabre-tarente",
+      "title": "GR\u00c8CE ANTIQUE - GREEK<br>Calabre, Tarente. Demi-shekel (drachme), occupation punique, au nom du magistrat Sokannas ND (212-209 av. J.-C.), Tarente.<br>Av. Cavalier casqu\u00e9 et en tenue militaire sur un cheval \u00e0 droite, tenant une palme ; sous le cheval \u03a3\u03a9\u039a\u0391\u039d - \u039d\u0391\u03a3. <br>Rv. TAPA\u03a3. Taras assis \u00e0 gauche sur un dauphin, tenant un canthare de la main droite et un trident de la main gauche ; dans le champ \u00e0 droite un aigle.<br>HGC 1, 934 - Vlasto 984-986 - HN Italie 1082 ; Argent - 3,9 g - 20,5 mm - 12 h<br>NGC Ch AU 5/5 3/5 brushed (8769658-027). <br>Sur un flan large, l\u00e9g\u00e8rement oblong, \u00e0 la frappe centr\u00e9e. Cet exemplaire n\u2019a quasiment pas circul\u00e9, avec une l\u00e9g\u00e8re patine grise. Superbe \u00e0 Fleur de coin.<br>Pour l\u2019occupation de Tarente par les Carthaginois d\u2019Hannibal Barca, \u00e0 la suite de la d\u00e9faite de Cannes en -216 av. J.-C., cuisante pour les Romains. Ces derniers ne capitulent toutefois pas et reprendront la ville de Tarente en 209 av. J.-C",
+      "description": "MDC Monaco | ['Auction 19']",
+      "hammer_price_usd": 934.48,
+      "currency_original": "USD",
+      "price_original": 934.48,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8769658-027",
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8769658027/",
         "grading_service": "ngc"
       },
       "metadata": {

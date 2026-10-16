@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "silver",
-  "sale_count": 325,
-  "realized_count": 325,
+  "sale_count": 326,
+  "realized_count": 326,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,11 +17,11 @@
     "max": 19000.0
   },
   "median_price_usd": 99.0,
-  "last_sale_date": "2026-10-11",
+  "last_sale_date": "2026-10-15",
   "grade_distribution": {
     "XF": 76,
     "VF": 47,
-    "AU": 81,
+    "AU": 82,
     "F": 5,
     "MS": 116
   },
@@ -2263,6 +2263,39 @@
         "verified": false,
         "cert_number": null,
         "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-2f30ef47dc8f",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/coinsnb/14139/ancient-coins/12550136/rome-roman-empire-260",
+      "title": "Rome Roman Empire 260 - 268 BI Antoninianus - Gallienus (DIANA FELIX; Diana) Billon Mediolanum Mint 2.8g NGC AU  RIC V.1 473k OCRE ric.5.gall(2).473k <br> RIC V.1 473k OCRE ric.5.gall(2).473k",
+      "description": "Coins Numismatic Barcelona | ['E-Auction 66']",
+      "hammer_price_usd": 169.03,
+      "currency_original": "USD",
+      "price_original": 169.035,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-15",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,

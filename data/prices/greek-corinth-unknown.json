@@ -8,32 +8,65 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "gold",
-  "sale_count": 15,
-  "realized_count": 15,
+  "sale_count": 20,
+  "realized_count": 20,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 456.0,
     "max": 17000.0
   },
-  "median_price_usd": 3800.0,
-  "last_sale_date": "2026-08-16",
+  "median_price_usd": 2330.8999999999996,
+  "last_sale_date": "2026-10-13",
   "grade_distribution": {
-    "VF": 6,
+    "VF": 7,
+    "XF": 7,
     "AU": 4,
-    "XF": 4,
-    "MS": 1
+    "MS": 2
   },
   "thumbnail_url": "https://media.coinarchives.com/46bfa5d5ddaa62c6edfa8035166eeab0/img/heritage/61625/image22176.jpg",
   "median_weight_g": null,
-  "top_strike_score": 3,
-  "top_surface_score": 5,
-  "top_grade_numeric": 3,
+  "top_strike_score": 4,
+  "top_surface_score": 4,
+  "top_grade_numeric": 4,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-1cf626f1910a",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/14026/grece-antique-greek/12443712/grece-antique-greekionie-phocee",
+      "title": "GR\u00c8CE ANTIQUE - GREEK<br>Ionie, Phoc\u00e9e. Hect\u00e9 d\u2019\u00e9lectrum (sixi\u00e8me de stat\u00e8re) ND (387-326 av. J.-C.), Phoc\u00e9e.<br>Av. T\u00eate d\u2019Ath\u00e9na coiff\u00e9e du casque corinthien \u00e0 gauche ; derri\u00e8re, un phoque. <br>Rv. Carr\u00e9 creux quadripartite.<br>Bodenstedt 111 ; \u00c9lectrum - 2,52 g - 9,5 mm - 12 h<br>NGC VF 5/5 3/5 (8769658-003). <br>Avec une l\u00e9g\u00e8re couleur dor\u00e9e. TTB \u00e0 Superbe.",
+      "description": "MDC Monaco | ['Auction 19']",
+      "hammer_price_usd": 584.05,
+      "currency_original": "USD",
+      "price_original": 584.05,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8769658-003",
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8769658003/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-b2c574f596e3",
       "source": "sixbid",
@@ -57,6 +90,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/8585318025/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-2e5b1d2537e0",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/14026/grece-antique-greek/12443690/grece-antique-greekcorinthe-statere",
+      "title": "GR\u00c8CE ANTIQUE - GREEK<br>Corinthe. Stat\u00e8re ND (375-300 av. J.-C.), Corinthe.<br>Av. P\u00e9gase volant \u00e0 gauche, (koppa) au-dessous. <br>Rv. A - P. T\u00eate d'Ath\u00e9na portant un casque corinthien \u00e0 gauche ; derri\u00e8re, une feuille de lierre.<br>HGC 4, 1848 - Ravel 1016 - Calciati 434 ; Argent - 8,57 g - 20 mm - 9 h<br>NGC XF 5/5 4/5 (8769658-004). <br>Avec une patine ancienne grise, aux l\u00e9gers reflets dor\u00e9s. Faible usure sur les reliefs. Superbe.",
+      "description": "MDC Monaco | ['Auction 19']",
+      "hammer_price_usd": 700.86,
+      "currency_original": "USD",
+      "price_original": 700.86,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8769658-004",
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8769658004/",
         "grading_service": "ngc"
       },
       "metadata": {
@@ -134,6 +200,39 @@
       }
     },
     {
+      "id": "sixbid-0d791045e744",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/14026/grece-antique-greek/12443720/grece-antique-greekpamphylie-side",
+      "title": "GR\u00c8CE ANTIQUE - GREEK<br>Pamphylie, Sid\u00e9. T\u00e9tradrachme au nom du magistrat \u0394\u0399\u039d- ND (205-100 av. J.-C.), Sid\u00e9.<br>Av. T\u00eate d\u2019Ath\u00e9na \u00e0 droite, coiff\u00e9e du casque corinthien \u00e0 aigrette. <br>Rv. \u0394\u0399\u039d. La Victoire ail\u00e9e ou Nik\u00e9, avan\u00e7ant \u00e0 gauche en tenant une couronne. Devant elle, une grenade, un foudre et monogramme.<br>SNG von Aulock 4783 - SNG Lockett 3024 ; Argent - 16,84 g - 29,5 mm - 12 h<br>NGC Ch XF 5/5 2/5 graffito edge scuff (2183766-005). <br>D\u2019assez bon centrage avec une patine ancienne et seules de petites marques de circulation dans les champs. TTB \u00e0 Superbe.",
+      "description": "MDC Monaco | ['Auction 19']",
+      "hammer_price_usd": 700.86,
+      "currency_original": "USD",
+      "price_original": 700.86,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "2183766-005",
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/2183766005/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "sixbid-aa770b3ca482",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -156,6 +255,72 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/8558295012/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-fb3f015ec949",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/14026/grece-antique-greek/12443731/grece-antique-greekroyaume-lagide",
+      "title": "GR\u00c8CE ANTIQUE - GREEK<br>Royaume lagide, Ptol\u00e9m\u00e9e Ier (305-285 av J-C). T\u00e9tradrachme \u00e0 la t\u00eate casqu\u00e9e ND (306-300 av. J.-C.), Alexandrie.<br>Av. T\u00eate d'Alexandre le Grand \u00e0 droite, coiff\u00e9e des cornes d'Ammon, de la peau d'\u00e9l\u00e9phant, l'\u00e9gide nou\u00e9e sur le cou. <br>Rv. \u0391\u039b\u0395\u039e\u0391\u039d\u0394\u03a1\u039f\u03a5. Ath\u00e9na Promachos marchant \u00e0 droite, brandissant une lance et tenant un bouclier ; un aigle sur un foudre devant ; monogramme dans le champ et au-dessus un petit casque corinthien.<br>CPE.70 - Sv.164 - Zervos 29 (artiste A) ; Argent - 15,68 g - 27 mm - 12 h<br>NGC Ch XF 5/5 1/5 damage (2183766-004). <br>De frappe vigoureuse et centr\u00e9e. Deux griffures sur la tranche et la joue retouch\u00e9e au droit. L\u00e9g\u00e8re patine grise. Superbe.",
+      "description": "MDC Monaco | ['Auction 19']",
+      "hammer_price_usd": 2336.2,
+      "currency_original": "USD",
+      "price_original": 2336.2,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "2183766-004",
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 1,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/2183766004/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-45037aed89fb",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/14026/grece-antique-greek/12443699/grece-antique-greekmacedoine-royaume",
+      "title": "GR\u00c8CE ANTIQUE - GREEK<br>Mac\u00e9doine (royaume de), Alexandre III le Grand (336-323 av. J.-C.). Stat\u00e8re d\u2019or au nom d\u2019Alexandre le Grand ND (316-315 av. J.-C.), Sidon.<br>Av. T\u00eate d'Ath\u00e9na \u00e0 droite, coiff\u00e9e du casque corinthien \u00e0 aigrette orn\u00e9 d'un serpent, les cheveux retombant en m\u00e8ches sur la nuque. <br>Rv. ALEXANDROY. Nik\u00e9 drap\u00e9e, debout \u00e0 gauche, tenant une stylis et une couronne ; dans le champ \u00e0 gauche, lettre \u03a3 (18).<br>HGC 3.1, 893n - Price 3503 ; Or - 8,61 g - 17 mm - 12 h<br>NGC MS 4/5 4/5 die shift (2130991-013). <br>Bon centrage et frappe avec des coins neufs. Le droit est de haut relief, le velours de frappe \u00e0 peine touch\u00e9 sur les points hauts. Frappe au revers l\u00e9g\u00e8rement tr\u00e9fl\u00e9e avec Nik\u00e9 toutefois parfaitement d\u00e9taill\u00e9e. Superbe \u00e0 Fleur de coin.<br>Avec date au revers, 18 pour la 18e ann\u00e9e de r\u00e8gne d\u2019Abdalonymus (316-315 av. J.-C.), jardinier, d\u2019origine royale, r\u00e9tablit sur le tr\u00f4ne de Sidon par Alexandre le grand. En 316-315, Sidon est sous le contr\u00f4le d\u2019Antigone le Borgne (382-301 av. J.-C.). Ce dernier, ancien g\u00e9n\u00e9ral de Philippe II puis d\u2019Alexandre le Grand, est alors \u00e0 son apog\u00e9e en Asie o\u00f9 il sera d\u2019ailleurs proclam\u00e9 roi (basileus) en 306. En 316, apr\u00e8s s\u2019\u00eatre empar\u00e9 du tr\u00e9sor royal de Cyinda en Cilicie, auquel s\u2019ajoutent ses revenus, il est le plus riche et le plus puissant des Diadoques. La ville de Sidon est une alli\u00e9e d\u2019Alexandre le Grand d\u00e8s le d\u00e9but. Ses chantiers navals fournissent des bateaux pour la flotte d\u2019Alexandre contre Tyr puis pour Antigone le Borgne. Apr\u00e8s la d\u00e9faite de ce dernier en 301, la ville passe, avec Tyr, aux mains des S\u00e9leucides avant d\u2019\u00eatre conquises par les Ptol\u00e9m\u00e9es vers 288 <br> <br><b>Here you can find the <a href=\"https://d10dakqizeg4uw.cloudfront.net/VAE19/793.mp4\" rel=\"noopener noreferrer nofollow\"> Video-Tour</a></b>",
+      "description": "MDC Monaco | ['Auction 19']",
+      "hammer_price_usd": 14017.2,
+      "currency_original": "USD",
+      "price_original": 14017.2,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "2130991-013",
+        "grade": "MS",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/2130991013/",
         "grading_service": "ngc"
       },
       "metadata": {
