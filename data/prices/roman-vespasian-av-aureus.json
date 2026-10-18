@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AV Aureus",
   "metal": "gold",
-  "sale_count": 102,
-  "realized_count": 102,
+  "sale_count": 103,
+  "realized_count": 103,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,9 +17,9 @@
     "max": 168000.0
   },
   "median_price_usd": 6000.0,
-  "last_sale_date": "2026-09-01",
+  "last_sale_date": "2026-10-17",
   "grade_distribution": {
-    "XF": 21,
+    "XF": 22,
     "AU": 14,
     "VF": 24,
     "MS": 5,
@@ -27,7 +27,7 @@
     "F": 32,
     "VG": 5
   },
-  "thumbnail_url": "https://media.coinarchives.com/5a5aa098a6773869fae996c31132bbb3/img/ponterio/238/image41202.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/2e9205ff924508e3d88fdfc34b51f454/img/gadoury/2026/image00667.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -37,6 +37,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-7f549b4b10e7",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2814097&AucID=7336&Lot=667&Val=52d83231436beefb2a0856c192ad016c",
+      "title": "Gadoury - Auction XXI, Lot 667 \u2014 Roman Coins\nTitus 79-81 Aureus, 75, Rome, AU 7.35 g. Avers : T CAESAR IMP VESPASIAN. Sa t\u00eate laur\u00e9e \u00e0 droite. Revers : PONTIF TR P COS IIII. Victoire debout \u00e0 gauche sur un autel entre deux serpents, ",
+      "description": "Roman Coins\nTitus 79-81 Aureus, 75, Rome, AU 7.35 g. Avers : T CAESAR IMP VESPASIAN. Sa t\u00eate laur\u00e9e \u00e0 droite. Revers : PONTIF TR P COS IIII. Victoire debout \u00e0 gauche sur un autel entre deux serpents, tenant une palme et une couronne. Ref : Cal. 750, Cohen 163, BMC 173 Ex Vinchon, 09/12/1997, lot 41 Ex Triton, 01/12/1998, lot 855 Grading : NGC Choice XF 5/5, 4/5 Conservation : Superbe, flan large et pi\u00e8ce attrayante.\nCertificate: 8218588-002\n\nStarting price: 10000 EUR...",
+      "hammer_price_usd": 16200.0,
+      "currency_original": "EUR",
+      "price_original": 15000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-17",
+      "image_url": "https://media.coinarchives.com/2e9205ff924508e3d88fdfc34b51f454/img/gadoury/2026/image00667.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "8218588-002",
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8218588002/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-52ec8cdbcfe7",
       "source": "coinarchives",

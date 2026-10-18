@@ -200,39 +200,6 @@
       }
     },
     {
-      "id": "sixbid-3387f17f0625",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/nomisma-spa/13662/papal-coins/12078579/repubblica-romana-1798-1799-ancona",
-      "title": "Repubblica romana (1798-1799) Ancona - 2 Baiocchi - Munt. 24 CU R In slab NGC MS 63 BN n\u00b0 2804828-001. <br> MS 63 BN",
-      "description": "Nomisma Spa | ['AUCTION 76']",
-      "hammer_price_usd": 424.69,
-      "currency_original": "USD",
-      "price_original": 424.692,
-      "buyers_premium_included": false,
-      "sale_date": "2026-04-18",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "2804828-001",
-        "grade": "MS",
-        "grade_numeric": 63,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/2804828001/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-9435b9b52b83",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -292,6 +259,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-3387f17f0625",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/nomisma-spa/13662/papal-coins/12078579/repubblica-romana-1798-1799-ancona",
+      "title": "Repubblica romana (1798-1799) Ancona - 2 Baiocchi - Munt. 24 CU R In slab NGC MS 63 BN n\u00b0 2804828-001. <br> MS 63 BN",
+      "description": "Nomisma Spa | ['AUCTION 76']",
+      "hammer_price_usd": 424.69,
+      "currency_original": "USD",
+      "price_original": 424.692,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-18",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "2804828-001",
+        "grade": "MS",
+        "grade_numeric": 63,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/2804828001/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

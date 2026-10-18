@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AV Aureus",
   "metal": "gold",
-  "sale_count": 142,
-  "realized_count": 142,
+  "sale_count": 143,
+  "realized_count": 143,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,16 +17,16 @@
     "max": 126000.0
   },
   "median_price_usd": 5280.0,
-  "last_sale_date": "2026-09-15",
+  "last_sale_date": "2026-10-13",
   "grade_distribution": {
     "XF": 30,
-    "VF": 66,
+    "VF": 67,
     "AU": 24,
     "P": 2,
     "F": 17,
     "MS": 3
   },
-  "thumbnail_url": "https://media.coinarchives.com/778369ac30be553f6e849503b1b6fddd/img/antiumaurum/025/image00013.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/92b97c0ab45980a2c62d4019da92abfc/img/mdc/019/image00926.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -162,6 +162,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-dc630b15ac29",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2808852&AucID=7304&Lot=926&Val=c8e7a79cb8faa3b466973ec5292bcdf8",
+      "title": "MDC Monnaies de Collection sarl - Auction 19, Lot 926 \u2014 EMPIRE ROMAIN - ROMAN\r\nHadrien (117-138). Aureus ND (134-138), Rome. NGC VF 5/5 2/5 Fine Style scratch (8769658-031).\r\nAv. HADRIANVS - AVG COS III PP. Buste drap\u00e9 \u00e0 gauche, la t\u00eate nue, vu de trois-qu",
+      "description": "EMPIRE ROMAIN - ROMAN\r\nHadrien (117-138). Aureus ND (134-138), Rome. NGC VF 5/5 2/5 Fine Style scratch (8769658-031).\r\nAv. HADRIANVS - AVG COS III PP. Buste drap\u00e9 \u00e0 gauche, la t\u00eate nue, vu de trois-quarts en arri\u00e8re. \r\nRv. AFRICA. l'Afrique allong\u00e9e \u00e0 gauche, coiff\u00e9e d'une d\u00e9pouille d'\u00e9l\u00e9phant, la main droite sur un lion couch\u00e9 et la bras gauche appuy\u00e9 sur un panier.\r\nRIC.298h - Calic\u00f3 1194 ; Or - 7,10 g - 19,3 mm - 12 h\r\nNGC VF 5/5 2/5 Fine Style scratch (8769658-031). \r\nDe minimes marques su...",
+      "hammer_price_usd": 5940.0,
+      "currency_original": "EUR",
+      "price_original": 5500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-13",
+      "image_url": "https://media.coinarchives.com/92b97c0ab45980a2c62d4019da92abfc/img/mdc/019/image00926.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "8769658-031",
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": "https://www.ngccoin.com/certlookup/8769658031/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

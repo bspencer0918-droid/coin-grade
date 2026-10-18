@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AV Aureus",
   "metal": "gold",
-  "sale_count": 300,
-  "realized_count": 300,
+  "sale_count": 304,
+  "realized_count": 304,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,17 +17,17 @@
     "max": 312000.0
   },
   "median_price_usd": 12000.0,
-  "last_sale_date": "2026-10-13",
+  "last_sale_date": "2026-10-17",
   "grade_distribution": {
     "XF": 56,
-    "VF": 53,
-    "MS": 60,
+    "VF": 54,
+    "MS": 62,
     "F": 19,
-    "AU": 105,
+    "AU": 106,
     "G": 2,
     "VG": 5
   },
-  "thumbnail_url": "https://media.coinarchives.com/de17dbc84feb08e74234afa1fe529511/img/heritage/3135/image33074.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/105d8685e9c3d88bb44d9c61a068346a/img/gadoury/2026/image00675.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 3,
@@ -335,6 +335,72 @@
       }
     },
     {
+      "id": "coinarchives-adaf5f91c464",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2814105&AucID=7336&Lot=675&Val=3f322ce54ecb4522270ba33c10f299c9",
+      "title": "Gadoury - Auction XXI, Lot 675 \u2014 Roman Coins\nGordianus III 238-244 Aureus, 240, Rome, AU 4.88 g. Avers : Buste laur\u00e9, drap\u00e9 et cuirass\u00e9 \u00e0 droite. Revers : Aequitas, drap\u00e9e, debout de face, t\u00eate \u00e0 gauche, tenant une balance de la main",
+      "description": "Roman Coins\nGordianus III 238-244 Aureus, 240, Rome, AU 4.88 g. Avers : Buste laur\u00e9, drap\u00e9 et cuirass\u00e9 \u00e0 droite. Revers : Aequitas, drap\u00e9e, debout de face, t\u00eate \u00e0 gauche, tenant une balance de la main droite et une corne d'abondance de la main gauche. Ref : Cal. 3185, RIC 72a. C.24 Grading : NGC Choice AU  5/5 , 3/5 light marks Conservation : Superbe\nCertificate: 2144689-010\n\nStarting price: 4000 EUR...",
+      "hammer_price_usd": 4799.52,
+      "currency_original": "EUR",
+      "price_original": 4444.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-17",
+      "image_url": "https://media.coinarchives.com/105d8685e9c3d88bb44d9c61a068346a/img/gadoury/2026/image00675.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "2144689-010",
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/2144689010/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-9324786c2f57",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2808853&AucID=7304&Lot=927&Val=62191eec39bb6d42f62b95454281bc9b",
+      "title": "MDC Monnaies de Collection sarl - Auction 19, Lot 927 \u2014 EMPIRE ROMAIN - ROMAN\r\nAelius C\u00e9sar (136-138). Aureus ND (137), Rome. NGC Ch VF 5/5 3/5 Fine Style brushed (8769657-003).\r\nAv. L. AELIVS - CAESAR. T\u00eate nue \u00e0 gauche, vu de trois-quarts en arri\u00e8re. \r\nR",
+      "description": "EMPIRE ROMAIN - ROMAN\r\nAelius C\u00e9sar (136-138). Aureus ND (137), Rome. NGC Ch VF 5/5 3/5 Fine Style brushed (8769657-003).\r\nAv. L. AELIVS - CAESAR. T\u00eate nue \u00e0 gauche, vu de trois-quarts en arri\u00e8re. \r\nRv. TRIB POT - COS II / PIE - TAS. La Pi\u00e9t\u00e9 voil\u00e9e \u00e0 droite, avec la main lev\u00e9e et l'autre tenant une bo\u00eete d'encens au-dessus d'un autel.\r\nCalic\u00f3 1449 - RIC.2.444c ; Or - 7 g - 18 mm - 6 h\r\nProvient de la collection Christoph Buchhold et ant\u00e9rieurement de la vente NAC A, Z\u00fcrich 1991, N\u00b0 1822 et NA...",
+      "hammer_price_usd": 8640.0,
+      "currency_original": "EUR",
+      "price_original": 8000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-13",
+      "image_url": "https://media.coinarchives.com/ec75a7aa773aa9cc0303caf70c8253a5/img/mdc/019/image00927.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "8769657-003",
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": "https://www.ngccoin.com/certlookup/8769657003/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-7bace946d5cf",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -357,6 +423,72 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-d6994a176900",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2808872&AucID=7304&Lot=946&Val=c53b3389cc848967b085424010bfa1cc",
+      "title": "MDC Monnaies de Collection sarl - Auction 19, Lot 946 \u2014 EMPIRE ROMAIN - ROMAN\r\nProbus (276-282). Aureus ND (277), Siscia. NGC MS 5/5 3/5 brushed (8237524-003).\r\nAv. IMP C M AVR P - ROBVS AVG. Buste laur\u00e9, drap\u00e9 et cuirass\u00e9 \u00e0 droite. \r\nRv. SECVRI - TAS - SA",
+      "description": "EMPIRE ROMAIN - ROMAN\r\nProbus (276-282). Aureus ND (277), Siscia. NGC MS 5/5 3/5 brushed (8237524-003).\r\nAv. IMP C M AVR P - ROBVS AVG. Buste laur\u00e9, drap\u00e9 et cuirass\u00e9 \u00e0 droite. \r\nRv. SECVRI - TAS - SAECVLI / SIS. La S\u00e9curit\u00e9 assise \u00e0 gauche, tenant un sceptre.\r\nCalic\u00f3 4189 - RIC.594 ; Or - 6,69 g - 21,5 mm - 11 h\r\nProvient de la vente Gorny & Mosch 211 du 4 mars 2013, n\u00b0 663.\r\nNGC MS 5/5 3/5 brushed (8237524-003). \r\nDe poids tr\u00e8s lourd. Frappe vigoureuse et bien centr\u00e9e sur un flan tr\u00e8s large....",
+      "hammer_price_usd": 27000.0,
+      "currency_original": "EUR",
+      "price_original": 25000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-13",
+      "image_url": "https://media.coinarchives.com/5a6def9fe94bbd4f3bb01abbf5cfde4d/img/mdc/019/image00946.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "8237524-003",
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8237524003/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-98a7fa04c9fe",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2808858&AucID=7304&Lot=932&Val=e3155182592adfd1d5c97e87dcbdf975",
+      "title": "MDC Monnaies de Collection sarl - Auction 19, Lot 932 \u2014 EMPIRE ROMAIN - ROMAN\r\nMarc Aur\u00e8le (161-180). Aureus ND (152-153), Rome. NGC MS* 5/5 4/5 Fine style (4529299-001).\r\nAv. AVRELIVS CAE - SAR AVG P II FIL. Buste \u00e0 droite. \r\nRv. TR POT VII - COS II. Roma",
+      "description": "EMPIRE ROMAIN - ROMAN\r\nMarc Aur\u00e8le (161-180). Aureus ND (152-153), Rome. NGC MS* 5/5 4/5 Fine style (4529299-001).\r\nAv. AVRELIVS CAE - SAR AVG P II FIL. Buste \u00e0 droite. \r\nRv. TR POT VII - COS II. Roma debout \u00e0 gauche tenant le parazonium et une victoire.\r\nCalic\u00f3 1945 - RIC.457a (Antonin) ; Or - 7,46 g - 19 mm - 6 h\r\nProvient d'une vente Numismatica Ars Classica 92, part 1, 23 mai 2016, n\u00b0 589.\r\nNGC MS* 5/5 4/5 Fine style (4529299-001). \r\nDe beau style et dans son \u00e9tat de frappe, avec une tr\u00e8s ...",
+      "hammer_price_usd": 54000.0,
+      "currency_original": "EUR",
+      "price_original": 50000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-13",
+      "image_url": "https://media.coinarchives.com/44ad2a080dd2f6e1afdc2153ae005243/img/mdc/019/image00932.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "4529299-001",
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": "https://www.ngccoin.com/certlookup/4529299001/",
         "grading_service": "ngc"
       },
       "metadata": {
