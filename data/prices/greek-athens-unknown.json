@@ -20,12 +20,12 @@
   "last_sale_date": "2026-09-08",
   "grade_distribution": {
     "F": 2,
-    "MS": 2,
     "VF": 14,
+    "MS": 2,
     "XF": 6,
     "AU": 5
   },
-  "thumbnail_url": "https://media.coinarchives.com/06beac33bc1c0264156fc243bb8fd3ff/img/heritage/61649/image22028.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/bd5eb4dc32c8fb229704c8d555e41009/img/heritage/61649/image22011.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -69,39 +69,6 @@
       }
     },
     {
-      "id": "coinarchives-b264abc620e9",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801387&AucID=7288&Lot=22028&Val=71e28671d01685be15a038673849fabd",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61649, Lot 22028 \u2014 Ancients\nSICILY. Syracuse. Fifth Republic (214-212 BC). AR 12-litrai (26mm, 10.10 gm, 2h). NGC MS 5/5 - 4/5. Head of Athena left, hair flowing in waves, tied at back and upswept at temple, wearing pen",
-      "description": "Ancients\nSICILY. Syracuse. Fifth Republic (214-212 BC). AR 12-litrai (26mm, 10.10 gm, 2h). NGC MS 5/5 - 4/5. Head of Athena left, hair flowing in waves, tied at back and upswept at temple, wearing pendant earring, beaded necklace, and crested Corinthian helmet pushed back on head, bowl decorated with serpent / \u03a3\u03a5\u03a1\u0391\u039a\u039f\u03a3\u0399\u03a9\u039d, Artemis standing left, drawing bow, hound leaping left behind at feet; \u039eA before. McClean 2957. SNG ANS 1040. HGC 2, 1412.\n\nFrom the LII Collection of Historical Coins and Me...",
-      "hammer_price_usd": 5500.0,
-      "currency_original": "USD",
-      "price_original": 5500.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-09-08",
-      "image_url": "https://media.coinarchives.com/06beac33bc1c0264156fc243bb8fd3ff/img/heritage/61649/image22028.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-3eb918cfe83b",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -123,6 +90,39 @@
         "surface_score": 5,
         "details_grade": null,
         "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-b264abc620e9",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801387&AucID=7288&Lot=22028&Val=71e28671d01685be15a038673849fabd",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61649, Lot 22028 \u2014 Ancients\nSICILY. Syracuse. Fifth Republic (214-212 BC). AR 12-litrai (26mm, 10.10 gm, 2h). NGC MS 5/5 - 4/5. Head of Athena left, hair flowing in waves, tied at back and upswept at temple, wearing pen",
+      "description": "Ancients\nSICILY. Syracuse. Fifth Republic (214-212 BC). AR 12-litrai (26mm, 10.10 gm, 2h). NGC MS 5/5 - 4/5. Head of Athena left, hair flowing in waves, tied at back and upswept at temple, wearing pendant earring, beaded necklace, and crested Corinthian helmet pushed back on head, bowl decorated with serpent / \u03a3\u03a5\u03a1\u0391\u039a\u039f\u03a3\u0399\u03a9\u039d, Artemis standing left, drawing bow, hound leaping left behind at feet; \u039eA before. McClean 2957. SNG ANS 1040. HGC 2, 1412.\n\nFrom the LII Collection of Historical Coins and Me...",
+      "hammer_price_usd": 5500.0,
+      "currency_original": "USD",
+      "price_original": 5500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-08",
+      "image_url": "https://media.coinarchives.com/06beac33bc1c0264156fc243bb8fd3ff/img/heritage/61649/image22028.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
       },

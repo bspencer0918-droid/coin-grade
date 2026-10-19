@@ -19,13 +19,13 @@
   "median_price_usd": 113.0,
   "last_sale_date": "2026-09-20",
   "grade_distribution": {
-    "VF": 4,
     "AU": 25,
     "XF": 5,
+    "VF": 4,
     "MS": 88,
     "G": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/eed67a846c530d5acc87e1a63e816463/img/heritage/61638/image21202.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/3eaece52f938320ab2e988843da5b94b/img/heritage/61638/image21193.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 5,
@@ -35,39 +35,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "coinarchives-a487c9b82e4f",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2810117&AucID=7316&Lot=21202&Val=1fe65ccd9a9889c9bbea99ddd1b016d3",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61638, Lot 21202 \u2014 Ancients\nBARBAROUS ISSUE. Constantius II (AD 337-361). AE nummus (22mm, 6.04 gm, 7h). NGC Choice VF 4/5 - 4/5. Imitative issue of uncertain mint and date. DIN C [...] S P F AVG, pearl-diademed, draped",
-      "description": "Ancients\nBARBAROUS ISSUE. Constantius II (AD 337-361). AE nummus (22mm, 6.04 gm, 7h). NGC Choice VF 4/5 - 4/5. Imitative issue of uncertain mint and date. DIN C [...] S P F AVG, pearl-diademed, draped and cuirassed bust of Constantius II right / FE MP-REPA[...], emperor standing facing, head left, phoenix on globe in outstretched right hand, grounded standard in left hand, on galley with Victory sitting right at rudder. RIC-, cf. VIII pg. 364 for example prototypes.\n\nFrom the Dr. Charles Jay D...",
-      "hammer_price_usd": 90.0,
-      "currency_original": "USD",
-      "price_original": 90.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-09-20",
-      "image_url": "https://media.coinarchives.com/eed67a846c530d5acc87e1a63e816463/img/heritage/61638/image21202.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-27bfc62ee200",
       "source": "coinarchives",
@@ -253,6 +220,39 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-a487c9b82e4f",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2810117&AucID=7316&Lot=21202&Val=1fe65ccd9a9889c9bbea99ddd1b016d3",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61638, Lot 21202 \u2014 Ancients\nBARBAROUS ISSUE. Constantius II (AD 337-361). AE nummus (22mm, 6.04 gm, 7h). NGC Choice VF 4/5 - 4/5. Imitative issue of uncertain mint and date. DIN C [...] S P F AVG, pearl-diademed, draped",
+      "description": "Ancients\nBARBAROUS ISSUE. Constantius II (AD 337-361). AE nummus (22mm, 6.04 gm, 7h). NGC Choice VF 4/5 - 4/5. Imitative issue of uncertain mint and date. DIN C [...] S P F AVG, pearl-diademed, draped and cuirassed bust of Constantius II right / FE MP-REPA[...], emperor standing facing, head left, phoenix on globe in outstretched right hand, grounded standard in left hand, on galley with Victory sitting right at rudder. RIC-, cf. VIII pg. 364 for example prototypes.\n\nFrom the Dr. Charles Jay D...",
+      "hammer_price_usd": 90.0,
+      "currency_original": "USD",
+      "price_original": 90.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-20",
+      "image_url": "https://media.coinarchives.com/eed67a846c530d5acc87e1a63e816463/img/heritage/61638/image21202.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

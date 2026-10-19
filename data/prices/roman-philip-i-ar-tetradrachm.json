@@ -17,7 +17,7 @@
     "max": 8400.0
   },
   "median_price_usd": 169.0,
-  "last_sale_date": "2026-10-18",
+  "last_sale_date": "2026-10-19",
   "grade_distribution": {
     "VF": 51,
     "XF": 183,
@@ -28,7 +28,7 @@
     "VG": 1,
     "AG": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/566d321d5d5a4fe219dc05decc65def0/img/heritage/61659/image24008.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/5a7086d5970a0093189ea921a8f9bf19/img/heritage/61626/image23012.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 3,
@@ -49,7 +49,7 @@
       "currency_original": "USD",
       "price_original": 325.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-18",
+      "sale_date": "2026-10-19",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -600,39 +600,6 @@
       }
     },
     {
-      "id": "coinarchives-4af5176a276c",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2816488&AucID=7351&Lot=24008&Val=79f9bbafe8f121114691dd885bc88610",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61659, Lot 24008 \u2014 Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AR tetradrachm (25mm, 17.18 gm, 1h). NGC Choice XF 5/5 - 5/5. Early posthumous issue, 'Amphipolis', by Antipater, under Philip III Ar",
-      "description": "Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AR tetradrachm (25mm, 17.18 gm, 1h). NGC Choice XF 5/5 - 5/5. Early posthumous issue, 'Amphipolis', by Antipater, under Philip III Arrhidaeus, ca. 323-320 BC. Head of Heracles right, wearing lion skin headdress, paws tied before neck / A\u039bE\u039eAN\u0394POY-BA\u03a3I\u039bE\u03a9\u03a3, Zeus seated left on backless throne, left leg drawn back, feet on ground line, eagle in outstretched right hand, grounded scepter in left; Phrygian helmet right in left field...",
-      "hammer_price_usd": 1400.0,
-      "currency_original": "USD",
-      "price_original": 1400.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-10-11",
-      "image_url": "https://media.coinarchives.com/566d321d5d5a4fe219dc05decc65def0/img/heritage/61659/image24008.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-f189d9940639",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -852,6 +819,39 @@
         "surface_score": 3,
         "details_grade": null,
         "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-4af5176a276c",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2816488&AucID=7351&Lot=24008&Val=79f9bbafe8f121114691dd885bc88610",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61659, Lot 24008 \u2014 Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AR tetradrachm (25mm, 17.18 gm, 1h). NGC Choice XF 5/5 - 5/5. Early posthumous issue, 'Amphipolis', by Antipater, under Philip III Ar",
+      "description": "Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AR tetradrachm (25mm, 17.18 gm, 1h). NGC Choice XF 5/5 - 5/5. Early posthumous issue, 'Amphipolis', by Antipater, under Philip III Arrhidaeus, ca. 323-320 BC. Head of Heracles right, wearing lion skin headdress, paws tied before neck / A\u039bE\u039eAN\u0394POY-BA\u03a3I\u039bE\u03a9\u03a3, Zeus seated left on backless throne, left leg drawn back, feet on ground line, eagle in outstretched right hand, grounded scepter in left; Phrygian helmet right in left field...",
+      "hammer_price_usd": 1400.0,
+      "currency_original": "USD",
+      "price_original": 1400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-11",
+      "image_url": "https://media.coinarchives.com/566d321d5d5a4fe219dc05decc65def0/img/heritage/61659/image24008.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
       },

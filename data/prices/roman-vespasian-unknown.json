@@ -24,49 +24,16 @@
     "F": 14,
     "AU": 4
   },
-  "thumbnail_url": "https://media.coinarchives.com/0c2bf90a16b8ebcea005422a8f439eb9/img/heritage/61659/image24037.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/31d65900f25fa6c73bc81a2e9101ce9c/img/heritage/61636/image21175.jpg",
   "median_weight_g": null,
-  "top_strike_score": 5,
+  "top_strike_score": 4,
   "top_surface_score": 3,
-  "top_grade_numeric": 5,
+  "top_grade_numeric": 4,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "coinarchives-e9ab5e1599db",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2816517&AucID=7351&Lot=24037&Val=5837b3bd6a3066a1801a00f9596e91c0",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61659, Lot 24037 \u2014 Ancients\nVespasian (AD 69-79). AE as (25mm, 9.69 gm, 7h). NGC Choice XF 5/5 - 3/5, Fine Style, light smoothing.  Rome, AD 71. IMP CAES VESPASIAN AVG COS III, laureate head of Vespasian right / FIDES-P",
-      "description": "Ancients\nVespasian (AD 69-79). AE as (25mm, 9.69 gm, 7h). NGC Choice XF 5/5 - 3/5, Fine Style, light smoothing.  Rome, AD 71. IMP CAES VESPASIAN AVG COS III, laureate head of Vespasian right / FIDES-PVPLICA, clasped hands over winged caduceus and grain ears; S-C across lower fields. RIC II.1, 300. A lifelike portrait on a sage flan. \n\nEx Heritage Auctions, Auction 3057 (11 September 2017), lot 32213.\n\nDescended from a family of small-time entrepreneurs and tax farmers in the Sabine hill countr...",
-      "hammer_price_usd": 825.0,
-      "currency_original": "USD",
-      "price_original": 825.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-10-11",
-      "image_url": "https://media.coinarchives.com/0c2bf90a16b8ebcea005422a8f439eb9/img/heritage/61659/image24037.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": true,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-246e572b3a29",
       "source": "coinarchives",
@@ -287,6 +254,39 @@
         "surface_score": 3,
         "details_grade": null,
         "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-e9ab5e1599db",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2816517&AucID=7351&Lot=24037&Val=5837b3bd6a3066a1801a00f9596e91c0",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61659, Lot 24037 \u2014 Ancients\nVespasian (AD 69-79). AE as (25mm, 9.69 gm, 7h). NGC Choice XF 5/5 - 3/5, Fine Style, light smoothing.  Rome, AD 71. IMP CAES VESPASIAN AVG COS III, laureate head of Vespasian right / FIDES-P",
+      "description": "Ancients\nVespasian (AD 69-79). AE as (25mm, 9.69 gm, 7h). NGC Choice XF 5/5 - 3/5, Fine Style, light smoothing.  Rome, AD 71. IMP CAES VESPASIAN AVG COS III, laureate head of Vespasian right / FIDES-PVPLICA, clasped hands over winged caduceus and grain ears; S-C across lower fields. RIC II.1, 300. A lifelike portrait on a sage flan. \n\nEx Heritage Auctions, Auction 3057 (11 September 2017), lot 32213.\n\nDescended from a family of small-time entrepreneurs and tax farmers in the Sabine hill countr...",
+      "hammer_price_usd": 825.0,
+      "currency_original": "USD",
+      "price_original": 825.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-11",
+      "image_url": "https://media.coinarchives.com/0c2bf90a16b8ebcea005422a8f439eb9/img/heritage/61659/image24037.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": true,
         "certification_url": null,
         "grading_service": "ngc"
       },

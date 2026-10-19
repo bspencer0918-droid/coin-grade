@@ -21,8 +21,8 @@
   "grade_distribution": {
     "G": 3,
     "MS": 95,
-    "VF": 7,
     "AU": 65,
+    "VF": 7,
     "XF": 22,
     "F": 1
   },
@@ -268,39 +268,6 @@
       }
     },
     {
-      "id": "coinarchives-ec7515422ca5",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2810000&AucID=7316&Lot=21085&Val=6a736e2ae5d8d22fb5be4d695afe670a",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61638, Lot 21085 \u2014 Ancients\nAurelian (AD 270-275). BI antoninianus (20mm, 3.36 gm, 11h). NGC VF 4/5 - 2/5. Cyzicus. IMP AVRELIANVS AVG, radiate, draped bust of Aurelian left / IOVI S-TATORI, Jupiter standing facing, hea",
-      "description": "Ancients\nAurelian (AD 270-275). BI antoninianus (20mm, 3.36 gm, 11h). NGC VF 4/5 - 2/5. Cyzicus. IMP AVRELIANVS AVG, radiate, draped bust of Aurelian left / IOVI S-TATORI, Jupiter standing facing, head left, nude save for chlamys over left shoulder, thunderbolt cradled in left arm, grounded scepter in right hand. RIC V.I 333.\n\nFrom the Dr. Charles Jay Deur Collection, for the charitable benefit of Calvin University and Peace Lutheran Church of Hurst. Ex Harlan J. Berk, private sale with dealer...",
-      "hammer_price_usd": 35.0,
-      "currency_original": "USD",
-      "price_original": 35.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-09-20",
-      "image_url": "https://media.coinarchives.com/6a9c5918d25efa3355b2425f5dfec329/img/heritage/61638/image21085.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 2,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-005e412ce25b",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -320,6 +287,39 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-ec7515422ca5",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2810000&AucID=7316&Lot=21085&Val=6a736e2ae5d8d22fb5be4d695afe670a",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61638, Lot 21085 \u2014 Ancients\nAurelian (AD 270-275). BI antoninianus (20mm, 3.36 gm, 11h). NGC VF 4/5 - 2/5. Cyzicus. IMP AVRELIANVS AVG, radiate, draped bust of Aurelian left / IOVI S-TATORI, Jupiter standing facing, hea",
+      "description": "Ancients\nAurelian (AD 270-275). BI antoninianus (20mm, 3.36 gm, 11h). NGC VF 4/5 - 2/5. Cyzicus. IMP AVRELIANVS AVG, radiate, draped bust of Aurelian left / IOVI S-TATORI, Jupiter standing facing, head left, nude save for chlamys over left shoulder, thunderbolt cradled in left arm, grounded scepter in right hand. RIC V.I 333.\n\nFrom the Dr. Charles Jay Deur Collection, for the charitable benefit of Calvin University and Peace Lutheran Church of Hurst. Ex Harlan J. Berk, private sale with dealer...",
+      "hammer_price_usd": 35.0,
+      "currency_original": "USD",
+      "price_original": 35.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-20",
+      "image_url": "https://media.coinarchives.com/6a9c5918d25efa3355b2425f5dfec329/img/heritage/61638/image21085.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 2,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
