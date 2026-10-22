@@ -8,21 +8,21 @@
   "ruler_rarity": null,
   "denomination": "AR Nomos",
   "metal": "silver",
-  "sale_count": 133,
-  "realized_count": 130,
+  "sale_count": 139,
+  "realized_count": 136,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 5.0,
     "max": 195000.0
   },
-  "median_price_usd": 550.0,
-  "last_sale_date": "2026-10-21",
+  "median_price_usd": 525.0,
+  "last_sale_date": "2026-10-22",
   "grade_distribution": {
-    "XF": 40,
-    "VF": 48,
-    "F": 11,
-    "AU": 25,
+    "F": 12,
+    "AU": 26,
+    "XF": 41,
+    "VF": 51,
     "VG": 1,
     "MS": 7,
     "G": 1
@@ -30,13 +30,211 @@
   "thumbnail_url": "https://media.coinarchives.com/646473ed1c8aeb7a0fe2f3927fa89c97/img/ponterio/238online/image44018.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
-  "top_surface_score": 5,
+  "top_surface_score": 4,
   "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "cng-3338c77aa080",
+      "source": "cng",
+      "listing_type": "auction_realized",
+      "lot_url": "https://auctions.cngcoins.com/lots/view/4-N73NKI",
+      "title": "Electronic Auction 619 Lot: 14. CALABRIA, Tarentum. Circa 480-470 BC. AR Nomos (17mm, 7.72 g). NGC Ch F, 5/5, 3/5.",
+      "description": "Greek, Silver Estimated:\u00a0$   300 Sold\u00a0Price:\u00a0$ :  550",
+      "hammer_price_usd": 550.0,
+      "currency_original": "USD",
+      "price_original": 550.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-22",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "cng-17f1daa4feea",
+      "source": "cng",
+      "listing_type": "auction_realized",
+      "lot_url": "https://auctions.cngcoins.com/lots/view/4-N73NKM",
+      "title": "Electronic Auction 619 Lot: 16. CALABRIA, Tarentum. Circa 330-325 BC. AR Nomos (20mm, 7.82 g, 11h). NGC AU, 4/5, 4/5.",
+      "description": "Greek, Silver Estimated:\u00a0$   200 Sold\u00a0Price:\u00a0$ :  500",
+      "hammer_price_usd": 500.0,
+      "currency_original": "USD",
+      "price_original": 500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-22",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "cng-b7f459bdbf76",
+      "source": "cng",
+      "listing_type": "auction_realized",
+      "lot_url": "https://auctions.cngcoins.com/lots/view/4-N73NKO",
+      "title": "Electronic Auction 619 Lot: 17. CALABRIA, Tarentum. Circa 315-302 BC. AR Nomos (19mm, 8h). NGC XF.",
+      "description": "Greek, Silver Estimated:\u00a0$   200 Sold\u00a0Price:\u00a0$   600",
+      "hammer_price_usd": 600.0,
+      "currency_original": "USD",
+      "price_original": 600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-22",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "cng-f9793d850a8e",
+      "source": "cng",
+      "listing_type": "auction_realized",
+      "lot_url": "https://auctions.cngcoins.com/lots/view/4-N73NKQ",
+      "title": "Electronic Auction 619 Lot: 18. CALABRIA, Tarentum. Circa 280 BC. AR Nomos (19mm, 10h). NGC Ch VF.",
+      "description": "Greek, Silver Estimated:\u00a0$   200 Sold\u00a0Price:\u00a0$ :  375",
+      "hammer_price_usd": 375.0,
+      "currency_original": "USD",
+      "price_original": 375.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-22",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "cng-88577d0fda3b",
+      "source": "cng",
+      "listing_type": "auction_realized",
+      "lot_url": "https://auctions.cngcoins.com/lots/view/4-N73NKS",
+      "title": "Electronic Auction 619 Lot: 19. CALABRIA, Tarentum. Circa 280 BC. AR Nomos (23mm, 4h). NGC Ch VF.",
+      "description": "Greek, Silver Estimated:\u00a0$   200 Sold\u00a0Price:\u00a0$   375",
+      "hammer_price_usd": 375.0,
+      "currency_original": "USD",
+      "price_original": 375.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-22",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "cng-caff47ebe4fd",
+      "source": "cng",
+      "listing_type": "auction_realized",
+      "lot_url": "https://auctions.cngcoins.com/lots/view/4-N73NKU",
+      "title": "Electronic Auction 619 Lot: 20. CALABRIA, Tarentum. Circa 280 BC. AR Nomos (20mm, 2h). NGC Ch VF.",
+      "description": "Greek, Silver Estimated:\u00a0$   200 Sold\u00a0Price:\u00a0$ :  350",
+      "hammer_price_usd": 350.0,
+      "currency_original": "USD",
+      "price_original": 350.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-22",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "cng-af557e9f53ed",
       "source": "cng",
@@ -48,7 +246,7 @@
       "currency_original": "USD",
       "price_original": 650.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -81,7 +279,7 @@
       "currency_original": "USD",
       "price_original": 550.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -114,7 +312,7 @@
       "currency_original": "USD",
       "price_original": 375.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -147,7 +345,7 @@
       "currency_original": "USD",
       "price_original": 450.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -180,7 +378,7 @@
       "currency_original": "USD",
       "price_original": 375.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -213,7 +411,7 @@
       "currency_original": "USD",
       "price_original": 650.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -246,7 +444,7 @@
       "currency_original": "USD",
       "price_original": 350.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -279,7 +477,7 @@
       "currency_original": "USD",
       "price_original": 450.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -312,7 +510,7 @@
       "currency_original": "USD",
       "price_original": 425.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -345,7 +543,7 @@
       "currency_original": "USD",
       "price_original": 375.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -378,7 +576,7 @@
       "currency_original": "USD",
       "price_original": 425.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -411,7 +609,7 @@
       "currency_original": "USD",
       "price_original": 325.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -444,7 +642,7 @@
       "currency_original": "USD",
       "price_original": 450.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -477,7 +675,7 @@
       "currency_original": "USD",
       "price_original": 275.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -510,7 +708,7 @@
       "currency_original": "USD",
       "price_original": 550.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -543,7 +741,7 @@
       "currency_original": "USD",
       "price_original": 900.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -576,7 +774,7 @@
       "currency_original": "USD",
       "price_original": 475.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -609,7 +807,7 @@
       "currency_original": "USD",
       "price_original": 350.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -642,7 +840,7 @@
       "currency_original": "USD",
       "price_original": 500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -675,7 +873,7 @@
       "currency_original": "USD",
       "price_original": 575.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -708,7 +906,7 @@
       "currency_original": "USD",
       "price_original": 450.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -741,7 +939,7 @@
       "currency_original": "USD",
       "price_original": 600.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -774,7 +972,7 @@
       "currency_original": "USD",
       "price_original": 650.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -807,7 +1005,7 @@
       "currency_original": "USD",
       "price_original": 350.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -840,7 +1038,7 @@
       "currency_original": "USD",
       "price_original": 550.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -873,7 +1071,7 @@
       "currency_original": "USD",
       "price_original": 250.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -906,7 +1104,7 @@
       "currency_original": "USD",
       "price_original": 550.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -939,7 +1137,7 @@
       "currency_original": "USD",
       "price_original": 425.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -972,7 +1170,7 @@
       "currency_original": "USD",
       "price_original": 450.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1005,7 +1203,7 @@
       "currency_original": "USD",
       "price_original": 400.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1038,7 +1236,7 @@
       "currency_original": "USD",
       "price_original": 375.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1071,7 +1269,7 @@
       "currency_original": "USD",
       "price_original": 325.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1104,7 +1302,7 @@
       "currency_original": "USD",
       "price_original": 300.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1137,7 +1335,7 @@
       "currency_original": "USD",
       "price_original": 350.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1170,7 +1368,7 @@
       "currency_original": "USD",
       "price_original": 425.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1203,7 +1401,7 @@
       "currency_original": "USD",
       "price_original": 325.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1236,7 +1434,7 @@
       "currency_original": "USD",
       "price_original": 300.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1269,7 +1467,7 @@
       "currency_original": "USD",
       "price_original": 400.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1302,7 +1500,7 @@
       "currency_original": "USD",
       "price_original": 325.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1335,7 +1533,7 @@
       "currency_original": "USD",
       "price_original": 425.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1368,7 +1566,7 @@
       "currency_original": "USD",
       "price_original": 500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1401,7 +1599,7 @@
       "currency_original": "USD",
       "price_original": 500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1434,7 +1632,7 @@
       "currency_original": "USD",
       "price_original": 450.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1467,7 +1665,7 @@
       "currency_original": "USD",
       "price_original": 1100.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1500,7 +1698,7 @@
       "currency_original": "USD",
       "price_original": 475.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1533,7 +1731,7 @@
       "currency_original": "USD",
       "price_original": 650.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1566,7 +1764,7 @@
       "currency_original": "USD",
       "price_original": 450.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1599,7 +1797,7 @@
       "currency_original": "USD",
       "price_original": 450.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1632,7 +1830,7 @@
       "currency_original": "USD",
       "price_original": 425.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1665,7 +1863,7 @@
       "currency_original": "USD",
       "price_original": 450.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1698,7 +1896,7 @@
       "currency_original": "USD",
       "price_original": 450.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1731,7 +1929,7 @@
       "currency_original": "USD",
       "price_original": 325.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1764,7 +1962,7 @@
       "currency_original": "USD",
       "price_original": 375.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1797,7 +1995,7 @@
       "currency_original": "USD",
       "price_original": 180.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1830,7 +2028,7 @@
       "currency_original": "USD",
       "price_original": 400.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1863,7 +2061,7 @@
       "currency_original": "USD",
       "price_original": 375.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1896,7 +2094,7 @@
       "currency_original": "USD",
       "price_original": 450.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1929,7 +2127,7 @@
       "currency_original": "USD",
       "price_original": 200.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1962,7 +2160,7 @@
       "currency_original": "USD",
       "price_original": 180.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1995,7 +2193,7 @@
       "currency_original": "USD",
       "price_original": 170.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2028,7 +2226,7 @@
       "currency_original": "USD",
       "price_original": 170.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2061,7 +2259,7 @@
       "currency_original": "USD",
       "price_original": 170.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2094,7 +2292,7 @@
       "currency_original": "USD",
       "price_original": 375.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2127,7 +2325,7 @@
       "currency_original": "USD",
       "price_original": 200.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2160,7 +2358,7 @@
       "currency_original": "USD",
       "price_original": 180.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2193,7 +2391,7 @@
       "currency_original": "USD",
       "price_original": 300.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2226,7 +2424,7 @@
       "currency_original": "USD",
       "price_original": 550.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2259,7 +2457,7 @@
       "currency_original": "USD",
       "price_original": 400.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2292,7 +2490,7 @@
       "currency_original": "USD",
       "price_original": 375.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2325,7 +2523,7 @@
       "currency_original": "USD",
       "price_original": 225.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2358,7 +2556,7 @@
       "currency_original": "USD",
       "price_original": 1900.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2391,7 +2589,7 @@
       "currency_original": "USD",
       "price_original": 130.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2424,7 +2622,7 @@
       "currency_original": "USD",
       "price_original": 650.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2457,7 +2655,7 @@
       "currency_original": "USD",
       "price_original": 1800.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2490,7 +2688,7 @@
       "currency_original": "USD",
       "price_original": 700.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2523,7 +2721,7 @@
       "currency_original": "USD",
       "price_original": 225.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2556,7 +2754,7 @@
       "currency_original": "USD",
       "price_original": 3750.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2589,7 +2787,7 @@
       "currency_original": "USD",
       "price_original": 375.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2622,7 +2820,7 @@
       "currency_original": "USD",
       "price_original": 550.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2655,7 +2853,7 @@
       "currency_original": "USD",
       "price_original": 275.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2688,7 +2886,7 @@
       "currency_original": "USD",
       "price_original": 625.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2721,7 +2919,7 @@
       "currency_original": "USD",
       "price_original": 750.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-21",
+      "sale_date": "2026-10-22",
       "image_url": null,
       "ngc": {
         "verified": false,
