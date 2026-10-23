@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 281,
-  "realized_count": 280,
+  "sale_count": 282,
+  "realized_count": 281,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,10 +17,10 @@
     "max": 5000.0
   },
   "median_price_usd": 154.0,
-  "last_sale_date": "2026-07-28",
+  "last_sale_date": "2026-10-22",
   "grade_distribution": {
+    "AU": 113,
     "MS": 142,
-    "AU": 112,
     "XF": 23,
     "VF": 4
   },
@@ -34,6 +34,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-faef01a6a768",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/feldman/14126/roman-empire/12537123/roman-empire-gordian-iii-238-244",
+      "title": "Roman Empire, Gordian III, 238-244, AR denarius. <br> Roman Empire, Gordian III, 238-244, AR denarius (21 mm). Obverse: IMP GORDIANVS PIVS FEL AVG, laureate, draped, and cuirassed bust. Reverse: P M TR P III COS P P, emperor on horseback l. raising right hand and holding spear in left. <br><br><br><br><br>NGC Ch AU<br><br>https://www.ngccoin.com/certlookup/6692645-006/NGCAncients/",
+      "description": "Feldman International Auctions | ['General Coins and Banknotes']",
+      "hammer_price_usd": 120.02,
+      "currency_original": "USD",
+      "price_original": 120.01903,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-22",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "6692645-006",
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/6692645006/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-97f9c93471ee",
       "source": "sixbid",

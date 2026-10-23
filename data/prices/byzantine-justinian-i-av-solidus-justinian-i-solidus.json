@@ -8,8 +8,8 @@
   "ruler_rarity": "common",
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 701,
-  "realized_count": 701,
+  "sale_count": 702,
+  "realized_count": 702,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,9 +17,9 @@
     "max": 28200.0
   },
   "median_price_usd": 780.0,
-  "last_sale_date": "2026-10-12",
+  "last_sale_date": "2026-10-22",
   "grade_distribution": {
-    "AU": 240,
+    "AU": 241,
     "MS": 419,
     "XF": 30,
     "VF": 9,
@@ -35,6 +35,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-a6c88de85faa",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/feldman/14125/byzantium/12538718/byzantine-empire-justinian-ii-685-695",
+      "title": "Byzantine Empire, Justinian II, 685-695, Christ, solidus, 4.40 g. <br> Byzantine Empire, Justinian II, 685-695, solidus, 4.40 g. (20mm), Constantinople mint, struck 692-695. Obverse: facing bust of Christ Pantokrator. Reverse: Justinian standing facing holding cross set on globus:<br>NGC Ch AU 4/5 - 4/5, \"Clipped\".<br>https://www.ngccoin.com/certlookup/6692627-004/NGCAncients/<br>superb strike from wonderfully detailed dies.<br>A very important example, featuring the first known depiction of Christ on a coin, shown as the Christ Pantokrator, Ruler of All.<br>Ex Sincona AG auction 3, 2011, lot 3371 (hammer 5500 CHF)<br>Numismatica Ars Classica auction 33, 2006, lot 656<br>Bank Leu auction 36, 1985, lot 386<br>Ex Chand Collection, British Museum",
+      "description": "Feldman International Auctions | ['The Silk Road Collection Part IV']",
+      "hammer_price_usd": 4800.76,
+      "currency_original": "USD",
+      "price_original": 4800.761,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-22",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "6692627-004",
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/6692627004/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-b24316f80857",
       "source": "sixbid",

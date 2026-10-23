@@ -8,21 +8,21 @@
   "ruler_rarity": "scarce",
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 247,
-  "realized_count": 247,
+  "sale_count": 249,
+  "realized_count": 249,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 67.0,
+    "min": 60.01,
     "max": 5520.0
   },
   "median_price_usd": 192.0,
-  "last_sale_date": "2026-08-31",
+  "last_sale_date": "2026-10-22",
   "grade_distribution": {
+    "AU": 111,
+    "XF": 95,
     "G": 1,
-    "AU": 110,
     "VF": 31,
-    "XF": 94,
     "MS": 10,
     "F": 1
   },
@@ -36,6 +36,72 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-dbd984621945",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/feldman/14126/roman-empire/12537121/roman-empire-geta-209-211",
+      "title": "Roman Empire,  Geta, 209-211, Denarius (20 mm).NGC <br> Roman Empire,  Geta as Caesar, 209-211, Denarius (20 mm). Obverse:  P SEPT GETA - CAES PONT Bare-headed, draped bust. Reverse: FELICITAS - PVBLICA, Felicitas standing left, holding caduceus and cornucopia.<br><br><br><br><br><br>NGC AU<br><br><br><br><br>https://www.ngccoin.com/certlookup/6692645-004/NGCAncients/",
+      "description": "Feldman International Auctions | ['General Coins and Banknotes']",
+      "hammer_price_usd": 60.01,
+      "currency_original": "USD",
+      "price_original": 60.009514,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-22",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "6692645-004",
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/6692645004/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-5daf833d2fec",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/feldman/14126/roman-empire/12537120/roman-empire-geta-209-211",
+      "title": "Roman Empire,  Geta, 209-211, Denarius (20 mm).NGC XF <br> Roman Empire,  Geta, 209-211, AR Denarius (20 mm), Laodicea ad Mare. Obverse: L SEPTIMIVS GETA CAES, bareheaded and draped bust right. Reverse: FELICITAS TEMPOR, Felicitas standing right, holding caduceus and clasping hands with Geta standing left, holding cornucopia.<br><br><br><br><br>NGC XF<br><br><br><br><br>https://www.ngccoin.com/certlookup/6692645-005/NGCAncients/",
+      "description": "Feldman International Auctions | ['General Coins and Banknotes']",
+      "hammer_price_usd": 60.01,
+      "currency_original": "USD",
+      "price_original": 60.009514,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-22",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "6692645-005",
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/6692645005/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-7d2009250b04",
       "source": "sixbid",
