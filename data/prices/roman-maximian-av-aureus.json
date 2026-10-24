@@ -24,7 +24,7 @@
     "XF": 1,
     "VF": 2
   },
-  "thumbnail_url": "https://media.coinarchives.com/2482a8f8095af41bcd698a5bbc02a311/img/gadoury/2026/image00679.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/2e939a9bf3062cc41ed2d1fe4fb340df/img/mdc/019/image00950.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -134,39 +134,6 @@
       }
     },
     {
-      "id": "coinarchives-6c86a5e6084a",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2814109&AucID=7336&Lot=679&Val=3875095d6955fc2135ebca2c346eff83",
-      "title": "Gadoury - Auction XXI, Lot 679 \u2014 Roman Coins\nMaximian Hercule 286-310 Aureus, Rome, AU 5.30 g. Avers MAXIMIANVS AVGVSTVS, buste laur\u00e9, drap\u00e9 et cuirass\u00e9 \u00e0 droite Revers : HERCVLI VICTORI, Hercule assis de face \u00e0 lui, t\u00eate \u00e0 droite, e",
-      "description": "Roman Coins\nMaximian Hercule 286-310 Aureus, Rome, AU 5.30 g. Avers MAXIMIANVS AVGVSTVS, buste laur\u00e9, drap\u00e9 et cuirass\u00e9 \u00e0 droite Revers : HERCVLI VICTORI, Hercule assis de face \u00e0 lui, t\u00eate \u00e0 droite, entre une massue \u00e0 gauche et un carquois avec trois fl\u00e8ches et un arc \u00e0 droite; peau de lion sur ses genoux ; PR. RIC V \u2013 Ref : Cal 4682, RIC -, Cohen -, Sear 13033, Depeyrot 5B/5 Ex Hess Leu 41, 1969, lot 540 Grading : NGC Choice MS 5/5, 4/5 Conservation :  Superbe exemplaire. Tr\u00e8s rare, et partic...",
-      "hammer_price_usd": 32400.0,
-      "currency_original": "EUR",
-      "price_original": 30000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-10-17",
-      "image_url": "https://media.coinarchives.com/2482a8f8095af41bcd698a5bbc02a311/img/gadoury/2026/image00679.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-ad3b1cbe7963",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -189,6 +156,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/2130990004/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-6c86a5e6084a",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2814109&AucID=7336&Lot=679&Val=3875095d6955fc2135ebca2c346eff83",
+      "title": "Gadoury - Auction XXI, Lot 679 \u2014 Roman Coins\nMaximian Hercule 286-310 Aureus, Rome, AU 5.30 g. Avers MAXIMIANVS AVGVSTVS, buste laur\u00e9, drap\u00e9 et cuirass\u00e9 \u00e0 droite Revers : HERCVLI VICTORI, Hercule assis de face \u00e0 lui, t\u00eate \u00e0 droite, e",
+      "description": "Roman Coins\nMaximian Hercule 286-310 Aureus, Rome, AU 5.30 g. Avers MAXIMIANVS AVGVSTVS, buste laur\u00e9, drap\u00e9 et cuirass\u00e9 \u00e0 droite Revers : HERCVLI VICTORI, Hercule assis de face \u00e0 lui, t\u00eate \u00e0 droite, entre une massue \u00e0 gauche et un carquois avec trois fl\u00e8ches et un arc \u00e0 droite; peau de lion sur ses genoux ; PR. RIC V \u2013 Ref : Cal 4682, RIC -, Cohen -, Sear 13033, Depeyrot 5B/5 Ex Hess Leu 41, 1969, lot 540 Grading : NGC Choice MS 5/5, 4/5 Conservation :  Superbe exemplaire. Tr\u00e8s rare, et partic...",
+      "hammer_price_usd": 32400.0,
+      "currency_original": "EUR",
+      "price_original": 30000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-17",
+      "image_url": "https://media.coinarchives.com/2482a8f8095af41bcd698a5bbc02a311/img/gadoury/2026/image00679.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
         "grading_service": "ngc"
       },
       "metadata": {

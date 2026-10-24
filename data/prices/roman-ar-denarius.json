@@ -17,7 +17,7 @@
     "max": 720000.0
   },
   "median_price_usd": 264.0,
-  "last_sale_date": "2026-10-23",
+  "last_sale_date": "2026-10-24",
   "grade_distribution": {
     "XF": 1772,
     "MS": 362,
@@ -50,7 +50,7 @@
       "currency_original": "USD",
       "price_original": 950.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-23",
+      "sale_date": "2026-10-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -83,7 +83,7 @@
       "currency_original": "USD",
       "price_original": 1800.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-23",
+      "sale_date": "2026-10-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -116,7 +116,7 @@
       "currency_original": "USD",
       "price_original": 325.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-23",
+      "sale_date": "2026-10-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -149,7 +149,7 @@
       "currency_original": "USD",
       "price_original": 9500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-23",
+      "sale_date": "2026-10-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -182,7 +182,7 @@
       "currency_original": "USD",
       "price_original": 3500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-23",
+      "sale_date": "2026-10-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -215,7 +215,7 @@
       "currency_original": "USD",
       "price_original": 1100.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-23",
+      "sale_date": "2026-10-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -248,7 +248,7 @@
       "currency_original": "USD",
       "price_original": 950.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-23",
+      "sale_date": "2026-10-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -281,7 +281,7 @@
       "currency_original": "USD",
       "price_original": 650.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-23",
+      "sale_date": "2026-10-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2756,7 +2756,7 @@
       "currency_original": "USD",
       "price_original": 2250.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-23",
+      "sale_date": "2026-10-24",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc108783a.jpg",
       "ngc": {
         "verified": false,
@@ -2789,7 +2789,7 @@
       "currency_original": "USD",
       "price_original": 1800.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-23",
+      "sale_date": "2026-10-24",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc107402a.jpg",
       "ngc": {
         "verified": false,
@@ -3260,6 +3260,39 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-792dacd65fd1",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803665&AucID=7298&Lot=44225&Val=a04ece4820deff996a67ca615abf6661",
+      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 44225 \u2014 ROMAN REPUBLIC. Q. Sicinius and C. Coponius. AR Denarius (3.90 gms), Military mint in the East under Pompey, ca. 49 B.C. NGC Ch EF, Strike: 4/5 Surface: 3/5. Light Marks.\nCr-444/1a; CRI-3; Syd-939.\n\nE",
+      "description": "ROMAN REPUBLIC. Q. Sicinius and C. Coponius. AR Denarius (3.90 gms), Military mint in the East under Pompey, ca. 49 B.C. NGC Ch EF, Strike: 4/5 Surface: 3/5. Light Marks.\nCr-444/1a; CRI-3; Syd-939.\n\nEx: Spink 14005 (6/2014), Lot # 127.\n\nEstimate: 300 - 500...",
+      "hammer_price_usd": 380.0,
+      "currency_original": "USD",
+      "price_original": 380.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-08",
+      "image_url": "https://media.coinarchives.com/dd2dbde79cafbf5471d81ae1e130e979/img/ponterio/238online/image44225.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
@@ -4349,39 +4382,6 @@
         "grade_numeric": null,
         "strike_score": 5,
         "surface_score": 5,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-792dacd65fd1",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803665&AucID=7298&Lot=44225&Val=a04ece4820deff996a67ca615abf6661",
-      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 44225 \u2014 ROMAN REPUBLIC. Q. Sicinius and C. Coponius. AR Denarius (3.90 gms), Military mint in the East under Pompey, ca. 49 B.C. NGC Ch EF, Strike: 4/5 Surface: 3/5. Light Marks.\nCr-444/1a; CRI-3; Syd-939.\n\nE",
-      "description": "ROMAN REPUBLIC. Q. Sicinius and C. Coponius. AR Denarius (3.90 gms), Military mint in the East under Pompey, ca. 49 B.C. NGC Ch EF, Strike: 4/5 Surface: 3/5. Light Marks.\nCr-444/1a; CRI-3; Syd-939.\n\nEx: Spink 14005 (6/2014), Lot # 127.\n\nEstimate: 300 - 500...",
-      "hammer_price_usd": 380.0,
-      "currency_original": "USD",
-      "price_original": 380.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-09-08",
-      "image_url": "https://media.coinarchives.com/dd2dbde79cafbf5471d81ae1e130e979/img/ponterio/238online/image44225.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 3,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
