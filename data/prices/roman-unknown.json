@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 3505,
-  "realized_count": 3505,
+  "sale_count": 3506,
+  "realized_count": 3506,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,7 +17,7 @@
     "max": 312000.0
   },
   "median_price_usd": 192.0,
-  "last_sale_date": "2026-10-17",
+  "last_sale_date": "2026-10-19",
   "grade_distribution": {
     "F": 418,
     "XF": 664,
@@ -25,7 +25,7 @@
     "G": 21,
     "AU": 915,
     "VF": 665,
-    "P": 11,
+    "P": 12,
     "VG": 34
   },
   "thumbnail_url": "https://media.coinarchives.com/fc679643524f48a04963afb996aca78c/img/heritage/61626/image23031.jpg",
@@ -8157,6 +8157,39 @@
       }
     },
     {
+      "id": "sixbid-d82f0eb11a63",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/14105/medals/12521692/philippines-reynaldo-b-de-jesus",
+      "title": "PHILIPPINES. Reynaldo B. De Jesus Advertising White Metal Token, 2011. NGC PROOF-68 Ultra Cameo. <br> Honeycutt-878. Diameter: 37.5 mm. Obverse: Stylized renditions of Philippine banknote, coin, stamp and medal with date in roman numerals in center \"MMXI\", legend around \"\u25c6BUY.SELL.EXCHANGE\u25c6STAMPS.COINS.PAPERMONEY.MEDALS\"; Reverse: Six-line inscription \"REYNALDO/ B. DE JESUS/ THE VARIETY STORE/ 632-735-5034/ WWW.DVARIETYSTORE.COM/ 2011\", legend around \"2107 CLARO M. RECTO AVENUE. P.O. BOX 103, MANILA 1000, PHILIPPINES.\". <br> From the Dr. Earl Honeycutt Collection. <br> <strong>To view all items from the Dr. Earl Honeycutt Collection, click <a href=\"https://auctions.stacksbowers.com/lots?sort=auction_date_lot_number_asc&search=From+the+Dr.+Earl+Honeycutt+Collection.&limit=96&lots_range=upcoming&quot;\" rel=\"noopener noreferrer nofollow\"> here.</a></strong>",
+      "description": "Stack\u2019s Bowers and Ponterio | ['The October 2026 Hong Kong (SAR) Auction']",
+      "hammer_price_usd": 50.0,
+      "currency_original": "USD",
+      "price_original": 50.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-19",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "P",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "sixbid-2313ebf3765a",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -8509,39 +8542,6 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/8769658025/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-035dd11fa7cf",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/coinsnb/14100/europa-coins/12509699/romania-socialist-republic-1982-fm",
-      "title": "Romania Socialist Republic 1982 FM 100 Lei (First Independent State) Rare Silver (.925) The Franklin Mint 30g NGC PF 68  KM 98",
-      "description": "Coins Numismatic Barcelona | ['E-Auction 65']",
-      "hammer_price_usd": 808.2,
-      "currency_original": "USD",
-      "price_original": 808.2,
-      "buyers_premium_included": false,
-      "sale_date": "2026-10-01",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "P",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
         "grading_service": "ngc"
       },
       "metadata": {
@@ -8909,6 +8909,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-035dd11fa7cf",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/coinsnb/14100/europa-coins/12509699/romania-socialist-republic-1982-fm",
+      "title": "Romania Socialist Republic 1982 FM 100 Lei (First Independent State) Rare Silver (.925) The Franklin Mint 30g NGC PF 68  KM 98",
+      "description": "Coins Numismatic Barcelona | ['E-Auction 65']",
+      "hammer_price_usd": 808.2,
+      "currency_original": "USD",
+      "price_original": 808.2,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-01",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "P",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
