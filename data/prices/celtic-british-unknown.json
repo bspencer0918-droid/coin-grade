@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 154,
-  "realized_count": 151,
+  "sale_count": 155,
+  "realized_count": 152,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,9 +17,9 @@
     "max": 371428.56
   },
   "median_price_usd": 180.0,
-  "last_sale_date": "2026-09-14",
+  "last_sale_date": "2026-10-26",
   "grade_distribution": {
-    "MS": 60,
+    "MS": 61,
     "P": 24,
     "AU": 25,
     "XF": 18,
@@ -2794,6 +2794,39 @@
         "cert_number": null,
         "grade": "MS",
         "grade_numeric": 65,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-03b7ff81f4a0",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stephen-album-rare-coins/14183/assorted-worldwide-groups/12593728/worldwide-lot-of-9-coins",
+      "title": "WORLDWIDE: LOT of 9 coins <br> WORLDWIDE: LOT of 9 coins, a diverse lot of third party graded coins inlcuding Arabia AH1352 Bernard M. O'Hea fantasy series in copper-nickel NGC MS63, British East Africa 10 cents 1937 NGC MS64RD, East Africa and Uganda Protectorates silver 50 cents 1919 NGC XF, France silver 5 francs 1826-Q PCGS EF40, Hungary silver 20 kreuzer 1830-A PCGS Fine, Mongolia 2 mongo 1937 NGC62, Philippines 1 centavo 1905 PCGS MS64BN, silver 20 centavos 1903 PCGS UNC, Romania silver 50 bani 1873 NGC AU, a lovely group of encapsulated coins, retail value $450, lot of 9 coins.",
+      "description": "Stephen Album Rare Coins | ['Accumulations & Collections Auction 6']",
+      "hammer_price_usd": 400.0,
+      "currency_original": "USD",
+      "price_original": 400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-26",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,
