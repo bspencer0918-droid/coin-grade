@@ -13,7 +13,7 @@
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 1.0,
+    "min": 110.0,
     "max": 268400.0
   },
   "median_price_usd": 7845.6,
@@ -58,6 +58,39 @@
         "surface_score": 3,
         "details_grade": null,
         "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-e2faff73561c",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/14068/ancients-greek/12477850/ancients-sicily-syracuse-gelon",
+      "title": "Ancients <br> SICILY. Syracuse. Gelon (274-216 BC). AR 4-litrai (16mm, 3.38 gm, 11h). NGC XF S 5/5 - 4/5.  Ca. 216 BC. Diademed head of Gelon left, dotted border / \u03a3YPAKO\u03a3IOI-\u0393E\u039b\u03a9NO\u03a3, eagle standing right on thunderbolt; BA in left field, K in right field. HGC 2, 1563. CCO 291.2, D5/R6 (this coin). Amber toning on intricately defined dies.   Ex Gadoury, Auction XIX (4 October 2025), lot 1029; Classical Numismatic Group, Auction 91 (19 September 2012), lot 75; Classical Numismatic Group, Auction 40 (4 December 1996), lot 924.    HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61659']",
+      "hammer_price_usd": 2318.0,
+      "currency_original": "USD",
+      "price_original": 2318.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-11",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
       },
@@ -954,39 +987,6 @@
       },
       "metadata": {
         "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-e2faff73561c",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/14068/ancients-greek/12477850/ancients-sicily-syracuse-gelon",
-      "title": "Ancients <br> SICILY. Syracuse. Gelon (274-216 BC). AR 4-litrai (16mm, 3.38 gm, 11h). NGC XF S 5/5 - 4/5.  Ca. 216 BC. Diademed head of Gelon left, dotted border / \u03a3YPAKO\u03a3IOI-\u0393E\u039b\u03a9NO\u03a3, eagle standing right on thunderbolt; BA in left field, K in right field. HGC 2, 1563. CCO 291.2, D5/R6 (this coin). Amber toning on intricately defined dies.   Ex Gadoury, Auction XIX (4 October 2025), lot 1029; Classical Numismatic Group, Auction 91 (19 September 2012), lot 75; Classical Numismatic Group, Auction 40 (4 December 1996), lot 924.    HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
-      "description": "Heritage Auctions, Inc. | ['Auction #61659']",
-      "hammer_price_usd": 1.0,
-      "currency_original": "USD",
-      "price_original": 1.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-10-11",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
