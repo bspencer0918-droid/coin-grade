@@ -17,7 +17,7 @@
     "max": 292800.0
   },
   "median_price_usd": 1920.0,
-  "last_sale_date": "2026-10-28",
+  "last_sale_date": "2026-10-29",
   "grade_distribution": {
     "VF": 287,
     "XF": 393,
@@ -50,7 +50,7 @@
       "currency_original": "USD",
       "price_original": 1300.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-28",
+      "sale_date": "2026-10-29",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -92,39 +92,6 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 2,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-2177a08a2d59",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13742/ancients-greek/12167460/pontic-kingdom-pharnaces-i-ca",
-      "title": "PONTIC KINGDOM. Pharnaces I (ca. 200-155 BC). AR tetradrachm (28mm, 17.00 gm, 11h). NGC Choice VF 4/5 - 3/5, brushed, die shift. Diademed and bearded head right / BA\u03a3I\u039bE\u03a9\u03a3 / \u03a6APNAKOY, Pantheistic male deity standing facing, head slightly right, wearing flat hat topped with thunderbolt, cornucopia and caduceus cradled in left arm, feeding fawn standing right with vine branch in lowered right hand; star above upward crescent in inner left field, \u03a0YT monogram in inner right field. SNG Black Sea -. Berk, One Hundred Greatest Ancient Coins, 79. Very rare, only one previous example in sales archives.    HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
-      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction #3132']",
-      "hammer_price_usd": 3416.0,
-      "currency_original": "USD",
-      "price_original": 3416.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-04-29",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 3,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
@@ -776,7 +743,7 @@
       "currency_original": "USD",
       "price_original": 1650.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-28",
+      "sale_date": "2026-10-29",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc119525a.jpg",
       "ngc": {
         "verified": false,
@@ -809,7 +776,7 @@
       "currency_original": "USD",
       "price_original": 2750.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-10-28",
+      "sale_date": "2026-10-29",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc101757a.jpg",
       "ngc": {
         "verified": false,
@@ -2277,6 +2244,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-2177a08a2d59",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13742/ancients-greek/12167460/pontic-kingdom-pharnaces-i-ca",
+      "title": "PONTIC KINGDOM. Pharnaces I (ca. 200-155 BC). AR tetradrachm (28mm, 17.00 gm, 11h). NGC Choice VF 4/5 - 3/5, brushed, die shift. Diademed and bearded head right / BA\u03a3I\u039bE\u03a9\u03a3 / \u03a6APNAKOY, Pantheistic male deity standing facing, head slightly right, wearing flat hat topped with thunderbolt, cornucopia and caduceus cradled in left arm, feeding fawn standing right with vine branch in lowered right hand; star above upward crescent in inner left field, \u03a0YT monogram in inner right field. SNG Black Sea -. Berk, One Hundred Greatest Ancient Coins, 79. Very rare, only one previous example in sales archives.    HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction #3132']",
+      "hammer_price_usd": 3416.0,
+      "currency_original": "USD",
+      "price_original": 3416.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-04-29",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
