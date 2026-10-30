@@ -19,13 +19,13 @@
   "median_price_usd": 159.0,
   "last_sale_date": "2026-10-12",
   "grade_distribution": {
+    "MS": 10,
     "AU": 40,
     "VF": 27,
-    "MS": 10,
     "XF": 38,
     "F": 3
   },
-  "thumbnail_url": "https://media.coinarchives.com/ba1f554214e944f28ce1661978e8649e/img/heritage/61662/image25082.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/fbc53c5522e176dc7dea6553c350ace4/img/ponterio/cco_may26/image73267.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -35,6 +35,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-f0caed9b2570",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2754121&AucID=7120&Lot=73267&Val=2667cd4a26cce5ec09a45862cf134c11",
+      "title": "Stack's Bowers Galleries (& Ponterio) - May 2026 World CCO Auction, Lot 73267 \u2014 ANONYMOUS ISSUES. Time of Basil II & Constantine VIII, 976-1025. AE Follis (11.82 gms), Constantinople Mint. NGC MS, Strike: 5/5 Surface: 4/5.\nS-1813. Obverse: Facing bust of Christ Pantokrator; Rever",
+      "description": "ANONYMOUS ISSUES. Time of Basil II & Constantine VIII, 976-1025. AE Follis (11.82 gms), Constantinople Mint. NGC MS, Strike: 5/5 Surface: 4/5.\nS-1813. Obverse: Facing bust of Christ Pantokrator; Reverse: Legend in four lines. Conditionally about as impressive as one could ever hope for, this stunning Mint State example offers bold and powerful strike quality, rich unblighted surfaces, and a deep color, with a few green hints. Lovely in a way that distinguishes it from nearly every other Byzant...",
+      "hammer_price_usd": 1400.0,
+      "currency_original": "USD",
+      "price_original": 1400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-11",
+      "image_url": "https://media.coinarchives.com/fbc53c5522e176dc7dea6553c350ace4/img/ponterio/cco_may26/image73267.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-bd1181d2d84e",
       "source": "coinarchives",
@@ -121,39 +154,6 @@
         "grade_numeric": 4,
         "strike_score": 4,
         "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-f0caed9b2570",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2754121&AucID=7120&Lot=73267&Val=2667cd4a26cce5ec09a45862cf134c11",
-      "title": "Stack's Bowers Galleries (& Ponterio) - May 2026 World CCO Auction, Lot 73267 \u2014 ANONYMOUS ISSUES. Time of Basil II & Constantine VIII, 976-1025. AE Follis (11.82 gms), Constantinople Mint. NGC MS, Strike: 5/5 Surface: 4/5.\nS-1813. Obverse: Facing bust of Christ Pantokrator; Rever",
-      "description": "ANONYMOUS ISSUES. Time of Basil II & Constantine VIII, 976-1025. AE Follis (11.82 gms), Constantinople Mint. NGC MS, Strike: 5/5 Surface: 4/5.\nS-1813. Obverse: Facing bust of Christ Pantokrator; Reverse: Legend in four lines. Conditionally about as impressive as one could ever hope for, this stunning Mint State example offers bold and powerful strike quality, rich unblighted surfaces, and a deep color, with a few green hints. Lovely in a way that distinguishes it from nearly every other Byzant...",
-      "hammer_price_usd": 1400.0,
-      "currency_original": "USD",
-      "price_original": 1400.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-05-11",
-      "image_url": "https://media.coinarchives.com/fbc53c5522e176dc7dea6553c350ace4/img/ponterio/cco_may26/image73267.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
