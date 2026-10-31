@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 529,
-  "realized_count": 529,
+  "sale_count": 532,
+  "realized_count": 532,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,11 +17,11 @@
     "max": 3840.0
   },
   "median_price_usd": 186.0,
-  "last_sale_date": "2026-09-11",
+  "last_sale_date": "2026-10-30",
   "grade_distribution": {
-    "AU": 137,
+    "XF": 206,
+    "AU": 138,
     "G": 10,
-    "XF": 204,
     "MS": 49,
     "VF": 117,
     "F": 12
@@ -36,6 +36,105 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-77c3788627eb",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/coinstore/14140/coin/12554099/roman-empire-caracalla-denarius-215",
+      "title": "Roman Empire, Caracalla, Denarius, 215 AD (ND), NGC Ch XF <br> Roman Empire, Caracalla, Denarius, 215 AD (ND), NGC, Ch XF,, Silver. RIC IV.1#\u202f223, Numista# 273343. Obv: Head of Caracalla, laureate, bearded, right. ANTONINVS PIVS AVG BRIT. Rev: Mars, helmeted, naked except for cloak tied round waist, advancing right, holding transverse spear in right hand and trophy over left shoulder in left hand. MARTI PROPVGNATORI. Mint Rome (ancient), Italy. <br> Roman Empire <br> Ch XF",
+      "description": "Coinstore | ['E-LIVE 17 AUCTION']",
+      "hammer_price_usd": 202.84,
+      "currency_original": "USD",
+      "price_original": 202.842,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-30",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-d423f10afd6b",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/coinstore/14140/coin/12554100/roman-empire-caracalla-denarius-215",
+      "title": "Roman Empire, Caracalla, Denarius, 215 AD (ND), NGC, AU <br> Roman Empire, Caracalla Denarius 215 AD (ND) NGC Ch AU 0647487-006, Silver. RIC IV.1#\u202f223, Numista# 273343. Obv: Head of Caracalla, laureate, bearded, right. ANTONINVS PIVS AVG BRIT. Rev: Mars, helmeted, naked except for cloak tied round waist, advancing right, holding transverse spear in right hand and trophy over left shoulder in left hand. MARTI PROPVGNATORI. Mint Rome (ancient), Italy. <br> Roman Empire <br> AU",
+      "description": "Coinstore | ['E-LIVE 17 AUCTION']",
+      "hammer_price_usd": 225.38,
+      "currency_original": "USD",
+      "price_original": 225.38,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-30",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "0647487-006",
+        "grade": "AU",
+        "grade_numeric": 6,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/0647487006/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-8561d0fd4598",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/coinstore/14140/coin/12554101/roman-empire-caracalla-denarius-213",
+      "title": "Roman Empire, Caracalla, Denarius, 213 AD (ND), NGC, Ch XF <br> Roman Empire, Caracalla Denarius 213 AD (ND) NGC Ch XF 6647487-009, Silver. RIC IV.1#\u202f208a, Numista# 273313. Obv: Head of Caracalla, laureate, bearded, right. ANTONINVS PIVS AVG BRIT. Rev: Serapis, wearing polos on head, standing left, raising right hand and holding transverse sceptre in left hand. P M TR P XVI COS IIII P P. Mint Rome (ancient), Italy. <br> Roman Empire <br> Ch XF",
+      "description": "Coinstore | ['E-LIVE 17 AUCTION']",
+      "hammer_price_usd": 202.84,
+      "currency_original": "USD",
+      "price_original": 202.842,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-30",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "6647487-009",
+        "grade": "XF",
+        "grade_numeric": 66,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/6647487009/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-683483e4929c",
       "source": "sixbid",

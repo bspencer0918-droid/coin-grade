@@ -8,8 +8,8 @@
   "ruler_rarity": "scarce",
   "denomination": "Unknown",
   "metal": "gold",
-  "sale_count": 331,
-  "realized_count": 331,
+  "sale_count": 332,
+  "realized_count": 332,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,15 +17,15 @@
     "max": 1320.0
   },
   "median_price_usd": 156.0,
-  "last_sale_date": "2026-07-21",
+  "last_sale_date": "2026-10-30",
   "grade_distribution": {
     "MS": 25,
     "VF": 78,
+    "XF": 157,
     "AU": 70,
-    "XF": 156,
     "F": 2
   },
-  "thumbnail_url": "https://media.coinarchives.com/c39c2eecd9bd154c5dd8a426906da15b/img/ponterio/cco_may26/image73277.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/0bc6809d7e2e129559876c087808a923/img/spink/26122/image02311.jpg",
   "median_weight_g": null,
   "top_strike_score": null,
   "top_surface_score": null,
@@ -95,6 +95,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-7b3f04922b70",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2836168&AucID=7414&Lot=2311&Val=2e4d82619c0325797ad577eaf2677a10",
+      "title": "Spink - Auction 26122, Lot 2311 \u2014 (x) NGC Ch XF | Byzantine Empire, Andronicus II and Michael IX (1282-1328), AV/EL Hyperpyron, bust of the Virgin, orans, within city walls, rev. Andronicus and Michael kneeling to left and right of Ch",
+      "description": "(x) NGC Ch XF | Byzantine Empire, Andronicus II and Michael IX (1282-1328), AV/EL Hyperpyron, bust of the Virgin, orans, within city walls, rev. Andronicus and Michael kneeling to left and right of Christ, crowning the emperors, IC-XC to left and right of Christ's head, 3.91g (Sear 2396), typical edge cracks to flan, a good example for the type, very fine, in NGC Ancients holder, graded Choice XF [Strike: 3/5; Surface: 4/5] (Cert. #6829170-001).\nhttps://www.ngccoin.uk/certlookup/6829170-001/NG...",
+      "hammer_price_usd": 381.0,
+      "currency_original": "GBP",
+      "price_original": 300.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-30",
+      "image_url": "https://media.coinarchives.com/0bc6809d7e2e129559876c087808a923/img/spink/26122/image02311.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "6829170-001",
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 3,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/6829170001/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

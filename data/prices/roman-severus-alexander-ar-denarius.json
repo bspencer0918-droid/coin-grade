@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 599,
-  "realized_count": 599,
+  "sale_count": 600,
+  "realized_count": 600,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,10 +17,10 @@
     "max": 8500.0
   },
   "median_price_usd": 144.0,
-  "last_sale_date": "2026-09-20",
+  "last_sale_date": "2026-10-30",
   "grade_distribution": {
+    "AU": 366,
     "G": 3,
-    "AU": 365,
     "MS": 124,
     "XF": 99,
     "VF": 8
@@ -35,6 +35,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-a851d51340aa",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/coinstore/14140/coin/12554106/roman-empire-severus-alexander-denarius",
+      "title": "Roman Empire, Severus Alexander Denarius 228-231 AD (ND) NGC AU 8222566-003 <br> Roman Empire, Severus Alexander Denarius 228-231 AD (ND) NGC AU 6772806-008, Silver 3.27 g., RIC IV.2#\u202f200, Numista# 279229. Obv: Head of Severus Alexander, laureate, right. IMP SEV ALEXAND AVG. Rev: Jupiter, standing left, holding thunderbolt over Severus Alexander in right hand and sceptre in left hand. IOVI CONSERVATORI. Mint Rome (ancient), Italy. <br> Roman Empire <br> AU",
+      "description": "Coinstore | ['E-LIVE 17 AUCTION']",
+      "hammer_price_usd": 225.38,
+      "currency_original": "USD",
+      "price_original": 225.38,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-30",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8222566-003",
+        "grade": "AU",
+        "grade_numeric": 82,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8222566003/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-adfa787641a0",
       "source": "sixbid",

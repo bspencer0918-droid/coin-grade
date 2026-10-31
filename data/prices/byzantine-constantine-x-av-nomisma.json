@@ -8,8 +8,8 @@
   "ruler_rarity": "scarce",
   "denomination": "AV Nomisma",
   "metal": "gold",
-  "sale_count": 345,
-  "realized_count": 345,
+  "sale_count": 346,
+  "realized_count": 346,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,15 +17,15 @@
     "max": 4080.0
   },
   "median_price_usd": 660.0,
-  "last_sale_date": "2026-10-12",
+  "last_sale_date": "2026-10-30",
   "grade_distribution": {
-    "AU": 149,
+    "AU": 150,
     "VF": 18,
     "MS": 121,
     "XF": 56,
     "F": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/2a3473720809cd5cec1d7182902987f0/img/heritage/61662/image25086.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/78ddf43df7dc920c2d16260024b017f5/img/spink/26122/image02299.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -35,6 +35,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-24b71aefb9de",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2836156&AucID=7414&Lot=2299&Val=1629902e7e0e171a19d49c74e450368e",
+      "title": "Spink - Auction 26122, Lot 2299 \u2014 (x) NGC AU | Byzantine Empire, Constantine X (1059-1067), AV Histamenon Nomisma, + IhS XIS REX REGNANTIhM, Christ enthroned, wearing nimbus cruciger, pallium and colobium, raising right hand in benedi",
+      "description": "(x) NGC AU | Byzantine Empire, Constantine X (1059-1067), AV Histamenon Nomisma, + IhS XIS REX REGNANTIhM, Christ enthroned, wearing nimbus cruciger, pallium and colobium, raising right hand in benediction and holding book of Gospels in left, rev. + KWN RAC L O DOVKAC, Constantine standing facing on footstool, bearded, wearing crown, saccos, and loros, holding labarum with pellet on shaft and globus cruciger (DO 1; BMC 1-9; Sear 1847), slight scuff to outer edge of reverse, toned good very fin...",
+      "hammer_price_usd": 952.5,
+      "currency_original": "GBP",
+      "price_original": 750.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-30",
+      "image_url": "https://media.coinarchives.com/78ddf43df7dc920c2d16260024b017f5/img/spink/26122/image02299.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-9f667e2485ca",
       "source": "coinarchives",

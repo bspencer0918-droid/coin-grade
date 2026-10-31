@@ -8,29 +8,63 @@
   "ruler_rarity": "common",
   "denomination": "AV Semissis",
   "metal": "gold",
-  "sale_count": 1,
-  "realized_count": 1,
+  "sale_count": 2,
+  "realized_count": 2,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 440.0,
-    "max": 440.0
+    "max": 635.0
   },
-  "median_price_usd": 440.0,
-  "last_sale_date": "2025-12-29",
+  "median_price_usd": 537.5,
+  "last_sale_date": "2026-10-30",
   "grade_distribution": {
+    "MS": 1,
     "XF": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/b4dcaed0163a3eb85030995ff5e2eddb/img/heritage/61557/image25026.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/64628338940a20e1c4554a0b83be8ec7/img/spink/26122/image02290.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
-  "top_surface_score": 2,
-  "top_grade_numeric": 4,
+  "top_surface_score": 3,
+  "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-7e480ed1ae90",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2836147&AucID=7414&Lot=2290&Val=a62dfaf896450410ac551b1eb59b47b2",
+      "title": "Spink - Auction 26122, Lot 2290 \u2014 (x) NGC MS | Byzantine Empire, Maurice Tiberius (582-602), AV Semissis, D N MAVRIVI PP AVI, diademed, draped and cuirassed bust right, rev. VICTORIA AVGG, Victory advancing right, head left, holding w",
+      "description": "(x) NGC MS | Byzantine Empire, Maurice Tiberius (582-602), AV Semissis, D N MAVRIVI PP AVI, diademed, draped and cuirassed bust right, rev. VICTORIA AVGG, Victory advancing right, head left, holding wreath and globus cruciger, CONOB in exergue, 2.22g (DO 12b-c; BMC -; Sear 486), a most pleasing and lustrous example, about extremely fine, in NGC Ancients holder, graded Mint State [Strike: 4/5; Surface 3/5] (Cert. #3482403-007).\n\n Estimate: \u00a3200 - \u00a3300...",
+      "hammer_price_usd": 635.0,
+      "currency_original": "GBP",
+      "price_original": 500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-30",
+      "image_url": "https://media.coinarchives.com/64628338940a20e1c4554a0b83be8ec7/img/spink/26122/image02290.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "3482403-007",
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/3482403007/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-befa15badfc6",
       "source": "coinarchives",

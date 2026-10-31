@@ -8,8 +8,8 @@
   "ruler_rarity": "common",
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 702,
-  "realized_count": 702,
+  "sale_count": 704,
+  "realized_count": 704,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,15 +17,15 @@
     "max": 28200.0
   },
   "median_price_usd": 780.0,
-  "last_sale_date": "2026-10-22",
+  "last_sale_date": "2026-10-30",
   "grade_distribution": {
     "AU": 241,
-    "MS": 419,
-    "XF": 30,
+    "MS": 420,
+    "XF": 31,
     "VF": 9,
     "G": 3
   },
-  "thumbnail_url": "https://media.coinarchives.com/e1184f5047dbd970ab6eb67668b6eb9a/img/heritage/61662/image25001.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/7a59de9e8647ce157053770b0fcf9b74/img/spink/26122/image02285.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 5,
@@ -128,6 +128,72 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-3beba615f562",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2836142&AucID=7414&Lot=2285&Val=bcfac5c363e3d1f8c569739840c4c52c",
+      "title": "Spink - Auction 26122, Lot 2285 \u2014 NGC XF | Byzantine Empire, Justinian I (527-565), AV Solidus, Constantinople, 1st Officina, D N IVSTINIANVS PP AVG, helmeted and cuirassed bust facing three quarters to right, holding spear over right",
+      "description": "NGC XF | Byzantine Empire, Justinian I (527-565), AV Solidus, Constantinople, 1st Officina, D N IVSTINIANVS PP AVG, helmeted and cuirassed bust facing three quarters to right, holding spear over right shoulder, shield on left shoulder decorated with horseman running down enemy, rev. VICTORIA AVGGG A, angel standing facing, holding long cross and globus cruciger, star to right, CONOB in exergue, 4.44g (DO 3-5; BMC 1-6; Sear 137), graffito z to right of bust, struck on a broad flan, the strike a...",
+      "hammer_price_usd": 825.5,
+      "currency_original": "GBP",
+      "price_original": 650.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-30",
+      "image_url": "https://media.coinarchives.com/7a59de9e8647ce157053770b0fcf9b74/img/spink/26122/image02285.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-dfe3883f05a7",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2836154&AucID=7414&Lot=2297&Val=ec90976998831010da003f5c4d2f9d8e",
+      "title": "Spink - Auction 26122, Lot 2297 \u2014 NGC MS | Byzantine Empire, Justinian II (685-695), AV Solidus, Constantinople, 3rd Officina, IhS CRISTOS REX REGNANTIVM, bearded bust of Christ facing, cross behind head, wearing pallium and colobium,",
+      "description": "NGC MS | Byzantine Empire, Justinian II (685-695), AV Solidus, Constantinople, 3rd Officina, IhS CRISTOS REX REGNANTIVM, bearded bust of Christ facing, cross behind head, wearing pallium and colobium, raising right hand in benediction and holding book of Gospels in left, rev. D IVST[INIANVS] SERY ChRiSTI [Gamma], Justinian standing facing, wearing crown and loros, holding cross potent set on two steps and akakia, CON | P in exergue, 4.42g (DO 8; BMC -; MIB 9; Sear 1248), lustrous, exceptional ...",
+      "hammer_price_usd": 9525.0,
+      "currency_original": "GBP",
+      "price_original": 7500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-30",
+      "image_url": "https://media.coinarchives.com/a6dff5c33406a1320db4660485e45e7f/img/spink/26122/image02297.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "gold",
-  "sale_count": 69,
-  "realized_count": 69,
+  "sale_count": 70,
+  "realized_count": 70,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,15 +17,15 @@
     "max": 8400.0
   },
   "median_price_usd": 660.0,
-  "last_sale_date": "2026-10-12",
+  "last_sale_date": "2026-10-30",
   "grade_distribution": {
-    "VF": 11,
+    "VF": 12,
     "P": 1,
     "MS": 14,
     "AU": 32,
     "XF": 11
   },
-  "thumbnail_url": "https://media.coinarchives.com/f484059e97e2787b9093285648c95dcd/img/heritage/61662/image25093.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/200ac841b1fb8a89d4915c8309dff7b4/img/spink/26122/image02305.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 1,
@@ -35,6 +35,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-3ded15ce5cfa",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2836162&AucID=7414&Lot=2305&Val=c3127a2929196fd44e590e75ce312c36",
+      "title": "Spink - Auction 26122, Lot 2305 \u2014 (x) NGC Ch VF Byzantine Empire, Alexius I (1081-1118), Post Reform Coinage 1092-1118, AV Hyperpyron, + KE ROHOEI, Christ enthroned facing, wearing nimbus cruciger, pallium and colobium, raising right ",
+      "description": "(x) NGC Ch VF Byzantine Empire, Alexius I (1081-1118), Post Reform Coinage 1092-1118, AV Hyperpyron, + KE ROHOEI, Christ enthroned facing, wearing nimbus cruciger, pallium and colobium, raising right hand in benediction and holding book of Gospels in left, IC-XC to left and right of head, rev. Alexius standing facing, wearing crown, divitision and large-jewelled chlamys, holding labarum and globus cruciger, manus dei above to right, A | LE | ZIW | DEC | PO | TH to left, TW | KO | MNH | NW to r...",
+      "hammer_price_usd": 698.5,
+      "currency_original": "GBP",
+      "price_original": 550.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-30",
+      "image_url": "https://media.coinarchives.com/200ac841b1fb8a89d4915c8309dff7b4/img/spink/26122/image02305.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-8305a0aa0e73",
       "source": "coinarchives",
