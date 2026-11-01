@@ -27,7 +27,7 @@
   "thumbnail_url": "https://media.coinarchives.com/5cca39399010b1b2ff7de4ef9420e7c7/img/heritage/3135/image30097.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 5,
+  "top_surface_score": 4,
   "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
@@ -332,72 +332,6 @@
       }
     },
     {
-      "id": "sixbid-8d84e54f513d",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/mdc-monaco/14026/empire-romain-roman/12443861/empire-romain-romantheodose-ier",
-      "title": "EMPIRE ROMAIN - ROMAN<br>Th\u00e9odose Ier (379-395). Solidus ND (383-388), Constantinople, 1\u00e8re officine.<br>Av. D N THEODO - SIVS P F AVG. Buste diad\u00e9m\u00e9, drap\u00e9 et cuirass\u00e9, \u00e0 droite. <br>Rv. CONCORDI - A AVGGGG (officine). Constantinople assise de face sur un tr\u00f4ne avec t\u00eates de lion, t\u00eate \u00e0 droite, tenant une lance et un bouclier inscrit VOT / V / MVL / X, une proue de navire \u00e0 ses pieds  ; \u00e0 l\u2019exergue CONOB.<br>RIC.IX.70b ; Or - 4,42 g - 21 mm - 11 h<br>NGC Ch MS 5/5 5/5 (3928170-036). <br>Avec AVGGGG. Proche de son \u00e9tat de frappe, avec une d\u00e9licate patine. Presque Fleur de coin.",
-      "description": "MDC Monaco | ['Auction 19']",
-      "hammer_price_usd": 6724.8,
-      "currency_original": "USD",
-      "price_original": 6724.8,
-      "buyers_premium_included": false,
-      "sale_date": "2026-10-13",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "3928170-036",
-        "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 5,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/3928170036/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-d4977cb753a7",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13696/empire-romain-roman/12114874/empire-romain-romanjulien-ii",
-      "title": "EMPIRE ROMAIN - ROMAN<br>Julien II (360-363). Solidus ND (360-363), Constantinople.<br>Av. FL CL IVLIA - NVS P P AVG. Buste diad\u00e9m\u00e9, drap\u00e9 et cuirass\u00e9, \u00e0 droite. <br>Rv. VIRTVS EXERCI - TVS ROMANORVM / (palme) CONSP (palme). L\u2019Empereur debout \u00e0 droite, t\u00eate en arri\u00e8re, tenant un troph\u00e9e sur l\u2019\u00e9paule gauche de la main gauche et un captif au sol par la t\u00eate, de la main droite.<br>RIC.157 - Dep.8/1 ; Or - 4,45 g - 21 mm - 6 h<br>Provient de la vente MDC 9, n\u00b0 127.<br>NGC Ch AU 5/5 4/5 (5785795-005). <br>Sur un flan assez large et bien centr\u00e9, avec le brillant d\u2019origine encore bien pr\u00e9sent. Superbe \u00e0 Fleur de coin.<br><br> * Following Council Directive (EU) 2022/542 of April 5, 2022, implemented in national law from 01/01/2025, buyers from within the EU have to pay 5.5% VAT on the hammer price of this lot.<br>* Suite \u00e0 la Directive (UE) 2022/542 du Conseil du 5 avril 2022, mise en application dans le droit national \u00e0 compter du 01/01/2025, l\u2019adjudicataire europ\u00e9en devra \u00e9galement payer une TVA de 5,5% sur ce lot  <br> NGC Ch AU 5/5 4/5",
-      "description": "MDC Monaco | ['Auction 18']",
-      "hammer_price_usd": 15116.4,
-      "currency_original": "USD",
-      "price_original": 15116.4,
-      "buyers_premium_included": false,
-      "sale_date": "2026-05-13",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "5785795-005",
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/5785795005/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "sixbid-bc22528b1021",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -552,6 +486,72 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-8d84e54f513d",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/14026/empire-romain-roman/12443861/empire-romain-romantheodose-ier",
+      "title": "EMPIRE ROMAIN - ROMAN<br>Th\u00e9odose Ier (379-395). Solidus ND (383-388), Constantinople, 1\u00e8re officine.<br>Av. D N THEODO - SIVS P F AVG. Buste diad\u00e9m\u00e9, drap\u00e9 et cuirass\u00e9, \u00e0 droite. <br>Rv. CONCORDI - A AVGGGG (officine). Constantinople assise de face sur un tr\u00f4ne avec t\u00eates de lion, t\u00eate \u00e0 droite, tenant une lance et un bouclier inscrit VOT / V / MVL / X, une proue de navire \u00e0 ses pieds  ; \u00e0 l\u2019exergue CONOB.<br>RIC.IX.70b ; Or - 4,42 g - 21 mm - 11 h<br>NGC Ch MS 5/5 5/5 (3928170-036). <br>Avec AVGGGG. Proche de son \u00e9tat de frappe, avec une d\u00e9licate patine. Presque Fleur de coin.",
+      "description": "MDC Monaco | ['Auction 19']",
+      "hammer_price_usd": 6724.8,
+      "currency_original": "USD",
+      "price_original": 6724.8,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "3928170-036",
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/3928170036/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-d4977cb753a7",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13696/empire-romain-roman/12114874/empire-romain-romanjulien-ii",
+      "title": "EMPIRE ROMAIN - ROMAN<br>Julien II (360-363). Solidus ND (360-363), Constantinople.<br>Av. FL CL IVLIA - NVS P P AVG. Buste diad\u00e9m\u00e9, drap\u00e9 et cuirass\u00e9, \u00e0 droite. <br>Rv. VIRTVS EXERCI - TVS ROMANORVM / (palme) CONSP (palme). L\u2019Empereur debout \u00e0 droite, t\u00eate en arri\u00e8re, tenant un troph\u00e9e sur l\u2019\u00e9paule gauche de la main gauche et un captif au sol par la t\u00eate, de la main droite.<br>RIC.157 - Dep.8/1 ; Or - 4,45 g - 21 mm - 6 h<br>Provient de la vente MDC 9, n\u00b0 127.<br>NGC Ch AU 5/5 4/5 (5785795-005). <br>Sur un flan assez large et bien centr\u00e9, avec le brillant d\u2019origine encore bien pr\u00e9sent. Superbe \u00e0 Fleur de coin.<br><br> * Following Council Directive (EU) 2022/542 of April 5, 2022, implemented in national law from 01/01/2025, buyers from within the EU have to pay 5.5% VAT on the hammer price of this lot.<br>* Suite \u00e0 la Directive (UE) 2022/542 du Conseil du 5 avril 2022, mise en application dans le droit national \u00e0 compter du 01/01/2025, l\u2019adjudicataire europ\u00e9en devra \u00e9galement payer une TVA de 5,5% sur ce lot  <br> NGC Ch AU 5/5 4/5",
+      "description": "MDC Monaco | ['Auction 18']",
+      "hammer_price_usd": 15116.4,
+      "currency_original": "USD",
+      "price_original": 15116.4,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "5785795-005",
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/5785795005/",
         "grading_service": "ngc"
       },
       "metadata": {
