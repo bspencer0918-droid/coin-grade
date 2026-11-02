@@ -268,39 +268,6 @@
       }
     },
     {
-      "id": "coinarchives-a4c03c2e77d6",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2809983&AucID=7316&Lot=21068&Val=69680e4e2c6d0571853858ac3d408ced",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61638, Lot 21068 \u2014 Ancients\nAurelian (AD 270-275). BI antoninianus (22mm, 4.57 gm, 5h). NGC MS 5/5 - 2/5, light smoothing. Tripolis. IMP C AVRELIANVS AVG, radiate, cuirassed bust of Aurelianus right, seen from the front",
-      "description": "Ancients\nAurelian (AD 270-275). BI antoninianus (22mm, 4.57 gm, 5h). NGC MS 5/5 - 2/5, light smoothing. Tripolis. IMP C AVRELIANVS AVG, radiate, cuirassed bust of Aurelianus right, seen from the front / RESTITVT OR-BIS, woman standing right (on left) presenting wreath to Aurelian standing facing (on right), head left, grounded scepter in left hand; star in central field, KA in exergue. RIC V.I 389.\n\nFrom the Dr. Charles Jay Deur Collection, for the charitable benefit of Calvin University and P...",
-      "hammer_price_usd": 220.0,
-      "currency_original": "USD",
-      "price_original": 220.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-09-20",
-      "image_url": "https://media.coinarchives.com/2ca7ecb1c12f460e60ecd9b837332085/img/heritage/61638/image21068.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-ec7515422ca5",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -419,6 +386,39 @@
         "grade_numeric": 4,
         "strike_score": 4,
         "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-a4c03c2e77d6",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2809983&AucID=7316&Lot=21068&Val=69680e4e2c6d0571853858ac3d408ced",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61638, Lot 21068 \u2014 Ancients\nAurelian (AD 270-275). BI antoninianus (22mm, 4.57 gm, 5h). NGC MS 5/5 - 2/5, light smoothing. Tripolis. IMP C AVRELIANVS AVG, radiate, cuirassed bust of Aurelianus right, seen from the front",
+      "description": "Ancients\nAurelian (AD 270-275). BI antoninianus (22mm, 4.57 gm, 5h). NGC MS 5/5 - 2/5, light smoothing. Tripolis. IMP C AVRELIANVS AVG, radiate, cuirassed bust of Aurelianus right, seen from the front / RESTITVT OR-BIS, woman standing right (on left) presenting wreath to Aurelian standing facing (on right), head left, grounded scepter in left hand; star in central field, KA in exergue. RIC V.I 389.\n\nFrom the Dr. Charles Jay Deur Collection, for the charitable benefit of Calvin University and P...",
+      "hammer_price_usd": 220.0,
+      "currency_original": "USD",
+      "price_original": 220.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-20",
+      "image_url": "https://media.coinarchives.com/2ca7ecb1c12f460e60ecd9b837332085/img/heritage/61638/image21068.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
