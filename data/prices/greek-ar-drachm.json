@@ -8,20 +8,20 @@
   "ruler_rarity": null,
   "denomination": "AR Drachm",
   "metal": "silver",
-  "sale_count": 1055,
-  "realized_count": 1055,
+  "sale_count": 1057,
+  "realized_count": 1057,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 35.0,
+    "min": 1.0,
     "max": 40800.0
   },
   "median_price_usd": 174.0,
-  "last_sale_date": "2026-11-06",
+  "last_sale_date": "2026-11-08",
   "grade_distribution": {
     "XF": 210,
-    "AU": 308,
-    "F": 29,
+    "AU": 309,
+    "F": 30,
     "VF": 141,
     "MS": 347,
     "P": 7,
@@ -49,7 +49,7 @@
       "currency_original": "USD",
       "price_original": 1600.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-06",
+      "sale_date": "2026-11-08",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -82,7 +82,7 @@
       "currency_original": "USD",
       "price_original": 1100.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-06",
+      "sale_date": "2026-11-08",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -289,6 +289,39 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-95634f4934a5",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/14161/ancients-greek/12582889/ionia-ephesus-ca-2nd-century",
+      "title": "IONIA. Ephesus. Ca. 2nd century BC. AR drachm (18mm, 4.19 gm, 12h). NGC Choice AU 4/5 - 3/5, brushed, flan flaw. Dioscurides, magistrate. E-\u03a6, bee with straight wings seen from above / \u0394\u0399O\u03a3KOYPI\u0394H\u03a3, stag standing right, palm tree beyond. SNG Copenhagen 283-298 var. (magistrate). SNG von Aulock 1846-1851 var. (same). SNG Delepierre 2603-2604 var. (same).  As a Greek colony on the coast of Ionia, Ephesus (founded ca. 10th century BC) was a cultural hub of Ancient Greece. It was particularly important for Artemis, the Greek goddess of the hunt, whose birthplace was considered near Ephesus. Her importance to the city was so great, the Temple of Artemis was built in her honor and would become a place of worship for her cult in Ephesus. The stag was symbolic of Artemis as it was often seen by her side, protecting her on hunts. The bee connects to Artemis particularly in Ephesian context, as it became a civic emblem due to its symbolism of nature and femininity as it related to Artemis.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Signature\u00ae Auction #3136']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-05",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
@@ -633,6 +666,39 @@
       }
     },
     {
+      "id": "coinarchives-00be6b5143d9",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803116&AucID=7299&Lot=25016&Val=7cd8c1b31e86ea5759d299d90e9cba5e",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61675, Lot 25016 \u2014 Ancients\nCARIA. Cnidus. Ca. 350-320. AR drachm (16mm, 3.30 gm, 1h). NGC Choice VF 5/5 - 4/5. Autocrates, magistrate. Head of Artemis right, hair gathered in sphendone with topknot on crown of head / A",
+      "description": "Ancients\nCARIA. Cnidus. Ca. 350-320. AR drachm (16mm, 3.30 gm, 1h). NGC Choice VF 5/5 - 4/5. Autocrates, magistrate. Head of Artemis right, hair gathered in sphendone with topknot on crown of head / AYTOKPATH\u03a3, forepart of lion right. SNG von Aulock 2607.\n\nEx Classical Numismatic Group, Triton XXVII Online (17 January 2024), lot 5240; Ortrera Collection (Classical Numismatic Group, Auction 121, 6 October 2022), lot 410; Philip Peck (Morris) Collection; Robert Myers FPL (February 1976), lot 26....",
+      "hammer_price_usd": 480.0,
+      "currency_original": "USD",
+      "price_original": 480.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-18",
+      "image_url": "https://media.coinarchives.com/2d07ace17264d1b9febbfa2d079951ce/img/heritage/61675/image25016.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-e45ec1cbd337",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -732,39 +798,6 @@
       }
     },
     {
-      "id": "coinarchives-00be6b5143d9",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803116&AucID=7299&Lot=25016&Val=7cd8c1b31e86ea5759d299d90e9cba5e",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61675, Lot 25016 \u2014 Ancients\nCARIA. Cnidus. Ca. 350-320. AR drachm (16mm, 3.30 gm, 1h). NGC Choice VF 5/5 - 4/5. Autocrates, magistrate. Head of Artemis right, hair gathered in sphendone with topknot on crown of head / A",
-      "description": "Ancients\nCARIA. Cnidus. Ca. 350-320. AR drachm (16mm, 3.30 gm, 1h). NGC Choice VF 5/5 - 4/5. Autocrates, magistrate. Head of Artemis right, hair gathered in sphendone with topknot on crown of head / AYTOKPATH\u03a3, forepart of lion right. SNG von Aulock 2607.\n\nEx Classical Numismatic Group, Triton XXVII Online (17 January 2024), lot 5240; Ortrera Collection (Classical Numismatic Group, Auction 121, 6 October 2022), lot 410; Philip Peck (Morris) Collection; Robert Myers FPL (February 1976), lot 26....",
-      "hammer_price_usd": 480.0,
-      "currency_original": "USD",
-      "price_original": 480.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-09-18",
-      "image_url": "https://media.coinarchives.com/2d07ace17264d1b9febbfa2d079951ce/img/heritage/61675/image25016.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-56f63e4b64df",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -785,6 +818,39 @@
         "strike_score": 4,
         "surface_score": 2,
         "details_grade": "Test Cut",
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-b50af1b2e2d4",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2835615&AucID=7406&Lot=31027&Val=7671edd77b18d013af8b4a1a2250e001",
+      "title": "Heritage World Coin Auctions - Dallas Signature Sale 3136, Lot 31027 \u2014 Ancients\nEUBOEA. Eretria. Ca. 500-465 BC. AR drachm (17mm, 3.35 gm, 1h). NGC Fine 5/5 - 3/5, marks. Cow standing right, head reverted, hind leg scratching muzzle / Octopus; within incuse square. HGC 4",
+      "description": "Ancients\nEUBOEA. Eretria. Ca. 500-465 BC. AR drachm (17mm, 3.35 gm, 1h). NGC Fine 5/5 - 3/5, marks. Cow standing right, head reverted, hind leg scratching muzzle / Octopus; within incuse square. HGC 4, 1507.\n\nFrom the LII Collection of Historical Coins and Medals Part II. Ex Spink, Auction 331 (21 March 2017), lot 46.  www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.ha.com/itm/ancients/greek/greek-euboea-eretria-ca-500-465-bc-ar-drachm-17mm-335-gm-1h-ngc-fine-5-5-3-5-marks/a/3136-31027....",
+      "hammer_price_usd": 1000.0,
+      "currency_original": "USD",
+      "price_original": 1000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-05",
+      "image_url": "https://media.coinarchives.com/40b8fe32ce65eadc67382f249af37dfb/img/heritage/3136/image31027.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
         "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"

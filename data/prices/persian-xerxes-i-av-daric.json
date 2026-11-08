@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AV Daric",
   "metal": "gold",
-  "sale_count": 115,
-  "realized_count": 115,
+  "sale_count": 116,
+  "realized_count": 116,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,23 +17,56 @@
     "max": 26400.0
   },
   "median_price_usd": 3600.0,
-  "last_sale_date": "2026-06-17",
+  "last_sale_date": "2026-11-05",
   "grade_distribution": {
+    "AU": 49,
     "MS": 51,
     "XF": 15,
-    "AU": 48,
     "VF": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/0f50af1dd0ba249be98b0453b684bedb/img/heritage/3132/image31018.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/4a9243c812e8b5c79ed57e527fac1b00/img/heritage/3136/image31069.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 5,
+  "top_surface_score": 4,
   "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-4e1847b885ee",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2835657&AucID=7406&Lot=31069&Val=bf1489a44bf7e54c3b14dd6619025929",
+      "title": "Heritage World Coin Auctions - Dallas Signature Sale 3136, Lot 31069 \u2014 Ancients\nACHAEMENID PERSIA. Artaxerxes I-Xerxes II (5th century BC). AV daric (16mm, 8.33 gm). NGC AU 5/5 - 4/5, light scratch. Lydo-Milesian standard. Sardes, ca. 455-420 BC. Persian king or hero, we",
+      "description": "Ancients\nACHAEMENID PERSIA. Artaxerxes I-Xerxes II (5th century BC). AV daric (16mm, 8.33 gm). NGC AU 5/5 - 4/5, light scratch. Lydo-Milesian standard. Sardes, ca. 455-420 BC. Persian king or hero, wearing cidaris and candys, in kneeling-running stance right, quiver over shoulder, body without indentations at waistline, dagger pointed at waist in right hand, bow outward in left / Incuse punch. Carradice Type IV, Group A. Sunrise 27.\n\nEx the Matthew Curtis Collection (Classical Numismatic Group...",
+      "hammer_price_usd": 9500.0,
+      "currency_original": "USD",
+      "price_original": 9500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-05",
+      "image_url": "https://media.coinarchives.com/4a9243c812e8b5c79ed57e527fac1b00/img/heritage/3136/image31069.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": "Light Scratch",
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-e106c38b2d3a",
       "source": "coinarchives",

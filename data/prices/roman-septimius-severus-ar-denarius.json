@@ -19,14 +19,14 @@
   "median_price_usd": 149.0,
   "last_sale_date": "2026-07-28",
   "grade_distribution": {
+    "XF": 176,
     "MS": 41,
     "AU": 161,
-    "XF": 176,
     "G": 1,
     "VF": 57,
     "F": 8
   },
-  "thumbnail_url": "https://media.coinarchives.com/402c8c1b30acd7511a27dbd6ed76f9cd/img/heritage/61626/image23146.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/918e05c1af1d656eb20eb2775209f83c/img/heritage/61635/image23153.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -36,6 +36,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-fdff7d3b2987",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2796213&AucID=7267&Lot=23153&Val=7df0e5d8371b238857a38b7c08c903d2",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61635, Lot 23153 \u2014 Ancients\nGeta, as Augustus (AD 209-211). AR denarius (19mm, 3.08 gm, 7h). NGC XF 4/5 - 4/5. Rome, AD 211. P SEPT GETA-PIVS AVG BRIT, laureate head of Geta right / LIBERALI-TAS AVG V, Liberalitas stand",
+      "description": "Ancients\nGeta, as Augustus (AD 209-211). AR denarius (19mm, 3.08 gm, 7h). NGC XF 4/5 - 4/5. Rome, AD 211. P SEPT GETA-PIVS AVG BRIT, laureate head of Geta right / LIBERALI-TAS AVG V, Liberalitas standing facing, head left, tessera in outstretched right hand, cornucopia cradled in left arm. RIC IV.I 88.\n\nEx Numismatik Naumann, Auction 150 (2 March 2025), lot 850.\n\nPublius Septimius Geta was born in AD 189 to Septimius Severus and Julia Domna. The younger brother to Caracalla, Geta tended to han...",
+      "hammer_price_usd": 160.0,
+      "currency_original": "USD",
+      "price_original": 160.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-28",
+      "image_url": "https://media.coinarchives.com/918e05c1af1d656eb20eb2775209f83c/img/heritage/61635/image23153.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-ecc378ce7e4d",
       "source": "coinarchives",
@@ -122,39 +155,6 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-fdff7d3b2987",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2796213&AucID=7267&Lot=23153&Val=7df0e5d8371b238857a38b7c08c903d2",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61635, Lot 23153 \u2014 Ancients\nGeta, as Augustus (AD 209-211). AR denarius (19mm, 3.08 gm, 7h). NGC XF 4/5 - 4/5. Rome, AD 211. P SEPT GETA-PIVS AVG BRIT, laureate head of Geta right / LIBERALI-TAS AVG V, Liberalitas stand",
-      "description": "Ancients\nGeta, as Augustus (AD 209-211). AR denarius (19mm, 3.08 gm, 7h). NGC XF 4/5 - 4/5. Rome, AD 211. P SEPT GETA-PIVS AVG BRIT, laureate head of Geta right / LIBERALI-TAS AVG V, Liberalitas standing facing, head left, tessera in outstretched right hand, cornucopia cradled in left arm. RIC IV.I 88.\n\nEx Numismatik Naumann, Auction 150 (2 March 2025), lot 850.\n\nPublius Septimius Geta was born in AD 189 to Septimius Severus and Julia Domna. The younger brother to Caracalla, Geta tended to han...",
-      "hammer_price_usd": 160.0,
-      "currency_original": "USD",
-      "price_original": 160.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-07-28",
-      "image_url": "https://media.coinarchives.com/918e05c1af1d656eb20eb2775209f83c/img/heritage/61635/image23153.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

@@ -8,8 +8,8 @@
   "ruler_rarity": "scarce",
   "denomination": "AV Solidus",
   "metal": "gold",
-  "sale_count": 583,
-  "realized_count": 583,
+  "sale_count": 584,
+  "realized_count": 584,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,19 +17,19 @@
     "max": 10980.0
   },
   "median_price_usd": 660.0,
-  "last_sale_date": "2026-10-12",
+  "last_sale_date": "2026-11-05",
   "grade_distribution": {
-    "MS": 333,
+    "MS": 334,
     "AU": 182,
     "G": 7,
     "XF": 29,
     "VF": 32
   },
-  "thumbnail_url": "https://media.coinarchives.com/9b1d67dd9345114a774396e5936a00ad/img/heritage/61662/image25018.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/922b44a47fbfcdec4f38adcb76c73a32/img/heritage/3136/image31138.jpg",
   "median_weight_g": null,
-  "top_strike_score": 5,
-  "top_surface_score": 4,
-  "top_grade_numeric": 5,
+  "top_strike_score": 4,
+  "top_surface_score": 5,
+  "top_grade_numeric": 4,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
@@ -300,39 +300,6 @@
       }
     },
     {
-      "id": "sixbid-c09fa958e686",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/daniel-frank-sedwick/13763/ancient-and-medieval/12188507/byzantine-empire-constantinople-mint-av",
-      "title": "BYZANTINE EMPIRE, Constantinople mint, AV solidus, Phocas (602-610 AD), NGC Ch MS, strike 4/5, surface 5/5. MIBE 2; Sear 623. 4.45 grams. ON FOCAS \u2013 PERP AVG above a draped and cuirassed bust of Phocas facing, wearing consular robes and crown, holding mappa and cross / VICTORI \u2013 A AVGGB flanking angel standing, facing, holding globus cruciger and long staff surmounted by Christogram; in exergue, CONOB. Well centered and lustrous, struck on a full flan, rare type with Phocas holding cross in left hand rather than right.",
-      "description": "Daniel Frank Sedwick | ['Auction 39']",
-      "hammer_price_usd": 3750.0,
-      "currency_original": "USD",
-      "price_original": 3750.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-05-07",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 5,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "sixbid-a1e538f854c3",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -392,6 +359,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-23d34aa44494",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2835726&AucID=7406&Lot=31138&Val=4d9ad31ab05b1bef21efb0b9aa245b4b",
+      "title": "Heritage World Coin Auctions - Dallas Signature Sale 3136, Lot 31138 \u2014 Ancients\nPhocas (AD 602-610). AV solidus (22mm, 4.45 gm, 7h). NGC Choice MS 4/5 - 5/5.  Constantinople, 9th officina, AD late 602-603. dN FOCAS-P\u0404RP AVG, bust of Phocas facing, wearing consular robes ",
+      "description": "Ancients\nPhocas (AD 602-610). AV solidus (22mm, 4.45 gm, 7h). NGC Choice MS 4/5 - 5/5.  Constantinople, 9th officina, AD late 602-603. dN FOCAS-P\u0404RP AVG, bust of Phocas facing, wearing consular robes and crown surmounted by cross, mappa in raised right hand, cross in left / VICTORI-A AVGG \u0398, Angel standing facing, grounded staff surmounted by staurogram in right hand, globus cruciger in outstretched left; CONOB in exergue. Sear 623 (officina not noted).\n\nEx Heritage Auctions, Auction 61386 (21...",
+      "hammer_price_usd": 3200.0,
+      "currency_original": "USD",
+      "price_original": 3200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-05",
+      "image_url": "https://media.coinarchives.com/922b44a47fbfcdec4f38adcb76c73a32/img/heritage/3136/image31138.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
@@ -524,6 +524,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-c09fa958e686",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/daniel-frank-sedwick/13763/ancient-and-medieval/12188507/byzantine-empire-constantinople-mint-av",
+      "title": "BYZANTINE EMPIRE, Constantinople mint, AV solidus, Phocas (602-610 AD), NGC Ch MS, strike 4/5, surface 5/5. MIBE 2; Sear 623. 4.45 grams. ON FOCAS \u2013 PERP AVG above a draped and cuirassed bust of Phocas facing, wearing consular robes and crown, holding mappa and cross / VICTORI \u2013 A AVGGB flanking angel standing, facing, holding globus cruciger and long staff surmounted by Christogram; in exergue, CONOB. Well centered and lustrous, struck on a full flan, rare type with Phocas holding cross in left hand rather than right.",
+      "description": "Daniel Frank Sedwick | ['Auction 39']",
+      "hammer_price_usd": 3750.0,
+      "currency_original": "USD",
+      "price_original": 3750.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-07",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

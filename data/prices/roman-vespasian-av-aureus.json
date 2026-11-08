@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AV Aureus",
   "metal": "gold",
-  "sale_count": 103,
-  "realized_count": 103,
+  "sale_count": 105,
+  "realized_count": 105,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,17 +17,17 @@
     "max": 168000.0
   },
   "median_price_usd": 6000.0,
-  "last_sale_date": "2026-10-17",
+  "last_sale_date": "2026-11-05",
   "grade_distribution": {
+    "F": 33,
     "XF": 22,
+    "VF": 25,
     "AU": 14,
-    "VF": 24,
     "MS": 5,
     "G": 1,
-    "F": 32,
     "VG": 5
   },
-  "thumbnail_url": "https://media.coinarchives.com/5a5aa098a6773869fae996c31132bbb3/img/ponterio/238/image41202.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/956c75939865a336ad04a1f8cde4227e/img/heritage/3135/image34140.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -37,6 +37,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-823d6894f040",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801839&AucID=7287&Lot=34140&Val=26424e715903f8d7f3cc867082191e1d",
+      "title": "Heritage World Coin Auctions - ANA Signature Sale 3135, Lot 34140 \u2014 Ancients\nDomitian, as Caesar (AD 81-96). AV aureus (19mm, 7.30 gm, 5h). NGC Choice Fine 5/5 - 4/5, Fine Style. Rome, AD 76-77. CAESAR AVG F-DOMITIANVS, laureate head of Domitian right / COS-IIII, corn",
+      "description": "Ancients\nDomitian, as Caesar (AD 81-96). AV aureus (19mm, 7.30 gm, 5h). NGC Choice Fine 5/5 - 4/5, Fine Style. Rome, AD 76-77. CAESAR AVG F-DOMITIANVS, laureate head of Domitian right / COS-IIII, cornucopia bound with fillet, containing grain ears, pyramidal cake, pomegranates and other fruits, three grape clusters hanging from rim of horn. Calic\u00f3 817. RIC II.1 (Vespasian) 918. \n\nLot includes Certificate of Authenticity from David Sear, issued 25 January 1993.\n\nDomitian has gone down in histor...",
+      "hammer_price_usd": 4000.0,
+      "currency_original": "USD",
+      "price_original": 4000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": "https://media.coinarchives.com/956c75939865a336ad04a1f8cde4227e/img/heritage/3135/image34140.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-52ec8cdbcfe7",
       "source": "coinarchives",
@@ -59,6 +92,39 @@
         "surface_score": 4,
         "details_grade": null,
         "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-f0e076cfa5a2",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2835583&AucID=7406&Lot=30021&Val=297410e7ee7c42eee298e8426cbab9bf",
+      "title": "Heritage World Coin Auctions - Dallas Signature Sale 3136, Lot 30021 \u2014 Ancients\nVespasian (AD 69-79). AV aureus (19mm, 7.34 gm, 5h). NGC Choice VF 5/5 - 2/5, ex-jewelry, scuffs. Judaea Capta issue, Rome, ca. 21 December AD 69-early AD 70. IMP CAESAR VESPASIANVS AVG, laur",
+      "description": "Ancients\nVespasian (AD 69-79). AV aureus (19mm, 7.34 gm, 5h). NGC Choice VF 5/5 - 2/5, ex-jewelry, scuffs. Judaea Capta issue, Rome, ca. 21 December AD 69-early AD 70. IMP CAESAR VESPASIANVS AVG, laureate head of Vespasian right / IVDAEA, Judaea, seated right on ground before palm tree, hands tied behind her. Calic\u00f3 644a. RIC II.1, 3. GBC 6, 6493. Very rare, only a few examples in sales archives. Mirror-like flashes. \n\nEx \u00c1ureo & Calic\u00f3, Auction 313 (5 July 2018), lot 19.\n\nDescended from a fam...",
+      "hammer_price_usd": 11000.0,
+      "currency_original": "USD",
+      "price_original": 11000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-05",
+      "image_url": "https://media.coinarchives.com/49c4c239c8a0b036b6184dfb424e985d/img/heritage/3136/image30021.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
       },
