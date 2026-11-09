@@ -8,8 +8,8 @@
   "ruler_rarity": "scarce",
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 324,
-  "realized_count": 324,
+  "sale_count": 326,
+  "realized_count": 326,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,18 +17,18 @@
     "max": 2400.0
   },
   "median_price_usd": 159.0,
-  "last_sale_date": "2026-09-08",
+  "last_sale_date": "2026-11-08",
   "grade_distribution": {
     "XF": 63,
-    "MS": 72,
-    "AU": 183,
+    "MS": 73,
+    "AU": 184,
     "VF": 6
   },
-  "thumbnail_url": "https://media.coinarchives.com/f4cf7889c005ae834e72d85676090fc3/img/ponterio/238online/image44325.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/8fdc8a294bc63269a0d16669b5b44c66/img/heritage/61667/image23141.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 5,
-  "top_grade_numeric": null,
+  "top_surface_score": 3,
+  "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
@@ -101,6 +101,39 @@
       }
     },
     {
+      "id": "coinarchives-280abe12c4f0",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2836315&AucID=7412&Lot=23141&Val=3e7e4fa9d902499689066f9b7219f0fa",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61667, Lot 23141 \u2014 Ancients\nMaximinus I (AD 235-238). AR denarius (19mm, 2.81 gm, 1h). NGC MS 5/5 - 3/5. Rome, 235. IMP MAXIMINVS PIVS AVG, laureate, draped, and cuirassed bust right, seen from behind / P M-TR-P-P P, em",
+      "description": "Ancients\nMaximinus I (AD 235-238). AR denarius (19mm, 2.81 gm, 1h). NGC MS 5/5 - 3/5. Rome, 235. IMP MAXIMINVS PIVS AVG, laureate, draped, and cuirassed bust right, seen from behind / P M-TR-P-P P, emperor standing facing in military attire, head left, right hand raised in gesture of adlocutio, grounded spear in left hand, flanked by standard on either side. RIC IV.II 1.\n\nGaius Julius Verus Maximinus, known then for his abnormally tall stature and humble upbringing was nicknamed \"Thrax\" due to...",
+      "hammer_price_usd": 320.0,
+      "currency_original": "USD",
+      "price_original": 320.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-08",
+      "image_url": "https://media.coinarchives.com/8fdc8a294bc63269a0d16669b5b44c66/img/heritage/61667/image23141.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-3ea897fea9ee",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -122,6 +155,39 @@
         "surface_score": 5,
         "details_grade": null,
         "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-f2a97d99f89e",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2836316&AucID=7412&Lot=23142&Val=abf8113667732f23fc0bcb8c259e4094",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61667, Lot 23142 \u2014 Ancients\nMaximinus I (AD 235-238). AR denarius (19mm, 4.02 gm, 12h). NGC Choice AU 4/5 - 4/5. Rome, AD 236. MAXIMINVS PIVS AVG GERM, laureate, draped, and cuirassed bust of Maximinus I right, seen fro",
+      "description": "Ancients\nMaximinus I (AD 235-238). AR denarius (19mm, 4.02 gm, 12h). NGC Choice AU 4/5 - 4/5. Rome, AD 236. MAXIMINVS PIVS AVG GERM, laureate, draped, and cuirassed bust of Maximinus I right, seen from behind / P M TR P II-COS P P, Maximinus I standing facing, head left, in military attire, raising right hand, grounded spear in left; standard to either side. RIC IV.II 4.\n\nEx Pegasi Numismatics, private sale with dealer's tag included. \n\nGaius Julius Verus Maximinus, known then for his abnormal...",
+      "hammer_price_usd": 165.0,
+      "currency_original": "USD",
+      "price_original": 165.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-08",
+      "image_url": "https://media.coinarchives.com/a89751c72c136e5f50dc55c4115baba2/img/heritage/61667/image23142.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
       },

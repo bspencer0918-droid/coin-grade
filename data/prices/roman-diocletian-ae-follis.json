@@ -8,18 +8,18 @@
   "ruler_rarity": null,
   "denomination": "AE Follis",
   "metal": "bronze",
-  "sale_count": 120,
-  "realized_count": 120,
+  "sale_count": 121,
+  "realized_count": 121,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 49.0,
     "max": 1440.0
   },
-  "median_price_usd": 169.5,
-  "last_sale_date": "2026-09-20",
+  "median_price_usd": 170.0,
+  "last_sale_date": "2026-11-08",
   "grade_distribution": {
-    "AU": 49,
+    "AU": 50,
     "XF": 19,
     "MS": 49,
     "VF": 3
@@ -86,6 +86,39 @@
         "grade": "XF",
         "grade_numeric": 4,
         "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-5f8df489edf2",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2836362&AucID=7412&Lot=23188&Val=a536d3214a342f9d3f535fb116b6327d",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61667, Lot 23188 \u2014 Ancients\nDiocletian (AD 284-305). BI follis or nummus (29mm, 10.32 gm, 5h). NGC Choice AU 5/5 - 4/5. Trier, 1st officina, AD 303-305. IMP DIOCLETIANVS AVG, laureate, cuirassed bust of Diocletian right",
+      "description": "Ancients\nDiocletian (AD 284-305). BI follis or nummus (29mm, 10.32 gm, 5h). NGC Choice AU 5/5 - 4/5. Trier, 1st officina, AD 303-305. IMP DIOCLETIANVS AVG, laureate, cuirassed bust of Diocletian right, seen from front / GENIO POPV-LI ROMANI, Genius standing facing, modius on head left, nude save for chlamys over left shoulder, patera in outstretched right hand, cornucopia cradled in left arm; S-F across fields, PTR in exergue. RIC VI 583a.\n\nWhen Diocletian came into power, he realized that the...",
+      "hammer_price_usd": 220.0,
+      "currency_original": "USD",
+      "price_original": 220.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-08",
+      "image_url": "https://media.coinarchives.com/855578d651b3bf32a3dbe2e82584d25f/img/heritage/61667/image23188.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
         "fine_style": false,

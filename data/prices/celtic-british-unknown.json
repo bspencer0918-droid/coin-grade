@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 155,
-  "realized_count": 152,
+  "sale_count": 156,
+  "realized_count": 153,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,17 +17,17 @@
     "max": 371428.56
   },
   "median_price_usd": 180.0,
-  "last_sale_date": "2026-10-26",
+  "last_sale_date": "2026-11-08",
   "grade_distribution": {
     "MS": 61,
     "P": 24,
-    "AU": 25,
+    "AU": 26,
     "XF": 18,
     "VF": 23,
     "G": 2,
     "F": 2
   },
-  "thumbnail_url": "https://media.coinarchives.com/f35cc5eaf7523a091ed8d23a489c8aa7/img/heritage/61625/image22092.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/c246862f26ca6ba2454f63644379f6fc/img/heritage/61667/image23185.jpg",
   "median_weight_g": null,
   "top_strike_score": null,
   "top_surface_score": null,
@@ -2803,6 +2803,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-94f2780e1a17",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2836359&AucID=7412&Lot=23185&Val=fe091c515d719e1b8506d5d36b297a12",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61667, Lot 23185 \u2014 Ancients\nAllectus, Romano-British Empire (AD 293-296/297). AE antoninianus (23mm, 3.47 gm, 5h). NGC AU 4/5 - 2/5, bent, marks. London. IMP C ALLECTVS P F AVG, radiate, cuirassed bust of Allectus right",
+      "description": "Ancients\nAllectus, Romano-British Empire (AD 293-296/297). AE antoninianus (23mm, 3.47 gm, 5h). NGC AU 4/5 - 2/5, bent, marks. London. IMP C ALLECTVS P F AVG, radiate, cuirassed bust of Allectus right, seen from front / PA-X-AVG, Pax standing facing, head left, branch upward in right hand, grounded scepter in left; S-A across fields, MSL in exergue. RIC V.II 28.\n\nEx Pegasi Numismatics, private sale with dealer's tag included. \n\nAppointed treasurer under the emperor Carausius of the Romano-Brit...",
+      "hammer_price_usd": 160.0,
+      "currency_original": "USD",
+      "price_original": 160.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-08",
+      "image_url": "https://media.coinarchives.com/c246862f26ca6ba2454f63644379f6fc/img/heritage/61667/image23185.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

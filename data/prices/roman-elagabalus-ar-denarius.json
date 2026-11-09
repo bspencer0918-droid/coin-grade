@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 268,
-  "realized_count": 268,
+  "sale_count": 269,
+  "realized_count": 269,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,16 +17,16 @@
     "max": 14000.0
   },
   "median_price_usd": 150.0,
-  "last_sale_date": "2026-08-16",
+  "last_sale_date": "2026-11-08",
   "grade_distribution": {
     "G": 2,
+    "XF": 63,
     "AU": 154,
     "MS": 40,
-    "XF": 62,
     "VF": 9,
     "F": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/0354989f0b577fa7d51f9b1d5cf1efd0/img/heritage/61635/image23180.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/9c1d373dd6eab33492c3a50e8cb8a722/img/heritage/61667/image23149.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 3,
@@ -96,6 +96,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-8abb5deef9e6",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2836323&AucID=7412&Lot=23149&Val=c279717a4c694010e16ea3e1cae87652",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61667, Lot 23149 \u2014 Ancients\nGordian II Africanus (March-April AD 238). AR denarius (20mm, 3.06 gm, 5h). NGC Choice XF 5/5 - 4/5. Rome. IMP M ANT GORDIANVS AFR AVG, laureate, draped, and cuirassed bust of Gordian II righ",
+      "description": "Ancients\nGordian II Africanus (March-April AD 238). AR denarius (20mm, 3.06 gm, 5h). NGC Choice XF 5/5 - 4/5. Rome. IMP M ANT GORDIANVS AFR AVG, laureate, draped, and cuirassed bust of Gordian II right, seen from behind / VICTORIA AVGG, Victory advancing left, wreath in outstretched right hand, palm cradled in left arm. RIC IV.II 2. \n\nBorn around AD 192, Marcus Antonius Gordianus Sempronianus Romanus the Younger followed his father into the Roman Senate during the reign of Elagabalus (AD 218-2...",
+      "hammer_price_usd": 10500.0,
+      "currency_original": "USD",
+      "price_original": 10500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-08",
+      "image_url": "https://media.coinarchives.com/9c1d373dd6eab33492c3a50e8cb8a722/img/heritage/61667/image23149.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

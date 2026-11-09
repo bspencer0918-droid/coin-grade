@@ -8,18 +8,18 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 600,
-  "realized_count": 600,
+  "sale_count": 601,
+  "realized_count": 601,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 1.12,
     "max": 8500.0
   },
-  "median_price_usd": 142.0,
-  "last_sale_date": "2026-10-30",
+  "median_price_usd": 140.0,
+  "last_sale_date": "2026-11-08",
   "grade_distribution": {
-    "AU": 366,
+    "AU": 367,
     "G": 3,
     "MS": 124,
     "XF": 99,
@@ -312,6 +312,39 @@
       "buyers_premium_included": false,
       "sale_date": "2026-06-07",
       "image_url": "https://media.coinarchives.com/0b6cde076c4eaab893b5e1d530ff054b/img/heritage/61626/image23154.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-efa2f93b9deb",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2836309&AucID=7412&Lot=23135&Val=f9a49b58cdb5e065e92035468ca79639",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61667, Lot 23135 \u2014 Ancients\nSeverus Alexander, as Augustus (AD 222-235). AR denarius (20mm, 5h). NGC AU.  AD 225. IMP C M AVR SEV-ALEXANDER AVG, laureate, draped bust of Severus Alexander right / P M TR P-IIII COS P P, ",
+      "description": "Ancients\nSeverus Alexander, as Augustus (AD 222-235). AR denarius (20mm, 5h). NGC AU.  AD 225. IMP C M AVR SEV-ALEXANDER AVG, laureate, draped bust of Severus Alexander right / P M TR P-IIII COS P P, Mars, nude, advancing right, transverse spear in right hand, trophy over left shoulder. RIC IV.II 45.\n\nEx Heritage Auctions, Auction 232542 (15 October 2025), lot 63091.\n\nThe reign of Severus Alexander presents the last relatively tranquil interlude before the mid-third century storm swept away th...",
+      "hammer_price_usd": 120.0,
+      "currency_original": "USD",
+      "price_original": 120.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-08",
+      "image_url": "https://media.coinarchives.com/0e0ab1aa02ac1e15000bfb9aec954b80/img/heritage/61667/image23135.jpg",
       "ngc": {
         "verified": false,
         "cert_number": null,

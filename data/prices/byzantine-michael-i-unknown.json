@@ -19,8 +19,8 @@
   "median_price_usd": 156.0,
   "last_sale_date": "2026-10-30",
   "grade_distribution": {
-    "MS": 25,
     "VF": 78,
+    "MS": 25,
     "XF": 157,
     "AU": 70,
     "F": 2
@@ -29,45 +29,12 @@
   "median_weight_g": null,
   "top_strike_score": null,
   "top_surface_score": null,
-  "top_grade_numeric": 64,
+  "top_grade_numeric": null,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-7ecb0c117987",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/numisbalt/13807/romania/12241414/romania-20-lei-1944-romanian",
-      "title": "Romania 20 Lei 1944 Romanian Kings NGC MS 64 <br> Romania. Michael I (1940-1947). 20 Lei 1944, Romanian Kings. Gold 6.54 g. Fr. 21, X M13. NGC MS 64.",
-      "description": "Numisbalt | ['E-Live PREMIUM 42']",
-      "hammer_price_usd": 940.88,
-      "currency_original": "USD",
-      "price_original": 940.88,
-      "buyers_premium_included": false,
-      "sale_date": "2026-05-09",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 64,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "sixbid-d4e6096de5dc",
       "source": "sixbid",
@@ -86,6 +53,39 @@
         "cert_number": null,
         "grade": "VF",
         "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-7ecb0c117987",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/numisbalt/13807/romania/12241414/romania-20-lei-1944-romanian",
+      "title": "Romania 20 Lei 1944 Romanian Kings NGC MS 64 <br> Romania. Michael I (1940-1947). 20 Lei 1944, Romanian Kings. Gold 6.54 g. Fr. 21, X M13. NGC MS 64.",
+      "description": "Numisbalt | ['E-Live PREMIUM 42']",
+      "hammer_price_usd": 940.88,
+      "currency_original": "USD",
+      "price_original": 940.88,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-09",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 64,
         "strike_score": null,
         "surface_score": null,
         "details_grade": null,

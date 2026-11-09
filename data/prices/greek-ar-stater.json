@@ -17,11 +17,11 @@
     "max": 120000.0
   },
   "median_price_usd": 2280.0,
-  "last_sale_date": "2026-11-08",
+  "last_sale_date": "2026-11-09",
   "grade_distribution": {
     "XF": 504,
-    "MS": 168,
     "AU": 454,
+    "MS": 168,
     "VG": 11,
     "F": 46,
     "VF": 358,
@@ -50,7 +50,7 @@
       "currency_original": "USD",
       "price_original": 1000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-08",
+      "sale_date": "2026-11-09",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -83,7 +83,7 @@
       "currency_original": "USD",
       "price_original": 1500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-08",
+      "sale_date": "2026-11-09",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -116,7 +116,7 @@
       "currency_original": "USD",
       "price_original": 500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-08",
+      "sale_date": "2026-11-09",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -149,7 +149,7 @@
       "currency_original": "USD",
       "price_original": 400.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-08",
+      "sale_date": "2026-11-09",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -182,7 +182,7 @@
       "currency_original": "USD",
       "price_original": 700.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-08",
+      "sale_date": "2026-11-09",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -191,39 +191,6 @@
         "grade_numeric": null,
         "strike_score": 4,
         "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-16d4b479343f",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/daniel-frank-sedwick/14156/ancient-and-medieval/12575777/ancient-greek-cicilia-nagidus-ar",
-      "title": "ANCIENT GREEK, Cicilia, Nagidus, AR stater, ca. 400-333 BC, NGC MS / strike 4/5, surface 5/5. Lederer 25; SNG France 2, 21; BMC 12. 10.74 grams. Aphrodite enthroned left, wearing turreted crown, with phiale in outstretched right hand over lit garlanded altar; Cupid standing left behind crowning Aphrodite with wreath in raised right hand / NA\u0393I\u0394E\u03a9-N, Dionysus standing facing, head left, grape bunch, vine sprig and thyrsus in outstretched right hand, grounded scepter in left. Lovely, well centered, lustrous, and bright.",
-      "description": "Daniel Frank Sedwick | ['Auction 40']",
-      "hammer_price_usd": 2000.0,
-      "currency_original": "USD",
-      "price_original": 2000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-11-05",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 5,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
@@ -256,6 +223,39 @@
         "grade": "AU",
         "grade_numeric": null,
         "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-16d4b479343f",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/daniel-frank-sedwick/14156/ancient-and-medieval/12575777/ancient-greek-cicilia-nagidus-ar",
+      "title": "ANCIENT GREEK, Cicilia, Nagidus, AR stater, ca. 400-333 BC, NGC MS / strike 4/5, surface 5/5. Lederer 25; SNG France 2, 21; BMC 12. 10.74 grams. Aphrodite enthroned left, wearing turreted crown, with phiale in outstretched right hand over lit garlanded altar; Cupid standing left behind crowning Aphrodite with wreath in raised right hand / NA\u0393I\u0394E\u03a9-N, Dionysus standing facing, head left, grape bunch, vine sprig and thyrsus in outstretched right hand, grounded scepter in left. Lovely, well centered, lustrous, and bright.",
+      "description": "Daniel Frank Sedwick | ['Auction 40']",
+      "hammer_price_usd": 2000.0,
+      "currency_original": "USD",
+      "price_original": 2000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-05",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 4,
         "surface_score": 5,
         "details_grade": null,
         "fine_style": false,
@@ -809,7 +809,7 @@
       "currency_original": "USD",
       "price_original": 3000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-08",
+      "sale_date": "2026-11-09",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc117552a.jpg",
       "ngc": {
         "verified": false,

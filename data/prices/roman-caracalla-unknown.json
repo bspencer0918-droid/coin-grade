@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "silver",
-  "sale_count": 129,
-  "realized_count": 129,
+  "sale_count": 130,
+  "realized_count": 130,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,16 +17,16 @@
     "max": 4936.68
   },
   "median_price_usd": 180.0,
-  "last_sale_date": "2026-10-13",
+  "last_sale_date": "2026-11-08",
   "grade_distribution": {
-    "XF": 43,
+    "XF": 44,
     "AU": 28,
     "F": 17,
     "VF": 36,
     "MS": 4,
     "VG": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/7712365f118912e0b454545bc460a85b/img/heritage/61636/image21184.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/a87dcc798025dcbde4969d9614bb7398/img/heritage/61667/image23127.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -162,6 +162,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-d7b59276c20c",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2836301&AucID=7412&Lot=23127&Val=a32bac12f9166b876ef7ea220171d355",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61667, Lot 23127 \u2014 Ancients\nElagabalus (AD 218-222). AR antoninianus (23mm, 5.02 gm, 6h). NGC XF 5/5 - 3/5, brushed. Rome. IMP CAES M AVR ANTONINVS AVG, radiate, draped, and cuirassed bust of Elagabalus right, seen from",
+      "description": "Ancients\nElagabalus (AD 218-222). AR antoninianus (23mm, 5.02 gm, 6h). NGC XF 5/5 - 3/5, brushed. Rome. IMP CAES M AVR ANTONINVS AVG, radiate, draped, and cuirassed bust of Elagabalus right, seen from behind / VICTOR ANTONINI AVG, Victory advancing right, wreath in outstretched right hand, palm over left shoulder. RIC IV.II 155.\n\nEx Dr. Busso Peus Nachfolger, private sale with dealer's tag included. \n\nElagabalus, the posthumous nickname for Sextus Varius Avitus Bassianus, was emperor at fourte...",
+      "hammer_price_usd": 160.0,
+      "currency_original": "USD",
+      "price_original": 160.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-08",
+      "image_url": "https://media.coinarchives.com/a87dcc798025dcbde4969d9614bb7398/img/heritage/61667/image23127.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

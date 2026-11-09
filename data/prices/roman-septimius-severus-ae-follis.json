@@ -8,29 +8,63 @@
   "ruler_rarity": null,
   "denomination": "AE Follis",
   "metal": "bronze",
-  "sale_count": 1,
-  "realized_count": 1,
+  "sale_count": 2,
+  "realized_count": 2,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 300.0,
-    "max": 300.0
+    "max": 400.0
   },
-  "median_price_usd": 300.0,
-  "last_sale_date": "2026-08-16",
+  "median_price_usd": 350.0,
+  "last_sale_date": "2026-11-08",
   "grade_distribution": {
+    "AU": 1,
     "XF": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/ba25c2a7b4a535497671f8f6f45235ec/img/heritage/61625/image22119.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/4d25e84216d8a705414a09ce7b618f79/img/heritage/61667/image23193.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
-  "top_surface_score": 3,
+  "top_surface_score": 4,
   "top_grade_numeric": 5,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "coinarchives-d74305530e9c",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2836367&AucID=7412&Lot=23193&Val=14846ad4509a92b6f23020efca6cbc5a",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61667, Lot 23193 \u2014 Ancients\nSeverus II, as Caesar (AD 306-307). AE follis or BI nummus (27mm, 11.28 gm, 5h). NGC Choice AU 5/5 - 4/5, Silvering. Serdica, 1st officina. FL VAL SEVERVS NOB CAESAR, laureate head of Severus",
+      "description": "Ancients\nSeverus II, as Caesar (AD 306-307). AE follis or BI nummus (27mm, 11.28 gm, 5h). NGC Choice AU 5/5 - 4/5, Silvering. Serdica, 1st officina. FL VAL SEVERVS NOB CAESAR, laureate head of Severus II right / GENIO POPV-L-I ROMANI, Genius standing facing, head left, nude save for chlamys over left shoulder, patera in outstretched right hand, cornucopia cradled in left arm; A in right field, \u2022SM\u2022SD\u2022 in exergue. RIC VI 13a.  www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.ha.com/itm/an...",
+      "hammer_price_usd": 400.0,
+      "currency_original": "USD",
+      "price_original": 400.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-08",
+      "image_url": "https://media.coinarchives.com/4d25e84216d8a705414a09ce7b618f79/img/heritage/61667/image23193.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-f6e59e7ed57c",
       "source": "coinarchives",

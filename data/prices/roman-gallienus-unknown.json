@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "silver",
-  "sale_count": 326,
-  "realized_count": 326,
+  "sale_count": 328,
+  "realized_count": 328,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,15 +17,15 @@
     "max": 19000.0
   },
   "median_price_usd": 99.0,
-  "last_sale_date": "2026-10-15",
+  "last_sale_date": "2026-11-08",
   "grade_distribution": {
     "XF": 76,
     "VF": 47,
     "AU": 82,
     "F": 5,
-    "MS": 116
+    "MS": 118
   },
-  "thumbnail_url": "https://media.coinarchives.com/5b2be0db0a0012cd0b14074a33ff7ada/img/heritage/61659/image24051.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/a7df0e9d9138025b7d530a510745daeb/img/heritage/61667/image23167.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 4,
@@ -2339,6 +2339,72 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-67da416fb69e",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2836341&AucID=7412&Lot=23167&Val=5a08b259561674d3b7af44080d47b757",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61667, Lot 23167 \u2014 Ancients\nGallienus, Sole Reign (AD 253-268). BI antoninianus (20mm, 6h). NGC MS, Silvering. Antioch. GALLIENVS AVG, radiate, cuirassed bust of Gallienus right, seen from front / SOLI-I-NVICTO, Sol sta",
+      "description": "Ancients\nGallienus, Sole Reign (AD 253-268). BI antoninianus (20mm, 6h). NGC MS, Silvering. Antioch. GALLIENVS AVG, radiate, cuirassed bust of Gallienus right, seen from front / SOLI-I-NVICTO, Sol standing facing, radiate head left, draped, right hand raised in gesture of adlocutio, globe in outstretched left hand; PXV in exergue. RIC V.I 611 (Asia).\n\nEx Heritage Auctions, Auction 232335 (30 August 2023), lot 65130.\n\nPublius Licinius Egnatius Gallienus proudly holds the title of longest ruling...",
+      "hammer_price_usd": 200.0,
+      "currency_original": "USD",
+      "price_original": 200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-08",
+      "image_url": "https://media.coinarchives.com/a7df0e9d9138025b7d530a510745daeb/img/heritage/61667/image23167.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-8ac849bd3671",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2836342&AucID=7412&Lot=23168&Val=dea81d4c00183a14f27adaedb57a1144",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61667, Lot 23168 \u2014 Ancients\nGallienus, Sole Reign (AD 253-268). BI antoninianus (22mm, 5h). NGC MS, Silvering. Rome, 2nd officina. GALLIENVS AVG, radiate head of Gallienus right / LIBERO P CONS AVG, panther advancing le",
+      "description": "Ancients\nGallienus, Sole Reign (AD 253-268). BI antoninianus (22mm, 5h). NGC MS, Silvering. Rome, 2nd officina. GALLIENVS AVG, radiate head of Gallienus right / LIBERO P CONS AVG, panther advancing left; B in exergue. RIC V.I 229 var. (obverse legend), 230 var. (bust type).\n\nPublius Licinius Egnatius Gallienus proudly holds the title of longest ruling emperor during the Crisis of the Third Century. In a time of chaos and the potential collapse of the Empire as a whole, Gallienus stands out as ...",
+      "hammer_price_usd": 190.0,
+      "currency_original": "USD",
+      "price_original": 190.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-08",
+      "image_url": "https://media.coinarchives.com/c1a403c341ffe4699fc15e791b09105b/img/heritage/61667/image23168.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
