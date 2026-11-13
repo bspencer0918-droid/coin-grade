@@ -19,53 +19,20 @@
   "median_price_usd": 468.4,
   "last_sale_date": "2026-10-13",
   "grade_distribution": {
-    "XF": 8,
     "VF": 12,
+    "XF": 8,
     "F": 6
   },
   "thumbnail_url": "https://media.coinarchives.com/769137034b428b48550e45dcbe275ee3/img/heritage/61635/image23033.jpg",
   "median_weight_g": null,
-  "top_strike_score": 4,
-  "top_surface_score": 4,
-  "top_grade_numeric": 4,
+  "top_strike_score": 3,
+  "top_surface_score": 3,
+  "top_grade_numeric": 3,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-bdb811dadb22",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13696/empire-romain-roman/12114832/empire-romain-romanvespasien-69-79",
-      "title": "EMPIRE ROMAIN - ROMAN<br>Vespasien (69-79). Dupondius ND (74), Rome.<br>Av. IMP CAES VESP AVG P M T P COS VI. Buste \u00e0 droite, la t\u00eate radi\u00e9e, de Vespasien. <br>Rv. FELICIT-AS - PVBLICA. La F\u00e9licit\u00e9 \u00e0 gauche tenant un caduc\u00e9e et une corne d\u2019abondance.<br>RIC.567 ; Bronze - 13,33 g - 28 mm - 6 h<br>Provient d\u2019une vente Lanz Graz 4, 23 novembre 1974, n\u00b0 150.<br>NGC XF 4/5 4/5 (6648399-004). <br>La frappe l\u00e9g\u00e8rement d\u00e9centr\u00e9e au revers et \u00e0 peine au droit. Belle patine marron avec un joli buste. Presque Superbe.<br> <br> NGC XF 4/5 4/5",
-      "description": "MDC Monaco | ['Auction 18']",
-      "hammer_price_usd": 581.4,
-      "currency_original": "USD",
-      "price_original": 581.4,
-      "buyers_premium_included": false,
-      "sale_date": "2026-05-13",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "6648399-004",
-        "grade": "XF",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/6648399004/",
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "sixbid-2071499f07eb",
       "source": "sixbid",
@@ -126,6 +93,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-bdb811dadb22",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13696/empire-romain-roman/12114832/empire-romain-romanvespasien-69-79",
+      "title": "EMPIRE ROMAIN - ROMAN<br>Vespasien (69-79). Dupondius ND (74), Rome.<br>Av. IMP CAES VESP AVG P M T P COS VI. Buste \u00e0 droite, la t\u00eate radi\u00e9e, de Vespasien. <br>Rv. FELICIT-AS - PVBLICA. La F\u00e9licit\u00e9 \u00e0 gauche tenant un caduc\u00e9e et une corne d\u2019abondance.<br>RIC.567 ; Bronze - 13,33 g - 28 mm - 6 h<br>Provient d\u2019une vente Lanz Graz 4, 23 novembre 1974, n\u00b0 150.<br>NGC XF 4/5 4/5 (6648399-004). <br>La frappe l\u00e9g\u00e8rement d\u00e9centr\u00e9e au revers et \u00e0 peine au droit. Belle patine marron avec un joli buste. Presque Superbe.<br> <br> NGC XF 4/5 4/5",
+      "description": "MDC Monaco | ['Auction 18']",
+      "hammer_price_usd": 581.4,
+      "currency_original": "USD",
+      "price_original": 581.4,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "6648399-004",
+        "grade": "XF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/6648399004/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

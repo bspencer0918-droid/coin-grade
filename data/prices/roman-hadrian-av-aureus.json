@@ -20,8 +20,8 @@
   "last_sale_date": "2026-10-13",
   "grade_distribution": {
     "VF": 67,
-    "AU": 24,
     "P": 2,
+    "AU": 24,
     "XF": 30,
     "F": 17,
     "MS": 3
@@ -59,39 +59,6 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-4dde1a4ec33e",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13696/empire-romain-roman/12114833/empire-romain-romanhadrien-117-138",
-      "title": "EMPIRE ROMAIN - ROMAN<br>Hadrien (117-138). Aureus ND (125-128), Rome.<br>Av. HADRIANVS - AVGVSTVS. Buste laur\u00e9 \u00e0 droite avec un manteau sur l\u2019\u00e9paule gauche. <br>Rv. COS III. Hadrien \u00e0 cheval \u00e0 droite, saluant de la main droite.<br>Calic\u00f3 1215 - RIC.186d ; Or - 7,29 g - 19,5 mm - 6 h<br>NGC AU 5/5 2/5 Fine Style marks brushed (8585316-002). <br>Griffures sur le buste. De minimes marques sur les listels. Avec une patine dor\u00e9e. Superbe.<br> <br> NGC AU 5/5 2/5 Fine Style marks brushed <br> https://d10dakqizeg4uw.cloudfront.net/VAE18/00219.MP4",
-      "description": "MDC Monaco | ['Auction 18']",
-      "hammer_price_usd": 12790.8,
-      "currency_original": "USD",
-      "price_original": 12790.8,
-      "buyers_premium_included": false,
-      "sale_date": "2026-05-13",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": "8585316-002",
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "fine_style": true,
-        "certification_url": "https://www.ngccoin.com/certlookup/8585316002/",
         "grading_service": "ngc"
       },
       "metadata": {
@@ -195,6 +162,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-4dde1a4ec33e",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/mdc-monaco/13696/empire-romain-roman/12114833/empire-romain-romanhadrien-117-138",
+      "title": "EMPIRE ROMAIN - ROMAN<br>Hadrien (117-138). Aureus ND (125-128), Rome.<br>Av. HADRIANVS - AVGVSTVS. Buste laur\u00e9 \u00e0 droite avec un manteau sur l\u2019\u00e9paule gauche. <br>Rv. COS III. Hadrien \u00e0 cheval \u00e0 droite, saluant de la main droite.<br>Calic\u00f3 1215 - RIC.186d ; Or - 7,29 g - 19,5 mm - 6 h<br>NGC AU 5/5 2/5 Fine Style marks brushed (8585316-002). <br>Griffures sur le buste. De minimes marques sur les listels. Avec une patine dor\u00e9e. Superbe.<br> <br> NGC AU 5/5 2/5 Fine Style marks brushed <br> https://d10dakqizeg4uw.cloudfront.net/VAE18/00219.MP4",
+      "description": "MDC Monaco | ['Auction 18']",
+      "hammer_price_usd": 12790.8,
+      "currency_original": "USD",
+      "price_original": 12790.8,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-13",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8585316-002",
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": "https://www.ngccoin.com/certlookup/8585316002/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 510,
-  "realized_count": 510,
+  "sale_count": 511,
+  "realized_count": 511,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,10 +17,10 @@
     "max": 3840.0
   },
   "median_price_usd": 169.0,
-  "last_sale_date": "2026-07-28",
+  "last_sale_date": "2026-11-08",
   "grade_distribution": {
+    "XF": 184,
     "MS": 53,
-    "XF": 183,
     "VF": 37,
     "AU": 236,
     "F": 1
@@ -35,6 +35,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-ce0deab135be",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/14175/ancients-roman-imperial/12586817/diadumenian-as-caesar-ad-218",
+      "title": "Diadumenian, as Caesar (AD 218). AR denarius (20mm, 3.32 gm, 1h). NGC Choice XF 5/5 - 4/5. Rome, 218 AD. M OPEL ANT DIADVMENIAN CAES, bare headed, draped, and cuirassed bust of Diadumenian right, seen from front / PRINC IVVENTVTIS, Diadumenian standing facing, head right, grounded standard in right hand, transverse scepter in left; two standards in right field. RIC IV.II (Macrinus) 102.  Diadumenian was a short-lived Roman emperor born in AD 208, the son of Emperor Macrinus. In AD 217, after Macrinus seized power following the assassination of Emperor Caracalla, Diadumenian was given the title of Caesar and later elevated to co-Augustus while still a child. His reign was brief and unstable, as their rule faced strong opposition from supporters of the Severan dynasty. After the rise of Elagabalus, Macrinus was defeated in AD 218, and Diadumenian was captured while attempting to flee to Parthia. He was executed soon after, at just ten years old, ending one of the shortest reigns in Roman imperial history.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61667']",
+      "hammer_price_usd": 1189.0,
+      "currency_original": "USD",
+      "price_original": 1189.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-08",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-13bd2e78f5eb",
       "source": "coinarchives",
