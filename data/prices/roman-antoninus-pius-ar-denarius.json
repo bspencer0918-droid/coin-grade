@@ -301,39 +301,6 @@
       }
     },
     {
-      "id": "sixbid-045fb6f6141a",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/stephen-album-rare-coins/13789/ancient-roman-amp-byzantine/12229029/roman-empire-antoninus-pius-138-161",
-      "title": "ROMAN EMPIRE: Antoninus Pius, 138-161 AD, AR denarius (2.95g), Rome, 148-149 AD, RIC-175, laureate head right, ANTONINVS AVG PIVS P P TR P XII // Annona standing left, holding two corn-ears in right hand over modius with corn-ears and holding grounded anchor in left hand, COS IIII, Strike 5/5, Surface 3/5, NGC graded VF, ex Dr. Vincent John Adams Flynn Collection.",
-      "description": "Stephen Album Rare Coins | ['Auction 55']",
-      "hammer_price_usd": 85.0,
-      "currency_original": "USD",
-      "price_original": 85.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-05-14",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "G",
-        "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-9a9dd04f0272",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -459,6 +426,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-045fb6f6141a",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stephen-album-rare-coins/13789/ancient-roman-amp-byzantine/12229029/roman-empire-antoninus-pius-138-161",
+      "title": "ROMAN EMPIRE: Antoninus Pius, 138-161 AD, AR denarius (2.95g), Rome, 148-149 AD, RIC-175, laureate head right, ANTONINVS AVG PIVS P P TR P XII // Annona standing left, holding two corn-ears in right hand over modius with corn-ears and holding grounded anchor in left hand, COS IIII, Strike 5/5, Surface 3/5, NGC graded VF, ex Dr. Vincent John Adams Flynn Collection.",
+      "description": "Stephen Album Rare Coins | ['Auction 55']",
+      "hammer_price_usd": 85.0,
+      "currency_original": "USD",
+      "price_original": 85.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-14",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
