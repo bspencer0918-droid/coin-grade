@@ -8,18 +8,18 @@
   "ruler_rarity": null,
   "denomination": "AE Nummus",
   "metal": "bronze",
-  "sale_count": 8,
-  "realized_count": 8,
+  "sale_count": 9,
+  "realized_count": 9,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 45.0,
     "max": 228.0
   },
-  "median_price_usd": 70.5,
+  "median_price_usd": 74.0,
   "last_sale_date": "2026-09-20",
   "grade_distribution": {
-    "XF": 1,
+    "XF": 2,
     "AU": 7
   },
   "thumbnail_url": "https://media.coinarchives.com/7f311d5a837250d12e0e0250e7b7bd82/img/heritage/61638/image21236.jpg",
@@ -32,6 +32,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-ff336d0d7677",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/14033/ancients-roman-imperial/12450955/valens-eastern-roman-empire-ad",
+      "title": "Valens, Eastern Roman Empire (AD 364-378). AE3 or nummus (19mm, 3.08 gm, 7h). NGC Choice XF 3/5 - 3/5, scratches. Sirmium, 2nd officina, AD 364. D N VALEN-S P F AVG, pearl-diademed, draped, and cuirassed bust of Valens right / RESTITV-TOR REIP, emperor standing facing, head right, Victory on globe left in outstretched left hand, grounded scepter in right hand; BSIRM in exergue. RIC IX 6b2.  From the Dr. Charles Jay Deur Collection, for the charitable benefit of Calvin University and Peace Lutheran Church of Hurst. Ex Harlan J. Berk, private sale with dealer's tag included.    HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61638']",
+      "hammer_price_usd": 74.0,
+      "currency_original": "USD",
+      "price_original": 74.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-20",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 3,
+        "strike_score": 3,
+        "surface_score": 3,
+        "details_grade": "Scratche",
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-4ba954cbb65b",
       "source": "coinarchives",

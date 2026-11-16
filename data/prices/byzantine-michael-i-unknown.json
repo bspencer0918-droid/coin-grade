@@ -7,9 +7,9 @@
   "ruler_dates": "AD 811\u2013813",
   "ruler_rarity": "scarce",
   "denomination": "Unknown",
-  "metal": "gold",
-  "sale_count": 332,
-  "realized_count": 332,
+  "metal": "unknown",
+  "sale_count": 334,
+  "realized_count": 334,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,10 +17,10 @@
     "max": 1320.0
   },
   "median_price_usd": 156.0,
-  "last_sale_date": "2026-10-30",
+  "last_sale_date": "2026-11-15",
   "grade_distribution": {
+    "MS": 27,
     "VF": 78,
-    "MS": 25,
     "XF": 157,
     "AU": 70,
     "F": 2
@@ -29,12 +29,78 @@
   "median_weight_g": null,
   "top_strike_score": null,
   "top_surface_score": null,
-  "top_grade_numeric": null,
+  "top_grade_numeric": 64,
   "dominant_service": "ngc",
   "series": null,
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-6ec290b78402",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/chaponniere-et-firmenich/14201/romania/12604095/romania-michael-i-1940-1947-20",
+      "title": "ROMANIA. Michael I, 1940-1947. 20 Lei 1944, Bucharest. KM XM13; Fr. 21. AU. 6.55 g. NGC MS 64. (6860843-011)",
+      "description": "Chaponni\u00e8re & Firmenich SA | ['Auction 21']",
+      "hammer_price_usd": 674.45,
+      "currency_original": "USD",
+      "price_original": 674.4504,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-15",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "6860843-011",
+        "grade": "MS",
+        "grade_numeric": 64,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/6860843011/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-58bf3b954edc",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/chaponniere-et-firmenich/14201/romania/12604096/romania-michael-i-1940-1947-20",
+      "title": "ROMANIA. Michael I, 1940-1947. 20 Lei 1944, Bucharest. KM XM13; Fr. 21. AU. 6.55 g. NGC MS 62. (6860843-003)",
+      "description": "Chaponni\u00e8re & Firmenich SA | ['Auction 21']",
+      "hammer_price_usd": 674.45,
+      "currency_original": "USD",
+      "price_original": 674.4504,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-15",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "6860843-003",
+        "grade": "MS",
+        "grade_numeric": 62,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/6860843003/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-d4e6096de5dc",
       "source": "sixbid",
