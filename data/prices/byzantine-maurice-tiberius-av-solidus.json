@@ -19,8 +19,8 @@
   "median_price_usd": 576.0,
   "last_sale_date": "2026-10-12",
   "grade_distribution": {
-    "MS": 273,
     "AU": 192,
+    "MS": 273,
     "XF": 34,
     "VF": 8,
     "G": 1,
@@ -36,72 +36,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "sixbid-65383a2cb017",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/14067/ancients-byzantine/12477757/ancients-maurice-tiberius-ad",
-      "title": "Ancients <br> Maurice Tiberius (AD 582-602). AV solidus (22mm, 4.48 gm, 7h). NGC MS 4/5 - 5/5. Constantinople, 1st officina. d N mAVRC-TIb PP AVG, draped and cuirassed bust of Maurice Tiberius facing, wearing plumed helmet with diadem and pendilia, globus cruciger in right hand / VICTORI-A AVGG A, angel standing facing, staff surmounted by staurogram in right hand, globus cruciger in left; CONOB in exergue. Sear 478.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
-      "description": "Heritage Auctions, Inc. | ['Auction #61662']",
-      "hammer_price_usd": 1647.0,
-      "currency_original": "USD",
-      "price_original": 1647.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-10-12",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 5,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "sixbid-21e420405941",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/14067/ancients-byzantine/12477758/ancients-maurice-tiberius-ad",
-      "title": "Ancients <br> Maurice Tiberius (AD 582-602). AV solidus (21mm, 4.40 gm, 7h). NGC MS 5/5 - 2/5, edge bend, clipped. Constantinople, 4th officina, AD 583-584. d N mAVRC-TIb P P AVG, draped and cuirassed bust of Maurice Tiberius facing, wearing plumed helmet with diadem and pendilia, globus cruciger in right hand / VICTORI-A AVGG \u0394, angel standing facing, staff surmounted by staurogram in right hand, globus cruciger in left; CONOB in exergue. Sear 478.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
-      "description": "Heritage Auctions, Inc. | ['Auction #61662']",
-      "hammer_price_usd": 1159.0,
-      "currency_original": "USD",
-      "price_original": 1159.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-10-12",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": "Clipped",
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "sixbid-f4d72d275835",
       "source": "sixbid",
@@ -228,6 +162,72 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-65383a2cb017",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/14067/ancients-byzantine/12477757/ancients-maurice-tiberius-ad",
+      "title": "Ancients <br> Maurice Tiberius (AD 582-602). AV solidus (22mm, 4.48 gm, 7h). NGC MS 4/5 - 5/5. Constantinople, 1st officina. d N mAVRC-TIb PP AVG, draped and cuirassed bust of Maurice Tiberius facing, wearing plumed helmet with diadem and pendilia, globus cruciger in right hand / VICTORI-A AVGG A, angel standing facing, staff surmounted by staurogram in right hand, globus cruciger in left; CONOB in exergue. Sear 478.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61662']",
+      "hammer_price_usd": 1647.0,
+      "currency_original": "USD",
+      "price_original": 1647.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-12",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-21e420405941",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/14067/ancients-byzantine/12477758/ancients-maurice-tiberius-ad",
+      "title": "Ancients <br> Maurice Tiberius (AD 582-602). AV solidus (21mm, 4.40 gm, 7h). NGC MS 5/5 - 2/5, edge bend, clipped. Constantinople, 4th officina, AD 583-584. d N mAVRC-TIb P P AVG, draped and cuirassed bust of Maurice Tiberius facing, wearing plumed helmet with diadem and pendilia, globus cruciger in right hand / VICTORI-A AVGG \u0394, angel standing facing, staff surmounted by staurogram in right hand, globus cruciger in left; CONOB in exergue. Sear 478.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61662']",
+      "hammer_price_usd": 1159.0,
+      "currency_original": "USD",
+      "price_original": 1159.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-10-12",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": "Clipped",
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

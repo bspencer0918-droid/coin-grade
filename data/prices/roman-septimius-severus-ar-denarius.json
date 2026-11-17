@@ -8,22 +8,22 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 445,
-  "realized_count": 445,
+  "sale_count": 447,
+  "realized_count": 447,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 51.0,
+    "min": 1.0,
     "max": 14400.0
   },
   "median_price_usd": 149.0,
-  "last_sale_date": "2026-07-28",
+  "last_sale_date": "2026-11-16",
   "grade_distribution": {
-    "XF": 176,
+    "XF": 177,
+    "VF": 58,
     "AU": 162,
     "MS": 41,
     "G": 1,
-    "VF": 57,
     "F": 8
   },
   "thumbnail_url": "https://media.coinarchives.com/918e05c1af1d656eb20eb2775209f83c/img/heritage/61635/image23153.jpg",
@@ -36,6 +36,72 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-5cb495537d32",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/14200/ancients-roman-imperial/12602991/ancients-septimius-severus-ad",
+      "title": "Ancients <br> Septimius Severus (AD 193-211). AR denarius (20mm, 12h). NGC XF, brushed. Rome, AD 198-202. SEVERVS-PIVS AVG, laureate head of Septimius Severus right / VOTA SVS-CEPTA XX, Septimius Severus, togate and veiled, standing facing, head left, patera in outstretched right hand over lit tripod at feet before. RIC IV.I 308.  From the Khanum Jan Collection.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61670']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-505ee8f5c84b",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/14200/ancients-roman-imperial/12602994/ancients-septimius-severus-ad",
+      "title": "Ancients <br> Septimius Severus (AD 193-211). AR denarius (17mm, 5h). NGC Choice VF, brushed. Rome, AD 197-198. L SEPT SEV PERT-AVG IMP X, laureate head of Septimius Severus right / VICT AVG-G-COS II P P, Victory advancing left, wreath raised in right hand, palm branch cradled in left. RIC IV.I 120c.  From the Khanum Jan Collection.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61670']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-fdff7d3b2987",
       "source": "coinarchives",
