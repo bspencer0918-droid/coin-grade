@@ -17,7 +17,7 @@
     "max": 720000.0
   },
   "median_price_usd": 264.0,
-  "last_sale_date": "2026-11-17",
+  "last_sale_date": "2026-11-18",
   "grade_distribution": {
     "XF": 1775,
     "MS": 365,
@@ -50,7 +50,7 @@
       "currency_original": "USD",
       "price_original": 950.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-17",
+      "sale_date": "2026-11-18",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -83,7 +83,7 @@
       "currency_original": "USD",
       "price_original": 1800.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-17",
+      "sale_date": "2026-11-18",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -116,7 +116,7 @@
       "currency_original": "USD",
       "price_original": 325.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-17",
+      "sale_date": "2026-11-18",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -149,7 +149,7 @@
       "currency_original": "USD",
       "price_original": 9500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-17",
+      "sale_date": "2026-11-18",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -182,7 +182,7 @@
       "currency_original": "USD",
       "price_original": 3500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-17",
+      "sale_date": "2026-11-18",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -215,7 +215,7 @@
       "currency_original": "USD",
       "price_original": 1100.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-17",
+      "sale_date": "2026-11-18",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -248,7 +248,7 @@
       "currency_original": "USD",
       "price_original": 950.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-17",
+      "sale_date": "2026-11-18",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -281,7 +281,7 @@
       "currency_original": "USD",
       "price_original": 650.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-17",
+      "sale_date": "2026-11-18",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -2591,7 +2591,7 @@
       "currency_original": "USD",
       "price_original": 2250.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-17",
+      "sale_date": "2026-11-18",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc108783a.jpg",
       "ngc": {
         "verified": false,
@@ -2624,7 +2624,7 @@
       "currency_original": "USD",
       "price_original": 1800.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-17",
+      "sale_date": "2026-11-18",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc107402a.jpg",
       "ngc": {
         "verified": false,
@@ -3274,6 +3274,39 @@
       }
     },
     {
+      "id": "coinarchives-05ae1e0e5ce7",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2761528&AucID=7149&Lot=25031&Val=b4010a98cc62ae43c7bbb04d3b042287",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61628, Lot 25031 \u2014 Ancients\nQ. Fabius Maximus (ca. 125 BC). AR denarius (18mm, 3.75 gm, 4h). NGC VF 4/5 - 3/5, ink number. Rome. Q\u2022MAX-ROMA, head of Roma right, wearing pendant earring, beaded necklace, and winged helme",
+      "description": "Ancients\nQ. Fabius Maximus (ca. 125 BC). AR denarius (18mm, 3.75 gm, 4h). NGC VF 4/5 - 3/5, ink number. Rome. Q\u2022MAX-ROMA, head of Roma right, wearing pendant earring, beaded necklace, and winged helmet decorated with griffin crest; barred XI (mark of value) below chin / Cornucopia, containing pyramidal cakes, pomegranates and other fruits, and grape cluster hanging on either side; horizontal winged thunderbolt behind. Crawford 265/1. Sydenham 478. Fabia 5. Golden, iridescent toning with a coll...",
+      "hammer_price_usd": 420.0,
+      "currency_original": "USD",
+      "price_original": 420.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-14",
+      "image_url": "https://media.coinarchives.com/4644b88ac90759f5f4337dcd3a5f1b97/img/heritage/61628/image25031.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 4,
+        "strike_score": 4,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-e9c55b3ef469",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -3703,39 +3736,6 @@
       }
     },
     {
-      "id": "coinarchives-05ae1e0e5ce7",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2761528&AucID=7149&Lot=25031&Val=b4010a98cc62ae43c7bbb04d3b042287",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61628, Lot 25031 \u2014 Ancients\nQ. Fabius Maximus (ca. 125 BC). AR denarius (18mm, 3.75 gm, 4h). NGC VF 4/5 - 3/5, ink number. Rome. Q\u2022MAX-ROMA, head of Roma right, wearing pendant earring, beaded necklace, and winged helme",
-      "description": "Ancients\nQ. Fabius Maximus (ca. 125 BC). AR denarius (18mm, 3.75 gm, 4h). NGC VF 4/5 - 3/5, ink number. Rome. Q\u2022MAX-ROMA, head of Roma right, wearing pendant earring, beaded necklace, and winged helmet decorated with griffin crest; barred XI (mark of value) below chin / Cornucopia, containing pyramidal cakes, pomegranates and other fruits, and grape cluster hanging on either side; horizontal winged thunderbolt behind. Crawford 265/1. Sydenham 478. Fabia 5. Golden, iridescent toning with a coll...",
-      "hammer_price_usd": 420.0,
-      "currency_original": "USD",
-      "price_original": 420.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-06-14",
-      "image_url": "https://media.coinarchives.com/4644b88ac90759f5f4337dcd3a5f1b97/img/heritage/61628/image25031.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "VF",
-        "grade_numeric": 4,
-        "strike_score": 4,
-        "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-d928cd043c06",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -3755,6 +3755,39 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-a5ac3dddc816",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2761530&AucID=7149&Lot=25033&Val=565795d26f6a6259d032efff331d7582",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61628, Lot 25033 \u2014 Ancients\nM. Sergius Silus (116-115 BC). AR denarius (18mm, 3.87 gm, 5h). NGC Choice XF 5/5 - 2/5. Rome. EX\u2022S\u2022C-ROMA Head of Roma right, wearing pendant earring, beaded necklace, and winged helmet surm",
+      "description": "Ancients\nM. Sergius Silus (116-115 BC). AR denarius (18mm, 3.87 gm, 5h). NGC Choice XF 5/5 - 2/5. Rome. EX\u2022S\u2022C-ROMA Head of Roma right, wearing pendant earring, beaded necklace, and winged helmet surmounted by griffin crest; barred X (mark of value) behind / M\u2022SERGI / SILVS, grandfather of M. Sergius Silus (Praetor, 197 BC) on horseback galloping left, shield on right arm, sword and severed head in outstretched left; Q below. Crawford 286/1. Sydenham 544. RSC Sergia 1.\n\nFrom the Eyeappealing C...",
+      "hammer_price_usd": 420.0,
+      "currency_original": "USD",
+      "price_original": 420.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-14",
+      "image_url": "https://media.coinarchives.com/4a4d4f501206efe943aff0bf8b01ed22/img/heritage/61628/image25033.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 2,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
@@ -8472,39 +8505,6 @@
         "cert_number": null,
         "grade": "XF",
         "grade_numeric": null,
-        "strike_score": 5,
-        "surface_score": 2,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-a5ac3dddc816",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2761530&AucID=7149&Lot=25033&Val=565795d26f6a6259d032efff331d7582",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61628, Lot 25033 \u2014 Ancients\nM. Sergius Silus (116-115 BC). AR denarius (18mm, 3.87 gm, 5h). NGC Choice XF 5/5 - 2/5. Rome. EX\u2022S\u2022C-ROMA Head of Roma right, wearing pendant earring, beaded necklace, and winged helmet surm",
-      "description": "Ancients\nM. Sergius Silus (116-115 BC). AR denarius (18mm, 3.87 gm, 5h). NGC Choice XF 5/5 - 2/5. Rome. EX\u2022S\u2022C-ROMA Head of Roma right, wearing pendant earring, beaded necklace, and winged helmet surmounted by griffin crest; barred X (mark of value) behind / M\u2022SERGI / SILVS, grandfather of M. Sergius Silus (Praetor, 197 BC) on horseback galloping left, shield on right arm, sword and severed head in outstretched left; Q below. Crawford 286/1. Sydenham 544. RSC Sergia 1.\n\nFrom the Eyeappealing C...",
-      "hammer_price_usd": 420.0,
-      "currency_original": "USD",
-      "price_original": 420.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-06-14",
-      "image_url": "https://media.coinarchives.com/4a4d4f501206efe943aff0bf8b01ed22/img/heritage/61628/image25033.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 2,
         "details_grade": null,

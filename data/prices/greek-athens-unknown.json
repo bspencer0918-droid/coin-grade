@@ -8,19 +8,19 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "gold",
-  "sale_count": 29,
-  "realized_count": 29,
+  "sale_count": 30,
+  "realized_count": 30,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 84.0,
     "max": 240000.0
   },
-  "median_price_usd": 5500.0,
-  "last_sale_date": "2026-09-08",
+  "median_price_usd": 12250.0,
+  "last_sale_date": "2026-11-16",
   "grade_distribution": {
+    "AU": 6,
     "XF": 6,
-    "AU": 5,
     "VF": 14,
     "MS": 2,
     "F": 2
@@ -35,6 +35,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-43c988fc3890",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/numismatica-genevensis-sa/14165/greek-world/12584091/macedonian-kingdom-alexander-iii",
+      "title": "Macedonian Kingdom <br> Alexander III \"the Great\", 336-323 BC. <br> Distater circa 330-320 BC, Amphipolis. Head of Athena right, wearing Corinthian helmet decorated with snake / Nike standing left, holding wreath and stylis. Thunderbolt in left field. 17,21g. HGC 3.1 892a; M\u00fcller 1; Price 163. <br> NGC Ch AU 5/5 3/5 fine Style, brushed. <br> (2190469-001). <br> A splendid specimen. <br> Provenance: <br> Rauch 89 (5 December 2011), 1080.<br>NGSA 7 (27 November 2012), 173.<br>NGSA 10 (3 December 2018), 13. <br> Alexander\u2019s distater coinage provides a lasting testament to the extraordinary quantities of precious metal seized during his campaigns in the Persian Empire. Alexander is said to have taken possession of some 180,000 talents of gold and silver, amounting to several hundred tons of precious metal. The scale of this booty was unprecedented in the ancient world and would not be matched on a comparable scale until the discovery and exploitation of the riches of the Americas. The exceptional weight of the distater made it particularly well suited to large-scale payments, especially for rewarding veteran soldiers after long periods of service. This distater therefore stands as a tangible witness to the sudden influx of wealth that swept through the Greek world following the fall of Darius III.",
+      "description": "Numismatica Genevensis SA | ['Auction 26']",
+      "hammer_price_usd": 61313.67,
+      "currency_original": "USD",
+      "price_original": 61313.67,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "2190469-001",
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": "https://www.ngccoin.com/certlookup/2190469001/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-d5bc4275cb77",
       "source": "coinarchives",

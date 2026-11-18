@@ -8,20 +8,20 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 531,
-  "realized_count": 531,
+  "sale_count": 533,
+  "realized_count": 533,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 103.0,
-    "max": 20400.0
+    "max": 122627.34
   },
   "median_price_usd": 600.0,
-  "last_sale_date": "2026-11-05",
+  "last_sale_date": "2026-11-16",
   "grade_distribution": {
+    "AU": 63,
     "XF": 103,
     "VF": 200,
-    "AU": 61,
     "F": 108,
     "MS": 7,
     "VG": 39,
@@ -38,6 +38,72 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-4747cbe38f35",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/numismatica-genevensis-sa/14165/roman-world/12584141/roman-republic-quintus-labienus",
+      "title": "Roman Republic <br> Quintus Labienus Parthicus. <br> Denarius circa 40 BC, mint moving in Asia Minor. Q LABIENVS - PARTHICVS IMP Bare head right / Parthian horse right, with bridle and saddle to which bow case and quiver are attached. 3,82g. Babelon Atia 3; Cohen 2; Crawford 524/2; Sear Imperators 341; Sydenham 1357. <br> NGC Ch AU 5/5 4/5. <br> (8808102-006). <br> A very rare coin from the late Roman Republic. Extremely fine. <br> Provenance: <br> Superior Galleries (8-9 December 1995), 871. <br>Aureo & Calic\u00f3 339 (14 November 2019), 1075. <br> This exceptionally rare denarius was issued by Quintus Labienus, the son of Titus Labienus, a former commander of Caesar who later joined Pompey. Quintus sided with Brutus and Cassius and was sent to the Parthian court in 43\u201342 BC to secure military support for their cause. After the Republicans were defeated at Philippi, Labienus remained in Parthia and entered the service of King Orodes II. In 40 BC, he returned to the Roman East alongside Pacorus, the son of the Parthian king, commanding a large force of Parthian cavalry. Their invasion of Syria and Asia Minor initially met with considerable success, but Mark Antony eventually dispatched Ventidius Bassus with eleven legions to recover the lost territories. Labienus was defeated and killed in 39 BC. This victory was celebrated by the Romans as a form of rightful revenge for the defeat at Carrhae in 53 BC, where the immensely wealthy Marcus Licinius Crassus had been killed.<br>This coin is remarkable for its deliberate combination of Roman and Parthian imagery. Labienus places his own portrait and name on the obverse, while adopting the title Parthicus to emphasize his role in transforming the Parthians from Rome's traditional enemies into allies of the Republican cause. On the reverse, a fully equipped cavalry horse evokes the formidable Parthian mounted warriors who had supported his campaign. The denarius therefore reflects Labienus' unique political position, presenting a Roman claimant whose power depended upon Parthian military backing. This coin, at the crossroads of Roman and Parthian cultures, served as a powerful instrument of propaganda for Labienus.",
+      "description": "Numismatica Genevensis SA | ['Auction 26']",
+      "hammer_price_usd": 122627.34,
+      "currency_original": "USD",
+      "price_original": 122627.34,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8808102-006",
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8808102006/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-c653931b1d9c",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/numismatica-genevensis-sa/14165/roman-world/12584143/roman-republic-mark-antony",
+      "title": "Roman Republic <br> Mark Antony and Octavian, 43-32 BC. <br> Denarius 41 BC, Ephesus, M. Barbatius Pollio as moneyer. M ANT IM(P) AVG III \u00b7 VIR \u00b7 R P C M BARBAT Q P Bare head of Mark Antony right / CAESAR \u00b7 IMP \u00b7 PONT \u00b7 III \u00b7 VIR \u00b7 R \u00b7 P \u00b7 C Bare head of Octavian right, with slight beard. 3,86g. Crawford 517/2; Sear Imperators 243; Sydenham 1181. <br> NGC AU 5/5 4/5 marks. <br> (8808104-001). <br> Superb. <br> Provenance: <br> Stack's Bowers & Ponterio ANA Auction (10 August 2016), 20170.<br>Aureo & Calic\u00f3 297 (18 October 2017), 1166.",
+      "description": "Numismatica Genevensis SA | ['Auction 26']",
+      "hammer_price_usd": 3678.82,
+      "currency_original": "USD",
+      "price_original": 3678.8203,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8808104-001",
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8808104001/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "coinarchives-c2801c63ffcd",
       "source": "coinarchives",

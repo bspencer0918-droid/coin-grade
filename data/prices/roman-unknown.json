@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 3531,
-  "realized_count": 3531,
+  "sale_count": 3532,
+  "realized_count": 3532,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,10 +17,10 @@
     "max": 312000.0
   },
   "median_price_usd": 192.0,
-  "last_sale_date": "2026-11-08",
+  "last_sale_date": "2026-11-16",
   "grade_distribution": {
     "F": 418,
-    "MS": 782,
+    "MS": 783,
     "G": 22,
     "XF": 670,
     "AU": 924,
@@ -7915,6 +7915,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-e2a67d86cd8b",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/numismatica-genevensis-sa/14165/greece/12584352/first-hellenic-republic-ioannis",
+      "title": "First Hellenic Republic <br> Ioannis Kapodistrias, 1828-1831. <br> Silver Phoenix 1828, Aegina. Phoenix arising from the flames. Cross above, sunlight coming from the left; all within solid circle / Denomination within olive and laurel wreath, date below. 4,30g. Divo 1; Karamitsos 20; KM 4. <br> NGC MS62. <br> (8719835-008). <br> Splendid. <br> Approximately 11,000 specimens struck at the newly established Aegina Mint in 1828. They were the first silver coins of the modern Greek state. The bird Phoenix on the obverse symbolizes the rebirth of Greece.",
+      "description": "Numismatica Genevensis SA | ['Auction 26']",
+      "hammer_price_usd": 2452.55,
+      "currency_original": "USD",
+      "price_original": 2452.5469,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8719835-008",
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8719835008/",
         "grading_service": "ngc"
       },
       "metadata": {
