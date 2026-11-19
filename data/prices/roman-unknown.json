@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 3532,
-  "realized_count": 3532,
+  "sale_count": 3541,
+  "realized_count": 3541,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,13 +17,13 @@
     "max": 312000.0
   },
   "median_price_usd": 192.0,
-  "last_sale_date": "2026-11-16",
+  "last_sale_date": "2026-11-18",
   "grade_distribution": {
     "F": 418,
-    "MS": 783,
+    "MS": 791,
     "G": 22,
     "XF": 670,
-    "AU": 924,
+    "AU": 925,
     "VF": 669,
     "P": 12,
     "VG": 34
@@ -1038,6 +1038,39 @@
       "hammer_price_usd": 340.0,
       "currency_original": "USD",
       "price_original": 340.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-14",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-0b48f8bf6ba4",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/14048/worldcoin-weimar-republic/12463547/september-2026-world-premier-collectors",
+      "title": "September 2026 World Premier Collectors Choice Auction - Ancients, World Coins & Paper Money <br> GERMANY. Weimar Republic. Johannes Aventinus Bronze Medal, 1929. Munich Mint. NGC MS-66 Brown. <br> Kienast-435. By Karl Goetz and commissioned by the Bavarian Numismatic Society. Diameter: 60mm. Obverse: Robed half-length bust of Johannes Aventinus [Johann Turmair] facing, wearing biretta and resting hands upon closed book; Reverse: Legend in nine lines within cartouche; legend in two lines above and below. Edge: BAYER HAUPTM\u00dcNZAMT.",
+      "description": "Stack\u2019s Bowers and Ponterio | ['September 2026 World Premier Collectors Choice Auction \u2013 Ancient, World Coins & Paper Money Schedule']",
+      "hammer_price_usd": 300.0,
+      "currency_original": "USD",
+      "price_original": 300.0,
       "buyers_premium_included": false,
       "sale_date": "2026-09-14",
       "image_url": null,
@@ -5979,6 +6012,39 @@
       }
     },
     {
+      "id": "sixbid-dfed521a72f7",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/numismatica-ars-classica-zurich/14171/the-habsburg-empire/12589848/franz-i-ii-1792-1835-emperor",
+      "title": "<b>Franz I (II), 1792-1835, Emperor of the Holy Roman Empire until 1806 (Franz II), Emperor of Austria in 1804.&nbsp;&nbsp;</b> <br> Ducat 1825, mintmark A (Wien),  AV 21 mm, 3.48 g.<br>F. 467; Schlumberger 190; Jaeckel 19; Herinek 158; Fr\u00fchwald 85.<br>Very light adjustment mark, otherwise Fdc<br>NGC MS 63 Top Pop (2188201-026)",
+      "description": "Numismatica Ars Classica, Zurich | ['Auction 171']",
+      "hammer_price_usd": 732.69,
+      "currency_original": "USD",
+      "price_original": 732.69165,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-18",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "2188201-026",
+        "grade": "MS",
+        "grade_numeric": 63,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/2188201026/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "sixbid-e93e5c446461",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -6496,6 +6562,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-9e81f9c156cc",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/numismatica-ars-classica-zurich/14171/the-habsburg-empire/12589844/franz-i-ii-1792-1835-emperor",
+      "title": "<b>Franz I (II), 1792-1835, Emperor of the Holy Roman Empire until 1806 (Franz II), Emperor of Austria in 1804.&nbsp;&nbsp;</b> <br> 4 Ducats 1811, mintmark A (Wien),  AV 39 mm, 13.91 g.<br>F. 461; Schlumberger 121; Jaeckel 177; Herinek 20; Fr\u00fchwald 5.<br>Tiny edge nick, lustrous good extremely fine<br>NGC MS 61 (2188201-024) <br><br>Privately purchased from Robert Ball, Berlin 21.9.1931.",
+      "description": "Numismatica Ars Classica, Zurich | ['Auction 171']",
+      "hammer_price_usd": 3052.88,
+      "currency_original": "USD",
+      "price_original": 3052.882,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-18",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "2188201-024",
+        "grade": "MS",
+        "grade_numeric": 61,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/2188201024/",
         "grading_service": "ngc"
       },
       "metadata": {
@@ -7233,6 +7332,39 @@
       }
     },
     {
+      "id": "sixbid-78b2ceaad36e",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/numismatica-ars-classica-zurich/14171/the-habsburg-empire/12589841/franz-ii-i-1792-1835-emperor",
+      "title": "<b>Franz II (I), 1792-1835, Emperor of the Holy Roman Empire until 1806, Emperor of Austria in 1804 (Franz I).&nbsp;&nbsp;</b> <br> Ducat 1799, Alba Iulia (Gyulafeh\u00e9rv\u00e1r/Karlsburg or Wei\u00dfenburg) mint,  AV 20 mm, 3.47 g.<br>Laureate bust right, mint mark E below. Rev. Crowned double-headed eagle, Habsburg/Lorraine shield of arms on the breast. F. 211; Jaeckel 110; Herinek 74; Fr\u00fchwald 1681.<br>Some light scratchs on obverse, otherwise about extremely fine<br>NGC AU Details scratches (2188201-023)",
+      "description": "Numismatica Ars Classica, Zurich | ['Auction 171']",
+      "hammer_price_usd": 915.86,
+      "currency_original": "USD",
+      "price_original": 915.8646,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-18",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "2188201-023",
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/2188201023/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "sixbid-eeb1fe31c737",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -7365,6 +7497,39 @@
       }
     },
     {
+      "id": "sixbid-8e42d17e1250",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/numismatica-ars-classica-zurich/14171/the-habsburg-empire/12589840/franz-ii-i-1792-1835-emperor",
+      "title": "<b>Franz II (I), 1792-1835, Emperor of the Holy Roman Empire until 1806, Emperor of Austria in 1804 (Franz I).&nbsp;&nbsp;</b> <br> Souverain d'or 1795, Kremnica (K\u00f6rm\u00f6cb\u00e1nya/Kremnitz) mint, for the Netherlands,  AV 28 mm, 11.09 g.<br>Laureate bust right, mint mark B below. Rev. Crowned shield of arms of the Austrian Netherlands, surrounded by the chain of the Order of the Golden Fleece, St. Andrew's Cross behind. F. 469; Herinek 205; Jaeckel 136; Fr\u00fchwald 1985.<br>Extremely fine<br>NGC MS 61 (2188201-022)",
+      "description": "Numismatica Ars Classica, Zurich | ['Auction 171']",
+      "hammer_price_usd": 1831.73,
+      "currency_original": "USD",
+      "price_original": 1831.7292,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-18",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "2188201-022",
+        "grade": "MS",
+        "grade_numeric": 61,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/2188201022/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "sixbid-5ca7f7f664d8",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -7420,6 +7585,72 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/2183766012/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-c398d99bdf60",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/numismatica-ars-classica-zurich/14171/the-habsburg-empire/12589843/franz-i-ii-1792-1835-emperor",
+      "title": "<b>Franz I (II), 1792-1835, Emperor of the Holy Roman Empire until 1806 (Franz II), Emperor of Austria in 1804.&nbsp;&nbsp;</b> <br> Token (1 1/4 Ducats) 1804,  AV 24 mm, 4.36 g.<br>On the assumption of the title of Emperor of Austria. FRANCISCVS ROM ET AVSTRIAE IMP Laureate bust right. Rev. OB AVSTRIAM HAER IMP DIGNITATE ORNATAM Legend in four lines between two palm branches tied together HILARITAS / PVBLICA / VI ID DEC / MDCCCIV. Fr\u00fchwald p 49, 1a.<br>Good extremely fine<br>NGC MS 61 (2188258-004) <br><br>Ex Glendining, London sale 23.11.1936, 868.",
+      "description": "Numismatica Ars Classica, Zurich | ['Auction 171']",
+      "hammer_price_usd": 1526.44,
+      "currency_original": "USD",
+      "price_original": 1526.441,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-18",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "2188258-004",
+        "grade": "MS",
+        "grade_numeric": 61,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/2188258004/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-7fd449756606",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/numismatica-ars-classica-zurich/14171/the-habsburg-empire/12589849/franz-i-ii-1792-1835-emperor",
+      "title": "<b>Franz I (II), 1792-1835, Emperor of the Holy Roman Empire until 1806 (Franz II), Emperor of Austria in 1804.&nbsp;&nbsp;</b> <br> Token (1 3/4 Ducats) 1830,  AV 24 mm, 6.06 g.<br>On the occasion of the coronation of his son Ferdinand as King of Hungary in Bratislava (Pozsony/Pre\u00dfburg). The bists of the Emperor and his son right. Rev. Radiant royal Hungarian crown above legend in three lines.  Novak XVIII-A-3a; Montenuovo coll. 2516 (AR); Fr\u00fchwald p 58, 2b.<br>Very light adjustment mark, otherwise Fdc<br>NGC MS 62 (2188201-027)",
+      "description": "Numismatica Ars Classica, Zurich | ['Auction 171']",
+      "hammer_price_usd": 1831.73,
+      "currency_original": "USD",
+      "price_original": 1831.7292,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-18",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "2188201-027",
+        "grade": "MS",
+        "grade_numeric": 62,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/2188201027/",
         "grading_service": "ngc"
       },
       "metadata": {
@@ -7695,6 +7926,72 @@
       }
     },
     {
+      "id": "sixbid-e1b22bde590a",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/numismatica-ars-classica-zurich/14171/the-habsburg-empire/12589847/franz-i-ii-1792-1835-emperor",
+      "title": "<b>Franz I (II), 1792-1835, Emperor of the Holy Roman Empire until 1806 (Franz II), Emperor of Austria in 1804.&nbsp;&nbsp;</b> <br> Token (3 Ducats) 1816,  AV 29 mm, 10.45 g.<br>On the occasion of the marriage to Karoline Auguste von Bayern. In a wreath of palm branches FRANCISCVS / AUSTRISE IMP / ET / CAROLINA AVGVSTA / MAX BAV REGIS / FIL, a star above. Rev. SACRO CONNVBIO IVNCTI winged caduceus between two cornucopiae, below VINDOB X NOV / MDCCCXVI. Montenuovo coll. 2462; Wittelsbach 2792.<br>Fdc<br>NGC MS 65 (2188201-025) <br><br>Privately purchased from Baldwin, London 24.7.1931.",
+      "description": "Numismatica Ars Classica, Zurich | ['Auction 171']",
+      "hammer_price_usd": 3663.46,
+      "currency_original": "USD",
+      "price_original": 3663.4585,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-18",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "2188201-025",
+        "grade": "MS",
+        "grade_numeric": 65,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/2188201025/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-4cc3bd8e55cc",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/numismatica-ars-classica-zurich/14171/germany/12589909/maximilian-iii-joseph-1745-1777-nbsp-nbsp",
+      "title": "<b>Maximilian III Joseph, 1745-1777.&nbsp;&nbsp;</b> <br> Ducat 1756, M\u00fcnchen mint, gold from the Isar river,  AV 23 mm, 3.51 g.<br>Dies by Franz Andreas Schega. Bust right. Rev. Seated river god left with urn as the river source and quartered Bavarian shield of arms, to the right in the background partial view of the city of Munich with the Kaufinger Gate (\u201cSch\u00f6ner Turm\u201d) and the Frauenkirche, in exergue the year in Roman numerals. F. 248; Wittelsbach 2157; Kirchheimer 91; Hahn 312; Sch\u00f6n 103.<br>Some very small marks, with lustre, extremely fine<br>NGC MS 61 (2188225-003)",
+      "description": "Numismatica Ars Classica, Zurich | ['Auction 171']",
+      "hammer_price_usd": 7326.92,
+      "currency_original": "USD",
+      "price_original": 7326.917,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-18",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "2188225-003",
+        "grade": "MS",
+        "grade_numeric": 61,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/2188225003/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "sixbid-fc8e3ef59b9e",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -7860,6 +8157,39 @@
       }
     },
     {
+      "id": "sixbid-b5e6cf321f4b",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/numismatica-ars-classica-zurich/14171/germany/12589913/karl-theodor-1777-1799-nbsp-nbsp-ducat",
+      "title": "<b>Karl Theodor, 1777-1799.&nbsp;&nbsp;</b> <br> Ducat 1780, M\u00fcnchen mint, gold from the Isar river,  AV 21 mm, 3.48 g.<br>Dies by Heinrich Straub. Bust right, ST (for the engraver) below. Rev. Seated river god left with urn as the river source and tierced Bavarian shield of arms, to the right in the background partial view of the city of Munich with the Kaufinger Gate (\u201cSch\u00f6ner Turm\u201d) and the Frauenkirche, in exergue the year in Roman numerals. F. 252; Wittelsbach 2330; Kirchheimer 99; Hahn 353.<br>With lustre, extremely fine<br>NGC MS 63 Top Pop (2188193-003) <br><br>Ex Waldo Newcomer Collection - privately purchased from J. Schulman 13.12.1936.",
+      "description": "Numismatica Ars Classica, Zurich | ['Auction 171']",
+      "hammer_price_usd": 6105.76,
+      "currency_original": "USD",
+      "price_original": 6105.764,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-18",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "2188193-003",
+        "grade": "MS",
+        "grade_numeric": 63,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/2188193003/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "sixbid-035dd11fa7cf",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -7893,48 +8223,15 @@
       }
     },
     {
-      "id": "sixbid-c9ad872fbdd5",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13959/ancients-judaea/12369708/judaea-herodian-dynasty-herod-philip",
-      "title": "JUDAEA. Herodian Dynasty. Herod Philip (4 BC-AD 34). AE (24mm, 12.85 gm, 10h). NGC Fine 4/5 - 2/5. Caesarea Panias. \u03a3EBA\u03a3TWN, jugate heads of Tiberius and Livia / E\u03a0I \u03a6I\u039bI\u03a0\u03a0OY TETPAPXOY, tetrastyle Ionic temple (the Augusteum); Clipeus Virtutis between pillars. GBC 6, 6260.  From the Eyeappealing Collection.  Among the honors voted by the Roman Senate in 27 BC to Augustus was the Clipeus Virtutis, or shield of valor, which was given, along with branches of laurel, to a soldier who had saved the life of a comrade in battle - although, many debate if he even fought in any physical battles at all.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
-      "description": "Heritage Auctions, Inc. | ['Auction #61636']",
-      "hammer_price_usd": 732.0,
-      "currency_original": "USD",
-      "price_original": 732.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-08-10",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "F",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 2,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "sixbid-e2a67d86cd8b",
       "source": "sixbid",
       "listing_type": "auction_realized",
       "lot_url": "https://www.sixbid.com/en/numismatica-genevensis-sa/14165/greece/12584352/first-hellenic-republic-ioannis",
       "title": "First Hellenic Republic <br> Ioannis Kapodistrias, 1828-1831. <br> Silver Phoenix 1828, Aegina. Phoenix arising from the flames. Cross above, sunlight coming from the left; all within solid circle / Denomination within olive and laurel wreath, date below. 4,30g. Divo 1; Karamitsos 20; KM 4. <br> NGC MS62. <br> (8719835-008). <br> Splendid. <br> Approximately 11,000 specimens struck at the newly established Aegina Mint in 1828. They were the first silver coins of the modern Greek state. The bird Phoenix on the obverse symbolizes the rebirth of Greece.",
       "description": "Numismatica Genevensis SA | ['Auction 26']",
-      "hammer_price_usd": 2452.55,
+      "hammer_price_usd": 4284.67,
       "currency_original": "USD",
-      "price_original": 2452.5469,
+      "price_original": 4284.6743,
       "buyers_premium_included": false,
       "sale_date": "2026-11-16",
       "image_url": null,
@@ -8619,25 +8916,25 @@
       }
     },
     {
-      "id": "sixbid-0b48f8bf6ba4",
+      "id": "sixbid-c9ad872fbdd5",
       "source": "sixbid",
       "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/14048/worldcoin-weimar-republic/12463547/september-2026-world-premier-collectors",
-      "title": "September 2026 World Premier Collectors Choice Auction - Ancients, World Coins & Paper Money <br> GERMANY. Weimar Republic. Johannes Aventinus Bronze Medal, 1929. Munich Mint. NGC MS-66 Brown. <br> Kienast-435. By Karl Goetz and commissioned by the Bavarian Numismatic Society. Diameter: 60mm. Obverse: Robed half-length bust of Johannes Aventinus [Johann Turmair] facing, wearing biretta and resting hands upon closed book; Reverse: Legend in nine lines within cartouche; legend in two lines above and below. Edge: BAYER HAUPTM\u00dcNZAMT.",
-      "description": "Stack\u2019s Bowers and Ponterio | ['September 2026 World Premier Collectors Choice Auction \u2013 Ancient, World Coins & Paper Money Schedule']",
-      "hammer_price_usd": 300.0,
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/13959/ancients-judaea/12369708/judaea-herodian-dynasty-herod-philip",
+      "title": "JUDAEA. Herodian Dynasty. Herod Philip (4 BC-AD 34). AE (24mm, 12.85 gm, 10h). NGC Fine 4/5 - 2/5. Caesarea Panias. \u03a3EBA\u03a3TWN, jugate heads of Tiberius and Livia / E\u03a0I \u03a6I\u039bI\u03a0\u03a0OY TETPAPXOY, tetrastyle Ionic temple (the Augusteum); Clipeus Virtutis between pillars. GBC 6, 6260.  From the Eyeappealing Collection.  Among the honors voted by the Roman Senate in 27 BC to Augustus was the Clipeus Virtutis, or shield of valor, which was given, along with branches of laurel, to a soldier who had saved the life of a comrade in battle - although, many debate if he even fought in any physical battles at all.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61636']",
+      "hammer_price_usd": 732.0,
       "currency_original": "USD",
-      "price_original": 300.0,
+      "price_original": 732.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-09-14",
+      "sale_date": "2026-08-10",
       "image_url": null,
       "ngc": {
         "verified": false,
         "cert_number": null,
-        "grade": "MS",
+        "grade": "F",
         "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
+        "strike_score": 4,
+        "surface_score": 2,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

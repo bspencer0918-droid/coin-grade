@@ -8,20 +8,21 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 53,
-  "realized_count": 53,
+  "sale_count": 54,
+  "realized_count": 54,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 110.0,
-    "max": 11590.0
+    "max": 30528.82
   },
   "median_price_usd": 1100.0,
-  "last_sale_date": "2026-11-05",
+  "last_sale_date": "2026-11-18",
   "grade_distribution": {
     "AU": 9,
     "XF": 23,
     "VF": 13,
+    "P": 1,
     "MS": 5,
     "G": 3
   },
@@ -223,6 +224,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-7dd31e7212d8",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/numismatica-ars-classica-zurich/14170/greek-coins/12589716/philistia-palestine-nbsp-nbsp-tetradrachm-gaza",
+      "title": "<b>Philistia (Palestine).&nbsp;&nbsp;</b> <br> Tetradrachm, Gaza mid V century-333 BC, AR 23 mm, 17.36 g. Helmeted head of Athena r., decorated with olive wreath and palmette.  Rev. A \u2013 Z in Phoenician  Facing owl, closed wings, at sides, two olive sprays. All within incuse square.  BMC Palestine pl. 42, 1.  Boston, MFA 2203.  SNG ANS 6.  HGC 10, 532.<br>Extremely rare, apparently eight specimens known of which only five are in private hands.<br>A coin of great interest and fascination struck on very fresh metal and, as usual<br>for the issue, on a narrow flan. About extremely fineGraded Ch XF* Strike: 4/5, Surface: 4/5, NGC photo certificate number 4884086-001 <br><br>Ex Heritage 3075, 2019, 32034, MDC 6, 2020, 81 and NGSA 20, 2024, 1018 sales.<br><br>It is suspected that the territory of Philistia was originally settled by elements of the Greek migrant groups known to the Egyptians as the Sea Peoples in the turmoil surrounding the end of the Bronze Age around 1200 BC.&nbsp;&nbsp;In the early Iron Age, the city of Gaza emerged as one of the major cities of the Philistian Pentapolis. It played a prominent role in the story of Samson and Delilah in the biblical book of Judges, and grew wealthy as the Mediterranean coastal node of the Arabian incense trade. The South Arabian Qedarite kings, who regularly used Gaza\u2019s port to export their goods, reportedly paid an annual tribute of 1,000 talents (25,000 kg) of frankincense to the Persian kings, who permitted them access to Gaza in the fifth century BC. If this was the tribute, one can only imagine the vast quantities of incense that poured out through Gaza to the profit of the city.&nbsp;The trade of Gaza had long been carried on using cut and weighed out pieces of silver (Hacksilber), but around the middle of the fifth century BC, the city began to produce its own coinage in response to the vast influx of Greek coins\u2014especially from Athens\u2014to the Near East through trade and war. By adopting coinage, Gaza and the other cities of Philistia became more integrated into neighboring coin-using economies and into the wider economy of the Achaemenid Persian Empire, to which they belonged. As Athenian coinage was widely accepted throughout the empire, especially in Egypt, a major trading partner for Gaza, the city frequently imitated Athenian types when it began to produce its own coinage, often giving them a local flair.&nbsp;This exceptional coin is known for less than specimens. It was struck at Gaza, probably during the final third of the fifth century BCE, although a somewhat later date cannot be excluded. The issue closely imitates established Athenian monetary types, reflecting the extensive circulation of Athenian silver throughout the Mediterranean, and particularly in the Levant. The obverse bears the head of Athena, rendered in close conformity with the representations found on the abundant Athenian tetradrachms of the third quarter of the fifth century BC. The treatment of the eye in frontal perspective, together with the form of the Attic helmet, demonstrates the close dependence of the Gaza type upon its Athenian prototypes. The reverse, however, presents a notable departure from the standard tetradrachm type. In place of the customary owl standing to right, the Gaza issue depicts a frontal owl, a motif attested on contemporary Athenian triobols. The choice of this particular reverse type is significant and raises the question of whether Athenian triobols of this period circulated in the region of ancient Palestine. If so, they may plausibly have provided the immediate prototype for the reverse design of the Gaza coin. The reverse inscription consists of the letters ?ayin and 'zayin, read from right to left, constituting an abbreviated rendering of the city name Gaza, more conventionally represented in antiquity as ?Aza. Of particular palaeographic interest is the form of the ?ayin, which incorporates a central pellet. This feature appears to have been introduced in an attempt to assimilate the letter to the corresponding grapheme employed on contemporary Athenian coinage. The inscription therefore provides not only an abbreviated civic ethnic but also further evidence for the deliberate adaptation of Athenian numismatic conventions within the local monetary tradition of Gaza. <br><br>Missing Note",
+      "description": "Numismatica Ars Classica, Zurich | ['Auction 170']",
+      "hammer_price_usd": 30528.82,
+      "currency_original": "USD",
+      "price_original": 30528.82,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-18",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "4884086-001",
+        "grade": "P",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/4884086001/",
         "grading_service": "ngc"
       },
       "metadata": {

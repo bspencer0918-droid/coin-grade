@@ -8,18 +8,19 @@
   "ruler_rarity": null,
   "denomination": "AV Aureus",
   "metal": "gold",
-  "sale_count": 142,
-  "realized_count": 142,
+  "sale_count": 143,
+  "realized_count": 143,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 1380.0,
-    "max": 36600.0
+    "max": 37400.0
   },
   "median_price_usd": 5520.0,
-  "last_sale_date": "2026-11-05",
+  "last_sale_date": "2026-11-18",
   "grade_distribution": {
     "G": 1,
+    "P": 1,
     "VF": 34,
     "AU": 46,
     "XF": 24,
@@ -27,7 +28,7 @@
     "VG": 3,
     "MS": 9
   },
-  "thumbnail_url": "https://media.coinarchives.com/c939b97c35b3b1f78962468c7c0cf3a7/img/heritage/3136/image31118.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/311ad4f2e3562b96bf4ea58b9a7052c9/img/nac/170/image00205.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 5,
@@ -64,6 +65,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-7ccccc052489",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2836426&AucID=7411&Lot=205&Val=10b1f0559b76c05cadbccf501c88d8d1",
+      "title": "Numismatica Ars Classica - Auction 170, Lot 205 \u2014 Tiberius augustus, 14 \u2013 37.  \nAureus, Lugdunum 14-16, AV 20 mm, 7.82 g. TI CAESAR DIVI \u2013 AVG F AVGVSTVS  Laureate head of Tiberius r.  Rev. DIVOS AVGVST \u2013 DIVI F  Laureate head of Augustus r., six-poi",
+      "description": "Tiberius augustus, 14 \u2013 37.  \nAureus, Lugdunum 14-16, AV 20 mm, 7.82 g. TI CAESAR DIVI \u2013 AVG F AVGVSTVS  Laureate head of Tiberius r.  Rev. DIVOS AVGVST \u2013 DIVI F  Laureate head of Augustus r., six-pointed star above.  C 3.  BMC 29.  RIC 24.  CBN 1.  Calic\u00f3 311.\nVery rare. Two lovely portraits struck on an exceptionally large flan and unusually\nwell-centred for the issue. Extremely fineGraded Ch XF, Strike: 5/5, Surface: 4/5, NGC photo certificate number 8494936-001 \n\nEx Rollin & Feuardent 20 A...",
+      "hammer_price_usd": 37400.0,
+      "currency_original": "CHF",
+      "price_original": 34000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-18",
+      "image_url": "https://media.coinarchives.com/311ad4f2e3562b96bf4ea58b9a7052c9/img/nac/170/image00205.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "8494936-001",
+        "grade": "P",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8494936001/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

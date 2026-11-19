@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AV Aureus",
   "metal": "gold",
-  "sale_count": 45,
-  "realized_count": 45,
+  "sale_count": 47,
+  "realized_count": 47,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,15 +17,16 @@
     "max": 56400.0
   },
   "median_price_usd": 14400.0,
-  "last_sale_date": "2026-10-13",
+  "last_sale_date": "2026-11-18",
   "grade_distribution": {
     "MS": 16,
+    "P": 2,
     "AU": 8,
     "XF": 12,
     "VF": 3,
     "G": 6
   },
-  "thumbnail_url": "https://media.coinarchives.com/d7a20c8c536a06d157a0eceb52dd2421/img/mdc/018/image00236.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/1e74efef2ad61093def01eed5e209544/img/nac/170/image00234.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -62,6 +63,72 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-0930c4ad84fa",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/numismatica-ars-classica-zurich/14170/the-roman-empire/12589750/lucius-verus-augustus-161",
+      "title": "<b>Lucius Verus augustus, 161 \u2013 169.&nbsp;&nbsp;</b> <br> Aureus 163-164, AV 20 mm, 7.32 g. L VERVS AVG \u2013 ARMENIACVS  Bare head r.  Rev. TR P III \u2013 I \u2013 IMP II COS II  L. Verus seated l. on platform; behind and before him respectively, officer and soldier. Below platform, King Soahemus standing l. and raising r. hand to his head. In exergue, REX ARMEN / DAT.  C 158.  BMC M. Aurelius 300 note.  RIC M. Aurelius 512.  Calic\u00f3 2154 (these dies).<br>Perfectly struck and centred on a full flan, almost invisible marks,<br>otherwise virtually as struck and almost FdcGraded MS, Strike: 5/5, Surface: 4/5 \u2013 Fine Style, NGC photo certificate number 4373308-003 <br><br>Ex Busso-Peus 314, 1985, 428; LHS 97, 2006, Grabert, 33; Leu Winterthur 5, 2019, 395; Leu Winterthur 11, 2022, 270 and K\u00fcnker 438, 2026, 677 sales. From the Everglades collection. From the Aventine hoard, 1892. <br><br>With the reign of Antoninus Pius having been the high-water mark of Rome's era of peace and prosperity, it must have caused great alarm when the reigns of his joint-successors Marcus Aurelius and Lucius Verus began in crisis. The Parthians under Vologases IV had broken their treaty with Rome, overrun Roman defences, and captured Armenia. This forced a decision by which the new emperors found it necessary to part company. Marcus Aurelius remained in Rome to deal with domestic concerns and to keep a wary eye on Upper Germany and Rhaetia, where the Chatti had crossed the limes, while Verus marched eastward to confront the Parthians. In the summer of 162 Verus sailed to Asia Minor, where he took on the formidable task of bringing the Syrian army into fighting shape. He is said to have been a tireless commander who tolerated no lax behaviour among his officers and soldiers. Even if he was not directly involved in leading much of the warfare, Verus is said to have made a point of visibly sharing in his men's privations. Amid the great task at hand, though, Verus indulged some of his personal interests, which included taking on a mistress named Panthea. An Ionian Greek from Smyrna, she is described by Lucian as 'a woman of perfect beauty' who was more impressive than any statue of Phidias or Praxiteles. She also possessed almost every other charm, including that of persuasion, for at one point she even convinced Verus to shave his beard \u2013 an act that excited much commentary from the Syrians. Verus and his generals eventually led the Roman army to victory within its former territories and followed up with a successful counteroffensive in which the Parthian capital was razed to the ground. The result was the recovery of Armenia and Syria, the sack of Ctesiphon and Seleucia, and the conquest of Media and Mesopotamia. It was one of the most successful of all Roman military efforts east of the Euphrates, and a large coinage was issued in commemoration. Among them is this aureus of 163-164 which celebrates the crowning of a certain Sohaemus as king of Armenia. This Arsacid prince was thoroughly Romanized, being a senator and a consul, and he must have spent the lion's share of his life in Rome in anticipation of just such an occasion. Verus returned to Rome late in 166 to host his triumph jointly with Marcus Aurelius. However, the celebration was tempered by the fact that his army had brought with them a plague that would terrorise the people of the Roman Empire for the next decade and beyond.",
+      "description": "Numismatica Ars Classica, Zurich | ['Auction 170']",
+      "hammer_price_usd": 18317.29,
+      "currency_original": "USD",
+      "price_original": 18317.291,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-18",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "4373308-003",
+        "grade": "P",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": "https://www.ngccoin.com/certlookup/4373308003/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-170e6400f499",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2836455&AucID=7411&Lot=234&Val=9d0e5d53320751c1c8b8615d69fc302e",
+      "title": "Numismatica Ars Classica - Auction 170, Lot 234 \u2014 Lucius Verus augustus, 161 \u2013 169.  \nAureus December 161-162, AV 20 mm, 7.29 g. IMP CAES L VERVS AVG  Bare-headed, draped and cuirassed bust r.  Rev. PROFECTIO AVG TR P II  Verus on horseback r., holdi",
+      "description": "Lucius Verus augustus, 161 \u2013 169.  \nAureus December 161-162, AV 20 mm, 7.29 g. IMP CAES L VERVS AVG  Bare-headed, draped and cuirassed bust r.  Rev. PROFECTIO AVG TR P II  Verus on horseback r., holding spear; in exergue, COS II.  C \u2013.  BMC 200.  RIC M. Aurelius 480.  Calic\u00f3 2145 (this coin illustrated).\nPerfectly struck and centred in high relief. Virtually as struck and almost FdcGraded AU*, Strike: 5/5, Surface: 5/5, NGC photo certificate number 849436-002 \n\nEx Rollin & Feuardent 25-30 Apri...",
+      "hammer_price_usd": 22000.0,
+      "currency_original": "CHF",
+      "price_original": 20000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-18",
+      "image_url": "https://media.coinarchives.com/1e74efef2ad61093def01eed5e209544/img/nac/170/image00234.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "P",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

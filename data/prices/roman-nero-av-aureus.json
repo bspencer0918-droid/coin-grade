@@ -8,27 +8,27 @@
   "ruler_rarity": null,
   "denomination": "AV Aureus",
   "metal": "gold",
-  "sale_count": 158,
-  "realized_count": 158,
+  "sale_count": 160,
+  "realized_count": 160,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 990.0,
     "max": 50400.0
   },
-  "median_price_usd": 4630.0,
-  "last_sale_date": "2026-11-05",
+  "median_price_usd": 4750.0,
+  "last_sale_date": "2026-11-18",
   "grade_distribution": {
+    "P": 3,
     "XF": 47,
     "VF": 45,
-    "P": 1,
     "F": 38,
     "AU": 10,
     "VG": 15,
     "G": 1,
     "MS": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/8be8a5fe62562d096175c26afb045811/img/ponterio/238/image41182.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/ca303bcab6c4f74d30902fec50644089/img/nac/170/image00207.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -38,6 +38,39 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
+    {
+      "id": "sixbid-464f2cad0afa",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/numismatica-ars-classica-zurich/14170/the-roman-empire/12589722/nero-augustus-54-68-nbsp-nbsp",
+      "title": "<b>Nero augustus, 54 \u2013 68.&nbsp;&nbsp;</b> <br> Aureus 65-66, AV 19 mm, 7.31 g. NERO CAESAR \u2013 AVGVSTVS  Laureate head r. Rev.  VESTA Domed hexastyle temple; within which, statue of Vesta seated facing, holding patera and long sceptre.  C 334.  BMC 101.  RIC 61.  CBN 229.  Calic\u00f3 448.<br>Very rare and in exceptional condition for the issue. A portrait of magnificent style and a finely<br>detailed reverse composition perfectly centred on a very broad flan. Good extremely fineGraded Ch AU*, Strike: 5/5, Surface: 4/5, NGC photo certificate number 2149035-001 <br><br>Ex MDC sale 17, 2025, 175. <br><br>Vesta was the hearth goddess of ancient Rome, whose sacred fire was tended by four or six priestesses who were sworn to celibacy during their period of office (usually 30 years beginning from age 6-10) and were known as Vestal Virgins. These women had the extremely important task of making sure that Vesta\u2019s sacred fire never went out, for if it did it would be an omen of destruction for the city of Rome. In return for this important service, the Vestal Virgins were accorded numerous special privileges. They were considered sacrosanct, meaning that any injury to their persons was punishable by death, their mere touch could free prisoners, their testimony was accepted without requiring an oath, and they were entrusted with wills and official treaties. However, if they were found to have broken their vow of chastity, Vestal Virgins could be condemned to an horrific death by being buried alive.<br>Although it is described as a temple in English, the sacred precinct of Vesta was not really a temple in the ancient Roman sense. Ancient authors like Ovid and Plutarch all agree that the shrine of Vesta did not house a cult statue like a regular temple, but only the hearth of the city and the sacred fire. This description has led to questions about the reverse type of this attractive aureus, which seems to clearly depict an image of Vesta within the tetrastyle enclosure. Hill suggested that the building might not represent the traditional hearth of Rome, but rather a secondary shrine, known as the Aedicula Vestae, which was given to the Vestal Virgins by Augustus from his own property on the Palatine Hill. Regardless of whether the type represents the sanctuary of Vesta or only the Aedicula Vestae, the building almost certainly appears here because it was destroyed in the great fire of AD 64 and subsequently rebuilt by Nero.",
+      "description": "Numismatica Ars Classica, Zurich | ['Auction 170']",
+      "hammer_price_usd": 30528.82,
+      "currency_original": "USD",
+      "price_original": 30528.82,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-18",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "2149035-001",
+        "grade": "P",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/2149035001/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
     {
       "id": "sixbid-803d5d20bb48",
       "source": "sixbid",
@@ -197,6 +230,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-b7a7febae206",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2836428&AucID=7411&Lot=207&Val=0dafadfa9ee09a5d3591ffa4c30487b2",
+      "title": "Numismatica Ars Classica - Auction 170, Lot 207 \u2014 Nero augustus, 54 \u2013 68.  \nAureus 65-66, AV 19 mm, 7.31 g. NERO CAESAR \u2013 AVGVSTVS  Laureate head r. Rev.  VESTA Domed hexastyle temple; within which, statue of Vesta seated facing, holding patera and l",
+      "description": "Nero augustus, 54 \u2013 68.  \nAureus 65-66, AV 19 mm, 7.31 g. NERO CAESAR \u2013 AVGVSTVS  Laureate head r. Rev.  VESTA Domed hexastyle temple; within which, statue of Vesta seated facing, holding patera and long sceptre.  C 334.  BMC 101.  RIC 61.  CBN 229.  Calic\u00f3 448.\nVery rare and in exceptional condition for the issue. A portrait of magnificent style and a finely\ndetailed reverse composition perfectly centred on a very broad flan. Good extremely fineGraded Ch AU*, Strike: 5/5, Surface: 4/5, NGC ph...",
+      "hammer_price_usd": 37400.0,
+      "currency_original": "CHF",
+      "price_original": 34000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-18",
+      "image_url": "https://media.coinarchives.com/ca303bcab6c4f74d30902fec50644089/img/nac/170/image00207.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "P",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

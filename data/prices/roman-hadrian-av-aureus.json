@@ -8,20 +8,20 @@
   "ruler_rarity": null,
   "denomination": "AV Aureus",
   "metal": "gold",
-  "sale_count": 143,
-  "realized_count": 143,
+  "sale_count": 144,
+  "realized_count": 144,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 1950.0,
     "max": 126000.0
   },
-  "median_price_usd": 5280.0,
-  "last_sale_date": "2026-10-13",
+  "median_price_usd": 5342.5,
+  "last_sale_date": "2026-11-18",
   "grade_distribution": {
     "VF": 67,
+    "P": 3,
     "AU": 24,
-    "P": 2,
     "XF": 30,
     "F": 17,
     "MS": 3
@@ -59,6 +59,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-780eb8e92acd",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/numismatica-ars-classica-zurich/14170/the-roman-empire/12589745/hadrian-augustus-117-138-nbsp-nbsp",
+      "title": "<b>Hadrian augustus, 117 \u2013 138.&nbsp;&nbsp;</b> <br> Aureus late 128, AV 20 mm, 6.92 g. HADRIANVS AVGVSTVS P P  Bare head r.  Rev. COS \u2013 III  Hadrian on horse pacing r., raising r. hand.  C 408.  BMC 502.  RIC 929 (this coin listed).  Calic\u00f3 1219.<br>In exceptional state of preservation. A wonderful portrait of excellent style, struck<br>on a very broad flan. Virtually as struck and almost FdcGraded Ch AV* Strike: 5/5 Surface 4/5 Fine Style, NGC photo certificate number 2183882-001 <br><br>Ex Stack's 12 January 2009, Golden Horn, 2297; Ira & Larry Goldberg 55, 2009, 165; Nomos 23, 2021, 220 and MDC 18, 2026, 223 sales. <br><br>In 86, when Hadrian was only ten years old, his parents died, and Trajan, then a military commander on the Rhine frontier, became his guardian. Trajan provided for his aristocratic education in Rome, which instilled in Hadrian a deep love of Greek literature and culture, earning him the derisive epithet Graeculus (\u201cGreekling\u201d) in some circles.<br>Hadrian benefited greatly when Trajan succeeded Nerva as emperor in 98. He received important offices and even became directly connected to the imperial family through a marriage to Trajan\u2019s grandniece Vibia Sabina in 101, engineered by the emperor\u2019s wife, Pompeia Plotina. Trajan is thought to have questioned Hadrian\u2019s qualifications as an heir, since he never designated him as his successor; yet when he died on 8 August 117, a document was suddenly produced naming Hadrian as Trajan\u2019s adoptive son and heir.  This was later suspected to be a forgery, since it was signed by Plotina (supposedly on Trajan\u2019s behalf) rather than by the dying Emperor himself, and was dated the day after his death. Hadrian, who was serving as governor of Syria at the time, was hailed as Augustus by the legions three days later, before the document had been verified and the senate consulted. By then, Hadrian\u2019s authority was unassailable, since challenging an emperor recognized by the army was to court the return of civil war.<br>His reign had a rocky start thanks to his immediate execution of four leading men of consular rank, whom he considered to be potential threats.  However, once they had been removed and Hadrian had accepted the everlasting odium their deaths brought him in the senate, he embarked on a reign that reimagined the figure of the Roman emperor and established limits on the empire itself. He spent most of his reign securing the extant borders rather than expanding them (as Trajan had done), organizing the provinces, and centralizing the imperial administration. As part of this organization, Hadrian undertook frequent tours of the provinces, spending far more of his time outside Rome than any of his imperial predecessors had. In 121\u2013122, he toured the western provinces and made provision for the defense of the Rhine frontier as well as for the construction of a great wall to protect Britannia.  Over the course of 123\u2013125 Hadrian toured the eastern provinces, where he was concerned with the fortification of the Danube frontier and the border with the Parthian Empire. He also worked to unify these provinces by promoting their shared Greek culture.<br>Hadrian undertook a second tour of North Africa and the Greek East in 128\u2013136. This was marred by the mysterious death of Antinous, the emperor\u2019s youthful favorite, while in Egypt in 130, and by the outbreak of the Bar Kokhba Revolt (132\u2013136) in Judaea. This rebellion was sparked by Hadrian\u2019s decision to refound the ruins of Jerusalem as the pagan city of Aelia Capitolina and pushed the capabilities of the Roman army to their limits. Among the successes of Hadrian\u2019s second grand tour was the completion and dedication of the colossal Temple of Olympian Zeus at Athens, which had been unfinished since construction first began in 520 BC, and the creation of the Panhellenion, a federal council intended to unify Greek culture and support the self-governance of cities within the imperial framework.<br>The present gold aureus was struck to celebrate Hadrian\u2019s departure from Rome at the outset of his second tour of the provinces in 128. Although the reverse features no descriptive legend but only indicates his third consulship (held in 109), the type depicting the emperor on horseback raising his arm in greeting was regularly used to indicate his departure for a tour.  On other issues, such a departure is described in military terms as an expeditio.",
+      "description": "Numismatica Ars Classica, Zurich | ['Auction 170']",
+      "hammer_price_usd": 42740.35,
+      "currency_original": "USD",
+      "price_original": 42740.348,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-18",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "2183882-001",
+        "grade": "P",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": "https://www.ngccoin.com/certlookup/2183882001/",
         "grading_service": "ngc"
       },
       "metadata": {

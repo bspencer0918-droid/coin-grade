@@ -8,18 +8,19 @@
   "ruler_rarity": null,
   "denomination": "AR Shekel",
   "metal": "silver",
-  "sale_count": 387,
-  "realized_count": 385,
+  "sale_count": 388,
+  "realized_count": 386,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 154.0,
     "max": 90000.0
   },
-  "median_price_usd": 4500.0,
-  "last_sale_date": "2026-11-18",
+  "median_price_usd": 4530.0,
+  "last_sale_date": "2026-11-19",
   "grade_distribution": {
     "XF": 123,
+    "P": 1,
     "F": 16,
     "AU": 152,
     "VF": 62,
@@ -48,7 +49,7 @@
       "currency_original": "USD",
       "price_original": 3250.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-18",
+      "sale_date": "2026-11-19",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -60,6 +61,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-8ae76b4930fb",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/numismatica-ars-classica-zurich/14170/the-roman-empire/12589724/judaea-the-jewish-war-66",
+      "title": "<b>Judaea, The Jewish War, 66 \u2013 70.&nbsp;&nbsp;</b> <br> Shekel, Jerusalem 68-69 (year 3), AR 23 mm, 13.74 g. In paleo-Hebrew characters&nbsp; Cup with pearled rim; above, \"Y[ear] 3\" (in paleo-Hebrew characters). Rev. Jerusalem [the] Holy in paleo-Hebrew characters&nbsp; Sprig of three pomegranates.&nbsp; Kadman 20.&nbsp; Meshorer, Jewish Coins 202.&nbsp; Sofaer 29.&nbsp; Archaeological Centre, The Arnold Spaer Collection of Ancient Jewish Coins, 174.&nbsp; AJC II 18.&nbsp; Hendin 6390.<br>In exceptional condition for the issue, undoubtedly among the finest specimens known.<br>Struck on a very fresh metal and virtually as struck and almost FdcGraded Ch AU*, Strike 5/5: Surface: 4/5, NGC photo certificate number 8213409-002 <br><br>Ex Heritage sale 3119, 2024, 30020.",
+      "description": "Numismatica Ars Classica, Zurich | ['Auction 170']",
+      "hammer_price_usd": 12211.53,
+      "currency_original": "USD",
+      "price_original": 12211.528,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-18",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "8213409-002",
+        "grade": "P",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8213409002/",
         "grading_service": "ngc"
       },
       "metadata": {

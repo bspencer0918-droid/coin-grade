@@ -8,26 +8,27 @@
   "ruler_rarity": null,
   "denomination": "AV Aureus",
   "metal": "gold",
-  "sale_count": 68,
-  "realized_count": 68,
+  "sale_count": 71,
+  "realized_count": 71,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 1680.0,
     "max": 84000.0
   },
-  "median_price_usd": 21800.0,
-  "last_sale_date": "2026-10-26",
+  "median_price_usd": 21600.0,
+  "last_sale_date": "2026-11-18",
   "grade_distribution": {
     "AU": 21,
     "MS": 28,
+    "P": 3,
     "G": 2,
     "VF": 6,
     "XF": 5,
     "F": 4,
     "VG": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/cadac9df059e13153cea8f1a304780ca/img/heritage/3135/image33064.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/61b9737fc3203fb4bed93d5892c425cc/img/nac/170/image00244.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -104,6 +105,39 @@
       }
     },
     {
+      "id": "coinarchives-f057f7fe5d4b",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2836465&AucID=7411&Lot=244&Val=f03ad6746ac1f68dce98b848de861843",
+      "title": "Numismatica Ars Classica - Auction 170, Lot 244 \u2014 Septimius Severus, 193 \u2013 211.  \nAureus 210, AV 20 mm, 6.96 g. SEVERVS PIVS AVG BRIT  Laureate head r.  Rev. VIRTVS AVGVSTORVM  Septimius Severus, Caracalla (in foreground r.), and Geta (in background ",
+      "description": "Septimius Severus, 193 \u2013 211.  \nAureus 210, AV 20 mm, 6.96 g. SEVERVS PIVS AVG BRIT  Laureate head r.  Rev. VIRTVS AVGVSTORVM  Septimius Severus, Caracalla (in foreground r.), and Geta (in background l.) on horses galloping l., raising their r. hands in salute.  C 770 var. (without BRIT).  BMC p. 260, *.  RIC 305 var. (without BRIT).  Calic\u00f3 2577 (these dies).\nVery rare. Loverly reddish tone and about extremely fineGraded XF, Strike: 5/5, Surface: 4/5, NGC photo certificate number 8769673-001 ...",
+      "hammer_price_usd": 10450.0,
+      "currency_original": "CHF",
+      "price_original": 9500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-18",
+      "image_url": "https://media.coinarchives.com/61b9737fc3203fb4bed93d5892c425cc/img/nac/170/image00244.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "8769673-001",
+        "grade": "P",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8769673001/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-c11cfa81b607",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -170,6 +204,39 @@
       }
     },
     {
+      "id": "coinarchives-62ecabce9ef4",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2836463&AucID=7411&Lot=242&Val=61b2a81bbde686a3fdc1b9f23af08a5b",
+      "title": "Numismatica Ars Classica - Auction 170, Lot 242 \u2014 Septimius Severus, 193 \u2013 211.  \nAureus 201, AV 20 mm, 7.43 g. SEVERVS AVG \u2013 PART MAX Laureate bust of Septimius Severus r., lion's skin over shoulders. Rev. IVLIA \u2013 AVGVSTA Draped bust of Julia Domna ",
+      "description": "Septimius Severus, 193 \u2013 211.  \nAureus 201, AV 20 mm, 7.43 g. SEVERVS AVG \u2013 PART MAX Laureate bust of Septimius Severus r., lion's skin over shoulders. Rev. IVLIA \u2013 AVGVSTA Draped bust of Julia Domna r.  C 1.   BMC 192.  RIC 161b.  Calic\u00f3 2587b (these dies).\nVery rare and in exceptional condition for the issue. Two portraits of magnificent style\nperfectly struck and on a full flan. Virtually as struck and almost FdcGraded AU*, Strike: 5/5, Surface: 5/5 \u2013 Fine Style, NGC photo certificate numbe...",
+      "hammer_price_usd": 55000.0,
+      "currency_original": "CHF",
+      "price_original": 50000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-18",
+      "image_url": "https://media.coinarchives.com/80df5afdd1b44d7c547a4af2e55bff5a/img/nac/170/image00242.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "P",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-1c2b3894c24f",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -225,6 +292,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-ae15e5b64b7f",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2836466&AucID=7411&Lot=245&Val=1a3bfca905859500a8797740b4e7fcf6",
+      "title": "Numismatica Ars Classica - Auction 170, Lot 245 \u2014 Julia Domna, wife of Septimius Severus.  \nAureus 193-196, AV 18 mm, 7.17 g. IVLIA DO \u2013 MNA AVG  Draped bust r.  Rev. VENER \u2013 I V\u2013  ICTR  Venus standing r., leaning l. elbow on column and holding apple",
+      "description": "Julia Domna, wife of Septimius Severus.  \nAureus 193-196, AV 18 mm, 7.17 g. IVLIA DO \u2013 MNA AVG  Draped bust r.  Rev. VENER \u2013 I V\u2013  ICTR  Venus standing r., leaning l. elbow on column and holding apple in r. hand and palm in l.  C 193.  BMC S. Severus 47.  RIC S. Severus 536.  Calic\u00f3 2641.\nExtremely fine / good extremely fineGraded Ch AU, Strike: 5/5, Surface: 5/5, NGC photo certificate number 8769673-002 \n\nEx NAC 24, 2002, European Nobleman, 136; NAC 31, 2005, 70 and Rauch 102, 2016, 119 sales...",
+      "hammer_price_usd": 14300.0,
+      "currency_original": "CHF",
+      "price_original": 13000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-18",
+      "image_url": "https://media.coinarchives.com/c26a322caa7848d6961c51f4f5cd99ae/img/nac/170/image00245.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "8769673-002",
+        "grade": "P",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8769673002/",
         "grading_service": "ngc"
       },
       "metadata": {

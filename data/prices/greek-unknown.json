@@ -8,23 +8,23 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 268,
-  "realized_count": 268,
+  "sale_count": 270,
+  "realized_count": 270,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 39.0,
-    "max": 82278.0
+    "max": 152644.1
   },
-  "median_price_usd": 1830.24,
-  "last_sale_date": "2026-11-18",
+  "median_price_usd": 1860.48,
+  "last_sale_date": "2026-11-19",
   "grade_distribution": {
     "VF": 54,
     "AU": 77,
     "F": 14,
     "XF": 78,
-    "MS": 36,
-    "P": 1,
+    "MS": 37,
+    "P": 2,
     "G": 1,
     "VG": 6,
     "AG": 1
@@ -50,7 +50,7 @@
       "currency_original": "USD",
       "price_original": 275.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-18",
+      "sale_date": "2026-11-19",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -83,7 +83,7 @@
       "currency_original": "USD",
       "price_original": 650.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-18",
+      "sale_date": "2026-11-19",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -116,7 +116,7 @@
       "currency_original": "USD",
       "price_original": 180.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-18",
+      "sale_date": "2026-11-19",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -149,7 +149,7 @@
       "currency_original": "USD",
       "price_original": 800.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-18",
+      "sale_date": "2026-11-19",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -182,7 +182,7 @@
       "currency_original": "USD",
       "price_original": 160.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-18",
+      "sale_date": "2026-11-19",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -215,7 +215,7 @@
       "currency_original": "USD",
       "price_original": 250.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-18",
+      "sale_date": "2026-11-19",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -248,7 +248,7 @@
       "currency_original": "USD",
       "price_original": 140.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-18",
+      "sale_date": "2026-11-19",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -281,7 +281,7 @@
       "currency_original": "USD",
       "price_original": 140.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-18",
+      "sale_date": "2026-11-19",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -314,7 +314,7 @@
       "currency_original": "USD",
       "price_original": 120.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-18",
+      "sale_date": "2026-11-19",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -865,6 +865,39 @@
       }
     },
     {
+      "id": "sixbid-6008ad66febc",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/numismatica-ars-classica-zurich/14171/greece/12590355/georgios-i-georgios-1863-1913-nbsp-nbsp",
+      "title": "<b>Georgios I (\u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2), 1863-1913.&nbsp;&nbsp;</b> <br> 100 Drachmai 1876, Paris mint, mint director Renouard de Bussi\u00e8re,  AV 35 mm, 32.22 g.<br>Dies by Albert-D\u00e9sir\u00e9 Barre. F. 13; Divo 44. Karamitsos 166; El Greco coll. 170; Schlumberger 4.<br>Extremely rare. Almost Fdc<br>NGC MS 61+ (2188230-010) <br><br>Ex J. Schulman, Amsterdam sale 3.6.1935, 65 - purchased through Spink. <br><br>Karamitsos writes in the catalogue of the El Greco collection: 'The 100 Drachmas 1876 stands out as one of the most renowned of all Greek modern coins. Examples in 'Mint State' (MS) are exceptionally uncommon: it is worth noting that no example has ever previously appeared at auction.' The coin in the El Greco collection was graded NGC MS 61.",
+      "description": "Numismatica Ars Classica, Zurich | ['Auction 171']",
+      "hammer_price_usd": 91586.46,
+      "currency_original": "USD",
+      "price_original": 91586.46,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-18",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "2188230-010",
+        "grade": "MS",
+        "grade_numeric": 61,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/2188230010/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "sixbid-4c4e7749d25d",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -1316,6 +1349,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/2183759009/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-89e93c219774",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/numismatica-ars-classica-zurich/14171/greece/12590354/georgios-i-georgios-1863-1913-nbsp-nbsp",
+      "title": "<b>Georgios I (\u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2), 1863-1913.&nbsp;&nbsp;</b> <br> 50 Drachmai 1875, Paris mint,  AV 28 mm, 16.09 g.<br>Pattern. Dies by Albert-D\u00e9sir\u00e9 Barre. \u0393\u0395\u03a9\u03a1\u0393\u0399\u039f\u03a3 \u0391! \u0392\u0391\u03a3\u0399\u039b\u0395\u03a5\u03a3 \u03a4\u03a9\u039d \u0395\u039b\u039b\u0397\u039d\u03a9\u039d / 1875 Head right, BAPPE and the year 1875 below. Rev. \u0392\u0391\u03a3\u0399\u039b\u0395\u0399\u039f\u039d \u03a4\u0397\u03a3 \u0395\u039b\u039b\u0391\u0394\u039f\u03a3 Crowned shield of arms of the Kingdom of Greece, 50 \u0394\u03a1\u0391\u03a7\u039c\u0391\u0399 below, ESSAI in tiny letters in the lower left field. F. -; Divo P72. Karamitsos T.59; El Greco coll. 157; Schlumberger 9.2 (3 ex. known, LP).<br>One of the very greatest rarities in modern Greek numismatics<br>in the finest state of preservation. Fdc<br>NGC PF 64 Ultra Cameo Top Pop (2188230-009)",
+      "description": "Numismatica Ars Classica, Zurich | ['Auction 171']",
+      "hammer_price_usd": 152644.1,
+      "currency_original": "USD",
+      "price_original": 152644.1,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-18",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "2188230-009",
+        "grade": "P",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/2188230009/",
         "grading_service": "ngc"
       },
       "metadata": {
