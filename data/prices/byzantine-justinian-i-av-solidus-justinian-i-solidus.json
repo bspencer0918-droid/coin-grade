@@ -366,39 +366,6 @@
       }
     },
     {
-      "id": "coinarchives-7cd8610f8b73",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2766209&AucID=7172&Lot=294&Val=4861ec838f61136c7fa075b1c1fd92b0",
-      "title": "Wojcicki Polish Auction House - Special Auction I, Lot 294 \u2014 Byzantine Empire, Justinian I, Solidus - NGC MS\n\nGold solidus of Justinian I (AD 527\u2013565), struck at the mint of Constantinople between AD 527 and 538, belonging to the early issues of his long and hi",
-      "description": "Byzantine Empire, Justinian I, Solidus - NGC MS\n\nGold solidus of Justinian I (AD 527\u2013565), struck at the mint of Constantinople between AD 527 and 538, belonging to the early issues of his long and highly significant reign. This period is associated with efforts to restore imperial power and reinforce the Christian identity of the empire.\n\nThe obverse features a facing bust of the emperor in full ceremonial attire, with the legend D N I\u0427STINIAN\u0427S P P AVG (Dominus Noster Iustinianus Perpetuus...",
-      "hammer_price_usd": 1041.12,
-      "currency_original": "EUR",
-      "price_original": 964.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-05-23",
-      "image_url": "https://media.coinarchives.com/dc4ef9506fb0ff25be7d89992f1156dd/img/snmw/s1/image00294.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-7ee403c7b013",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -517,6 +484,39 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 5,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-7cd8610f8b73",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2766209&AucID=7172&Lot=294&Val=4861ec838f61136c7fa075b1c1fd92b0",
+      "title": "Wojcicki Polish Auction House - Special Auction I, Lot 294 \u2014 Byzantine Empire, Justinian I, Solidus - NGC MS\n\nGold solidus of Justinian I (AD 527\u2013565), struck at the mint of Constantinople between AD 527 and 538, belonging to the early issues of his long and hi",
+      "description": "Byzantine Empire, Justinian I, Solidus - NGC MS\n\nGold solidus of Justinian I (AD 527\u2013565), struck at the mint of Constantinople between AD 527 and 538, belonging to the early issues of his long and highly significant reign. This period is associated with efforts to restore imperial power and reinforce the Christian identity of the empire.\n\nThe obverse features a facing bust of the emperor in full ceremonial attire, with the legend D N I\u0427STINIAN\u0427S P P AVG (Dominus Noster Iustinianus Perpetuus...",
+      "hammer_price_usd": 1041.12,
+      "currency_original": "EUR",
+      "price_original": 964.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-05-23",
+      "image_url": "https://media.coinarchives.com/dc4ef9506fb0ff25be7d89992f1156dd/img/snmw/s1/image00294.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
