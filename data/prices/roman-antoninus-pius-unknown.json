@@ -19,15 +19,15 @@
   "median_price_usd": 159.5,
   "last_sale_date": "2026-09-08",
   "grade_distribution": {
-    "XF": 15,
     "VF": 28,
+    "XF": 15,
     "F": 12,
     "AU": 6,
     "VG": 3,
     "G": 1,
     "MS": 5
   },
-  "thumbnail_url": "https://media.coinarchives.com/1120428d3f3bbf98e68af3a7d58da78c/img/ponterio/238online/image44293.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/66bd68c5a0a056b9c87e1ee7de6ce549/img/ponterio/238/image41218.jpg",
   "median_weight_g": null,
   "top_strike_score": 4,
   "top_surface_score": 4,
@@ -37,39 +37,6 @@
   "date_struck": null,
   "mint_mark": null,
   "sales": [
-    {
-      "id": "coinarchives-01f09e8971aa",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803733&AucID=7298&Lot=44293&Val=2fea3187351656bcf501c7950fabf49f",
-      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 44293 \u2014 ANTONINUS PIUS, A.D. 138-161. AE As (10.34 gms), Rome Mint, ca. A.D. 148/9. NGC Ch EF, Strike: 4/5 Surface: 4/5.\nTo view all items from the John P. Burnham Collection, click  here.\nRIC-862A. Obverse: ",
-      "description": "ANTONINUS PIUS, A.D. 138-161. AE As (10.34 gms), Rome Mint, ca. A.D. 148/9. NGC Ch EF, Strike: 4/5 Surface: 4/5.\nTo view all items from the John P. Burnham Collection, click  here.\nRIC-862A. Obverse: Laureate head facing right; Reverse: Elephant walking right.\n\nFrom the John P. Burnham Collection.\n\nEx: Stack's (6/1997), Lot # 358.\n\nEstimate: 500 - 750...",
-      "hammer_price_usd": 650.0,
-      "currency_original": "USD",
-      "price_original": 650.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-09-08",
-      "image_url": "https://media.coinarchives.com/1120428d3f3bbf98e68af3a7d58da78c/img/ponterio/238online/image44293.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": null,
-        "strike_score": 4,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
     {
       "id": "coinarchives-58a750a72b85",
       "source": "coinarchives",
@@ -92,6 +59,39 @@
         "surface_score": 3,
         "details_grade": "Edge Filing",
         "fine_style": true,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-01f09e8971aa",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2803733&AucID=7298&Lot=44293&Val=2fea3187351656bcf501c7950fabf49f",
+      "title": "Stack's Bowers Galleries (& Ponterio) - Summer 2026 Global Showcase Auction, Lot 44293 \u2014 ANTONINUS PIUS, A.D. 138-161. AE As (10.34 gms), Rome Mint, ca. A.D. 148/9. NGC Ch EF, Strike: 4/5 Surface: 4/5.\nTo view all items from the John P. Burnham Collection, click  here.\nRIC-862A. Obverse: ",
+      "description": "ANTONINUS PIUS, A.D. 138-161. AE As (10.34 gms), Rome Mint, ca. A.D. 148/9. NGC Ch EF, Strike: 4/5 Surface: 4/5.\nTo view all items from the John P. Burnham Collection, click  here.\nRIC-862A. Obverse: Laureate head facing right; Reverse: Elephant walking right.\n\nFrom the John P. Burnham Collection.\n\nEx: Stack's (6/1997), Lot # 358.\n\nEstimate: 500 - 750...",
+      "hammer_price_usd": 650.0,
+      "currency_original": "USD",
+      "price_original": 650.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-08",
+      "image_url": "https://media.coinarchives.com/1120428d3f3bbf98e68af3a7d58da78c/img/ponterio/238online/image44293.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"
       },

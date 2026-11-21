@@ -466,39 +466,6 @@
       }
     },
     {
-      "id": "coinarchives-f1582714e542",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2761473&AucID=7146&Lot=36011&Val=4f5691205a21c9c3869570e9c139aa8d",
-      "title": "Heritage World Coin Auctions - Hong Kong Signature Sale 3134, Lot 36011 \u2014 Ancients\nATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (24mm, 17.20 gm, 5h). NGC MS 5/5 - 4/5. Mid-mass coinage issue. Head of Athena right, wearing earring, necklace, and crested Attic helmet orname",
-      "description": "Ancients\nATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (24mm, 17.20 gm, 5h). NGC MS 5/5 - 4/5. Mid-mass coinage issue. Head of Athena right, wearing earring, necklace, and crested Attic helmet ornamented with three laurel leaves and vine scroll / A\u0398E, owl standing right, head facing; olive sprig with two leaves and one berry, and crescent moon behind, all within incuse square. Kroll 8. SNG Copenhagen 31-40. HGC 4, 1597.   www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.ha.com/itm/ancie...",
-      "hammer_price_usd": 1900.0,
-      "currency_original": "USD",
-      "price_original": 1900.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-06-17",
-      "image_url": "https://media.coinarchives.com/e8efa781a5dd8aed2c5439e5f44a70ab/img/heritage/3134/image36011.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-6777e29abf2c",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -549,6 +516,39 @@
         "cert_number": null,
         "grade": "XF",
         "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-f1582714e542",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2761473&AucID=7146&Lot=36011&Val=4f5691205a21c9c3869570e9c139aa8d",
+      "title": "Heritage World Coin Auctions - Hong Kong Signature Sale 3134, Lot 36011 \u2014 Ancients\nATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (24mm, 17.20 gm, 5h). NGC MS 5/5 - 4/5. Mid-mass coinage issue. Head of Athena right, wearing earring, necklace, and crested Attic helmet orname",
+      "description": "Ancients\nATTICA. Athens. Ca. 440-404 BC. AR tetradrachm (24mm, 17.20 gm, 5h). NGC MS 5/5 - 4/5. Mid-mass coinage issue. Head of Athena right, wearing earring, necklace, and crested Attic helmet ornamented with three laurel leaves and vine scroll / A\u0398E, owl standing right, head facing; olive sprig with two leaves and one berry, and crescent moon behind, all within incuse square. Kroll 8. SNG Copenhagen 31-40. HGC 4, 1597.   www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.ha.com/itm/ancie...",
+      "hammer_price_usd": 1900.0,
+      "currency_original": "USD",
+      "price_original": 1900.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-06-17",
+      "image_url": "https://media.coinarchives.com/e8efa781a5dd8aed2c5439e5f44a70ab/img/heritage/3134/image36011.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,

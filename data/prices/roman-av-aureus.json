@@ -8,15 +8,15 @@
   "ruler_rarity": null,
   "denomination": "AV Aureus",
   "metal": "gold",
-  "sale_count": 308,
-  "realized_count": 308,
+  "sale_count": 309,
+  "realized_count": 309,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 1140.0,
     "max": 312000.0
   },
-  "median_price_usd": 12100.0,
+  "median_price_usd": 12200.0,
   "last_sale_date": "2026-11-18",
   "grade_distribution": {
     "AU": 107,
@@ -25,7 +25,7 @@
     "MS": 63,
     "F": 19,
     "P": 2,
-    "G": 2,
+    "G": 3,
     "VG": 5
   },
   "thumbnail_url": "https://media.coinarchives.com/174965c45b3c38e7d67d99eb99e21e16/img/nac/170/image00262.jpg",
@@ -369,6 +369,39 @@
       }
     },
     {
+      "id": "coinarchives-510d5dd65e41",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2854584&AucID=7478&Lot=254&Val=658cc2c8889fc45314c2e7fe2526323c",
+      "title": "Numismatica Genevensis SA - Auction 26, Lot 254 \u2014 Roman Empire\nProbus, 276-282.\nAureus 281, Lugdunum (Lyon). IMP C M AVR PROBVS AVG Cuirassed bust right wearing laureate helmet with long crest / VICTORIA PROBI AVG Victory holding wreath and palm, ste",
+      "description": "Roman Empire\nProbus, 276-282.\nAureus 281, Lugdunum (Lyon). IMP C M AVR PROBVS AVG Cuirassed bust right wearing laureate helmet with long crest / VICTORIA PROBI AVG Victory holding wreath and palm, stepping right to crown trophy, at base of which sit two captives with their hands tied behind their backs. 6,60g. Bastien 303 (this coin); Biaggi -; Cohen -; Calic\u00f3 -; RIC -.\nNGC MS\u2605 5/5 4/5.\n(8808102-009).\nAs struck.\n\nProvenance:\nHess & Leu 45 (12 May 1970), 628.\r\nC. Vaudecrane Collection (1915-200...",
+      "hammer_price_usd": 85250.0,
+      "currency_original": "CHF",
+      "price_original": 77500.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-16",
+      "image_url": "https://media.coinarchives.com/3fe982b84e4690f4fb7eda5a14bc3227/img/ngsa/026/image00254.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": "8808102-009",
+        "grade": "MS",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/8808102009/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-7bace946d5cf",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -402,28 +435,28 @@
       }
     },
     {
-      "id": "coinarchives-510d5dd65e41",
+      "id": "coinarchives-97ddcd422187",
       "source": "coinarchives",
       "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2854584&AucID=7478&Lot=254&Val=658cc2c8889fc45314c2e7fe2526323c",
-      "title": "Numismatica Genevensis SA - Auction 26, Lot 254 \u2014 Roman Empire\nProbus, 276-282.\nAureus 281, Lugdunum (Lyon). IMP C M AVR PROBVS AVG Cuirassed bust right wearing laureate helmet with long crest / VICTORIA PROBI AVG Victory holding wreath and palm, ste",
-      "description": "Roman Empire\nProbus, 276-282.\nAureus 281, Lugdunum (Lyon). IMP C M AVR PROBVS AVG Cuirassed bust right wearing laureate helmet with long crest / VICTORIA PROBI AVG Victory holding wreath and palm, stepping right to crown trophy, at base of which sit two captives with their hands tied behind their backs. 6,60g. Bastien 303 (this coin); Biaggi -; Cohen -; Calic\u00f3 -; RIC -.\nNGC MS\u2605 5/5 4/5.\n(8808102-009).\nAs struck.\n\nProvenance:\nHess & Leu 45 (12 May 1970), 628.\r\nC. Vaudecrane Collection (1915-200...",
-      "hammer_price_usd": 85250.0,
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2854597&AucID=7478&Lot=267&Val=4efc9fded0bf6413fe272db21ae2bed2",
+      "title": "Numismatica Genevensis SA - Auction 26, Lot 267 \u2014 Roman Empire\nLicinius I, 308-324.\nAureus 315-316, Siscia. IMP LICIN - IVS P F AVG Laureate head right / VIR - TVS - AVGG Licinius galloping right, thrusting spear at enemy fallen on the ground. In exe",
+      "description": "Roman Empire\nLicinius I, 308-324.\nAureus 315-316, Siscia. IMP LICIN - IVS P F AVG Laureate head right / VIR - TVS - AVGG Licinius galloping right, thrusting spear at enemy fallen on the ground. In exergue, SIS. 5,45g. Calic\u00f3 5140a; Cohen -; RIC -.\nNGC Gem MS\u2605 5/5 5/5.\n(8808102-008).\nOne of the nicest aurei known of Licinius. An exceptional specimen.\n\nProvenance:\nPalombo 11 (30 November 2012), 38.\n\nHaving been elevated to the rank of Augustus in 308, Licinius I met Constantine at Milan in 313, ...",
+      "hammer_price_usd": 82500.0,
       "currency_original": "CHF",
-      "price_original": 77500.0,
+      "price_original": 75000.0,
       "buyers_premium_included": false,
       "sale_date": "2026-11-16",
-      "image_url": "https://media.coinarchives.com/3fe982b84e4690f4fb7eda5a14bc3227/img/ngsa/026/image00254.jpg",
+      "image_url": "https://media.coinarchives.com/ce18e4a120d6bf66caf767476b23a4c2/img/ngsa/026/image00267.jpg",
       "ngc": {
         "verified": false,
-        "cert_number": "8808102-009",
-        "grade": "MS",
+        "cert_number": "8808102-008",
+        "grade": "G",
         "grade_numeric": null,
         "strike_score": 5,
-        "surface_score": 4,
+        "surface_score": 5,
         "details_grade": null,
         "fine_style": false,
-        "certification_url": "https://www.ngccoin.com/certlookup/8808102009/",
+        "certification_url": "https://www.ngccoin.com/certlookup/8808102008/",
         "grading_service": "ngc"
       },
       "metadata": {
