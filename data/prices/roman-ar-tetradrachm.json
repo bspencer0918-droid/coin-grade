@@ -8,23 +8,23 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 368,
-  "realized_count": 367,
+  "sale_count": 369,
+  "realized_count": 368,
   "fixed_price_count": 1,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 54.0,
+    "min": 1.0,
     "max": 10000.0
   },
-  "median_price_usd": 146.88,
-  "last_sale_date": "2026-11-22",
+  "median_price_usd": 145.44,
+  "last_sale_date": "2026-11-23",
   "grade_distribution": {
     "G": 4,
     "AU": 121,
     "MS": 50,
     "XF": 96,
     "F": 12,
-    "VF": 84
+    "VF": 85
   },
   "thumbnail_url": "https://media.coinarchives.com/e1391ea87ad843a96d903d21e7cd543e/img/heritage/61638/image21035.jpg",
   "median_weight_g": null,
@@ -202,6 +202,39 @@
       }
     },
     {
+      "id": "sixbid-8f0fd88350f7",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/14218/ancients-greek/12621694/macedon-under-rome-first-meris",
+      "title": "MACEDON UNDER ROME. First Meris. Ca. 167-148 BC. AR tetradrachm (32mm, 16.90 gm, 12h). NGC Choice VF 5/5 - 3/5, brushed. Diademed, draped bust of Artemis right, bow and quiver over shoulder; all within the tondo of Macedonian shield / MAKE\u0394ON\u03a9N / \u03a0P\u03a9TH\u03a3, club of Heracles right; \u03a3\u0397\u0391T\u03a1 monogram above, TKO monogram and MYET monogram below, all within oak wreath, thunderbolt in outer left field. Prokopov, Silver, Group II.A, 496. HGC 3.1, 1103.  After the defeat of the Macedonian Kingdom in 168 BC, the Roman Republic allowed the empire to become a protectorate. It was split into four administrative districts with capitals in Amphipolis, Thessalonica, Pella, and Pelagonia. To prevent economic growth within the districts, limitations on mining gold and silver were implemented. Only two districts were allowed to mint their own silver without association with Rome - one of them being Amphipolis, the first district or \"meris.\" This period of coinage lasted only for two decades until the districts became a unified Roman province.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61672']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-22",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "hjb-058de01ac44f",
       "source": "hjb",
       "listing_type": "fixed_price",
@@ -212,7 +245,7 @@
       "currency_original": "USD",
       "price_original": 1250.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-22",
+      "sale_date": "2026-11-23",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc102201a.jpg",
       "ngc": {
         "verified": false,

@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "unknown",
-  "sale_count": 323,
-  "realized_count": 322,
+  "sale_count": 324,
+  "realized_count": 323,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,12 +17,12 @@
     "max": 292800.0
   },
   "median_price_usd": 119.0,
-  "last_sale_date": "2026-09-20",
+  "last_sale_date": "2026-11-22",
   "grade_distribution": {
     "AU": 22,
     "MS": 6,
     "XF": 85,
-    "VF": 189,
+    "VF": 190,
     "F": 21
   },
   "thumbnail_url": "https://media.coinarchives.com/bcb4e77b98e87263ebde09435738e3cb/img/heritage/61649/image22037.jpg",
@@ -484,6 +484,39 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-110f17f4520f",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2842515&AucID=7437&Lot=22016&Val=1e966866e7c5924e818d5d95e78c1b07",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61672, Lot 22016 \u2014 Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AE half-unit (17mm, 4.20 gm, 1h). NGC Choice VF 5/5 - 4/5. Macedonian shield, boss exhibiting thunderbolt / Macedonian helmet; B - A ",
+      "description": "Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AE half-unit (17mm, 4.20 gm, 1h). NGC Choice VF 5/5 - 4/5. Macedonian shield, boss exhibiting thunderbolt / Macedonian helmet; B - A across fields, star below. Price 408.\n\nFrom the LII Collection of Historical Coins and Medals. Ex Davissons, E-Auction 22 (20 September 2017), lot 10.  www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.ha.com/itm/ancients/greek/macedonian-kingdom-alexander-iii-the-great-336-323-bc-ae-half-uni...",
+      "hammer_price_usd": 175.0,
+      "currency_original": "USD",
+      "price_original": 175.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-22",
+      "image_url": "https://media.coinarchives.com/f73b6cefb36c033a18905d770438337b/img/heritage/61672/image22016.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
