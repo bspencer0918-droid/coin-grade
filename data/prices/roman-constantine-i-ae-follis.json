@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AE Follis",
   "metal": "bronze",
-  "sale_count": 126,
-  "realized_count": 126,
+  "sale_count": 127,
+  "realized_count": 127,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,9 +17,9 @@
     "max": 1464.0
   },
   "median_price_usd": 139.0,
-  "last_sale_date": "2026-10-11",
+  "last_sale_date": "2026-11-23",
   "grade_distribution": {
-    "AU": 55,
+    "AU": 56,
     "VF": 15,
     "MS": 29,
     "XF": 24,
@@ -386,6 +386,39 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-de7f2aaa1a4d",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2842485&AucID=7438&Lot=24121&Val=26b3496764aedf062c4803e54f82d234",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61657, Lot 24121 \u2014 Ancients\nConstantine I the Great, as Augustus (AD 307-337). BI follis or reduced nummus (24mm, 5h). NGC Choice AU, flan flaw. Trier, 1st officina, AD 310-313. IMP CONSTANTINVS P F AVG, laureate, drape",
+      "description": "Ancients\nConstantine I the Great, as Augustus (AD 307-337). BI follis or reduced nummus (24mm, 5h). NGC Choice AU, flan flaw. Trier, 1st officina, AD 310-313. IMP CONSTANTINVS P F AVG, laureate, draped, and cuirassed bust of Constantine I right, seen from behind / SOLI INVIC-TO COMITI, Sol standing facing, radiate head left, nude save for chlamys across left shoulder, right hand raised in gesture of adlocutio, globe in outstretched left; T-F across fields, PTR in exergue. RIC VI 868.\n\nFrom the...",
+      "hammer_price_usd": 420.0,
+      "currency_original": "USD",
+      "price_original": 420.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-23",
+      "image_url": "https://media.coinarchives.com/38bba6c3a478eb2b55bfc2fa0e752cf3/img/heritage/61657/image24121.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

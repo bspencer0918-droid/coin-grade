@@ -8,21 +8,21 @@
   "ruler_rarity": null,
   "denomination": "AR Tetradrachm",
   "metal": "silver",
-  "sale_count": 1432,
-  "realized_count": 1428,
+  "sale_count": 1433,
+  "realized_count": 1429,
   "fixed_price_count": 2,
   "ngc_verified_count": 0,
   "price_range_usd": {
     "min": 75.0,
     "max": 292800.0
   },
-  "median_price_usd": 1950.0,
-  "last_sale_date": "2026-11-23",
+  "median_price_usd": 1980.0,
+  "last_sale_date": "2026-11-24",
   "grade_distribution": {
     "VF": 287,
     "XF": 398,
     "F": 32,
-    "AU": 504,
+    "AU": 505,
     "P": 1,
     "AG": 1,
     "MS": 184,
@@ -50,7 +50,7 @@
       "currency_original": "USD",
       "price_original": 1300.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-23",
+      "sale_date": "2026-11-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -545,7 +545,7 @@
       "currency_original": "USD",
       "price_original": 1650.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-23",
+      "sale_date": "2026-11-24",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc119525a.jpg",
       "ngc": {
         "verified": false,
@@ -578,7 +578,7 @@
       "currency_original": "USD",
       "price_original": 2750.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-23",
+      "sale_date": "2026-11-24",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc101757a.jpg",
       "ngc": {
         "verified": false,
@@ -1150,6 +1150,39 @@
         "surface_score": 3,
         "details_grade": null,
         "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-3a1c43476863",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2842395&AucID=7438&Lot=24031&Val=33c9247241548eb61280d12bbd46bd33",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61657, Lot 24031 \u2014 Ancients\nPARTHIAN KINGDOM. Mithradates II (121-91 BC). AR tetradrachm (31mm, 15.93 gm, 1h). NGC AU\u2605 4/5 - 4/5, Fine Style, die shift. Seleucia on Tigris, ca. 120/119-109 BC. Diademed, draped bust of M",
+      "description": "Ancients\nPARTHIAN KINGDOM. Mithradates II (121-91 BC). AR tetradrachm (31mm, 15.93 gm, 1h). NGC AU\u2605 4/5 - 4/5, Fine Style, die shift. Seleucia on Tigris, ca. 120/119-109 BC. Diademed, draped bust of Mithradates II left, with short pointed beard, wearing loop earring, and torque ending in pellet / \u0392\u0391\u03a3\u0399\u039b\u0395\u03a9\u03a3 \u039cE\u0393\u0391\u039b\u039f\u03a5 \u0391\u03a1\u03a3-\u0391\u039a\u039f\u03a5 \u0395\u03a0\u0399\u03a6\u0391\u039d\u039f\u03a5\u03a3, archer (Arsaces I) seated right on omphalos, in Parthian dress, with bow in outstretched right hand; palm frond in right field, TY in exergue. Sellwood 24.4. Shore...",
+      "hammer_price_usd": 3600.0,
+      "currency_original": "USD",
+      "price_original": 3600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-23",
+      "image_url": "https://media.coinarchives.com/3a9196e581038f681f303a6bdffc199a/img/heritage/61657/image24031.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": 4,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": true,
         "certification_url": null,
         "grading_service": "ngc"
       },

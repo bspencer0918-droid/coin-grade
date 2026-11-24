@@ -8,19 +8,19 @@
   "ruler_rarity": null,
   "denomination": "AE 2",
   "metal": "unknown",
-  "sale_count": 3,
-  "realized_count": 3,
+  "sale_count": 4,
+  "realized_count": 4,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
-    "min": 54.0,
+    "min": 1.0,
     "max": 915.0
   },
-  "median_price_usd": 65.0,
-  "last_sale_date": "2026-08-16",
+  "median_price_usd": 59.5,
+  "last_sale_date": "2026-11-23",
   "grade_distribution": {
     "MS": 1,
-    "VF": 2
+    "VF": 3
   },
   "thumbnail_url": "https://dyn1.heritagestatic.com/ha?p=3-2-5-2-5-32525363&w=120&h=300&it=product",
   "median_weight_g": null,
@@ -52,6 +52,39 @@
         "grade_numeric": 4,
         "strike_score": 4,
         "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-c2d0476362bc",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/14219/ancients-roman-imperial/12621828/arcadius-eastern-roman-empire-ad",
+      "title": "Arcadius, Eastern Roman Empire (AD 383-408). AE2 (24mm, 12h). NGC Choice VF. Cyzicus, 2nd officina, AD 383. DN ARCAD-IVS PF AVG, pearl-diademed, draped, and cuirassed bust of Arcadius right, holding spear in right hand, shield in left; being crowned by the hand of God above / GLORIA RO-MANOR VM, emperor standing facing, head left, grounded standard in right hand, resting left hand on shield, captive sitting facing to left, head right; SMKB star in exergue. RIC IX 15 (mintmark unlisted).  From the Bernard Gonze Collection.   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61657']",
+      "hammer_price_usd": 1.0,
+      "currency_original": "USD",
+      "price_original": 1.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-23",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AV Dinar",
   "metal": "gold",
-  "sale_count": 258,
-  "realized_count": 258,
+  "sale_count": 259,
+  "realized_count": 259,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,11 +17,11 @@
     "max": 19200.0
   },
   "median_price_usd": 4440.0,
-  "last_sale_date": "2026-11-23",
+  "last_sale_date": "2026-11-24",
   "grade_distribution": {
     "MS": 78,
     "AU": 135,
-    "VF": 7,
+    "VF": 8,
     "XF": 36,
     "G": 1,
     "F": 1
@@ -47,7 +47,7 @@
       "currency_original": "USD",
       "price_original": 1800.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-23",
+      "sale_date": "2026-11-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -80,7 +80,7 @@
       "currency_original": "USD",
       "price_original": 3750.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-23",
+      "sale_date": "2026-11-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -113,7 +113,7 @@
       "currency_original": "USD",
       "price_original": 1900.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-23",
+      "sale_date": "2026-11-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -146,7 +146,7 @@
       "currency_original": "USD",
       "price_original": 1300.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-23",
+      "sale_date": "2026-11-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -179,7 +179,7 @@
       "currency_original": "USD",
       "price_original": 1200.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-23",
+      "sale_date": "2026-11-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -212,7 +212,7 @@
       "currency_original": "USD",
       "price_original": 1400.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-23",
+      "sale_date": "2026-11-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -245,7 +245,7 @@
       "currency_original": "USD",
       "price_original": 1250.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-23",
+      "sale_date": "2026-11-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -278,7 +278,7 @@
       "currency_original": "USD",
       "price_original": 2000.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-23",
+      "sale_date": "2026-11-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -311,7 +311,7 @@
       "currency_original": "USD",
       "price_original": 1300.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-23",
+      "sale_date": "2026-11-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -344,7 +344,7 @@
       "currency_original": "USD",
       "price_original": 1400.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-23",
+      "sale_date": "2026-11-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -377,7 +377,7 @@
       "currency_original": "USD",
       "price_original": 1300.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-23",
+      "sale_date": "2026-11-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -410,7 +410,7 @@
       "currency_original": "USD",
       "price_original": 2250.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-23",
+      "sale_date": "2026-11-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -443,7 +443,7 @@
       "currency_original": "USD",
       "price_original": 5500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-23",
+      "sale_date": "2026-11-24",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -911,6 +911,39 @@
         "verified": false,
         "cert_number": null,
         "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-b20e694666c7",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2842422&AucID=7438&Lot=24058&Val=7224e080d6ee5deb0f7d2cbd528b482f",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61657, Lot 24058 \u2014 Ancients\nSASANIAN KINGDOM. Shahpur (Sabuhr) II (AD 309-379). AV dinar (22mm, 7.19 gm, 2h). NGC Choice VF 5/5 - 3/5, edge bend, edge scuffs. Bust of Shapur II right, wearing mural crown with korymbos /",
+      "description": "Ancients\nSASANIAN KINGDOM. Shahpur (Sabuhr) II (AD 309-379). AV dinar (22mm, 7.19 gm, 2h). NGC Choice VF 5/5 - 3/5, edge bend, edge scuffs. Bust of Shapur II right, wearing mural crown with korymbos / Large flaming fire altar with ribbon flanked by two attendants turned inward with raised sword in both hands, each wearing a mural crown with korymbos, ribbon and bucranium mintmarks flanking flames. Sunrise 825 var. (mint).\n\nFrom the Bernard Gonze Collection.\n\nShahpur II (alternatively Sabuhr) r...",
+      "hammer_price_usd": 3200.0,
+      "currency_original": "USD",
+      "price_original": 3200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-23",
+      "image_url": "https://media.coinarchives.com/070422837996891c0189a8975013b764/img/heritage/61657/image24058.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 3,
