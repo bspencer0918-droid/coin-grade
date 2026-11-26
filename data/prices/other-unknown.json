@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "unknown",
-  "sale_count": 1765,
-  "realized_count": 1724,
+  "sale_count": 1767,
+  "realized_count": 1726,
   "fixed_price_count": 1,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,16 +17,16 @@
     "max": 312000.0
   },
   "median_price_usd": 600.0,
-  "last_sale_date": "2026-11-25",
+  "last_sale_date": "2026-11-26",
   "grade_distribution": {
     "XF": 250,
     "MS": 585,
     "P": 42,
-    "VF": 368,
+    "VF": 369,
     "AU": 353,
     "F": 110,
     "AG": 2,
-    "G": 44,
+    "G": 45,
     "VG": 11
   },
   "thumbnail_url": "https://media.coinarchives.com/93d22a8fb63e0f01110048bf5008a893/img/heritage/61667/image23177.jpg",
@@ -4396,6 +4396,39 @@
       }
     },
     {
+      "id": "sixbid-e6d0421f5067",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/14259/draped-bust-cent/12664908/1800-draped-bust-cent-s-206",
+      "title": "1800 Draped Bust Cent. S-206, B-27. Rarity-3. VF-35 (PCGS). <br> Breen Die State II. Dominant medium olive-brown patina with traces of tan-gold in the protected areas, the latter revealing where mint color was last to fade. Swirls of crimson color in the left obverse and right reverse field areas are associated with light surface scale, which is ancient, inactive, and constitute the only singularly mentionable detraction. Otherwise smooth in hand with pleasingly bold detail overall despite some softness at the upper right obverse and right reverse peripheries. Our offerings for this Sheldon number in recent years have been exclusively for low grade and/or impaired pieces; this PCGS VF-35 is a noteworthy exception that will catch the eye of astute early copper enthusiasts. <br> From the Bryan C. Tipton Collection. <br> PCGS# 1449. NGC ID: 2248.",
+      "description": "Stack\u2019s Bowers and Ponterio | ['The November 2026 Showcase Auction']",
+      "hammer_price_usd": 1700.0,
+      "currency_original": "USD",
+      "price_original": 1700.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 35,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "pcgs"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "sixbid-ad56db954726",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -8224,6 +8257,39 @@
       }
     },
     {
+      "id": "sixbid-9093940f1ade",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/stacks-bowers-and-ponterio/14259/american-indian-peace-medals/12662951/1837-martin-van-buren-indian",
+      "title": "1837 Martin Van Buren Indian Peace Medal. Silver. Second Size. Julian IP-18, Prucha-44. AU-55 (NGC). <br> 62.4 mm. 93.75 grams. Neatly pierced for suspension at 12 o'clock, as issued, with what appears to be the original U.S. Mint loop. A most handsome medal with pleasing medium gray obverse surfaces accented by light gold and blue, especially toward the rims. The reverse is somewhat lighter gray overall with traces of similar color. A very aesthetically pleasing medal though upon closer inspection in carries the many small markers of an issued and worn medal. There are no serious or particularly distracting flaws though ancient hairlines are evident under the toning. Nice detail throughout as suggested by the NGC grade.<p>Though 112 of the second-size Van Buren medals are believed to have been struck, the number of survivors is considerably smaller. There are 13 or 14 known (one is questionable as a silver original). Carl Carlson found 12 auction appearances of this size in silver in his 1986 study, yet the Ford Collection remarkably yielded only a single example, this one, which seems to have been off the market since. Four of the known medals are in institutional collections. <br> Ex W.W.C. Wilson; Wayte Raymond's sale of the Wilson Collection, November 1925, lot 961; F.C.C. Boyd; John J. Ford, Jr.; our sale of the John J. Ford, Jr. Collection, Part XVI, lot 134. <br> Handsome Second Size Van Buren Peace Medal <br> Ex W.W.C. Wilson, 1925</p>",
+      "description": "Stack\u2019s Bowers and Ponterio | ['The November 2026 Showcase Auction']",
+      "hammer_price_usd": 15000.0,
+      "currency_original": "USD",
+      "price_original": 15000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "sixbid-d9db77020501",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -8993,7 +9059,7 @@
       "currency_original": "USD",
       "price_original": 285.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-25",
+      "sale_date": "2026-11-26",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc118389a.jpg",
       "ngc": {
         "verified": false,

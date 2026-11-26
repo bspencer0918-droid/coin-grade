@@ -17,7 +17,7 @@
     "max": 114000.0
   },
   "median_price_usd": 16200.0,
-  "last_sale_date": "2026-11-25",
+  "last_sale_date": "2026-11-26",
   "grade_distribution": {
     "VF": 17,
     "AU": 35,
@@ -47,7 +47,7 @@
       "currency_original": "USD",
       "price_original": 120.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-25",
+      "sale_date": "2026-11-26",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -235,39 +235,6 @@
       }
     },
     {
-      "id": "sixbid-d557df75306a",
-      "source": "sixbid",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/14200/ancients-greek/12602854/ancients-ptolemaic-egypt-ptolemy",
-      "title": "Ancients <br> PTOLEMAIC EGYPT. Ptolemy IV Philopator (222-205/204 BC). AE triobol (33mm, 11h). NGC Choice Fine. Alexandria, probably before 220/219 BC. Head of Zeus right, wearing taenia with basileion above forehead and horn of Ammon; dotted border / \u03a0TO\u039bEMAIOY-BA\u03a3I\u039bE\u03a9\u03a3, eagle with closed wings standing left on thunderbolt; filleted cornucopia before, \u039b\u0399 between legs, dotted border. CPE B494.  From the Khanum Jan Collection   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
-      "description": "Heritage Auctions, Inc. | ['Auction #61670']",
-      "hammer_price_usd": 74.0,
-      "currency_original": "USD",
-      "price_original": 74.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-11-16",
-      "image_url": null,
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "F",
-        "grade_numeric": null,
-        "strike_score": null,
-        "surface_score": null,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": null,
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "hjb-27b03af57c10",
       "source": "hjb",
       "listing_type": "fixed_price",
@@ -278,7 +245,7 @@
       "currency_original": "USD",
       "price_original": 18500.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-25",
+      "sale_date": "2026-11-26",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc107707a.jpg",
       "ngc": {
         "verified": false,
@@ -327,6 +294,39 @@
       },
       "metadata": {
         "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-d557df75306a",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/heritage-auctions-inc/14200/ancients-greek/12602854/ancients-ptolemaic-egypt-ptolemy",
+      "title": "Ancients <br> PTOLEMAIC EGYPT. Ptolemy IV Philopator (222-205/204 BC). AE triobol (33mm, 11h). NGC Choice Fine. Alexandria, probably before 220/219 BC. Head of Zeus right, wearing taenia with basileion above forehead and horn of Ammon; dotted border / \u03a0TO\u039bEMAIOY-BA\u03a3I\u039bE\u03a9\u03a3, eagle with closed wings standing left on thunderbolt; filleted cornucopia before, \u039b\u0399 between legs, dotted border. CPE B494.  From the Khanum Jan Collection   HID05401242017  \u00a9 2026 Heritage Auctions | All Rights Reserved www.HA.com/TexasAuctioneerLicenseNotice",
+      "description": "Heritage Auctions, Inc. | ['Auction #61670']",
+      "hammer_price_usd": 74.0,
+      "currency_original": "USD",
+      "price_original": 74.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-16",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "F",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,
