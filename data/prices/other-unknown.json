@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "unknown",
-  "sale_count": 1767,
-  "realized_count": 1726,
+  "sale_count": 1769,
+  "realized_count": 1728,
   "fixed_price_count": 1,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,13 +17,13 @@
     "max": 312000.0
   },
   "median_price_usd": 600.0,
-  "last_sale_date": "2026-11-26",
+  "last_sale_date": "2026-11-27",
   "grade_distribution": {
     "XF": 250,
     "MS": 585,
     "P": 42,
     "VF": 369,
-    "AU": 353,
+    "AU": 355,
     "F": 110,
     "AG": 2,
     "G": 45,
@@ -8818,6 +8818,72 @@
       }
     },
     {
+      "id": "sixbid-9c9e974938a9",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/numismatica-ars-classica-milano/14236/romania/12636161/romania-regno-di-romania-principe",
+      "title": "ROMANIA Regno di Romania Principe Carol I (1866-1881)  <br> 5 Lei 1881 Bucharest, AR. 24,98 g. Principe di Romania. Davenport 272. KM 12. <br> Migliore di Spl <br> (ex slab NGC AU58 2796239-073). <br>Auction Pegasus, giugno 2018.",
+      "description": "Numismatica Ars Classica, Milano | ['Asta 176']",
+      "hammer_price_usd": 563.35,
+      "currency_original": "USD",
+      "price_original": 563.35,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-25",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "2796239-073",
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/2796239073/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-edd5a26d3d6f",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/numismatica-ars-classica-milano/14236/romania/12636162/romania-regno-di-romania-re",
+      "title": "ROMANIA Regno di Romania Re Carol I (1881-1914)  <br> 5 Lei 1881 Bucharest, AR. 24,96 g.  Re di Romania. Davenport 273. KM 16. <br> Migliore di Spl <br> (ex slab NGC AU58 2773145-017). <br>Auction Pegasus, giugno 2018.",
+      "description": "Numismatica Ars Classica, Milano | ['Asta 176']",
+      "hammer_price_usd": 788.69,
+      "currency_original": "USD",
+      "price_original": 788.69,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-25",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": "2773145-017",
+        "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": "https://www.ngccoin.com/certlookup/2773145017/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "sixbid-aa2d47db3748",
       "source": "sixbid",
       "listing_type": "auction_realized",
@@ -9059,7 +9125,7 @@
       "currency_original": "USD",
       "price_original": 285.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-26",
+      "sale_date": "2026-11-27",
       "image_url": "https://images.hjbltd.com/ancient-coins/cc118389a.jpg",
       "ngc": {
         "verified": false,

@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "bronze",
-  "sale_count": 270,
-  "realized_count": 270,
+  "sale_count": 271,
+  "realized_count": 271,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,12 +17,12 @@
     "max": 189860.44
   },
   "median_price_usd": 1860.48,
-  "last_sale_date": "2026-11-26",
+  "last_sale_date": "2026-11-27",
   "grade_distribution": {
     "VF": 54,
     "AU": 77,
     "F": 14,
-    "XF": 78,
+    "XF": 79,
     "MS": 37,
     "P": 2,
     "G": 1,
@@ -50,7 +50,7 @@
       "currency_original": "USD",
       "price_original": 275.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-26",
+      "sale_date": "2026-11-27",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -83,7 +83,7 @@
       "currency_original": "USD",
       "price_original": 650.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-26",
+      "sale_date": "2026-11-27",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -116,7 +116,7 @@
       "currency_original": "USD",
       "price_original": 180.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-26",
+      "sale_date": "2026-11-27",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -149,7 +149,7 @@
       "currency_original": "USD",
       "price_original": 800.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-26",
+      "sale_date": "2026-11-27",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -182,7 +182,7 @@
       "currency_original": "USD",
       "price_original": 160.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-26",
+      "sale_date": "2026-11-27",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -215,7 +215,7 @@
       "currency_original": "USD",
       "price_original": 250.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-26",
+      "sale_date": "2026-11-27",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -248,7 +248,7 @@
       "currency_original": "USD",
       "price_original": 140.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-26",
+      "sale_date": "2026-11-27",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -281,7 +281,7 @@
       "currency_original": "USD",
       "price_original": 140.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-26",
+      "sale_date": "2026-11-27",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -314,7 +314,7 @@
       "currency_original": "USD",
       "price_original": 120.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-26",
+      "sale_date": "2026-11-27",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -518,6 +518,39 @@
         "verified": false,
         "cert_number": null,
         "grade": "AU",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-98c5411b23e0",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/soler-llach/14238/ancient-greece/12637356/greek-coins-tetradracma-cistoforico",
+      "title": "GREEK COINS <br> <b>Tetradracma cistof\u00f3rico</b>. <b>133-67 a.C</b>. <b>P\u00c9RGAMO</b>. <b>Encapsulada por NGC XF (n. 852765-003)</b>. Anv.: Cista m\u00edstica conteniendo serpiente, rodeada de corona de hiedra. Rev.: Carcaj entre dos serpientes, a derecha antorcha, a izquierda monogramas. AR. <br> Se-3947 var. <b>EBC-.</b>",
+      "description": "Soler y Llach S.L. | ['Auction 1142']",
+      "hammer_price_usd": 169.0,
+      "currency_original": "USD",
+      "price_original": 169.005,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-24",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,

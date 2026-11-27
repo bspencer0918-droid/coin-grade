@@ -8,8 +8,8 @@
   "ruler_rarity": "scarce",
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 124,
-  "realized_count": 124,
+  "sale_count": 125,
+  "realized_count": 125,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,10 +17,10 @@
     "max": 10800.0
   },
   "median_price_usd": 1200.0,
-  "last_sale_date": "2026-09-11",
+  "last_sale_date": "2026-11-21",
   "grade_distribution": {
     "XF": 27,
-    "VF": 41,
+    "VF": 42,
     "F": 31,
     "P": 1,
     "AU": 12,
@@ -57,6 +57,39 @@
         "grade_numeric": null,
         "strike_score": 4,
         "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "sixbid-2d9b73c39ef6",
+      "source": "sixbid",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.sixbid.com/en/coinsee/14257/roman-empire/12656191/roman-empire-rome-ar-denarius",
+      "title": "Roman Empire (Rome) AR Denarius - Otho (January-April AD 69) - NGC VF<br><p>A lovely specimen with beautiful details and attractive natural olive-green patina. </p><p>Obv.: Bare head of Otho right; \u201cIMP OTHO CAESAR AVG TR P\u201d. </p><p>Rev.: Securitas standing facing, head to left, holding wreath and long scepter; \u201cSECV-RI-TAS P R\u201d. </p><p>RIC I 10; RSC 15; BMCRE 19. </p><p><br></p>",
+      "description": "Coins.ee O\u00dc | ['Auction 73']",
+      "hammer_price_usd": 450.68,
+      "currency_original": "USD",
+      "price_original": 450.68,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-21",
+      "image_url": null,
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
