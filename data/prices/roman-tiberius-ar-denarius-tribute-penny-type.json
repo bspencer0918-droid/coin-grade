@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AR Denarius",
   "metal": "silver",
-  "sale_count": 681,
-  "realized_count": 681,
+  "sale_count": 682,
+  "realized_count": 682,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -17,12 +17,12 @@
     "max": 18600.0
   },
   "median_price_usd": 660.0,
-  "last_sale_date": "2026-11-08",
+  "last_sale_date": "2026-11-15",
   "grade_distribution": {
     "AU": 167,
     "XF": 213,
     "MS": 18,
-    "VF": 203,
+    "VF": 204,
     "F": 77,
     "VG": 3
   },
@@ -155,6 +155,39 @@
         "grade_numeric": 4,
         "strike_score": 4,
         "surface_score": 3,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-022f95fa9050",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2855148&AucID=7475&Lot=694&Val=81a274c12c9625434a3e83574a853ee1",
+      "title": "Portuscalle Numismatica - Auction 41, Lot 694 \u2014 Certified Ancients\nThe Roman Empire\nTiberius, 14-37. AR Plated Denarius ancient forgery. Lugdunum, group 1, circa 15-18. TI CAESAR DIVI AVG F AVGVSTVS Laureate head of Tiberius to right. Rev. PONTIF M",
+      "description": "Certified Ancients\nThe Roman Empire\nTiberius, 14-37. AR Plated Denarius ancient forgery. Lugdunum, group 1, circa 15-18. TI CAESAR DIVI AVG F AVGVSTVS Laureate head of Tiberius to right. Rev. PONTIF MAXIM Livia (as Pax) seated right on a chair with plain legs set on low base, holding scepter in her right hand and olive branch in her left. Cohen 16. RIC 26. NGC Ch VF, core visible.\n\nStarting price: 250 EUR...",
+      "hammer_price_usd": 270.0,
+      "currency_original": "EUR",
+      "price_original": 250.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-15",
+      "image_url": "https://media.coinarchives.com/d924ee372226bc522943651a2af23280/img/portuscalle/041/image00694.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

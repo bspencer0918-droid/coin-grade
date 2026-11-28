@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "AV Aureus",
   "metal": "gold",
-  "sale_count": 143,
-  "realized_count": 143,
+  "sale_count": 145,
+  "realized_count": 145,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -19,9 +19,9 @@
   "median_price_usd": 5520.0,
   "last_sale_date": "2026-11-18",
   "grade_distribution": {
-    "G": 1,
+    "G": 2,
     "P": 1,
-    "VF": 34,
+    "VF": 35,
     "AU": 46,
     "XF": 24,
     "F": 25,
@@ -138,6 +138,39 @@
       }
     },
     {
+      "id": "coinarchives-d134417d1e79",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2809646&AucID=7317&Lot=51&Val=457e1740c34d2d23efe2361a6e3f7d04",
+      "title": "Stephen Album Rare Coins - Auction 56, Lot 51 \u2014 ROMAN EMPIRE: Tiberius, 14-37 AD, AV aureus (7.59g), Lugdunum, RIC-29, laureate head right, TI CAESAR DIVI AVG F AVGVSTVS // Livia, as Pax, seated right, holding branch and inverted spear, single line",
+      "description": "ROMAN EMPIRE: Tiberius, 14-37 AD, AV aureus (7.59g), Lugdunum, RIC-29, laureate head right, TI CAESAR DIVI AVG F AVGVSTVS // Livia, as Pax, seated right, holding branch and inverted spear, single line below chair, PONTIF MAXIM, graffiti on obverse, Strike 5/5, Surface 2/5, NGC graded Fine.\n\nEstimate: 1500-2000 USD...",
+      "hammer_price_usd": 4250.0,
+      "currency_original": "USD",
+      "price_original": 4250.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-17",
+      "image_url": "https://media.coinarchives.com/70831dc7712a59e2ca234d3dc64481f2/img/album/056/image00051.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "G",
+        "grade_numeric": null,
+        "strike_score": 5,
+        "surface_score": 2,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-5b8d54e1ecbd",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -223,6 +256,39 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-31ebc4cc548f",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801828&AucID=7287&Lot=34129&Val=05c0eaf573efb842b2a005a5741e8713",
+      "title": "Heritage World Coin Auctions - ANA Signature Sale 3135, Lot 34129 \u2014 Ancients\nTiberius (AD 14-37). AV aureus (19mm, 7.42 gm, 11h). NGC VF 5/5 - 3/5, brushed. Lugdunum, ca. AD 14-17. TI CAESAR DIVI-AVG F AVGVSTVS, laureate head of Tiberius right / PONTIF-MAXIM, Livia, a",
+      "description": "Ancients\nTiberius (AD 14-37). AV aureus (19mm, 7.42 gm, 11h). NGC VF 5/5 - 3/5, brushed. Lugdunum, ca. AD 14-17. TI CAESAR DIVI-AVG F AVGVSTVS, laureate head of Tiberius right / PONTIF-MAXIM, Livia, as Pax, seated right, olive branch in outstretched left hand, grounded scepter in right, feet on stool; chair with ornate legs, single line below. Calic\u00f3 305b. RIC I 29 corr. (as 27).  www.HA.com/TexasAuctioneerLicenseNotice\n\nhttps://coins.ha.com/itm/ancients/roman-imperial/roman-imperial-tiberius-...",
+      "hammer_price_usd": 4600.0,
+      "currency_original": "USD",
+      "price_original": 4600.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": "https://media.coinarchives.com/e4d2bf1bb843ad89b76aff026a3ce1cf/img/heritage/3135/image34129.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "VF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 3,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

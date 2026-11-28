@@ -20,15 +20,15 @@
   "last_sale_date": "2026-11-18",
   "grade_distribution": {
     "AU": 21,
-    "MS": 28,
     "P": 3,
+    "MS": 28,
     "G": 2,
     "VF": 6,
     "XF": 5,
     "F": 4,
     "VG": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/cadac9df059e13153cea8f1a304780ca/img/heritage/3135/image33064.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/61b9737fc3203fb4bed93d5892c425cc/img/nac/170/image00244.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 4,
@@ -72,39 +72,6 @@
       }
     },
     {
-      "id": "coinarchives-c11cfa81b607",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801677&AucID=7287&Lot=33064&Val=9769d09e0c78702b00c45459c0dde964",
-      "title": "Heritage World Coin Auctions - ANA Signature Sale 3135, Lot 33064 \u2014 Ancients\nSeptimius Severus (AD 193-211). AV aureus (20mm, 7.24 gm, 1h). NGC MS 5/5 - 4/5. Rome, AD 210. SEVERVS - PIVS AVG, laureate head of Septimius Severus right / P M TR P - XVIII COS III P P, Vic",
-      "description": "Ancients\nSeptimius Severus (AD 193-211). AV aureus (20mm, 7.24 gm, 1h). NGC MS 5/5 - 4/5. Rome, AD 210. SEVERVS - PIVS AVG, laureate head of Septimius Severus right / P M TR P - XVIII COS III P P, Victory advancing right, trophy over left shoulder, leading small male figure with right. Calic\u00f3 2517 (child). RIC IV.I 237 (captive). Vibrant luster with shadows of coppery cabinet toning throughout the fields.\n\nSelections from the Montblanc Collection. Ex Numismatica Genevensis, Auction 20 (9 Decem...",
-      "hammer_price_usd": 24000.0,
-      "currency_original": "USD",
-      "price_original": 24000.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-09-01",
-      "image_url": "https://media.coinarchives.com/cadac9df059e13153cea8f1a304780ca/img/heritage/3135/image33064.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-f057f7fe5d4b",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -127,6 +94,39 @@
         "details_grade": null,
         "fine_style": false,
         "certification_url": "https://www.ngccoin.com/certlookup/8769673001/",
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-c11cfa81b607",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2801677&AucID=7287&Lot=33064&Val=9769d09e0c78702b00c45459c0dde964",
+      "title": "Heritage World Coin Auctions - ANA Signature Sale 3135, Lot 33064 \u2014 Ancients\nSeptimius Severus (AD 193-211). AV aureus (20mm, 7.24 gm, 1h). NGC MS 5/5 - 4/5. Rome, AD 210. SEVERVS - PIVS AVG, laureate head of Septimius Severus right / P M TR P - XVIII COS III P P, Vic",
+      "description": "Ancients\nSeptimius Severus (AD 193-211). AV aureus (20mm, 7.24 gm, 1h). NGC MS 5/5 - 4/5. Rome, AD 210. SEVERVS - PIVS AVG, laureate head of Septimius Severus right / P M TR P - XVIII COS III P P, Victory advancing right, trophy over left shoulder, leading small male figure with right. Calic\u00f3 2517 (child). RIC IV.I 237 (captive). Vibrant luster with shadows of coppery cabinet toning throughout the fields.\n\nSelections from the Montblanc Collection. Ex Numismatica Genevensis, Auction 20 (9 Decem...",
+      "hammer_price_usd": 24000.0,
+      "currency_original": "USD",
+      "price_original": 24000.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-09-01",
+      "image_url": "https://media.coinarchives.com/cadac9df059e13153cea8f1a304780ca/img/heritage/3135/image33064.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
         "grading_service": "ngc"
       },
       "metadata": {

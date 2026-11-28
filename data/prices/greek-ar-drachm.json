@@ -17,7 +17,7 @@
     "max": 40800.0
   },
   "median_price_usd": 170.0,
-  "last_sale_date": "2026-11-27",
+  "last_sale_date": "2026-11-28",
   "grade_distribution": {
     "XF": 237,
     "AU": 327,
@@ -49,7 +49,7 @@
       "currency_original": "USD",
       "price_original": 1600.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-27",
+      "sale_date": "2026-11-28",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -82,7 +82,7 @@
       "currency_original": "USD",
       "price_original": 1100.0,
       "buyers_premium_included": false,
-      "sale_date": "2026-11-27",
+      "sale_date": "2026-11-28",
       "image_url": null,
       "ngc": {
         "verified": false,
@@ -1227,6 +1227,39 @@
       }
     },
     {
+      "id": "coinarchives-bb59c1423a2e",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2842398&AucID=7438&Lot=24034&Val=f11b742357d13ebe63452ceb86447d25",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61657, Lot 24034 \u2014 Ancients\nPARTHIAN KINGDOM. Mithradates III (ca. 87-80 BC). AR drachm (19mm, 4.12 gm, 12h). NGC AU 5/5 - 4/5. Ecbatana. Diademed, draped bust of Mithradates III left, wearing tiara with ear flap, adorn",
+      "description": "Ancients\nPARTHIAN KINGDOM. Mithradates III (ca. 87-80 BC). AR drachm (19mm, 4.12 gm, 12h). NGC AU 5/5 - 4/5. Ecbatana. Diademed, draped bust of Mithradates III left, wearing tiara with ear flap, adorned with eight-rayed star, and torque ending in pellet / BA\u03a3I\u039bE\u03a9\u03a3 / \u03a0E\u0393A\u039bOY / AP\u03a3-AKOY / \u03a6I\u039bO\u03a0ATOPO\u03a3 / AYTOKPATO\u03a3-E\u03a0\u0399\u03a6ANO\u03a3 / \u03a6I\u039bE\u039b\u039bHNO\u03a3, archer (Arsakes I) enthroned right, in Parthian dress, with bow in outstretched right hand. Sunrise 308. Shore 123 (Orodes I). Sellwood 31.6 (Orodes I). The holde...",
+      "hammer_price_usd": 340.0,
+      "currency_original": "USD",
+      "price_original": 340.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-23",
+      "image_url": "https://media.coinarchives.com/7006b69d00a0762df4b8cfc26b2438db/img/heritage/61657/image24034.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "AU",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
       "id": "coinarchives-981a3384df71",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -1477,39 +1510,6 @@
         "grade_numeric": 5,
         "strike_score": 5,
         "surface_score": 3,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
-      "id": "coinarchives-bb59c1423a2e",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2842398&AucID=7438&Lot=24034&Val=f11b742357d13ebe63452ceb86447d25",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61657, Lot 24034 \u2014 Ancients\nPARTHIAN KINGDOM. Mithradates III (ca. 87-80 BC). AR drachm (19mm, 4.12 gm, 12h). NGC AU 5/5 - 4/5. Ecbatana. Diademed, draped bust of Mithradates III left, wearing tiara with ear flap, adorn",
-      "description": "Ancients\nPARTHIAN KINGDOM. Mithradates III (ca. 87-80 BC). AR drachm (19mm, 4.12 gm, 12h). NGC AU 5/5 - 4/5. Ecbatana. Diademed, draped bust of Mithradates III left, wearing tiara with ear flap, adorned with eight-rayed star, and torque ending in pellet / BA\u03a3I\u039bE\u03a9\u03a3 / \u03a0E\u0393A\u039bOY / AP\u03a3-AKOY / \u03a6I\u039bO\u03a0ATOPO\u03a3 / AYTOKPATO\u03a3-E\u03a0\u0399\u03a6ANO\u03a3 / \u03a6I\u039bE\u039b\u039bHNO\u03a3, archer (Arsakes I) enthroned right, in Parthian dress, with bow in outstretched right hand. Sunrise 308. Shore 123 (Orodes I). Sellwood 31.6 (Orodes I). The holde...",
-      "hammer_price_usd": 340.0,
-      "currency_original": "USD",
-      "price_original": 340.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-11-23",
-      "image_url": "https://media.coinarchives.com/7006b69d00a0762df4b8cfc26b2438db/img/heritage/61657/image24034.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "AU",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,

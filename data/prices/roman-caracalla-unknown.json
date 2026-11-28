@@ -8,8 +8,8 @@
   "ruler_rarity": null,
   "denomination": "Unknown",
   "metal": "silver",
-  "sale_count": 130,
-  "realized_count": 130,
+  "sale_count": 131,
+  "realized_count": 131,
   "fixed_price_count": 0,
   "ngc_verified_count": 0,
   "price_range_usd": {
@@ -19,14 +19,14 @@
   "median_price_usd": 180.0,
   "last_sale_date": "2026-11-08",
   "grade_distribution": {
-    "XF": 44,
+    "XF": 45,
     "F": 17,
     "AU": 28,
     "VF": 36,
     "MS": 4,
     "VG": 1
   },
-  "thumbnail_url": "https://media.coinarchives.com/a87dcc798025dcbde4969d9614bb7398/img/heritage/61667/image23127.jpg",
+  "thumbnail_url": "https://media.coinarchives.com/64e9ef3d7da04f65ef9a80438820eb27/img/heritage/61667/image23119.jpg",
   "median_weight_g": null,
   "top_strike_score": 5,
   "top_surface_score": 3,
@@ -129,6 +129,39 @@
       },
       "metadata": {
         "mint": null,
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-35d31eec3d5d",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2836293&AucID=7412&Lot=23119&Val=7b09c49c34d4429a44fffb1418482dba",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61667, Lot 23119 \u2014 Ancients\nCaracalla, as Augustus (AD 198-217). AR antoninianus (25mm, 6h). NGC Choice XF. Rome, AD 215. ANTONINVS-PIVS AVG GERM, radiate, draped, cuirassed bust of Caracalla right, seen from front / P ",
+      "description": "Ancients\nCaracalla, as Augustus (AD 198-217). AR antoninianus (25mm, 6h). NGC Choice XF. Rome, AD 215. ANTONINVS-PIVS AVG GERM, radiate, draped, cuirassed bust of Caracalla right, seen from front / P M TR P XVIII COS IIII P P, Jupiter standing right, nude save for chlamys draped across left shoulder, thunderbolt in lowered right hand, grounded scepter in left hand. RIC IV.I 258a.\n\nBorn in Lugdunum in AD 188, while his father was serving as governor of Gaul, Lucius Septimius Bassianus started o...",
+      "hammer_price_usd": 200.0,
+      "currency_original": "USD",
+      "price_original": 200.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-08",
+      "image_url": "https://media.coinarchives.com/64e9ef3d7da04f65ef9a80438820eb27/img/heritage/61667/image23119.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": null,
+        "strike_score": null,
+        "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
         "weight_g": null,
         "diameter_mm": null,
         "obverse_desc": null,

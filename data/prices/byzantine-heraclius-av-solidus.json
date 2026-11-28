@@ -532,39 +532,6 @@
       }
     },
     {
-      "id": "coinarchives-cc2750278218",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2768026&AucID=7180&Lot=22051&Val=d17fa8b5e149df29197c9d1358131575",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61633, Lot 22051 \u2014 Ancients\nHeraclius with Heraclius Constantine (AD 613-641). AV solidus (20mm, 4.37 gm, 7h). NGC MS 5/5 - 4/5, clipped. Constantinople, 10th officina, ca. AD 629-631. dd NN h\u0404RACLI\u0427S \u0404T h\u0404RA CONST PP A",
-      "description": "Ancients\nHeraclius with Heraclius Constantine (AD 613-641). AV solidus (20mm, 4.37 gm, 7h). NGC MS 5/5 - 4/5, clipped. Constantinople, 10th officina, ca. AD 629-631. dd NN h\u0404RACLI\u0427S \u0404T h\u0404RA CONST PP AVG, facing busts of Heraclius (on left) wearing long mustache and beard, and Heraclius Constantine (on right) wearing short mustache and beard, each wearing simple crown and chlamys; cross above between them / VICTORIA-AV\u03da\u0427 I, cross potent on three steps; CONOB below. Sear 749.\n\nEx Bolaffi, Auctio...",
-      "hammer_price_usd": 1300.0,
-      "currency_original": "USD",
-      "price_original": 1300.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-07-05",
-      "image_url": "https://media.coinarchives.com/ce074640c13585c8dd4f01fbf27ba588/img/heritage/61633/image22051.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "MS",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": "Clipped",
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-9aaf808a115d",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -816,6 +783,39 @@
         "strike_score": 5,
         "surface_score": 4,
         "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-cc2750278218",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2768026&AucID=7180&Lot=22051&Val=d17fa8b5e149df29197c9d1358131575",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61633, Lot 22051 \u2014 Ancients\nHeraclius with Heraclius Constantine (AD 613-641). AV solidus (20mm, 4.37 gm, 7h). NGC MS 5/5 - 4/5, clipped. Constantinople, 10th officina, ca. AD 629-631. dd NN h\u0404RACLI\u0427S \u0404T h\u0404RA CONST PP A",
+      "description": "Ancients\nHeraclius with Heraclius Constantine (AD 613-641). AV solidus (20mm, 4.37 gm, 7h). NGC MS 5/5 - 4/5, clipped. Constantinople, 10th officina, ca. AD 629-631. dd NN h\u0404RACLI\u0427S \u0404T h\u0404RA CONST PP AVG, facing busts of Heraclius (on left) wearing long mustache and beard, and Heraclius Constantine (on right) wearing short mustache and beard, each wearing simple crown and chlamys; cross above between them / VICTORIA-AV\u03da\u0427 I, cross potent on three steps; CONOB below. Sear 749.\n\nEx Bolaffi, Auctio...",
+      "hammer_price_usd": 1300.0,
+      "currency_original": "USD",
+      "price_original": 1300.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-07-05",
+      "image_url": "https://media.coinarchives.com/ce074640c13585c8dd4f01fbf27ba588/img/heritage/61633/image22051.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "MS",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
+        "details_grade": "Clipped",
         "fine_style": false,
         "certification_url": null,
         "grading_service": "ngc"

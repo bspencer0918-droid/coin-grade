@@ -2513,39 +2513,6 @@
       }
     },
     {
-      "id": "coinarchives-f1d8729ec68d",
-      "source": "coinarchives",
-      "listing_type": "auction_realized",
-      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2842545&AucID=7437&Lot=22046&Val=7dfa6d5464cf059980124d8535b53057",
-      "title": "Heritage World Coin Auctions - Showcase Auction 61672, Lot 22046 \u2014 Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AR drachm (18mm, 4.40 gm, 11h). NGC Choice XF 5/5 - 4/5. Posthumous issue, Colophon, ca. 310-301 BC. Head of Heracles right, wearing ",
-      "description": "Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AR drachm (18mm, 4.40 gm, 11h). NGC Choice XF 5/5 - 4/5. Posthumous issue, Colophon, ca. 310-301 BC. Head of Heracles right, wearing lion skin headdress, paws tied before neck / A\u039bE\u039eAN\u0394POY, Zeus seated left on backless throne, right leg drawn back, feet on stool, eagle in outstretched right hand, grounded scepter in left; KA monogram in left field, crescent below strut. Price 1825. Well-centered strike with crisp depictions hig...",
-      "hammer_price_usd": 700.0,
-      "currency_original": "USD",
-      "price_original": 700.0,
-      "buyers_premium_included": false,
-      "sale_date": "2026-11-22",
-      "image_url": "https://media.coinarchives.com/b065f4ec70026c5b5b252bf2069fa7a1/img/heritage/61672/image22046.jpg",
-      "ngc": {
-        "verified": false,
-        "cert_number": null,
-        "grade": "XF",
-        "grade_numeric": 5,
-        "strike_score": 5,
-        "surface_score": 4,
-        "details_grade": null,
-        "fine_style": false,
-        "certification_url": null,
-        "grading_service": "ngc"
-      },
-      "metadata": {
-        "mint": "",
-        "weight_g": null,
-        "diameter_mm": null,
-        "obverse_desc": null,
-        "reverse_desc": null
-      }
-    },
-    {
       "id": "coinarchives-e4d7eb1dde61",
       "source": "coinarchives",
       "listing_type": "auction_realized",
@@ -2598,6 +2565,39 @@
         "grade_numeric": null,
         "strike_score": null,
         "surface_score": null,
+        "details_grade": null,
+        "fine_style": false,
+        "certification_url": null,
+        "grading_service": "ngc"
+      },
+      "metadata": {
+        "mint": "",
+        "weight_g": null,
+        "diameter_mm": null,
+        "obverse_desc": null,
+        "reverse_desc": null
+      }
+    },
+    {
+      "id": "coinarchives-f1d8729ec68d",
+      "source": "coinarchives",
+      "listing_type": "auction_realized",
+      "lot_url": "https://www.coinarchives.com/a/lotviewer.php?LotID=2842545&AucID=7437&Lot=22046&Val=7dfa6d5464cf059980124d8535b53057",
+      "title": "Heritage World Coin Auctions - Showcase Auction 61672, Lot 22046 \u2014 Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AR drachm (18mm, 4.40 gm, 11h). NGC Choice XF 5/5 - 4/5. Posthumous issue, Colophon, ca. 310-301 BC. Head of Heracles right, wearing ",
+      "description": "Ancients\nMACEDONIAN KINGDOM. Alexander III the Great (336-323 BC). AR drachm (18mm, 4.40 gm, 11h). NGC Choice XF 5/5 - 4/5. Posthumous issue, Colophon, ca. 310-301 BC. Head of Heracles right, wearing lion skin headdress, paws tied before neck / A\u039bE\u039eAN\u0394POY, Zeus seated left on backless throne, right leg drawn back, feet on stool, eagle in outstretched right hand, grounded scepter in left; KA monogram in left field, crescent below strut. Price 1825. Well-centered strike with crisp depictions hig...",
+      "hammer_price_usd": 700.0,
+      "currency_original": "USD",
+      "price_original": 700.0,
+      "buyers_premium_included": false,
+      "sale_date": "2026-11-22",
+      "image_url": "https://media.coinarchives.com/b065f4ec70026c5b5b252bf2069fa7a1/img/heritage/61672/image22046.jpg",
+      "ngc": {
+        "verified": false,
+        "cert_number": null,
+        "grade": "XF",
+        "grade_numeric": 5,
+        "strike_score": 5,
+        "surface_score": 4,
         "details_grade": null,
         "fine_style": false,
         "certification_url": null,
